@@ -1,0 +1,1337 @@
+                                     TECTONICS, VOL. 31, TC4021, doi:10.1029/2011TC002988, 2012
+
+
+
+
+Geometry and kinematic evolution of a long-living foreland
+structure inferred from field data and cross section balancing,
+the Sainte-Victoire System, Provence, France
+Nicolas Espurt,1 Jean-Claude Hippolyte,1 Marianne Saillard,2 and Olivier Bellier1
+Received 11 July 2011; revised 7 June 2012; accepted 27 June 2012; published 15 August 2012.
+[1] The Sainte-Victoire System (SVS) is a key area to understand how the shortening
+is accommodated in outer foreland of the Pyrenean-Provence orogen between Late
+Cretaceous and Eocene. Structural data, growth strata and fault slip analysis, and four
+balanced cross sections are used to decipher the along-strike geometry, deformational
+characteristics and kinematics of the SVS. The SVS is divided into two structural
+domains separated by a regional relay zone: the eastern domain is governed by a N-vergent
+thin-skinned tectonic style above Triassic series and the western domain, by a mixed
+S-vergent thick- and thin-skinned tectonic style with tectonic inversion of Late
+Paleozoic-Triassic half grabens. Growth strata indicate that the eastern SVS grew during
+Danian as a result of shortening transfer from the southern Arc Basin. In contrast, the
+western SVS is an independent structure which has recorded the early stage (83 Ma)
+of shortening and focused continuous deformation during 40 Myr. The shallow N-S
+shortening is 5 km (25%) and 8 km (34%) in the western and eastern SVS,
+respectively. At a regional scale, the tectonic inversion of the SVS and the Arc Basin
+recorded a deep shortening of the order of 15–18 km (34%). Although the shortening
+magnitude of the SVS remains small, other structures similar to the SVS were
+synchronously active across foreland basin, suggesting a significant amount of cumulated
+shortening. This outer foreland shortening may account for a non-negligible amount
+of deformation at the Pyrenean-Provence orogen scale.
+Citation: Espurt, N., J.-C. Hippolyte, M. Saillard, and O. Bellier (2012), Geometry and kinematic evolution of a long-living
+foreland structure inferred from field data and cross section balancing, the Sainte-Victoire System, Provence, France, Tectonics,
+31, TC4021, doi:10.1029/2011TC002988.
+
+
+1. Introduction                                                            Hain et al., 2011]. The orientation of the inherited normal
+                                                                           faults, respectively to the strike of subsequent shortening,
+  [2] The tectono-sedimentary evolution of fold-and-thrust
+                                                                           and the expulsion of the thick initial sedimentary cover may
+belts can be influenced by foreland structural inheritances                lead to the development of transverse structures [e.g.,
+[e.g., McClay and Buchanan, 1992; Coward, 1996; Roure
+                                                                           Marshak and Wilkerson, 1992; Macedo and Marshak,
+and Colletta, 1996; Butler et al., 2006; Mora et al., 2006].
+                                                                           1999]. When inversion geometries and compression direc-
+For example, inherited rift-related structures with basement
+                                                                           tion have been clearly identified, cross section balancing can
+normal faults may preferentially accommodate shortening in
+                                                                           be properly used to restore inverted basins to their initial
+the outer region of foreland in response to the far-field
+                                                                           stages and estimate the amount and rate of shortening
+transmission of orogenic stresses [Coward, 1996; Lacombe
+                                                                           [Coward, 1996].
+and Mouthereau, 2002; Hilley et al., 2005]. This outer
+                                                                             [3] The Late Cretaceous-Eocene Pyrenean foreland of
+foreland thick-skinned thrusting may record the early stage
+                                                                           Provence is composed of an array of multidirectional com-
+of shortening and leads to the formation of isolated uplift
+                                                                           pressional structures, oriented from N010 E to N120 E,
+zones and localized syntectonic depocenters [McClay, 1989;
+                                                                           with highly disparate space-time patterns of deformation and
+   1
+                                                                           sedimentation (Figure 1a). This structural framework reflects
+    Aix-Marseille Université,    CNRS, CEREGE UMR 7330, Aix-en-            basement and stratigraphic heterogeneities of the Eurasian
+Provence, France.
+   2
+    Géoazur, Université Nice     Sophia-Antipolis, Centre National de la
+                                                                           margin inherited from the Paleozoic and Mesozoic times
+Recherche Scientifique (UMR      7329), Observatoire de la Côte d’Azur,    [e.g., Tempier, 1987]. In this paper, we present the results of
+La Darse, Villefranche-sur-Mer   Cedex, France.                            a detailed fieldwork in the Sainte-Victoire System and
+   Corresponding author: N. Espurt, Aix-Marseille Université, CNRS,
+                                                                           adjacent Arc and Rians Basins located in the northern part of
+CEREGE UMR 7330, Technopôle Environnement Arbois-Méditerranée,             the Pyrenean foreland of Provence (Figure 1 and Figure 2).
+B.P. 80, FR-13545 Aix-en-Provence CEDEX 4, France. (espurt@cerege.fr)      The strong erosional level and weak vegetal coverage of the
+                                                                           study area provide an extremely good cross-sectional expo-
+©2012. American Geophysical Union. All Rights Reserved.
+0278-7407/12/2011TC002988                                                  sure of geological structures. Structural analysis benefits
+
+                                                                    TC4021                                                          1 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                     TC4021
+
+
+
+
+         Figure 1. (a) Physiographic map of the Pyrenean/Alpine foreland of Provence. The base map is pro-
+         duced using elevation data from NASA (National Aeronautics and Space Administration) 30 m ASTER
+         (Advanced Spaceborne Thermal Emission and Reflection Radiometer) GDEM (Global Digital Elevation
+         Model). Dashed black line shows the southeastern Alpine thrust front. Dashed areas correspond to the
+         basement rock of the Maures Massif and Tanneron. Location of Figure 2 is indicated by a black frame.
+         (b) Proposed lithospheric scale cross section across the Pyrenean belt of Provence and Corsica-Sardinia
+         block in the Eocene times (modified from Lacombe and Jolivet [2005]). A-A′ Provence segment of the
+         cross section is shown on Figure 1a (modified from Tempier [1987]). NF: Nîmes fault. SCF: Salon-Cavaillon
+         fault. AF: Aix-en-Provence fault. MDF: Middle Durance fault. SVS: Sainte-Victoire System. RB: Rians
+         Basin. AB: Arc Basin. SB: Sainte-Baume. CS: Cap Sicié.
+
+from outcrops of Mesozoic and Cenozoic deposits, and in         along-strike variations in terms of structural architecture and
+particular of Late Cretaceous to Paleocene growth strata        development of syntectonic sedimentary fills are still under
+accumulation [e.g., Leleu et al., 2005, 2009]. The precise      debate (Figure 2). Using regional balanced cross sections,
+study of the geometry, distribution and ages of growth strata   Tempier [1987] and Biberon [1988] suggested that the
+deposits is a key to understand the kinematics of folding and   Sainte-Victoire System corresponds to a N-vergent fault-
+faulting and the timing of deformation [e.g., Suppe et al.,     propagation fold detached above Triassic evaporites. The
+1992].                                                          S-vergent subordinate back-thrusts that propagate through
+  [4] The Sainte-Victoire System is a widespread dissected      the backlimb, would result in local flexure in the foreland.
+feature of Provence whose back thrust behavior and complex      Based on SPOT imagery and field data, Chorowicz et al.
+
+                                                           2 of 27
+TC4021                       ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                           TC4021
+
+
+
+
+         Figure 2. Geologic map of the study area based on field mapping (Sainte-Victoire System area) and pub-
+         lished map of BRGM (Aix-en-Provence and Pertuis 1:50 000 maps). Coordinate system is Lambert 2,
+         Paris system (meters). Locations of cross sections A, B, B′, C and D are shown (Figures 4, 8, and 14).
+         Black circles with numbers correspond to depth (km bsl) of the basement rock-sedimentary cover interface
+         inferred from geophysical data [Biberon, 1988]. WSVA: western Sainte-Victoire anticline. ESVA: eastern
+         Sainte-Victoire anticline. SA: Sambuc anticline. AFS: Aix fault system. LAFS1 (lower alluvial fan system
+         1), LAFS2 (lower alluvial fan system 2), and UAFS (upper alluvial fan system) in the sense of Leleu et al. [2005].
+
+[1989] interpreted the structure as associated with the struc-     structure corresponds to a recent horst bounded by sub-
+tural inversion of “en échelon” Early Jurassic normal faults.      vertical faults.
+On the basis of sand-box analog models, Roure and Colletta           [5] On the basis of structural data, growth strata and fault
+[1996] interpret the structure as a thin-skinned “pop-up”          slip analysis, and the construction of a series of four bal-
+structure within the sedimentary cover, which would                anced and restored cross sections, this paper aims at deci-
+accommodate thick-skinned inversion of a deep Permian              phering the structural architecture, temporal distribution
+basin localized below the Arc Basin. More recently, Ricour         and propagation of the deformation of the Sainte-Victoire
+et al. [2005] speculated that the Sainte-Victoire Mountain         System, and syntectonic sedimentary filling of the adjacent
+                                                                   Arc and Rians Basins during Late Cretaceous to Eocene
+
+                                                              3 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                      TC4021
+
+Pyrenean compression. The results yield new insights into         Regagnas Mountain, an ESE-trending antiformal structure
+the role of inherited basement structures on the general          cored by a thick package of Late Jurassic limestones. The
+interpretation of the kinematic evolution of the Pyrenean         northern flank of the syncline, is shorter and steeper than the
+foreland thrust system of Provence during the collision           southern flank and bounded by the Sainte-Victoire System.
+between Eurasia and the Corsica-Sardinia block (Figure 1b).       In the core of the syncline, the Cengle Plateau is character-
+                                                                  ized by flat-lying Paleocene-Eocene strata (Figure 2).
+2. Geological Setting                                             2.1.2. Sainte-Victoire System
+                                                                    [10] The Sainte-Victoire System is an E-trending 25 km-
+  [6] The Provence region is located in southeastern France       long, 7 km-wide structure (Figure 2). The thrust system has
+at the transition between the Pyrenees and Alps belts             significant along-strike variations, and can be divided into
+(Figure 1a). The Provence structural framework results from       two oppositely verging domains: the western and the eastern
+two superimposed contractional periods: Late Cretaceous to        Sainte-Victoire System [e.g., Chorowicz et al., 1989; Roure
+Eocene corresponding to the Pyrenean compression [e.g.,           and Colletta, 1996]. The western Sainte-Victoire System is
+Lacombe and Jolivet, 2005] and Miocene to present                 an overall antiformal structure mainly constituted by Jurassic
+corresponding to the Alpine compression [e.g., Bergerat,          rocks (1500 m), and a thinner Cretaceous cover (500 m),
+1987; Champion et al., 2000]. These two compressional             overthrusted southwards on top of the Arc syncline. The
+periods are separated by an Oligocene extensional period          basal thrust of the Sainte-Victoire System is a curve-shaped
+with N- and NE-trending structures related to the West            feature which branches westward into the Reynauds, Costes
+European rifting, then to the Liguro-Provencal rifting of the     Chaudes and Roques Hautes imbricate units. The western
+western Mediterranean [Hippolyte et al., 1993; Gattacceca         outcrops of this system are strongly eroded (Bibémus Pla-
+et al., 2007].                                                    teau) and unconformably overlain by Miocene marine series.
+  [7] E- to SE-trending folds and thrusts (e.g., Nerthe,          The eastern Sainte-Victoire System consists of two “en
+Alpilles, Costes, Trévaresse, Lubéron, Ventoux-Lure, Con-         echelon” anticlines mainly constituted by Jurassic rocks: the
+cors, Vautubière, Sainte-Victoire Mountain, Etoile, Olympe/       eastern Sainte-Victoire and Sambuc anticlines (Figure 2),
+Aurélien, Sainte-Baume structures) and regional NNE-              characterized by N-vergent thrusting toward the Rians Basin
+trending strike-slip faults (e.g., Nîmes, Salon-Cavaillon,        [Chorowicz et al., 1989].
+Aix-en-Provence, Middle Durance faults) form the Pyrenean         2.1.3. Rians and Kyerié Basins
+fold-and-thrust belt of Provence (Figure 1a) [Tempier and           [11] The northern flank of the Sainte-Victoire System is
+Durand, 1981], and result from the northward subduction           characterized by SE-trending structures. The Rians Basin is
+of the Valais slab and the collision between the Corsica-         a 10 km-long, 6 km-wide syncline (Figure 2). It is over-
+Sardinia block and Eurasia during Late Cretaceous to              thrusted by the Vautubière Mountain anticline to the north-
+Eocene (Figure 1b) [Arthaud and Seguret, 1981; Lacombe            east and the Sambuc anticline to the south. It is formed by
+and Jolivet, 2005; Schettino and Turco, 2011]. These              Early Cretaceous to Paleocene series which are covered by
+structures are commonly interpreted to be inherited from          gently tilted thin (100 m) Miocene marine series. The
+post-Hercynian and Triassic to Late Jurassic rifting associ-      Kyerié Basin is a small syncline located between the SW-
+ated with the opening of the Tethys Ocean, and during Early       verging Concors thrust anticline and the western Sainte-
+Cretaceous rifting of the Valais Ocean related to the opening     Victoire System, and is formed by Early Cretaceous series.
+of the central Atlantic Ocean [Graciansky and Lemoine,            The western terminations of the Keyrié syncline and Concors
+1988; Schettino and Turco, 2011]. Some Pyrenean struc-            anticline as well as the Sainte-Victoire System are cut by the
+tures have been reactivated during E- and SE-trending Oli-        Aix-en-Provence fault [Rousset, 1978; Guignard et al., 2005]
+gocene extensional periods (Nîmes, Middle Durance and             and buried below Oligocene series of the Aix-en-Provence
+Aix-en-Provence faults) and N- to NE-trending Miocene to          Basin (Figures 1a and 2).
+present-day Alpine compression (e.g., Ventoux-Lure, Lubéron
+and Trévaresse thrusts, and Nîmes, Salon-Cavaillon, Middle        2.2. Stratigraphic Succession and Geological Evolution
+Durance faults; Figure 1a) [Baroux et al., 2003; Guignard         of the Sainte-Victoire System Area
+et al., 2005; Chardon and Bellier, 2003; Terrier et al., 2008;      [12] Metamorphic and igneous rocks constitute the Her-
+Molliex et al., 2011].                                            cynian basement of the Provence that crop outs in the
+2.1. Structures of the Study Area                                 Maures and Tanneron Massifs (Figure 1a). In the study area,
+                                                                  basement rocks are reached in the Jouques exploration well
+  [8] The study area belongs to the eastern Provence area,        (Figures 2 and 3). Basement rocks are unconformably over-
+east of the Middle Durance/Aix-en-Provence fault system,          lain by Late Carboniferous to Permian volcanoclastic series,
+and north of the Etoile-Aurélien thrust systems (Figure 1a). It   deposited during the rifting of Gondwana [Delfaud et al.,
+comprises three major tectonic units briefly described here-      1989]. In the western side of the Maures Massifs, thickness
+after: the southern Arc Basin, the central Sainte-Victoire        of these strata reaches more than 1000 m [Cassini et al.,
+System, and the northern Rians and Kyerié Basins (Figure 2).      2003]. Although there is no surface or well evidences for
+2.1.1. Arc Basin                                                  Paleozoic sedimentary sequences in the study area, geo-
+  [9] The Arc Basin is a large E-trending 30 km-long,             physical data suggest Late Paleozoic (Permian?) sequences
+15 km-wide syncline (Figure 2). It consists predominantly of      beneath the Concors structure and western Arc syncline
+3 km-thick Upper Cretaceous continental sediments                [Biberon, 1988; Roure and Colletta, 1996]. The overlying
+accumulated on top of Jurassic series and locally covered by      Mesozoic to Quaternary sedimentary pile can be divided into
+Cenozoic sediments. The syncline is asymmetric, with a            five structural packages: (1) Triassic to Early Cretaceous
+long gently dipping southern flank, bounded in the south by       rifting sequences, (2) Late Cretaceous to Eocene Pyrenean
+
+                                                             4 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                    TC4021
+
+
+
+
+         Figure 3. (a) Stratigraphic and lithotectonic sedimentary sections across the Rians Basin, Sainte-Victoire
+         System and Arc Basin. Unconformities are shown by a snake symbol. Décollements are shown by red
+         arrows. (b) Stratigraphic chart of the Late Cretaceous to Cenozoic series in the northwestern part of the
+         Arc Basin. These series pinchout on deformed and overturned Mesozoic series of the western Sainte-
+         Victoire System and correspond to syntectonic breccia deposits with growth strata pattern labeled
+         LAFS1 (lower alluvial fan system 1), LAFS2 (lower alluvial fan system 2), and UAFS (upper alluvial
+         fan system) in the sense of Leleu et al. [2005].
+
+foreland, (3) Oligocene syn-rift deposits, (4) Miocene Alpine    500 m-thick of Triassic red sandstones, shales and eva-
+marine/continental sequences and (5) Quaternary continental      porites, which unconformably overlain the Hercynian
+sequences. The lithostratigraphic units are summarized in        metamorphic basement (Figure 3a). In the Sainte-Victoire
+Figure 3, and described hereafter.                               System, the oldest rocks that crop out correspond to the
+2.2.1. Triassic to Early Cretaceous Rifting Sequences            Rhaetian rocks that can be observed along the Bimont Lake,
+  [13] Triassic deposits are poorly exposed in the study area.   in the core of the Sainte-Victoire Mountain structure
+In the northern Rians syncline, the Jouques well crosses         (Figure 2). These outcrops consist of 50 m-thick black to
+
+                                                            5 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                    TC4021
+
+green shales. Liassic series correspond to 300 m of brec-      Campanian red fluvial siltstones with interbedded thick
+cias, marine limestones and black shales in the western         amalgamated sandstone beds (formerly known as “lower
+Sainte-Victoire System (Bimont lake). Eastward, these series    Rognacian” local stage), Maastrichtian basal lacustrine
+are reduced to 150 m in thickness and lack of breccia          limestones and red fluvial siltstones with minor interbedded
+deposits (Figure 2). Middle Jurassic series correspond to       sandstone beds (formerly known as “upper Rognacian” local
+300 m and locally more than 400 m-thick marine black           stage) (Figures 2 and 3b). Late Cretaceous series of the Arc
+shales and limestones. Late Jurassic series correspond to       Basin are conformably overlain by the “Galante Formation”
+marine limestones, characterized by strong thickness and        of uppermost Maastrichtian. Cretaceous-Cenozoic boundary
+facies changes. In the Arc Basin and Sainte-Victoire            is located inside the “Galante Formation” (Figure 3b)
+Mountain, these series are more than 1300 m-thick and           [Cojan, 1993]. This formation, developed around the Cengle
+topped by massive Tithonian limestones with a reefal facies     Plateau (Figure 2), consists of a lower pseudo-gley paleosols
+[Tempier, 1972] (Figures 2 and 3a). Westward, the thickness     sequence [Cojan, 1989] and 5–10 m-thick upper fluvial
+of the series decreases to 450 m, and shows thin Tithonian     conglomerates made of well-rounded pebbles of basement
+limestones with basinal facies, peculiarly in the Bimont Lake   quartzite, Mesozoic sandstone and limestone included in a
+(Figure 2) [Tempier, 1972]. Early Cretaceous series corre-      red sandy matrix. The pebbles are less than 30 cm in diam-
+spond to massive Berriasian marine limestones and Valan-        eter. Mesozoic carbonates could be locally derived while
+ginian yellow marine limestones and shales widely exposed       basement clasts are sourced from the Maures Massif in the
+on the southern flank of Sainte-Victoire Mountain, Rey-         east [Cojan, 1993] (Figure 1a). Cenozoic strata are mainly
+nauds unit, Kyerié syncline, Concors and northern Rians         exposed in the Cengle Plateau, Palette and eastern Rians
+Basin (Figure 2). Barremian to Aptian series are only           Basin areas (Figure 2). They correspond to lower Danian
+exposed in the southwestern Etoile thrust and consist of        lacustrine limestones and orange floodplain siltstones (for-
+marine limestones and shales (Figure 2).                        merly known as “Vitrollian” local stage) and upper Danian to
+  [14] Since Albian and until the beginning of the Late         Lutetian siltstones and lacustrine limestones. Near Sainte-
+Cretaceous, the southeastern Provence basin was uplifted        Victoire Mountain, gypsum and red clays are laterally
+and exposed above the sea level [Masse, 1976]. This uplift      equivalent to upper Danian and Lutetian lacustrine lime-
+episode, named the “Durance uplift,” separated the Alpine       stones (Figures 2 and 3b).
+Basin from the Mediterranean Basin and connected the              [16] Locally, foreland sequences of Arc and Rians Basins
+French Massif Central to the west, with the Maures Massif to    at the footwall of the Sainte-Victoire System mainly corre-
+the east (Figure 1a). The “Durance uplift” occurred during      spond to syntectonic breccias with centimetric to metric in
+sinistral transtension of the Iberian block along the North-    diameter clasts exclusively sourced from Late Jurassic and
+Pyrenean Fault associated with the opening of the central       Early Cretaceous series [Durand and Tempier, 1962; Corroy
+Atlantic Ocean [e.g., Schettino and Turco, 2011]. It is con-    et al., 1964; Angelier, 1971; Tempier and Durand, 1981;
+sidered to be controlled either by kilometric wide crustal      Chorowicz and Ruiz, 1984; Guieu et al., 1987] (Figure 3b).
+bend or by a local extensional regime with horsts and graben    These syntectonic breccias are organized in several stacked
+systems [Masse and Philip, 1976; Guyonnet-Benaize et al.,       alluvial fan systems [Leleu et al., 2005, 2009]. Two suc-
+2010]. Erosion of the uplifted zone was effective during        cessive alluvial fan systems have been distinguished: the
+the Late Cretaceous, mostly during the Cenomanian. Baux-        lower and upper alluvial fan systems (Figure 3b) [Leleu
+ites developed on the emerged zone (Regagnas Mountain,          et al., 2005]. The lower alluvial fan system is subdivided
+eastern Sainte-Victoire, Concors and Rians Basin) and were      into a lower subsystem (LAFS1) of middle Campanian age
+covered by foreland Santonian-Campanian sediments in the        and an upper subsystem (LAFS2) of upper Campanian-
+study area (Figure 2).                                          Maastrichtian age. LAFS1 and LAFS2 were formerly named
+2.2.2. Late Cretaceous to Eocene Pyrenean Foreland              “Begudian breccias” and “Rognacian breccias,” respec-
+and Syntectonic Sequences                                       tively. The upper alluvial fan system (UAFS) is Danian in
+  [15] In the Arc Basin, subsidence and foreland deposition     age, and overlies unconformably the previous sequences. It
+started in the uppermost Santonian in a marine environment      was formerly named “Tholonet breccias.”
+and evolved into a continental environment from the lower       2.2.3. Oligocene Syn-Rift Sequences
+Campanian to Eocene. In the Rians Basin, foreland sequen-         [17] During the Oligocene, E- to SE-trending extensional
+ces did not start until the upper Campanian (Figures 2 and      tectonic regimes related to the opening of the West European
+3a). The basal Santonian series of the Arc Basin correspond     rift, followed by the opening of the Liguro-Provençal back-
+to marine sandstones only exposed in Regagnas Mountain          arc basins between Provence and Corsica-Sardinia block,
+(Figure 2). Santonian series are truncated by an erosional      led to the reactivation of NNE-trending faults such as the
+unconformity at the base of the continental series of the Arc   Aix-en-Provence fault. This extension is associated with the
+Basin. The stratigraphy of the continental Late Cretaceous      deposition of lower thick fluvial conglomerates and shales
+sequence is well known owing to the presence of exceptional     and upper lacustrine limestones [Hippolyte et al., 1993]. In
+dinosaur eggshells and bones together with magnetostrati-       the study area, Oligocene deposits are mostly developed in
+graphic and biostratigraphic studies [Westphal and Durand,      the western Aix-en-Provence Basin and the southern Bouil-
+1990; Garcia and Vianey-Liaud, 2001; Cojan et al., 2003].       ladisse Basin (Figure 2).
+From bottom to top, the Late Cretaceous continental suc-        2.2.4. Miocene Alpine Foreland Sequences
+cession comprises: lower Campanian coal lacustrine and            [18] During the Miocene, the post-rift subsidence and the
+palustrine limestones (formerly known as “Valdonian-Fuve-       flexure of the Alpine foreland caused marine transgression
+lian” local stages), middle Campanian lacustrine and fluvial    accompanied by strong planar erosion of the study area
+deposits (formerly known as “Begudian” local stage); upper      (wave-cut platform). Miocene marine series unconformably
+
+                                                           6 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                       TC4021
+
+overlie the previous unit. These series correspond to Torto-      homoclinal section. The 50 N-dipping Concors thrust
+nian conglomerates, calcarenites and limestones [Besson,          cuts Early Cretaceous strata of the southern Ligourès anti-
+2005]. Tortonian strata are mostly exposed in the Bibemus         cline (Figure 4a). This fold is slightly asymmetric with a
+Plateau and western Rians Basin (Figures 2 and 3a).               10 N-dipping northern backlimb and a 13 S-dipping
+2.2.5. Quaternary Sequences                                       southern forelimb. To the south, the symmetric Keyrié syn-
+  [19] Present-day landscape of the study area also results       cline is transported southward above the Sainte-Victoire
+from prominent erosion during the Messinian sea level fall        System.
+[Clauzon et al., 2011] and Pleistocene glaciations. Pleistocene     [23] The western Sainte-Victoire System is associated
+deposits consist of staggered strips of torrential spreadings     with the broad widespread dissected Sainte-Victoire break-
+and periglacial alluvial deposits greatly developed along the     through fault-propagation fold (Figure 4a). Northward, the
+southern flank of Sainte-Victoire Mountain [Jorda and             hanging wall flat exhibits 30 –35 N-dipping Late Jurassic
+Provansal, 1992]. Recent alluvium deposits fill the incised       limestones which form the northern cliff of the Vauve-
+valley and the Arc Basin along the Arc River (Figure 2).          nargues valley (Figure 5a). Early Middle Jurassic shales
+                                                                  form the axial topographic depression of the Vauvenargues
+2.3. Décollement Levels                                           valley. West of cross section A, periodic fluctuations in the
+  [20] On the basis of mechanical stratigraphy, the main          water level of the Bimont Lake have resulted in lakeside
+décollement level of the Sainte-Victoire System lies at the       exposures of Liassic breccias and Rhaetian shales (Figure 2).
+base of the Rhaetian series (Figure 3a) [Biberon, 1988].          Southward, the hanging wall ramp consists in overturned
+Secondary shallower décollement levels are found in the           Late Jurassic strata of the Costes Chaudes crest, dipping
+Early Cretaceous limestones and shales, and at the base of        70 –80 northward (Figures 4a and 5). The core and back-
+the middle Campanian LAFS1 breccia sequences in the               limb of the fold are intensely sheared by S-vergent thrust
+Roques Hautes area (Figures 2 and 3b) [Chorowicz and              faults. The upper Bimont thrust dips 40 northward and
+Ruiz, 1984].                                                      emplaces Rhaetian rocks above the Reynauds unit. The
+                                                                  Reynauds unit corresponds to an overturned Late Jurassic-
+3. Structure                                                      Early Cretaceous stratigraphic section, dipping 70 –80
+                                                                  northward. The 30 N-dipping Reynauds thrust cuts through
+  [21] To constrain precisely the geometries of the Sainte-
+                                                                  prestructured Late Jurassic strata of the Costes Chaudes crest
+Victoire System and adjacent Arc and Rians Basins, we
+                                                                  (Figure 5a), suggesting an out-of-sequence thrusting [Ruiz
+realized mapping at 1:5 000 scale using orthophotos com-
+                                                                  Barragan, 1978; Chorowicz and Ruiz, 1984]. The displace-
+bined with several field surveys, and preexisting 1:50 000
+                                                                  ment generated along the Sainte-Victoire thrust was accom-
+BRGM (“Bureau de Recherches Géologique et Minière”)
+                                                                  modated by the rotation of the forelimb and footwall
+geologic maps of Aix-en-Provence [Catzigras et al., 1969]         imbrications of closely spaced thrusts involving middle
+and Pertuis [Arlhac et al., 1970] (Figure 2). The mapping
+                                                                  Campanian-Danian series (Figures 4a and 5b). Located on the
+provides information on the sedimentary series described
+                                                                  southern flank of the Sainte-Victoire anticline, the Roques
+above and summarized in Figure 3a, age-location of syn-
+                                                                  Hautes unit includes middle Campanian to Danian syntectonic
+tectonic deposits (Figure 3b), bedding attitude measurements
+                                                                  breccia deposits (Figure 6a; see also more details in Figure 7).
+(more than 800 measures) and traces of the faults and
+                                                                  The southern Roques Hautes structure corresponds to a
+thrusts. Exploratory wells and/or mine wells provide addi-
+                                                                  S-vergent fault-bend fold that exhibits a 60 N-dipping
+tional control on the depth of horizons and the thickness of
+                                                                  hanging wall flat at the base of the middle Campanian brec-
+the Late Cretaceous and Cenozoic sedimentary series
+                                                                  cias (Marble Ridge structural relief; Figures 5b and 7) of the
+through the Arc and Rians Basins (Figure 2). The following
+                                                                  LAFS1. These breccia deposits are overlain by upper
+structural description of the study area can be separated into    Campanian-Maastrichtian red marls and limestones that pro-
+two parts regard to the geological map and the four surface
+                                                                  gressively pass northward to breccia deposits of the LAFS2.
+cross sections which are presented here: (1) the western
+                                                                  Surface data show that breccia sequences of LAFS1 and
+domain where the structures are mainly characterized by a         2 pinchout northward onto the Costes Chaudes ridge, as
+southward vergence, and (2) the eastern domain with N-
+                                                                  described by Leleu et al. [2009] (Figure 6a). The dip of the
+vergent structures (Figure 2). We present two cross sections
+                                                                  Roques Hautes thrust was initially probably lower and was
+in the western domain and two in the eastern domain
+                                                                  back-tilted during the imbrication of the Harmelins folds
+(Figure 4). In the following, we will describe each cross
+                                                                  to the south. The structural frame of the Harmelins unit
+section from north to south.
+                                                                  consists in two “en-echelon” fault-propagation folds, both
+3.1. Western Sainte-Victoire System                               armed of Maastrichian limestones (Figure 2). Along cross
+                                                                  section A, the southern fold exhibits a breakthrough style
+3.1.1. Cross Section A
+                                                                  (Figure 7). The upper thrust places Maastrichtian limestones
+  [22] The northern segment of cross section A cuts through
+                                                                  onto S-dipping to overturned Danian breccias of the UAFS.
+the northwestern part of the Rians Basin (Figure 2). In this      In details, the breccia layers are strongly deformed by sub-
+zone, the basin geometry corresponds to a gently deformed
+                                                                  horizontal S-vergent thrust and back-thrusts, and are thrust to
+syncline of Early Cretaceous strata unconformably overlain
+                                                                  the south onto the Cenozoic strata of the Arc Basin (Cengle
+by marine Miocene series, and Quaternary alluvial deposits
+                                                                  Plateau) along the Sainte-Victoire thrust (Figures 6b and 7).
+of the Durance River. The northern limb of this syncline dips
+                                                                    [24] The Arc Basin located at the footwall of the western
+4 southward. Late Jurassic strata of the southern limb dip
+                                                                  Sainte-Victoire System corresponds to an asymmetrical
+16 northeastward and culminate in the Concors thrust.
+                                                                  syncline mainly formed by Late Cretaceous continental
+The Concors structure corresponds to a thrust-bounded
+                                                                  series. The core of the syncline is formed by subhorizontal
+
+                                                             7 of 27
+TC4021                    ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                TC4021
+
+
+
+
+         Figure 4. Surface cross sections across the western (A and B) and eastern Sainte-Victoire Systems
+         (C and D). For location, see Figure 2. Details of the Sainte-Victoire thrust systems are also shown.
+
+
+
+                                                       8 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                   TC4021
+
+
+
+
+         Figure 5. East-looking panoramic views of the western Sainte-Victoire System. (a) Detail of northern
+         thrust system in the Bimont lake area (cross section A; 858 908E, 1 843 000N). (b) Detail of the Roques
+         Hautes thrust system with Late Cretaceous syntectonic filling (858 670E, 1 842 000N). Foreground: trace
+         of cross section A across the Costes Chaudes ridge. Background: trace of cross section B′ across Sainte-
+         Victoire Mountain (Figure 8). Bedding traces are enhanced by white lines and faults traces by thick red
+         lines. For location, see Figures 4a and 4b.
+
+Cenozoic strata of the Cengle Plateau. These series are        Sainte-Victoire thrust. Using this assumption together with
+affected by minor fold and thrusts, possibly related to        field and subsurface data, cross section A shows that the
+transfer of shortening from the Sainte-Victoire System. The    western Arc syncline exhibits two superimposed and
+southern limb exhibits 5–10 N-dipping lower Campanian         opposed sedimentary wedge-shaped geometries (Late Cre-
+series, cut by the Regagnas Mountain S-dipping normal          taceous and Danian) (Figure 4a). The thickness of the Late
+fault. In the construction of cross section A, we assumed a    Cretaceous wedge decreases northward, from 1600 m in
+similar thickness of sedimentary series on both sides of the   Regagnas Mountain to less than 600 m in the footwall of
+
+                                                          9 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                        TC4021
+
+                                                                the Sainte-Victoire thrust. In contrast, the thickness of
+                                                                Danian wedge decreases southward, from 350 m to the north
+                                                                to 200 m to the south.
+                                                                3.1.2. Cross Section B
+                                                                  [25] Cross section B (Figure 4b) shows a similar structural
+                                                                geometry of the Rians syncline, Concors thrust and Ligourès
+                                                                anticline as in cross section A. However, the structure of the
+                                                                Sainte-Victoire System is characterized by a bi-vergence of
+                                                                the thrust systems [Chorowicz and Ruiz, 1984; Biberon,
+                                                                1988; Roure and Colletta, 1996]. The Kyerié syncline
+                                                                forms the footwall of the N-vergent Sambuc thrust. Near the
+                                                                eastern termination of the Concors anticline, the Sambuc
+                                                                thrust is linked with at least two branches. The southern
+                                                                Sambuc thrust dips 50 to the south and places 15 N-
+                                                                dipping Late Jurassic strata above 5 –10 N-dipping Early
+                                                                Cretaceous strata. The slip on the Sambuc thrust signifi-
+                                                                cantly increases eastward (Figures 2 and 4b), and Late
+                                                                Jurassic beds of the hanging progressively become over-
+                                                                turned (Sambuc Ridge). Southward, gently deformed N-
+                                                                dipping Jurassic strata form the hanging wall flat of the
+                                                                Sainte-Victoire fault-propagation fold. Southward, massive
+                                                                upper Jurassic reef limestones form the overturned forelimb
+                                                                of the Sainte-Victoire anticline (Figure 4b) [Tempier, 1972].
+                                                                Jurassic series of the hanging wall flat dip 18 northward
+Figure 6. (a) Growth stratal pattern in middle Campanian        along the Vauvenargues cliff and more steeply (40 ) in the
+breccia sequences (LAFS1) on the western edge of the            valley. As for cross section A, the core and overturned
+Costes Chaudes ridge, southern flank of the Sainte-Victoire     forelimb of the anticline were intensely folded and sheared
+anticline (west of section A; 858 255E, 1 842 295N).            by breakthrough branches of the Sainte-Victoire Mountain
+(b) Growth stratal pattern in Danian breccia sequences (UAFS)   thrust system. The core of the anticline is cut by the upper
+at the front of the Harmelins thrust (west of section A; 858    Bimont thrust. This thrust dips 45 –50 northward and
+319E, 1 841 044N). Bedding traces are enhanced by thin          emplaces Liassic rocks over overturned Middle Jurassic
+white lines and faults traces by thick red lines.               strata. Southward, the Sainte-Victoire thrust splits into at least
+                                                                two branches. The upper branch cuts the 60 –70 N-dipping
+
+
+
+
+         Figure 7. Polyphased faulting in the growth strata deposits of the Roques Hautes area and detail of cross
+         section A. Site 1 is located in the middle Campanian breccias (LAFS1). N-dipping breccia layers are cut
+         by post-tilt strike-slip faults indicating NNW-trending compression. Site 2 is located in the Danian brec-
+         cias (UAFS). S-dipping breccia layers are cut by strike-slip and reverse faults indicating NNE-trending
+         compression. Fault data are projected in an equal area stereogram, lower hemisphere. Principal stress axes
+         (s1, s2, and s3) are symbolized by red five-branch, yellow four-branch, and blue three-branch stars,
+         respectively. Trend of s1 is shown. Dashed line corresponds to the projection of bedding dip in the
+         stereogram.
+
+                                                          10 of 27
+TC4021                       ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                      TC4021
+
+
+
+
+         Figure 8. Syn-Danian growth strata compression at the front of Sainte-Victoire Mountain. (a) Detail of
+         cross section B′. For location, see Figure 2. (b) Site 4 shows deformed reverse and strike-slip faults indi-
+         cating similar NNE-trending compression synchronous to the sedimentation of the Danian UAFS. Note
+         that one strike-slip fault is post-tilting. Fault data are projected in an equal area stereogram, lower hemi-
+         sphere. Principal stress axes (s1, s2, and s3) are symbolized by red five-branch, yellow four-branch,
+         and blue three-branch stars, respectively. Trend of s1 is shown. Dashed line corresponds to the projection
+         of bedding dip in the stereogram.
+
+overturned forelimb of the Sainte-Victoire anticline, and          Based on field evidence, cross section B shows a thickness
+emplaces middle Campanian breccias (LAFS1) over strongly           decrease of the Late Cretaceous wedge, from 1600 m in
+sheared Maastrichtian series (Figure 4b). More southward,          Regagnas Mountain to less than 450 m toward the Sainte-
+the lower branch emplaces intensively sheared syntectonic          Victoire thrust. Besides, the overlying Danian wedge thins
+Danian deposits (UAFS) over Selandian evaporites and clays         northward, from 140 m to the south, to less than 50 m to the
+(Figure 4b; see also cross section B′ in Figure 8a). Dis-          north.
+placement above these thrusts significantly decreases in the
+transport direction. Currently, the overturned forelimb of
+the Sainte-Victoire anticline shows large-scale E-trending
+subvertical faults. These structures correspond to N-vergent
+thrusts that have been rotated to an overturned position
+during the emplacement of the Sainte-Victoire anticline
+(Figure 9). Initially, these thrusts propagated northward
+through the central Sainte-Victoire backlimb, probably as a
+result of flexural slip or frictional resistance associated with
+fault slip [Mitra, 2002].
+  [26] As for cross section A, the Arc Basin corresponds to
+an asymmetrical syncline mainly formed by the Late Creta-
+ceous and cored by Cenozoic series of the Cengle Plateau
+(Figure 4b). In contrast with cross section A, the syncline is
+characterized by a steep to overturned northern limb
+intensely deformed by the S-vergent Sainte-Victoire thrust.
+The southern limb of the syncline dips 10 northward and
+shows minor faulting and internal folding within Campanian         Figure 9. Overturned N-vergent thrust in the southern
+series. Southward, Late Jurassic limestones, unconformably         flank of Sainte-Victoire Mountain, between cross sections
+overlain by Santonian marine limestones and grainstones,           B and B′ (For location, see Figure 4b; 863 949E, 1 841
+form the crest of Regagnas Mountain. More southward,               726N). Currently, kinematic indicators measured along the
+these strata are cut by S-dipping normal faults of Regagnas        overturned thrust trace show normal faulting. Bedding traces
+Mountain (Figure 4b). Assuming similar thickness of sedi-          are enhanced by white lines. Fault data are projected in an
+mentary series on both sides of the Sainte-Victoire thrust, we     equal area stereogram, lower hemisphere. Dashed line corre-
+show that the foreland sedimentary package of the Arc Basin        sponds to the projection of hanging wall bedding dip in the
+exhibits a wedge-shaped geometry thinning northward.               stereogram.
+
+                                                             11 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                     TC4021
+
+3.2. Eastern Sainte-Victoire System                             propagation fold that is developed above the Sambuc thrust.
+3.2.1. Cross Section C                                          This thrust dips 22 southward and cuts Danian breccia
+  [27] Along cross section C (Figure 4c), the Rians Basin is    strata of the Rians Basin (Figure 4d). The core of the fold is
+composed of sub-horizontal Early Cretaceous strata uncon-       formed by Liassic shales. The hanging wall ramp consists in
+formably overlain by Miocene marine deposits. Southward,        overturned Middle and Late Jurassic strata dipping 70 –80
+the cross section cuts the eastern termination of the Concors   southward. Beds in the southern backlimb of the anticline
+anticline lying between a northern narrow syncline filled by    are 55 to 30 S-dipping from the north to the south. The
+Maastrichtian continental sequences and the Sambuc thrust       Sambuc anticline backlimb pattern corresponds to an
+in the south. Here, the Concors anticline is asymmetric. Its    imbricate zone of three S-dipping thrust faults, duplicating
+tip line plunges southeastward below the Sainte-Victoire        Jurassic series.
+System. The northern limb dips 22 northward and more            [30] As shown in cross section C, the Arc Basin is trans-
+steeply (40 ) to the north while the southern limb dips 35   ported on the hanging wall of the Sainte-Victoire System
+southward. Southward, cross section C crosses the Sambuc        (Figures 4c and 4d). Here, the geometry of the Arc syncline is
+and the eastern Sainte-Victoire imbricated thrust anticlines.   almost symmetrical. The northern limb dips 16 southward
+The northern Sambuc structure corresponds to a fault-           and the southern limb dips 12 northward (Figures 4d
+propagation fold characterized by an overturned forelimb,       and 10b). Southward, Late Jurassic and Santonian series are
+dipping 50 southward and a 9 S-dipping backlimb. The          cut by the north vergent Olympe thrust (Figure 2). Late
+geometry of the backlimb has been complicated by S- and         Cretaceous lower red clays are exposed at the axis of the
+N-vergent small-scale disharmonic folds within Late Juras-      syncline. The exposed Late Cretaceous continental sequen-
+sic series. South of the Sambuc unit, the Sainte-Victoire       ces are 700 m-thick and no significant thickness variations
+structure is an upper breakthrough fault-propagation fold,      have been recognized. As for cross section C, Santonian
+emplaced along the lower Vauvenargues thrust (Figure 4c).       marine series pinchout toward the north while Early Creta-
+The hanging wall ramp consists in Middle to Late Jurassic       ceous series pinchout toward the south (Figures 4c and 4d).
+strata dipping 40 –45 northward. The core of the Sainte-
+Victoire anticline is formed by strongly sheared Liassic        4. Syntectonic Sedimentation
+sequences above the upper Vauvenargues thrust (Figure 4c).        [31] Growth strata provide a record of the timing of
+Jurassic beds of the southern hanging wall flat are vertical    deformation in foreland basins [e.g., Suppe et al., 1992;
+and form the highest crest of Sainte-Victoire Mountain          Meigs and Burbank, 1997]. Growth strata patterns are rec-
+(1011 masl). This crest is affected by NE-trending sub-         ognized within the Late Cretaceous-Danian alluvial fan
+vertical faults, that cut Late Jurassic and Early Cretaceous    systems on both flanks of the Sainte-Victoire System [e.g.,
+strata (Figures 4c and 10b).                                    Leleu et al., 2005, 2009, and references therein]. However,
+  [28] Cross section C shows that the Arc Basin was trans-      the syntectonic sedimentation shows that complex spatial
+ported northward on the hanging wall of the Sainte-Victoire     and temporal growth strata arrays may be related to several
+System (Figures 4c and 10b). The geometry of the Arc Basin      thrust pulses and along-strike deformation partitioning
+corresponds to an asymmetrical syncline. The southern limb      through Late Cretaceous to Cenozoic times. In the follow-
+forms a long homocline dipping 10 northward, where the        ing, we describe growth strata on both flanks of the Sainte-
+exposed Late Cretaceous continental sequences reach 1.2         Victoire System.
+km-thick to the south. Southward, the steeply dipping
+Regagnas Mountain normal fault affects Late Jurassic and        4.1. Southern Flank of the Sainte-Victoire System
+Santonian series. Located in the hanging wall of the lower        [32] Syntectonic deposits develop in the Roques Hautes
+Vauvenargues thrust, the northern limb of the Arc syncline is   and Sainte-Victoire Mountain thrust systems (Figure 2). As
+steeply dipping (80–85 ) southward and exposes Late Cre-       shown in cross section A (Figure 4a), middle Campanian to
+taceous continental sequences of 700 m in thickness            Maastrichtian coarse breccia deposits (attributed to LAFS1
+(Figures 4c and 10b). Santonian marine series pinchout          and LAFS2) of the inner Roques Hautes syncline exhibit
+toward the north while Early Cretaceous series pinchout         progressive stratal dip increase (from 0 to 85 S) and thin-
+toward the south. The core of the syncline is formed by         ning with intraformational unconformities toward the Costes
+uniformly thick Paleocene sequences of the Cengle Plateau.      Chaudes ridge (Figures 5b and 6a) [Leleu et al., 2009].
+3.2.2. Cross Section D                                          Preserved Danian growth strata deposits of the UAFS
+  [29] Along cross section D (Figure 4d), the eastern Rians     develop laterally to cross section A in the eastern Bau Roux
+Basin lies between the Vautubière and Sambuc thrusts            and western Zola areas [Leleu et al., 2009] (Figure 2). The
+(Figure 2). The S-vergent Vautubière thrust places Jurassic     progressive backlimb rotation of the western Sainte-Victoire
+rocks onto Early Cretaceous and foreland series of the Rians    anticline would be recorded from middle Campanian-
+Basin. Both seismic reflection data presented by Biberon        Maastrichtian until Danian times. However, the panoramic
+[1988] and field data show that the structure of the eastern    view of Figure 5b shows that the eastern tip of the Roques
+Rians Basin consists of S-dipping (3 ) thick Jurassic to      Hautes thrust is sealed by sub-horizontal series of the UAFS.
+Early Cretaceous limestones. An upper Campanian-Danian          This suggests that the Roques Hautes thrust was deactivated
+foreland continental package unconformably overlies Juras-      since Danian. Southward, the growth of the southern Har-
+sic to Early Cretaceous rocks and thins northward. The          melins anticline was recorded by the UAFS (Figure 6b).
+maximum thickness of these series is found near the Sambuc      Although deposits of the UAFS are intensively deformed,
+thrust, where they gently dip to the north. The Sambuc          growth strata geometry can be clearly recognized in the
+anticline corresponds to a main breakthrough fault-
+
+                                                          12 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                     TC4021
+
+
+
+
+         Figure 10. Panoramic views of the transition between the western and eastern Sainte-Victoire Systems.
+         (a) Bau de Vespres transverse structure and progressive back thrusting of the southern flank of Sainte-
+         Victoire Mountain (view looking to the west, 865 963E, 1 841 866N). Note growth strata in LAFS1 of
+         the Torque syncline. (b) Southern part of cross sections C and D across the eastern Sainte-Victoire System
+         (view looking to the east, 867 376E, 1 842 212N). Bedding traces are enhanced by white lines. For loca-
+         tion, see Figures 4c and 4d.
+
+
+                                                          13 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                    TC4021
+
+
+
+
+         Figure 11. Pyrenean directions of compression south of the Sainte-Victoire System. Site numbers are
+         shown by white squares. Black arrows: Fault site in growth strata. White arrows: Inferred Late Creta-
+         ceous-Eocene compression. Fault data and principal stress axes are also shown. Principal stress axes
+         (s1, s2, and s3) are symbolized by red five-branch, yellow four-branch, and blue three-branch stars,
+         respectively. Trend of s1 is shown. Data are projected in an equal area stereogram, lower hemisphere
+         (see Table 1). Dashed line corresponds to the projection of bedding dip in the stereogram. Site 1 has been
+         measured within middle Campanian growth strata of the LAFS1. Sites 2, 3, 4, 5, 6, 7, 18, 19, 20 have been
+         measured within Danian growth strata of the UAFS. Other sites are measured in lower Campanian to Lute-
+         tian sedimentary series. The mean direction of compression is N-trending with inner and outer fan-shaped
+         deviations (red lines). Major Oligocene normal faults (Aix, Meyreuil and Roques Hautes faults) and loca-
+         tion of Figure 12 and Figures 13a and 13b are also shown.
+
+UAFS, indicating thrusting activity at the leading edge of the   series to the east (eastern edge of the Cengle Plateau, cross
+Sainte-Victoire System at least since the Danian.                section C; Figures 2 and 4c). More eastward, the deforma-
+  [33] In cross sections B, similar observations are made        tion timing cannot be clearly defined because most of the
+along the southern flank of Sainte-Victoire Mountain. For        Late Cretaceous and Cenozoic foreland series were eroded.
+example, the eastern Torque syncline exhibits breccia layers     To sum up, middle Campanian (LAFS) and Danian (UAFS)
+of LAFS1 and LAFS2 intercalated with Maastrichtian               growth strata recorded the growth of the western S-vergent
+sandstones and red clays (Figure 10a). The dip of these strata   Sainte-Victoire System in the Arc Basin.
+increases progressively northward with decreasing thick-
+nesses, attesting for growth stratal pattern. LAFS1 and          4.2. Northern Flank of the Sainte-Victoire System
+LAFS2 growth strata have thus recorded the growth of the           [34] In the eastern Rians syncline, only the LAFS2 and the
+Torque syncline and the activity of the upper Sainte-Victoire    UAFS were deposited, and no record of the LAFS1 is found
+thrust during middle Campanian to Maastrichtian times. As        (Figure 2) [e.g., Leleu et al., 2009]. LAFS2 strata uncon-
+shown on panoramic views of Figures 5b and 10a, and cross        formably overlie Hauterivian marine deposits near the
+sections B (Figure 4b), the activity of the lower Sainte-        southern thrust front of Vautubière Mountain (Figure 2).
+Victoire thrust was recorded by growth strata of the UAFS.       Breccia layers exhibit growth strata geometry, suggesting
+Although UAFS growth strata overlie Maastrichtian series to      that the growth of the Vautubière anticline was active during
+the west, they are progressively intercalated within Danian      upper Campanian-Maastrichtian period. The northern flank
+
+                                                           14 of 27
+TC4021                       ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                       TC4021
+
+                                                                   and to determine the chronology of successive deformational
+                                                                   events in case of complex structures [e.g., Angelier, 1990;
+                                                                   Hippolyte et al., 2012]. Fault slip analysis presented in this
+                                                                   study was carried out to constrain the structural evolution of
+                                                                   the Sainte-Victoire System. In the frame of the polyphase
+                                                                   tectonic evolution of Provence, many models were sug-
+                                                                   gested to explain this outstanding structure (see chapter 1 for
+                                                                   references). Therefore, a detailed fault slip analysis is nec-
+                                                                   essary to unravel the possible complex origin of the Sainte-
+                                                                   Victoire System and to determine the direction to be con-
+                                                                   sidered for correctly restoring cross sections.
+                                                                     [36] The fault slip analysis is based on the assumption that
+                                                                   slickenside lineations on a fault plane indicate both the
+                                                                   direction and sense of maximum resolved shear stress on
+                                                                   fault plane. If the stress state is known, one can derive the
+                                                                   shear stress orientation (slip vector) on any fault plane. By
+                                                                   measuring the slip directions of fault planes of various
+                                                                   orientations, one can solve the inverse problem and deter-
+                                                                   mine an average stress tensor [e.g., Carey and Brunier,
+                                                                   1974; Angelier et al., 1982]. Variations in stress regimes
+                                                                   through time can be stratigraphically dated by reconstructing
+                                                                   paleostresses at different stratigraphic levels. Furthermore,
+                                                                   the fault slip analysis in growth strata deposits provides a
+                                                                   direct dating of the paleostresses and allows to relate large
+                                                                   scale structures to this dated stress regime. To achieve that,
+                                                                   fault slips predating and postdating the synsedimentary
+                                                                   deformation have to be recognized [Hippolyte et al., 1992].
+                                                                   Although some paleostress studies have already been done
+                                                                   in the Sainte-Victoire System area and Arc Basin [Gaviglio,
+                                                                   1985; Gaviglio and Gonzales, 1987; Lacombe et al., 1992;
+Figure 12. (a) Geologic map of the Bau Roux transverse             Andreani et al., 2010; Hippolyte et al., 2012], this method
+zone (BRTZ, dashed thick red area) with location of addi-          was not applied to the kinematic interpretation of specific
+tional sites 22 and 23 measured within Danian breccias of          large scale structures and in particular to growth strata as
+the UAFS (white framed numbers; see Table 1). (b) Pano-            in this study. Lacombe et al. [1992] identified the Pyrenean
+ramic view, looking to the northeast, of the Bau Roux trans-       N-trending compression by a fault kinematic study in the
+verse zone. Location of sites 22 and 23 is also shown. Fault       western Sainte-Victoire Mountain. They also identified the
+data are projected in an equal area stereogram, lower hemi-        Oligocene E-trending extension and the ENE- to NE-
+sphere. Trend of s1 is shown. For legend, see Figure 11.           trending Alpine compression. The best way to characterize the
+The local ENE-trending directions of compression at the            Pyrenean deformation pattern and to support the N-S trend
+western edge of Sainte-Victoire Mountain are compatible            as the correct direction for restoring the cross sections, is to
+with stress deviations (red lines) occurring between the           analyze brittle tectonics in the coeval growth strata deposits.
+Sainte-Victoire Mountain and Roques Hautes thrust systems.         In the study area, we measured faults with a clear sense
+                                                                   of movement on various scale faults and we calculated
+                                                                   paleostress in 24 sites to infer the kinematics of large scale
+of the Concors anticline shows no breccia deposits [Cojan,         structures (see location of measurement sites in Figures 11,
+1989]. In the eastern Rians Basin, Danian breccias of the          12, and 13, and data in Table 1). This analysis is composed
+UAFS are deposited unconformably on the Maastrichtian              of 13 sites in the growth strata developed in the western
+series. North of the Sambuc thrust, Danian breccias of the         S-vergent Sainte-Victoire System which allows to accurately
+UAFS are intercalated within lacustrine package (Figure 4d)        date the reconstructed state of stress, and 11 sites in lower
+[Leleu et al., 2009]. The breccia layers pinchout toward the       Campanian to Lutetian sedimentary series (Table 1).
+north. Although growth strata geometry is not clearly rec-
+                                                                   5.1. Pyrenean Compressional Stress Recorded
+ognized within Danian breccia deposits of the UAFS, we             by Growth Strata
+propose that these series recorded the growth of the eastern
+N-vergent Sainte-Victoire System in the Rians Basin, as              [37] We measured strike-slip faults in the middle Campa-
+suggested by Angelier [1971].                                      nian breccias of the LAFS1 in the southern flank of the Roques
+                                                                   Hautes syncline (site 1; Figures 7 and 11). The breccia layers
+                                                                   dip 72 toward the north. Paleostress computation shows a
+5. Pyrenean Compressional Stress Regime as
+                                                                   NNW-trending compression (Figures 7 and 11). We propose
+Revealed by Fault Slip Analysis and Post-Pyrenean                  that this compression, perpendicular to the trend of the bed-
+Deformations in the Sainte-Victoire System                         ding, is responsible for the folding. Therefore, this NNW-
+  [35] Fault slip analysis in thrust belts permits to relate the   trending compression would be active in the Roques Hautes
+formation of large scale structures to paleostress directions,
+
+                                                             15 of 27
+TC4021                             ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                                      TC4021
+
+
+
+
+           Figure 13. Two field examples of post-Pyrenean deformation in the western Sainte-Victoire System.
+           (a) Roques Hautes fault zone in the western Sainte-Victoire System affecting deformed LAFS2 and UAFS
+           growth strata (860 173E, 1 841 947N). This fault zone is associated with an E-trending extension, post-
+           dating the Pyrenean compression. Fault data (Table 1) are projected in an equal area stereogram, lower
+           hemisphere. Trend of s1 is shown. For legend, see Figure 11. Bedding traces are enhanced by thin white
+           lines. See locations in Figure 5b and Figure 11. (b) Small scale strike-slip fault affecting basal surface
+           (wave-cut platform) of Tortonian marine sequences (856 592E; 1 842 211N). For location, see Figure 11.
+
+
+
+Table 1. Paleostress Tensors Computed From Fault Slips and Measured at the Sites of Figures 11, 12, and 13a
+                                                                           s1           s2           s3
+     Longitude Latitude Elevation                              Nb of
+Site   (m)       (m)     (masl)           Age/Lithology        Faults Trend Plunge Trend Plunge Trend Plunge          F    ANG RUP       Stress Regime
+1       859372   1841337     346       Middle Campanian/         20    173      6      285     73      81     15    0.69    14    30       strike-slip
+                                        Breccias (LAFS1)
+2       860463   1841177     291     Danian/Breccias (UAFS)      21    185      12     282     28     75      59    0.11    13    38 strike-slip reverse
+3       861223   1841120     297     Danian/Breccias (UAFS)       9    188      5      278     0      10      85    0.51    12    36   compressional
+4       861910   1841321     338     Danian/Breccias (UAFS)      17    202      45     284     25     335     35    0.08    8     31   compressional
+4          -        -         -                  -                6    195      34     341     51     93      17    0.54    22    55      strike-slip
+5       863357   1841315     506     Danian/Breccias (UAFS)      24    207      27     112     10      4      61    0.34    10    40        reverse
+6       863429   1841334     515     Danian/Breccias (UAFS)      25    195      13     104     4      358     76    0.45    8     32        reverse
+7       864637   1841219     517     Danian/Breccias (UAFS)       9    184      10     94      3      344     80    0.41    4     13   compressional
+8       870216   1842009     396        Early Campanian/         11    155      41     246     2      339     49    0.24    5     43   compressional
+                                           Limestones
+9       868358   1840388     359       Danian/Limestones         16    167      2      257     2       24     87    0.2     6     41     compressional
+10      867261   1841789     424     Maastrichian/Limestones      9    171      21     264     8       14     68    0.32    9     18     compressional
+11      866660   1841375     438      Selandian-Thanetian/       12    171      13     265     13      37     71    0.55    11    28     compressional
+                                           Limestones
+12      865458   1839150     445      Selandian-Thanetian/       26    356      11     86       2     187     79    0.45    9     28     compressional
+                                           Limestones
+13      865335   1839936     483       Lutetian/Limestones       13    164      11     292     73     71      13    0.81    6     27       strike-slip
+14      861269   1837937     281       Danian/Limestones         15    201      2      111     5      316     85    0.37    7     29     compressional
+15      857936   1838421     198       Danian/Limestones         25    200      3      290     1      30      87    0.46    10    37     compressional
+16      856808   1839020     190      Selandian-Thanetian/        8    201      2      292     16     103     74    0.71    7     24     compressional
+                                           Limestones
+17      865172   1839351     190       Lutetian/Limestones        6    208      1      299     36     117     54    0.08    19    56 strike-slip reverse
+18      858135   1840684     221     Danian/Breccias (UAFS)      10    199      4      101     63     290     27    0.2     6     17      strike-slip
+19      858283   1841041     260     Danian/Breccias (UAFS)      22    181      17     273     9      30      71    0.25    9     27   compressional
+20      859859   1841145     258     Danian/Breccias (UAFS)      22    199      22     108     4       7      68    0.65    7     16   compressional
+21      860015   1841395     269     Maastrichian/Sandstones     22     8       18     196     71     98      2     0.32    8     28      strike-slip
+22      861914   1841921     645     Danian/Breccias (UAFS)      19    258      22     156     27     22      54    0.22    13    35      strike-slip
+23      861732   1841943     544     Danian/Breccias (UAFS)      15    246      49     100     36     356     17    0.53    12    27      strike-slip
+24      860186   1841912     312          Maastrichtian/         18    16       83     185     7      275      1    0.49    15    41     extensional
+                                        Breccias (LAFS2)
+   Coordinate system is Lambert 2, Paris system (meters). s1, s2, s3: maximum, intermediary and minimum principal stress axis, respectively. F = (s2–s3)/
+    a
+
+(s1–s3). ANG = average angle between computed shear stress and observed slickenside lineation (in degrees). RUP = quality estimator (0 ≤ RUP ≤ 200)
+taking into account the relative magnitude of the shear stress on fault planes (see Angelier [1990] for more details).
+
+                                                                       16 of 27
+TC4021                        ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                        TC4021
+
+syncline, at least during the middle Campanian-Maastrichtian          (Figure 13a). The dip-slip normal faults cut deformed growth
+times.                                                                strata of the LAFS and UAFS, demonstrating that the
+  [38] We also measured faults in the Danian growth strata of         extension occurred after the Pyrenean compression
+the UAFS that develop in the Sainte-Victoire and Roques               [Hippolyte et al., 2012]. This E-trending extensional regime
+Hautes thrust systems (sites 2, 3, 4, 5, 6, 7, 18, 19 and 20;         can be correlated with the opening of the West European rift
+Figure 11). For instance at site 4, in S-dipping breccia layers at    system during the Oligocene [Hippolyte et al., 1993]. In
+the front of Sainte-Victoire Mountain, we measured normal and         addition, although the Tortonian marine sequences of the
+steeply dipping reverse faults, and strike-slip faults (Figure 8).    Bibemus Plateau are slightly tilted [e.g., Chorowicz and Ruiz,
+Backtilting of the normal and steeply dipping reverse faults          1984], only one strike-slip fault, cutting the basal wave-cut
+shows a system of conjugate reverse faults consistent with a          platform with an offset of 20 cm, could be found
+horizontal NNE-trending compression, assuming that com-               (Figure 13b). Moreover, the Tortonian sequence seals the
+pressive s1 was horizontal when bedding planes were hori-             Pyrenean and Oligocene structures (Figure 2). Thus no sig-
+zontal. Strike-slip faults show sub-horizontal to bedding parallel    nificant deformation occurred during the Oligocene exten-
+striations. These faults are also consistent with the same NNE        sion and Alpine compression in the study area, showing that
+direction of compression. The post-tilt strike-slip fault of site 4   the growth of the Sainte-Victoire System was essentially
+(Figure 4) shows that deformation also occurred after the tilting     related to the N-trending Pyrenean compression.
+of the growth strata. Therefore, we can conclude that a strike-
+slip reverse deformation corresponding to the NNE compres-            6. Structural Model of the Sainte-Victoire System:
+sion occurred during this tilting.                                    Balanced and Restored Cross Sections
+  [39] To sum up, fault slip analysis in growth strata of the
+UAFS shows: (1) pre-tilt compression (2 stress axes parallel            [42] Field data and precise surface mapping combined
+to the bedding planes) at sites 4 and 19, (2) syn-tilt com-           with available geophysical data (see description below) form
+pression (s1 less tilted than bedding planes) at sites 2, 4, 5        the basis for the construction of four balanced cross sections
+and 20, and (3) post-tilt compression (2 stress axes horizon-         of about 30 km-long across the Sainte-Victoire System
+tal) at sites 3, 6 and 18 (Figure 11). As NNE-trending com-           from the northern Rians Basin to the southern Arc Basin
+pression was locally recorded before, during and after the tilt       (Figure 2). Surface data were digitalized in three-dimensions
+of the growth strata we conclude that this reverse and locally        using MapInfo and Vertical Mapper GIS softwares, and the
+strike-slip faulting regime prevailed during the deposition of        30 m ASTER (Advanced Spaceborne Thermal Emission and
+the UAFS, and therefore during the formation of the Sainte-           Reflection Radiometer) GDEM (Global Digital Elevation
+Victoire Mountain and Roques Hautes thrust systems.                   Model). Then, these data were exported in “2DMove”
+                                                                      structural modeling and analysis software. The balanced
+5.2. Pyrenean Compressional Stress Regime                             cross sections were constructed according to thrust tectonic
+in the Arc Basin                                                      concepts [e.g., Dahlstrom, 1969; Boyer and Elliott, 1982;
+   [40] To characterize the outer compressional stress regime         Suppe, 1983; Suppe and Medwedeff, 1990; Mitra, 2002;
+of the western Sainte-Victoire System, we measured addi-              Shaw et al., 2005]. The sections were restored on the basis of
+tional fault data in Late Cretaceous to Eocene series of the          the “2DMove flexural slip algorithm” which allows main-
+northern margin of the Arc Basin (Figure 11). We found                taining bed lengths parallel to template line corresponding to
+reverse and strike-slip faults corresponding to NNE-trending          aerial erosional surface related to the Durance uplift [e.g.,
+compression in the west (sites 14, 15, 16, and 17), and a             Masse and Philip, 1976], and the area of the unfolded unit.
+NNW-trending compression (sites 8, 9, 10, 11, 12 and 13) in           The cross sections were restored considering the template
+the east. As a difference with the sites in the growth strata         line as flat (corresponding approximately to the top of the
+(black arrows in Figure 11), we cannot directly date this             Early Cretaceous marine series), and pinned in the Rians
+outer deformation. However, at site 13, the morphology of             Basin. In general, a local pin line is used for each thrust.
+the fault surfaces indicates that faulting occurred during the        According to our fault slip analysis (see chapter 5), the cross
+lithification of the limestones [e.g., Montenat et al., 1997]         sections are parallel to the N-trending Pyrenean tectonic
+suggesting that this faulting occurred during Lutetian. Thus,         transport, and located far from main transverse structures
+our fault kinematic analysis displays evidence for a Lutetian         (e.g., Bau Roux and Bau de Vespres structures; Figures 5b
+compressional stress regime acting at the northern margin of          and 10a) to avoid out-of-plane displacement. The Concors,
+the Arc Basin, characterized by an average N-trending s1              Ligourès and Keyrié structures are oblique (N120 E) with
+with arcuate local s1 varying from NNE to NNW. We                     respect to the N-trending compression direction (Figure 2).
+interpret this fan-shaped stress pattern as resulting from the          [43] The deep geometry of the Sainte-Victoire System is
+S-vergent thrusting of the western Sainte-Victoire System,            still a debate [Tempier, 1987; Biberon, 1988; Roure and
+acting as an indenter within the Arc Basin. Therefore, our            Colletta, 1996]. Variations in depth of the base of syn-
+cross sections, that trend N-S, can be restored.                      clines can be used to localize basement faults on the bal-
+                                                                      anced cross sections [Molinaro et al., 2005]. Also, to
+5.3. Oligocene and Alpine Deformations                                constrain the geometry of the basement-cover interface and
+in the Sainte-Victoire System                                         the structural style in depth, we used the Jouques well drilled
+  [41] In the western Sainte-Victoire System, Pyrenean                in the northern Rians Basin, combined with available geo-
+thrusts and folds are cut by WNW-dipping normal faults                physical data (seismic refraction and reflection) [see
+(Figure 11). In the Roques Hautes area, the normal throws are         Biberon, 1988, and references therein] (Figure 2). The
+up to several tens of meters. The fault slip analysis along the       basement-cover interface is found at 2 km of depth
+Roques Hautes normal faults reveals an E-trending extension           beneath the northern Rians Basin (Jouques well; Figure 2).
+
+                                                                17 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                      TC4021
+
+
+
+
+         Figure 14. Balanced and restored cross sections across the Rians Basin, Sainte-Victoire System and Arc
+         Basins. For location and legend, see Figure 2. Restored cross sections were obtained by flattening top of
+         the Early Cretaceous marine series. (a) Cross section A. (b) Cross section B. (c) Cross section C. (d) Cross
+         section D. The deep thick-skinned structure of the western Sainte-Victoire System is modeled using three
+         basement thrust sheets, labeled 1, 2 and 3 and respectively localized beneath the Concors, Ligourès and
+         Sainte-Victoire anticlines. These basement thrust sheets feed the slip of the western Sainte-Victoire Sys-
+         tem. Slip of basement thrust sheet 4 localized beneath Regagnas Mountain is mainly transferred in the
+         S-vergent Regagnas passive roof thrust. In cross sections C and D, thrust sheet 4 localized beneath Regag-
+         nas Mountain feeds the slip of the eastern thin-skinned Sainte-Victoire System.
+
+
+In other parts of the study area, seismic refraction data       the south. In contrast, there is a strong structural evidence
+indicate a basement-cover interface located at a depth of 3    to suggest basement faulting beneath the western Sainte-
+km beneath the Rians Basin, Sainte-Victoire Mountain and        Victoire System and southern Arc Basin [see Biberon, 1988].
+southwestern Arc Basin, and down to 4 km beneath the
+western Arc Basin (Figure 2). Thus, the study area shows        6.1. Western Sainte-Victoire System
+significant spatial variations of the depth of the basement-      [44] Along balanced cross sections A and B (Figures 14a
+cover interface: in the eastern domain, the geometry of the     and 14b), the construction of the Arc, Kyerié and Rians
+basement-cover interface is progressively deepening toward      synclines was conducted using surface and well data,
+
+                                                           18 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                    TC4021
+
+
+
+
+                                                  Figure 14. (continued)
+
+assuming that the sedimentary pile is complete in the axis of   m-thick strata below the Arc Basin. Below the northern
+each syncline. Although the thickness of the sedimentary        Rians syncline, the Jouques well provides evidence for
+series of the Arc syncline is not precisely constrained at      500 m-thick of Triassic series directly overlying the Her-
+depth, we modeled the regional basal décollement above          cynian basement. Although the Mesozoic regional datum of
+Triassic series at a depth of 4 km beneath the Arc syncline.   the Sainte-Victoire System is uplifted above those of the Arc
+In contrast, this basal décollement is located 1.2 km and      Basin, Roure and Colletta [1996] suggested that the Sainte-
+1.7 km beneath the Keyrié and Rians synclines, respec-         Victoire System accommodates the inversion of a hypo-
+tively. In the Rians Basin, seismic reflection and well data    thetical Permian basin localized below the Arc Basin.
+suggest no décollement above Triassic series [see Biberon,      However, our geometrical interpretation is more consistent
+1988]. Seismic refraction data throughout the western           with the presence of a S-thickening sedimentary wedge
+study area suggest that the basement is faulted and uplifted    presumably bounded by a master N-dipping basement fault
+below the Sainte-Victoire System. The approximate depth of      below the western Sainte-Victoire System. This wedge
+basement-cover interface being located at 3 km and 4 km       would be composed of Triassic strata and also probably Late
+beneath the western Sainte-Victoire System and the Arc          Paleozoic (Carboniferous to Permian) strata [Toutin-Morin
+syncline, respectively, we can estimate the presence of 1.7    et al., 1992]. North of the western Sainte-Victoire System,
+km-thick strata below the Sainte-Victoire and less than 900     oblique ESE-trending structure of the Concors is inferred to
+
+                                                          19 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                     TC4021
+
+reactivate an older ESE-trending structural grain combined      décollement level in cover occurs in the upper part of the
+with abrupt thickness changes in the Late Paleozoic-Triassic    Triassic series, probably at the base of the Rhaetian series.
+sedimentary pile. We propose that this system extends below     The cross section construction reveals that the décollement
+the western Sainte-Victoire System. The uplift of the west-     level is located at 2.8 km of depth at the footwall of the
+ern Sainte-Victoire System would be thus primarily pro-         Sainte-Victoire System, and dips gradually toward the south.
+duced by the tectonic inversion of a Late Paleozoic-Triassic    In the Rians Basin, the Jouques well shows little basement
+half graben system. This inheritance explains the structural    uplift with respect to the Arc Basin (Figures 14c and 14d).
+culmination of the western Sainte-Victoire System with          This uplift is interpreted as the eastern continuation of
+respect to the southern Arc Basin. In our construction, we      Concors structure and deep basement thrust sheets. Inter-
+modeled that the inherited normal faults connect onto a sub-    estingly, as confirmed by the geophysical data (see above),
+horizontal mid-crustal detachment at a depth of 7–8 km         this structural style is not accompanied by a strong
+beneath the Rians Basin (Figures 14a and 14b).                  involvement of the thick-skinned structures. As for the
+  [45] In details, the deep thick-skinned structural geometry   western cross sections, the geometry of the southern limb of
+below the western Sainte-Victoire System can be modeled         the Arc syncline can be explained as resulting from an
+using three basement thrust sheets, named 1, 2 and 3 and        intercutaneous thrust sheet below Regagnas Mountain. The
+respectively localized beneath the Concors, Ligourès and        restoration of the balanced cross sections suggests that the
+Sainte-Victoire anticlines (Figures 14a and 14b). The con-      shortening within the eastern Sainte-Victoire System is
+struction of cross sections A and B shows that the Rians        mostly attributed to feed slip from southern Regagnas thrust
+Basin was transported southward above upper horse 1. The        sheet 4 (Figures 14c and 14d.
+slip of horse 1 was accommodated by the Concors thrust.
+The Ligourès anticline was transported southward above the      6.3. Shortening Assessment
+intermediate horse 2. The southern basement ramp of horse         [49] The calculated shortening magnitudes that we pro-
+3 bounds the inverted half graben system. According to          pose are minimum values owing to the uncertainty involved
+seismic refraction data and the construction of cross sec-      in calculating the amount of thrust displacement where
+tions, this master fault is inferred to produce 1 km of        hanging wall cut-offs are removed by erosion [see Judge and
+basement uplift below the Sainte-Victoire System with           Allmendinger, 2011 for more details]. Two different hori-
+respect to the Arc Basin. The slip of the lower horse 3 was     zontal shortening amounts have been calculated: (1) the total
+passively accommodated by a passive roof thrust as a deep       horizontal shallow shortening of the Sainte-Victoire System
+intercutaneous tectonic wedge, propagating southward            and (2) the total horizontal deep shortening across the Rians
+[Shaw et al., 2005]. The upper S-vergent Sainte-Victoire        and Arc Basins, including deep basement thrust sheet 4
+thrust system connects down onto the deep passive roof          (Figure 14). The restoration results of the four balanced
+thrust of horse 3, defining an upper north-directed inter-      cross sections are plotted in Figure 15. The results show that
+cutaneous wedge. This “zigzag” thrust array is typical of       the shallow shortening amount of the Sainte-Victoire System
+hinge wedge fold-accommodation faults defined by Mitra          changes from 5 km (i.e., 25%) to the west (cross sections
+[2002].                                                         A and B), to 8 km (i.e., 34%) to the east (cross section
+  [46] Thus, the shortening of the western Sainte-Victoire      D), which corresponds to an eastward increase of the short-
+System may only result in the structural thick-skinned          ening of about 38%. In contrast, we observe a westward
+inversion of Late Paleozoic-Triassic oblique structures. For    increase of 16% of the deep shortening, from 14.6 km (i.e.,
+example, the restoration of cross section A shows that the      31.8%) to the east to 18.3 km (i.e., 38%) to the west.
+shortening within the western Sainte-Victoire thrust systems    Assuming that the shortening is internally compensated
+and Arc Basin (4470 m) is greatly balanced by the short-       within each of the balanced cross sections, the calculated
+ening (4350 m) of basement horses 2 and 3 (3% of              difference between the Sainte-Victoire System shortening
+shortening differences between basement and cover).             and the deep shortening (Figure 15) has to be accommodated
+  [47] South of the Arc Basin, Regagnas Mountain exhibits       by the S-vergent Regagnas passive roof thrust (Figure 14).
+similar oblique ESE-trending structural grain like the Con-     The shortening amount of the Regagnas passive roof thrust
+cors structure (Figure 2). The long planar geometry of the      indicates a decrease of the shortening toward the east, from
+southern limb of the Arc syncline can be explained as           14 km to 6.5 km (Figure 15).
+resulting from an intercutaneous thrust wedge below               [50] The total shallow shortening in the eastern Sainte-
+Regagnas Mountain. According to seismic refraction data,        Victoire System (cross section D) is in accordance with the
+we propose that this thrust sheet (named 4 in Figure 14) is     amounts of shortening (8 km) calculated by Biberon
+composed of basement rocks overlain by 1 km-thick Late         [1988]. However, our calculated surface shortening values
+Paleozoic-Triassic strata. Restored cross sections show that    for the western Sainte-Victoire System (cross sections A and
+the northern and southern edges of the Arc Basin correspond     B) are three-times smaller than those calculated by Biberon
+to extensional structures separated by a central high during    [1988] (13 km). This difference can be explained by our
+Late Paleozoic-Triassic times (Figure 14).                      thick-skinned interpretation of the deep oblique structures of
+                                                                the western Sainte-Victoire System (Figures 14a and 14b).
+6.2. Eastern Sainte-Victoire System
+  [48] The construction of balanced cross sections C and D      7. Discussion
+(Figures 14c and 14d) suggests that the shortening within the
+eastern Sainte-Victoire System can be essentially accom-        7.1. Paleozoic Structural Inheritances in Provence
+modated by the northward propagation of thin-skinned              [51] Several studies pointed out that the control exerted by
+thrusts. As for the western Sainte-Victoire System, the main    the preexisting basement structures was the most important
+
+                                                          20 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                       TC4021
+
+                                                                  Paleozoic half graben systems with ESE-trending basement
+                                                                  faults. Our structural model also supports that lower Triassic
+                                                                  sequences presumably filled the half graben system [Toutin-
+                                                                  Morin et al., 1992].
+                                                                    [53] Subsurface and seismicity data from northern Prov-
+                                                                  ence provide evidence for the implication of the basement
+                                                                  within the shortening of the Pyrenean/Alpine foreland of
+                                                                  Provence. For example, the trace of the Middle Durance
+                                                                  fault (prolongated with the southern Aix-en-Provence fault)
+                                                                  is interpreted as overprinting a NNE-trending basement
+                                                                  grain of Late Paleozoic age [Arthaud and Matte, 1975]
+                                                                  (Figure 16). This fault system separates two domains:
+                                                                  a western domain where the thickness of the Mesozoic-
+                                                                  Cenozoic sedimentary pile ranges between 6 km and more
+                                                                  than 10 km and an eastern domain where the average
+                                                                  thickness is 2 km (Sainte-Victoire System area, Figure 16)
+                                                                  [Ménard, 1980]. West of the Middle Durance fault, the main
+                                                                  part of the deep-located seismic events related to the Alpine
+                                                                  shortening are mostly located at the basement-sedimentary
+                                                                  cover interface (less than 11 km) [Cushing et al., 2007]
+                                                                  which could illustrate a basement-cover detachment
+                                                                  (Figure 16) [Terrier et al., 2008; Molliex et al., 2011]. East
+                                                                  of the Middle Durance fault, the presence of seismic events
+                                                                  below the Valensole Basin at a similar depth than to the west
+                                                                  shows active basement faults. In fact, the heterogeneity of
+                                                                  the Mesozoic-Cenozoic sedimentary pile on both sides of
+                                                                  the Middle Durance/Aix-en-Provence fault system may
+Figure 15. Plots of total horizontal shortening for each bal-     have controlled the structural style during subsequent com-
+anced cross section. The shallow horizontal shortening of         pressions. West of the fault system, the Pyrenean and Alpine
+the Sainte-Victoire System is calculated using pin lines in       compressive stages resulted in the extrusion of the basin infill
+the northern edge of Rians Basin and the southern edge of         without reactivation of the normal faults (thin-skinned tec-
+the Arc Basin (see Figure 14). The calculation of the deep        tonic style). On the contrary, these faults are inverted east of
+horizontal shortening includes the basement shortening of         the Middle Durance fault like beneath the Sainte-Victoire
+thrust sheet 4 located below Regagnas Mountain. See details       System (thick-skinned tectonic style). This explains why
+in the text.                                                      although seismic events are located at similar depths, base-
+                                                                  ment involvement is different at both sides of the Middle
+control process on the development of many fold-and-thrust        Durance/Aix-en-Provence fault system (Figure 16).
+belts on Earth [e.g., Muñoz, 1992; Roure and Colletta, 1996;
+Colletta et al., 1997; Lacombe and Mouthereau, 2002; Mora         7.2. Structural Wedging and Shortening Partitioning
+et al., 2006; Saura and Teixell, 2006]. The involvement of          [54] The structural inversion in the northern margin of the
+inherited basement structures within the Pyrenean foreland        Arc Basin can be interpreted using structural wedge models
+of Provence remains controversial or insufficiently con-          as defined by Shaw et al. [2005]. Our structural model of the
+strained [e.g., Tempier, 1987; Roure and Colletta, 1996].         western Sainte-Victoire System (Figures 14a and 14b) is
+Our study highlights some important implications of the           composed of two stacked wedges: a lower wedge composed
+Paleozoic inheritances for the tectonic evolution of the Pyr-     of thick Late Paleozoic-Triassic rift sequences, propagating
+enean foreland of Provence.                                       southward, and a shallower wedge developed within the
+  [52] Preserved N- and ESE-trending Late Paleozoic to            Mesozoic-Cenozoic sedimentary cover, propagating north-
+Triassic extensional structures inherited from the fragmen-       ward. The geometry and kinematics of the proposed lower
+tation of Gondwana, are essentially exposed in the Maures         intercutaneous wedge are similar to those described by sand-
+Massif-Tanneron (Figure 16) [e.g., Arévian et al., 1979;          box analog models [Roure and Colletta, 1996] and natural
+Delfaud et al., 1989; Toutin-Morin et al., 1992; Toutin-          examples in the Rocky Mountains of Canada [Price, 1986]
+Morin and Bonijoly, 1992]. These structures mainly corre-         and in the northern Amadeus Basin of Central Australia
+spond to half graben systems infilled by Late Carboniferous       [Flöttmann and Hand, 1999]. However, our model suggests
+to Permian volcanoclastic continental sequences and Triassic      a coeval motion of the lower and upper wedges (Figures 14a
+fluvial series. The Concors anticline as well as the Vautubière   and 14b). These “zigzag” geometry [Mitra, 2002] and
+Mountain, Vinon, Gréoux and other deep structures located         kinematics are also similar to natural examples described in
+below the Valensole Basin [e.g., Dubois and Curnelle,             the Andes of Chile [Amilibia et al., 2008], Junggar Basin
+1978], show similar trend as Late Paleozoic grain of the          of China [Guan et al., 2009] and the southern foreland of
+northern Maures Massif-Tanneron (Figure 16) [Toutin-              Tunisian Atlas [Said et al., 2011]. The formation of the
+Morin and Bonijoly, 1992]. These structural coincidences          upper wedge might result from the absence of a mechani-
+lead us to propose that the structure of the western Sainte-      cally weak detachment horizon within Triassic series north
+Victoire System may result from the inversion of Late
+
+                                                            21 of 27
+TC4021                     ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                      TC4021
+
+
+
+
+         Figure 16. Structural map illustrating the structural style of the Pyrenean/Alpine fold-and-thrust belt of
+         Provence. Thickness of the Mesozoic-Cenozoic sedimentary cover is from Ménard [1980]. Red squares
+         correspond to seismic event data from “Réseau National de Surveillance Sismique” (RéNaSS) and “Labor-
+         atoire de Détection Géophysique” (LDG) (1980–2010). Location and depth (km) of the best located seis-
+         mic events recorded by the Durance network from 1999 to 2006 are from Cushing et al. [2007]. The area
+         located west of the Aix-en-Provence-Middle Durance fault system is characterized by a thin-skinned tec-
+         tonic style with poorly reactivated basement faults. In contrast, the area located to the east shows a pro-
+         nounced thick-skinned tectonic style. Present-day seismic events [Cushing et al., 2007], related to the
+         Alpine compression, are approximately located at similar depths on both sides of the Middle Durance
+         fault, suggesting active thin-skinned thrusting to the west and basement thrusting to the east. This
+         along-strike contrasted tectonic style may result from heterogeneity in terms of thickness in the Mesozoic-
+         Cenozoic sedimentary cover: thick (10 km) to the west and thin (2 km) to the east. NF: Nîmes fault.
+         SCF: Salon-Cavaillon fault. AF: Aix-en-Provence fault. MDF: Middle Durance fault. SVS: Sainte-Victoire
+         System. RB: Rians Basin. AB: Arc Basin.
+
+
+of horse 3 [Biberon, 1988], that could prevent the propaga-     Victoire System requires no feed slip from the south. The
+tion of the deformation northward (Figures 14a and 14b).        upper and deep thrust systems of the western Sainte-Victoire
+  [55] At the scale of the Rians and Arc Basins, balanced       System are a single southward migrating system, progres-
+cross section results show pronounced along-strike varia-       sively decoupled by the upper thin-skinned tectonic wedge
+tions in terms of shallow and deep shortenings (Figure 15).     (Figure 14a). In the southern part of the Arc Basin, the
+The amount of shortening by thick-skinned reactivation          emplacement of horse 4 is associated with the uplift of
+mainly occurred in the western Sainte-Victoire System,          Regagnas Mountain. We propose that the S-vergent western
+whereas thin-skinned thrusting was more important in the        Sainte-Victoire System played the role of buttress. This
+east (Figures 14 and 15). The restoration of balanced cross     implies that the large displacement associated with horse 4
+section A shows that the structure of the western Sainte-       was entirely translated southward to its roof thrust
+
+                                                          22 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                         TC4021
+
+
+
+
+         Figure 17. Kinematics of the Bau Roux transverse structure. (a) Details of balanced cross sections A and
+         B′ located on both sides of the local Bau Roux transverse zone. For location, see Figure 2. (b) Restored
+         cross sections. Li: Initial length; Lf: Final length; short: Shortening. Cross section restoration shows larger
+         shortening in the west (2350 m) than in the east (1014 m) as a result from the existence of a shallower
+         décollement level at the base of the middle Campanian breccias of the LAFS1 in the Roques Hautes area.
+
+
+(Regagnas passive roof thrust) along balanced cross section       restoration of these cross sections shows that a differential
+A. Along balanced cross sections C and D, the shortening of       shortening has been accommodated on both sides of the Bau
+horse 4 has been partly transferred northward to feed the         Roux transverse structure: 2.3 km in section A and 1 km
+slip of the entire growth of the eastern thin-skinned Sainte-     in section B′. Field data suggest that the development of the
+Victoire System (Figure 15).                                      Bau Roux transverse structure mainly results from the exis-
+                                                                  tence of a major shallow décollement level at the base of the
+7.3. Transverse Structures                                        middle Campanian breccias of the LAFS1 in the Roques
+  [56] The pre-existing basement structures and lateral het-      Hautes area (Figures 12 and 17). The shortening has been
+erogeneities in the mechanical stratigraphic pile may have        preferentially transferred southward onto this shallower
+strong controls on the location and development of trans-         décollement and accommodated by the Roques Hautes
+verse structures. In the Sainte-Victoire System area, we          thrust systems. Eastward, no décollement level at the base of
+observe complex along-strike relationship between folds and       the middle Campanian breccias has been observed in the
+faults of different trends (Figure 2). Geometric and structural   field and all the deformation has been accommodated by the
+evidences suggest that the Sainte-Victoire Mountain struc-        lower Sainte-Victoire hanging wall ramp. According to these
+ture is laterally bounded by two major transverse systems:        observations, the Roques Hautes imbricate can be consid-
+the western Bau Roux and the eastern Bau de Vespres               ered as a tectonic half-tectonic window under the low-angle
+transverse systems (Figures 10 and 12).                           upper Sainte-Victoire thrust (Figure 17).
+  [57] The western Bau Roux transverse structure marks the          [58] The eastern Bau de Vespres transverse structure marks
+end of the N-vergent eastern Sainte-Victoire System. It           the end of the S-vergent western Sainte-Victoire System.
+corresponds to a westward imbricate of four lateral ramps         In this zone, middle Campanian to Maastrichtian breccias of
+and minor sinitral strike-slip faults (Figure 12a). The dis-      the LAFS were transported southward along imbricated
+placement along the ramps is accommodated by a NNE-               lateral ramps (Figure 10). The displacement along these
+trending fold mainly formed by Danian breccias of the             lateral ramps decreases rapidly eastward. Thus, we propose
+UAFS (Figure 12b). Figure 17 shows details of the thrust          that the kinematics link between the western S-vergent and
+systems located on the southern flank of the Sainte-Victoire      eastern N-vergent Sainte-Victoire Systems were associated
+anticline of cross sections A and B′. Interestingly, the local    to the development of a regional relay zone (Sainte-Victoire
+
+
+                                                            23 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                       TC4021
+
+
+
+
+         Figure 18. Schematic evolutionary model for the Sainte-Victoire System. (a) Initial Late Paleozoic-
+         Triassic basin geometry. Labels 1, 2, 3 and 4 correspond to basement structures of Figure 14. (b) Growth
+         of the western Sainte-Victoire System (WSVS) started in Late Cretaceous (Campanian-Maastrichtian) as a
+         result of the reactivation of oblique ESE-trending Late Paleozoic-Triassic extensional structures. During
+         the inversion, the structural reliefs were progressively eroded, providing the source for the LAFS at the
+         Vautubière Mountain, Sainte-Victoire Mountain (SVM)/Roques Hautes (RH) and Etoile thrust fronts.
+         The Arc and Rians Basins were hydrologically connected eastward [Cojan, 1993]. (c) The formation of
+         the structural relief of the eastern Sainte-Victoire System (ESVS) and the continuous growth of the west-
+         ern Sainte-Victoire System were recorded by UAFS at the Sambuc thrust front and Harmelins (HA)/
+         Sainte-Victoire Mountain thrust fronts, respectively. Growth of the eastern Sainte-Victoire System only
+         started during Danian as a result of a thin-skinned shortening transfer from the southern basement Regag-
+         nas thrust sheet. The kinematics link between the western and eastern Sainte-Victoire Systems was asso-
+         ciated to the development of a regional relay zone (red area) between the Bau Roux and Bau de Vespres
+         transverse zones (TZ). White arrows show the direction of maximum (s1) compressional stress regime,
+         ranging from NNE to NNW. See more details in the text.
+
+
+
+Mountain) between the Bau Roux and Bau de Vespres                 et al., 2010]. Arguments for each model mainly come from
+transverse structures (Figure 18). This regional relay zone is    geometric evidence and/or growth strata [Boyer, 1992; Hain
+consistent with stress regime perturbations observed              et al., 2011].
+between the eastern and western Sainte-Victoire Systems,            [60] The presence of syntectonic foreland basin sediments
+the direction of s1 ranging from NNE to NNW.                      in the Sainte-Victoire System combined with balanced cross
+                                                                  sections allows us to precisely assess the temporal and spa-
+7.4. Deformational History
+                                                                  tial deformation evolution with respect to the structural style
+  [59] Two contrasted models describe the thrust sequence         (Figure 18). Growth strata show that the onset of deforma-
+in forelands at the orogen scale: the first model consists in a   tion started diachronically along-strike. In the western
+classical forward sequence in which the sedimentary cover         Sainte-Victoire System, middle Campanian growth strata of
+detached first and basement thrusting occurs second at            the LAFS1 suggest that the thick-skinned structures have
+depth; the second model consists in a foreland-to-hinterland      presumably been reactivated at least since the middle Cam-
+sequence in which foreland basement reactivations occur           panian and remained active through the Maastrichtian
+first and the thin-skinned shortening propagates second [e.g.,    (LAFS2)-Danian (UAFS) period, and probably until the
+Lacombe and Mouthereau, 2002; Hilley et al., 2005; Mora           Lutetian (43 Ma) (see above chapter 5.3). Besides, field
+
+                                                            24 of 27
+TC4021                      ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                                         TC4021
+
+data and balanced cross section constructions show a major        domain of mixed S-vergent thick- and thin-skinned tectonic
+pinchout of the continental lower Campanian sequences             style with tectonic inversion of Late Paleozoic-Triassic half
+onto the northern limb of the Arc syncline, associated to the     graben system.
+emplacement of the lower, S-directed intercutaneous wedge            [64] 2. The along-strike bi-vergence of the Sainte-Victoire
+(Figures 14a and 14b). This suggests that the tectonic            System was accommodated by a regional relay zone boun-
+inversion and growth of the western Sainte-Victoire System        ded by the Bau de Vespres transverse structure to the east
+rather started during the lower Campanian (83 Ma). Thus,         and the Bau Roux transverse structure to the west. This relay
+the western thick-skinned Sainte-Victoire System recorded         zone was responsible for compressional stress regime per-
+the early stages of development of the Pyrenean shortening        turbations, the direction of s1 ranging from NNE to NNW,
+in Provence and have focused a continuous deformation             during the growth of the Sainte-Victoire System.
+during 40 Myr (i.e., between 83 Ma and 43 Ma)                     [65] 3. At a local scale, the shallow N-S shortening is 5
+(Figure 18). A similar example of long-living structure has       km (25%) and 8 km (34%) in the western and eastern
+been described in the Subandes of Colombia by Mora et al.         Sainte-Victoire System, respectively. At a regional scale, the
+[2010]. Based on the model by Mora et al. [2010], we pro-         tectonic inversion of the Sainte-Victoire System and the Arc
+pose that Late Paleozoic-Triassic basement faults orientation     Basin recorded a deep shortening of the order of 15–18 km
+enhanced their reactivation under the Pyrenean stress             (34%).
+regime, focusing a continuous deformation in the outer               [66] 4. Inherited basement faults of the Provence area had
+foreland of Provence, a different mechanism from classical        an adequate for compressional reactivation during the Late
+thrust wedge mechanics [e.g., Davis et al., 1983]. In the         Cretaceous-Eocene Corsica-Sardinia block and Eurasia col-
+eastern Sainte-Victoire System, no breccia series or growth       lision. They recorded the early stages (Campanian) of
+strata are found in the Late Cretaceous series (Figure 14d).      development of the Pyrenean shortening in Provence and
+Although these series may have been eroded, the occurrence        have focused a continuous deformation during 40 Myr in
+of Danian growth strata of the UAFS in the Rians Basin            the western Sainte-Victoire System. Although the shortening
+demonstrates that the lateral thin-skinned shortening of the      magnitudes of the Sainte-Victoire System remain weak at
+eastern Sainte-Victoire System started significantly later        local scale, other foreland structures similar to the Sainte-
+(65 Ma). Thus, the eastern Sainte-Victoire System mainly         Victoire System were active simultaneously across foreland
+results from the N-vergent migration of the thin-skinned          basin, resulting in a significant increase of cumulated con-
+thrust front during the Danian and probably until Eocene          tinental shortening at the Pyrenean-Provence orogen scale.
+times (i.e., 22 Myr) (Figure 18). This is in agreement with
+Cojan [1993] paleogeography reconstructions within the               [67] Acknowledgments. This study has been developed within the
+                                                                  “Cadarache Seismic Hazard Integrated Multidisciplinary Assessment-
+Arc and Rians Basins. Indeed, the stratigraphic correlations      Commissariat à l’Energie Atomique” program supervised by F. Hollender
+in Maastrichtian/lower Paleocene series infilling these basins    and the “Observatoire Hommes-Milieux” du bassin minier de Provence
+clearly show that these basins were hydrologically connected      (Fédération de recherche “Ecosystèmes Continentaux et Risques Environne-
+                                                                  mentaux”) program supervised by S. Robert. Midland Valley is acknowl-
+during the Late Cretaceous (Figure 18).                           edged for providing academic license of “2DMove” for structural
+                                                                  modeling. We thank M. Floquet, J. Philip, J.-M. Triat, S. Leleu, I. Cojan,
+7.5. Implication for Orogen Scale Shortening                      Y. Dutour and T. Tortosa for their useful discussions. J. Fleury helped with
+  [61] The deep shortening values (15–18 km) calculated for       the imagery processing. We acknowledge two anonymous reviewers for
+                                                                  their comments and suggestions that greatly contributed to the improvement
+the Sainte-Victoire System are not representative for the con-    of the original manuscript.
+vergence rate between the Corsica-Sardinia block and Eurasia
+during Late Cretaceous to Eocene. However, our calculation        References
+does not include the northern Vautubière Mountain and
+                                                                  Amilibia, A., F. Sàbat, K. R. McClay, J. A. Muñoz, E. Roca, and G. Chong
+southern Etoile/Sainte-Baume structures (Figures 1a and 18)         (2008), The role of inherited tectono-sedimentary architecture in the
+also associated with Late Cretaceous/Paleocene growth strata        development of the central Andean mountain belt: Insights from the Cor-
+[e.g., Corroy and Philip, 1964; Aubouin and Chorowicz,              dillera de Domeyko, J. Struct. Geol., 30, 1520–1539, doi:10.1016/j.
+                                                                    jsg.2008.08.005.
+1967; Cojan, 1993; Leleu et al., 2009]. The shortening            Andreani, L., N. Loget, C. Rangin, and X. Le Pichon (2010), New structural
+values of the Sainte-Victoire System are weak at a regional         constraints on the southern Provence thrust belt (France): Evidences for
+scale, however, combined with shortening accommodated by            an Eocene shortening event linked to the Corsica-Sardinia subduction,
+synchronous structures of similar characteristics in the Prov-      Bull. Soc. Geol. Fr., 181, 547–563, doi:10.2113/gssgfbull.181.6.547.
+                                                                  Angelier, J. (1971), La partie septentrionale de la bande triasique de Barjol
+ence foreland may result in a significant increase of cumulated     (Var), PhD thesis, 193 pp., Faculté des Sciences de Paris, Paris.
+continental shortening at the Pyrenean-Provence orogen scale.     Angelier, J. (1990), Inversion of field data in fault tectonics to obtain the
+                                                                    regional stress–III. A new rapid direct inversion method by analytical
+                                                                    means, Geophys. J. Int., 103, 363–376, doi:10.1111/j.1365-246X.1990.
+8. Conclusions                                                      tb01777.x.
+                                                                  Angelier, J., A. Tarantola, B. Valette, and S. Manoussis (1982), Inversion of
+  [62] Structural, growth strata and fault slip analyses,           field data in fault tectonics to obtain the regional stress, I, Single phase fault
+together with the construction of four 30 km-long balanced          populations: A new method of computing the stress tensor, Geophys. J. R.
+cross sections, allow us to constrain the along-strike struc-       Astron. Soc., 69, 607–621, doi:10.1111/j.1365-246X.1982.tb02766.x.
+                                                                  Arévian, A., N. Toutin, H. Rousseau, R. Campredon, and R. Dars (1979),
+tural architecture, kinematics and timing of the deformation        Les séries continentales du Permien du Var, Bull. Bur. Rech. Geol.
+of the Sainte-Victoire System and adjacent syntectonic Arc          Min., 1, 31–43.
+and Rians Basins. The main conclusions are as follows:            Arlhac, P., et al. (1970), Geological map of the France, Map 995, scale 1:50,000,
+  [63] 1. The Sainte-Victoire System is divided into two            Bur. de Rech. Geol. et Min., Orléans, France.
+                                                                  Arthaud, F., and P. Matte (1975), Les décrochements tardi-hercyniens du
+structural domains: an eastern domain governed by a N-vergent       sud-ouest de l’Europe. Géometrie et essai de reconstitution des conditions
+thin-skinned tectonic style above Triassic series; a western
+
+                                                            25 of 27
+TC4021                              ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                                             TC4021
+
+  de la déformation, Tectonophysics, 25, 139–171, doi:10.1016/0040-                  middle Durance fault (SE France), Geophys. J. Int., 172, 1163–1178,
+  1951(75)90014-1.                                                                   doi:10.1111/j.1365-246X.2007.03683.x.
+Arthaud, F., and M. Seguret (1981), Les structures pyrénéennes du Langue-          Dahlstrom, C. D. A. (1969), Balanced cross sections, Can. J. Earth Sci., 6,
+  doc et du golfe du Lion (Sud de la France), Bull. Soc. Geol. Fr., 23, 51–63.       743–757, doi:10.1139/e69-069.
+Aubouin, J., and J. Chorowicz (1967), Le chevauchement sud-Provençal:              Davis, D., J. Suppe, and F. A. Dahlen (1983), Mechanics of fold-and-thrust
+  De l’Etoile à la Sainte-Baume, Bull. Soc. Geol. Fr., 7, 600–608.                   belts and accretionary wedges, J. Geophys. Res., 88, 1153–1172,
+Baroux, E., N. A. Pino, G. Valensise, O. Scotti, and M. Cushing (2003),              doi:10.1029/JB088iB02p01153.
+  Source parameters of the 11 June 1909, Lambesc (southern France) earth-          Delfaud, J., N. Toutin-Morin, and R. Morin (1989), Un cone alluvial en bor-
+  quake: A reappraisal based on macroseismic, seismological and geodetic             dure d’un basin intramontagneux: La formation permienne du Rocher de
+  observations, J. Geophys. Res., 108(B9), 2454, doi:10.1029/2002JB002348.           Roquebrune (bassin de Bas-Argens, Provence orientale), C. R. Acad. Sci.
+Bergerat, F. (1987), Stress field in the European platform at the time of            Paris, 309, 1811–1817.
+  Africa–Eurasia collision, Tectonics, 6, 99–132, doi:10.1029/TC006i002p00099.     Dubois, P., and R. Curnelle (1978), Résultats apportés par le forage des
+Besson, D. (2005), Architecture du bassin rhodano-provençal miocène                  Mées no. 1 sur le plateau de Valensole (Alpes-de-Hautes-Provence),
+  (Alpes, SE France), Relations entre déformation, physiographie et sédi-            C. R. Soc. Geol. Fr., 4, 181–184.
+  mentation dans un bassin molassique d’avant-pays, PhD thesis, 438 pp.,           Durand, J. P., and C. Tempier (1962), Etude tectonique de la zone des
+  Ecole des Mines de Paris, Paris.                                                   breches du massif de Sainte-Victoire, dans la region du Tholonet, Bull.
+Biberon, B. (1988), Mécanismes et évolution de chevauchements à ver-                 Soc. Geol. Fr., 7, 97–101.
+  gences opposées. Exemple de la Montagne Sainte-Victoire, PhD thesis,             Flöttmann, T., and M. Hand (1999), Folded basement-cored tectonic
+  189 pp., Univ. Joseph Fourier, Grenoble, France.                                   wedges along the northern edge of the Amadeus Basin, Central Australia:
+Boyer, S. E. (1992), Geometric evidence for synchronous thrusting in the             Evaluation of orogenic shortening, J. Struct. Geol., 21, 399–412,
+  southern Alberta and northwest Montana thrust belts, in Thrust Tectonics,          doi:10.1016/S0191-8141(99)00031-0.
+  edited by K. R. McClay, pp. 377–390, Chapman and Hall, London,                   Garcia, G., and M. Vianey-Liaud (2001), Dinosaur eggshells as biochrono-
+  doi:10.1007/978-94-011-3066-0_34.                                                  logical markers in Upper Cretaceous continental deposits, Palaeogeogr.
+Boyer, S. E., and D. Elliott (1982), The geometry of thrust systems, AAPG            Palaeoclimatol. Palaeoecol., 169, 153–164, doi:10.1016/S0031-0182(01)
+  Bull., 66, 1196–1230.                                                              00215-2.
+Butler, R. W. H., E. Tavarnelli, and M. Grasso (2006), Structural inheri-          Gattacceca, J., A. Deino, R. Rizzo, D. S. Jones, B. Henry, B. Beaudoin, and
+  tance in mountain belts: An Alpine–Apennine perspective, J. Struct.                F. Vadeboin (2007), Miocene rotation of Sardinia: New paleomagnetic
+  Geol., 28, 1893–1908, doi:10.1016/j.jsg.2006.09.006.                               and geochronological constraints and geodynamic implications, Earth
+Carey, E., and B. Brunier (1974), Analyse théorique et numérique d’un                Planet. Sci. Lett., 258, 359–377, doi:10.1016/j.epsl.2007.02.003.
+  modèle mécanique élémentaire appliqué à l’étude d’une population de              Gaviglio, P. (1985), A fault and stress field analysis in a coal mine
+  failles, C. R. Acad. Sci. Paris, 279, 891–894.                                     (Gardanne, Bouches du Rhône, France), Tectonophysics, 113, 349–366,
+Cassini G., M. Durand, and A. Ronchi (2003), Permian-Triassic continental            doi:10.1016/0040-1951(85)90205-7.
+  sequences of northwest Sardinia and south Provence: Stratigraphic correla-       Gaviglio, P., and J. F. Gonzales (1987), Fracturation et histoire tectonique
+  tions and palaeogeographical implications, Boll. Soc. Geol. It., 2, 119–129.       du bassin de Gardanne (Bouches du Rhône), Bull. Soc. Geol. Fr., 4,
+Catzigras, F., E. Colomb, J. P. Durand, G. Guieu, C. Rousset, C. Tempier,            675–682.
+  D. Nury, and J. Rouire (1969), Geological map of the France, map of              Graciansky, P. C., and M. Lemoine (1988), Early Cretaceous tectonics in
+  Aix-en-Provence, Map 1021, 2nd ed., scale 1:50,000, Bur. de Rech. Geol.            the southwestern French Alps: A consequence of North-Atlantic rifting
+  et Min., Orléans, France.                                                          during Tethyan spreading, Bull. Soc. Geol. Fr., 5, 733–737.
+Champion, C., P. Choukroune, and G. Clauzon (2000), La déformation                 Guan, S., B. Li, D. He, J. H. Shaw, and Z. Chen (2009), Recognition and
+  post-Miocène en Provence occidentale, Geodin. Acta, 13, 67–85,                     exploration of structural wedges: A case study in the southern margin
+  doi:10.1016/S0985-3111(00)00114-5.                                                 of Junggar Basin, China, Earth Space Frontiers, 16, 129–137.
+Chardon, C., and O. Bellier (2003), Geological boundary conditions of the          Guieu, G., J. Philip, J.-P. Durand, D. Nury, and C. Redondo (1987), Le
+  1909 Lambesc (Provence, France) earthquake: Structure and evolution of             détritisme provençal du Crétacé moyen à l’Oligocène dans son cadre
+  the Trevaresse ridge anticline, Bull. Soc. Geol. Fr., 174, 497–510,                paleogéographique, structural et géodynamique, Geol. Alp., 13, 247–271.
+  doi:10.2113/174.5.497.                                                           Guignard, P., O. Bellier, and D. Chardon (2005), Géométrie et cinématique
+Chorowicz, J., and R. Ruiz (1984), La Sainte-Victoire (Provence): Observa-           post-oligocène des failles d’Aix et de la moyenne Durance (Provence,
+  tions et interprétations nouvelles, Geol. Fr., 4, 41–55.                           France), C. R. Geosci., 337, 375–384, doi:10.1016/j.crte.2004.10.009.
+Chorowicz, J., A. Mekarnia, and J.-P. Rudant (1989), Inversion tectonique          Guyonnet-Benaize, C., J. Lamarche, J.-P. Masse, M. Villeneuve, and
+  dans le massif de la montagne Sainte-Victoire (Provence, France). Apport           S. Viseur (2010), 3D structural modelling of small-deformations in poly
+  de l’imagerie Spot, C. R. Acad. Sci. Paris, 308, 1179–1185.                        phase faults pattern, Application to the Mid-Cretaceous Durance uplift,
+Clauzon, G., J. Fleury, O. Bellier, S. Molliex, and L. Mocochain (2011),             Provence (SE France), J. Geodyn., 50, 81–93, doi:10.1016/j.jog.2010.03.003.
+  Tectonics and morphogenesis of northern Provence during the Miocene:             Hain, M. P., M. R. Strecker, B. Bookhagen, R. N. Alonso, H. Pingel, and
+  A morphostructural study of the Luberon (Vaucluse), Bull. Soc. Geo.                A. K. Schmitt (2011), Neogene to Quaternary broken-foreland formation
+  Fr., 182, 93–108.                                                                  and sedimentation dynamics in the Andes of NW Argentina (25 S),
+Cojan, I. (1989), Discontinuité majeures en milieu continental. Proposition          Tectonics, 30, TC2006, doi:10.1029/2010TC002703.
+  de corrélation avec des événements globaux (Bassin de Provence, S. France,       Hilley, G. E., P. M. Blisniuk, and M. R. Strecker (2005), Mechanics and
+  Passage Crétacé/Tertiaire), C. R. Acad. Sci. Paris, 309, 1013–1018.                erosion of basement-cored uplift provinces, J. Geophys. Res., 110,
+Cojan, I. (1993), Alternating fluvial and lacustrine sedimentation: Tectonics        B12409, doi:10.1029/2005JB003704.
+  and climatic controls (Provence Basin, S. France, Upper Cretaceous/              Hippolyte, J.-C., J. Angelier, and F. Roure (1992), Les permutations de con-
+  Paleocene), Spec. Publ. Int. Assoc. Sedimentol., 17, 425–438.                      traintes dans un orogène: Exemple des terrains quaternaires du sud de
+Cojan, I., M. Renard, and L. Emmanuel (2003), Palaeoenvironmental recon-             l’Apennin, C. R. Acad. Sci. Paris, 315, 89–95.
+  struction of dinosaur nesting sites based on a geochemical approach to egg-      Hippolyte, J.-C., J. Angelier, D. Nury, F. Bergerat, and G. Guieu (1993),
+  shells and associated palaeosols (Maastrichtian, Provence Basin, France),          Tectonic-stratigraphic record of paleostress time changes in the Oligocene
+  Palaeogeogr. Palaeoclimatol. Palaeoecol., 191, 111–138, doi:10.1016/               basins of the Provence, southern France, Tectonophysics, 226, 15–35,
+  S0031-0182(02)00655-7.                                                             doi:10.1016/0040-1951(93)90108-V.
+Colletta, B., F. Roure, B. De Toni, D. Loureiro, H. Passalacqua, and Y. Gou        Hippolyte, J. C., F. Bergerat, M. B. Gordon, O. Bellier, and N. Espurt
+  (1997), Tectonic inheritance, crustal architecture, and contrasting structural     (2012), Keys and pitfalls in mesoscale fault analysis and paleostress recon-
+  style in the Venezuelan Andes, Tectonics, 16, 777–794, doi:10.1029/                structions, the use of Angelier’s methods, Tectonophysics, doi:10.1016/j.
+  97TC01659.                                                                         tecto.2012.01.012, in press.
+Corroy, G., and J. Philip (1964), Le brachyanticlinal des pics des Corbeaux,       Jorda, M., and M. Provansal (1992), La montagne Sainte-Victoire, Struc-
+  dans le massif de la Sainte-Baume (Var), Bull. Soc. Geol. Fr., 7, 560–563.         ture, relief, et morphogenèse antérieure au Postglaciaire, Mediterranee,
+Corroy, G., C. Tempier, and J. P. Durand (1964), Evolution tectonique de             75, 17–28, doi:10.3406/medit.1992.2750.
+  la montagne Sainte-Victoire en Provence, C. R. Acad. Sci. Fr., 258,              Judge, P. A., and R. W. Allmendinger (2011), Assessing uncertainties in
+  1556–1557.                                                                         balanced cross sections, J. Struct. Geol., 33, 458–467, doi:10.1016/j.
+Coward, M. P. (1996), Balancing sections through inverted basins, Geol.              jsg.2011.01.006.
+  Soc. Spec. Pub., 99, 51–77.                                                      Lacombe, O., and L. Jolivet (2005), Structural and kinematic relationships
+Cushing, M., O. Bellier, S. Nechtschein, M. Sébrier, P. Volant, A. Lomax,            between Corsica and the Pyrenees-Provence domain at the time of the
+  P. Dervin, P. Guignard, and L. Bove (2007), A multidisciplinary study of           Pyrenean orogeny, Tectonics, 24, TC1003, doi:10.1029/2004TC001673.
+  a slow-slipping fault for seismic hazard assessment: The example of the
+
+
+                                                                            26 of 27
+TC4021                             ESPURT ET AL.: STRUCTURE OF THE SAINTE-VICTOIRE SYSTEM                                                           TC4021
+
+Lacombe, O., and F. Mouthereau (2002), Basement-involved shortening             Muñoz, J. A. (1992), Evolution of a continental collision belt: ECORS-
+  and deep detachment tectonics in forelands of orogens: Insights from recent     Pyrenees crustal balanced cross-section, in Thrust Tectonics, pp. 235–246,
+  collision belts (Taiwan, Western Alps, Pyrenees), Tectonics, 21(4), 1030,       Chapman and Hall, London, doi:10.1007/978-94-011-3066-0_21.
+  doi:10.1029/2001TC901018.                                                     Price, R. A. (1986), The southeastern Canadian Cordillera: Thrust faulting,
+Lacombe, O., J. Angelier, and P. Laurent (1992), Determining palaeostress         tectonic wedging, and delamination of the lithosphere, J. Struct. Geol., 8,
+  orientations from faults and calcite twins: A case study near the Sainte-       239–254, doi:10.1016/0191-8141(86)90046-5.
+  Victoire Range (southern France), Tectonophysics, 201, 141–156,               Ricour, J., I. Argyriadis, and R. Monteau (2005), Nouvelle interprétation
+  doi:10.1016/0040-1951(92)90180-E.                                               tectonique de la montagne Sainte-Victoire (Provence, France), C. R.
+Leleu, S., J.-F. Ghienne, and G. Manatschal (2005), Upper Cretaceous-             Geosci., 337, 1277–1283, doi:10.1016/j.crte.2005.07.005.
+  Palaeocene basin margin alluvial fans documenting interaction between         Roure, F., and B. Colletta (1996), Cenozoic inversion structures in the fore-
+  tectonic and environmental processes (Provence, SE France), Geol. Soc.          land of the Pyrenees and Alps, in Peri-Tethys Memoir 2: Structure and
+  Spec. Publ., 251, 217–239.                                                      Prospects of Alpine Basins and Forelands, Mem. du Mus. Natl. Hist.
+Leleu, S., J.-F. Ghienne, and G. Manatschal (2009), Alluvial fan develop-         Nat., vol. 170, edited by P. A. Ziegler, pp. 173–209, Mus. Natl. Hist.
+  ment and morphotectonic evolution in response to contractional fault            Nat., Paris.
+  reactivation (Late Cretaceous–Paleocene), Provence, France, Basin Res.,       Rousset, C. (1978), De l’importance régionale de la faille d’Aix en
+  21, 157–187, doi:10.1111/j.1365-2117.2008.00378.x.                              Provence, C. R. Acad. Sci. Paris, 286, 189–192.
+Macedo, J., and S. Marshak (1999), The geometry of fold-thrust belt sali-       Ruiz Barragan, M. R. (1978), Etude structural en Provence: Le Massif de la
+  ents, Geol. Soc. Am. Bull., 111, 1808–1822, doi:10.1130/0016-7606               Sainte-Victoire, PhD thesis, 129 pp., Univ. Pierre et Marie Curie, Paris.
+  (1999)111<1808:COTGOF>2.3.CO;2.                                               Said, A., D. Chardon, P. Baby, and J. Ouali (2011), Active oblique ramp
+Marshak, S., and M. S. Wilkerson (1992), Effect of overburden thickness           faulting in the southern Tunisian atlas, Tectonophysics, 499, 178–189,
+  on thrust belt geometry and development, Tectonics, 11, 560–566,                doi:10.1016/j.tecto.2011.01.010.
+  doi:10.1029/92TC00175.                                                        Saura, E., and A. Teixell (2006), Inversion of small basins: Effects on struc-
+Masse, J.-P. (1976), Les calcaires urgoniens de Provence (Valanginien-            tural variations at the leading edge of the Axial Zone antiformal stack
+  Aptien Inférieur) - Stratigraphie, paléontologie, paléoenvironnements et        (Southern Pyrenees, Spain), J. Struct. Geol., 28, 1909–1920, doi:10.1016/
+  leur évolution, PhD thesis, 445 pp., Univ. de la Méditerranée, Aix-Mar-         j.jsg.2006.06.005.
+  seille, France.                                                               Schettino, A., and E. Turco (2011), Tectonic history of the western Tethys
+Masse, J.-P., and J. Philip (1976), Paléogéographie et tectonique du Crétacé      since the Late Triassic, Geol. Soc. Am. Bull., 123, 89–105, doi:10.1130/
+  moyen en Provence, Rev. Geogr. Phys. Geol. Dyn., 2, 49–66.                      B30064.1.
+McClay, K. R. (1989), Analogue models of inversion tectonics, Geol. Soc.        Shaw, J., C. Connors, and J. Suppe (2005), Seismic interpretation of contrac-
+  Spec. Pub., 44, 44–59.                                                          tional fault-related folds, AAPG seismic atlas, Stud. Geol. Tulsa Okla., 53,
+McClay, K. R., and P. G. Buchanan (1992), Thrust faults in inverted exten-        1–156.
+  sional basins, in Thrust Tectonics, pp. 93–104, Chapman and Hall,             Suppe, J. (1983), Geometry and kinematics of fault-bend folding, Am. J.
+  London.                                                                         Sci., 283, 684–721, doi:10.2475/ajs.283.7.684.
+Meigs, A. J., and D. W. Burbank (1997), Growth of the south Pyrenean            Suppe, J., and D. A. Medwedeff (1990), Geometry and kinematics of fault-
+  orogenic wedge, Tectonics, 16, 239–258, doi:10.1029/96TC03641.                  propagation folding, Eclogae Geol. Helv., 83(3), 409–454.
+Ménard, G. (1980), Profondeur du socle antétriasique dans le Sud-Est de la      Suppe, J., T. T. Chou, and C. H. Stephen (1992), Rates of folding and fault-
+  France, C. R. Acad. Sci. Paris, 290, 299–302.                                   ing determined from growth strata, in Thrust Tectonics, edited by K. R.
+Mitra, M. (2002), Fold-accommodation faults, Am. Assoc. Pet. Geol. Bull.,         McClay, pp. 105–121, Chapman and Hall, New York, doi:10.1007/978-
+  86, 671–693.                                                                    94-011-3066-0_9.
+Molinaro, M., P. Leturmy, J.-C. Guezou, D. Frizon de Lamotte, and S. A.         Tempier, C. (1972), Les Faciès Calcaires du Jurassique Provençal, Trav.
+  Eshraghi (2005), The structure and kinematics of the southeastern               Lab. Sci. Terre, Sér. B, vol. 4, pp. 1–371, Lab. Sci. Terr., Marseille,
+  Zagros fold-thrust belt, Iran: From thin-skinned to thick-skinned tecton-       France.
+  ics, Tectonics, 24, TC3007, doi:10.1029/2004TC001633.                         Tempier, C. (1987), Modèle nouveau de mise en place des structures
+Molliex, S., O. Bellier, M. Terrier, J. Lamarche, G. Martelet, and N. Espurt      provençales, Bull. Soc. Geol. Fr., 8, 533–540.
+  (2011), Tectonic and sedimentary inheritance on the structural frame-         Tempier, C., and J.-P. Durand (1981), Importance de l’épisode d’âge
+  work of Provence (SE France): Importance of the Salon-Cavaillon fault,          crétacé supérieur dans la structure du versant méridional de la montagne
+  Tectonophysics, 501, 1–16, doi:10.1016/j.tecto.2010.09.008.                     Sainte-Victoire (Provence), C. R. Acad. Sci. Paris, 293, 629–632.
+Montenat, C., C. Hibsch, J.-C. Perrier, F. Pascaud, and P. de Bretizel          Terrier, M., O. Serrano, and F. Hanot (2008), Reassessment of the structural
+  (1997), Tectonique cassante d’âge Crétacé inférieur dans l’Arc de Nice          framework of western Provence (France): Consequence on the regional
+  (Alpes-Maritimes, France), Geol. Alp., 73, 59–66.                               seismotectonic model, Geodin. Acta, 21(5–6), 231–238, doi:10.3166/
+Mora, A., M. Parra, M. R. Strecker, A. Kammer, C. Dimaté, and F. Rodriguez        ga.21.231-238.
+  (2006), Cenozoic contractional reactivation of Mesozoic extensional struc-    Toutin-Morin, N., and D. Bonijoly (1992), Structuration des basins de Prov-
+  tures in the eastern cordillera of Colombia, Tectonics, 25, TC2010,             ence orientale à la fin de l’ère primaire, Cuad. Geol. Iber., 16, 59–74.
+  doi:10.1029/2005TC001854.                                                     Toutin-Morin, N., D. Bonijoly, C. Brocard, G. Dardeau, and M. Dubar
+Mora, A., M. Parra, M. R. Strecker, E. R. Sobel, G. Zeilinger, C. Jaramillo,      (1992), Rôle des structures tardi à post-hercyniennes dans l’évolution
+  S. F. Da Silva, and M. Blanco (2010), The eastern foothills of the Eastern      de la plate-forme provençale (bordure des Maures et du Tanneron,
+  Cordillera of Colombia: An example of multiple factors controlling struc-       France, C. R. Acad. Sci. Paris, 315, 1725–1732.
+  tural styles and active tectonics, Geol. Soc. Am. Bull., 122, 1846–1864,      Westphal, M., and J.-P. Durand (1990), Magnétostratigraphie des séries
+  doi:10.1130/B30033.1.                                                           continentales fluviolacustres du Crétacé supérieur dans le synclinal de l’Arc
+                                                                                  (région d’Aix-en-Provence, France), Bull. Soc. Geol. Fr., 8, 609–620.
+
+
+
+
+                                                                         27 of 27
+

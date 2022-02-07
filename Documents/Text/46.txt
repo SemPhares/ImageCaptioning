@@ -1,0 +1,992 @@
+                           PUBLICATIONS
+Tectonics
+RESEARCH ARTICLE                              Reconstruction of the Exhumed Mantle Across the North
+10.1002/2017TC004716
+                                              Iberian Margin by Crustal-Scale 3-D Gravity
+Key Points:
+• 3-D lithospheric-scale gravity
+                                              Inversion and Geological Cross Section
+  inversion demands the presence of a         A. Pedrera1 , J. García-Senz1, C. Ayala1,2           , A. Ruiz-Constán1       , L. R. Rodríguez-Fernández1             ,
+  high-density mantle body placed
+  within the crust                            A. Robador1, and L. González Menéndez1
+• Exhumed mantle extends beneath the          1
+  Basque-Cantabrian Basin and along            Instituto Geológico y Minero de España (IGME, Madrid, Spain, 2Now visiting at the Institute of Earth Sciences Jaume
+  the northern side of the Pyrenees           Almera-CSIC, Barcelona, Spain
+• A major south-dipping ramp-ﬂat-ramp
+  extensional detachment active
+  between Valanginian and early
+  Cenomanian times controlled rifting         Abstract      Recent models support the view that the Pyrenees were formed after the inversion of a
+  and mantle exhumation                       previously highly extended continental crust that included exhumed upper mantle rocks. Mantle rocks
+                                              remain near to the surface after compression and mountain building, covered by the latest Cretaceous to
+                                              Paleogene sequences. 3-D lithospheric-scale gravity inversion demands the presence of a high-density
+Correspondence to:                            mantle body placed within the crust in order to justify the observed anomalies. Exhumed mantle, having
+A. Pedrera,                                   ~50 km of maximum width, continuously extends beneath the Basque-Cantabrian Basin and along the
+a.pedrera@igme.es
+                                              northern side of the Pyrenees. The association of this body with rift, postrift, and inversion structural
+                                              geometries is tested in a balanced cross section across the Basque-Cantabrian Basin that incorporates a major
+Citation:                                     south-dipping ramp-ﬂat-ramp extensional detachment active between Valanginian and early Cenomanian
+Pedrera, A., García-Senz, J., Ayala, C.,
+                                              times. Results indicate that horizontal extension progressed ~48 km at variable strain rates that increased
+Ruiz-Constán, A., Rodríguez-Fernández,
+L. R., Robador, A., & González Menéndez, L.   from 1 to ~4 mm/yr in middle Albian times. Low-strength Triassic Keuper evaporites and mudstones above
+(2017). Reconstruction of the exhumed         the basement favor the decoupling of the cover with formation of minibasins, expulsion rollovers, and
+mantle across the North Iberian Margin
+                                              diapirs. The inversion of the extensional system is accommodated by doubly verging basement thrusts due
+by crustal-scale 3-D gravity inversion
+and geological cross section. Tectonics,      to the reactivation of the former basin bounding faults in Eocene-Oligocene times. Total shortening is
+36, 3155–3177. https://doi.org/10.1002/       estimated in ~34 km and produced the partial subduction of the continental lithosphere beneath the two
+2017TC004716
+                                              sides of the exhumed mantle. Obtained results help to pinpoint the original architecture of the North Iberian
+                                              Margin and the evolution of the hyperextended aborted intracontinental basins.
+Received 3 JUL 2017
+Accepted 14 NOV 2017
+Accepted article online 23 NOV 2017
+Published online 18 DEC 2017                  1. Introduction
+                                              Mantle-derived rocks can be exhumed along magma-poor rift systems prior to the formation of oceanic
+                                              crust (e.g., Brun & Beslier, 1996). Such exhumed mantle domains have been recognized for a long time in
+                                              the rifted margins of the Atlantic Ocean and their evolution modeled (e.g., Bayrakci et al., 2016; Boillot
+                                              et al., 1980, 1989; Le Pichon & Sibuet, 1981; Pérez-Gussinyé & Reston, 2001; Ranero & Perez-Gussinyé, 2010;
+                                              Reston, 1996; Whitmarsh et al., 1998, 2001). Deformation processes behind the conﬁguration of asymmetric
+                                              margins leading to crustal breakup and mantle exhumation are discussed. Extreme crustal thinning is
+                                              explained by distributed upper-crustal normal faults acting sequentially in time, accompanied by ductile
+                                              deformation of the lower crust, and subsequent lower-crust embrittlement (Brune et al., 2014, 2017;
+                                              Pérez-Gussinyé, 2013; Ranero & Perez-Gussinyé, 2010; Reston & McDermot, 2011) or by slip on a master
+                                              extensional detachment cross-cutting the whole crust and reaching the mantle lithosphere (e.g., Brun &
+                                              Beslier, 1996; Huismans & Beaumont, 2005; Lavier & Manatschal, 2006; Manatschal et al., 2001;
+                                              Manatschal, 2004; Reston, 1996). The revival of simple shear models producing drastic crustal thinning,
+                                              now termed the hyperextension model, has renewed the focus on the Early Cretaceous processes inducing
+                                              mantle exhumation and basin development in the northern margin of the Iberian plate that have been
+                                              classically explained under a left-lateral transtensional scenario (e.g., Choukroune et al., 1973; Debroas,
+                                              1987, 1990). The presence of exhumed mantle pieces in the Pyrenees and Cantabrian Mountain allows
+                                              the comparison of the rifting model proposed for the Atlantic with an onshore analogue (e.g., Boillot,
+                                              1986; Clerc & Lagabrielle, 2014; Teixell et al., 2016; Tugend et al., 2014). However, it is important to note
+                                              that spreading stopped in the narrow intracontinental basins of the North Iberian Margin. Therefore, man-
+©2017. American Geophysical Union.            tle exhumation mechanisms and deformation rates could differ from those occurring at passive margins
+All Rights Reserved.                          with full developed oceanic crust. The geophysical signature of derived-mantle rocks together with the
+
+
+PEDRERA ET AL.                                             MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                              3155
+                               Tectonics                                                                                         10.1002/2017TC004716
+
+
+
+
+Figure 1. Tectonic setting of the North Iberian Margin. (a) Inset showing the Iberian Peninsula in the framework of the Central Atlantic and the Bay of Biscay. The
+number refers to the age of the oceanic crust in millions of years. Exhumed mantle along the Iberian margins in black and continental crust in grey.
+(b) Geological map of the Basque-Cantabrian Basin and the Pyrenees with locations of Figures 2, 4, 5, and 6. Location of Figure 1b is framed.
+
+
+
+                                         stratigraphic architecture of linked sedimentary basins provide a record of the processes behind mantle
+                                         exhumation and lithosphere breakup.
+                                         The aim of this paper is to examine the geometry of exhumed mantle along the North Iberian Margin.
+                                         Departing from a previous Moho topography recently established from receiver-function data (Mancilla &
+                                         Diaz, 2015) and newly compiled onshore Bouguer anomaly data, high-density bodies have been delineated
+                                         using 3-D gravity inversion and interpreted as ultramaﬁc mantle rocks. A crustal-scale geological section
+                                         across the Basque-Cantabrian Basin and the mantle body is proposed based on ﬁeldwork, seismic reﬂection,
+                                         and deep-borehole data. Finally, cross-section restoration permits us to explain the sequential evolution of
+                                         the rift basin and to calculate strain rates.
+
+
+                                         2. Geological Setting
+                                         Permian-Triassic and Early Cretaceous rifting events successively induced lithosphere thinning and basin
+                                         formation between the European and Iberian plates. Triassic deposits show variations in thickness linked
+                                         to WNW-ESE to E-W trending normal faults including basic hypabyssal igneous rocks (e.g., Espina, 1997;
+                                         Espina et al., 2004; García-Mondéjar et al., 1986) (Figure 1). The main rifting event leads to oceanic crust
+                                         formation in the Bay of Biscay and crustal breakup between the Iberia and Eurasian plates in Early Cretaceous
+                                         (e.g., Boillot, 1986) (Figure 1a). Several segmented Lower Cretaceous extensional basins formed, being
+                                         the Basque-Cantabrian and the Mauleòn-Arzacq the most important regarding their sedimentary
+                                         thickness (Figures 1b and 2). Mantle lherozlitic bodies emplaced during late Albian and early Cenomanian
+                                         are in close spatial relationship with these basins (e.g., Fabriès et al., 1998). Alkaline magmatism (e.g.,
+                                         Fernández-Mendiola & García-Mondéjar, 1995; Castañares et al., 2001) and high-temperature metamorphism
+                                         also occurred adjacent to the North Pyrenean and Leitza fault zones (Figure 1), partly concomitant with man-
+                                         tle exhumation (e.g., Clerc et al., 2013; Lagabrielle et al., 2010). As previously mentioned, the mechanism
+                                         behind the formation of the basins and the process driving mantle exhumation have been long debated
+                                         issues. They have been interpreted as pull-apart basins developed in a strike-slip setting (Choukroune
+                                         et al., 1973; Debroas, 1987, 1990; Peybernk & Soquet, 1984; García-Mondéjar et al., 1996), as back-arc basins
+                                         linked to the subduction of a north-dipping oceanic slab beneath the Eurasian plate (Sibuet et al., 2004;
+
+
+PEDRERA ET AL.                                         MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                              3156
+                 Tectonics                                                                                    10.1002/2017TC004716
+
+
+
+
+                     Figure 2. Geological map of the Basque-Cantabrian Basin with the location of the cross section (heavy orange line), seismic
+                     lines (thin red lines), and boreholes. The three parts of the cross section shown in Figures 8–10 are also marked. The
+                     encircled letters A to K refer to main faults. The marked Leitza-Gernika extensional detachment (LGD) corresponds to
+                     exposure of aligned shallow faults above main breakaway faults.
+
+
+                     Vissers et al., 2016), and as Lower Cretaceous rift basins last evolved in hyperextension (e.g., Boillot, 1986;
+                     Jammes et al., 2009; Ferrer et al., 2008; Lagabrielle et al., 2010; Tugend et al., 2014). Previous
+                     hyperextension models propose that mantle exhumation and the development of Lower Cretaceous
+                     sedimentary basins are linked to a continuous extensional detachment dipping to the north crossing the
+                     Basque-Cantabrian Basin, which is connected with the North Pyrenean Fault along the Pamplona left
+
+
+PEDRERA ET AL.                     MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                               3157
+                 Tectonics                                                                            10.1002/2017TC004716
+
+
+
+                     stepping transfer fault zone (Roca et al., 2011; Tugend et al., 2014). The dipping sense of the master detach-
+                     ment will be discussed extensively next.
+                     The tectonic inversion of this stretched crust produced the Pyrenean-Cantabrian Orogen that comprised the
+                     Pyrenees and the Cantabrian Mountains (e.g., Pulgar et al., 1996; Rodríguez-Fernández et al., 2015) (Figure 1).
+                     A ﬁrst latest Cretaceous collisional event was proposed in the Pyrenees and was recorded by upper Santonian
+                     synorogenic units at the front of the Bóixols thrust sheet (e.g., Papon, 1969; Garrido-Megías, 1973; Muñoz,
+                     1992; García-Senz, 2002; Vergés et al., 1995; Vergés & García-Senz, 2001; Teixell, 1998; Mouthereau et al.,
+                     2014). After a Paleocene quiet period, the main contraction started in Eocene-Oligocene times (e.g.,
+                     Muñoz, 1992; Mouthereau et al., 2014). The crustal structure of the Pyrenees was formed by doubly verging
+                     thrusts roughly trending E-W and rooted into a variscan basement that was uplifted within the hinterland
+                     (e.g., Fitzgerald et al., 1999; Muñoz, 1992). Thrusts propagated toward the forelands, producing the inversion
+                     of the former extensional basins. At lithospheric scale, the Iberian plate subducted beneath the European
+                     plate (Gallastegui et al., 2002; Muñoz, 2002; Pedreira et al., 2007). Shortening is estimated around 150 km
+                     in the central sector of the Pyrenees (Beaumont et al., 2000; Muñoz, 1992), 75–80 km in the western
+                     Pyrenean section (Teixell, 1998), and 96 to 86 km in the central part of the Cantabrian Mountains and the
+                     attached continental margin (Gallastegui, 2000; Gallastegui et al., 2002; Pedreira et al., 2007). Extensional
+                     structuration is the dominant style in the Basque-Cantabrian Basin that was only moderately inverted during
+                     the contraction. It is therefore an exceptional place to link the geometry of the basin with the lithospheric
+                     structure. Despite this, the amount of extension and compression has not been satisfactorily estimated
+                     to date.
+
+                     3. Stratigraphy
+                     The sedimentary record in the extensional Basque-Cantabrian Basin started with a Permo-Triassic sequence
+                     that enclosed, from bottom to top, Buntsandstein continental sandstones, mudstones, and conglomerates;
+                     highly disrupted Muschelkalk carbonates; and widespread Keuper marine variegated mudstones, gypsum,
+                     and evaporites (Figures 2 and 3). This syn-rift sequence is sealed by a continuous Lower-Upper Jurassic
+                     (Hettangian-Kimmeridgian) carbonate platform.
+                     The Cretaceous sedimentary record has been grouped into four depositional sequences (C1 to C4) consider-
+                     ing their nature, spatial distribution, and the extension rate behind their formation. The C1 sequence is com-
+                     posed of continental to shallow-water limestones of Tithonian-middle Valanginian age (Valle de Ata Fm;
+                     Pujalte, 1977). The C2 sequence, Valanginian to middle Albian in age, begins with transitional-shallow marine
+                     black shale interlayered with ﬁne-grained sandstone and siltstone beds restricted to the basin axis (Villaro
+                     Fm). Immediately above, lower Aptian delta to estuary sandstones (Eretza Fm) are in transition to shallow
+                     marine shales and marls toward the northern margin of the basin (Errenaga Fm). Shallow water carbonate
+                     platforms (Galdamez and Otoio Fms) occupy wide areas encompassing the Bilbao and Biscay anticlines in
+                     the beginning of late Aptian. Upper Aptian-lower Albian carbonate platforms (Ason Fm) continued along
+                     the Bilbao and Biscay anticlines culminating into isolated reefal systems (e.g., Ramales platform). These plat-
+                     forms are laterally linked to basinal marls and deepwater terrigenous clastics (Miera, Bilbao, and Cuadro Fms.).
+                     The C3 sequence is a terrigenous depositional system separated from the previous one by a widespread
+                     middle Albian hiatus (García-Mondéjar et al., 2004). Continental terrigenous deposits (Utrillas and Albatros
+                     Fms) expanded over the basin margins. A thick body of deltaic to shallow marine siliciclastic sediments
+                     occupied the southern part of the basin (Valmaseda Fm). Toward the north, black shale, sandstone lobe beds,
+                     conglomeratic feeder channels, and slope apron deposits cover the basin axis and the northern margin (Deba
+                     Fm). In the Biscay synclinorium, effusive calc-alkaline submarine volcanic rocks (Errigoiti Fm) are interbedded
+                     within the Deba Fm and persisted up to lower Santonian times (Castañares et al., 2001; Castañares &
+                     Robles, 2004).
+                     The Cenomanian to Campanian C4 sequence is characterized by shallow-marine sediments with an overall
+                     transgressive evolution. A continuous thin carbonate platform (Gaviota Fm) covered the northern margin
+                     of the basin while alternating marl-limestone bedded series dominated the basin axis (Calcareous Flysch)
+                     and the southern margin (Arceniega, Zuazo, Subijana, and Olazagutía Fms). Immediately above, middle
+                     Campanian to Maastrichtian hemipelagic marls and limestones (Zumaia Fm) covered the northern margin
+                     evolving to calcareous turbidites to the north (Detritic Calcareous Flysch).
+
+
+PEDRERA ET AL.                   MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                      3158
+                             Tectonics                                                                                  10.1002/2017TC004716
+
+
+
+
+Figure 3. Wheeler diagram showing the age and correlation of sedimentary formations and sequences (SQ) between the ﬁve structural/stratigraphic domains
+recognized within the Basque-Cantabrian Basin. The vertical bars indicate periods of minibasin formation.
+
+
+
+                                      Shallow water carbonate platforms and a narrow talus give pace to a hemipelagic starved basin that
+                                      occupies all the northern sectors during the Paleocene (Pujalte et al., 1993). Synorogenic Eocene to middle
+                                      Oligocene turbiditic siliciclastic deposits covered the Biscay Syncline and the northern limb of the Biscay anti-
+                                      clinorium and the Landes Platform, while continental series are preserved in the nucleus of the Miranda-
+                                      Treviño syncline.
+
+
+                                      4. 3-D Gravity Inversion
+                                      4.1. Data and Inversion Procedure
+                                      Previous gravity inversion results from the Bay of Biscay to the onshore Parentis and Arzacq basins (Tugend
+                                      et al., 2014) are completed in our new model that covers the Pyrenees and the Basque-Cantabrian Basin. The
+                                      model has been constructed using onshore Bouguer anomaly data compiled by Ayala et al. (2016) and off-
+                                      shore free air anomaly data coming from Sandwell et al. (2013). To obtain the offshore Bouguer anomaly
+                                      map, the effect of the bathymetry was subtracted using the 30 arc s General Bathymetric Chart of the
+                                      Oceans grid. Onshore and offshore Bouguer anomaly data were merged into a 2 km grid covering the study
+                                      area using 2.67 g/cm3 as the reference crustal density.
+                                      The Bouguer anomaly contains the combined effect of deep and shallow lithosphere features (Figure 4).
+                                      Typically, long wavelengths are associated to variations in the Moho and the lithosphere-asthenosphere
+                                      boundary depth, whereas medium-to-short wavelengths are correlated with lateral density variations at
+
+
+PEDRERA ET AL.                                     MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                      3159
+                             Tectonics                                                                                   10.1002/2017TC004716
+
+
+
+
+Figure 4. Gravity and magnetic anomalies in the North Iberian Margin. (a) Bouguer anomaly map combining onshore ﬁeld-based data (Ayala et al., 2016) and
+offshore satellite data (Sandwell et al., 2013). (b) Magnetic anomaly map from the EMAG2: Earth Magnetic Anomaly Grid (2 arc min resolution).
+
+
+
+                                      crustal levels. The obtained Bouguer anomaly shows positive values of up to 120 mGal in the Bay of Biscay
+                                      that decrease toward the coast. Onshore, the anomaly ranges between 120 mGal in the Axial Zone of
+                                      the Pyrenees and 30 mGal in the Mauleòn-Arzacq Basin and the northern sector of the Basque-Cantabrian
+                                      Basin. A medium wavelength elongated positive anomaly extends ~100 km from the Ajo Cape toward the
+                                      ESE crossing the Basque-Cantabrian Basin and the Mauleòn-Arzacq Basin (Figures 2 and 4a).
+                                      (i) Isolation of the medium wavelength elongated positive anomaly
+                                      To remove the gravity effect of Mesozoic and Tertiary sediments and the gravity effect of the remainder crust
+                                      assigned to a different density distribution (Figure 5), we have used the GMSYS-3D© commercial software
+                                      that calculates the gravity response (forward modeling and inversion) in the wave number domain using
+                                      the Parker algorithm (Blakely et al., 2000; Parker, 1972). The geometry of the input 3-D models is deﬁned
+                                      by 2 km × 2 km grids, and the model is extended by 50% to avoid edge effects. The modeled surfaces deﬁne
+                                      the top layer and the corresponding physical properties (density in our case) that can be speciﬁed by a con-
+                                      stant, vertical depth-density relationship relative to one of the model horizons or lateral varying density.
+                                      The thickness of Tertiary and Mesozoic sedimentary deposits has been estimated with deep boreholes and
+                                      seismic data (Arenillas-González et al., 2014). A lineal density variation from 2.30 to 2.50 g/cm3 was
+
+
+PEDRERA ET AL.                                     MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                       3160
+                                Tectonics                                                                                          10.1002/2017TC004716
+
+
+
+
+Figure 5. Isolation of the medium wavelength elongated positive gravity anomaly that extends along the Basque-Cantabrian Basin and the Pyrenees. (a) Bouguer
+anomaly map. (b) Calculated forward gravity anomaly of the crust including the effect of the sedimentary layers. Moho geometry was calculated using receiver
+function data (Mancilla & Diaz, 2015), and thickness of the Tertiary and Mesozoic cover was taken from Arenillas-González et al. (2014). (c) Crustal residual gravity
+anomaly obtained after subtraction of the forward gravity anomaly of the crust to the Bouguer anomaly map.
+
+
+
+                                         assigned to the Tertiary and 2.50 to 2.65 g/cm3 to the Mesozoic during 3-D forward modeling in order to
+                                         calculate their gravimetric response. Subsequently, we calculated the gravity contribution of the remainder
+                                         crustal rocks using the crustal thickness recently obtained from receiver function data (Mancilla & Diaz,
+                                         2015) as a primary input geometrical model. The Moho geometry derived from receiver functions analysis
+
+
+PEDRERA ET AL.                                          MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                               3161
+                 Tectonics                                                                           10.1002/2017TC004716
+
+
+
+                     was only modiﬁed in speciﬁc sectors where the modeled gravity shows strong inconsistencies with the
+                     observed gravity data. For example, an isolated seismic station indicated a thick crust (~49 km) in the Ajo
+                     Cape sector. This point has been removed due to the nearby seismic stations displaying a 40 to 39 km thick
+                     crust, and there is no gravity response linked to this “local crustal root” of 49 km. Another modiﬁcation has
+                     been made in the crustal thickness beneath the Ebro and Aquitaine basins, where the gravity model already
+                     predicts thinner values than the 39–35 km in accordance with previous lithospheric gravity modeling (Torne
+                     et al., 2015). The gravimetric response of the modiﬁed crust ﬁts the observed gravity data except from along
+                     the area of medium wavelength positive anomalies. A linear depth-density variation from 2.67 at surface to
+                     2.95 g/cm3 at 50 km was assumed during 3-D forward modeling based on already published seismic data
+                     (e.g., Pedreira et al., 2015; Torne et al., 2015). By subtracting the calculated forward gravity anomaly of the
+                     crust from the Bouguer anomaly, including the sedimentary layers, the crustal residual gravity anomaly is
+                     thus obtained (Figure 5). Finally, this obtained crustal residual anomaly, characterized by its elongated shape
+                     and values between 30 and 70 mGal, was used as observed data in the inversion to estimate the geometry of
+                     the dense body responsible for these anomalies.
+                     (ii) Inversion of the crustal residual gravity anomalies
+                     The geometry of the high-density body located within the crust is constrained using 3-D gravity inversion. As
+                     a ﬁrst step, 10 parallel 2-D forward gravity models crossing the anomaly were constructed. An initial 3-D
+                     surface was derived from interpolating the boundary of the high-density body obtained in the 2-D gravity
+                     models using minimum curvature. This initial surface was later modiﬁed using 3-D gravity inversion, assign-
+                     ing a constant density of 2.9 g/cm3 to the high-density body and preserving the geometry and density
+                     distribution of the crust that resulted from step 2 (Figures 6 and 7).
+                     The difference between the observed and calculated gravity, called “gravity error,” displays small amplitude
+                     anomalies, between 5 and 5 mGal, in the area that corresponds to the assumed location of the high density
+                     body, whereas outside that area, the “gravity error” displays high amplitude anomalies (between 40 and
+                     25 mGal) that can be attributed to lateral density variations within the crust that were not taken into account
+                     when deﬁning the density of the crust in step 2. Therefore, we have inverted this “gravity error” maintaining
+                     the geometry of the high-density body and the base of the crust allowing the inversion algorithm to laterally
+                     modify the lateral average crustal density. After this inversion, the “gravity error” ranges mainly between 2.5
+                     and 2.5 mGal with local anomalies of higher value and very short wavelength that can be attributed to local
+                     features that are out of the scope of the paper (Figure 6c).
+
+                     4.2. Geometry of the Exhumed Mantle
+                     High-density, high-velocity bodies have been previously identiﬁed along the Basque-Cantabrian Basin and
+                     the Pyrenees and interpreted either as exhumed lower crust material (e.g., Grandjean, 1994; Jammes et al.,
+                     2010; Muñoz, 1992; Pedreira et al., 2003, 2007; Quintana et al., 2015; Teixell, 1998; Vacher & Souriau, 2001)
+                     or as mantle rock (e.g., Casas et al., 1997; Tugend et al., 2014; Wang et al., 2016). The high-density body
+                     derived from our gravity inversion continuously extends beneath the Basque-Cantabrian Basin and along
+                     the North Pyrenean zone (Figure 7). It is connected to the mantle in agreement with Wang et al. (2016), which
+                     constituted a main difference with previous models (e.g., Muñoz, 1992; Teixell, 1998; Pedreira et al., 2003,
+                     2007; Quintana et al., 2015) and reaches shallow crustal levels also locally attaining the topographic surface.
+                     The body shows an asymmetric cross-sectional shape shallowing to the north beneath the Basque-
+                     Cantabrian Basin in the L1, L2, and L3 sections (Figure 7). Within this sector, the high-density crustal body
+                     reaches a maximum width of ~50 km extending up to 2.5 km in depth at the shallowest levels. In sections
+                     L5 and L6 crossing the western Pyrenees beneath the Mauleòn-Arzacq Basin, the body shows an
+                     asymmetric-shape shallowing to the south. Here the high-density body varies from ~30 to ~50 km wide.
+                     L4, adjacent to the Pamplona Fault, shows a ~50 km wide symmetric ellipsoidal shape representing a transi-
+                     tion between the two opposed asymmetric domains. Further east, in the central Pyrenees, the high-density
+                     body becomes narrow (~15 km wide) and extends vertically to levels near to the topographic surface.
+                     Prominent magnetic anomalies (Figure 4b) accompany the high-density body along all of its paths. Beneath
+                     the Mauléon-Arzacq Basin, the positive Bouguer anomaly also coincides with a fast Vp and Vs velocity anom-
+                     aly (Wang et al., 2016). Seismic refraction/wide-angle reﬂection proﬁles also identify a high-velocity anoma-
+                     lous body placed within the upper crust in the Basque Cantabrian-Basin (Pedreira et al., 2003, Figure 13,
+
+
+PEDRERA ET AL.                   MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                     3162
+                                Tectonics                                                                                            10.1002/2017TC004716
+
+
+
+
+Figure 6. Inversion of the crustal residual gravity anomalies. (a) Crustal residual gravity anomaly plotted against tectonic structures. (b) Top of the modeled crustal
+                             3
+high-density body (2.9 g/cm ) interpreted as exhumed mantle using 3-D gravity inversion. Note the correlation between the main tectonic structures and the
+exhumed mantle geometry. (c) Gravity error derived from the 3-D gravity inversion.
+
+
+PEDRERA ET AL.                                          MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                 3163
+                 Tectonics                                                                                  10.1002/2017TC004716
+
+
+
+
+                     Figure 7. Geometry of the exhumed mantle in nine parallel sections. L3 coincides with the crustal-scale cross section in
+                     Figures 8–11.
+
+
+                     beneath Shot I). Regarding its geophysical response and taking into account that outcropping ultramaﬁc
+                     rocks and coeval thermal metamorphism have been found close to the North Pyrenean and Leitza faults,
+                     we are able to interpret the high-density body as ultramaﬁc exhumed rocks of mantle origin (e.g., Casas
+                     et al., 1997; Tugend et al., 2014; Wang et al., 2016).
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                             3164
+                 Tectonics                                                                             10.1002/2017TC004716
+
+
+
+                     5. Tectonic Structure
+                     5.1. Crustal Scale Geological Cross-Section Construction
+                     The Basque-Cantabrian Basin is largely covered by commercial seismic reﬂection lines (Figure 2), acquired
+                     ever since 1970 by companies such as REPSOL, CIEPSA, CAMPSA, ENPASA, ENIEPSA, ELF Aquitania, and
+                     SHESA, among others. Seismic line distribution is heterogeneously more densely covering the Alavesa and
+                     the Landes platforms. Although the processing sequence varies from each survey, in most of the cases, it
+                     comprises of demultiplexing, gain recovery, summing, deconvolution, and static and dynamic corrections
+                     and RNMO correction. Five seismic lines (CE-11, SA81-03, ZU-2; VZ-77-136, and ESP-44), available from the
+                     Hydrocarbons Spanish Database (http://info.igme.es/infogeof/), roughly coincide with the studied cross sec-
+                     tion and have been reinterpreted. The time window is variable and ranges between 3 and 6 s with a sample
+                     interval of 2 ms. In addition, seven deep boreholes (San Antonio-1, Marinda-1, Arratia-1, Gernika-1, Aulesti-1,
+                     Vizcaya C-2, and Vizcaya C-3) have been used to interpret the seismic stratigraphy and to constrain the sec-
+                     tion. Velocity data coming from the boreholes San Antonio-1 (Frankovic et al., 2016), Vizcaya C-2, and Vizcaya
+                     C-3 have been used to convert reﬂection times into depth (Huedo Cuesta et al., 2009).
+                     Previous geological maps at 1:25,000 (Garrote Ruiz, Muñoz Jiménez, Fernández Carrasco, Cerezo Arasti,
+                     Tijero Sanz, et al., 1991; Garrote Ruiz, Muñoz Jiménez, Fernández Carrasco, Cerezo Arasti, & Zapata Sola,
+                     1991; Garrote Ruiz, et al., 1992a, 1992b; Garrote Ruiz, Muñoz Jiménez, et al., 1993; Garrote Ruiz, García
+                     Portero, Arriola Garrido, et al., 1993; Garrote Ruiz, García Portero, Fernández Carrasco, et al., 1993; Garrote
+                     Ruiz et al., 1994), 1:50,000 scale (Robador Moreno et al., 2010), and 1:1000000 scale (Rodríguez-Fernández
+                     et al., 2014) were used to construct the geological map of Figure 2 as well as the cross section. In this section,
+                     the top-mantle surface has been constrained from the 2-D and 3-D gravity models. Restoration has been
+                     attained using fault-parallel ﬂow (Egan et al., 1997; Kane et al., 1997) in Move Suite© software, which considers
+                     that the rocks within the hanging wall move parallel to the fault surface, following virtual ﬂow paths. The
+                     overburden placed above the Triassic ductile rocks has been unfolded using a ﬂexural-slip mechanism that
+                     considers plane strain slip within sedimentary layers. As is described below, plastic movement of Keuper
+                     mudstones and evaporites favored decoupling between basement and cover-inducing shale tectonics
+                     (e.g., Graue, 2000; Wood, 2010). The area of the Keuper material has not been preserved in the restoration
+                     since ﬂow oblique to the cross section is expected. Therefore, the geometry of the Triassic material during
+                     restoration is mostly reconstructed considering the unfolded geometry of the cover placed above and
+                     considering well-known examples of salt (e.g., Jackson & Hudec, 2017), shale (e.g., Wood, 2010), and diapir
+                     restoration (Lopez-Mir et al., 2014a) available in the literature. In addition, ductile deformation including pure
+                     shear is considered within the lower crust.
+
+                     5.2. Structural Description
+                     Seen in planform, the structure of the Basque-Cantabrian Basin consists of an array of WNW-ESE parallel
+                     normal faults lately inverted in Eocene and Oligocene times (Figures 1 and 2). These basement faults dip
+                     toward the basin axis and contributed to drastically stretch the crust leading to a narrow asymmetric rift
+                     system (~120 km wide in the studied section). NE-SW relay zones made of transfer faults and relay ramps
+                     connect the main faults and determined their terminations frequently displaying curvilinear geometries
+                     (e.g., Pamplona Fault in Figure 1). Thick syn-rift deposits reaching 9 km accumulated at the basin axis
+                     between the Tithonian and early Cenomanian. The ﬁve main basin domains are recognized—the Alavesa
+                     Platform, the Bilbao anticlinorium, the Biscay synclinorium, the Biscay anticlinorium, and the Landes
+                     Platform—and represented in the cross section (Figures 2, 8, 9, and 10). These domains are interpreted in
+                     the section to lie above a major south-dipping master lithospheric extensional detachment (Figure 11).
+                     5.2.1. Leitza-Gernika Extensional Detachment
+                     The top of the mantle body obtained from gravity modeling shows a stair-step geometry shallowing to the
+                     north that is interpreted as a major south-dipping ramp-ﬂat-ramp extensional detachment (Figure 7).
+                     Geological mapping and gravimetric data indicate that exposures of aligned shallow faults above the mantle
+                     body connect to the east with the Leitza fault zone (Figures 2 and 6). They are linked to synthetic basement
+                     faults rooted into a major detachment, hereon in named the Leitza-Gernika extensional detachment, which
+                     decisively contributed to thin the continental crust and to exhume the lithospheric mantle. Antithetic base-
+                     ment involved normal faults deforming the hanging wall of the Leitza-Gernika extensional detachment
+                     accomplishing dissimilar rotation during progressive slipping along the master fault.
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                       3165
+                                Tectonics                                                                                            10.1002/2017TC004716
+
+
+
+
+Figure 8. (a) Detail of the southern part of the crustal-scale cross section showing the structure of the Alavesa Platform dominated by shale tectonics and reversed
+basement normal faults under diapirs. (b) Interpreted seismic lines CE-11, SA 81-03, and ZU-2 that are tied to the San Antonio-1 well. (c) Depth converted seismic lines
+CE-11, SA 81-03, and ZU-2.
+
+
+PEDRERA ET AL.                                           MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                 3166
+                               Tectonics                                                                                         10.1002/2017TC004716
+
+
+
+
+Figure 9. Detail of the central part of the crustal-scale cross section showing the structure of the Bilbao Anticlonorium, the Biscay synclinorium, and the Biscay
+anticlinorium. Same legend as in Figure 8.
+
+
+
+                                        Low-strength Triassic Keuper mudstones and evaporites favored decoupling between basement and
+                                        Mesozoic cover during extension and succeed the activity of the normal faults. Basement-cover decoupling
+                                        is heterogeneous in time and space, highly dependent on the Keuper and the overburden thicknesses.
+                                        Mobilization and expulsion of the Triassic Keuper material is largely controlled by the interaction between
+                                        the displacement along normal faults and the load of the sedimentary layers deposited in Early Cretaceous
+                                        times. Some of these sedimentary units thicken toward speciﬁc faults revealing the age of fault activity.
+                                        5.2.2. The Alavesa Platform
+                                        The Alavesa platform is limited to the south with the Ebro foreland basin and to the north it connects with the
+                                        Bilbao anticlinorium (Figures 2 and 8). It contains up to 5 km thick sedimentary cover. The sequences C3 and
+                                        C4 overlie Keuper Triassic rocks with variable thickness, remnants of Muschelkalk Triassic carbonates and
+                                        highly disrupted Lower Jurassic limestones. This sector is characterized by south-verging thrusts, two broad
+                                        synforms where Paleogene and Miocene units are preserved, and three diapirs composed of Triassic mud-
+                                        stones and evaporites. Sedimentary strata show a general dip toward the south, while the top of the base-
+                                        ment shows an opposite dip to the north. Therefore, the C2 strata terminate downdip against the Triassic
+                                        rocks and locally against the basement.
+                                        Four north-dipping main faults are recognized (Figures 2 and 8). The reverse fault A dips ~30° to the north
+                                        and locates the thrust front over the Tertiary Ebro Basin. Paleogene to Miocene sedimentary formations, in
+                                        the foot-wall of the thrust, show vertical to overturned beds. A south-verging antiform, cored by Triassic
+                                        Keuper material, developed in the hanging wall (Figure 8a). Fault A is interpreted to be a foot-wall shortcut
+                                        of the normal fault C. Faults B–D are extensional structures antithetic to the Leitza-Gernika extensional
+                                        detachment. Fault B, placed between A and C, acted as an extensional fault in Albian times, during the
+                                        deposition of the lower Valmaseda Fm (C3), as suggested by the thickness increase of this formation toward
+                                        the fault. However, part of the available space during the sedimentation of this formation was produced by
+                                        the expulsion of Keuper material. Fault B was latterly reversed, involved in the foot-wall shortcut of the fault C,
+                                        producing a smooth south-verging antiform (b) in the hanging wall as the geoseismic line CE-11 indicates. A
+                                        broad synform, interpreted as a Keuper withdrawal minibasin, localizes between fault B and the Salina de
+                                        Araña Diapir. Argillokinetic unconformities indicate that the diapir was active during the deposit of the C3
+                                        and C4 units and in Paleogene to middle Miocene times. The location of the diapir coincides with the base-
+                                        ment fault C imaged in the seismic lines SA81-03 and ZU-2, with a reverse offset of a few hundred meters.
+                                        Fault C is interpreted as a normal fault active during C3 deposition, the latter reactivated as a reverse fault.
+                                        Similarly, the location of the Murgía Diapir was controlled by a north-dipping basement fault (Fault D) active
+                                        during C2, which, in this case, maintains its original extensional geometry.
+                                        5.2.3. The Bilbao Anticlinorium
+                                        The most complete C2 syn-rift depositional sequence is preserved in the Bilbao anticlinorium (Figures 2 and 9)
+                                        restricted to the hanging wall of Fault D, while it is absent southward of the Murgía diapir. The antiformal
+
+
+PEDRERA ET AL.                                         MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                             3167
+                               Tectonics                                                                                          10.1002/2017TC004716
+
+
+
+
+Figure 10. (a) Detail of the northern part of the crustal-scale cross section showing the structure of the Biscay Anticlonorium and the Landes Platform. Same legend
+as in Figure 8. (b) Interpreted seismic lines VZ-77-136 and ESP-44 that are tied to the Vizcaya C2 well. (c) Depth converted seismic lines VZ-77-136 and ESP-44.
+
+
+
+
+PEDRERA ET AL.                                         MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                               3168
+                               Tectonics                                                                             10.1002/2017TC004716
+
+
+
+
+Figure 11. Crustal-scale sequential restoration and main tectonic events in the basin. Same legend as in Figure 8.
+
+
+PEDRERA ET AL.                                         MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                        3169
+                 Tectonics                                                                             10.1002/2017TC004716
+
+
+
+                     structure of the Bilbao anticlinorium is interpreted here as a rollover anticline developed above the
+                     Leitza-Gernika extensional detachment. This rollover anticline is a very important feature that reinforces
+                     the interpretation of the asymmetric extensional system controlling the basin. It is cut by south-dipping
+                     normal faults (Faults E and F) showing a northward dip reduction from 70 to 30°. These faults are synthetic
+                     to the Leitza-Gernika extensional detachment rotated during extension and latterly inverted during the con-
+                     tractional reactivation of the main extensional detachment. Fault E (the Villaro Fault, Fernández-Mendiola &
+                     García-Mondejar, 1983) affects both cover and basement, revealing coupled deformation within the crestal
+                     area. The maximum thickness achieved in the Villaro Fm (C2), over 3,300 m, occurred along the hanging wall
+                     of Fault E. The Arratia 1 borehole at the foot wall of Fault E penetrates the Villaro Fm showing strong reduc-
+                     tion in thickness (~1,800 m). An Aptian-Albian reefal barrier (the Ramales platform; e.g., García-Mondéjar,
+                     1990) developed in the crestal zone of the rollover anticline. Minor conjugate normal faults formed due
+                     to the collapse of the crestal zone in Aptian-Albian times inducing the expansion of the Ereza and Ason
+                     Fms (C2) toward the faults. The sedimentary cover was deformed into a harpoon antiform (c) by reverse
+                     reactivation of Fault E. The positive inversion of the collapse graben system produced close to tight upright
+                     folds (antiform d and e) and a north-vergent antiform (f) in the northern limb of the rollover anticline.
+                     5.2.4. The Biscay Synclinorium
+                     Biscay synclinorium encloses the most complete C3 depositional sequence. It includes a Cenomanian to
+                     Santonian volcano-sedimentary unit followed by Santonian-Campanian and Campanian-Maastrichtian
+                     ﬂysh-type units, all showing asymmetrical wedge shapes (Figure 9). Jurassic, C1, and C2 strata are interrupted
+                     downdip against the Leitza-Gernika detachment and are absent in the synclinorium, and as a result, the C3
+                     sequence lies directly above the basement and the Triassic rocks. A condensed Paleocene unit is followed
+                     by ~2,500 m thick Early Eocene turbidites drawing a synformal geometry. In the cross section, the northern
+                     limit of this structure is marked by the Gernika diapir. There, the Deba Fm (C3) capped the expulsed
+                     Triassic rocks, thus dating the top age of the diapir formation. Thickness variations are also observed within
+                     the C3 syn-rift sequence thickening from ~2,000 m in the southern limb to ~3,500 m in the northern one. The
+                     synclinorium exactly matches the shallowest top of the exhumed mantle; both structures are elongated in
+                     the WNW-ESE direction.
+                     The Biscay synclinorium is interpreted as a hanging wall growth syncline linked to the movement along the
+                     Leitza-Gernika extensional detachment. Ductile Triassic rocks acted as a décollement during extension,
+                     controlling the architecture of the sedimentary wedges. In that light, the Gernika diapir resulted from the
+                     expulsion of shale during and after the extensional detachment activity. Chevron-style folds deforming the
+                     Deba Fm and Cuisian turbidites are best explained by buttressing during the contractional reactivation of
+                     the extensional detachment.
+                     5.2.5. The Biscay Anticlinorium
+                     The Jurassic and C1 sequences, absent in the Biscay synclinorium, in this northern structure are placed over
+                     Triassic Keuper rocks (Figures 9 and 10). Syn-rift sequences C3 and C4 display a very asymmetric geometry
+                     characterized by strong thickness condensation toward the south, the Gernika Diapir, and downlap of the
+                     C3 and C4 units against the Keuper rock toward the north. This domain is affected by a general rotation, being
+                     that the sedimentary sequence is tilted 30 to 70° to the north. Conjugated normal faults deforming the cover
+                     were also affected by the rotation and reversal. We suggest that the normal fault affecting the cover devel-
+                     oped during the activity of the basement faults G and H. The Aulesti-1 borehole crosses three repetitions
+                     of the Jurassic and C1 units linked with a top-to-the north reverse reactivation of these faults. The northern
+                     boundary is a squeezed diapir also affected by top-to-the north reverse faults. The Vizcaya C-2 borehole
+                     displays duplication of the Cretaceous-Eocene sequence with presence of pierced Triassic material and
+                     sharply overturned synforms typical of overriding salt glaciers.
+                     5.2.6. The Landes Platform
+                     Lower Cretaceous sedimentary units (C1, C2, and C3) are very thin or absent in the Landes Platform, which is
+                     mostly ﬁlled by syn-orogenic Eocene and Oligocene sediments (Figure 10). This represents the continuation
+                     of the Aquitanian foreland basin toward the west (Daignières et al., 1994; Ferrer et al., 2008). Late to postoro-
+                     genic Miocene to Quaternary sediments are unconformably placed above in the northern part of the cross
+                     section. Eocene and Oligocene strata display onlap relationships with the Cretaceous and Paleocene units.
+                     It can be seen on seismic line SPB-40 tied with the Vizcaya C-3 borehole, which penetrated ~2,900 m of
+                     Eocene and Oligocene detritic material and a thin upper Cretaceous C4 and Paleocene sequence (Gaviota
+                     Fm, Zumaya Fm, and Paleocene unit) unconformably placed above the Carboniferous basement. Three
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                      3170
+                 Tectonics                                                                             10.1002/2017TC004716
+
+
+
+                     main top-to-the north thrusts I, J, and K are recognized in the seismic lines (e.g., line VZ-77-136 in Figure 10)
+                     and are interpreted as cross-cutting the basement.
+
+
+                     6. Discussion
+                     6.1. Rifting Processes and Mantle Exhumation Along the North Iberian Margin
+                     The Basque-Cantabrian Basin is a narrow asymmetric rift system interpreted here as an oblique rift
+                     because NW-SE interior faults are oblique to the roughly E-W edges of the rift represented by the
+                     Landes and Ebro platforms. Half-graben bounding faults are rooted into the south-dipping Gernika-
+                     Leitza extensional detachment with a ramp-ﬂat-ramp lithospheric-scale geometry. The activity of the
+                     Gernika-Leitza detachment determines the dissimilar margins of the Basque-Cantabrian Basin and the
+                     observed asymmetry in the exhumed mantle, which reaches the shallowest crustal levels along the
+                     Biscay synclinorium, close to the north basin boundary (Figures 7 and 11). The crustal-scale geometry of
+                     the rift described above notably differs from recent models (Roca et al., 2011; Tugend et al., 2014). Here
+                     we propose that the basin developed in the hanging wall of a major north-dipping detachment.
+                     The geometry of the Gernica-Leitza extensional system, from proximal to distal part, encloses four subdivi-
+                     sions (Figure 11). (i) A splay of synthetic normal faults is recognized along the northern basin margin that
+                     was rooted into the detachment and tilted during its progressive top-to-the south motion and subsequent
+                     doming within the exhumation area. These rotated upper crustal fault blocks are in sheared contact with
+                     the exhumed mantle forming a breakaway imbricate in the sense of Wernicke and Axen (1988). (ii) A rollover
+                     anticline is linked to the ramp-ﬂat-ramp detachment and deformed by synthetic rotating normal faults.
+                     (iii) The crustal breakup and peridotite unrooﬁng sector is located between the rotated block domains and
+                     the rollover anticline. This area has undergone profuse alkaline volcanic activity in Albian to Santonian times.
+                     (iv) Antithetic normal faults deform the distal sector. Simple-shear extension acting in brittle conditions
+                     determines the structural style within the upper crust. At lower crustal levels, the crust was completely
+                     attenuated in ductile conditions with a presumably pure shear component induced by upward displacement
+                     of the asthenosphere (Figure 11).
+                     The extensional structures recognized in the Basque-Cantabrian Basin continue along the Pyrenees consti-
+                     tuting the so-called Pyrenean-Basque-Cantabrian rift system (Quintana et al., 2015; Tugend et al., 2014).
+                     Therefore, slip accommodated along the Gernica-Leitza extensional detachment was transferred through
+                     the Pamplona left-lateral fault to the North Pyrenean Fault. The gravity model indicates that the exhumed
+                     mantle was roughly continuous along the whole rift system. The exhumed mantle shows a left-lateral off-
+                     set along the Pamplona transfer fault. While the mantle rocks were reworked at the surface in the North
+                     Pyrenean zone (e.g., Clerc et al., 2013; Jammes et al., 2009; Lagabrielle et al., 2010; Lagabrielle &
+                     Bodinier, 2008) and close to the Pamplona Fault (DeFelipe et al., 2017), they remained near the surface
+                     but were not reworked or incorporated into the sedimentary sequence in the Basque-Cantabrian Basin.
+                     According to Jammes et al. (2009) extension along the North Pyrenean zone was linked to a north-dipping
+                     extensional detachment system as suggested by the asymmetric mantle image in L5 and L6 (Figure 7). The
+                     architecture of the rift is unclear in the central Pyrenees where south-dipping (Roure et al., 1989) and
+                     north-dipping (Muñoz, 2002) lithospheric-scale detachment have been proposed.
+                     In respect to the timing of the hyperextension, it has been previously constrained to between Aptian-Albian
+                     and early Cenomanian times (Jammes et al., 2009; Roca et al., 2011; Tugend et al., 2014). However, extensional
+                     deformation along the axis of the Basque-Cantabrian Basin is documented as having started before, in
+                     Valanginian times, with the deposition of ﬂuvial to deltaic sediments thickening against normal fault E
+                     (García-Mondéjar et al., 1996; Pujalte et al., 1993) accommodating the initial stage of rollover development
+                     (Figure 11). As previously stated, the Cenomanian Deba Fm seals the activity of the Bilbao rollover anticline.
+                     Thus, extension spanned ~43 Ma up to early Cenomanian times (C2 and C3), accommodating ~48 km horizon-
+                     tal extension at a variable strain rate estimated at 1 mm/yr between Valanginian and middle Albian and
+                     increasing up to 4 mm/yr during hyperextension, between middle Albian and early Cenomanian.
+                     Nonmagmatic rifting occurs at very low-strain rates in well-developed oceanic basins, with typical values of
+                     10 mm/yr or less (Müller et al., 2008). Moreover, the values for the Basque Cantabrian rifting are even lower.
+                     Extensional rate increase (>10 mm/yr) in oceanic basins after lithosphere breakup allows maﬁc melt to be pro-
+                     duced and oceanic crust to be generated (Pérez-Gussinyé et al., 2006; Pérez-Gussinyé, 2013).
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                      3171
+                 Tectonics                                                                              10.1002/2017TC004716
+
+
+
+                     Postrift cooling and subsidence, linked to thermal contraction, took place during C4 (late Cenomanian to
+                     Maastrichtian times) was marked by marine transgression along the whole basin. Volcanic activity occurred
+                     over the exhumed mantle domain, followed by ﬂysch deposition. Postrift subsidence and upper
+                     Cretaceous high sea levels induced marine transgression and the development of a widespread carbonate
+                     platform (the Gaviota Fm) covering the Landes block.
+
+                     6.2. Salt and Shale Tectonics
+                     Salt and shale tectonics strongly control the structural style of the sedimentary sequence deposited above
+                     the Triassic Keuper unit, mostly composed of mudstones and evaporites with low mechanical strength
+                     (Figures 8–11). The grade of extensional coupling between basement and overburden differs along the basin.
+                     Coupled deformation is only detected along the Bilbao anticlinorium where the rollover and the synthetic
+                     basement-involved faults solidary deformed basement and cover. Structural coupling between basement
+                     and cover notably decreases toward the basin boundaries. As normal faults deform the basement, Keuper
+                     material ﬂows ﬁlling in the negative relief created in the hanging wall promoting partial decoupling of the
+                     overburden. The cover drapes the half-graben, and reactive diapirs were formed across the main faults. In
+                     the Alavesa platform this process resulted in expulsion rollovers and the generation of syncline minibasins
+                     (e.g., Serrano & Martínez del Olmo, 2004). In the northern basin boundary, the Biscay synclinorium geometry
+                     is also controlled by the Keuper rocks, which resulted in decoupling between the C2 and C3 sequences and
+                     the basal fault surface. While the subshale section is affected by brittle faulting, the syn-rift sequence is domi-
+                     nated by ductile deformation developing a hanging wall growth syncline linked to the top, to the south
+                     extension along the Leitza-Gernika detachment and the formation of the nearby rollover anticline. It is limited
+                     to the north by a “salt roller,” the Gernika diapir. The Biscay anticline is interpreted as an asymmetric miniba-
+                     sin deformed by conjugate normal faults that were rotated during extension and afterward inverted.
+                     Previous conceptual models tried to link the extensional processes favoring mantle exhumation followed by
+                     gravity gliding of the Mesozoic cover above a sole of Keuper rocks toward an Albian basin (e.g., Lagabrielle
+                     et al., 2010). This is clearly a two-step model that ﬁrst creates a submarine slope inducing instability within
+                     the basin margins subsequently resolved by gliding and slumping. Not only does our restored cross section
+                     illustrate that shale tectonics acting within the cover ﬁrst occur during the activity of deep-rooted extensional
+                     faults stretching the crust, but mostly during the thermal contraction phase.
+
+                     6.3. Mountain Building
+                     The inversion of the Basque-Cantabrian Basin led to a double vergent orogen bounding by two foreland
+                     basins developed due to the load exerted over the lower plates and by the horizontal contraction
+                     (Figure 12). The thrusts verge toward the NNE in the Landes platform toward the SSW in the boundary with
+                     the Ebro Basin. Crustal rocks underthrusted the lithospheric mantle in the hyperextended region. Rheological
+                     factors controlling the inversion mode are as follows: (i) reverse reactivation of previous normal faults
+                     within the upper crust is due to the roughly orthogonal trend of the extensional faults with regard to the
+                     shortening of direction. (ii) Strong near-surface heterogeneity produced by the exhumed mantle lithosphere
+                     acts as a rigid buttress. Under contraction, weaker continental material is expulsed outward and upward by
+                     thrusting forming two crustal triangle zones at the boundaries of the exhumed mantle. Strain localizes into
+                     the two lithospheric-scale thrusts, which, in turn, reactivated the former rift-bounding normal faults
+                     coinciding with the limits of the strong exhumed mantle body. (iii) A zone of weakness, presumably related
+                     to the presence of shallow asthenosphere, allows the crustal material to underthrust beneath the stronger
+                     mantle lithosphere.
+                     Within the upper crust, three main inversion styles can be observed: (a) high-angle basement normal faults
+                     reactivated as reverse faults were occasionally accompanied by folding of the sediments against the normal
+                     fault; (b) formation of shortcuts involves basement pieces; (c) and decoupled thrust-ramps developed above
+                     the preceding basement normal faults.
+                     An additional important control in mountain building is shortening rate. Total shortening in the Basque-
+                     Cantabrian cross section is estimated at ~34 km. Synorogenic sediments span from the earliest Eocene to
+                     the latest Oligocene; that is, the collision time span was about 33 Ma. The downlap geometry of the
+                     Eocene and Oligocene synorogenic cover reveals that the Landes Platform was tilted toward the south at that
+                     time. Sedimentary depocenter progressively migrated from the south to the north at the time of mountain
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                        3172
+                 Tectonics                                                                           10.1002/2017TC004716
+
+
+
+
+                     Figure 12. Proposed lithospheric-scale inversion mode.
+
+
+                     building. In addition, the deformation progressed outward in the Landes Platform as has been deduced from
+                     the unconformities placed at the front of the thrusts. What is more, the inner thrust sheets H and I were
+                     developed in Eocene times squeezing the diapirs, and the frontal thrust sheet J was active in Oligocene
+                     times. The Late Cretaceous thrust activity described in Pyrenees (e.g., Papon, 1969; Garrido-Megías, 1973;
+                     García-Senz, 2002; McClay et al., 2004; Lopez-Mir et al., 2014b) has neither been recorded nor identiﬁed to
+                     date in the Cantabrian Mountains. As a result, the obtained shortening rate is estimated at ~1.1 mm/year
+                     (Figure 11), notably lower than the ~2.5 mm/year obtained in western Pyrenees during 60 Ma (Teixell,
+                     1998) or the ~4.5 to ~2 mm/year respectively acting during early to middle Eocene and late Eocene along
+                     the South Pyrenean Thrust System in the Eastern Pyrenees (Beaumont et al., 2000; Vergés et al., 1995).
+                     Such lower shortening rates across the eastern part of the Cantabrian Mountains were possibly caused by
+                     the coeval inversion of the Cameros Basin, caused by the thrust front of the Iberian Chain. Therefore, a far-
+                     ﬁeld contraction is accommodated in a much broader sector (eastern Cantabrian Mountains and Cameros)
+                     than in the Pyrenees. The boundary between these two strain rate domains is the aforementioned
+                     Pamplona transfer fault that also represents a compartmental fault zone during the orogenesis.
+
+                     7. Conclusions
+                     During Early Cretaceous rifting, the mantle reached shallow crustal levels along the North Iberian Margin. The
+                     analysis and 3-D lithospheric-scale inversion of gravity data allow us to identify the geometry and explain the
+                     nature of such high-density bodies. Exhumed mantle extends beneath the Basque-Cantabrian Basin and
+                     along the northern side of the Pyrenees. The geometry of the mantle body varies along strike displaying (i)
+                     ~30 to ~50 km wide asymmetric shape shallowing to the north in the Basque-Cantabrian Basin, (ii) symmetric
+                     ~45 km wide elliptic shape near to the Pamplona Fault, (iii) ~30 to ~50 km wide asymmetric shape shallowing
+                     to the south beneath the Mauleòn-Arzacq Basin, and (iv) a narrow (~15 km wide) triangle-shape, elongated
+                     vertically in the central Pyrenees.
+                     Rifting in the Basque-Cantabrian Basin was controlled by a major south-dipping ramp-ﬂat-ramp extensional
+                     detachment active between Valanginian and early Cenomanian times. Along the detachment, circa 48 km
+                     horizontal extension has been accommodated at variable strain rates that increased from 1 to ~4 mm/yr in
+                     middle Albian times. Triassic Keuper mudstones and evaporites favored the decoupling of the cover during
+                     the rift phase, but mostly during the postrift, promoting the formation of minibasins, expulsion rollovers, and
+
+
+PEDRERA ET AL.                    MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                    3173
+                                    Tectonics                                                                                                         10.1002/2017TC004716
+
+
+
+                                           diapirs. The inversion of the rift system was accommodated by doubly verging basement thrusts nucleated at
+                                           the boundaries with the strong exhumed mantle with partial subduction of the continental lithosphere in
+                                           Eocene-Oligocene times.
+
+Acknowledgments                            References
+This work beneﬁted from the funding of
+the project “Tectonic map of the Iberian   Arenillas-González, A., Mediato-Arribas, J. F., García Crespo, J., Molinero Molinero, R., & Nita, R. C. (2014). In I. Suárez-Díaz (Ed.), Atlas de
+Peninsula and the surrounding                 estructuras del subsuelo susceptibles de almacenamiento geológico de CO2 en España (p. 211). Madrid: Instituto Geológico y Minero de
+cordilleras” included into the Spanish        España.
+National Cartographic Plan, as well as     Ayala, C., Bohoyo, F., Maestro, A., Reguera, M. I., Torne, M., Rubio, F., … García-Lobón, J. L. (2016). Updated Bouguer anomalies of the
+the projects CGL2015-71692-P and              Iberian Peninsula: A new perspective to interpret the regional geology. Journal of Maps, 1–4. https://doi.org/10.1080/17445647.2015.
+CGL2016-80687-R of the Agencia Estatal        1126538
+de Investigación (AEI). The geological     Bayrakci, G., Minshull, T. A., Sawyer, D. S., Reston, T. J., Klaeschen, D., Papenberg, C., … Morgan, J. K. (2016). Fault-controlled hydration of the
+data referenced in this paper are             upper mantle during continental rifting. Nature Geoscience, 9(5), 384–388. https://doi.org/10.1038/ngeo2671
+available in the text, and the             Beaumont, C., Muñoz, J. A., Hamilton, J., & Fullsack, P. (2000). Factors controlling the Alpine evolution of the central Pyrenees inferred from a
+geophysical data are available on the         comparison of observations and geodynamical models. Journal of Geophysical Research, 105(B4), 8121–8145. https://doi.org/10.1029/
+IGME website at http://info.igme.es/cat-      1999JB900390
+alogo/. We acknowledge the                 Blakely, R. J., Langenheim, V. E., & Ponce, D. A. (2000). Summary of Geophysical Investigations of the Death Valley Regional Water-Flow
+constructive comments and                     Modelling Project. Nevada and California: U.S. Geological Survey Open-File Report 00–189.
+suggestions of Prof. Frédéric              Boillot, G. (1986). Comparison between the Galicia and Aquitaine margins. Tectonophysics, 129, (1–4), 243–255.
+Mouthereau and one anonymous               Boillot, G., Féraud, G., Recq, M., & Girardeau, J. (1989). Undercrusting by serpentinite beneath rifted margins. Nature, 341(6242), 523–525.
+reviewer. We thank Editor Claudio             https://doi.org/10.1038/341523a0
+Faccenna for handling the manuscript.      Boillot, G., Grimaud, S., Mauffret, A., Mougenot, D., Mergoil-Daniel, J., Kornprobst, J., & Torrent, G. (1980). Ocean-continent boundary off the
+                                              Iberian margin: A serpentinite diapir west of the Galicia Bank. Earth and Planetary Science Letters, 48(1), 23–34. https://doi.org/10.1016/
+                                              0012-821X(80)90166-1
+                                           Brun, J.-P., & Beslier, M. O. (1996). Mantle exhumation atpassive margins. Earth and Planetary Science Letters, 142, 161–173.
+                                           Brune, S., Heine, C., Perez-Gussinye, M., & Sobolev, S. V. (2014). Rift migration explains continental margin asymmetry and crustal hyper-
+                                              extension. Nature Communications, 5. https://doi.org/10.1038/ncomms5014
+                                           Brune, S., Corti, G., & Ranalli, G. (2017). Controls of inherited lithospheric heterogeneity on rift linkage: Numerical and analogue models of
+                                              interaction between the Kenyan and Ethiopian rifts across the Turkana depression. Tectonics, 36, 1767–1786. https://doi.org/10.1002/
+                                              2017TC004739
+                                           Casas, A., Kearey, P., Rivero, L., & Adam, C. R. (1997). Gravity anomaly map of the Pyrenean region and a comparison of the deep geological
+                                              structure of the western and eastern Pyrenees. Earth and Planetary Science Letters, 150(1-2), 65–78. https://doi.org/10.1016/S0012-821X%
+                                              20(97)00087-3
+                                           Castañares, L. M., & Robles, S. (2004). El vulcanismo del Albiense-Santoniense en la Cuenca Vasco-Cantábrica. In J. A. Vera (Ed.), Geología de
+                                              España (pp. 306–308). Madrid: SGE-IGME.
+                                           Castañares, L. M., Robles, S., Gimeno, D., & Vicente Bravo, J. C. (2001). The submarine volcanic system of the Errigoiti Formation
+                                              (Albian-Santonian of the Basque-Cantabrian Basin, northern Spain): Stratigraphic framework, facies, and sequences. Journal of
+                                              Sedimentary Research, 71(2), 318–333. https://doi.org/10.1306/080700710318
+                                           Choukroune, P., Seguret, M., & Galdeano, A. (1973). Caractéristiques et évolution structurale des Pyrénées: un modèle de relations entre zone
+                                              orogénique et mouvement des plaques. Bulletin de la Société Géologique de France, 15, 600–611.
+                                           Clerc, C., Boulvais, P., Lagabrielle, Y., & de Saint Blanquat, M. (2013). Ophicalcites from the northern Pyrenean belt: A ﬁeld, petrographic and
+                                              stable isotope study. International Journal of Earth Sciences, 103(1), 141–163. https://doi.org/10.1007/s00531-013-0927-z
+                                           Clerc, C., & Lagabrielle, Y. (2014). Thermal control on the modes of crustal thinning leading to mantle exhumation: Insights from the
+                                              Cretaceous Pyrenean hot paleomargins. Tectonics, 33, 1340–1359. https://doi.org/10.1002/2013TC003471
+                                           Daignières, M., Séguret, M., Specht, M., & ECORS team (1994). The Arzacq-western Pyrenees ECORS deep seismic proﬁle. In A. Mascle (Ed.),
+                                              Hydrocarbon and Petroleum Geology of France, Publ. Eur. Assoc. Pet. Geol. Mem (Vol. 4, pp. 199–208). Berlin, Heidelberg: Springer. https://
+                                              doi.org/10.1007/978-3-642-78849-9_15
+                                           Debroas, E. (1987). Modèle de bassin triangulaire à l’intersection de décrochements divergents pour le fossé albo-cénomanien de la
+                                              Ballongue (zone nord-pyrénéenne, France). Bulletin de la Societe Geologique de France, 3, 887–898.
+                                           Debroas, E. (1990). Le Flysch noir albo-cénomanien témoin de la structuration albienne à sénonienne de la Zone nord-pyrénéenne en
+                                              Bigorre (Hautes-Pyrénées, France). Bulletin de la Societe Geologique de France, 6, 273–285.
+                                           DeFelipe, I., Pedreira, D., Pulgar, J. A., Iriarte, E., & Mendia, M. (2017). Mantle exhumation and metamorphism in the Basque-Cantabrian Basin
+                                              (N Spain): Stable and clumped isotope analysis in carbonates and comparison with ophicalcites in the North-Pyrenean Zone (Urdach and
+                                              Lherz). Geochemistry, Geophysics, Geosystems, 18(2), 631–652. https://doi.org/10.1002/2016GC006690
+                                           Egan, S. S., Buddin, T. S., Kane, S. J., & Williams, G. D. (1997). Three-dimensional modelling and visualisation in structural geology: New
+                                              techniques for the restoration and balancing of volumes. In Proceedings of the 1996 Geoscience Information Group Conference on
+                                              Geological Visualisation. Electronic Geology (Vol. 1, pp. 67–82).
+                                           Espina, R. (1997). La estructura y evolución tectonoestratigráﬁca del borde occidental de la Cuenca Vasco-Cantábrica (Cordillera Cantábrica,
+                                              NO de España), PhD Thesis, Univerity of Oviedo. 230 pp.
+                                           Espina, R., Alonso, J. L., & Pulgar, J. A. (2004). Extensión Triásica en la Cuenca Vasco-Cantábrica. In J. A. Vera (Ed.), Geología de España
+                                              (pp. 338–339). Madrid: SGEIGME.
+                                           Fabriès, J., Lorand, J. P., & Bodinier, J. L. (1998). Petrogenetic evolution of orogenic lherzolite massifs in the central and western Pyrenees.
+                                              Tectonophysics, 292(1-2), 145–167. https://doi.org/10.1016/S0040-1951(98)00055-9
+                                           Fernández-Mendiola, P. A., & García-Mondejar, J. (1983). Estudio geológico del Anticlinorio de Bilbao en el sector del Duranguesado. Kobie, 8,
+                                              299–320.
+                                           Fernández-Mendiola, P. A., & García-Mondéjar, J. (1995). Volcaniclastic sediments in the early Albian Mañaria carbonate platform (northern
+                                              Spain). Cretaceous Research, 16(4), 451–463. https://doi.org/10.1006/cres.1995.1031
+                                           Ferrer, O., Roca, E., Benjumea, B., Muñoz, J. A., Ellouz, N., & the MARCONI Team (2008). The deep seismic reﬂection MARCONI-3 proﬁle: Role of
+                                              extensional Mesozoic structure during the Pyrenean contractional deformation at the eastern part of the Bay of Biscay. Marine and
+                                              Petroleum Geology, 25(8), 714–730. https://doi.org/10.1016/j.marpetgeo.2008.06.002
+
+
+
+PEDRERA ET AL.                                              MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                                    3174
+                 Tectonics                                                                                                        10.1002/2017TC004716
+
+
+
+                     Fitzgerald, P. G., Muñoz, J. A., Coney, P. J., & Baldwin, S. L. (1999). Asymmetric exhumation across the Pyrenean orogen: Implications for the
+                        tectonic evolution of a collisional orogeny. Earth and Planetary Science Letters, 173(3), 157–170. https://doi.org/10.1016/S0012-
+                        821X(99)00225-3
+                     Frankovic, A., Eguiluz, L., & Martínez-Torres, L. M. (2016). Geodynamic evolution of the Salinas de Anana diapir in the Basque-Cantabrian
+                        Basin, Western Pyrenees. Journal of Structural Geology, 83, 13–27.
+                     Gallastegui, J. (2000). Estructura cortical de la cordillera y margen continental cantábricos: perﬁles ESCI-N, PhD Thesis, Trabajos de Geología,
+                        Universidad de Oviedo, España, 22, 220 p.
+                     Gallastegui, J., Pulgar, J. A., & Gallart, J. (2002). Initiation of an active margin at the North Iberian continent-ocean transition, Tectonics, 21(4),
+                        1033. https://doi.org/10.1029/2001TC901046
+                     García-Mondéjar, J. (1990). The Aptiane Albian carbonate episode of the Basque-Cantabrian Basin (northern Spain): General characteristics,
+                        controls and evolution. In M. E. Tucker, et al. (Eds.), Carbonate Platforms: Facies, Sequences and Evolution, Special Publication International
+                        Association of Sedimentologists (Vol. 9, pp. 257–290).
+                     García-Mondéjar, J., Agirrezabala, L. M., Aranburu, A., Fernández-Mendiola, P. A., Gómez-Pérez, I., López-Horgue, M. A., & Rosales, I. (1996). The
+                        Aptian-Albian tectonic pattern of the Basque-Cantabrian Basin (northern Spain). Geological Journal, 31(1), 13–45. https://doi.org/10.1002/
+                        (SICI)1099-1034(199603)31:1<13::AID-GJ689>3.0.CO;2-Y
+                     García-Mondéjar, J., Fernández-Mendiola, P. A., Agurrezabala, L. M., Aranburu, A., López-Horgue, M. A., Iriarte, E., & Martínez de Rituerto, S.
+                        (2004). Aptiense-Albiense de la Cuenca Vasco-Cantábrica. In J. A. Vera (Ed.), Geología de España (pp. 291–296). Madrid: Sociedad Geológica
+                        de España-Instituto Geológico y Minero.
+                     García-Mondéjar, J., Pujalte, V., & Robles, S. (1986). Caracteristicas sedimentológicas secuenciales y tectonoestratigraﬁcas del triasico de la
+                        Cantabria y norte de Palencia. Cuad Geology Ibérica, 10, 151–172.
+                     García-Senz, J. (2002). Cuencas extensivas del Cretácico inferior en los Pirineos centrales, formación y subsecuente inversión (PhD
+                        dissertation). University of Barcelona, Barcelona, 310 p.
+                     Garrido-Megías, A. (1973). Estudio geológico y relación entre tectónica y sedimentación del Secundario y Terciario de la vertiente meridional
+                        pirenaica en su zona central (provincias de Huesca y Lérida) (PhD dissertation). University of Granada, 395 p.
+                     Garrote Ruiz, A., García Portero, J., Arriola Garrido, A., Eguigurren Altuna, E., García Pascual, I., & Garrote Ruiz, R. (1992a). Geological map of
+                        Basque Country at 1:25000000 scale. Sheet 38-IV, Elantxobe. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., García Portero, J., Arriola Garrido, A., Eguigurren Altuna, E., García Pascual, I., & Garrote Ruiz, R. (1992b). Geological map of
+                        Basque Country at 1:25000000 scale. Sheet 62-III, Galdakao. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., García Portero, J., Arriola Garrido, A., Eguigurren Altuna, E., García Pascual, I., & Garrote Ruiz, R. (1993). Geological map of
+                        Basque Country at 1:25000000 scale. Sheet 87-I, Igorre. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., García Portero, J., Fernández Carrasco, J., Cerezo Arasti, A., Tijero Sanz, F., & Zapata Sola, M. (1993). Geological map of Basque
+                        Country at 1:25000000 scale. Sheet 62-IV, Durango. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., Muñoz Jiménez, L., Arriola Garrido, A., Eguigurren Altuna, E., & García Pascual, I. (1993). Geological map of Basque Country at
+                        1:25000000 scale. Sheet 111-I-II, Orduña. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., Muñoz Jiménez, L., Arriola Garrido, A., Eguigurren Altuna, E., & García Pascual, I. (1994). Geological map of Basque Country at
+                        1:25000000 scale. Sheet 112-I, Zuya Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., Muñoz Jiménez, L., Fernández Carrasco, J., Cerezo Arasti, A., Tijero Sanz, F., Zapata Sola, M., & Martínez Vallvey, M. (1991).
+                        Geological map of Basque Country at 1:25000000 scale. Sheet 111-IV, Cuartango. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., Muñoz Jiménez, L., Fernández Carrasco, J., Cerezo Arasti, A., & Zapata Sola, M. (1991). Geological map of Basque Country at
+                        1:25000000 scale. Sheet 137-II, Ribera Alta. Edited by the Ente Vasco de la Energía.
+                     Garrote Ruiz, A., Muñoz Jiménez, L., Fernández Carrasco, J., Cerezo Arasti, A., & Zapata Sola, M. (1992). Geological map of Basque Country at
+                        1:25000000 scale. Sheet 137-IV, 169-II, Miranda de Ebro. Edited by the Ente Vasco de la Energía.
+                     Grandjean, G. (1994). Etude des structures crustales dans une portion de chaîne et de leur relation avec les bassins sédimentaires.
+                        Application aux Pyrénées occidentales. Bulletin des Centres de Recherches Exploration-Production Elf-Aquitaine, 18, 391–420.
+                     Graue, K. (2000). Mud volcanoes in deepwater Nigeria. Marine and Petroleum Geology, 17, 959–974. https://doi.org/10.1016/S0264-
+                        8172(00)00016-7
+                     Huedo Cuesta, J. L., Cole, C., Pérez García, A., Zucconi, V., Clauss, O., Sese Martínez, & V. H., Muskaj, S. (2009). Construcción del modelo de
+                        velocidades para el reprocesado en profundidad de la sísmica Fragata 3D (plataforma y talud continentales de Vizcaya). In G. Flor
+                        Rodríguez, et al. (Eds.), Nuevas contribuciones al Margen Ibérico Atlántico. 6° Simposio sobre el Margen Ibérico Atlántico, MIA09,
+                        Departamento de Geología, Universidad de Oviedo. Volumen de Actas, 93-96. Oviedo.
+                     Huismans, R., & Beaumont, C. (2005). Effect of plastic-viscous layering and strain softening on mode selection during lithospheric extension.
+                        Journal of Geophysical Research, 110, B02406. https://doi.org/10.1029/2004JB003114
+                     Jackson, M., & Hudec, M. (2017). Salt Tectonics: Principles and Practice. Cambridge University Press. https://doi.org/10.1017/9781139003988
+                     Jammes, S., Lavier, L., & Manatschal, G. (2010). Extreme crustal thinning in the Bay of Biscay and the Western Pyrenees: From observations to
+                        modeling. Geochemistry, Geophysics, Geosystems, 11, Q10016. https://doi.org/10.1029/2010GC003218
+                     Jammes, S., Manatschal, G., Lavier, L., & Masini, E. (2009). Tectonosedimentary evolution related to extreme crustal thinning ahead of a
+                        propagating ocean: Example of the western Pyrenees. Tectonics, 28, TC4012. https://doi.org/10.1029/2008TC002406
+                     Kane, S. J., Williams, G. D., Buddin, T. S., Egan, S. S., & Hodgetts, D. (1997). Flexural-slip based restoration in 3D, a new approach. AAPG Annual
+                        Convention Ofﬁcial Program, A58.
+                     Lagabrielle, Y., & Bodinier, J. L. (2008). Submarine reworking of exhumed subcontinental mantle rocks: Field evidence from the Lherz
+                        peridotites, French Pyrenees. Terra Nova, 20, 11–21. https://doi.org/10.1111/j.1365-3121.2007.00781.x
+                     Lagabrielle, Y., Labaume, P., & de Saint Blanquat, M. (2010). Mantle exhumation, crustal denudation, and gravity tectonics during Cretaceous
+                        rifting in the Pyrenean realm (SW Europe): Insights from the geological setting of the lherzolite bodies. Tectonics, 29, TC4012. https://doi.
+                        org/10.1029/2009TC002588
+                     Lavier, L. L., & Manatschal, G. (2006). A mechanism to thin the continental lithosphere at magma-poor margins. Nature, 440, 324–328. https://
+                        doi.org/10.1038/nature04608
+                     Le Pichon, X., & Sibuet, J. (1981). Passive margins: A model of formation. Journal of Geophysical Research, 86, 3708–3720. https://doi.org/
+                        10.1029/JB086iB05p03708
+                     Lopez-Mir, B., Muñoz, J. A., & García-Senz, J. (2014a). Restoration of basins driven by extension and salt tectonics: Example from the Cotiella
+                        Basin in the central Pyrenees. Journal of Structural Geology, 69, 147–162. https://doi.org/10.1016/j.jsg.2014.09.022
+                     Lopez-Mir, B., Muñoz, J. A., & García-Senz, J. (2014b). Extensional salt tectonics in the partially inverted Cotiella post-rift basin (south-central
+                        Pyrenees): Structure and evolution. International Journal of Earth Sciences, 104(2), 419–434.
+
+
+
+PEDRERA ET AL.                        MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                                       3175
+                 Tectonics                                                                                                       10.1002/2017TC004716
+
+
+
+                     Manatschal, G. (2004). New models for evolution of magma-poor rifted margins based on a review of data and concepts from West Iberia
+                        and the Alps. International Journal of Earth Sciences, 93, 432–466. https://doi.org/10.1007/s00531-004-0394-7
+                     Manatschal, G., Froitzheim, N., Rubenach, M. J., & Turrin, B. (2001). The role of detachment faulting in the formation of an ocean-continent
+                        transition: Insights from the Iberia Abyssal Plain. In R. C. L. Wilson, et al. (Eds.), Non-Volcanic Rifting of Continental Margins: Evidence From
+                        Land and Sea, Geological Society Special Publication (Vol. 187, pp. 405–428).
+                     Mancilla, F. L., & Diaz, J. (2015). High resolution Moho topography map beneath Iberia and Northern Morocco from receiver function analysis.
+                        Tectonophysics, 663, 203–211. https://doi.org/10.1016/j.tecto.2015.06.017
+                     McClay, K., Muñoz, J. A., & Garcia-Senz, J. (2004). Extensional salt tectonics in a contractional orogen: A newly identiﬁed tectonic event in the
+                        Spanish Pyrenees. Geology, 32, 737–740. https://doi.org/10.1130/G20565.1
+                     Mouthereau, F., Filleaudeau, P.-Y., Vacherat, A., Pik, R., Lacombe, O., Fellin, M. G., … Masini, E. (2014). Placing limits to shortening evolution in
+                        the Pyrenees: Role of margin architecture and implications for the Iberia/Europe convergence. Tectonics, 33, 2283–2314. https://doi.org/
+                        10.1002/2014TC003663
+                     Müller, R. D., Sdrolias, M., Gaina, C., & Roest, W. R. (2008). Age, spreading rates, and spreading asymmetry of the world’s ocean crust.
+                        Geochemistry, Geophysics, Geosystems, 9, Q04006. https://doi.org/10.1029/2007GC001743
+                     Muñoz, J. A. (1992). Evolution of continental collision belt: ECORS Pyrenees crustal balanced cross-section. In K. R. McClay (Ed.), Thrust
+                        Tectonics (pp. 235–246). London, UK: Chapman and Hall. https://doi.org/10.1007/978-94-011-3066-0_21
+                     Muñoz, J. A. (2002). Alpine tectonics I: The Alpine system north of the Betic Cordillera: The Pyrenees. In W. Gibbons & T. Moreno (Eds.), The
+                        Geology of Spain (pp. 370–385). London: Geological Society of London.
+                     Papon, J. P. (1969). Etude géologique du massif montagneux du Turbon (Pyrénées aragonaises- Espagne). Bulletin de la Société d’histoire
+                        naturelle de Toulouse, 105, 191–211.
+                     Parker, R. L. (1972). The rapid calculation of potential anomalies: Geophysical Journal of the Royal Astronomical Society, 42, 315–334.
+                     Pedreira, D., Afonso, J. C., Pulgar, J. A., Gallastegui, J., Carballo, A., Fernàndez, M., … García-Moreno, O. (2015). Geophysical-petrological
+                        modeling of the lithosphere beneath the Cantabrian Mountains and North-Iberian Margin: Geodynamic implications. Lithos, 230, 46–68.
+                        https://doi.org/10.1016/j.lithos.2015.04.018
+                     Pedreira, D., Pulgar, J. A., Gallart, J., & Díaz, J. (2003). Seismic evidence of Alpine crustal thickening and wedging from the western Pyrenees to
+                        the Cantabrian Mountains (north Iberia). Journal of Geophysical Research, 108(B4), 2204. https://doi.org/10.1029/2001JB001667
+                     Pedreira, D., Pulgar, J. A., Gallart, J., & Torné, M. (2007). Three-dimensional gravity and magnetic modeling of crustal indentation and
+                        wedging in the western Pyrenees-Cantabrian Mountains. Journal of Geophysical Research, 112, B12405. https://doi.org/10.1029/
+                        2007JB005021
+                     Pérez-Gussinyé, M. (2013). A tectonic model for hyperextension at magma-poor rifted margins: An example from the West Iberia-
+                        Newfoundland conjugate margins. Geological Society of London, Special Publication, 369(1), 403–427. https://doi.org/10.1144/SP369.19
+                     Pérez-Gussinyé, M., Morgan, J. P., Reston, T. J., & Ranero, C. R. (2006). The rift to drift transition at non-volcanic margins: Insights from
+                        numerical modelling. Earth and Planetary Science Letters, 244, 458–473. https://doi.org/10.1016/j.epsl.2006.01.059
+                     Pérez-Gussinyé, M., & Reston, T. J. (2001). Rheological evolution during extension at nonvolcanic rifted margins: Onset of serpentinization
+                        and development of detachments leading to continental breakup. Journal of Geophysical Research, 106(B3), 3961–3975. https://doi.org/
+                        10.1029/2000JB900325
+                     Peybernk, B., & Soquet, P. (1984). Basement blocks and tecto-sedimentary evolution in the Pyrenees during Mesozoic times. Geological
+                        Magazine, 121(05), 397–405. https://doi.org/10.1017/S0016756800029927
+                     Pujalte, V. (1977). El Complejo Purbeck-Weald de Santander: Estratigrafía y Sedimentación. Tesis Doctoral, Univ. País Vasco, 204 p.
+                     Pujalte, V., Robles, S., Robador, A., Baceta, J. I., & Orúe-Etxebarría, X. (1993). Shelf-to-basin Palaeocene palaeogeography and depositional
+                        sequences, western Pyrenees, north Spain. In H. W. Posamentier, et al. (Eds.), Sequence Stratigraphy and Facies Associations, Special
+                        Publication International Association of Sedimentologists (Vol. 18, pp. 369–395). https://doi.org/10.1002/9781444304015.ch19
+                     Pulgar, J. A., Gallart, J., Fernandez-Viejo, G., Perez-Estaun, A., Alvarez-Marron, J., & Escin Group (1996). Seismic image of the Cantabrian
+                        Mountains in the western extension of the Pyrenean belt from integrated reﬂection and refraction data. Tectonophysics, 264(1-4), 1–19.
+                        https://doi.org/10.1016/S0040-1951(96)00114-X
+                     Quintana, L., Pulgar, J. A., & Alonso, J. L. (2015). Displacement transfer from borders to interior of a plate: A crustal transect of Iberia.
+                        Tectonophysics, 663, 378–398. https://doi.org/10.1016/j.tecto.2015.08.046
+                     Ranero, C. R., & Perez-Gussinyé, M. (2010). Sequential faulting explains the asymmetry and extension discrepancy of conjugate margins.
+                        Nature, 468, 294–299. https://doi.org/10.1038/nature09520
+                     Reston, T. J. (1996). The S reﬂector west of Galicia: The seismic signature of a detachment fault. Geophysical Journal International, 127(1),
+                        230–244. https://doi.org/10.1111/j.1365-246X.1996.tb01547.x
+                     Reston, T. J., & McDermott, K. G. (2011). Successive detachment faults and mantle unrooﬁng at magma-poor rifted margins. Geology, 39,
+                        1071–1074. https://doi.org/10.1130/G32428.1
+                     Robador Moreno, A., Samsó Escolé, J. M., Ramajo Cordero, J., Barnolas Cortinas, A., Clariana García, P., Martín Alfageme, S., & Gil Peña, I. (2010).
+                        Mapa Geológico Digital continuo E. 1:50.000, Zona Pirineos Vasco-Cantábrica (Zona-1600). In GEODE. Geode. Mapa Digital continuo de
+                        España.
+                     Roca, E., Muñoz, J. A., Ferrer, O., & Ellouz, N. (2011). The role of the Bay of Biscay Mesozoic extensional structure in the conﬁguration of the
+                        Pyrenean orogen: Constraints from the MARCONI deep seismic reﬂection survey. Tectonics, 30, TC2001. https://doi.org/10.1029/
+                        2010TC002735
+                     Rodríguez-Fernández, L. R., López-Olmedo, F., Oliveira, J. T., Medialdea, T., Terrinha, P., Matas, J., … Nozal, F. (2014). Geological Map of Spain
+                        and Portugal, Scale 1:1.000.000. (Rodríguez Fernández, L. R. and Oliveira, J.T, Eds). IGME-LNEG). Madrid.
+                     Rodríguez-Fernández, L. R., Pedrera, A., Pous, J., Ayala, C., González-Menéndez, L., Ibarra, P., … Seillé, H. (2015). Crustal structure of the south-
+                        western termination of the Alpine Pyrenean-Cantabrian Orogen (NW Iberian Peninsula). Tectonophysics, 663, 322–338. https://doi.org/
+                        10.1016/j.tecto.2015.06.010
+                     Roure, F., Choukroune, P., Berastegui, X., Muñoz, J. A., Villien, A., Matheron, P., … Deramond, J. (1989). ECORS Deep Seismic data and balanced
+                        cross-sections, geometric constraints to trace the evolution of the Pyrenees. Tectonics, 8, 41–50.
+                     Sandwell, D. T., Garcia, E., Sooﬁ, K., Wessel, P., & Smith, W. H. F. (2013). Towards 1 mGal global marine gravity from CryoSat-2, Envisat, and
+                        Jason-1. The Leading Edge, 32(8), 892–899. https://doi.org/10.1190/tle32080892.1
+                     Serrano, A., & Martínez del Olmo, W. (2004). Estructuras diapíricas de la zona meridional de la Cuenca Vasco-Cantábrica. In J. A. Vera (Ed.),
+                        Geología de España (pp. 334–338). Madrid: SGE-IGME.
+                     Sibuet, J. C., Srivastava, S. P., & Spakman, W. (2004). Pyrenean orogeny and plate kinematics. Journal of Geophysical Research, 109, B08104.
+                        https://doi.org/10.1029/2003JB002514
+
+
+
+PEDRERA ET AL.                        MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                                     3176
+                 Tectonics                                                                                                      10.1002/2017TC004716
+
+
+
+                     Teixell, A. (1998). Crustal structure and orogenic material budget in the west central Pyrenees. Tectonics, 17(3), 395–406. https://doi.org/
+                        10.1029/98TC00561
+                     Teixell, A., Labaume, P., & Lagabrielle, Y. (2016). The crustal evolution of the west central Pyrenees revisited: Inferences from a new kinematic
+                        scenario. Comptes Rendus Geoscience, 348(3-4), 257–267. https://doi.org/10.1016/j.crte.2015.10.010
+                     Torne, M., Fernàndez, M., Vergés, J., Ayala, C., Salas, M. C., Jimenez-Munt, I., … Díaz, J. (2015). Crust and mantle lithospheric structure of the
+                        Iberian Peninsula deduced from potential ﬁeld modeling and thermal analysis. Tectonophysics, 663, 419–433. https://doi.org/10.1016/
+                        j.tecto.2015.06.003
+                     Tugend, J., Manatschal, G., Kusznir, N. J., Masini, E., Mohn, G., & Thinon, I. (2014). Formation and deformation of hyperextended rift systems:
+                        Insights from rift domain mapping in the Bay of Biscay Pyrenees. Tectonics, 33, 1239–1276. https://doi.org/10.1002/2014TC003529
+                     Vacher, P., & Souriau, A. (2001). A 3-D model of the Pyrenean deep structure based on gravity modelling, seismic images, and petrological
+                        constraints. Geophysical Journal International, 145, 460–470. https://doi.org/10.1046/j.0956-540x.2001.01393.x
+                     Vergés, J., & García-Senz, J. (2001). Mesozoic evolution and Cenozoic inversion of the Pyrenean Rift. In P. A. Ziegler, W. Cavazza, &
+                        A. H. F. Robertson (Eds.), Peri-Tethys memoir 6: Peri-Tethyan Rift⁄wrench Basins and Passive Margins (Vol. 186, pp. 187–212). Mém. Mus. Natl
+                        Hist. Nat.
+                     Vergés, J., Millán, H., Roca, E., Muñoz, J., Marzo, M., Cirés, J., … Cloetingh, S. (1995). Eastern Pyrenees and related foreland basins: Pre-, syn-
+                        and post-collisional crustal-scale cross-sections. Marine and Petroleum Geology, 12(8), 903–915. https://doi.org/10.1016/0264-
+                        8172(95)98854-X
+                     Vissers, R. L., van Hinsbergen, D. J., van der Meer, D. G., & Spakman, W. (2016). Cretaceous slab break-off in the Pyrenees: Iberian plate-
+                        kinematics in paleomagnetic and mantle reference frames. Gondwana Research, 34, 49–59. https://doi.org/10.1016/j.gr.2016.03.006
+                     Wang, Y., Chevrot, S., Monteiller, V., Komatitsch, D., Mouthereau, F., Manatschal, G., … Martin, R. (2016). The deep roots of the western
+                        Pyrenees revealed by full waveform inversion of teleseismic P waves. Geology, 44(6), 475–478. https://doi.org/10.1130/g37812.1
+                     Wernicke, B., & Axen, G. J. (1988). On the role of isostasy in the evolution of normal fault systems. Geology, 16(9), 848–851. https://doi.org/
+                        10.1130/0091-7613(1988)016%3C0848:OTROII%3E2.3.CO;2
+                     Whitmarsh, R. B., Beslier, M.-O., Wallace, P. J., & Shipboard Scientiﬁc Party (1998). Proceedings of the Ocean Drilling Program, Initial Reports. In
+                        R. N. Riegel (Ed.), Ocean Drilling Program (Vol. 173). College Station, TX. https://doi.org/10.2973/odp.proc.ir.173.1998
+                     Whitmarsh, R. B., Manatschal, G., & Minshull, T. A. (2001). Evolution of magma-poor continental margins from rifting to seaﬂoor spreading.
+                        Nature, 413(6852), 150–154. https://doi.org/10.1038/35093085
+                     Wood, L. J. (2010). Shale tectonics: A preface. In L. Wood (Ed.), Shale Tectonics, AAPG Memoir (Vol. 93, pp. 1–4).
+
+
+
+
+PEDRERA ET AL.                        MANTLE ALONG THE BASQUE-CANTABRIAN BASIN                                                                                    3177
+

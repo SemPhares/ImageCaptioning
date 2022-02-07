@@ -1,0 +1,921 @@
+                     Journal of Petroleum Geology, Vol. 30(1), January 2007, pp 3-24                                 3
+
+
+
+
+            THE THERMAL GRADIENT HISTORY OF
+            THE THRACE BASIN, NW TURKEY:
+            CORRELATION WITH BASIN EVOLUTION PROCESSES
+
+            O. Huvaz1* N. Karahanoglu2 and V. Ediger3
+
+                 Thermal maturity modelling is widely used in basin modelling to help assess the exploration
+            risk. Of the calibration algorithms available, the Easy%Ro model has gained wide acceptance. In
+            this study, thermal gradients at 70 wells in the Thrace Basin, NW Turkey, were calibrated against
+            vitrinite reflectance (%Ro) using the Easy%Ro model combined with an inverse scheme.The mean
+            squared residual (MSR) was used as a quantitative measure of mismatch between the modelled
+            and measured %Ro. A 90% confidence interval was constructed on the mean of squared residuals
+            to assess uncertainty. The best thermal gradient (i.e. minimum MSR) was obtained from the MSR
+            curve for each well, and an average palaeo-thermal gradient map of the Thrace Basin was therefore
+            created. Calculated thermal gradients were compared to the results of previous studies. A comparison
+            of modelled palaeo-thermal gradients with those measured at the present day showed that the
+            thermal regime of the Thrace Basin has not changed significantly during the basin’s history.
+                 The geological and thermal characteristics of the Thrace Basin were compared and the thermal
+            anomalies were evaluated as a function of basin evolution processes. The basin’s thermal regime
+            was controlled by: (1) basement edge effects; (2) crustal thickness and basement heat flows; (3)
+            thermal conductivity variations within the stratigraphic column; (4) transient heat flow effects; and
+            (5) the influence of tectonic features. The impact of these factors on variations in the thermal
+            gradients is discussed in detail.
+                 Basement edge effects are most marked on the steep northern margin of the basin where
+            heat is preferentially retained in highly conductive basement rocks rather than being transferred
+            into less conductive sedimentary rocks. Thus, heat is significantly focused onto the northern edge
+            of the basement, resulting in a thermal anomaly along the northern basin margin.
+                 The margins of the basin, with relatively thick upper crust, have relatively higher thermal
+            gradients compared to the central areas. This is due to radiogenic heat production in the upper
+            crust. Thus, thermal gradients increase above highs and at the margins where thicker upper crust
+            is present. A heat flow map of the Thrace Basin, constructed using a basin-scale crustal thickness
+            map and a basement heat-flow algorithm, is presented and demonstrates the heat generation
+            potential of the upper crust.
+                 The Eocene Ceylan Formation, which has relatively low thermal conductivity, significantly reduces
+            the thermal gradients by blocking heat transferred from the basement. Areas of high sedimentation
+            rate are associated with low thermal gradients due to the transient heat flow effects of young,
+            thick and “thermally immature” sediments as a function of the heat capacities of these deposits.
+                 A direct relationship between thermal gradients and major structural trends could not be
+            established because of a number of factors including the inactivity of the subsurface Miocene fault
+                                                                 systems, which did not allow the flow of high
+                                                                 temperature fluids through to shallow depths;
+I
+  Shell International E & P Technology Solutions, Kessler
+Park 1, 2288 GS Rijswijk, The Netherlands.                       also, the steady burial and sedimentation rates
+2
+  Geological Engineering Department, Middle East                 since the Early Eocene have maintained the
+Technical University, 06531, Ankara, Turkey.                     pressure system in equilibrium.
+3
+    Cumhurbaskanligi, Çankaya, TR-06689 Ankara, Turkey.
+                                                               Key words: Thermal maturity, thermal gradient, Thrace
+*corresponding author, email: ozkan.huvaz@shell.com            Basin, basin modelling.
+
+
+© 2007 The Authors. Journal compilation © 2007 Scientific Press Ltd
+4                           The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+INTRODUCTION                                                METHODOLOGY
+
+The need to assess the thermal maturity of a source         A basin modelling method, comprising the Easy%Ro
+rock and to evaluate other temperature-related              algorithm combined with an inverse scheme in
+features, such as hydrocarbon generation and                conjunction with a maturity indicator (%Ro), was used
+expulsion, makes thermal history modelling a central        to investigate the thermal gradient history of the
+theme in petroleum exploration (Thomsen, 1998). In          Thrace Basin. Details of the method can be found in
+order to investigate a basin’s petroleum system, its        Huvaz et al. (2005a).
+thermal gradient history must be well understood.               The development of inverse methods and the use
+    The main objective of this study was to investigate     of high speed computers has encouraged sensitivity
+the thermal gradient history of the Thrace Basin by         and uncertainty analyses in basin modelling, and has
+using the Easy%Ro model combined with an inverse            made it possible to determine the resolution limits of
+scheme. A secondary objective was to establish a            any calibration parameter in a model directly, either
+relationship between palaeo-thermal gradients in the        on its own or in association with the other parameters
+basin and geological properties which result from           (Thomsen, 1998). The sensitivity of model results to
+basement evolution processes. This was done by              the choice of input parameters and constants can be
+evaluating variations in thermal gradients related to       analyzed not only as a response to changes in the
+geological features such as thermal conductivity,           parameters themselves, but also as a misfit to, or
+sediment thickness, sedimentation rate and tectonic         departure from, observations of for example %Ro,
+history.                                                    formation pressure, porosity and formation thickness.
+    The thermal gradient history of a basin comprises           Inverse schemes are applied in order to determine
+the entire set of palaeo-temperature variations with        unknown parameters from indirect observations (e.g.
+depth through time (Huvaz, 2005). Since the present-        He and Lerche, 1992). First, the present-day values
+day thermal state can be determined using bottom-           of a suite of vitrinite reflection samples (%Roo, %Ro1,
+hole temperature (BHT) measurements, robust                 %Ro2,...,%Ron) are measured with increasing depth
+methods for evaluating the thermal gradient history         (z1, z2, z3,...,zn). Theoretical considerations related to
+of a basin, such as geodynamic models (McKenzie,            underlying physical-chemical laws describing the
+1978) and thermal indicator calibration models              evolution of the thermal indicator allow us to derive
+(Lerche et al., 1984), have been developed. A               an expression for a predicted value of the vitrinite
+difference of 5oC over a few million years can be           reflectance at the present day, %Ro(t). The predicted
+critical in predicting hydrocarbon generation in a basin    (modelled) value depends on the evolution of the
+(Nielsen, 1993), as this is linked to the thermal history   temperature field and the burial path. Hence, it is
+of the basin and the maturity of the source rocks.          possible to determine unknown variables influencing
+Constructing an accurate thermal model for the Thrace       %Ro by checking the agreement between the predicted
+Basin is of great importance because of the presence        and measured values of %Ro. Briefly, the inverse
+there of three independent petroleum systems                scheme consists of two steps. First, a criterion must
+associated with both oil and gas generation.                be established for evaluating the goodness-of-fit of
+    In most cases, geodynamic models are not suitable       the predicted to measured values. Then, an algorithm
+for thermal history reconstruction at this level of         is established which automatically improves the
+accuracy, and models which are calibrated against           goodness-of-fit (i.e which reduces the mismatch) by
+thermal indicators give more accurate results. In these     driving the parameters to their optimal values.
+models, vitrinite reflectance (%Ro) is the most widely          As a measure of the degree of agreement between
+used quantitative measure of thermal maturity. This         the observations and the theoretical predictions,
+records the amount of heat that has been applied to a       normalized least squares are used (Noeth et al., 2002).
+given potential hydrocarbon source rock at a given          The sum of the squares normalized with respect to
+time in the geological history. A number of models          the number of data points, the mean squared residual
+describing the systematic increase of %Ro with              or MSR (equation 1), gives a measure of the overall
+thermal maturity have been proposed (e.g. Lerche et         goodness-of-fit.
+al., 1984; Lerche, 1988; Van, 1990; Sweeney and                 In this case, the task is to find the best average
+Burnham, 1990; He and Lerche, 1992). Among these            palaeo-thermal gradient which gives the minimum
+models, the Easy%Ro model developed by Sweeney              mismatch (smallest mean squared residual) between
+and Burnham (1990) has gained acceptance as an              observations (measured %Ro) and predictions
+industry standard. However, reconstruction of the           (modelled %Ro) using the MSR (Noeth et al., 2002)
+thermal gradient history using the Easy%Ro model            which is given by:                              2
+                                                                                           1 n
+can introduce some uncertainties which arise from the                              MSR = ∑ (Ro m − Ro c ) ........(1)
+quality and high scatter of the calibration data.                                          n i =1
+                                  O. Huvaz, N. Karahanoglu and V. Ediger                                      5
+
+
+
+
+Fig. 1. Flow diagram presenting the methodology used. (BHT: bottom hole temperature). (Modified from
+Huvaz, 2005).
+
+where n is the number of measurements, Rom is the        against sonic-log derived porosities (Wyllie et al.,
+measured %Ro value, and Roc is the calculated %Ro        1958);
+value.                                                       (3) maturity (%Ro) is calculated as a function of
+    In the inverse scheme, the investigated parameter    increasing thermal stress using the Easy%Ro model;
+is updated until either a pre-assigned goodness-of-fit       (4) calculated %Ro values from the Easy%Ro
+or a minimum on the misfit function (smallest MSR)       model are compared to values of observed %Ro;
+is obtained between observed and predicted %Ro               (5) the model is updated by inputting different
+values, or the limit of the search range is reached.     thermal gradient values until the minimum MSR is
+This is done by updating thermal gradient values         determined;
+controlling the evolution of the temperature field           (6) the best thermal gradient value obtained from
+through the search range, and determining the gradient   a single well location is compared to the measured
+at which the MSR value is at a minimum. In               present-day thermal gradient (derived from BHT data)
+consequence, with this method, the thermal gradient      at the particular location.
+that gives the best fit of the modelled %Ro to the           This method does not require a complex inverse
+observed %Ro can be established quantitatively (Fig.     scheme but is applied by letting a single parameter,
+1).                                                      such as the thermal gradient, vary linearly within pre-
+    The modelling procedure (methodology) can be         set boundaries and recording the MSR. Obtained MSR
+summarized as follows:                                   values enable continuous mapping of the goodness-
+    (1) input parameters obtained for the particular     of-fit within the search range, and the minimum misfit
+well location (stratigraphy, lithology, depth and age    can quickly be determined. Here, we use a distribution
+for each formation) are entered;                         of thermal gradient values (ranging from 5 to 45°C/
+    (2) a burial history model is constructed by         km) as input parameters for each well location, in
+applying a mechanical exponential compaction model       order to calculate the average palaeo-geothermal
+(Sclater and Christie, 1980), where the porosity is      gradient at these locations using the suggested
+calculated as a function of depth and later calibrated   methodology.
+6                           The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+
+
+Fig. 2. Balli-1 well, southern Thrace Basin. (above) MSR curve (misfit function) constructed from calculated
+MSR values corresponding to defined thermal gradients ranging from 5 to 45 °C/km. The curve shows the
+agreement or mismatch between the measured and modelled %Ro values. (below) Statistical results,
+including the mean and the variance, calculated using a normal distibution and a 90% confidence interval
+which was constructed on the mean (minimum MSR), are presented in the boxes. The calculated upper limit
+of the confidence interval (0.0784) defines a range between 17.2 and 44.0 ºC/km in terms of thermal
+gradients. (Modified from Huvaz, 2005).
+    The method also helps to asses uncertainties within      of confidence at the best answer. The shape of the
+the constructed model which are associated with the          MSR curve is an indicator of the sensitivity of the fit
+model parameters and calibration data. This can be           between modelled and measured values related to
+done by using a given confidence interval (CI) around        changes in the thermal gradient. For %Ro, the right-
+the mean of the squared residuals. Using a CI around         hand flank of the MSR curve demonstrates a higher
+the mean (best fit), one can assess the range within         sensitivity to changes in the thermal gradient values.
+which the variation in thermal gradient cannot be said       Acceptable gradients are therefore better determined
+to be clearly statistically significant at the given level   here than at the lower limit, and departure of the
+of confidence (Huvaz et al., 2005a). Fig. 2 presents         modelled %Ro from the “best fit” is more significant
+the calculated MSR values for the search range of            for TGbest + ΔT than for TGbest - ΔT. In such a case,
+thermal gradients and a 90% CI (10% uncertainty              it is generally expected that the lower uncertainty
+range) for the Balli-1 well in the southern Thrace Basin     range will be wider than the upper range (e.g. Balli-
+(well location in Fig. 3).                                   1 well, TGbest=35 °C/km, TGupper = 44°C/km, TGlower
+    The shape of the misfit function enables us to make      = 17.2 °C/km). The Balli-1 well demonstrates a wide
+a quantitative evaluation of the acceptable range of         uncertainty range, and the shape of the misfit function
+thermal sensitivity, uncertainty and resolution analyses     shows significantly scattered data, poor resolution
+to be performed using the MSR function, and the level        and a high sensitivity to variations in thermal
+                                                                                                                                                                         O. Huvaz, N. Karahanoglu and V. Ediger
+
+
+
+
+Fig. 3. Geological map of the Thrace Basin, showing oil- and gasfields and the location of the seismic section shown in Fig. 12. The basin depocentre and major faults
+are also shown. (Modified after Huvaz et al., 2005c).
+                                                                                                                                                                            7
+8                           The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+
+
+Fig. 4. Subsidence and burial history for the Thrace Basin depocentre as shown on Fig. 3. Burial history curves
+are accompanied by isotherms demonstrating the thermal evolution of the basin (modified from Huvaz et al.,
+2005c). Compaction is calculated using the Coupled Fluid Flow Compaction Model.
+gradients. A relatively rapid departure is observed in      Thrace Basin is a matter of debate and three models
+terms of MSR, particularly for higher gradient values,      for its origin have been put forward: fore-arc; ocean
+while moving away from the best (minimum MSR)               remnant; and intermontane trough.
+thermal gradients (35 °C/km).                                   Closure of the Neo-Tethys Ocean resulted in
+    In this paper, this method is applied to 70 wells       collision of the Pontide and Sakarya continental
+from the Thrace Basin for which %Ro data is available       blocks in the Late Cretaceous (Sengör and Yilmaz,
+(Appendix A). A chronostratigraphy at each well is          1981). This collision resulted in north-south
+constructed using detailed lithological data obtained       compression, crustal shortening and progressive
+from the wells and each formation is divided into           nappe formation (Sengör, 1984), and southward-
+lithostratigraphic intervals. For example, the Eocene       directed nappes also resulted in crustal thickening and
+Hamitabat Formation is modelled as eight units              metamorphism of the Strandja-Rhodope Massif.
+(referred to as Hamitabat-1 to Hamitabat-8) (Huvaz              A fore-arc origin was first suggested by Saner
+et al., 2005c), and each unit represents a different        (1980), who advocated the formation of an east-west
+depositional lithofacies.                                   trending volcanic island-arc in the Early Cretaceous
+                                                            as a result of subduction of the oceanic crust of the
+GEOLOGICAL AND TECTONIC                                     Northern Tethys beneath the Eurasian continent. This
+FRAMEWORK OF THE THRACE BASIN                               process triggered thinning of the continental crust
+                                                            (Görür and Okay, 1996).
+The Tertiary Thrace Basin is surrounded by                      A “remnant ocean” origin was suggested by
+metamorphic massifs on three sides (Fig. 3). The basin      Yilmaz et al. (1995). According to this proposal, the
+has been studied since 1950 by oil company and              oldest volcano-sedimentary sequence in the basin
+academic geologists due to its high natural gas             formed in a remnant oceanic basin which persisted
+potential (e.g. Holmes, 1961; Doust and Arikan, 1974;       after consumption of the Neo-Tethys following the
+Saner, 1980; Turgut and Eseller, 1999). The                 collision of the Pontide and Sakarya blocks during
+sedimentary column in the basin is up to 9,000 m thick.     the Coniacian-Santonian (Yilmaz et al., 1995).
+Most the formations have been named and studied                 Finally, an intermontane origin for the Thrace
+using well and seismic data because of the presence         Basin was proposed by Doust and Arikan (1974),
+of a thick alluvial cover. The tectonic evolution of the    Perinçek (1991) and Coskun (2000). However, this
+                                  O. Huvaz, N. Karahanoglu and V. Ediger                                        9
+
+
+
+
+Fig. 5. Generalized stratigraphy of the Thrace Basin showing formation lithology, thickness and depositional
+environments; a summary of the tectonic history; the petrophysical properties of the reservoir rocks; the type
+and average total organic carbon (%TOC) of the source rocks; and a list of producing fields relative to
+reservoir formations (φ : porosity; K: permeability) (modified from Huvaz et al., 2005c).
+
+proposal is not supported by many other workers because          The basin underwent progressive subsidence
+the basin has been affected mainly by marine processes.     from the Early Eocene to the Miocene (Fig. 4).
+    Basement rocks in the Thrace Basin comprises five       Major erosional events occurred in the Middle
+lithostratigraphic units (Fig. 3):                          Eocene and Pleistocene. The Tertiary sequence (Fig.
+    (i) the Strandja-Rhodope Massif which is composed       3) consists of interbedded siliciclastics (sandstones,
+of Triassic-Jurassic metasedimentary rocks (Aydin,          shales, marls, conglomerates), tuffs, coal beds and
+1974; Üsümezsoy, 1982; Chatalov, 1985a and 1985b;           carbonates (reefal or basinal limestones). The
+Okay et al., 2001); (ii) the Istanbul Sedimentary           sequence rests unconformably on the basement and
+Sequence, comprising Palaeozoic and Triassic                is divided into the Kesan Group, the Yenimuhacir
+sedimentary rocks bounded by the North Anatolian Fault      Group and the Ergene Group and Hisarlidag
+System to the south and extending westwards into the        Formation (Fig. 5).
+Bosphorus (Sengör and Yilmaz, 1981); (iii) Upper
+Cretaceous island-arc magmatic rocks, which rest on         THE PETROLEUM SYSTEM IN THE
+both the Strandja metamorphics and the Istanbul             THRACE BASIN
+Sequence (Tüysüz et al., 2004); (iv) the Çetmi Ophiolitic
+Mélange, which forms the basement in the south of the       The Thrace Basin is the second-most important
+basin (Okay et al., 1990); and (v) units derived from the   hydrocarbon province in Turkey, and various
+Sakarya Continent and consisting mainly of post-Triassic    siliciclastics, turbidites and reefal carbonates of
+deposits.                                                   Oligocene and Eocene ages have reservoir
+10                          The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+
+
+Fig. 6. Petroleum systems and hydrocarbon expulsion history of the Thrace Basin depocentre as shown on Fig.
+3. Isotherms are accompanied by burial history curves to demonstrate the thermal history of the central part
+of the basin. Maturity windows plotted on the burial history chart show the generation phases which the
+source rocks have gone through (modified from Huvaz et al., 2005c).
+properties (Saner, 1980). Hydrocarbons in these                 Hydrocarbons were generated in the central part
+reservoir rocks are associated with both structural and     of the basin, corresponding to the depocentre, in the
+stratigraphic traps. Major reservoir intervals (Fig. 5)     Early Oligocene (Fig. 6). Hydrocarbon expulsion
+are present in the sandstones of the Eocene Hamitabat       reached a peak in the Early Miocene and subsequently
+Formation, in shelf carbonates and limestones of the        gradually decreased through the Late Miocene due to
+overlying Sogucak Formation,and in the deltaic              Miocene erosion which uplifted the source rocks
+deposits of the Oligocene Osmancik Formation                above the oil window (Karahanolu et al., 1995).
+(Siyako, 1984). The first hydrocarbon discovery was         However, Pliocene subsidence reactivated the
+made in the carbonates of the Sogucak Formation;            petroleum system which is actively generating
+the Hamitabat sandstones became more important              hydrocarbons at the present day.
+after the discovery of the Hamitabat gasfield, where
+their porosity reaches 15%. The Osmancik Formation          THERMAL GRADIENT HISTORY
+produces gas at the Umurca and Osmancik fields,             OF THE THRACE BASIN
+primarily from structural traps. Oil production from
+the Sogucak limestones occurs at K. Osmancik.               The best average palaeothermal gradients for each
+    Three active source rock systems capable of             well was calculated using the method described above.
+charging these reservoirs have been identified in the       MSR curves for the Degirmencik-3 and Yunus-1 wells
+Thrace Basin (Huvaz et al., 2005c) (Fig. 5). These          are presented in Fig. 7. A 90% confidence interval
+are the uppermost part of the Hamitabat Formation,          (CI) is constructed around the best mean so that
+and shaley sections in the Ceylan and Mezardere             sensitivity and uncertainty analyses could be
+Formations. In addition, the Danismen Formation has         performed for each data set. Palaeothermal gradients
+an average TOC of 1.35% and may have source                 for the period between the Eocene and the present
+potential if buried to the oil window. However, this        day, obtained from the MSR curves for all 70 wells
+formation is immature in all of the wells drilled in the    studied, were used to construct an average
+basin.                                                      palaeothermal gradient map (Fig. 8).
+                                 O. Huvaz, N. Karahanoglu and V. Ediger                                   11
+
+
+Fig. 7. MSR curves for the Degirmencik-3 and Yunus-1
+wells, Thrace Basin, showing the quantitative nature
+of the misfit between measured and modelled
+maturity profiles which were calculated with
+respect to iterative variations in the thermal
+gradient. The inverse search scheme, coupled with
+the applied maturity model, records the best
+thermal gradients for each well (33 °C/km for
+Degirmencik-3; and 40 °C/km for Yunus-1); this
+corresponds to the minimum departure of the
+modelled maturity profile from the measured one.
+Statistical assessment of uncertainties are
+performed using a 90% confidence interval,
+constructed on the mean, which enables
+determination of an uncertainty range for each of
+the modelled wells. The uncertainty is related to the
+scatter of the calibration data and the model
+parameters. Well locations are shown on Fig. 3. (CI:
+confidence interval).
+
+
+
+
+Fig. 8. Palaeothermal gradient map of the Thrace Basin for the period between the Middle Eocene and the
+present day, constructed using the best thermal gradients for the wells modelled (i.e those corresponding to
+the lowest MSR values or minimum mismatch). Extrapolation beyond data points (wells) is prevented by
+blanking the areas associated with high uncertainty.
+12                         The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+
+
+Fig. 9. Map of predicted average palaeothermal gradients in the Thrace Basin constructed using the lowest
+MSR (minimum misfit) determined from the modelled wells. Thermal gradient values are ranked using
+gradient value windows as extremely high, very high, high and medium. Extrapolation beyond data points
+(wells) is prevented by blanking the areas which carry high uncertainty.
+   Calculated present-day thermal gradients using          relationships between thermal gradients and basin
+corrected BHT measurements were compared to the            evolution processes (Fig. 9). The Thrace Basin is
+best palaeothermal gradient values determined (i.e.        associated with moderate to high thermal gradients
+those with minimum MSR). The close fit or similarity       which are generally above the worldwide average. The
+between the present-day thermal gradients and the          Babaeski-1 and Ipsala-1 wells have the lowest thermal
+average palaeothermal gradients calculated for each        gradients (26 °C/km) while the highest gradient occurs
+well shows that the thermal regime in the Thrace Basin     at the K.Marmara-3 well (43 °C/km). The arithmetical
+has not changed significantly during its history. Only     average of the thermal gradients at the studied wells
+six of the 70 wells show more than 10% variation           is 34.7 °C/km. Wells in the central part of the basin
+between predicted thermal gradient values (modelled        have lower thermal gradients than those in more
+from %Ro) and observed values (obtained from BHT           marginal locations. The NE and western margins of
+measurements) (Appendix B). The MSR, which                 the basin have particularly high thermal gradients, and
+shows the departure of predicted from observed             this is probably characteristic of a palaeo-rift basin or
+gradients, is calculated to be 4.9, which indicates a      a rift basin in the post-rift stage (Sengör, 1995).
+good agreement. Average palaeothermal gradients in             Lateral variations in thermal gradient between
+the Thrace Basin therefore appear to be similar to         central and marginal locations may be controlled by a
+present-day gradients, and this is particularly true in    number of processes and effects: basement edge
+the central part of the basin where continuous steady      effects; variations in crustal thickness and basement
+deposition has taken place since the Eocene.               heat flow; variations in thermal conductivity within
+                                                           the stratigraphic column; transient heat flow effects;
+GEOLOGICAL INTERPRETATION                                  and the influence of tectonic features. These are
+OF THE THERMAL GRADIENTS                                   discussed in turn in the following paragraphs.
+
+The best average palaeo-thermal gradients, predicted       i. Basement edge effects
+for the period between the Middle Eocene and the           Steeply-dipping basin margins are generally associated
+present day, were grouped and ranked to investigate        with a high heat flux. Heat tends to be retained in
+both lateral variations in the gradients and the           conductive (basement) rocks resulting in heat-flow
+                                 O. Huvaz, N. Karahanoglu and V. Ediger                                     13
+
+
+
+Fig. 10. Thermal anomalies
+along the basin margin are
+due to the heat retained
+within highly conductive
+basement rocks rather
+than being transferred into
+the overlying sedimentary
+column which has
+relatively lower thermal
+conductivity (modified
+from Yu et al., 1995) (Q:
+Heat flow).
+
+
+
+
+Fig. 11. Thermal gradients in the Thrace Basin overlain by structure contour map of the third depositional unit
+of the Hamitabat Formation. The map was constructed using the formation tops of the Hamitabat-3 interval
+which were obtained from the wells studied. The map helps to predict the structural geometry of the
+basement. At basement edges, marked by bold lines, heat is actively focused due to the thermal edge effect.
+(Modified from Huvaz, 2005).
+anomalies at the edges of a graben (Yu et al., 1995)      contour values are converted into positive values by
+(Fig. 10). In order to investigate the influence of       multiplying them by “-1”. The map gives some
+basement edge effects on thermal gradient variations      indication of the basement structural geometry,
+in the Thrace Basin, a structural contour map of the      because the Hamitabat-3 interval is near the base of
+Hamitabat-3 interval of the Hamitabat Formation was       the Hamitabat Formation which rests directly on
+constructed using data from the wells studied (Fig.       basement. The map shows that the sedimentary
+11). This map may be similar to a map showing the         sequence thins gradually towards the basin margins
+total thickness of the sedimentary interval between       except in the north and NE, where it wedges out
+the Hamitabat-3 and the surface, if current negative      abruptly towards the Strandja Mountains (Fig. 12).
+14                          The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+                                                                          Fig. 12. North-south seismic sections
+                                                                          across the northern margin of the
+                                                                          Thrace Basin (uninterpreted and
+                                                                          interpreted) (modified from Huvaz,
+                                                                          2005). The sedimentary pile pinches
+                                                                          out to the north towards the Strandja
+                                                                          Mountains. Heat flow paths are shown
+                                                                          by white dashed lines with arrows, and
+                                                                          abnormally heated areas are
+                                                                          highlighted by dark grey colour. Heat
+                                                                          flow paths, simulating heat transfer
+                                                                          directions within the basement, are
+                                                                          controlled by the geometry of the
+                                                                          basement-sediment interface. Heat is
+                                                                          retained in the basement which has a
+                                                                          higher thermal conductivity than the
+                                                                          overlying sediments. The location of
+                                                                          the seismic section and the wells (K-1
+                                                                          and K-2) are shown on Fig. 3.
+
+
+
+
+Thus, basement edge effects do not play a major role        determine heat flow values at well locations,
+in controlling lateral thermal gradient variations in       BasinView provides a multi-well simulation of the
+the western, southern and eastern margins of the            constructed one-dimensional models for mapping
+Thrace Basin. However, they may be significant in           purposes. A basement heat-flow table, prepared for
+the northern and NE margins.                                modelling radiogenic heat generation at two locations
+                                                            (A and B in Fig. 13), was redesigned for the 70 wells
+ii. Crustal thickness and                                   studied by modifying the thicknesses of the upper and
+basement heat flow variations                               lower crust according to Fig. 13. In this way, a heat-
+Radiogenic rocks in the upper crust are a major source      flow map of the Thrace Basin was constructed, and
+of heat in a basin (Hopper and Buck, 1996), and             this predicts heat-flow conditions at the basement-
+estimates of crustal thickness are therefore an             sediment interface (Fig. 14).
+important aspect of basin modelling. Industrial basin-
+modelling software, particularly 3D modules, requires       iii. Thermal conductivity variations
+a crustal model to determine the amount of radiogenic       within the stratigraphic column
+heat produced in the upper crust and which is               The thermal conductivity of sedimentary rocks is a
+transferred vertically into overlying sedimentary rocks     major factor controlling lateral and vertical variations
+(Huvaz et al., 2005b). The thicker the crust, the greater   in thermal gradients within a basin (Allen and Allen,
+the amount of radiogenic heat produced (Pribnow and         1990; Huvaz et al., 2005c). Both the rock matrix and
+Winter, 1997). Internal parts of a basin underlain by       the pore fluids transfer heat through the sedimentary
+thinner upper crust tend to be cooler compared to more      pile. Different lithologies have different thermal
+marginal areas where the upper crust is thicker             conductivities reflecting their mineralogical and
+(Norden and Föster, 2006). In the Thrace Basin,             chemical compositions (Norden and Föster, 2006). For
+thermal gradients can be expected to increase at highs      instance, the thermal conductivity of a sandstone is
+and in the Strandja Mountains, which are underlain          approximately four times greater than that of a shale
+by relatively thick upper crust (Fig. 13).                  at standard temperature and pressure (Table 2), so
+    The influence of variations in crustal thickness on     sandstones transmit heat more efficiently than shales.
+basement heat flows can be investigated by basin-wide            Variations in formation thickness also influence
+heat-flow modelling, for example using BasinMod and         heat transfer through the sedimentary pile (Huvaz et
+BasinView software. While BasinMod1-D can                   al., 2005c). Thus a thick shale succession can act as a
+                                    O. Huvaz, N. Karahanoglu and V. Ediger                                       15
+
+
+
+
+Fig. 13. (a) Total crustal thickness map of the Thrace Basin. (b) North-south cross section showing variations in
+upper and lower crustal thickness. The crustal thickness model was constructed from surface topography and
+upper crustal density (2.67 g/cm3) together with the interpretation of wide-angle seismic, gravity and
+magnetic studies (S. Yüksel, 2005, pers. commun.). Radiogenic heat generated for locations A and B is shown in
+Table 1.
+
+
+
+Layer        Present-day            Matrix thermal            Matrix heat        Radiogenic heat    Number of
+             thickness (m)          conductivity              capacity           μW.m3               divisions
+                                    (mcal/cm.s.°C)            (mcal/cm3.°C)
+                loc.A      loc. B
+
+
+Upper Crust     10,794     20,2608.36                214.96               1.85                     12
+Lower Crust     19,677     143,407.40                250.79               0.70                      7
+L. Lithosphere 77,000      790,005.97                266.62               0.01                      5
+
+Table 1. Basement heat flow parameters for locations A and B in the Thrace Basin (see Fig.13); these are
+required for accurate modelling of the amount of radiogenic heat generated within the upper crust. The
+thicknesses of the upper and lower crust were obtained from Fig. 13. Matrix thermal conductivity and
+capacity and radiogenic heat generation values were interpreted by examining basement rocks in the
+Strandja Massif. The table is modified from the “basement layers” table in the BasinMod basement heat flow
+module.
+16                         The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+
+
+Fig. 14. Heat flow map of the Thrace Basin constructed by modelling the heat generated within the crust at 70
+well locations using the “basement heat flow” module of BasinMod. Modelled heat flow values were then
+carried to the mapping environment using BasinView. Heat flow contours are in mW/m2 and represent the
+heat flow at the basement-sediment interface. While heat flow at this interface is controlled by the richness of
+radiogenic minerals and the thickness of the upper crust, heat transport through the sediments is a function
+of the thermal conductivity and heat capacity of the sedimentary pile.
+
+Table 2. Thermal conductivity of common lithologies        relatively efficient thermal seal compared to a thinner
+and rocks at standard temperature and pressure             interval.
+(Brigaud and Vasseur, 1989).
+                                                               The results of thermal conductivity measurements
+                                                           made on cores from various formations in the Thrace
+Lithology            Thermal Conductivity
+                                                           Basin are shown in Table 3. The Ceylan Formation,
+              mcal/(cm.sec.°C)    W/(m.°C)
+                                                           which includes tuff-rich intervals, has an extremely
+                                                           low thermal conductivity and tends to act as a thermal
+Limestone    4.7-7.0                    1.9-3.0
+                                                           seal or “blanket” (Huvaz et al., 2005c). This effect
+Dolomite     4.7-13                     1.9-5.4
+                                                           varies as a function of the Ceylan Formation’s lateral
+Anhydrite    12.1                       5.06
+                                                           thickness, which varies between 400 m and 1,000 m.
+Marl         2.2-6.6                    0.9-2.8
+Mudstone     3.07-5.5                   1.5-2.3
+                                                           iv. Transient heat flow effects
+Shale        1.4-7.0                    0.6-2.9
+                                                           The transient heat flow model is a widely used
+Sandstone    4.7-17.7                   1.9-7.4
+                                                           algorithm which simulates heat transfer through
+Quartzite    8.9-17.9                   3.7-7.5
+                                                           sedimentary rocks (Schegg et al., 1999). The transient
+Chalk        6.9                        2.9
+                                                           heat flow approach models heat transfer from the
+Halite       14.1                       5.90
+                                                           bottom to the top of a sediment pile by considering
+Gypsum       2.5                        1.05
+                                                           variations in the amount of absorbed heat with respect
+Basalt       3.6                        1.5
+                                                           to time (Bethke, 1985). This scheme takes account of
+Dunite       9.75-13.5                  4.0-5.6
+                                                           both diffusive and advective thermal transformations
+Diabase      4.5-5.3                    1.9-2.2
+                                                           (Jessop, 1990; Lerche, 1990a; Lerche, 1990b), and
+Granite      5.3-8.0                    2.2-3.4
+                                                           models heat reduction within sediments as a function
+                                                           of the previously-defined or calculated heat capacities
+                                                           of the deposits. Thus, sudden changes in heat flow do
+                                   O. Huvaz, N. Karahanoglu and V. Ediger                                       17
+
+
+
+
+Fig. 15. Late - Middle Miocene structures of the Thrace Fault System (modified after Perinçek, 1991) overlain
+on the thermal gradient map, showing the absence of any relationship between tectonic features and thermal
+gradients.
+
+Table 3. Arithmetic average of thermal conductivity       due to this transient heat flow effect. High
+measurements performed on cores at standard               sedimentation rates during deposition of the Eocene
+temperature and pressure, for wells and formations
+in the Thrace Basin (Huvaz et al., 2005c).
+                                                          Hamitabat Formation turbiditic sandstones tended to
+                                                          exacerbate this effect.
+Number Formation    Number Thermal conduct-
+of wells name    of samples ivity (W/(m °C))              v. Influence of tectonic features
+                                                          Three major NW-SE oriented fault systems are known
+2         Danismen          65           3.0162
+3         Mezardere         54           2.8624
+                                                          in the Thrace Basin: the Kirklareli, Lüleburgaz and
+8         Ceylan            73           1.7580           Babaeski Fault Zones (Fig. 15). These fault systems
+2         Ceylan (tuff)     38           0.9511           originated in the Late-Middle Miocene and are in
+13        Hamitabat (shallow) 55         2.4220           general buried at the present day. A direct relationship
+18        Hamitabat (deep)    29         2.8936           between these structural trends and lateral variations
+Surface   Koyunbaba         7            2.6736
+                                                          in thermal gradients could not be established (Fig. 15).
+                                                          This may be because:
+not result in instantaneous changes to the thermal            (i) the fault systems are not currently active;
+profile, but will be smoothed out over time as a          thererore, they do not act as a conduit for the transport
+function of the heat capacity or thermal inertia of the   of the high-temperature fluids, from deep to shallow
+sediments (Huvaz et al., 2005b). According to this        levels, which could result in thermal abnormalities;
+approach, heat transfer through a newly-deposited,            (2) structural features in the Thrace Basin probably
+relatively cool sedimentary pile takes a certain amount   have an insignificant influence on the thermal regime
+of time which depends on the heat capacity of the         compared to factors such as variations in thermal
+lithologies. This is because a certain portion of the     conductivity within the stratigraphic column and
+heat (depending on the heat capacity) must be             variations in crustal thickness;
+absorbed before heat can be transferred through to            (3) sedimentation rates since the Early Eocene have
+the overlying units. Thus the presence of a thick         been consistently low and an equilibrium pore
+sedimentary cover in the centre of the Thrace Basin       pressure system has been maintained, with little
+will tends to reduce thermal gradients there (Fig. 12)    overpressure development as can occur with rapid
+18                         The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+shale deposition. This is another factor tending to            The sedimentation rate also influences heat flow
+reduce the circulation of hydrothermal fluids within       in a basin. High sedimentation rates result in the
+the basin, again minimizing thermal anomalies due          deposition of thick piles of thermally immature
+to fluid movement.                                         sediments. The high heat capacities of these sediments
+                                                           mean that active heat transfer is minimized. Relatively
+DISCUSSION                                                 rapid sedimentation rates in the Thrace Basin occurred
+                                                           during the Oligocene and Eocene, for example during
+Using the methods described above, accurate thermal        deposition of the Hamitabat Formation turbidites.
+gradient values for a well can be estimated from the           Active faults may act as fluid conduits and permit
+MSR (mean squared residual) curve by obtaining the         the vertical transport of hydrothermal fluids, which
+lowest MSR value (Noeth et al., 2002), which refers        may result in the formation of thermal anomalies. Fault
+to the minimum mismatch between observed and               activation and re-activation should be evaluated as a
+modelled %Ro values. The best fit determined for each      prerequisite to thermal modelling, for example by
+well can be compared to results from previous thermal      stratigraphic inversion and structural reconstruction
+gradient studies (e.g. Siyako, 1984). For the Thrace       methods or from seismic data. This is also important
+Basin (Appendix B), this comparison clearly indicates      for the assessment of secondary migration through
+that the thermal history can in general be resolved        reservoir rocks.
+from the calibration data, and that the thermal stress
+can be assessed using the method described. In             CONCLUSIONS
+addition, the method allows the validity of the results
+to be evaluated by assessing the uncertainty range of          1. Close similarities between modelled
+particular parameters such as the thermal gradient or      palaeothermal gradients in the Thrace Basin and
+the heat flow. The shape of the MSR curve allows the       present-day thermal gradients measured from BHT
+limits of the parameter to be assessed within a 10%        records suggest that the basin had a steady thermal
+uncertainty range (i.e. a 90% confidence interval).        history without major fluctuations between the
+This procedure was described by Huvaz et al (2005a).       Miocene and the present day.
+    Basins with steeply dipping margins generally              2. Thermal gradients in the Thrace Basin vary over
+show high heat flows in marginal areas due to              a wide range from 26 to 43 °C/km. This variation may
+basement edge effects, and these are significant along     be due to one or a combination of the following
+the northern margin of the Thrace Basin. Thus, the         factors: (i) basement edge effects; (ii) variations in
+structural geometry of a basin should be defined prior     upper crustal thickness and basement heat flow; (iii)
+to thermal history and maturity modelling. In addition,    thermal conductivity variations within the stratigraphic
+the thermal conductivity and heat capacity of the          column; (4) transient heat flow effects; and (5) the
+sedimentary pile are also important. The presence of       influence of structural features.
+thermally conductive lithologies such as anhydrite,            3. The sedimentary pile in the Thrace Basin
+or of thermal “seals” such as shale, greatly influence     wedges-out gradually at the basin margins, except in
+the thermal characteristics of a basin. In the Thrace      the north and NW where basement edge effects may
+Basin, the presence of shales and tuffs in the Eocene      therefore be significant.
+Ceylan Formation may influence thermal gradients,              4. The upper crust below the basin is thicker at the
+and may result in “dog-leg” patterns in the temperature    margins than at the centre; radiogenic heat production
+and maturity profiles which can be constructed by          is therefore higher in marginal locations, such as the
+plotting measured BHT and vitrinite reflectance values     Strandja Mountains, than in the basin centre.
+versus depth (Huvaz et al., 2005c).                            5. Intervals with low thermal conductivity such as
+    Upper crustal thickness and composition also play      the Ceylan Formation will reduce the thermal gradient
+an important role in controlling heat flux in a basin.     by blocking heat transferred from the crust; this effect
+Continental crust is relatively rich in radiogenic         is exacerbated in the central part of the basin where
+minerals, with higher associated heat generation,          the Ceylan Formation reaches a thickness of up to
+compared to oceanic crust. Palaeo-highs such as the        1,000 m, and minimized in marginal locations where
+Kuleli-Babaeski High in the Thrace Basin generally         the formation is relatively thin.
+demonstrate higher heat flows due to the presence of           6. Depocentres are characterized by low thermal
+underlying thick upper crust. Upper crustal thickness      gradients due to transient heat flow effects resulting
+should therefore be evaluated before thermal               from the presence of thick, relatively young sediments.
+modelling, for example by gravity and magnetic             This effect will result in lower thermal gradients in
+surveys and wide angle seismic studies to determine        the centre compared to the margins.
+radiogenic heat generation, and to map heat flow at            7. No relationship between major structural trends
+the basement-sediment interface.                           and lateral variations in thermal gradients could be
+                                         O. Huvaz, N. Karahanoglu and V. Ediger                                                     19
+
+
+established because the fault systems are inactive,                     Thrace Basin, NW Turkey. Geologische Rundschau, 85, 662-
+restricting the circulation of high temperature fluids                  668.
+                                                                    HE, Z. and LERCHE, I., 1992. Determination of paleoheat-flux
+within the sedimentary column. The steady, constant                     using multiple thermal indicator tomography. Mathematical
+sedimentation rate led to the formation of an                           Geology, 24, 7, 825-845.
+equilibrium pressure system in the basin, and the                   HOLMES, A.W.,Jr., 1961. A stratigraphic review of Thrace.
+                                                                        American Overseas Petroleum Ltd. Company Report, 78.
+absence of an abnormal pressure regime which would                  HOPPER, R.J., and BUCK,W.R., 1996.The effect of lower crustal
+have facilitated the upward transfer of hydrothermal                    flow on continental extension and passive margin
+fluids along the fault planes.                                          formation. Journal of Geophysical Research, 101, B9, 20175-
+    8. While the misfit function created for some of                    20194.
+                                                                    HUVAZ, O., 2005. Investigation of the thermal gradient history
+the wells are associated with wide uncertainty ranges                   of the Thrace Basin, NW Turkey, by using a modified
+based on a 90% level of confidence, others show                         Easy%Ro maturity model. Ph.D Dissertation, Middle East
+relatively narrower uncertainty ranges which shows                      Technical University, 106 pp.
+the total dynamic range of the control parameter                    HUVAZ, O.,THOMSEN, R.O. and NOETH, S., 2005a.A method
+                                                                        for analyzing geothermal gradient history using the
+(measured %Ro) on the uncertainty range of the                          statistical assessment of uncertainties in maturity models.
+thermal gradient.                                                       Journal of Petroleum Geology, 28, 2, 3-14.
+    9. All the MSR curves created for the modelled                  HUVAZ, O., NOHUT, O.M. and SARIKAYA, H., 2005b. Principles
+wells in this study demonstrate a steeper right-hand                    of using well logs and geophysical data in quantitative basin
+                                                                        modelling. Turkish Association of Petroleum Geologists Bulletin,
+flank. Thus, maturity models constructed for the                        17, 1, 1-18.
+Thrace Basin are more sensitive to relatively higher                HUVAZ, O., SARIKAYA, H. and NOHUT, O.M., 2005c. Nature
+thermal gradients.                                                      of a regional dogleg pattern in maturity profiles of the
+                                                                        Thrace Basin, Northwestern Turkey: A newly discovered
+                                                                        unconformity or a thermal anomaly? AAPG Bull., 89, 10,
+ACKNOWLEDGEMENTS                                                        1373-1396.
+                                                                    JESSOP, A.M., 1990. Thermal geophysics. Developments in Solid
+We gratefully thank Türkiye Petrolleri AO (TPAO)                        Earth Geophysics, 17, 306.
+for providing well, seismic, thermal conductivity and               KARAHANOLU, N., ERLER, A. and ILLEEZ, H.I., 1995.
+                                                                        Mathematical approach to hydrocarbon generation history
+vitrinite reflectance data and access to the Petroleum                  and source rock potential in the Thrace Basin, Turkey.
+Systems Suite basin modelling software of PRA. Bora                     Marine and Petroleum Geology, 12, 6, 587-596.
+Rojay, Nizamettin Kazanci, Muzaffer Siyako, Hasan                   LERCHE, I., 1988. Inversion of multiple thermal indicators;
+                                                                        quantitative methods of determining paleoheat flux and
+Sarikaya and Gary Prost made valuable comments on
+                                                                        geological parameters; II, Theoretical development for
+the manuscript. Namik Yalçin and two anonymous                          chemical, physical, and geological parameters. Mathematical
+referees are thanked for comments and suggestions                       Geology, 20, 2, 73-96.
+during journal review.                                              LERCHE, I., 1990a. Basin analysis: Quantitative methods 1.
+                                                                        Academic Press Inc.562 pp.
+                                                                    LERCHE, I., 1990b. Basin analysis: Quantitative methods 2.
+REFERENCES                                                              Academic Press Inc., 570 pp.
+                                                                    LERCHE, I., YARZAB, R.F. and KENDALL, C., 1984.
+ALLEN, P.A. and ALLEN, JR., 1990. Basin Analysis: Principles            Determination of paleoheat flux from vitrinite reflectance
+   and Applications. Blackwell Scientific Publications,                 data. AAPG Bull., 68, 11, 1704-1717.
+   Cambridge, 451pp.                                                McKENZIE, D., 1978. Some remarks on the development of
+AYDIN, M.M., 1974. Etude petrographique et geochimique de               sedimentary basins. Earth and Planetary Science Letters, 40,
+   la parti centrale du massif d’Istrance (Turquie). Ph.D               25-32.
+   Dissertation, Nancy University, 100 pp.                          NIELSEN, S.B., 1993. Uncertainties in resolving tectonic
+BETHKE, C.M., 1985.A numerical model of compaction-driven               subsidence and palaeo heat flow in sedimentary basins.
+   groundwater flow and heat transfer and its application to            Terra Abstracts, 5, 1-21.
+   the paleohydrology of intracratonic sedimentary basins.          NOETH, S., THOMSEN, R.O. and LITTKE, R., 2002. A method
+   Journal of Geophysical Research, 90, 6817-6828.                      for assessing statistical significance and uncertainties for
+BRIGAUD, F. and VASSEUR, G., 1989. Mineralogy, porosity and             calibration of 1-D thermal basin maturation models. AAPG
+   fluid control on thermal conductivity of sedimentary rocks.          Bull., 86, 3, 417-431.
+   Geophys. J., 98, 525-542.                                        NORDEN, B. and FÖRSTER, A., 2006, Thermal conductivity
+CHATALOV, G.A., 1985a. Stratigraphy of the Jurassic system              and radiogenic heat production of sedimentary and
+   in Strandzha area, Bulgaria. Geologica Balcanica, 15, 4, 3-39.       magmatic rocks in the Northeast German Basin. AAPG
+CHATALOV, G.A., 1985b. Stratigraphy Strandzha-type Triassic             Bull., 90, 6, 939-962.
+   (Strandzha Mountain, southeast Bulgaria). Geologica              OKAY, A.I., SOYAKO, M. and BÜRKAN, K.A., 1990. Geology
+   Balcanica, 15, 6, 3-38.                                              and tectonic evolution of the Biga Peninsula. Turkish
+COSKUN, B., 2000. Influence of the Istranca-Rhodope Massifs             Association of Petroleum Geologists Bulletin, 2, 83-121.
+   and strands of the North Anatolian Fault on oil potential        OKAY, A.I., SATIR, M., TÜYSÜZ, O., AKYÜZ, S. and CHEN, F.,
+   of Thrace Basin, NW Turkey. Journal of Petroleum Science             2001. The tectonics of the Stradja Massif: Late-Variscan
+   and Engineering, 27, 1-25.                                           and Mid-Mesozoic deformation and metamorphism in the
+DOUST, H. and ARIKAN, Y., 1974. The geology of the Thrace               northern Aegean. Geologische Rundschau, 90, 217-233.
+   Basin: Proceedings of the 7th Petroleum Congress of Turkey,      PERINÇEK, D., 1991. Possible strand of the North Anatolian
+   Chamber of Petroleum Engineers, Ankara, 119-136.                     Fault in the Thrace Basin, Turkey-an interpretation. AAPG
+GÖRÜR, N., and OKAY, A., 1996. A fore-arc origin for the                Bull., 75, 2, 241-257.
+20                                The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+PRIBNOW, D. and WINTER, H., 1997. Radiogenic heat                               sensitivity analysis and scientific risk. Geological Society
+    production in the upper third of continental crust from                     Special Publications, 141, 209-221.
+    KTB. Geophysical Research Letters, 24, 3, 349-352.                       TURGUT S. and ESELLER, G., 1999. Sequence stratigraphy,
+SANER, S., 1980. Explanation of the formation of neighboring                    tectonics and depositional history in eastern Thrace Basin,
+    basins of Eastern Pontids by plate tectonics, NW Turkey.                    NW Turkey. Mar. Petrol. Geol., 17, 61-100.
+    General Directorate of Mineral Research and Exploration                  TUYSUZ, O., AKSAY, A. and YIGITB AS, E., 2004.
+    Journal, 93/94, 20.                                                         Lithostratigraphic units of the Black Sea Region. MTA
+SCLATER, J.G. and CHRISTIE, P.A.F., 1980. Continental                           Stratigraphy Committee Lithostratigraphic units Series-1,
+    stretching: an explanation of the post-Mid-Cretaceous                       Ankara, 92.
+    subsidence of the central North Sea Basin. Journal of                    USUMEZSOY, S., 1982. Petrogenic evolution of the Strandja
+    Geophysical Research, 85, 3711-3739.                                        Massif. Ph.D Dissertation, Istanbul University, Istanbul, 94
+SCHEGG, R., CORNFORD, C. and LEU, W., 1999. Migration                           pp.
+    and accumulation of hydrocarbons in the Swiss Molasse                    VAN, G.P., 1990.Transmittance color index (TCI) of amorphous
+    Basin: implications of a 2D basin modelling study. Mar. Petrol.             organic matter; new thermal maturity indicator for
+    Geol.,16, 511-531.                                                          hydrocarbon source rocks, correlation with mean vitrinite
+SIYAKO, M., 1984. Temperature and geothermal gradients of                       reflectance and thermal alteration index (TAI), In: W.J.J.
+    the Thrace Basin. TPAO Unpublished Company Report,                          Fermont, and J.W.Weegink, (Eds), International symposium
+    30.                                                                         on organic petrology. Mededelingen Rijks Geologische Dienst,
+SWEENEY, J.J. and BURNHAM, A.K., 1990. Evaluation of a                          45, 49-64.
+    simple model of vitrinite reflectance based on chemical                  WYLLIE, M.R.J., GREGORY, A.R. and GARDNER, G.H.F., 1958.
+    kinetics. AAPG Bull., 74, 10, 1559-1570.                                    An experimental investigation of factors affecting elastic
+SENGÖR, A.M.C., 1995. Sedimentation and Tectonics of Fossil                     wave velocities in porous media. Geophysics, 23, 3, 459-
+    Rifts. In: C. J. Busby, and R. V. Ingersoll, (Eds), Tectonics of            493.
+    sedimentary basins, Blackwell Science, Cambridge, 53-118.                YILMAZ,Y., GENC, S.C.,YIGITBAS, E., BOZCU, M. and YILMAZ,
+SENGÖR, A.M.C., 1984. The Cimmeride orogenic system and                         K., 1995. Geological evolution of the Late Mesozoic
+    the tectonics of Eurasia. Geological Society of America Special             continental margin of Nor thwestern Anatolia.
+    Paper, 195, 82.                                                             Tectonophysics, 243, 155-171.
+SENGÖR, A.M.C. and YILMAZ, Y., 1981. Tethyan evolution of                    YU, Z., THOMSEN, R.O. and LERCHE, I., 1995. Crystalline
+    Turkey: a plate tectonic approach. Tectonophysics, 75, 181-                 basement focusing of heat versus fluid flow/compaction
+    241.                                                                        effects: a case study of the I-1 well in the Danish North
+THOMSEN, R.O., 1998. Aspects of applied basin modelling:                        Sea. Petroleum Geoscience, 1, 31-35.
+
+
+
+
+APPENDIX A
+
+List of the 70 studied wells in the Thrace Basin, with operator companies, coordinates, ground level
+(GL), total depth (TD), bottom hole formation (BHF) and well completion results. Note: TPO:
+Turkish Petroleum Corporation; CAO: California Asiatic Oil Company; NTS: N. V. Turkse Shell; TOP:
+Texaco Overseas Petroleum Company; TTI: Tennessee Turkey Inc.; MTA: General Directorate of
+Mineral Research and Exploration.
+
+Well Name Company                        Location                      GL(m)           TD(m)           BHF             Result
+                                  Latitude     Longitude
+
+Abalar-1         TPO              41 31 59.0       26   42   19.0      132              3043           Basement        Dry
+Akbas-1          TPO              41 33 40.5       26   52   09.2      131              4119           Basement        Dry
+Alipasa-1        TPO              41 04 40.0       28   09   59.5       28              1853           Basement        Dry
+Ardiç-1          TPO              41 11 26.9       28   09   29.7      206              1647           Hamitabat       Gas
+Arizbaba-1       TPO              41 37 38.2       26   55   43.5       98              4335           Hamitabat       Oil+Gas
+Asilbeyli-1      CAO+TPO          41 40 11.0       27   16   42.0      211               835           Basement        Oil show
+Babaeski-1       TPO              41 27 21.4       26   58   50.0       83              3241           Koyunbaba       Dry
+Bahçedere-1      TPO              41 20 29.3       27   46   28.0      149              3582           Basement        Gas show
+Balli-1          TPO              40 50 08.5       26   57   18.4      120              2738           Basement        Dry
+Bayramdere-1     TPO              41 37 57.0       27   19   47.0      193              1472           Basement        Dry
+                                O. Huvaz, N. Karahanoglu and V. Ediger                          21
+
+
+Well Name Company               Location               GL(m)   TD(m)     BHF         Result
+                         Latitude     Longitude
+
+Bayramli-1    NTS        41 18 43.5   26   44   54.0    20     2335      Basement    Dry
+Çeltik-1      TPO        41 04 47.0   28   04   46.0    75     2848      Basement    Dry
+Ceylan-4      TPO        41 32 37.7   27   27   03.2   161     1209      Basement    Oil show
+Çorlu-3A      TPO        41 04 45.0   27   57   01.0    86     5043      Ceylan      Dry
+Çukuryurt-1 TPO          41 25 29.0   27   53   30.7   146      904      Eocene      Dry
+Deirmencik-3 TPO         41 36 25.6   27   10   04.3   154     3800      Hamitabat   Gas show
+Deirmenköy-1 TPO         41 16 51.6   28   06   62.5   148     2475      Basement    Gas
+Delen-1       TPO        41 22 19.6   27   43   31.5   116     3997      Basement    Gas
+Deveçatai-9 TPO          41 38 18.5   27   19   39.7   163     1487      Basement    Oil
+Edirne-1      TPO        41 42 47.5   26   35   15.5   466     1046      Basement    Dry
+Ergene-1      TPO        41 22 11.8   27   56   25.5   113     2967      Osmancik    Oil+Gas
+Erturul-1     TPO        41 34 15.3   27   28   05.0   194      898      Basement    Dry
+Gerdelli-1    TTI        41 72 45.5   26   98   77.5   160     1704      Basement    Dry
+Hamitabat-1 TPO          41 30 11.0   27   17   41.0   132     3541      Basement    Gas
+Havsa-1       TPO        41 30 21.0   26   49   00.0    66     3015      Basement    Dry
+Inece-1       TPO        41 39 30.0   27   01   30.0   119     3401      Basement    Gas show
+Ipsala-1      TPO        40 52 18.6   26   24   29.8    57     2375      Kesan       Water
+Kandamis-1    NTS        41 07 11.0   27   13   58.0    94     3669      Dani_men    Gas show
+Karaagac-1    TPO        41 33 24.3   27   29   26.0   185     1022      Basement    Dry
+Karacaolan-2 TPO         41 33 42.4   27   05   29.5    94     4067      Ceylan      Gas
+Karahidir-1   TPO        41 42 34.5   27   09   32.3   206     1050      Basement    Dry
+Karakavak-1 NTS          41 18 55.8   27   03   05.2    90     4243      Gaziköy     Dry
+Karistiran-1 TPO         45 68 56.5   27   58   35.5   115     2295      Mezardere   Gas show
+Kavakdere-3 TPO          41 35 20.3   27   16   57.5   172     2118      Hamitabat   Oil
+Kaynarca-1    TPO        41 22 44.5   27   35   54.4   109     4828      Hamitabat   Gas
+Kepirtepe-1 TPO          41 21 49.3   27   26   22.2    84     3950      Ceylan      Gas
+Kesan-1       TPO        40 52 01.0   26   34   30.0    48     3551      Basement    Dry
+Korucu-1      TTI        41 45 43.0   26   39   07.0   124      912      Basement    Dry
+Kuleli-3      TPO        41 28 28.0   26   54   13.0    51     2749      Basement    Dry
+Kumburgaz-1 TPO          41 01 54.0   28   27   35.0     2     1202      Basement    Dry
+Kumrular-1    TPO        41 30 35.4   27   12   38.7   134     3288      Basement    Gas
+Kurtdere-1    TPO        41 40 80.5   27   78   48.3   115     1398      Basement    Dry
+K. Abalar-1   TPO        41 35 21.5   26   44   35.1   100     3458      Koyunbaba   Dry
+K. Çerkezkoy-1     TPO   41 18 17.6   28   05   07.3   162     2128      Koyunbaba   Water
+K. Marmara-3       TPO   41 05 23.6   28   19   15.0    39     1845      Soucak      Gas
+K. Osmancik-1 TPO        41 34 58.0   27   21   41.0   168     1232      Basement    Oil
+Meriç-2       TPO        41 28 53.7   26   40   06.3   132     3267      Basement    Dry
+Mezardere-1 CAO+TOP      41 41 40.0   27   08   34.0   183     1745      Basement    Dry
+Minnetler-1A TPO         41 25 22.8   27   02   08.5    48     3492      Basement    Gas
+Mürefte-1     MTA        40 40 25.0   27   15   24.0    43      156      Sandstone   Gas show
+Ortaköy-1     TPO        40 37 37.0   26   54   53.0     8     1893      Basement    Dry
+Osmancik-2 TPO           41 34 14.0   27   21   44.0   180     2414      Basement    Oil show
+Pehlivanköy-1 TPO        41 18 21.2   26   51   11.5    71     2970      Basement    Gas show
+Sahankaya-1 TPO          41 35 46.3   27   13   10.3   163     3400      Basement    Dry
+Sarkoy-1      TPO        40 38 07.5   27   06   57.0   127     1849      Basement    Dry
+Sevindik-1    TPO        41 24 87.3   27   59   56.6   117     2400      Osmancik    Gas
+Silivri-1     TPO        41 07 15.4   28   20   26.4   176     2489      Basement    Dry
+Soucak-1      TPO        41 30 14.5   27   38   23.0   183     1286      Basement    Dry
+Süluolu-1     TPO        41 43 54.2   26   54   24.0   145     1573      Basement    Dry
+Sütluce-3     TPO        41 31 01.5   27   31   46.5   189     1352      Basement    Dry
+Tatarköy-1    TPO        41 31 30.7   27   22   09.0   134     3214      Hamitabat   Oil
+Terzili-2     TPO        41 31 40.7   27   05   17.4    96     4573      Hamitabat   Dry
+Turgutbey-1 TPO          41 30 25.4   27   23   12.2   139     3403      Hamitabat   Gas show
+Üctepeler-1 TPO          41 27 12.8   27   42   24.6   144     2210      Basement    Dry
+Umur-1        TPO        41 43 00.9   26   49   38.0   157     1680      Basement    Dry
+Umurca-1      TPO        41 25 04.0   27   26   19.0    87     4388      Hamitabat   Gas
+Vakiflar-1    CAO+TOP    41 15 54.0   27   39   48.0   121     3757      Hamitabat   Gas show
+Yanciklar-1   TPO        41 60 81.6   27   40   13.8   162     1035      Basement    Dry
+Yaylaköy-1    TPO        48 37 10.0   45   29   37.0   164      994      Sogucak     Dry
+Yunus-1       TPO        41 06 66.6   28   26   88.8   -58     2274      Soucak      Water
+22                        The thermal gradient history of the Thrace Basin, NW Turkey
+
+
+APPENDIX B
+Table lists comparative data for the 70 wells studied in the Thrace Basin: (i) predicted average palaeothermal
+gradients for the period between the Middle Eocene and the present day, obtained from the MSR curves;
+(ii) present-day thermal gradients calculated from bottom hole temperature (BHT) measurements.
+
+Well Name              Thermal Gradient (oC/km)               Departure (%)             Thermal Gradient
+              Predicted Calculated Predicted-Calculated                                 (Predicted-Calculated)2
+Abalar-1      32           29.0          -3.0                      9.37                    9.00
+Akbas-1       32           31.0          -1.0                      3.12                    1.00
+Alipasa-1     39           39.0          0.0                       0.00                    0.00
+Ardiç-1       35           35.3          0.3                       0.85                    0.09
+Arizbaba-1    31           32.4          1.4                       4.51                    1.96
+Asilbeyli-1   36           35.5          -0.5                      1.38                    0.25
+Babaeski-1    26           25.9          -0.1                      0.38                    0.01
+Bahçedere-1 38             42.6          4.6                       12.10                   21.16
+Balli-1       35           35.1          0.1                       0.28                    0.01
+Bayramdere-1 36            35.9          -0.1                      0.27                    0.01
+Bayramli-1    42           43.0          1.0                       2.38                    1.00
+Çeltik-1      39           39.2          0.2                       0.51                    0.04
+Ceylan-4      37           37.0          0.0                       0.00                    0.00
+Çorlu-3A      35           34.8          -0.2                      0.57                    0.04
+Çukuryurt-1 41             40.0          -1.0                      2.43                    1.00
+Deirmencik-3 33            33.8          0.8                       2.42                    0.64
+Deirmenköy-1 36            35.7          -0.3                      0.83                    0.09
+Delen-1       32           32.1          0.1                       0.31                    0.01
+Deveçatai-9 31             31.0          0.0                       0.00                    0.00
+Edirne-1      38           38.2          0.2                       0.52                    0.04
+Ergene-1      30           30.0          0.0                       0.00                    0.00
+Erturul-1     36           35.9          -0.1                      0.27                    0.01
+Gerdelli-1    38           39.8          1.8                       4.73                    3.24
+Hamitabat-1 34             31.8          -2.2                      6.47                    4.84
+Havsa-1       35           35.3          0.3                       0.85                    0.09
+Inece-1       35           36.7          1.7                       4.85                    2.89
+Ipsala-1      26           26.5          0.5                       1.92                    0.25
+Kandamis-1 31              31.0          0.0                       0.00                    0.00
+Karaagac-1    35           35.5          0.5                       1.42                    0.25
+Karacaolan-2 33            33.4          0.4                       1.21                    0.16
+Karahidir-1   34           35.4          1.4                       4.11                    1.96
+Karakavak-1 36             36.4          0.4                       1.11                    0.16
+Karistiran-1 32            32.0          0.0                       0.00                    0.00
+Kavakdere-3 37             38.5          1.5                       4.05                    2.25
+Kaynarca-1    31           24.6          -6.4                      20.84                   40.96
+Kepirtepe-1 33             37.7          4.7                       14.24                   22.09
+Kesan-1       31           31.1          0.1                       0.32                    0.01
+Korucu-1      27           27.3          0.3                       1.11                    0.09
+Kuleli-3      33           32.0          -1.0                      3.03                    1.00
+Kumburgaz-1 33             32.0          -1.0                      3.03                    1.00
+Kumrular-1    34           33.2          -0.8                      2.35                    0.64
+Kurtdere-1    36           36.0          0.0                       0.00                    0.00
+K.Abalar-1    34           34.0          0.0                       0.00                    0.00
+K.Çerkezköy-1 35           39.4          1.0                       2.32                    1.00
+K. Osmancik-1 37           38.3          1.3                       3.51                    1.69
+Meriç-2       42           43.0          1.0                       2.38                    1.00
+Mezardere-1 30             30.2          0.2                       0.66                    0.04
+Minnetler-1A 38            38.5          0.5                       1.31                    0.25
+Mürefte-1     35           35.0          0.0                       0.00                    0.00
+Ortaköy-1     27           27.9          0.9                       3.33                    0.81
+Osmancik-2 37              36.0          -1.0                      2.70                    1.00
+Pehlivanköy-1 37           41.0          4.0                       13.33                   16.00
+Sahankaya-1 34             34.0          0.0                       0.00                    0.00
+Sarkoy-1      26           26.3          0.3                       0.88                    0.09
+Sevindik-1    30           30.5          0.5                       1.92                    0.25
+Silivri-1     28           28.0          0.0                       0.00                    0.00
+Soucak-1      36           36.3          0.3                       1.07                    0.09
+Süluolu-1     35           35.2          0.2                       0.55                    0.04
+                                     O. Huvaz, N. Karahanoglu and V. Ediger                                        23
+
+
+
+Well Name                 Thermal Gradient (oC/km)                             Departure (%)     Thermal Gradient
+              Predicted     Calculated Predicted-Calculated                                    (Predicted-Calculated)2
+
+Sütluce-3     34              33.3                -0.7                         2.00                 0.49
+Tatarköy-1    35              35.9                0.9                          2.64                 0.81
+Terzili-2     32              31.9                -0.1                         0.28                 0.01
+Turgutbey-1   34              34.7                0.7                          2.18                 0.49
+Üctepeler-1   30              30.4                0.4                          1.17                 0.16
+Umur-1        31              31.9                0.9                          3.00                 0.81
+Umurca-1      33              33.0                0.0                          0.00                 0.00
+Vakiflar-1    30              29.2                -0.8                         2.42                 0.64
+Yanciklar-1   40              53.4                13.4                         44.66                179.56
+Yaylaköy-1    36              36.7                0.7                          1.79                 0.49
+Yunus-1       40              40.0                0.0                          0.00                 0.00
+                               n                                      2
+                                                                                                    343.32
+                             ∑ (*TG
+                              i =1
+                                      predicted   − TG calculated )
+                                                                           2
+                                     1 n
+                             MSR =     ∑ (TG predicted − TG calculated )
+                                     n i =1                                                         4.9
+*TG: thermal gradient
+

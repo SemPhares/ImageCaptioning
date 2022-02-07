@@ -1,0 +1,1447 @@
+1416
+
+
+
+
+                                                                                                                               ARTICLE
+Propagation of a strike-slip plate boundary within an
+extensional environment: the westward propagation of the
+North Anatolian Fault1
+Xavier Le Pichon, A.M. Celâl Şengör, Julia Kende, Caner İmren, Pierre Henry, Céline Grall,
+and Hayrullah Karabulut
+
+
+
+                   Abstract: We document the establishment of the Aegea–Anatolia/Eurasia plate boundary in Pliocene–Pleistocene time. Before
+                   2 Ma, no localized plate boundary existed north of the Aegean portion of the Anatolia plate and the shear produced by the motion
+                   of Anatolia–Aegea with respect to Eurasia was distributed over the whole width of the Aegean – West Anatolian western portion.
+                   In 4.5 Ma, a shear zone comparable to the Gulf of Corinth was formed in the present Sea of Marmara. The initial extensional
+                   basins were cut by the strike-slip Main Marmara Fault system after 2.5 Ma. Shortly after, the plate boundary migrated west of the
+                   Sea of Marmara along the northern border of Aegea from the North Aegean Trough, to the Gulf of Corinth area and to the Kefalonia
+                   Fault. There, it ﬁnally linked with the northern tip of the Aegean subduction zone, completing the system of plate boundaries
+                   delimiting the Anatolia–Aegea plate. We have related the change in the distribution of shear from Miocene to Pliocene to the
+                   formation of a relatively undeforming Aegea block in Pliocene that forced the shear to be distributed over a narrow plate boundary
+                   to the north of it. We attribute the formation of this block to the northeastward progression of the oceanic Ionian slab. We propose
+                   that the slab cuts the overlying lithosphere from asthenospheric sources and induces a shortening environment over it.
+
+                   Résumé : Nous documentons l’établissement de la limite entre la plaque de la Mer Égée–Anatolie et celle de l’Eurasie au
+                   Pliocène–Pléistocène. Avant 2 Ma, aucune limite de plaque n’était localisée au nord de la portion égéenne de la plaque anatoli-
+                   enne et le cisaillement produit par le mouvement de la plaque anatolienne–égéenne par rapport à l’Eurasie était distribué sur
+                   toute la largeur de la portion ouest de l’Égée–Anatolie occidentale. Il y a 4,5 Ma, une zone de cisaillement comparable au golfe
+                   de Corinthe a été formée dans ce qui est l’actuelle mer de Marmara. Les bassins d’extension initiaux ont été recoupés par le
+                   système de failles de décrochement principal de Marmara après 2,5 Ma. Peu de temps après, la limite de la plaque a migré à
+                   l’ouest de la mer de Marmara, le long de la bordure nord de l’Égée, de la fosse nord de l’Égée à la région du golfe de Corinthe et
+                   jusqu’à la faille de Kefalonia. Là, elle est ﬁnalement jointe à l’extrémité nord de la zone de subduction égéenne, complétant ainsi
+                   le système de limites de plaques délimitant la plaque Anatolie–Égée. Nous avons relié le changement de la distribution du
+                   cisaillement, entre le Miocène et le Pliocène, à la formation d’un bloc égéen relativement peu déformé au Pliocène; cela a
+                   forcé la distribution du cisaillement sur une mince limite de plaque au nord du bloc. Nous attribuons la formation de ce bloc
+                   à la progression de la plaque plongeante de l’océan ionien vers le nord-est. Selon nous, la plaque plongeante a coupé la
+                   lithosphère sus-jacente des sources de l’asthénosphère, provoquant un environnement de raccourcissement au-dessus de la
+                   plaque plongeante. [Traduit par la Rédaction]
+
+
+Introduction                                                                    length by dextral strike-slip at a rate of ⬃24 mm/year. To the east,
+  McKenzie (1970, 1972) ﬁrst described the westward extrusion of                the portion of the boundary north of Anatolia corresponds to the
+Anatolia–Aegea in terms of plate tectonics, following Ketin’s pre-              1200 km North Anatolian Fault (NAF) that propagated westward
+plate tectonics suggestion in 1948. GPS results have conﬁrmed                   since 13–11 Ma (Şengör et al. 2005). The NAF reached the Gulf of
+that one could describe the Anatolian extrusion to a ﬁrst approx-               İzmit in the Sea of Marmara ca. 4 Ma (Le Pichon et al. 2014),
+imation in terms of rigid rotations (Le Pichon et al. 1993, 1995;               although shear related deformation in the broader Marmara re-
+McClusky et al. 2000, 2003; Reilinger et al. 1997, 2006; Le Pichon              gion had already commenced in the late Miocene (Şengör et al.
+and Kreemer 2010). The northern boundary of this plate separates                2005) (see Fig. 1 for the tectonic map of Aegea – western Anatolia
+the Anatolia–Aegea plate to the south from the Eurasia plate to                 and Figs. 1 and 2b as a key to geographic and geologic features in
+the north and is presently characterized along its whole 2100 km                the Marmara area). To the west (see Fig. 1), the additional 900 km
+
+
+Received 31 July 2015. Accepted 18 October 2015.
+Paper handled by Editor Ali Polat.
+X. Le Pichon. Professeur Honoraire au Collège de France, Europôle de l’Arbois, Bât. Trocadéro, BP 80 13 545 Aix-en-Provence cedex 04 France.
+A.M.C. Şengör. İstanbul Teknik Üniversitesi, Maden Fakültesi, Jeoloji Bölümü, Avrasya Yerbilimleri Enstitüsü, Ayazağa 34469 İstanbul, Turkey;
+Honorary Research Associate, The Natural History Museum, Cromwell Road, London SW7 5BD, UK.
+J. Kende and P. Henry. CEREGE, CNRS-Aix Marseille Université, Marseille, France.
+C. İmren. İstanbul Teknik Üniversitesi, Avrasya Yerbilimleri Enstitüsü, Ayazağa 34469 İstanbul, Turkey.
+C. Grall. Lamont–Doherty Earth Observatory, Columbia University, Marine Geology and Geophysics, Palisades, NY 10964-8000, USA.
+H. Karabulut. Kandilli Rasathanesi, Boğaziçi Üniversitesi, Kandilli, İstanbul, Turkey.
+Corresponding author: A.M. Celâl Şengör (email: sengor@itu.edu.tr).
+1This paper is part of a special issue that honors the careers of Kevin C. Burke and John F. Dewey.
+
+Copyright remains with the author(s) or their institution(s). Permission for reuse (free in most cases) can be obtained from RightsLink.
+
+Can. J. Earth Sci. 53: 1416–1439 (2016) dx.doi.org/10.1139/cjes-2015-0129                 Published at www.nrcresearchpress.com/cjes on 25 November 2015.
+Le Pichon et al.                                                                                                                             1417
+
+
+Fig. 1. Tectonic map of Aegea – western Anatolia. Violet-coloured markings indicate shortening structures, yellow indicates normal faults,
+green indicates left-slip faults, and white indicates the dextral North Anatolian Fault family including the normal faults of the Grecian Shear
+Zone (Şengör 1979). All faults are Quaternary, as they cut Quaternary deposits established by sequence correlations in the Sea of Marmara.
+Following the rule of Allen (1975), we assume all faults are active or potentially so. The light-colored, presently undeforming Aegean block
+revealed by geodesy is limited by dashed lines. The dashed red contours of the Aegean slab are after Gudmundsson and Sambridge (1998). The
+two yellowish shear zones that limit the Aegean Block, the Grecian Shear Zone (GSZ) and North Aegean Trough (NAT) to the north with
+clockwise rotation and the Western Anatolian Shear Zone (WASZ) to the east with counterclockwise rotation, absorb ⬃20–25 mm/year of
+shear, dextral for the northern zone and sinistral for the eastern zone. The ﬁgure is modiﬁed from Şengör and Zabcı (2016).
+
+
+
+
+of plate boundary are complex (Şengör 1979; Şengör et al. 1982;         the Grecian Shear Zone (GSZ), a broad zone of shear named by
+Goldsworthy et al. 2002; Armijo et al. 2002; Le Pichon and                Şengör (1979); and ﬁnally, joining through the dextral Kefalonia
+Kreemer 2010; Shaw and Jackson 2010; Floyd et al. 2010; Royden            Fault, the Aegean subduction zone, where the 200 Ma Ionian
+and Papanikolaou 2011; Pérouse et al. 2012). The plate boundary           oceanic slab is subducted at a rate of 34 mm/year (Pérouse et al.
+follows successively from east to west: the NAF in the Sea of Mar-        2012).
+mara, called the Main Marmara Fault (MMF) by Le Pichon et al.                The central theme of this paper concerns the mode of establish-
+(2001); the Ganos Fault; the North Aegean Trough (NAT), formed            ment of such a strike-slip plate boundary since 13–11 Ma when the
+by the Saros Basin to the east and the Sporades Basin to the west;        Aegea–Anatolia plate was ﬁrst initiated. We attempt to understand
+
+                                                                                                                  Published by NRC Research Press
+1418                                                                                                                   Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 2. (a) Proposed tectonic map of Aegea – Western Anatolia ca. 4 Ma. White lines indicate the westward propagating North Anatolian dextral
+system, which has just reached the area of the present Sea of Marmara that is occupied by a system of clockwise rotating normal-fault bounded
+blocks similar to the Grecian Shear Zone (GSZ), with extensional decollements in front of the tip of the North Anatolian Fault (NAF). Modiﬁed
+from Şengör and Zabcı (2016). (b) Index map of geographic and geologic features within the Sea of Marmara area discussed in the text.
+
+
+
+
+                                                                                                                    Published by NRC Research Press
+Le Pichon et al.                                                                                                                             1419
+
+
+better why a localized pure strike-slip fault has progressively          on the main eastern portion of the NAF. The NAF motion is con-
+propagated westward as emphasized by Şengör et al. (2005). An           sequently integrally transferred from the NAF to the Ganos Fault
+essential character of both Anatolia and Aegea is that their geo-        through the MMF. As for the NAF to the east of the Sea of Mar-
+logical history suggests very thin or even absent lithospheric man-      mara, the rate along the MMF is also ⬃75% of the geodetic slip
+tle (e.g., Şengör 1982). Thus the Aegea–Anatolia plate corresponds      rate, which suggests again that 25% of the displacement is taken
+to a huge ductile mass. Further, the western Aegean portion is           outside of the main fault plane.
+subject to north–south extension because of the roll-back of the            Many authors have assumed the continuity of the rate of mo-
+peri-Aegean subduction (Le Pichon and Angelier 1981; Le Pichon           tion at the entrance of the Sea of Marmara. They consequently
+1982). The ductility of this lithospheric mass and the presence of       consider that the motion along the NAF there is distributed
+an important north–south extensional component on its western            between a Marmara branch and a Gemlik branch to the south
+Aegean portion will occupy a prominent place in our investiga-           (see Fig. 2b). For example, Gasperini et al. (2011) have measured a
+tion of the formation of this plate boundary. The transition from        strike-slip rate of 4 mm/year on the southern branch. Should these
+the well-deﬁned NAF to the east to the more complex Aegean               4 mm/year be deducted from the 18 mm/year on the eastern NAF
+boundary to the west occurs within the Sea of Marmara. We will           to obtain the rate of the MMF? Le Pichon et al. (1999) pointed
+devote the principal part of this paper to a discussion of the           out that this would be true only if the block between the two
+genesis of the Sea of Marmara, as it enlightens the mode of              branches, which they called the Marmara block, had the same
+propagation of the NAF through it. We will use new data and              motion as the Anatolia block, which would be most unlikely. If
+interpretations that have been partly published by Grall et al.          the Marmara block has an independent motion, then the motion
+(2012, 2013), Le Pichon et al. (2014), and Şengör et al. (2014), and    of this block can be adjusted in such a way that the rate is the same
+those that are still to be published (J. Kende, P. Henry, G. Bayrakçı,   on the eastern NAF and the MMF to avoid any velocity discontinu-
+S. Özeren, and C. Grall, in review).                                     ity that would be otherwise mechanically very difﬁcult to sustain.
+                                                                         This is indeed what was found by Meade et al. (2002), Le Pichon
+The present tectonic regime of the NAF and its                           et al. (2003), Reilinger et al. (2006), Le Pichon and Kreemer (2010),
+mechanical behavior                                                      and other authors since, who have introduced in their GPS solu-
+The portion of the NAF east of the Sea of Marmara                        tion an independent Marmara block.
+   We ﬁrst examine the behavior of the NAF east of the Sea of               Note, however, that Gasperini et al. (2011) have measured
+Marmara. The NAF there, throughout its length, is a stable local-        average rates of ⬃9 mm/year on the NAF in the Gulf of İzmit by
+ized pure dextral strike-slip fault with only local pull-apart and       measuring offsets of a river channel that was drowned ⬃10 ky ago.
+push-up segments (Şengör et al. 2005). The rate of geological mo-       This is about half the geological slip rate found to the east on the
+tion has been established at ⬃18 mm/year (18 mm/year over 10 ky          NAF and to the west in the Çınarcık Basin. This discrepancy is
+by Hubert-Ferrari et al. (2002), 18.6 mm/year over 3 ky by Kozacı        puzzling.
+et al. (2009), and 15–20 mm/year in a compilation made by Kozacı            It is remarkable that the MMF follows the same 20 km Curie
+et al. (2009)). This rate is ⬃75% of the geodetic slip rate, which       point limit along the northern edge of the Çınarcık Basin as along
+suggests that 25% of the displacement is taken outside of the main       the eastern NAF. The portion of the MMF that follows the north-
+fault plane, presumably along minor faults on both sides of it.          ern border of the Çınarcık Basin within the eastern Marmara Sea
+   We wish to emphasize an important point concerning the tem-           corresponds to a stable localized strike-slip fault (Karabulut et al.
+perature structure of the upper lithosphere along the NAF. This is       2002, 2011; Bulut et al. 2009; Örgülü 2011; Kurt et al. 2013). While
+illustrated by the variation in the Curie point (580 °C for magne-       the MMF is entirely contained within the thickly sedimented deep
+tite) depth as mapped by Aydın et al. (2005, ﬁg. 4). The NAF follows     Marmara Basin, another fault system called South Marmara Fault
+the 20 km depth contour of the Curie point. Immediately to the           (SMF) by Le Pichon et al. (2014) was active in Pliocene time over the
+south, the Curie point depth rises to less than 10 km. Thus, the         whole less-sedimented southern shelf of the Sea of Marmara.
+lower crust and mantle are highly ductile to the south of the fault      Some activity is still related to this southern fault system. On the
+and much less to the north where the NAF keeps its course. The           southern edge of the İmralı Basin, Armijo et al. (2002) have de-
+mapping of Aydın et al. (2005) demonstrates that the NAF keeps           scribed an active extensional system connected to the NAF in the
+north of the boundary of the ductile lower crust and mantle zone.        Gulf of İzmit by a right-lateral fault along the shore of Armutlu
+This observation leads us to propose that the NAF would not sta-         Peninsula. Current fault activity does not seem continuous
+bilize unless the whole crust is in the brittle domain. Otherwise, it    along the southwest, transtensional, edge of the İmralı Basin (see
+has no roots and rapidly looses its “memory”. Geologists have long       Fig. 2b), but a number of active normal faults appear to distribute
+indicated that the geological history of Anatolia suggests that no       the extensional component of strain within the basin (Şengör
+lithospheric mantle is present there (e.g., Şengör 1982). One can       et al. 2014). Morever, subsidence at the depocenters proceeds at a
+thus understand why the attempts to enter the bulk of Anatolia,          steady rate since 0.4 Ma at least (Sorlien et al. 2012). Although little
+by the Ovacık and Sungurlu faults, were unsuccessful and why the         seismic activity is recorded in this area, it is possible that the
+NAF has followed the northern limit of this ductile mass.                growth of the İmralı Basin may still today accommodate some
+                                                                         signiﬁcant strain.
+The NAF in the Sea of Marmara                                               The MMF crosses the 20 km Curie point limit west of Çınarcık,
+   Le Pichon et al. (2001) showed that the prolongation of the NAF       as it changes direction to the west–southwest toward the Ganos
+within the Sea of Marmara, which they called the MMF, is a single        Fault, to enter a hot lower crust and upper mantle area (Aydın
+throughgoing dextral strike-slip fault system that enters the Sea        et al. 2005). By doing so, it also enters into the serpentinite and
+through the Gulf of İzmit and joins the Ganos Fault at its western      mélange-dominated Intra-Pontide suture, which may also affect
+extremity. The geological slip rate along the eastern Çınarcık por-      the mechanical behavior of the fault (see Le Pichon et al. 2014,
+tion of this fault has been established to be 18.5 mm/year (12.6–        ﬁg. 1b). There, in the western and central Sea of Marmara, this
+29.4 mm/year, 18.5 mm/year mean rate) over 500 ky by Kurt et al.         localized strike-slip fault appears to coexist with remnants of an
+(2013). Grall et al. (2013) found a rate of 15.1–19.7 mm/year over       extensional system, as demonstrated by signiﬁcant distributed
+405–490 ky to the west on the Western High (see Fig. 2b). On the         extensional seismic activity to the south of it (Altınok and Alpar
+Ganos Fault, Aksoy (2009) found 15.1–19.7 mm/year over 20 ky and         2006; H. Karabulut, unpublished data, 2015). This western portion
+Meghraoui et al. (2012) 17 ± 5 mm/year over 1000 years. Thus, the        of the MMF is thus best understood as an intermediate type of
+geological slip rate across the Sea of Marmara is ⬃18 mm/year as         boundary, where a localized strike-slip fault has just been estab-
+
+                                                                                                                  Published by NRC Research Press
+1420                                                                                                               Can. J. Earth Sci. Vol. 53, 2016
+
+
+lished within a previously existing broad zone of shear affecting      13 Ma to the west and 16 Ma to the east, conﬁrming that middle
+the ductile lower crust and upper mantle.                              Miocene was an important time for the tectonics of Aegea.
+                                                                          The existence of this undeforming Aegea block is not integrated
+The NAF west of the Sea of Marmara                                     in recent discussions of the geodynamics of the area (e.g., Royden
+   From the Ganos Fault westward into the Gulf of Saros, the Curie     and Papanikolaou 2011; Vassalikis et al. 2011; Tirel et al. 2013;
+point depth increases again to more than 20 km and the Ganos –         Pearce 2015). These recent discussions assume rapid lithosphere
+Saros Gulf Fault is indeed a stable pure strike-slip portion that      extension related to the subduction of the oceanic Mediterranean
+corresponds to the westernmost extent of the stable pure strike-       lithosphere since Middle Miocene. But actually, the episode of
+slip NAF (Karabulut et al. 2006). Recently, the 24 May 2014 Mw 7.0     rapid extension within the present Aegea block peaked between
+earthquake conﬁrmed the pure dextral strike-slip nature of the         Serravallian, ca. 12 Ma, and Messinian (7–5 Ma) and ceased to exist
+fault along the Saros Basin, all the way to 25°E (Görgün and           within this Aegea block after Messinian time (5 Ma), while it con-
+Görgün 2015). Gasperini et al. (2011), using the same approach as in   tinued within the WASZ and was initiated within the GSZ be-
+the Gulf of İzmit, conﬁrmed the existence of dextral strike-slip      tween 2 and 1 Ma (Armijo et al. 1996; Sorel 2000; Flotté 2003). We
+along the Saros Fault. However, they evaluated the rate as only        attribute this cessation of extension within the present Aegea
+⬃10 mm/year over the last 10 ky post-glacial period. This discrep-     undeforming block to the shielding effect of the cold oceanic
+ancy with the geodetic slip rate of 22–24 mm/year (Le Pichon and       Ionian slab. The subduction of the Ionian oceanic slab started ca.
+Kreemer 2010; Pérouse et al. 2012; Müller et al. 2013) is similar to   10 Ma and this shielding effect thus progressively extended over
+the discrepancy in the Gulf of İzmit and suggests that there might    the whole southern Aegean mostly after Miocene time. Moreover,
+be some systematic bias in their evaluation. Morever, we pointed       the slab now dips some 10° to 15° up to a distance of some 300 km
+out above that trenching studies estimate slip rate on Ganos Fault     from the Hellenic “Trench”. Despite the prodigious amounts of
+at 17 ± 5 mm/year (Meghraoui et al. 2012; Aksoy 2009) over similar     Messinian salt probably going down into the subduction channel,
+periods of time.                                                       this would induce a considerable frictional stress onto the upper
+   We conclude that the rate of dextral strike-slip motion is indeed   plate that would counteract the extension farther north in a situ-
+constant from the NAF to the western extremity of the Gulf of          ation not too different from the south-central Andes in Chile (see
+Saros Fault along the prolongation of the NAF at a geodetic slip       Oncken et al. 2006, ﬁgs. 16-12a–f). This would explain why the
+rate of ⬃24 mm/year. However, as discussed above, although the         “dead” block does not extend far into the north in the Aegean Sea.
+geological slip rate also appears to be constant at ⬃18 mm/year, it    Another explanation proposed by Sonder and England (1989) is
+                                                                       that the thinning of the southern Aegean Sea that was initiated ca.
+is only ⬃75% of the geodetic slip rate. We proposed above that this
+                                                                       20 Ma may have reached a critical level 3–5 Ma because of the
+discrepancy between geodetic and geologic rates may indicate
+                                                                       cooling of the extending lithosphere. Consequently, the strain
+that ⬃25% of the displacement is taken outside of the main fault
+                                                                       associated with the pull toward the arc was transferred further
+plane.
+                                                                       outward, including to western Anatolia. However, their proposal
+The western portion of the NAF: the undeforming Aegea                  does not explain why the extension continued within northern
+block, the Ionian slab, and the two shear zones that limit it          Aegea and western Anatolia, although the extension had started
+   We now move westward within the Aegean domain. A remark-            at about the same time there.
+able result established by the geodetic surveys of Aegea is the           We now consider more carefully these two shear zones. We will
+existence of an essentially undeforming Aegea block limited by         show that within the West Anatolian – Aegean domain, outside of
+two shear zones (Reilinger et al. 2006; Floyd et al. 2010; Le Pichon   the presently undeforming Aegea block, the normal mode of
+                                                                       shearing there, in this ductile lower crust-upper mantle environ-
+and Kreemer 2010; Royden and Papanikolaou 2011; see Fig. 1). The
+                                                                       ment, is through rotation of en-echelon normal faults over a 100–
+northern shear zone, as mentioned above, has been called GSZ by
+                                                                       200 km wide shear zone (McKenzie and Jackson 1983, 1986, 1989;
+Şengör (1979, 1982). It absorbs ⬃20–25 mm/year of dextral slip.
+                                                                       Jackson and McKenzie 1989). Further, the brittle distension roots
+To the east, the Western Anatolian Shear Zone (WASZ) absorbs
+                                                                       in a shallow decollement above the ductile lower crust. This is
+⬃20 mm/year of sinistral slip. Both zones are characterized by
+                                                                       because, in addition to the ductility of the lower crust and mantle
+distributed extension across several extensional asymmetric rifts
+                                                                       below 10–15 km as in Eastern Anatolia, the thinned lithosphere is
+with decollement, accompanied by rapid rotation at ⬃5°/My,
+                                                                       also affected by strong north–south extension due to the roll-back
+clockwise for the dextral GSZ and counterclockwise for the sinis-
+                                                                       of the peri-Aegean subduction.
+tral WASZ (see detailed references below).                                The GSZ consists of several extensional rifts oblique to the di-
+   The rates of rotation mentioned above of ⬃5°/My should be           rection of motion of Aegea with respect to Eurasia, the largest of
+detected by paleomagnetic measurements if they persevered over         these being the Corinth and Evia grabens (see Fig. 1). These are
+several million years. Such rotations have indeed been detected        asymmetric rifts with active decollements (Rigo et al. 1996; Jolivet
+(Kissel et al. 2003; Van Hinsbergen et al. 2005, 2010). They are       et al. 2010). In this area, distributed extension is accompanied by
+clockwise in the western Aegean region and may have reached as         rapid clockwise motion at ⬃5°/My (Le Pichon and Kreemer 2010;
+much as 40° between 15–13 and 8 Ma with an additional 10° after        Floyd et al. 2010; Chousianitis et al. 2015). The width of this portion
+4 Ma (Van Hinsbergen et al. 2005). They are counterclockwise           of the shear zone in a direction perpendicular to the motion of
+within the eastern Aegean region in the WASZ and have been             Aegea with respect to Eurasia is ⬃100–200 km. There is no local-
+measured as ⬃20° between 16 and 5 Ma (Van Hinsbergen et al.            ized strike-slip boundary there, as evidenced by the absence of
+2010). These ﬁnite rotations thus qualitatively agree with the pres-   strike-slip earthquakes. Yet, Durand et al. (2014) have suggested
+ent geodetic rotations. Of course, paleomagnetic techniques can        that there is a localized strike-slip boundary at depth, within the
+only detect rotations of relatively short radius. The absence of       ductile portion of the lithosphere. The existence of shallow dip-
+detectable paleomagnetic rotations thus does not imply the ab-         ping decollements ﬂattening at a depth of ⬃10 km suggests that
+sence of important motions of large rotation radius. In addition,      the lower crust is ductile (Jolivet et al. 2010). Further, Tiberi et al
+as the paleomagnetic results are obtained by an averaging process      (2001) have shown that the Moho topography is unrelated to the
+between different sites, the distinction between local block rota-     surface tectonics as the lower crust appears to have been affected
+tions and regional rotations is difﬁcult to make, especially in        by boudinage. This conﬁrms that the lower crust is most probably
+Aegea where numerous local block rotations have been demon-            ductile there. Thus, there is no reason to assume the existence of
+strated to be present. However, an important point is that the         a hidden extension of the NAF at depth below the CHSZ as pro-
+rapid phase of rotation detected by paleomagnetics began ca. 15–       posed by Durand et al. (2014). Most authors had previously recog-
+
+                                                                                                                Published by NRC Research Press
+Le Pichon et al.                                                                                                                              1421
+
+
+nized the absence of a localized strike-slip boundary at depth,            subduction to the Aegean northern boundary. As a consequence,
+notably Şengör (1979) and Goldsworthy et al. (2002).                      the whole Kefalonia–Patras shear area lies on top of the shallow
+   The WASZ also consists of actively extending asymmetric rifts           African slab that is subducted at a velocity of ⬃34 mm/year, much
+rotating counterclockwise at ⬃5°/My (Floyd et al. 2010). Karabulut         faster than the 4 mm/year convergence velocity of the Adriatic
+et al. (2013) have put into evidence “small-amplitude and long-            crust with the northern Greece crust, north of the Kefalonia Fault
+wavelength lateral variations of the Moho topography”, which               (Pérouse et al. 2012). The lithosphere being sheared is everywhere
+suggests to them that “viscous ﬂow in a hot lower crust has                thinner than ⬃50–40 km (Pearce 2015). This is a very peculiar
+smoothed out the lateral variations of crustal thickness.” Aydın           situation. Cocard et al. (1999) had shown that this domain had an
+et al. (2005) have shown that the Curie point is at a depth of             important clockwise rotation rate centered on the islands of Ke-
+5–10 km in this area, which conﬁrms that the lower crust is indeed         falonia and Zakintos. The rate of rotation is estimated at 6°–8°/My
+in the ductile regime. The width of the WASZ is similar to the             by Chousianitis et al. (2015) and 8°/My by Vernant et al. (2014). This
+width of the GSZ and equal to ⬃100–200 km. This width, of the              Patras–Achaïa area is limited to the northeast by a zone of left-
+order of the thickness of the average lithosphere, suggests that it        lateral shear between the Gulf of Amavrakikos and the eastern tip
+is related to block shearing of the whole lithosphere. The defor-          of the Gulf of Corinth. The rate of motion along this zone of shear
+mation in the upper brittle crust is an adjustment to this under-          is estimated to be ⬃10 mm/year (Vassilakis et al. 2011; Vernant
+lying distributed shear. In conclusion, both the WASZ and the              et al. 2014).
+extensional portion of the GSZ have a similar width of ⬃100–                  The 8 June 2008 earthquake activated the Patras–Achaïa Fault at
+200 km and have a hot and ductile lower crust. The underlying              the southern extremity of the Kefalonia–Patras shear system as
+mantle is of course also hot and ductile. We can conclude that this        Durand et al. (2014) have demonstrated. This fault is identiﬁed by
+type of shearing zone with rotating distributed extension in the           Shaw and Jackson (2010) through its seismicity, but it only appears
+upper crust is preferred in this extensional hot environment               on GPS as a change from a gradient in velocity to the north versus
+where the lower crust and upper mantle are ductile.                        a uniform velocity to the south. Vassilakis et al. (2011) tried to
+   We then move to the two portions of the northern Aegean                 evaluate its motion by identifying small more or less rigid
+boundary that have not yet been discussed, on both sides of the            “fragments” and conclude that the motion is 7 mm/year with
+GSZ: the Sporades Basin, at the western extremity of the NAT to            ⬃5 mm/year in extension and 5 mm/year in strike-slip. This is not
+the east of the GSZ, and the Kefalonia–Patras Fault system to the          in agreement with the pure strike-slip motion revealed by the
+west. We show that these are portions of the North Aegean Bound-           8 June 2008 earthquake. In any case, their method maximizes the
+ary intermediate in character between stable pure strike-slip lo-          motion on the boundaries between blocks as it ignores any inter-
+calized faults and highly distributed extension through rotating           nal deformation. Thus one can only state with certainty that the
+faults on top of a sheared lower crust and upper mantle. The               motion along this fault is too small to be properly characterized
+Sporades Basin appears to possess a localized strike-slip fault as         by GPS. Indeed, the fault cannot be identiﬁed on the ﬁeld (Shaw
+well as distributed extension to the north of it (the Thermaikos           and Jackson 2010). Cases of faults with strong seismogenic poten-
+and Chalkidiki extensional systems). The Kefalonia–Patras Fault            tial but too small a slip rate to be detected by geodetic methods
+system has a major strike-slip fault at its northern extremity, the        have indeed been described elsewhere (e.g., Friedrich et al. 2004).
+Kefalonia Fault, and a minor one at its southern extremity, the            Thus the Kefalonia–Patras shear area is a zone of continuous shear
+Patras Fault, with distributed shear in-between. Both portions of          deformation over a width of at least 100 km bounded by two
+boundary appear to be sheared over a width of 100–200 km at                localized strike-slip faults. The most important is the Kefalonia
+depth in the lower crust and upper mantle.                                 Fault that absorbs ⬃20 mm/year of dextral slip (Vassilakis et al.
+   A new insight on the behavior of these two portions of the              2011, 15 mm/year; Vernant et al. 2014, 20 mm/year; Pérouse et al.
+boundary is given by the seismic sequence that followed the 6 Jan-         2012, 23 mm/year). The Patras–Achaïa Fault absorbs a maximum
+uary 2008 Mw 6.2 earthquake (37.15°N, 22.95°E). This earthquake            of ⬃5 mm/year. The June 2008 earthquake activated it, as Durand
+ruptured the Ionian slab at a depth of 80 km (see Durand et al.            et al. (2014) have demonstrated.
+2014) and resulted ﬁrst in roll-back of the subduction with south-            Although Reilinger et al. (2006), Le Pichon and Kreemer (2010),
+westward motion of the top block toward the trench and then in             Pérouse et al. (2012), and Müller et al. (2013) all agree that dextral
+dextral shear of Aegea with respect to the Eurasia plate. On 8 June        strike-slip at a rate of 22–26 mm/year occurs along the NAT, the
+1968 an Mw 6.4 dextral strike-slip earthquake activated the Patras–        presence of simultaneous active extension immediately to the
+Achaïa strike-slip fault over a length of 25 km, and then during the       north of the Sporades Basin in the Thermaikos and Chalkidiki
+second part of 2008 the GSZ (Corinth, Sperchios, and Evia rifts)           extensional systems indicates that the western NAT does not cor-
+was activated in extension. This extensional activity extended             respond to pure strike-slip localized on a single fault. Pérouse
+northward into the NAT area within the Thermaikos and Chalkidiki           et al. (2012) and Müller et al. (2013) emphasized this point. The
+extensional systems.                                                       activation of the Sporades and Chalkidiki extension, but not of
+   We now consider the velocity ﬁeld across the GSZ. Floyd et al.          the Sporades dextral strike-slip, during the 2008 seismic sequence
+(2010) show that both across the extensional part of the GSZ and           conﬁrms that this is an intermediate type of boundary, where a
+across the Kefalonia and Patras–Achaia Fault system there is a             localized strike-slip fault coexists with remnants of an extensional
+continuous linear increase in GPS velocity with respect to Eurasia         system, on top of a broad zone of shear affecting the ductile lower
+from ⬃5–10 mm/year north of the Aegea block to 30–35 mm/year               crust and upper mantle. We have seen above that this intermedi-
+within the block. This increase occurs over ⬃100–200 km, the               ate type of environment also characterizes the central and west-
+gradient being somewhat steeper in the purely extensional area             ern Marmara Sea with simultaneous presence both of a localized
+than in the Kefalonia–Patras strike-slip area (see also Shaw and           strike-slip fault, the MMF, and of active remnants of the previous
+Jackson 2010). The increase in velocity over more than 100 km              extensional system.
+cannot be explained only by elastic effect because this width is too          To conclude, west of the Saros Basin, the northern boundary of
+large. The only reasonable explanation is that it reﬂects ductile          the Aegean block absorbs 22–24 mm/year of dextral strike-slip
+shear in the underlying mantle below, as concluded by Shaw and             over a broad 100–200 km wide zone of shear of the lithospheric
+Jackson (2010) and Floyd et al. (2010).                                    mantle, with various expressions within the upper crust. From
+   Considering more carefully the Kefalonia–Patras shear system,           east to west, there are ﬁrst both localized strike-slip along the
+the most important fault is the Kefalonia Fault that absorbs               Sporades Basin and simultaneous extension to the north in the
+⬃15 mm/year of dextral slip (Vassilakis et al. 2011) or up to 23 mm/year   Thermaikos and Chalkidiki area. Then there is distributed clock-
+(Pérouse et al. 2012). It links the northern extremity of the Aegean       wise rotating extension within the GSZ. Finally, there is distrib-
+
+                                                                                                                   Published by NRC Research Press
+1422                                                                                                                 Can. J. Earth Sci. Vol. 53, 2016
+
+
+uted shear between two strike-slip faults, the Kefalonia and              and Papanikolaou 2011). We have noted above that the ﬁnite
+Patras–Achaïa faults in the westernmost portion. This last portion        clockwise and counterclockwise rotations detected by paleomag-
+joins the northern boundary of the Anatolia–Aegea plate to the            netics within Aegea were initiated 16–15 Ma.
+Aegean subduction plate boundary. It crosses an area of relatively           The alternative is that the slab stops being seismically active
+thin crust with no well-identiﬁed Moho, on top of the shallow             10 My after being subducted but continues at greater depth as an
+subducting slab (Pearce 2015). The crust there probably consists of       aseismic slab. This alternative is proposed by authors who postu-
+geologically recent stacks of cold nappes cut from the astheno-           late continuity of the slab to great depth on the basis of tomo-
+sphere by the underlying slab as discussed by Pearce (2015). This         graphic studies (Bijwaard et al. 1998; Piromallo and Morelli 2003).
+relatively cold environment accounts for the presence of localized        In this line of thought, Royden and Papanikolaou (2011) and Tirel
+strike-slip faults.                                                       et al. (2013) agree that rapid subduction of the cold Ionian litho-
+    It is important to note that the effect of the deformation in the     sphere would only have started at 6–8 Ma, following a slower
+GSZ and WASZ is to allow the relatively undeforming Aegea block           subduction episode of external carbonate platform on transi-
+to rotate clockwise away from Anatolia around a pivot situated            tional lithosphere. However, in their hypothesis, it is hard to un-
+near the northern extremity of the subduction zone (e.g., Le Pichon       derstand how the slab was able to maintain its continuity as it
+and Kreemer (2010, ﬁg. 8) in which the GPS vectors are with respect to    went from oceanic, in Eocene time, to semi-continental, in Oligo-
+Anatolia). This rotation has two effects on the subduction zone. First,   cene and lower to middle Miocene, then back to oceanic again, in
+it increases the subduction rate to a value of ⬃35 mm/year along the      upper Miocene to recent time. Models that have been proposed
+whole northwest–southeast segment of the Hellenic subduction              to investigate the change due to the subduction of a continent
+zone as this rotation compensates for the southeastward decrease          (Martinod et al. 2000; Royden and Husson 2006) suggest that con-
+of motion of the Anatolia–Eurasia rotation. Second, it maintains          tinental subduction induces an increase in the slab dip angle and
+the subduction direction strictly perpendicular to the subduction         a decrease in the subduction velocity due to a change in slab
+zone (Le Pichon and Angelier 1979). This rotation thus appears to         buoyancy. They also predict that the slab should break at the
+be governed by the roll-back of the subduction zone.                      former location of the continental block. These models then are
+                                                                          difﬁcult to reconcile with the interpretations, which assume con-
+Consequences of the subduction of the Ionian slab
+                                                                          tinuity of the slab and no break, such as those proposed by Tirel
+   In respect to the drastic consequences of the subduction of the
+                                                                          et al. (2013) and Pearce (2015).
+cold and heavy oceanic Ionian slab, we argue that the presence of
+                                                                             The relationship between simple idealized 2-D models of sub-
+a low dip cold slab in rapid subduction has drastic consequences
+                                                                          duction and actual 3-D complex Aegean subduction is not
+for the overlying mantle and crust. This is because it cuts the
+                                                                          obvious. For example, the continental subduction north of the
+overlying lithosphere from asthenospheric sources and induces a
+shortening environment over it. This, in our opinion, explains            Kefalonia transform dips at the same 17° shallow angle as the
+why major extension is absent within the present Aegea block              oceanic subduction to the south (Pearce 2015). However, the as-
+while it was very active between 13 and 5 Ma.                             sumption of a 200–300 km narrow Ionian slab extending uninter-
+   The cold 200 Ma oceanic Ionian slab (Truffert et al. 1993) is          rupted over more than 1000 km in spite of these drastic changes in
+presently subducted below Aegea at a velocity of ⬃34 mm/year,             subduction type and subduction direction is based on tomogra-
+much faster than the 4 mm/year convergence velocity of the con-           phy. But is the assumption justiﬁed? The presumed continuous
+tinental Adriatic crust north of the Kefalonia Fault with the north-      slab depicted by tomography shows signiﬁcant heterogeneity
+ern Greece crust (Pérouse et al. 2012). The length of the seismically     (Bijwaard et al. 1998, ﬁg. 7c; Piromallo and Morelli 2003, section Ff
+active slab is ⬃350 km below Peloponnesus (e.g., Gudmundsson              of ﬁg. 9). More importantly, the continuity is undermined by the
+and Sambridge 1998), which indicates that this rapid subduction           proven existence of slab breaks in its upper portion. A major slab
+is 10 My old or somewhat older if the average rate of subduction          break, long suspected on the basis of tomographic studies, has
+since the initiation of subduction was equal or somewhat smaller          been demonstrated to exist between Aegea and Anatolia (Paul
+than the present one. The volcanic arc related to this subduction         et al. 2014). Pearce (2015) concludes his extensive investigation of
+was initiated near 2.5 Ma (Le Pichon and Angelier 1979). The slab         seismic imaging of the western Hellenic subduction by stating
+below the volcanic arc is ⬃150 km deep, and the length of slab            that “there may be two overlapping slabs beneath northern
+from the volcanic arc to the subduction zone is ⬃300 km. Thus the         Greece, one dipping at 17° toward N60°E from 30 to 70 km depth
+age indicated for the initiation of subduction is also 10 Ma or           and the other sitting horizontally at 200 km depth”, as shown by
+somewhat older.                                                           Soboudi et al. (2006). He also indicates that he cannot exclude a
+   This age is in fair agreement with the age of formation of the         tear of the slab between northern and southern Greece as pro-
+accretionary wedge, which occurred after 15 Ma as established by          posed by Spakman et al. (1993) and concludes that the slab may be
+deep sea drilling (Kastens 1991). Located within a trough near the        locally segmented in some way at least near its top. The existence
+backstop leading edge, DSDP 377 borehole penetrated early to              of these ruptures supports the conclusion of Le Pichon and
+middle Miocene (between 19 and 15 Ma) turbidites of probable              Kreemer (2010) who pointed out that the continuity of the conical
+African origin. At the time the turbidites were deposited, the            seismic slab with a deeper slab could not be maintained without
+present accretionary wedge could not have existed if the turbid-          signiﬁcant rupture.
+ites indeed came from Africa. These turbidites were covered with             Furthermore, the extent of the Ionian slab below Aegea, as
+15–14 Ma pelagic marls, whereas turbidites continued to be depos-         deﬁned by the intermediate seismicity distribution (Gudmundsson and
+ited to the south. Thus the change of sedimentation to pelagic            Sambridge 1998; Shaw and Jackson 2010), is broadly conﬁrmed by
+marls at 15 Ma is compatible with an initiation of the present            the high-resolution surface tomography of Salaün et al. (2012),
+accretionary wedge at about this time. The probable limestone             which shows that the low-velocity anomaly in the upper mantle,
+backstop is covered by late Miocene basins conﬁrming that it              between 80 and 160 km depth, present in Anatolia and north
+reached its present conﬁguration also in the late Middle Miocene,         central Aegea is limited to the south by the seismically active
+near 15 Ma (Le Pichon et al. 2002). Thus this margin was formed ca.       Ionian slab. Paul et al. (2014) show that the zone of low velocity
+15 Ma. Le Pichon et al. (2002) proposed that this was a time of           anomaly, in Anatolia and north central Aegea, has northeast–
+reinitialization of the subduction system after slab break. We            southwest fast-wave polarization axes of shear-wave anisotropy,
+adopt their proposal. This late initiation of the Ionian oceanic          whereas in southern Aegea, where the seismically active slab is
+plate would also explain why the Kefalonia transform is geologi-          present, the orientation is quite different and signiﬁcantly
+cally quite recent (post-Messinian, 5–7 Ma according to Royden            smaller.
+
+                                                                                                                  Published by NRC Research Press
+Le Pichon et al.                                                                                                                            1423
+
+
+   The mapping of intermediate seismicity depth in the slab by            just reached its eastern extremity, near the Gulf of İzmit. We will
+Gudmundsson and Sambridge (1998) and Shaw and Jackson (2010)              show that this is the time at which asymmetric extensional rifts
+conﬁrms that the slab is not present below the Corinth and Evia           similar to those of the present Gulf of Corinth were formed in the
+grabens, although Suckale et al. (2009) assume that the slab ex-          southern part of what is now the Sea of Marmara. These rifts were
+tends below the eastern extremity of the Corinth Gulf beyond a            oblique to the direction of motion of Anatolia with respect to
+depth of 100 km. However, this assumption of Suckale et al. (2009)        Eurasia, with active decollements to the south of a large anticline
+does not appear to be substantiated. This is because their compos-        on the present southern shelf of the Sea of Marmara. This distrib-
+ite images of the slab show that the well-deﬁned image of the slab        uted extension, which we consider to have been accompanied by
+disappears at a depth of 100 km before reaching the area below            rapid clockwise motion, accommodated the deformation on the
+the eastern Gulf of Corinth. The mapping of Gudmundsson and               western tip of the 4 Ma NAF (Figs. 2, 3a, and 3b).
+Sambridge (1998) also indicates that the slab is present below the           Let us ﬁrst brieﬂy discuss the geodynamics of the western Ana-
+Kefalonia–Patras Shear Zone, as discussed above. And the detailed         tolian – Aegean landmass 4 Ma. We have seen that the present
+seismic imaging of the western Hellenic subduction by Pearce              geodynamics of Aegea and the prolongation of the NAF along its
+(2015) conﬁrms the presence of the slab below the Kefalonia–              northern boundary are now greatly inﬂuenced by the presence of
+Patras Shear Zone, as noted above. We can conclude that the slab          the rapidly subducting Ionian slab. This is because the subduction
+is absent below the GSZ and present below the Kefalonia–Patras            of the slab resulted in the formation of an undeforming Aegean
+zone, which would explain the tectonic difference below the two           block on top of the advancing slab. This subduction was initiated
+zones.                                                                    ca. 15 Ma, 3–4 My before the NAF initiated its westward propaga-
+   Note that the continuity-of-slab hypothesis also leads to another      tion (12–11 Ma according to Şengör et al. 2005). The fact that sub-
+difﬁculty as it does not explain why the extensional collapse of the      duction of the oceanic Ionian plate immediately preceded the
+Aegean landmass, which resulted in the formation of the Sea of            formation of the NAF suggests that slab pull was essential to trig-
+Crete, could have occurred above a shallow subducting slab that           ger the extrusion of Anatolia. Before the slab had sufﬁciently
+should have created a compressional environment. Drooger and              advanced to result in the formation of the relatively undeforming
+Meulenkamp (1973) have shown that the Southern Aegean land-               Aegean block, between 15 and 4 Ma, the western Anatolia – Aegea
+mass fragmented and most of it came below sea level at the end of         environment was dominated by ductile lower crust and upper
+Serravallian (ca.13 Ma, see also Angelier 1979) while it is now part      mantle and was affected by strong north–south extension due to
+of the undeforming Aegean block since Messinian, at ca. 5 Ma              the roll-back of the peri-Aegean subduction distributed over the
+(Angelier et al. 1982). We submit that the apparent heterogeneity         whole Aegean. In this tectonic environment, the shear between
+of the tomographic slab may be due to the coalescence of pieces of        the westward motion of Anatolia and Eurasia was distributed over
+slab following various tear episodes in Late Eocene and Middle            the whole width of Aegea. As a consequence, there was no local-
+Miocene.                                                                  ized northern boundary fault north of Aegea (Fig. 2).
+   If this tear of the slab did indeed occur prior to the initiation of      This does not mean that extension was not present in the north-
+subduction of the oceanic Ionian slab between 15 and 10 Ma, one           ern Aegean. For example, the NAT has deposits of Messinian
+can then distinguish between the presently subducting Ionian              (7–5 Ma) evaporites (Mascle and Martin 1990) and Messinian
+slab at a rate of 34 mm/year and with a dip of 17° toward north of        carbonates and marls are present along the coasts of Saros
+35°E reaching a maximum depth of 170 km and the older co-                 Gulf and Çanakkale close to NAT (Çağatay et al. 1998, 2006;
+alesced slabs now dipping at ⬃45° toward the north between 170            Melinte-Dobrinescu et al. 2009). But there was no localized zone of
+and ⬃1200 km (Bijwaard et al. 1998). This older system, which             shear along it. However as the Ionian slab progressed northeast-
+extends over 1000 km and penetrates into the lower mantle, is             ward below Aegea, distension ceased within the overlying litho-
+most probably anchored within the mantle. Consequently, its ki-           sphere and a relatively undeforming Aegean block progressively
+nematics are independent of what happens at the surface. Its              increased its size. Consequently, the shear could not be distrib-
+vertical velocity must be approximately equal to the vertical com-        uted over the whole of Aegea. Accordingly, the kinematics had to
+ponent of velocity of the subducted Ionian slab, so that contact is       adjust and a localized zone of shear began to form along the
+                                                                          northern boundary of Aegea. This is conﬁrmed by the fact that the
+maintained between the two subducted pieces. Thus the vertical
+                                                                          age of the GSZ is quite young, less than 2 Ma. Armijo et al. (1996)
+velocity of the Ionian slab is ⬃10 mm/year. This vertical velocity
+                                                                          have shown that the phase of rapid extension in the Gulf of
+implies an age of the order of 100 Ma for the initiation of subduc-
+                                                                          Corinth corresponds to the last million years, and Sorel (2000) and
+tion of this older slab, which is quite reasonable.
+                                                                          Flotté (2003) have dated the initiation of the Gulf of Corinth be-
+   We consequently conclude that the subducted Ionian slab now
+                                                                          tween 1.7 and 1.1 Ma. Flotté (2003) estimated the total extension to
+prevents the asthenosphere from reaching the base of the litho-
+                                                                          be 15 km. This ﬁnite extension should be compared to the present
+sphere and produces above it a tectonic environment that is
+                                                                          rate of extension of 15 mm/year. It is equivalent to 1 My of exten-
+cooler and affected by shortening, or at least much less extension.
+                                                                          sion at the present rate. Nielsen (2003) estimated the dextral off-
+We argue that this is the reason why the essentially undeforming
+                                                                          set along the Kefalonia Fault at 37 km using the offset of two
+Aegea block coincides with the part of Aegea that is presently
+                                                                          portions of a seamount that appeared to have been cut in two
+underlain by the Ionian slab. This then explains why the Sea of
+                                                                          pieces. This offset would have been produced in 1.6 My using the
+Crete that resulted from the extensional collapse of the Aegean
+                                                                          strike-slip rate of 23 mm/year given by Pérouse et al. (2012). Simi-
+landmass during Mid to Late Miocene, when a slab was absent
+                                                                          larly, Tüysüz et al. (1998) estimated the age of the initiation of
+below it, following the post-Oligocene break, has been part of the
+                                                                          dextral motion in the Gulf of Saros as between 2 and 1 Ma, Kurt
+undeforming Aegean block since Messinian, ca. 5 Ma (Angelier
+                                                                          et al. (2000) as Plio-Quaternary and Ustaömer et al. (2008) as
+et al. 1982). At this time, the Ionian slab began to propagate north-     Quaternary. This strike-slip phase followed a compressional
+eastward below the Sea of Crete and consequently cut off the              phase in the Saros Gulf region (4–3 Ma) based on the age of the
+asthenospheric source on which this extension thrived.                    Conkbayırı Formation, an alluvial fan formed on the uplifted
+                                                                          southern shoulder of Saros Gulf (northern Gelibolu Peninsula)
+The penetration of the NAF within the western
+                                                                          (see e.g., Sümengen et al. 1987; Çağatay et al. 1998). Thus the pres-
+Anatolian – Aegean landmass 4 Ma                                          ent northern plate boundary of Aegea is less than ca. 2 Ma from
+  Figure 2 shows our proposed reconstruction of the NAF 4 Ma. Le          the Gulf of Saros to the Kefalonia Fault.
+Pichon et al. (2014) have shown that at this time the NAF had not            We should remember, however, that the 200 km WASZ had
+yet entered the area of what is now the Sea of Marmara but had            been a zone of active extension since Late Miocene and remained
+
+                                                                                                                  Published by NRC Research Press
+1424                                                                                                                   Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 3. (a) Map of the southern shelf anticlinal system. Faults on the shelf after Le Pichon et al. (2014). Contours every 100 m (light lines) and
+500 m (dark lines) are estimates of amount of eroded material based on the seismic proﬁles. See Le Pichon et al. (2014) for network of seismic
+proﬁles used. The 3.5 Ma South Marmara Fault (SMF) is shown in red. Possible X shears related to the clockwise rotation of the blocks between
+4 and 3.5 Ma are shown as dotted lines, in purple. Red barbed lines are the direction of propagation of clastics. Contours between the sea ﬂoor
+and 13 km depth of detachments north of the Marmara anticline after Bécel et al. (2009). Black lines with tick marks show crests of tilted
+blocks on top of these detachments after Bécel et al. (2009). The detachment north of the İmralı anticline is drawn on the basis of the
+SEISMARARA seismic proﬁle in the İmralı Basin, as shown in Laigle et al. (2008, ﬁg. 2b). The location of this proﬁle is shown by the red line.
+M1 is the Marmara 1 industrial well. (b) Enlargement of Fig. 3a. (c) Stacked proﬁles from east to west with erosional contours.
+
+
+
+
+in this situation to this day. Consequently, the prolongation of           part of the section, between Marmara and İmralı islands (Figs. 3a,
+the NAF within the Sea of Marmara, which is situated exactly               3b, and 3c). However, the anticline was not found west of Marmara
+to the north of the WASZ, can be considered to be a leaky trans-           Island nor east of İmralı Island, and the reason for the association
+form. The Sea of Marmara thus marks a major transition in the              of the anticline with the central part of the SMF was not eluci-
+propagation of the NAF toward the Aegean subduction zone.                  dated in their paper.
+                                                                              The basement in the anticline area has been uplifted by more
+The Pliocene Sea of Marmara
+                                                                           than 1 km, forming a 6–10 km wide anticlinal fold. The conse-
+  We now return to the area that will become the Sea of Marmara
+ca. 4 Ma. Le Pichon et al. (2014) described a continuous gently            quent uplift led to the erosion of the upper sedimentary units
+curvilinear, south-concave zone of deformation ⬃10 km wide that            near the summit of the anticline. This folding occurred as the
+extended over the whole southern shelf of the Sea of Marmara,              uppermost southeast-dipping foreset beds of the Alçıtepe forma-
+from the Gulf of Gemlik to the Dardanelles Strait, in Lower Plio-          tion (uppermost Miocene – Lower Pliocene, from 5.3 to 3.7–3.4 Ma,
+cene time, ca. 4 Ma (Figs. 3a and 3b). They called this zone of            Melinte-Dobrinescu et al. 2009) were still being deposited to the
+deformation the SMF system and proposed that the SMF was then              south of the present southern shelf of the Sea of Marmara. The
+a branch of the dextral NAF. They noted that this zone of defor-           source of the sediments during their deposition was to the north-
+mation was associated with a large anticline within the central            west and not to the south, which indicates that the Sea of Mar-
+
+                                                                                                                    Published by NRC Research Press
+Le Pichon et al.                                                                                                                          1425
+
+
+Fig. 3 (concluded).                                                    north-northwest–south-southeast normal fault west of the island
+                                                                       of Marmara.
+                                                                          Le Pichon et al. (2014) noted that the SMF occupies the apex of
+                                                                       the anticline. But the SMF continues westward of Marmara island
+                                                                       to the Biga Peninsula, just east of the Dardanelles Straits, whereas
+                                                                       the anticline does not. If the anticline and the SMF were cogenetic,
+                                                                       the disappearance of the anticline west of Marmara Island would
+                                                                       be puzzling as one would expect the shortening component to
+                                                                       increase as the SMF bends its direction southwestward west of
+                                                                       Marmara. Indeed, the SMF is clearly compressional west of the
+                                                                       island of Marmara and, during the Pliocene, a compressional
+                                                                       regime prevailed in the north of the Gelibolu Peninsula, with the
+                                                                       formation of the Anafartalar thrust and the deposition of the
+                                                                       Conkbayırı alluvial fan related to it (e.g., Çağatay et al. 1998).
+                                                                       However, the anticline along the SMF disappears west of the Is-
+                                                                       land of Marmara, and thus this folding appears to be not contrac-
+                                                                       tional. This suggests that the formation of the anticline is not
+                                                                       related to the SMF. We can conclude further that the SMF occu-
+                                                                       pied the apex of the anticline immediately after the anticline was
+                                                                       deactivated, probably because the apex was the weakest portion
+                                                                       of the crust as Steckler and ten Brink (1986) predicted that, within
+                                                                       a zone of continental thinning, a strength minimum exists just
+                                                                       seaward of the hinge zone. But the activity of the SMF was geolog-
+                                                                       ically brief as it was terminated when Lower Pliocene fresh water
+                                                                       calcareous mudstones were deposited, probably corresponding
+                                                                       with the Conkbayırı Formation.
+                                                                          We propose that the anticline is related to a phase of extension
+                                                                       comparable with the one now occurring within the GSZ in the
+                                                                       Gulf of Corinth and we relate it to the detachments mapped by
+                                                                       Bécel et al. (2009) in the southern Sea of Marmara between the sea
+                                                                       ﬂoor and 13 km depth (see Figs. 3a, 3b, and 3c). We also show in
+                                                                       Figs. 3a and 3b the crests of tilted blocks on top of these detach-
+                                                                       ments as mapped by Bécel et al. (2009). To illustrate the similarity
+                                                                       between this system and the Gulf of Corinth extensional system,
+                                                                       we show in Fig. 5 an interpreted lithospheric southwest–north-
+                                                                       east proﬁle (see location in Fig. 6). The fault locations are from Le
+                                                                       Pichon et al. (2014) and Laigle et al. (2008) and the supra-crustal
+                                                                       model is based on Bayrakci et al. (2013) while the detachment
+                                                                       geometry comes from Bécel et al. (2010). The Moho depth is the
+                                                                       J. Kende et al. (in review) model and will be discussed below when
+                                                                       presenting Fig. 6. Interpretation of seismic proﬁles of Turkish
+                                                                       Petroleum was also consulted to constrain the fault and sediment
+                                                                       deposition geometries on the southern shelf. The locations of
+                                                                       microearthquakes are from Kandilli Observatory data. We have
+                                                                       added in Fig. 5, below the proﬁle, the sketch of Jolivet et al. (2010)
+                                                                       that illustrates the possible future evolution of the Gulf of Corinth
+                                                                       to illustrate the similarity between this structure and the Gulf of
+                                                                       Corinth one. The possible evolution of the Gulf of Corinth de-
+                                                                       scribed by Jolivet et al. (2010) is that of a typical Cordilleran-style
+                                                                       metamorphic core complex. The origin of the antiform has been
+                                                                       attributed to the footwall isostatic rebound by many authors since
+                                                                       Spencer (1984) and Wernicke et al. (1985). We consider that Fig. 5
+                                                                       demonstrates that the Southern Shelf anticline and the decolle-
+                                                                       ment of Bécel et al. (2009) are cogenetic. Because we know the age
+mara deep basins did not exist then. Both the upper Miocene            of formation of the anticline, ca. 4 Ma, we conclude that the area
+(Kirazlı, from 11–10 to 5.3 Ma) and Uppermost Miocene – Lower          corresponding to the southern portion of the present Sea of Mar-
+Pliocene (Alçıtepe) sedimentary sequences were conformably             mara was similar to the present Gulf of Corinth ca. 4 Ma.
+deposited, then folded and strongly eroded (Figs. 3c and 4). Le           In Figs. 3a, 3b, and 3c, the anticline has two distinct portions, a
+Pichon et al. (2014) concluded that the uplift occurred near the end   Marmara portion to the west and an İmralı one to the east. They
+of Lower Pliocene, between approximately 4.5 and 3.5 Ma. The           both have the same orientation and the same width. But they
+uplift of the basement increases westward toward Marmara Island        appear to be left-laterally offset. We have sketched in dotted line
+and the maximum uplift is ⬃1.5–2 km over Marmara Island that           along the direction of this offset a possible shear. A similar shear
+was uplifted and broadly warped at this time (see Le Pichon et al.     with the same direction might limit the İmralı anticline portion
+2014 for a short discussion of the tectonics of the island). An        and separate it from the Armutlu uplift. Finally, another shear
+examination of the topography of the island conﬁrms the broad          might limit the western extremity of the İznik Basin. In the tec-
+EW anticlinal upwarp of the island. We re-examined the termina-        tonic context of the time, these shears might correspond to left-
+tion of the anticline west of the island of Marmara for this paper     lateral X shears and be related to the clockwise rotation that must
+(Fig. 4). The anticline and the uplift terminate abruptly along a      have affected the whole area in front of the western tip of the NAF,
+
+                                                                                                                Published by NRC Research Press
+1426                                                                                                                      Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 4. Detail of contours of anticline around Marmara Island. Red line indicates the South Marmara Fault (SMF). Yellow barbed lines indicate
+the direction of propagation of clastics. The top of the Upper Miocene Kirazlı formation rises abruptly across the normal fault to less than
+250 m near the island. The log of the Marmara 1 drill hole situated to the east of Marmara Island is given for reference. See Fig. 3a and
+Le Pichon et al. (2014).
+
+
+
+
+Fig. 5. Interpreted lithospheric southwest–northeast proﬁle (see location in Fig. 7). Fault locations from Le Pichon et al. (2014) and Laigle et al.
+(2008), supra-crustal model based on Bayrakci et al. (2013), detachment geometry based on Bécel et al. (2010), and Moho depth from the J. Kende et al.
+(in review) model. Turkish Petroleum line interpretations were also consulted to constrain the fault and sediment deposition geometries on the
+Southern shelf. Violet faults represent the Main Marmara Fault system in the Central Basin. Black dots are microseismicity localizations from
+Kandilli Observatory data. For comparison, we have shown at the same scale below the proﬁle the sketch of Jolivet et al. (2010) that illustrates the
+possible future evolution of the Gulf of Corinth. Green indicates phylite, quartzite. Grey indicates the ductile domain.
+
+
+
+
+rotation which is attested by the clockwise rotation of 16° de-              an active dextral fault limiting the presently extending İmralı
+tected paleomagnetically by Avşar and İşseven (2009) on volcanic          Basin.
+Eocene rocks of the Armutlu Peninsula. It is interesting to note               The presence of the İmralı portion of the anticline led us to
+in this context that the orientation of the large İmralı canyon is          investigate whether it could also be associated with a detachment,
+compatible with the direction of these probable X shears. But                similar to the Marmara one, to the west of the Armutlu Peninsula.
+we do not have enough structural data to identify this other                 We noted on the SEISMARMARA seismic proﬁle in the İmralı
+possible İmralı canyon X shear. Note, however, that, as noted               Basin (Laigle et al. 2008, ﬁg. 2b; see location of the proﬁle in
+above, the fault along the western end of Armutlu Peninsula                  Figs. 3a and 3b) that the basement dipping northward could be
+has been interpreted by Armijo et al. (2002) as being presently              interpreted as a detachment and the basement between İmralı
+
+                                                                                                                       Published by NRC Research Press
+Le Pichon et al.                                                                                                                            1427
+
+
+Fig. 6. Distribution of the marine Alçıtepe Formation (uppermost Miocene – lower Pliocene, from 5.3–3.7 to 3.4 Ma) in blue and the Pliocene
+undifferentiated continental deposits in yellow after the 1/500 000 map of the General Directorate of Mineral Research and Exploration (2002),
+Görür et al. (1997), and Sakınç et al. (1999). Map of decollements and anticlines from Fig. 3a. The red pattern represents the deformation zone
+along the South Marmara Fault (SMF).
+
+
+
+
+and Çınarcık as a huge tilted block. As we had no other informa-          mara. At the end of this tectonic episode, the NAF entered for the
+tion, we gave to this detachment the same orientation as the Bécel        ﬁrst time in the Marmara area, through the present Gemlik Bay,
+et al. (2009) detachment. We converted it into depth following the        within what would later become the shelf of the Sea of Marmara,
+conversion used by Bécel et al. (2009). This double basin interpre-       following the axis of the İmralı and Marmara anticlines. It then
+tation, i.e., a western one (paleo-Central Basin) and an eastern one      presumably joined a paleo-Ganos – Gulf of Saros Fault. Le Pichon
+(paleo-İmralı Basin), leads us to propose that the whole area cor-       et al. (2014) named this branch of the NAF the SMF. Note that, in
+responding to the present Sea of Marmara was occupied ca. 3.5–            our interpretation, the present Gemlik Fault was part of the early
+4.5 Ma by two asymmetric extensional basins, with detachments             SMF. Thus, we propose that the SMF was the primary structure in
+dipping north-northeast, within a broad zone that rotated clock-          Pliocene and that prior to Pliocene, the shear was distributed over
+wise in front of the tip of the advancing NAF, as depicted schemat-       the whole western Anatolia. There was no primary structure then.
+ically in Fig. 2. This area then should correspond to the oldest             The formation of the SMF marked the end of the initial exten-
+portion of the Sea of Marmara and should have a purely exten-             sional phase and the beginning of the second strike-slip phase,
+sional origin.                                                            although the transition between the two stages was most proba-
+   An intriguing point is that the western anticline segment in-          bly gradual because extension is still present today in the south-
+creases in amplitude westward toward Marmara Island, whereas              ern part of the Sea of Marmara. During this second phase, the
+the eastern one increases in amplitude eastward toward İmralı            strike-slip motion migrated northward and established itself
+Island. This opposite polarity would be expected if these basins          along the present MMF. It was responsible for the architecture of
+formed a relay between the Eastern NAF and a just initiated paleo-        the northern part of the Sea of Marmara, which was submitted to
+Ganos – Gulf of Saros Fault. This situation then would be similar to      a strikingly different strike-slip context than the one prevailing
+the present situation of the GSZ as a relay between the NAT and           during the ﬁrst purely extensional phase.
+the Kefalonia–Patras Fault system (Shaw and Jackson 2010, ﬁg. 16).
+   Figure 6 shows the present distribution of the marine Alçıtepe         Crustal thinning below the Sea of Marmara
+Formation and of the continental Pliocene after the map of the               Before getting into the discussion of this second mostly strike-
+General Directorate of Mineral Research and Exploration (2002),           slip phase of formation of the Sea of Marmara, we need to exam-
+Görür et al. (1997), and Sakınç et al. (1999). This is the ﬁrst time      ine crustal thinning there in the context of the overall thinning
+when marine Mediterranean and the Marine Paratethyan se-                  prevalent in Aegea and western Anatolia since Middle Miocene.
+quences began mixing in the later history of the Marmara Sea and          Crustal thinning has been investigated by different means with
+the well-controlled shape of the marine ingression indicates that         consistent results over the whole Aegean – western Anatolian area
+it was the southern fault systems that were governing the route of        (e.g., Tiberi et al. 2001; Tirel et al. 2004; Karabulut et al. 2013;
+the invading seas (Sakınç et al. 1999, ﬁgs. 9 and 10). The distribu-      Pearce 2015). The crust has been systematically thinned by more
+tion of the Alçıtepe neritic formation in the west corroborates           than 10 km below the Aegean Sea (Tirel et al. 2004; Pearce 2015) as
+that the basins, formed between approximately 4.5 and 3.5 Ma,             well as below the Sea of Marmara (Bécel et al. 2009; Karabulut
+were situated in the southern portion of the present Sea of Mar-          et al. 2013), the GSZ (Tiberi et al. 2001), and the WASZ (Karabulut
+mara. The distribution of the formations to the west of the pres-         et al. 2013). The shallowest Moho is found at a depth of 24 km
+ent Sea of Marmara appears to be compatible with the initiation of        below the NAT, 23–24 km beneath the Sea of Crete (Tirel et al.
+a paleo-Ganos – Gulf of Saros Fault during Uppermost Miocene –            2004), and 23–24 km below the GSZ (Tiberi et al. 2001). In the latter
+Lower Pliocene.                                                           case, Tiberi et al. (2001) pointed out that the highest Moho point is
+   We conclude that sometime between 4.5 and 3.5 Ma, two left-            offset with respect to the Gulf of Corinth. This offset suggested to
+laterally offset basins were formed in a purely extensional context       them that the lower crust is affected by boudinage. Below the
+and now correspond to the oldest part of the present Sea of Mar-          WASZ, Karabulut et al. (2013) observed long-wavelength variations
+
+                                                                                                                  Published by NRC Research Press
+1428                                                                                                                 Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 7. Moho topography in metres after J. Kende et al. (in review). See text. The thick black line represents the Main Marmara Fault (MMF).
+Blue line represents to location of Fig. 5. Detachments contours and block crests are as in Fig. 3a.
+
+
+
+
+of Moho depth, from ⬃25 km below the Sea of Marmara (in agree-            Moho depth model shown in Fig. 7 maps the Moho depth below
+ment with Bécel et al. 2009) to ⬃32 km beneath the İzmir–Ankara          the whole Sea of Marmara. The Moho is shallowest at two loca-
+suture and to ⬃25 km beneath the Menderes Massif. This long-              tions, one north of Marmara Island and the other southwest of the
+wavelength variation suggested to these authors that viscous ﬂow          Çınarcık Basin, with a smooth variation in between. The largest
+in a hot lower crust has smoothed out the lateral variations of           amount of crustal thinning is ⬃10 km. The western zone of high-
+crustal thickness, as mentioned above.                                    est thinning is narrower and impinges on the southern shelf,
+   This brief review indicates that the overall crustal thinning in       whereas the eastern zone is wider and occupies the whole width
+Aegea – western Anatolia has proceeded locally to maxima that             of the Çınarcık Basin. We note further that the thinning under the
+lifts the Moho to a depth of ⬃25 km, below the Gulf of Corinth,           Sea of Marmara is asymmetric, steeper to the north and more
+northern Aegea, the Sea of Crete, the Sea of Marmara, and the             gradual to the south. Below the MMF, the Moho depth is remark-
+WASZ . This value of 25 km is too prevalent to be purely coinci-          ably constant near 26 km (as discussed below). It deepens abruptly
+dental. It affects regions where thinning started at widely diverse       to more than 29 km as the fault leaves the Sea of Marmara, both to
+ages between 20 and 2 Ma. We suggest that this depth of ⬃25 km            the east and the west. The maximum thinning is situated ⬃10 km
+of Moho corresponds to the stage of thinning at which the gravi-          to the south of the MMF in the western Marmara Moho high and
+tational potential energy of the Aegean continental lithosphere,          ⬃15 km to the south of the MMF in the eastern Çınarcık Moho
+with respect of the potential energy of the adjacent Ionian oceanic       high. In between, near the proﬁle shown in Fig. 5, the maximum
+lithosphere, reaches its minimum value (see discussion for exam-          thinning coincides with the MMF. The asymmetry is clearly seen
+ple in Le Pichon 1982). Thus, from that stage on, the thinning can        on the proﬁle of Fig. 5 and appears to reﬂect the asymmetry of the
+only propagate laterally outward. These results suggest further-          decollement mapped by Bécel et al. (2009). This suggests that the
+more that the lower crust has a long-term viscous mechanical              development of the deep crustal structure of the Sea of Marmara
+behavior, with boudinage deformation, during the thinning pro-            has been controlled by the two initial Alçıtepe southern rifts. This
+cess, as mentioned above.                                                 control can also be seen in the dual nature of the zone of maxi-
+   These important remarks will guide us in the following discus-         mum thinning, which reﬂects the emplacements of the two
+sion of the thinning process below the Sea of Marmara in which            Alçıtepe rifts. The eastern Çınarcık Moho high corresponds to the
+we will use a new Moho model developed by J. Kende et al. (in             paleo-İmralı Basin, whereas the western Marmara Moho high cor-
+review, see Appendix). J. Kende et al. (in review) selected 30 km for     responds to the paleo-Central Basin.
+the depth of Moho corresponding to an absence of thinning. This              However, it is also striking that there is no one to one correla-
+value of 30 km is the one given by Karabulut et al. (2013). We            tion between the upper crust structure and the lower crust and
+preferred it to the 35 km given by Bécel et al. (2009) as they have       mantle one. For example, the zone of maximum thinning to the
+few constraints away from the offshore domain and as their 35 km          west extends below the island of Marmara. In addition, although
+value does not seem compatible with the model of Karabulut et al.         one should be aware of the imperfect resolution of the Moho
+(2013) although we note that their north–south 2-D model spreads          mapping that was used, the Moho topography is quite smooth,
+the thinning on a larger area than in our model. Our resulting            which suggests that the lower crust is indeed governed by a ductile
+
+                                                                                                                  Published by NRC Research Press
+Le Pichon et al.                                                                                                                          1429
+
+
+Fig. 8. “Basement” topography after Bayrakci et al. (2013) superposed to Moho depth contours of Fig. 7 in metres. Basement is deﬁned as
+having a seismic velocity larger than 4.2 km/s and does not coincide everywhere with crystalline basement. Thick black line represents the
+Main Marmara Fault (MMF). Yellow lines represent the contours of detachments as in Fig. 7. Submarine fault scarps after Armijo et al. 2002
+are represented in white. Black crosses are inverted nodes and red crosses are ﬁxed nodes in the inversion of Bayrakci et al. (2013).
+
+
+
+
+rheology that allows it to ﬂow on a geological time scale. We noted      grabens. The eastern Çınarcık basement trough corresponds to
+above that Karabulut et al. (2013) had used the smoothness of the        the paleo-İmralı Basin whereas the western Tekirdağ – Central
+Moho topography in western Anatolia as an argument in favor of           Basin basement trough is closely correlated to the paleo-Central
+the ﬂow of the lower crust. This change of rheology between              Basin. But at the difference of the two Moho highs, the linear
+upper and lower crust is also suggested in Fig. 5 by the conﬁne-         structure of the troughs follows the direction of the present MMF.
+ment of the seismicity of the MMF to the upper crust. Thus the           The MMF lies at the axis of the western trough; whereas the MMF,
+upper crust there appears to coincide with the brittle crust. We         which follows the base of the continental slope in the Çınarcık
+conclude that our investigation agrees with our previous discus-         Basin, is parallel but offset 10 km to the north of the eastern
+sion on the ductile nature of the lower crust and upper mantle           trough.
+over the Aegean – western Anatolian area. Although the structure            It is remarkable that it would be impossible to predict the pres-
+of the Moho topography below the Sea of Marmara appears to               ent topography characterized by three main basins, Çınarcık,
+have been in great part controlled by the formation of the two           Central, and Tekirdağ, separated by two highs, Central and West-
+Alçıtepe extensional grabens, its evolution appears to be partly         ern, on the basis of the topography of the basement! That one
+decoupled from the evolution of the upper crust. In addition, it         cannot predict the topography in such an area from the topogra-
+must have been inﬂuenced by the later geological strike-slip             phy of the Moho is not surprising, in view of the decoupling effect
+phase, with the migration of the strike-slip fault northward to the      of the ductile lower crust. But nobody, to our knowledge, ex-
+present emplacement of the MMF and the formation of the more             pected the absence of correlation between the topography of the
+recent Tekirdağ and Çınarcık basins.                                    basement and the sea ﬂoor topography. This indicates that the
+   In Fig. 8 we compare the “basement” topography after Bayrakci         two highs are structures that have no roots in the basement. Both
+et al. (2013) to the topography of the Moho shown in Fig. 7. The         highs thus are the products of sedimentary cover tectonics de-
+basement of Bayrakci et al. (2013) does not coincide everywhere          coupled from the basement, most probably triggered by the
+with the crystalline basement. Basement in Fig. 8 is assumed to          strike-slip motion along the MMF. However, this remark needs to
+have a seismic velocity larger than 4.2 km/s. This is because they       be qualiﬁed by the fact that the Central High is a zone where the
+ﬁnd a velocity step between 3.9 and 4.5 km/s. It can be considered       crust is somewhat thicker than either east and west.
+to be the layer on which occurred the onset of sedimentation in
+the newly formed North Marmara Trough. The difference be-                The evolution of the NAF in the Sea of Marmara
+tween the topography of the basement and the topography of the
+                                                                         from Lower Pliocene to present
+Moho is striking. Actually, at ﬁrst sight, one does not see any
+signiﬁcant correlation between the two topographies. However, a          Age of onset of sedimentation in the newly formed North
+closer examination shows that the two east–west elongated deep           Marmara Trough
+basement troughs that are the main characteristic of the topogra-         To better understand the propagation of the NAF in the Sea of
+phy of the basement appear to be controlled by the two Alçıtepe          Marmara after the formation the Alçıtepe dual-basins structure,
+
+                                                                                                                Published by NRC Research Press
+1430                                                                                                                 Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 9. Synthesis of information on age of onset of sedimentation in the newly formed North Marmara Trough.
+
+
+
+
+we now try to evaluate our present knowledge of the age of the            We believe that if one takes into account the compaction, the
+onset of sedimentation within the different parts of the Sea of           maximum age may not exceed 1 Ma. Sorlien et al. (2012) and Kurt
+Marmara. A synthetic map is presented in Fig. 9. This map reﬂects         et al. (2013) used the same model to predict an age increasing from
+our still considerable uncertainties. We have chosen to classify          east to west in the Çınarcık Basin with less than 1 Ma for the
+the ages in four categories.                                              easternmost Çınarcık and up to 1.4 in the central portion. We
+   The oldest basins, between 4.5 and 3.5 Ma, are those that were         extrapolate an age of 1.5–2.5 Ma for the westernmost part of
+formed during the Alçıtepe extensional stage discussed above. To          Çınarcık. Note that the young age of the Çınarcık Basin suggests
+the west, an onset age of 5–3.5 Ma in the South Central area was          that the İzmit–Sakarya segment of the NAF that now enters the
+proposed on the basis of a heat ﬂow model by Grall et al. (2012).         İzmit Bay is deﬁnitely younger than the İznik Fault that enters the
+Although this evaluation is fragile, it agrees with the 4.5–3.5 Ma        Gemlik Bay to the south.
+that we proposed above for the basin produced during Alçıtepe by             Figure 9 then is compatible with the existence of a southern
+extension along the Marmara decollement mapped by Bécel et al.            Marmara Basin formed between 4.5 and 3.5 Ma and a more com-
+(2009). We thus adopt an age of 4.5–3.5 Ma. This zone most prob-          plex composite younger northern Marmara Basin that propagated
+ably extends further west to the western extremity of the Mar-            outward to the east and to the west sometime after 2.5 Ma along
+mara anticline in the southern Tekirdağ Basin. To the east, in the       the newly formed SMF.
+North İmralı Basin, Sorlien et al. (2012, ﬁg. 13) show a proﬁle along
+a line north of the present depocenter. If one applies a constant         Subsidence along the MMF since 2.5 Ma
+rate of sedimentation and takes into account the effect of com-              In the following, we explore the possibility that since 2.5 Ma the
+paction, the basin in this zone should be at least 2 Ma. It is deﬁ-       northern Marmara basins along the present MMF developed
+nitely older that the Çınarcık Basin to the north or the Tekirdağ        through extension accommodated mostly by oblique slip on the
+Basin to the west. Having no stratigraphic constraints on the             transform fault itself (Seeber et al. 2004, 2006; Sorlien et al. 2012;
+deeper horizons, we consider reasonable to assume that the age is         Kurt et al. 2013). Such a model was originally proposed by Seeber
+the one predicted by the formation of the İmralı decollement and         et al. (2004) to explain the asymmetry and time-transgressive be-
+anticline between 4.5 and 3.5 Ma.                                         havior characteristic of basins, such as the Tekirdağ Basin, that
+   The intermediate 2.5–1.5 Ma basins might correspond to the             form on the releasing sides of bends on strike-slip faults. The
+initiation of shearing along the MMF. A maximum age of 1.5–               authors cited above have shown that this type of model is quite
+2.5 Ma has been proposed by Grall et al. (2012) for the Central           successful to account for the formation of the basins of the Sea of
+Basin. They show that if one assumes that the subsidence rates            Marmara that are directly linked to the MMF, in particular the
+have been constant since the beginning of the formation of this           Tekirdağ at its western extremity and the Çınarcık at its eastern
+basin, the age cannot exceed 2.5 Ma. But although the rate of             extremity. We apply the model through its simplest form. We
+subsidence has been constant since 250–300 ka, a more rapid               assume that the side of the fault that is not subsiding is ﬁxed and
+subsidence may have been present earlier, which would lead to a           that the basement dip is parallel to the slip vector. Then the
+younger age. The heat ﬂow model of Grall et al. (2012) conﬁrms            plunge (angle of slip motion with respect to the horizontal) of the
+that this basin is younger than the basin in the South Central area.      slip vector along the main fault is the arc tangent of the subsi-
+We assume for the Western High a similar age in view of the great         dence velocity divided by the horizontal velocity. It is thus directly
+thickness of sediment (Şengör et al. 2014; Bayrakci et al. 2013). This   related to the subsidence rate through the rate of horizontal slip.
+zone might extend all the way to westernmost Çınarcık (see dis-           This rather crude model is only used to test the general viability of
+cussion below).                                                           a process of formation of the basins through extension mostly
+   The youngest 1.5–1 Ma basins correspond to the Tekirdağ and           accommodated by oblique slip as discussed above.
+Çınarcık basins, respectively. Seeber et al. (2004) proposed that            To derive the plunge values presented in Fig. 10c we assumed a
+the Tekirdağ Basin was created by oblique slip. They obtain a            horizontal slip along the MMF of 18 ± 2 mm/year (Kurt et al. 2013;
+maximum age of 1.4 Ma with the parameters used in their model.            Grall et al. 2013), which is in agreement with the general discussion
+
+                                                                                                                  Published by NRC Research Press
+Le Pichon et al.                                                                                                                                1431
+
+
+Fig. 10. Compilation of different data along a transect following the Main Marmara Fault (MMF). (a) Map of the Sea of Marmara. MMF in red
+based on Şengör et al. (2014) and contour lines of the Moho depth from Fig. 7. (b) Subsidence rate along the MMF retrieved from various
+studies (see details in text). Dotted line indicates a lack of information to determine the uncertainty. (c) Fault plunge along the fault (see
+details in text). (d–f) Crustal thickness, sediment thickness, and Moho depth from Bayrakci et al. (2013) basement model and J. Kende et al. (in
+review) Moho model presented in Fig. 7.
+
+
+
+
+we had above on the geological slip rates along the NAF. The               The subsidence rates were derived from the difference between
+subsidence rates (Fig. 10b) were derived from various data as dis-         the depths of the green-H5 horizon, a seismic reﬂector described
+cussed below.                                                              by Sorlien et al (2012) whose age is estimated to be 540–630 ka
+   Çınarcık: Kurt et al. (2013) presented a stratigraphic interpreta-      (Sorlien et al. 2012; Grall et al. 2013), on each side of the fault. From
+tion of the TAMAM dense grid of multichannel seismic proﬁles.              the east, the subsidence rate decreases, starting at 5.5–4.7 mm/year
+
+                                                                                                                     Published by NRC Research Press
+1432                                                                                                                  Can. J. Earth Sci. Vol. 53, 2016
+
+
+(Kurt et al. 2013, ﬁgs. 3 and 4) to ⬃3.7–3.2 mm/year in the middle        bathymetry and sediment thickness from the Moho depth. The
+part of the basin and 1.8–1.5 mm/year to the west (Kurt et al. 2013,      constancy of the Moho depth along the MMF at ⬃26.5 km is in
+ﬁg. 3), giving the corresponding plunge values of 17.1°, 11.6°, and       contrast with the relatively large variation in the crustal thick-
+5.9°. The 17.1° plunge value also corresponds to the dip of the           ness. This contrast again testiﬁes that the lower crust acts as a
+basement along the fault at the eastern corner of the basin.              decoupling level in the structuration of the Marmara area. We can
+   Kumburgaz: From the same TAMAM survey, Sorlien et al. (2012)           also note that the overall thinning of the crust is relatively
+presents a proﬁle cutting the Kumburgaz Basin on its western part.        modest.
+Following the same method, a subsidence rate of 1.5–1.3 mm/year              To conclude, the evidence we have discussed is compatible with
+and a 4.7° plunge is derived from the green-6 (another seismic            a two-stage formation of the Sea of Marmara. First, two left-
+reﬂector described by Sorlien et al. (2012)) depth variation of           laterally offset basins, a paleo-Central Basin to the west and a
+0.8 km across the fault (Sorlien et al. 2012, ﬁg. 11).                    paleo-İmralı Basin to the east, were formed between 4.5 and
+   Central Basin: Grall et al. (2012) presented two models of a pro-      3.5 Ma, in a purely extensional context, in front of the advancing
+ﬁle cutting the basin: a steady-state model based on subsidence           NAF. They now correspond to the oldest part of the present Sea of
+rate extrapolation and a model based on seismic line interpreta-          Marmara. The formation of the SMF on the southern shelf marked
+tion. We used the depth variation across the fault of the 2 My level      the end of the initial extensional phase and the beginning of the
+in the ﬁrst model and of the 1.5 My level on the second model as          second strike-slip phase. During this second phase, the strike-slip
+they are presented in their supplementary material (Grall et al.          motion migrated northward and established itself along the pres-
+2012). Both models yield the same subsidence rate of 2 mm/year            ent SMF. Sometime after 2.5 Ma, the northern basins were formed
+and a plunge of 6.3°.                                                     along the present MMF through extension accommodated mostly
+   Western High: Grall et al. (2013) indicate a sedimentation rate        by oblique slip on the transform fault itself (Seeber et al. 2004,
+over the last 39 ky that reaches a maximum of 1.5 mm/year in the          2006; Sorlien et al. 2012; Kurt et al. 2013). However, the transition
+eastern and western small basins pinching in the Western High             between the two stages has most probably been gradual because
+(Grall et al. 2013, ﬁg. 6). Correcting for the compaction of shallow
+                                                                          extension is still present today, especially in the southern part of
+sediment of 65%–70% porosity, subsidence at crustal level at these
+                                                                          the western and central Sea of Marmara as well as within the
+sites should account for about one third of the seaﬂoor subsidence
+                                                                          İmralı Basin.
+rate. This gives a subsidence rate of 0.5 mm/year corresponding to
+a plunge of less than 2° over the Western High.                           From extension to strike-slip
+   Tekirdağ: The plunge values of 8° and 14° for, respectively, the         The evidence we have presented demonstrates, in our opinion,
+Tekirdağ Basin and the Ganos small basin off Ganos are inferred          that the formation of the Marmara deep basin began ca. 4.5 Ma
+by Seeber et al. (2004) assuming that the Tekirdağ Basin geometry        during a 1 My purely extensional phase, similar to the one produc-
+is due to a stationary onset point, relatively to the south side of the   ing today the Corinth Rift. Furthermore, the evidence we dis-
+fault. Thus, the 8° plunge of the basin ﬂoor along the fault must         cussed above indicates that the proposition made by Le Pichon
+correspond to the fault plunge. For the Ganos small basin, Seeber         et al. (1999) that the present MMF is a continuous dextral strike-
+et al. (2004) observed that the absence of horizontal offset where
+                                                                          slip fault that transfers the slip of the eastern NAF from the Gulf of
+the fault enters the basin could be explained by a displacement
+                                                                          İzmit to the Ganos Fault with a geological slip rate of 18 mm/year
+plunge equal to the basin rim slope of 14°. Note that because the
+                                                                          is correct. The question then is when did the tectonic change from
+Tekirdağ Basin is forming northward of the fault, the plunge val-
+                                                                          extension to strike-slip occur and how much ﬁnite motion corre-
+ues are considered as negative, as for the Central Basin.
+                                                                          sponded to each of these tectonic phases. This question does not
+   Moreover, we considered a relative subsidence equal to zero on
+                                                                          have simple deﬁnitive answers today.
+average across the Western High and on the Central High on
+                                                                             To approach this problem we may start from the total slip on
+either side of the Kumburgaz Basin. The uncertainties were de-
+rived from values given in the cited studies, when available. Con-        the eastern branch of the NAF, which is estimated today at ⬃75 ±
+sequently, most of them were calculated based on uncertainties            10 km (Şengör et al. 2005). This is equivalent to 4.1 My of slip at the
+on age models and on horizontal slip rate (15–20 mm/year) but do          present geological slip rate of 18 mm/year, much smaller than the
+not take into account the uncertainty in the relative vertical dis-       age of initiation of ca. 11 Ma. This led Şengör et al. (2005) to assume
+placement.                                                                a slip rate progressively increasing from 0 at 11 Ma to the present
+   The main interest of Figs. 10a and 10b is to illustrate the clearly    rate during the last million years. With their model, the total
+anomalous nature of the western Tekirdağ Basin and of the east-          ﬁnite offset at the beginning of the purely extensional phase in
+ern Çınarcık Basin with their fast outward propagation rate.              the Marmara area between 4.5 and 3.5 Ma is slightly more than
+There, the model proposed by Seeber et al. (2004) appears to ac-          20 km and the geological rate of slip at that time ⬃12 mm/year.
+count in an elegant way for the evolution of these basins in a pure       The modelization of Provost et al. (2003) has demonstrated that
+strike-slip mode. In-between the rates are relatively modest and          the present NAF implies an extremely low friction coefﬁcient of
+probably can be accounted for by simple additional north–south            less than 0.05 on the fault plane, 15 times smaller than normal.
+distension that is known to be present because of its seismic             Such a low friction coefﬁcient indicates that the principal dis-
+signature, especially to the south of the western and central part        placement zone is well developed and has reached its maturity
+of the Sea of Marmara (Altınok and Alpar 2006; H. Karabulut,              through the effect of regularization by many successive earth-
+personal communication, 2015). We proposed above that in the              quakes, which would have produced a total offset of at least 20 km
+western and central Sea of Marmara, the MMF coexists with rem-            (e.g., Chester et al. 1993). Twenty kilometres is probably the
+nants of an extensional system. Finally, as noted above, to the           minimum amount of offset one may expect at this time for the
+east, the active faulting and subsidence in the İmralı Basin area        NAF to produce on its tip a well-developed extensional shear zone.
+may also involve continued activity on early structures formed            We accept this 20 km estimate of Şengör et al. (2005) for the offset
+under extension.                                                          at 4 Ma and the corresponding probable rate of slip of 12 mm/year
+   Figure 10e shows the sediment thickness along the MMF after            at this time.
+Bayrakci et al. (2013) and conﬁrms the very large thickness of               Note that this conclusion has an important consequence for the
+sediment below the Western High, up to more than 6 km. We                 tectonics of Aegea from Upper Miocene to Lower Pliocene. This is
+discussed this point above. Figure 10f gives the depth of the Moho        because, as a consequence, during this period, the subduction rate
+from the inversion of J. Kende et al. (in review) shown in Fig. 7. In     must have been signiﬁcantly less than today, probably not more
+Fig. 10d, the crustal thickness is obtained by subtraction of the         than 20 mm/year as an average, with a progressive increase be-
+
+                                                                                                                   Published by NRC Research Press
+Le Pichon et al.                                                                                                                           1433
+
+
+tween 15–12 and 4 Ma, compared to the present subduction rate of          crust, the upper part of the fault is disconnected from its roots and
+34 mm/year.                                                               rapidly looses its “memory”.
+   We now move to the recent period of strike-slip. The formation            If the Aegean–Anatolian lithosphere is mechanically so weak,
+of the Tekirdağ and Çınarcık basins by the present MMF occurred          then how is it possible that traction at its southwestern extremity
+at approximately the present 18 mm/year geological slip rate since        can be transmitted over 1500 km to its eastern extremity? The
+ca. 1.5 Ma. This indicates that ⬃27 km of total slip occurred since       answer lies in the role played by the surface relief. The sometime
+1.5 Ma on the MMF. We are left with approximately 30 km of total          exclusive interest given to the role of the detachments of the slabs
+slip for the period between 3.5 and 1.5 Ma. This gives an average         in the last few years has led to a neglect of the very important role
+rate of ⬃15 mm/year, which appears reasonable in view of the              played by the evolution of topography, with the notable exception
+many uncertainties. The question then is how this approximate             of Floyd et al. (2010), for the Aegean – West Anatolian area.
+amount of 30 km of total slip was distributed? What was the part             McKenzie (1972) and Le Pichon (1982) had both proposed that
+of the emerging MMF between 2.5 and 1.5 Ma, the part of possible          the westward movement of the Anatolian lithosphere responded
+intermediate systems of strike-slip between the SMF and the MMF,          to a gradient in gravitational energy. Currently, the elevation of
+and the part absorbed in the still existing extensional system? We        this plateau is ⬃2 km and the elevation regularly decreases west-
+do not have the information necessary to answer this. We can only         ward to below sea level within the Aegean Sea (see Fig. 11). The
+state with certainty that the present strike-slip system along the        existence of this westward slope of 1.5/1000 results in a gradient of
+MMF was fully functional at the present rate since 1.5 Ma.                potential gravitational energy that enables the transmission of
+   Le Pichon et al. (2001) and Le Pichon et al. (2003) had been           boundary forces to occur smoothly over the whole length of the
+impressed by the observation that the MMF cuts across older ex-           Anatolia–Aegea plate (see Le Pichon and Kreemer (2010) for a more
+isting structures in the Sea of Marmara. They concluded that the          complete discussion of these dynamics). And this gradient ex-
+MMF appeared in a late stage of evolution of the Sea of Marmara.          plains how the southwestward trench pull upon the Aegean litho-
+Noting that back-slipping the MMF by 4 km appears to restore the          sphere can lead to a westward traction of Anatolia. But when and
+Central Bassinette to a symmetric shape, Le Pichon et al. (2001)          how was this gradient established?
+concluded the MMF appeared only ca. 200 ka. This estimate ap-                Let us ﬁrst consider when this gradient was established? There
+peared to be reinforced by the discovery by Armijo et al. (2002) of       is a paradox there. The last marine sediments deposited above the
+an offset of 3.5 km of a north–south fold on the Central High. This       present East Anatolian Plateau date from Serravallian, 13–11 Ma
+conclusion was further elaborated by Rangin et al. (2004) and             (Şengör et al. 2003). Thus the uplift started at this time, as indi-
+Şengör et al. (2005). It is clear now that this interpretation was not   cated by the volcanic activity, that was initiated 11 Ma and became
+correct and that the event that affected the MMF ca. 200 ka was           plateau-wide at 8 Ma. Şengör et al. (2003) reasonably attributed
+probably a re-adjustment of the MMF (Grall et al. 2012). But this         part of the uplift of the East Anatolian Plateau to slab break-off,
+does not change the observation that the MMF cut across the               arguing that the asthenosphere appeared to lie immediately be-
+Marmara Basin more than 2 Ma after its initial extensional forma-         low the crust, as evidenced by its anomalously low seismic veloc-
+tion and that the structures related to it, such as the two elongated     ity. The existence of a slab break-off was also proposed by
+basement troughs mapped by Bayrakci et al. (2013), are superim-           Faccenna et al. (2006) and by many others since, as tomographic
+posed on an older principally extensional framework.                      studies have demonstrated that the plunging African slab below
+                                                                          Turkey is detached from the African plate. But, during the same
+Additional discussion of the geodynamics                                  Serravallian time, most of what now forms the central and south-
+   We pointed out throughout this paper that the lithospheric             ern Aegean Sea was rapidly subsiding. Drooger and Meulenkamp
+mantle of the Aegea–Anatolia plate appears to be very thin or even        (1973) have described the spectacular fragmentation of the south-
+absent and thus that the plate corresponds to a huge ductile mass.        ern Aegean landmass that passed below sea level ca. 13 Ma. Yet,
+This is because the Curie point isotherm (580 °C) south of the NAF        the Aegean Sea crust is also underlain by hot asthenosphere
+is nearly everywhere at a depth of less than 20 km (Aydın et al.          (Salaün et al. 2012; Paul et al. 2014), as below the East Anatolian
+2005), which puts the temperature at more than 900 °C at the              Plateau. As discussed above, the subsidence there, in spite of the
+Moho. This Curie point isotherm rises to less than 10 km in south-        presence of hot mantle, results from the fact that, during middle
+western Anatolia! McKenzie et al. (2005) have shown that, in con-         to late Miocene, the crust of the Aegean Sea was thinned by more
+tinental as well as oceanic lithosphere, the brittle seismogenic          than 10 km.
+zone is limited at its base by the 600 °C isotherm. And numerous             Since the work of Aubouin et al. (1976), it has been demon-
+studies have conﬁrmed that the part of the mantle that is above           strated that after the Paleogene phase of nappe stacking, the cen-
+600 °C does not contribute signiﬁcantly to the elasticity of the          tral Aegean had been the site of intense crustal extension since
+plate. As a consequence, the mantle in most of Anatolia and               the beginning of Miocene. This extension had formed core com-
+Aegea, south of the NAF, has negligible mechanical resistance.            plexes through uplift of the lower middle continental crust to the
+Further, because the temperature within the lower crust exceeds           surface during the middle to late Miocene (Lister et al. 1984). It
+750 °C, many models predict that channel ﬂow is possible if the           seems reasonable to assume that the present location of the core
+composition of the crust is not granulitic (e.g., Beaumont et al.         complexes were in late Oligocene to early Miocene, the sites of
+2004). In addition, because partial fusion is prevalent in many           maximum crustal thickness and highest topography, and that
+places within the lower crust, transient channel ﬂow would ap-            they became the sites of maximum crustal extension (Le Pichon
+pear as soon as the rate of partial fusion is sufﬁciently high            et al. 2002). We have argued above that this occurred because the
+(McKenzie and Jackson 2002). We can conclude that the mechan-             Aegean portion of the slab broke, sometime in late Oligocene,
+ical resistance of the Aegean–Anatolian lithosphere lies essen-           ⬃10 My earlier than below the East Anatolia Plateau. Conse-
+tially within its upper brittle crust and that everything happens as      quently, at this time, the asthenosphere rose to come in contact
+if the lower crust acts as a decoupling level. The existence of a         with the lower crust at the Moho. As its southern boundary was a
+decoupling level, somewhere within the lower crust or at the              free boundary, able to migrate southward, the crust reacted by
+Moho, has been an important acquisition of modern tectonics               southward extension, whereas, 10 My later, below the East Anato-
+(e.g., Wernicke et al. 2008). The presence of a decoupling level          lia Plateau no extension was possible because of the collision to
+below the upper crust explains the observation we made above              the south at the Bitlis suture: the only possibility was uplift. We
+that the NAF appears not to be able to stabilize unless the whole         thus had a situation in early Miocene in which the Aegean and
+crust is in the brittle domain. If there is possible ﬂow in the lower     westernmost Anatolia were relatively high, whereas the East
+
+                                                                                                                 Published by NRC Research Press
+1434                                                                                                                Can. J. Earth Sci. Vol. 53, 2016
+
+
+Fig. 11. Topography of the Anatolia–Aegea area. Note the 2 000 m altitude of the East Anatolia Plateau, opposite the Arabian indenter, and
+the progressive decrease of the elevation westward to less than sea level below the Aegean Sea. The depth contours of the Aegean slab are
+shown by dashed black lines. The fast-wave polarization axes of shear waves detected by Paul et al. (2014) are also shown (red their
+measurements, blue previous measurements). Note the progressive counterclockwise rotation of the axes as one gets closer to the Aegean
+slab. The east–west proﬁles along 39.5°N show the smoothed topography in blue and the crustal thickness in red after Karabulut et al. (2015).
+
+
+
+
+Anatolia Plateau was close to sea level, the exact reverse of what it    only process that we are able to invoke is lower crust ﬂow from
+is now.                                                                  the East Anatolia Plateau toward the west. Such a ﬂow should
+   We now try to consider how the gradient was established. The          actually be expected in view of the large amount of magmatism
+topographic and crustal thickness proﬁles in Fig. 11 indicate that       since 8 Ma. This magmatism would have greatly decreased the
+there is a linear relationship between topographic elevation h and       viscosity of the middle-lower crust (McKenzie and Jackson 2002).
+crustal thickness T:h = (T – 27)/9.5 in kilometres. The crustal thick-   Actually, this tectonic situation can be compared with what is
+ness for sea level is 27 km and for an altitude of 2 km, on the          now happening on the eastern border of the Tibetan Plateau. This
+plateau, 46 km. This is to be compared to the relationship for           eastern border has been uplifted, without substantial shortening
+Tibet, h = (T – 35)/7 (Le Pichon et al. 1992). The linear relationship   of the upper crust, since 8 Ma, because of the occurrence of east–
+demonstrates that a simple Airy type isostasy prevails there. The        southeastward ﬂow of the middle-lower crust (e.g., Royden et al.
+fact that, to produce 1 km of additional elevation, one has 9.5 km       2008). We conclude that an eastward ﬂow of the lower crust of the
+of additional crustal thickness in Anatolia–Aegea instead of 7 km        East Anatolia Plateau has led to the progressive uplift of Anatolia
+in Tibet indicates a lower density contrast at the Moho for Anatolia–    from east to west.
+Aegea than for Tibet. For example, using the values of upper                But was the mantle involved in this westward ﬂow? We have
+crust density of 2.67 and of lower crust density of 2.95, as adopted     argued that a level of decoupling exists in Anatolia–Aegea within
+by J. Kende et al. (in review), the density of the mantle would be       the lower crust. Consequently, the mantle may not necessarily
+3.26 for Anatolia–Aegea and 3.39 for Tibet. Of course, this model is     take part in this ﬂow. However, the asthenosphere that had risen
+very crude but it does conﬁrm that the mantle below the Moho is          up below the East Anatolia Plateau had to escape outward, being
+unusually light, and consequently hot, below Anatolia–Aegea.             pushed by the advancing Arabian indenter and the only possibil-
+   If the thickening to 45 km of the crust below the East Anatolia       ity of escape for the asthenosphere was to the southwest, toward
+Plateau can be explained by crustal thickening north of the Ara-         the Mediterranean, between the Arabian indenter to the east and
+bian indenter, no such effect can be invoked to explain the varia-       the Aegean slab to the west. Do we have any indication that such
+tion in thickness of the crust in central and western Anatolia. The      a ﬂow has existed? We can again consider the Tibetan area where
+
+                                                                                                                 Published by NRC Research Press
+Le Pichon et al.                                                                                                                                      1435
+
+
+the orientation of the fast-wave polarization axes of shear waves         Finally, we wish to make three remarks that may have signiﬁ-
+aligns itself with directions of principal shear indicating a ﬂow in    cant implications for the evaluation of the seismic risk in the Sea
+the mantle, in the same direction as the surface one, with defor-       of Marmara.
+mation rates exceeding 75% (Holt 2000). On the southeastern bor-
+                                                                        (1) The present structure of the Sea of Marmara results from the
+der of the Tibetan Plateau, however, Flesch et al. (2005) conclude
+                                                                            superposition of a purely strike-slip system on top of an
+that the mantle ﬂow, as indicated by these polarization axes, is            initial purely en-echelon extensional system. This superposi-
+probably decoupled from the crust. The eastward ﬂow is actually             tion explains the occurrence of large strike-slip earthquakes
+close to the extensional direction, at an angle with the southeast-         together with signiﬁcant extensional earthquakes that reac-
+ward surface ﬂow, suggesting that deformation rates are smaller             tivate earlier extensional structures.
+there.                                                                  (2) The MMF is a continuous dextral strike-slip fault through the
+   In Fig. 11, we show the northeast–southwest orientations of the          whole basin with a present seismic activity strikingly differ-
+fast-wave polarization axes of shear waves detected by Paul et al.          ent from the portions of land fault broken by the 1999 Kocaeli
+(2014) over most of Anatolia and the northern Aegean Sea. These             and the 1912 Ganos earthquakes. Its continuity and relative
+are remarkably similar to the extensional directions from GPS               homogeneity suggests that one cannot discard the possibility
+(e.g., Le Pichon and Kreemer 2010, ﬁg. 7) or from earthquake fault          that the whole MMF will break in a single earthquake as
+plane solutions (e.g., Floyd et al. 2010), including the same coun-         proposed by Le Pichon et al. (1999).
+terclockwise rotation from eastern Anatolia to the northern Ae-         (3) The MMF closely follows the base of the northern Marmara
+gean Sea noted by Paul et al. (2014). Thus the upper mantle                 margin east of 28°E. As a result there is a 4–6 km offset be-
+appears to be decoupled from the crust, ﬂowing along the litho-             tween the basement on both sides of the fault. Jim Rice (per-
+spheric extensional direction, toward the easternmost Mediterra-            sonal communication to X.L.P. 2002) pointed out that this
+nean. This direction of ﬂow is not surprising, as the new Aegean            would induce a signiﬁcant asymmetry of elastic deformation.
+slab has blocked the possible outﬂow of the asthenosphere in the            This asymmetry has very important implications that have
+Aegean – West Anatolian area in the last few million years. Finally,        essentially been ignored up to this day.
+this discussion helps us to understand why, although the west-
+ward extrusion of the Anatolia–Aegea plate was initiated 11 Ma,
+                                                                        Acknowledgements
+the formation and westward propagation of the NAF took a few              X.L.P. thanks the editors for their invitation to write a paper in
+                                                                        this special issue of the Canadian Journal of Earth Sciences honouring
+million more years to develop, as the westward gravitational gra-
+                                                                        Kevin C. Burke and John F. Dewey. This presentation is one of the
+dient was being established.
+                                                                        outcomes of 15 years of cooperative work with many French and
+Conclusions                                                             Turkish colleagues. We wish to thank Michel Bouchon for com-
+                                                                        municating important papers and theses and for discussions on
+   The Sea of Marmara appears to be a key point in the history of       the seismicity of Aegea. We thank the reviewers Michel Bouchon,
+the propagation of the NAF toward the northern extremity of the         Namık Çağatay, and Brian Wernicke and the editor Ali Polat for
+Aegean subduction during the last 10 My. There is no indication         careful and very useful comments. We especially wish to thank
+that a localized plate boundary existed north of the Aegean por-        Brian Wernicke for many insightful suggestions.
+tion of the Anatolia plate before 2 Ma. Prior to this age, the shear
+produced by the motion of Anatolia with respect to Eurasia was          References
+distributed over the whole width of the Aegean – West Anatolian         Aitken, A.R.A., Salmon, M.L., and Kennett, B.L.N. 2013. Australia’s Moho: a test of
+western portion. This was most probably related to the presence            the usefulness of gravity modelling for the determination of Moho depth.
+                                                                           Tectonophysics, 609: 468–479. doi:10.1016/j.tecto.2012.06.049.
+there of a north–south component of extension produced by the           Aksoy, M.E. 2009. Active tectonics and paleoseismology of the Ganos fault seg-
+southward migration of the Aegean subduction. It is no coinci-             ment and seismic characteristics of the 9 August 1912 Mürefte earthquake of
+dence that fast subduction of the oceanic Ionian lithosphere was           the North Anatolian fault (western Turkey). PhD Thesis, Eurasia Institute of
+                                                                           Earth Sciences, İstanbul Technical University, Institute de Physique du Globe
+initiated a few million years before the Anatolia westward mo-             de Strasbourg, University of Strasbourg.
+tion. These two processes are obviously tightly linked.                 Allen, C. 1975. Geological criteria for evaluating seismicity—Address as Retiring
+   The beginning of the formation of a localized plate boundary            President of The Geological Society of America, Miami Beach, Florida,
+                                                                           November 1974. Geological Society of America Bulletin, 86: 1041–1057. doi:
+occurred between 4.5 and 3.5 Ma at the location of the present Sea
+                                                                           10.1130/0016-7606(1975)86<1041:GCFES>2.0.CO;2.
+of Marmara by the initiation of a shear zone comparable to the          Altınok, Y., and Alpar, B. 2006. Marmara Island earthquakes, of 1265 and 1935;
+present GSZ in central Greece. Thus, the ﬁrst part of the formation        Turkey. Natural Hazards and Earth System Science, 6: 999–1006. doi:10.5194/
+of the Sea of Marmara was purely extensional. The present strike-          nhess-6-999-2006.
+                                                                        Angelier, J. 1979. Néotectonique de l’Arc Egéen. Société Géologique du Nord.
+slip system that today cuts across the whole Sea of Marmara, and        Angelier, J., Lybéris, N., Le Pichon, X., Barrier, E., and Huchon, P. 1982. The
+that is called MMF, began to develop after 2.5 Ma. Shortly after, the      tectonic development of the Hellenic arc and the Sea of Crete: a synthesis.
+plate boundary migrated westward along the northern border of              Tectonophysics, 86: 159–196. doi:10.1016/0040-1951(82)90066-X.
+Aegea from the NAT to the GSZ and to the Kefalonia Fault. There,        Armijo, R., Meyer, B., King, G.C.P., Rigo, A., and Papanastassiou, D. 1996. Qua-
+                                                                           ternary evolution of the Corinth Rift and its implications for the Late Ceno-
+it ﬁnally linked with the northern tip of the Aegean subduction            zoic evolution of the Aegean. Geophysical Journal International, 126: 11–53.
+zone, completing the system of plate boundaries delimiting the             doi:10.1111/j.1365-246X.1996.tb05264.x.
+Anatolia–Aegea plate. We have related the remarkable change in          Armijo, R., Meyer, B., Navarro, S., King, G., and Barka, A. 2002. Asymmetric slip
+                                                                           partitioning in the Sea of Marmara pull-apart: a clue to propagation pro-
+the distribution of shear over Aegea from Miocene to Pliocene to           cesses of the North Anatolian Fault? Terra Nova, 14: 80–86. doi:10.1046/j.1365-
+the formation of a relatively undeforming block in Pliocene that           3121.2002.00397.x.
+forced the shear to be distributed over a narrow plate boundary to      Aubouin, J., Bonneau, M., Davidson, J., Leboulenger, P., Matesco, S., and
+the north of it. We attribute the formation of this relatively unde-       Zambetakis, A. 1976. Esquisse structurale de l’arc Egéen externe: des Di-
+                                                                           narides aux Taurides. Bulletin de la Société Geologique de France, 18: 327–
+forming Aegean block to the northeastward progression of the               336. doi:10.2113/gssgfbull.S7-XVIII.2.327.
+cold oceanic Ionian slab. This is because the slab cuts the overly-     Avşar, Ü., and İşseven, T. 2009. Regional clockwise rotation of the Armutlu
+ing lithosphere from asthenospheric sources and induces a short-           Peninsula, western Turkey, resolved from paleomagnetic study of Eocene
+                                                                           volcanics. Tectonophysics, 475: 415–422. doi:10.1016/j.tecto.2009.05.021.
+ening environment over it. We noted, however, that another
+                                                                        Aydın, İ., Karat, H.İ., and Koçak, A. 2005. Curie-point depth map of Turkey.
+possible contribution was the lower subduction rate during the             Geophysical Journal International, 162: 633–640. doi:10.1111/j.1365-246X.2005.
+Miocene.                                                                   02617.x.
+
+                                                                                                                        Published by NRC Research Press
+1436                                                                                                                                           Can. J. Earth Sci. Vol. 53, 2016
+
+
+Bayrakci, G., Laigle, M., Bécel, A., Hirn, A., Taymaz, T., Yolsal-Çevikbilen, S., and         to Quaternary paleogeographic exposition of its framework. International
+   SEISMARMARA team. 2013. 3-D sediment-basement tomography of the                            Geology Review, 39: 342–352. doi:10.1080/00206819709465276.
+   Northern Marmara trough by a dense OBS network at the nodes of a grid of               Grall, C., Henry, P., Tezcan, D., de Lepinay, B.M., Bécel, A., Geli, L.,
+   controlled source proﬁles along the North Anatolian fault. Geophysical Jour-               Rudkiewicz, J.-L., et al. 2012. Heat ﬂow in the Sea of Marmara Central Basin:
+   nal International, 194: 1335–1357. doi:10.1093/gji/ggt211.                                 possible implications for the tectonic evolution of the North Anatolian fault.
+Beaumont, C., Jamieson, R.A., Nguyen, M.H., and Medvedev, S. 2004. Crustal                    Geology, 40(1): 3–6. doi:10.1130/G32192.1.
+   channel ﬂows: 1. Numerical models with applications to the tectonics of the            Grall, C., Henry, P., Thomas, Y., Westbrook, G.K., Çağatay, M.N., Marsset, B.,
+   Himalayan–Tibetan orogen. Journal of Geophysical Research: Solid Earth,                    Saritas, H., et al. 2013. Slip rate estimation along the western segment of the
+   109: B06406. doi:10.1029/2003JB002809.                                                     Main Marmara Fault over the last 405–490 ka by correlating Mass Transport
+Bécel, A., Laigle, M., de Voogd, B., Hirn, A., Taymaz, T., Galvé, A., Shimamura, H.,          Deposits. Tectonics, 32(6): 1587–1601. doi:10.1002/2012TC003255.
+   et al. 2009. Moho, crustal architecture and deep deformation under the                 Gudmundsson, O., and Sambridge, M. 1998. A regionalized upper mantle (RUM)
+   North Marmara Trough, from the SEISMARMARA Leg 1 offshore-onshore                          seismic model. Journal of Geophysical Research, 103(B4): 7121–7136. doi:10.
+   reﬂection-refraction survey. Tectonophysics, 467: 1–21. doi:10.1016/j.tecto.               1029/97JB02488.
+   2008.10.022.                                                                           Holt, W.E. 2000. Correlated crust and mantle strain ﬁelds in Tibet. Geology, 28:
+Bécel, A., Laigle, M, de Voogd, B., Hirn, A., Taymaz, T., Yolsal-Cevikbilen, S., and          67–70. doi:10.1130/0091-7613(2000)28<67:CCAMSF>2.0.CO;2.
+   Shimamura, H. 2010. North Marmara Trough architecture of basin inﬁll,                  Hubert-Ferrari, A., Armijo, R., King, G., Meyer, B., and Barka, A. 2002. Morphology,
+   basement and faults, from PSDM reﬂection and OBS refraction seismics.                      displacement, and slip rates along the North Anatolian fault, Turkey. Journal
+   Tectonophysics, 490: 1–14. doi:10.1016/j.tecto.2010.04.004.                                of Geophysical Research: Solid Earth, 107(B10): ETG 9-1–ETG 9-33. doi:10.1029/
+Bijwaard, H., Spakman, W., and Engdahl, E.R. 1998. Closing the gap between                    2001JB000393.
+   regional and global travel time tomography. Journal of Geophysical Re-                 Jackson, J., and McKenzie. D. 1989. Relation between seismicity and paleomag-
+   search, 103(B12): 30055–30078. doi:10.1029/98JB02467.                                      netic rotation in zones of distributed continental deformation. In Paleomag-
+Bulut, F., Bohnhoff, M., Ellsworth, W.L., Aktar, M., and Dresen, G. 2009. Micro-              netic Rotations and Continental Deformation. Edited by C. Kissel and C. Laj.
+   seismicity at the North Anatolian Fault in the Sea of Marmara offshore Istan-              Kluwer Academic Publishers, The Hague. pp. 33–49.
+   bul, NW Turkey. Journal of Geophysical Research: Solid Earth, 114: B09302.             Jolivet, L., Labrousse, L., Agard, P., Lacombe, O., Bailly, V., Lecomte, E.,
+   doi:10.1029/2008JB006244.                                                                  Mouthereau, F., and Mehl, C. 2010. Rifting and shallow-dipping detachments,
+Çağatay, M.N., Görür, N., Alpar, B., Saatçılar, R., Akkök, R., Sakınç, M., Yüce, H.,         clues from the Corinth Rift and the Aegean. Tectonophysics, 483: 287–304.
+   et al. 1998. Geological evolution of the Gulf of Saros, NE Aegean Sea. Geo-                doi:10.1016/j.tecto.2009.11.001.
+   Marine Letters, 18: 1–9. doi:10.1007/s003670050045.                                    Karabulut, H., Bouin, M.P., Bouchon, M., Dietrich, M., Cornou, C., and Aktar, M.
+Çağatay, M.N., Görür, N., Flecker, R., Sakınç, M, Tünoğlu, C., Ellam, R.,                   2002. The seismicity in the eastern Marmara Sea after the 17 August 1999
+   Krijgsman, W., et al. 2006. Paratethyan–Mediterraenan connectivity in the                  İzmit earthquake. Bulletin of the Seismological Society of America, 92(1):
+   Sea of Marmara region (NW Turkey) during the Messinian. Sedimentary Ge-                    387–393. doi:10.1785/0120000820.
+   ology, 188 –189: 171–187. doi:10.1016/j.sedgeo.2006.03.004.                            Karabulut, H., Roumelioti, Z., Benetatos, C., Kömec-Mutlu, A., Özalaybey, S.,
+                                                                                              Aktar, M., and Kiratzi, A. 2006. A source study of the 6 July 2003 (Mw 5.7)
+Chester, F.M., Evans, J.P., and Biegel, R.L. 1993. Internal structure and weakening
+                                                                                              earthquake sequence in the Gulf of Saros (Northern Aegean Sea): seismolog-
+   mechanisms of the San Andreas fault. Journal of Geophysical Research, 98:
+                                                                                              ical evidence for the western continuation of the Ganos fault. Tectonophys-
+   771–786. doi:10.1029/92JB01866.
+                                                                                              ics, 412: 195–216. doi:10.1016/j.tecto.2005.09.009.
+Chousianitis, K., Ganas, A., and Evangelidis, C.P. 2015. Strain and rotation rate
+                                                                                          Karabulut, H., Schmittbuhl, J., Özalaybey, S., Lengliné, O., Kömeç-Mutlu, A.,
+   patterns of mainland Greece from continuous GPS data and comparison
+                                                                                              Durand, V., Bouchon, M., et al. 2011. Evolution of the seismicity in the eastern
+   between seismic and geodetic moment relaease. Journal of Geophysical Re-
+                                                                                              Marmara Sea a decade before and after the 17 August 1999 İzmit earthquake.
+   search (Solid Earth), 120: 3909–3931. doi:10.1002/2014JB011762.
+                                                                                              Tectonophysics, 510: 17–27. doi:10.1016/j.tecto.2011.07.009.
+Cocard, M., Kahle, H.-G., Peter, Y., Geiger, A., Veis, G., Felekis, S., Paradissis, D.,
+                                                                                          Karabulut, H., Paul, A., Ergün, T.A., Hatzfeld, D., Childs, D.M., and Aktar, M. 2013.
+   and Billiris, H. 1999. New constraints on the rapid crustal motion of the                  Long-wavelength undulations of the seismic Moho beneath the strongly
+   Aegean region: recent results inferred from GPS measurements (1993–1998)                   stretched western Anatolia. Geophysical Journal International, 194(1): 450–
+   across the West Hellenic arc, Greece. Earth and Planetary Science Letters,                 464. doi:10.1093/gji/ggt100.
+   172: 39–47. doi:10.1016/S0012-821X(99)00185-5.                                         Karabulut, H., Paul, A., Cambaz, D., Kömeç Mutlu, A., Aksarı, D., and Ergün, T.A.
+Drooger, C.W., and Meulenkamp, J.E. 1973. Stratigraphic contribution to geody-                2015. The images of Anatolia. EGU General Assembly, 12–17 April, 2015, Vi-
+   namics in the Mediterranean Area: Crete as a case history. Bulletin of the                 enna, Austria. id.8921.
+   Geological Society of Greece, 10: 193–200.                                             Kastens, K.A. 1991. Rate of outward growth of the Mediterranean Ridge accretion-
+Durand, V., Bouchon, M., Floyd, M.A., Theodulidis, N., Marsan, D., Karabulut, H.,             ary complex. Tectonophysics, 199: 25–50. doi:10.1016/0040-1951(91)90117-B.
+   and Schmittbuhl, J. 2014. Observation of the spread of slow deformation in             Kissel, C., Laj, C., Poisson, A., and Görür, N. 2003. Paleomagnetic reconstruction
+   Greece following the breakup of the slab. Geophysical Research Letters, 41:                of the Cenozoic evolution of the eastern Mediterranean. Tectonophysics,
+   7129–7134. doi:10.1002/2014GL061408.                                                       362: 199–217. doi:10.1016/S0040-1951(02)00638-8.
+Faccenna, C., Bellier, O., Martinod, J., Piromallo, C., and Regard, V. 2006. Slab         Kozacı, Ö., Dolan, J.F., and Finkel, R.C. 2009. A late Holocene slip rate for the
+   detachment beneath eastern Anatolia: a possible cause for the formation of                 central North Anatolian fault, at Tahtaköprü, Turkey, from cosmogenic
+   the North Anatolian Fault. Earth and Planetary Science Letters, 242: 85–97.                10Be geochronology: implications for fault loading and strain release rates.
+   doi:10.1016/j.epsl.2005.11.046.                                                            Journal of Geophysical Research: Solid Earth, 114: B01405. doi:10.1029/
+Flesch, L.M., Haines, A.J., and Holt, W.E. 2005. Constraining the extent of crust–            2008JB005760.
+   mantle coupling in central Asia using GPS, geologic, and shear-wave splitting          Kurt, H., Demirbağ, E., and Kuşçu, İ. 2000. Active submarine tectonism and
+   data. Earth and Planetary Science Letters, 238: 248–268. doi:10.1016/j.epsl.               formation of the Gulf of Saros, northeast Aegean Sea, inferred from multi-
+   2005.06.023.                                                                               channel seismic reﬂection data. Marine Geology, 165: 13–26. doi:10.1016/S0025-
+Flotté, N. 2003. Caractérisation Structurale et Cinématique d’un Rift sur                     3227(00)00005-0.
+   Détachement: Le Rift de Corinthe-Patras, Grèce. Thèse de Doctorat, Orsay:              Kurt, H., Sorlien, C.C., Seeber, L., Steckler, M.S., Shillington, D.J., Cifci, G.,
+   Univ Paris-Sud.                                                                            Cormier, M.H., et al. 2013. Steady late quaternary slip rate on the Cinarcik
+Floyd, M.A., Billiris, H., Paradissis, D., Veis, G., Avallone, A., Briole, P.,                section of the North Anatolian fault near Istanbul, Turkey. Geophysical Re-
+   McClusky, S., et al. 2010. A new velocity ﬁeld for Greece: implications for the            search Letters, 40: 4555–4559. doi:10.1002/grl.50882.
+   kinematics and dynamics of the Aegean. Journal of Geophysical Research,                Laigle, M., Bécel, A., de Voogd, B., Hirn, A., Taymaz, T., Ozalaybey, S., and mem-
+   115: B10403. doi:10.1029/2009JB007040.                                                     bers of SEISMARMARA Leg1 Team. 2008. A ﬁrst deep seismic survey in the Sea
+Friedrich, A.M., Lee, J., Wernicke, B.P., and Sieh, K. 2004. Geologic context of              of Marmara: deep basins and whole crust architecture and evolution.
+   geodetic data across a Basin and Range normal fault, Crescent Valley, Nevada.              Earth and Planetary Science Letters, 270: 168–179. doi:10.1016/j.epsl.2008.
+   Tectonics, 23: TC2015. doi:10.1029/2003TC001528.                                           02.031.
+Gasperini, L., Polonia, A., Çağatay, M.N., Bortoluzzi, G., and Ferrante, V. 2011.        Le Pichon, X. 1982. Land-locked oceanic basins and continental collision: the
+   Geological slip rate along the North Anatolian Fault in the Marmara region.                eastern Mediterranean as a case example. In Mountain Building Processes.
+   Tectonics, 30: TC6001. doi:10.1029/2011TC002906.                                           Edited by K.J. Hsü. Academic Press, London. pp. 201–211.
+General Directorate of Mineral Research and Exploration. 2002. 1/500 000 Geo-             Le Pichon, X., and Angelier, J. 1979. The Hellenic arc and trench system: a key to
+   logical Map of Turkey.                                                                     the neotectonic evolution of the eastern Mediterranean area. Tectonophys-
+Goldsworthy, M., Jackson, J., and Haines, J. 2002. The continuity of active fault             ics, 60: 1–42. doi:10.1016/0040-1951(79)90131-8.
+   systems in Greece. Geophysical Journal International, 148(3): 596–618. doi:            Le Pichon, X., and Angelier, J. 1981. The Aegean Sea. Philosophical Transactions
+   10.1046/j.1365-246X. 2002.01609.x.                                                         of the Royal Society of London, A300: 357–372.
+Görgün, E., and Görgün, B. 2015. Seismicity of the 24 May 2014 Mw 7.0 Aegean Sea          Le Pichon, X., and Kreemer, C. 2010. The Miocene-to-present kinematic evolution
+   earthquake sequence along the North Aegean Trough. Journal of Asian Earth                  of the eastern Mediterranean and Middle East and its implications for dy-
+   Sciences, 111: 459–469. doi:10.1016/j.jseaes.2015.06.018.                                  namics. Annual Review of Earth and Planetary Sciences, 38: 323–351. doi:10.
+Görür, N., Çağatay, M.N., Sakınç, M., Sümengen, M., Şentürk, K., Yaltırak, C., and          1146/annurev-earth-040809-152419.
+   Tchapalyga, A. 1997. Origin of the Sea of Marmara as deduced from Neogene              Le Pichon, X., Fournier, M., and Jolivet, L. 1992. Kinematics, topography, short-
+
+                                                                                                                                           Published by NRC Research Press
+Le Pichon et al.                                                                                                                                                       1437
+
+
+    ening, and extrusion in the India–Eurasia collision. Tectonics, 11(6): 1085–        Oldenburg, D.W. 1974. The inversion and interpretation of gravity anomalies.
+    1098. doi:10.1029/92TC01566.                                                            Geophysics, 39(4): 526–536. doi:10.1190/1.1440444.
+Le Pichon, X., Chamot-Rooke, N., Huchon, P., and Luxey, P. 1993. Implication des        Oncken, O., Chong, G., Franz, G., Giese, P., Götze, H.-J., Ramos, V.A., Strecker,
+    nouvelles mesures de géodésie spatiale en Grèce et Turquie sur l’extrusion              M.R., and Wigger, P. 2006. An Andes: Active Subduction Orogeny (Frontiers in
+    latérale de l’Anatolie et de l’Egée. C. R. Académies des Sciences, Paris II, 316:       the Earth Sciences Series). Springer, Berlin.
+    983–990.                                                                            Örgülü, G. 2011. Seismicity and source parameters for small-scale earthquakes
+Le Pichon, X., Chamot-Rooke, N., Lallemant, S., Noomen, R., and Veis, G. 1995.              along the splays of the North Anatolian Fault (NAF) in the Marmara Sea.
+    Geodetic determination of the kinematics of central Greece with respect to              Geophysical Journal International, 184(1): 385–404. doi:10.1111/j.1365-246X.
+    Europe: implications for eastern Mediterranean tectonics. Journal of Geo-               2010.04844.x.
+    physical Research, 100: 12675–12690. doi:10.1029/95JB00317.                         Parker, R.L. 1973. The Rapid Calculation of Potential Anomalies. Geophysical
+Le Pichon, X., Taymaz, T., and Şengör, A.M.C. 1999. The Marmara fault and the              Journal International, 31(4): 447–455. doi:10.1111/j.1365-246X.1973.tb06513.x.
+    future Istanbul earthquake. In ITU-IAHS International Conference on the             Paul, A., Karabulut, H., Kömec-Mutlu, A., and Salaün, G. 2014. A comprehensive
+    Kocaeli earthquake 17 August 1999. Edited by M. Karaca and D.N. Ural. Istanbul          and densely sampled map of shear-wave azimuthal anisotropy in the Aegean–
+    Technical University, Turkey. pp. 41–54.                                                Anatolia region. Earth and Planetary Science Letters, 389: 14–22. doi:10.1016/j.
+Le Pichon, X., Şengör, A.M.C., Demirbağ, E., Rangin, C., İmren, C., Armijo, R.,          epsl.2013.12.019.
+    Görür, N., et al. 2001. The active main Marmara fault. Earth and Planetary          Pearce, F.D. 2015. Seismic imaging of the western Hellenic subduction zone: the
+    Science Letters, 192: 595–616. doi:10.1016/S0012-821X(01)00449-6.                       relationship between slab composition, retreat rate, and overriding litho-
+Le Pichon, X., Lallemant, S.J., Chamot-Rooke, N., Lemeur, D., and Pascal, G. 2002.          sphere genesis. PhD thesis, Department of Earth, Atmospheric, and Plane-
+    The Mediterranean Ridge backstop and the Hellenic nappes. Marine Geology,               tary Sciences, Massachussetts Institute of Technology, Cambridge, MA, USA.
+    186: 111–125. doi:10.1016/S0025-3227(02)00175-5.                                    Pérouse, E., Chamot-Rooke, N., Rabaute, A., Briole, P., Jouanne, F., Georgiev, I.,
+Le Pichon, X., Chamot-Rooke, N., Rangin, C., and Şengör, A.M.C. 2003. The North            and Dimitrov, D. 2012. Bridging onshore and offshore present-day kinematics
+    Anatolian fault in the Sea of Marmara. Journal of Geophysical Research,                 of central and estern Mediterranean: implications for crustal dynamics and
+    108(B4): 2179. doi:10.1029/2002JB001862.                                                mantle ﬂow. Geochemistry, Geophysics, Geosystems, 13(9): Q09013. doi:10.
+Le Pichon, X., İmren, C., Rangin, C., Şengör, A.M.C., and Siyako, M. 2014. The            1029/2012GC004289.
+    South Marmara Fault. International Journal of Earth Sciences (Geol Rundsch),        Piromallo, C., and Morelli, A. 2003. P wave tomography of the mantle under the
+    103: 219–231. doi 10.1007/s00531-013-0950-0.                                            Alpine–Mediterranean area. Journal of Geophysical Research, 108(B2): 2065.
+Lister, C.S., Banga, G., and Feenstra, A. 1984. Metamorphic core complexes of               doi:10.1029/2002JB001757.
+    Cordilleran type in the Cyclades, Aegean Sea, Greece. Geology, 12: 221–225.         Provost, A.S., Chéry, J., and Hassani, R. 2003. 3-D mechanical modeling of the
+    doi:10.1130/0091-7613(1984)12<221:MCCOCT>2.0.CO;2.                                      GPS velocity ﬁeld along the North Anatolian Fault. Earth and Planetary Sci-
+Martinod, J., Hatzfeld, D., Brun, J.P., Davy, P., and Gautier, P. 2000. Continental         ence Letters, 209: 361–377. doi:10.1016/S0012-821X(03)00099-2.
+    collision, gravity spreading, and kinematics of Aegea and Anatolia. Tecton-         Rangin, C., Le Pichon, X., Demirbag, E., and Imren, C. 2004. Strain localization in
+    ics, 19(2): 290–299. doi:10.1029/1999TC900061.                                          the Sea of Marmara: propagation of the North Anatolian Fault in a now
+Mascle, J., and Martin, L. 1990. Shallow structure and recent evolution of the              inactive pull-apart. Tectonics, 23: TC2014. doi:10.1029/2002TC001437.
+    Aegean Sea: a synthesis based on continuous reﬂection proﬁles. Marine               Reilinger, R.E., McClusky, S.C., Oral, M.B., King, R.W., Toksoz, M.N., Barka, A.A.,
+    Geology, 94(4): 271–299. doi:10.1016/0025-3227(90)90060-W.                              Kinik, I., et al. 1997. Global positioning system measurements of present-day
+McClusky, S., Balassanian, S., Barka, A., Demir, C., Ergintav, S., Georgiev, I.,            crustal movements in the Arabia–Africa–Eurasia plate collision zone. Journal
+    Gurkan, O., et al. 2000. Global positioning system constraints on plate kine-           of Geophysical Research, 102(B5): 9983–9999. doi:10.1029/96JB03736.
+    matics and dynamics in the eastern Mediterranean and Caucasus. Journal of           Reilinger, R., McClusky, S., Vernant, P., Lawrence, S., Ergintav, S., Cakmak, R.,
+    Geophysical Research, 105(B3): 5695–5719. doi:10.1029/1999JB900351.                     Ozener, H., et al. 2006. GPS constraints on continental deformation in the
+McClusky, S., Reilinger, R., Mahmoud, S., Sari, D.B., and Tealeb, A. 2003. GPS              Africa–Arabia–Eurasia continental collision zone and implications for the
+    constraints on Africa (Nubia) and Arabia plate motions. Geophysical Journal             dynamics of plate interactions. Journal of Geophysical Research: Solid earth,
+                                                                                            111(B5). doi:10.1029/2005JB004051.
+    International, 155: 126–138. doi:10.1046/j.1365-246X.2003.02023.x.
+                                                                                        Rigo, A., Lyon-Caen, H., Armijo, R., Deschamps, A., Hatzfeld, D., Makropoulos, K.,
+McKenzie, D.P. 1970. Plate tectonics of the Mediterranean region. Nature,
+                                                                                            Papadimitriou, P., and Kassaras, I. 1996. A microseismic study in the western
+    226(5242): 239–243. doi:10.1038/226239a0. PMID:16057188.
+                                                                                            part of the Gulf of Corinth (Greece): implications for large-scale normal
+McKenzie, D.P. 1972. Active tectonics of the Mediterranean region. Geophysical
+                                                                                            faulting mechanisms. Geophysical Journal International, 126(3): 663–688.
+    Journal International, 30: 109–185. doi:10.1111/j.1365-246X.1972.tb02351.x.
+                                                                                            doi:10.1111/j.1365-246X.1996.tb04697.x.
+McKenzie, D., and Jackson, J. 1983. The relationship between strain rates, crustal
+                                                                                        Royden, L.H., and Husson, L. 2006. Trench motion, slab geometry and viscous
+    thickening, palaeomagnetism, ﬁnite strain and fault movements within a                  stresses in subduction systems. Geophysical Journal International, 167(2):
+    deforming zone. Earth and Planetary Science Letters, 65(1): 182–202. doi:10.            881–905. doi:10.1111/j.1365-246X.2006.03079.x.
+    1016/0012-821X(83)90198-X.
+                                                                                        Royden, L.H., and Papanikolaou, D.J. 2011. Slab segmentation and late Cenozoic
+McKenzie, D., and Jackson, J. 1986. A block model of distributed deformation by             disruption of the Hellenic arc. Geochemistry, Geophysics, Geosystems, 12(3):
+    faulting. Journal of the Geological Society, 143(2): 349–353. doi:10.1144/gsjgs.        Q03010. doi:10.1029/2010GC003280.
+    143.2.0349.                                                                         Royden, L.H., Burchﬁel, B.C., and van der Hilst, R.D. 2008. The geological evolu-
+McKenzie, D., and Jackson, J. 1989. The kinematics and dynamics of distributed              tion of the Tibetan Plateau. Science, 321: 1054–1058. doi:10.1126/science.
+    deformation. In Paleomagnetic rotations and continental deformation. Edited             1155371. PMID:18719275.
+    by C. Kissel and C. Laj. Kluwer Academic Publishers, The Hague. pp. 33–49.          Sakınç, M., Yaltırak, C., and Oktay, F.Y. 1999. Palaeogeographical evolution of
+McKenzie, D., and Jackson, J. 2002. Conditions for ﬂow in the continental crust.            the Thrace Neogene Basin and the Tethys–Paratethys relations at northwest-
+    Tectonics, 21(6): 5-1–5-7. doi:10.1029/2002TC001394.                                    ern Turkey (Thrace). Palaeogeography, Palaeoclimatology, Palaeoecology,
+McKenzie, D., Jackson, J., and Priestley, K. 2005. Thermal structure of oceanic             153: 17–40. doi:10.1016/S0031-0182(99)00071-1.
+    and continental lithosphere. Earth and Planetary Science Letters, 233: 337–         Salaün, G., Pedersen, H.A., Paul, A., Farra, V., Karabulut, H., Hatzfeld, D.,
+    349. doi:10.1016/j.epsl.2005.02.005.                                                    Papazachos, C., et al. 2012. High resolution surface wave tomography be-
+Meade, B.J., Hager, B.H., McClusky, S.C., Reilinger, R.E., Ergintav, S., Lenk, O.,          neath the Aegean–Anatolia region: constraints on upper-mantle structure.
+    Barka, A., and Özener, H. 2002. Estimates of seismic potential in the Marmara           Geophysical Journal International, 190(1): 406–420. doi:10.1111/j.1365-246X.
+    Sea region from block models of secular deformation constrained by global               2012.05483.x.
+    positioning system measurements. Bulletin of the Seismological Society of           Seeber, L., Emre, O., Cormier, M.-H., Sorlien, C.C., McHugh, C., Polonia, A.,
+    America, 92(1): 208–215. doi:10.1785/0120000837.                                        Ozer, N., et al. 2004. Uplift and subsidence from oblique slip: the Ganos–
+Meghraoui, M., Aksoy, M.E., Aksyüz, H.S., Ferry, M., Dikbaş, A., and Altunel, E.           Marmara bend of the North Anatolian Transform, western Turkey. Tectono-
+    2012. Paleoseismology of the North Anatolian Fault at Güzelköy (Ganos seg-              physics, 391(1–4): 239–258. doi:10.1016/j.tecto.2004.07.015.
+    ment, Turkey): size and recurrence time of earthquake ruptures west of the          Seeber, L., Cormier, M.H., McHugh, C., Emre, O., Polonia, A., and Sorlien, C. 2006.
+    Sea of Marmara. Geochemisty, Geophysics, Geosystems, 13(4): Q04005. doi:                Rapid subsidence and sedimentation from oblique slip near a bend on the
+    10.1029/2011GC003960.                                                                   North Anatolian transform fault in the Marmara Sea, Turkey. Geology, 34(11):
+Melinte-Dobrinescu, M.C., Suc, J.-P., Clauzon, G., Popescu, S.-M., Armijo, R.,              933–936. doi:10.1130/G22520A.1.
+    Meyer, B., Biltekin, D., et al. 2009. The Messinian salinity crisis in the Darda-   Şengör, A.M.C. 1979. The North Anatolian Transform Fault: its age, offset and
+    nelles region: chronostratigraphic constraints. Paleogeography, Paleoclima-             tectonic signiﬁcance. Journal of the Geological Society, 136: 269–282. doi:10.
+    tology, Palaeoecology, 278: 24–39. doi:10.1016/j.palaeo.2009.04.009.                    1144/gsjgs.136.3.0269.
+Müller, M.D., Geiger, A., Kahle, H.G., Veis, G., Billiris, H., Paradissis, D., and      Şengör, A.M.C. 1982. Ege’nin neotektonik evrimini yöneten etkenler [Factors
+    Felekis, S. 2013. Velocity and deformation ﬁelds in the North Aegean domain,            controlling the neotectonics of the Aegean]. In Batı Anadolu’nun Genç
+    Greece, and implications for fault kinematics, derived from GPS data 1993–              Tektoniği ve Volkanizması. Edited by O. Erol and V. Oygür. Türkiye Jeoloji
+    2009. Tectonophysics, 597–598: 34–49. doi:10.1016/j.tecto.2012.08.003.                  Kurumu, Ankara, pp. 59–71.
+Nielsen, C. 2003. Etude des zones de subduction en convergence hyper-oblique:           Şengör, A.M.C., and Zabcı, C. 2016 The North Anatolian Fault and the North
+    ride méditerranéenne, marge indo-birmane. Thèse de doctorat, Université                 Anatolian Shear Zone. In Landscapes of Turkey. Edited by C. Kuzucuoğlu and
+    Paris XI, Orsay.                                                                        A. Ciner. Springer, Berlin. [In press].
+
+                                                                                                                                        Published by NRC Research Press
+1438                                                                                                                                       Can. J. Earth Sci. Vol. 53, 2016
+
+
+Şengör, A.M.C., Burke, K., and Dewey, J.F. 1982. Tectonics of the North Anatolian         deres metamorphic core complex, western Turkey. Tectonics, 29(3): TC3009.
+    transform fault. In Multidisciplinary approach to earthquake prediction.               doi:10.1029/2009TC002596.
+    Edited by A.M. Işıkara and A. Vogel. Friedr. Vieweg Sohn, Braunschweig/            Vassalikis, E., Royden, L., and Papanikolaou, D. 2011. Kinematic links between
+    Wiesbaden, pp. 3–22.                                                                   subduction along the Hellenic trench and extension in the Gulf of Corinth,
+Şengör, A.M.C., Özeren, S., Genç, T., and Zor, E. 2003. East Anatolian high pla-          Greece: a multidisciplinary analysis. Earth and Planetary Science Letters,
+    teau as mantle-suppoted, north–south shortened domal structure? Geophys-               303(1–2): 108–120. doi:10.1016/j.epsl.2010.12.054.
+    ical Research Letters, 30(24): doi:10.1029/2003GL017858.                            Vernant, P., Reilinger, R., and McClusky, S. 2014. Geodetic evidence for low
+Şengör, A.M.C., Tüysüz, O., İmren, C., Sakınç, M., Eyidoğan, H., Görür, N.,             coupling on the Hellenic subduction plate interface. Earth and Planetary
+    Le Pichon, X., and Rangin, C. 2005. The North Anatolian Fault: a new look.             Science Letters, 385: 122–129. doi:10.1016/j.epsl.2013.10.018.
+    Annual Review of Earth and Planetary Sciences, 33: 37–112. doi:10.1146/annurev.     Wernicke, B., Walker, J.D., and Beaufait, M.S. 1985. Structural discordance between
+    earth.32.101802.120415.                                                                neogene detachments and frontal sevier thrusts, central Mormon mountains,
+Şengör, A.M.C., Grall, C., İmren, C., Le Pichon, X., Görür, N., Henry, P.,               southern Nevada. Tectonics, 4(2): 213–246. doi:10.1029/TC004i002p00213.
+    Karabulut, H., and Siyako, M. 2014. The geometry of the North Anatolian             Wernicke, B., Davis, J.L., Niemi, N.A., Lufﬁ, P., and Bisnath, S. 2008. Active
+    transform fault in the Sea of Marmara and its temporal evolution: implica-             megadetachment beneath the western United States. Journal of Geophysical
+    tions for the development of intracontinental transform faults. Canadian               Research, 113: B11409. doi:10.1029/2007JB005375.
+    Journal of Earth Sciences, 51: 222–242. doi:10.1139/cjes-2013-0160.
+Shaw, B., and Jackson, J. 2010. Earthquake mechanisms and active tectonics of           Appendix A
+    the Hellenic subduction zone. Geophysics Journal International, 181(2): 966–
+    984. doi:10.1111/j.1365-246X.2010.04551.x.                                          Moho model
+Smith, W.H.F., and Sandwell, D.T. 1997. Global sea ﬂoor topography from satel-             The model of J. Kende et al. (in review) was obtained through a
+    lite altimetry and ship depth soundings. Science, 277: 1956–1962. doi:10.1126/      gravity inversion in the Fourier domain of the measured gravity
+    science.277.5334.1956.
+Sodoudi, F., Kind, R., Hatzfeld, D., Priestley, K., Hanka, W., Wylegalla, K.,
+                                                                                        corrected from the upper crust geology. The gravity and topogra-
+    Stavrakakis, G., Vaﬁdis, A., Harjes, H.P., and Bohnhoff, M. 2006. Lithospheric      phy data used are satellite data (Smith and Sandwell 1997) re-
+    structure of the Aegean obtained from P and S receiver functions. Journal           trieved from the Scripps Institution of Oceanography website.
+    of Geophysical Research, 111(B12): B12307. doi:10.1029/2005JB003932.                Gravity data were reﬁned, when possible, with the records from
+Sonder, L.J., and England, P.C. 1989. Effects of a temperature-dependent rheol-
+                                                                                        the Bodenseewerk KSS 31 gravimeter during the Marsite Cruise on
+    ogy on large-scale continental extension. Journal of Geophysical Research,
+    94(B6): 7603–7619. doi:10.1029/JB094iB06p07603.                                     board the NO “Pourquoi Pas?” in October and November 2014. To
+Sorel, D. 2000. A Pleistocene and still-active detachment fault and the origin of       avoid superﬁcial crustal effects, the topography was ﬁltered with
+    the Corinth–Patras rift, Greece. Geology, 28(1): 83–86. doi:10.1130/0091-           a 20 km window Gaussian ﬁlter before being used to apply a
+    7613(2000)28%3C83:APASDF%3E2.0.CO;2.                                                Bouguer correction onshore. Then, the offshore gravity was cor-
+Sorlien, C.C., Akhun, S.D., Seeber, L., Steckler, M.S., Shillington, D.J., Kurt, H.,
+    Çifçi, G., et al. 2012. Uniform basin growth over the last 500 ka, North Ana-
+                                                                                        rected from the known basin geology. The two sediment layers
+    tolian Fault, Marmara Sea, Turkey. Tectonophysics, 518 –521: 1–16. doi:10.1016/j.   basin model from Bayrakci et al. (2013) was used, completed on
+    tecto.2011.10.006.                                                                  the southern shelf with Turkish Petroleum multichannel seismic
+Spakman, W., van der Lee, S., and van der Hilst, R. 1993. Travel time tomography        line interpretations. The correction was made in the Fourier do-
+    of the European–Mediterranean mantle down to 1400 km. Physics of Earth
+    and Planetary Interiors, 79(1–2): 3–74. doi:10.1016/0031-9201(93)90142-V.
+                                                                                        main using the Parker method (Parker 1973). A ﬁrst Moho depth
+Spencer, J.E. 1984. Role of tectonic denudation in the warping and uplift of            variation was computed by inverting the residual gravity anomaly
+    low-angle normal faults. Geology, 12: 95–98. doi:10.1130/0091-7613(1984)12          and a lower crust/upper crust boundary (LC/UC) was deﬁned 9 km
+    <95:ROTDIW>2.0.CO;2.                                                                above this depth model. An iterative process was then launched. It
+Steckler, M.S., and ten Brink, U.S. 1986. Lithospheric strength variations as a         used the sediment basin model and the newly deﬁned LC/UC to
+    control on new plate boundaries: examples from the northern Red Sea re-
+    gion. Earth and Planetary Science Letters, 79(1–2): 120–132. doi:10.1016/0012-      correct the measured gravity with the Parker method, obtaining a
+    821X(86)90045-2.                                                                    new gravity residual. The inversion of this new gravity residual led
+Suckale, J., Rondenay, S., Sachpazi, M., Charalampakis, M., Hosa, A., and               to a new Moho depth model. This process, repeated twice, en-
+    Royden, L.H. 2009. High-resolution seismic imaging of the western Hellenic          hanced the overall model signiﬁcantly as it lowered the ﬁnal re-
+    subduction zone using teleseismic scattered waves. Geophysical Journal In-
+    ternational, 178(2): 775–791. doi:10.1111/j.1365-246X.2009.04170.x.
+                                                                                        sidual anomaly.
+Sümengen, M., Terlemez, İ., Şentürk K, Karaköse, C., Erkan, E., Ünay, E., Gürbüz,       The method developed for the study of J. Kende et al. (in review)
+    M. and Atalay, Z. 1987. Stratigraphy, sedimentology, and tectonics of the           is close to the Parker-Oldenburg method (Oldenburg 1974) and is
+    Tertiary sequences in Gelibolu Peninsula and southwestern Thrace. Mineral           based on a least-square linear inversion with preconditioning
+    Research and Exploration of Turkey. Technical Report 8128. [In Turkish.]
+Tarantola, A. 2005. Inverse problem theory and methods for model parameter
+                                                                                        (Tarantola 2005). This method proved to be fast and effective for
+    estimation. Society for Industrial and Applied Matematics.                          large-scale 2-D models. It also avoided part of the human bias
+Tiberi, C., Diament, M., Lyon-Caen, H., and King, T. 2001. Moho topography              associated with forward modeling (Aitken et al. 2013). However,
+    beneath the Corinth Rift area (Greece) from inversion of gravity data. Geo-         because this model relies on a simpliﬁed basin structure, the
+    physical Journal International, 145(3): 797–808. doi:10.1046/j.1365-246x.2001.
+    01441.x.
+                                                                                        choice of the densities of the two sedimentary layers has a strong
+Tirel, C., Gueydan, F., Tiberi, C., and Brun, J.P. 2004. Aegean crustal thickness       impact on the Moho depth variation amplitude. Data well con-
+    inferred from gravity inversion. Geodynmaical Implications. Earth and Plan-         strain the Moho geometry only at spatial wavelengths longer than
+    etary Science Letters, 228: 267–280. doi:10.1016/j.epsl.2004.10.023.                crustal thickness. To damp Moho oscillations at shorter wave-
+Tirel, C., Brun, J.P., Burov, E., Wortel, M.J.R., and Lebedev, S. 2013. A plate tec-
+    tonics oddity: caterpillar-walk exhumation of subducted continental crust.
+                                                                                        lengths, Moho deviation from the mean regional value is precon-
+    Geology, 41(5): 555–558. doi:10.1130/G33862.1.                                      ditioned to zero and a third parameter (Moho variance scaling)
+Truffert, C., Chamot-Rooke, N., Lallemant, S., de Voogd, B., Huchon, P., and            entered by the user deﬁnes the weight of this preconditioning.
+    Le Pichon, X. 1993. The crust of the Western Mediterranean Ridge from deep          After deﬁning a range of possible mean densities for each of these
+    seismic data and gravity modelling. Geophysical Journal International,
+                                                                                        parameters, the ﬁnal values used for the results presented here
+    114(2): 360–372. doi:10.1111/j.1365-246X.1993.tb03924.x.
+Tüysüz, O., Barka, A., and Yiğitbaş, E. 1998. Geology of the Saros graben and its     were those that best agreed with Bécel et al. (2009) and Karabulut
+    implications for the evolution of the North Anatolian fault in the Ganos–           et al. (2013) Moho depth models.
+    Saros region, northwestern Turkey. Tectonophysics, 293(1–2): 105–126. doi:             Bécel et al. (2009) presented a Moho model based on a dense grid
+    10.1016/S0040-1951(98)00085-7.                                                      of multi-channel marine seismic proﬁles with a high penetration
+Ustaömer, T., Gökaşan, E., Tur, H., Görüm, T., Batuk, F.G., Kalafat, D., Alp, H.,
+    et al. 2008. Faulting, mass-wasting and deposition in an active dextral shear       depth retrieved during the SEISMARMARA Leg 1, completed with
+    zone, the Gulf of Saros and the NE Aegean Sea, NW Turkey. Geo-Marine                the data from on-land temporary seismometers and ocean bottom
+    Letters, 28(3): 171–193. doi:10.1007/s00367-007-0099-6.                             seismometers (OBSs). Their study was designed so that the proﬁles
+Van Hinsbergen, D.J.J., Langereis, C.G., and Meulenkamp, J.E. 2005. Revision of         crossed each other at OBS positions and had land stations in their
+    the timing, magnitude and distribution of Neogene rotations in the western
+    Aegean region. Tectonophysics, 396(1–2): 1–34. doi:10.1016/j.tecto.2004.10.001.
+                                                                                        continuity. Crossing proﬁles permitted, for instance, to identify
+Van Hinsbergen, D.J.J., Dekkers, M.J., Bozkurt, E., and Koopman, M. 2010. Exhu-         side echoes that could appear as ﬂat interface events on some
+    mation with a twist: paleomagnetic constraints on the evolution of the Men-         proﬁles, while OBSs ﬁrst arrival time of refracted waves on the
+
+                                                                                                                                        Published by NRC Research Press
+Le Pichon et al.                                                                                                                      1439
+
+
+basement were used to build a basement velocity and geometry          crosses the Sea of Marmara in the eastern part of the Tekirdağ
+model. Finally, on land, station records of refraction on the upper   Basin. They relied on a set of 17 permanent broadband seismic
+mantle (Pn waves) were integrated, which was critical for the 2-D     stations and 23 temporary stations installed as part of the SIMBAD
+model under the Northern Marmara Trough as only two OBSs              project to ﬁll the gaps and create a spacing between stations of
+clearly recorded refraction on the Moho. Bécel et al. (2009) con-     ⬃15 km along the transect. After a year of recording, they selected
+cluded that there had been a 5 km crustal thinning below the          60 events with a magnitude superior or equal to 5.5 and a tolera-
+Northern Marmara Trough and under the İmralı Basin as the            ble noise level. They then performed a depth migration of the
+Moho height was essentially constant at a depth of 26 km. Their       P-to-S converted phases and interpreted the Moho as the level of
+study, however, put no constraint on the possible existence of        sharp increase of amplitude undulating between 25 and 32 km.
+small-scale thinning variations. Because the north–south Moho         Their station coverage is not tight enough at the level of the
+depth variation obtained was close to the data resolution, they       Marmara Sea to determine the detailed Moho depth variation but
+could not resolve conclusively the existence of possible north–       Karabulut et al. (2013) showed an uplift of 6–7 km centered under
+south variations.                                                     the sea with a width of less than 250 km. The highest Moho under
+  Karabulut et al. (2013) on the other hand published a north–        the Sea of Marmara obtained in the two studies is the same,
+south 650 km long proﬁle of lithospheric structures. This proﬁle      ⬃25 km.
+
+
+
+
+                                                                                                            Published by NRC Research Press
+

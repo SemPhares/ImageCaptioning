@@ -1,0 +1,892 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/248686379
+
+
+
+Tectonic evolution of the Gediz Graben: Field evidence for an episodic, two-
+stage extension in western Turkey
+
+Article in Geological Magazine · February 2004
+DOI: 10.1017/S0016756803008379
+
+
+
+CITATIONS                                                                                              READS
+
+203                                                                                                    380
+
+2 authors:
+
+            Erdin Bozkurt                                                                                         Hasan Sozbilir
+            Middle East Technical University                                                                      Dokuz Eylul University
+            96 PUBLICATIONS 4,325 CITATIONS                                                                       142 PUBLICATIONS 2,416 CITATIONS
+
+                SEE PROFILE                                                                                          SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                       EASTMED-PALEOTSUNAMI (Towards a paleotsunami chronology in the southern Aegean and Levantine seas, Eastern Mediterranean) View project
+
+
+
+                       LATE CRERACEOUS-PALEOCENE AGED TRANSFORELAND BASIN View project
+
+
+
+
+ All content following this page was uploaded by Hasan Sozbilir on 01 February 2014.
+
+ The user has requested enhancement of the downloaded file.
+Geol. Mag. 141 (1 ), 2004, pp. 63–79. 
+                                      c 2004 Cambridge University Press                                                              63
+DOI: 10.1017/S0016756803008379 Printed in the United Kingdom
+
+     Tectonic evolution of the Gediz Graben: field evidence for an
+           episodic, two-stage extension in western Turkey
+                                       .                           . .
+                                    ERDI N BOZKURT*§ & HASAN S ÖZBI LI R†
+           *Middle East Technical University, Department of Geological Engineering, Tectonic Research Unit,
+                                               TR-06531 Ankara, Turkey                        .
+           †Dokuz Eylül University, Department of Geological Engineering, Bornova, TR-35100 Izmir, Turkey
+
+
+                                          (Received 17 February 2003; accepted 28 August 2003)
+
+              Abstract – Western Turkey is one of the most spectacular regions of widespread active continental
+              extension in the world. The most prominent structures of this region are E–W-trending grabens (e.g.
+              Gediz and Büyük Menderes grabens) and intervening horsts, exposing the Menderes Massif. This paper
+              documents the result of a recent field campaign (field geological mapping and structural analysis) along
+              the southern margin of the modern Gediz Graben of Pliocene (∼ 5 Ma) age. This work provides field
+              evidence that the presently low-angle ductile-brittle detachment fault is cut and displaced by the high-
+              angle graben-bounding normal faults with total displacement exceeding 2.0 km. The evolution of the
+              N–S extension along the Gediz Graben occurred during two episodes, each characterized by a distinct
+              structural styles: (1) rapid exhumation of Menderes Massif in the footwall of low-angle normal fault
+              (core-complex mode) during the Miocene; (2) late stretching of crust producing E–W grabens along
+              high-angle normal faults (rift mode) during Pliocene–Quaternary times, separated by a short-time
+              gap. The later phase is characterized by the deposition of now nearly horizontal sediments of Pliocene
+              age in the hanging walls of the high-angle normal faults and present-day graben floor sediments. The
+              evolution of extension is at variance with orogenic collapse and/or back-arc extension followed by
+              the combined effect of tectonic escape and subduction rollback processes along the Aegean-Cyprean
+              subduction zone. Consequently, it is misleading to describe the Miocene sediments exhumed on
+              shoulders of the Gediz Graben as simple graben fill.
+
+              Keywords: continental extension, detachment faults, normal faulting, exhumation, Gediz Graben,
+              Menderes Massif, western Turkey.
+
+
+
+
+1. Introduction                                                           (1) The origin of presently low-angle normal faults
+                                                                          of the Menderes core complex: while some authors
+Western Turkey is one of the most spectacular and
+                                                                          infer initial low-angle geometries (∼ 30◦ : Hetzel et al.
+best-studied regions of the world where continental
+                                                                          1995a; Sözbilir & Emre, 1996) others invoke much
+lithosphere has been stretched following crustal thick-
+                                                                          higher angles and claim that these detachment faults
+ening due to orogenic contraction. It is known to be
+                                                                          were original high-angle normal faults (48–53◦ :
+the site of widespread active continental extension
+                                                                          Bozkurt, 2000, 2001a). More recently, rolling-hinge
+and forms the eastern part of the Aegean extensional
+                                                                          model of Buck (1988) is envisaged for the central
+province. This region has been experiencing N–S-
+                                                                          Menderes Massif (Gessner et al. 2001b; Seyitoğlu
+directed extension since, at least, latest Oligocene–
+                                                                          et al. 2002). Similar controversies exist worldwide
+Early Miocene and is currently under the influence
+                                                                          and readers are referred to Koyi & Skelton (2001)
+of forces exerted by subduction of the African Plate
+                                                                          for further reading. (2) The origin and timing of the
+beneath the southern margin of Anatolian Plate along
+                                                                          extension: the cause of N–S extension in Western
+the Aegean-Cyprean subduction zone and the dextral
+                                                                          Turkey has been the subject of considerable debate
+slip on the North Anatolian Fault System (Fig. 1a). E–
+                                                                          and there are four different theories: (i) it began
+W-trending grabens (e.g. Gediz and Büyük Menderes
+                                                                          in the late Serravalian (∼ 12 Ma) at the same time
+grabens) are the most prominent features of western
+                                                                          as the Anatolian block began to extrude westward
+Turkey and they dissect the Menderes Massif – one of
+                                                                          with the initiation of dextral motion along the North
+the largest core complex of the World – into northern,
+                                                                          Anatolian Fault System (Tectonic escape model: Dewey
+central and southern submassifs, respectively (Fig. 1b).
+                                                                          & Şengör, 1979; Şengör, 1979, 1982, 1987; Şengör,
+   Although the region has been the subject of intense
+                                                                          Görür & Şaroğlu, 1985; Görür et al. 1995); (ii) the start
+research since 1970s (particularly during the last dec-
+                                                                          of extension is much earlier, (∼ 18 Ma: early Middle
+ade), there are many contentious issues that concern:
+                                                                          Miocene), following reports of apparently extension-
+§ Author for correspondence: erdin@metu.edu.tr                            related sediments with biostratigraphic and isotopic
+                                                                                                                                 . .
+64                                                                                                E. B O Z K U R T & H. S Ö Z B I L I R
+
+
+
+
+Figure 1. (a) Simplified tectonic map of Turkey showing major neotectonic structures (from Barka 1992). DSFS – Dead Sea Fault
+System, EAFS – East Anatolian Fault System, NAFS – North Anatolian Fault System. Heavy lines with half arrows are strike-slip
+faults with arrows showing relative movement sense. Heavy lines with filled triangles shows major fold and thrust belt: small triangles
+indicate direction of vergence. Heavy lines with open triangles indicate an active subduction zone, its polarity indicated by the tip of
+small triangles. The heavy lines with hachure show normal faults: hachure indicates down-thrown side. Bold filled arrows indicate
+relative movement direction of African and Arabian plates; open arrows, relative motion of Anatolian Plate. (b) Outline geological
+map of western Turkey showing Neogene and Quaternary basins and subdivision of the Menderes Massif. Note that the (?) sediments
+of Miocene and Pliocene age are not differentiated due to the lack of data (from Bozkurt 2000). CMM – central Menderes Massif,
+NMM – northern Menderes Massif, SMM – southern Menderes Massif.
+
+
+dates of this age and it is attributed, after the orogenic             gene collision across Neotethys (Seyitoğlu & Scott,
+collapse model of Dewey (1988), to spreading and thin-                 1992; Seyitoğlu, Scott & Rundle, 1992). (iii) Back-arc
+ning of overthickened crust following the latest Palaeo-               extension caused by inception of subduction rollback
+Tectonic evolution of the Gediz Graben                                                                             65
+
+process and consequent southwestward migration of            & Bozkurt, 1999a; Bozkurt, 2000, 2001a,b, 2003;
+the Aegean Arc with ages ranging from 60 Ma and              Bozkurt & Satır, 2000; Bozkurt & Oberhänsli,
+5 Ma (Back-arc spreading model: McKenzie, 1978a,b;           2001a,b; Gessner et al. 2001a,b; Gökten, Havzaoğlu
+Le Pichon & Angelier, 1979, 1981; Jackson &                  & Şan, 2001; Işık & Tekeli, 2001; Lips et al. 2001;
+McKenzie, 1988; Kissel & Laj, 1988; Meulenkamp               Sözbilir, 2001, 2002; Özer & Sözbilir, 2003 and
+et al. 1988; Meulenkamp, Van Der Zwaan &                     Kazdağ Massif: Okay & Satır, 2000) related to oro-
+Van Wamel, 1994; Thomson, Stöckhert & Brix,                 genic collapse (and/or back-arc extension) commenced
+1998). More recently, Okay & Satır (2000) docu-              by the latest Oligocene–Early Miocene time, and;
+mented evidence from the Kazdağ Massif that the             (2) late stretching of crust and consequent E–W graben
+extension in western Turkey commenced by 20 Ma               formation along Plio-Quaternary high-angle normal
+as a result of back-arc extension. Similarly, recent         faults (modern phase of extension) (e.g. Koçyiğit,
+geological data (structural and isotopic evidence from       Yusufoğlu & Bozkurt, 1999a,b; Bozkurt, 2000,
+extension related metamorphism and magmatism) from           2001a,b, 2002, 2003; Sarıca, 2000; Seyitoğlu, Çemen,
+the Aegean confirms the role of southward migration          & Tekeli, 2000; Seyitoğlu et al. 2002; Yılmaz et al.
+(rollback process) of the Aegean Arc as the cause of         2000; Genç et al. 2001; A. Gürer et al. 2002; F. Gürer
+Miocene phase of continental extension (e.g. Avigad          et al. 2001, 2002; Yılmaz & Karacık, 2001; Sözbilir,
+et al. 1997; Jolivet et al. 1998 and references therein),    2001, 2002; Altunel et al. 2003; Koçyiğit & Özacar,
+thus supporting the contention by Okay & Satır (2000)        2003; Cihan, Saraç & Gökçe, 2003).
+that the Miocene extension was primarily related to the         There is, however, no consensus over whether the
+back-arc spreading due to the rollback of the Aegean–        two distinct styles of extension (core-complex and
+Cyprean subduction zone. Also, in a more recent              rift modes) represent a single continuous extensional
+study, England (2003) concluded that the tectonics of        tectonic regime from latest Oligocene–Early Miocene
+Aegean Sea and western Turkey are not dominated              to present times, or they represent two different
+by rigid plates, but by the mechanics of a continuous        events, separated by a hiatus. We shall examine the
+medium responding to contrasts in its gravitational          relationship between the ductile-brittle detachment
+potential energy; (iv) combined effect of two or more        faulting and high-angle normal faulting to address the
+of the above mechanisms (episodic, two-stage graben          apparent paradox over the timing, cause and origin
+model) where the modern phase of Plio-Quaternary             of N–S extensional tectonics in western Turkey. This
+extension was preceded by an earlier phase during            paper therefore examines a critical region along the
+the Early–Middle Miocene orogenic collapse; these            southern margin of the Gediz Graben to the west of
+phases being separated by an interval of N–S                 Alaşehir (Fig. 2a) and reports the results of recent
+crustal shortening during the late Serravalian–late          field geological mapping and structural analysis, for the
+Early Pliocene times (Koçyiğit, Yusufoğlu & Bozkurt,      first time, on the relationship between the detachment
+1999a). The later phase is related to the westward           fault and high-angle normal faults which enable an
+escape of the Anatolian block (Koçyiğit, Yusufoğlu &      episodic two-stage extension model in western Turkey.
+Bozkurt, 1999a; Bozkurt, 2000, 2001a,b, 2003; Yılmaz         The tectonic evolution of the Gediz Graben and its
+et al. 2000; Cihan, Saraç & Gökçe, 2003) along with the   possible implications to the better understanding of the
+initiation of the North Anatolian Fault System (∼ 5 Ma:      mechanisms of continental extensional deformation in
+Barka & Kadinsky-Cade, 1988; Westaway, 1994a).               western Turkey will be discussed.
+The multistage nature of extension in western Turkey
+has also been documented by Purvis & Robertson
+(1997), and Bozkurt (2000, 2001a,b, 2002, 2003).
+                                                             2. Established knowledge of the Gediz Graben
+(3) The rates of crustal deformation: The extension
+rate across the Aegean is also controversial and pro-        The Gediz Graben is a c. 150-km-long, 3–40-km-
+posals range between > 60 mm a−1 (maybe as high              wide, approximately E–W-trending structure and forms
+as 110 mm a−1 ; Jackson & McKenzie, 1988) and                one of the most prominent structural elements of
+∼ 3–4 mm a−1 (e.g. Westaway, 1994a,b; Le Pichon              western Turkey (Figs 1b, 2a). It is an actively growing
+et al. 1995; Straub, Kahle & Schindler, 1997; Reilinger      asymmetric graben, with the active normal faults
+et al. 1997; Kahle et al. 2000; McClusky et al. 2000;        mainly located on the southern margin (e.g. Alaşehir
+Lenk et al. 2003).                                           earthquake of 28 March 1969: Arpat & Bingöl, 1969;
+   It is now agreed that extension in this region            Eyidoğan & Jackson, 1985) but there are reports of
+has expressed itself in two distinct structural styles:      relatively less important segmented normal faults in
+(1) rapid exhumation of metamorphic core complexes           the northern margin (e.g. S. C. Roberts, unpub. Ph.D.
+under presently low-angle ductile-brittle normal faults      thesis, Univ. Cambridge, 1998; Paton, 1992; Yusufoğlu,
+(detachment faults) (Menderes Massif: Bozkurt &              1996). The stratigraphy and structure of the graben lies
+Park, 1994, 1997a,b; Hetzel et al. 1995a,b, 1998;            outside the scope of this paper and has been the subject
+Verge, 1995; Emre, 1996; Hetzel & Reischmann,                of intense research since 1990s. A synthesis will be
+1996; Emre & Sözbilir, 1995; Koçyiğit, Yusufoğlu         given below.
+                                                                                                                                . .
+66                                                                                               E. B O Z K U R T & H. S Ö Z B I L I R
+
+
+
+
+Figure 2. (a) Simplified geological map of the Gediz Graben (from Seyitoğlu, Çemen & Tekeli 2000). See Figure 1b for the location.
+(b) Simplified geological map of the Gediz graben in the area between Yeniköy in the north and Kara Kirse in the south, to the west of
+Alaşehir.
+Tectonic evolution of the Gediz Graben                                                                                        67
+
+
+
+
+Figure 3. Stratigraphy of the Gediz Graben in the study area and its correlation with that of the most recent literature.
+
+
+
+2.a. Stratigraphy                                                       size, and present-day graben floor sediments (Figs 2b,
+                                                                        3). The details of the stratigraphy and controversy
+Although the stratigraphy of the Gediz Graben has
+                                                                        on the age and significance of various lithological
+been studied in considerable detail, there are many
+                                                                        associations lie outside the scope of this paper and
+discrepancies in the interpretation of the age of the
+                                                                        the readers are referred to the most recent literature
+graben fill. The task is made even more difficult by
+                                                                        (e.g. Cohen et al. 1995; Dart et al. 1995; Emre,
+the fact that many authors have created numerous new
+                                                                        1996; Seyitoğlu & Scott, 1996; Koçyiğit, Yusufoğlu &
+formation names, which have to be correlated with
+                                                                        Bozkurt, 1999a,b; Sarıca, 2000; Seyitoğlu, Çemen &
+the previous ones. Difficulty in correlation therefore
+                                                                        Tekeli, 2000; Seyitoğlu et al. 2002; Yılmaz et al. 2000;
+has resulted in the proposal of numerous stratigraphic
+                                                                        Bozkurt, 2001a,b, 2002, 2003; Sözbilir, 2001, 2002)
+schemes for the graben (Fig. 3). That is a major
+                                                                        for further reading.
+potential source of confusion and in many cases; it
+is not clear whether such correlations are as reliable as
+proposed, because of the rapid lateral and vertical fa-
+                                                                        2.b. Structure
+cies variations in the sediments. Nevertheless, based on
+deformational pattern [following the work of Bozkurt                    Structures along the southern margin of the Gediz
+(2000) in the Büyük Menderes Graben], the sediments                   Graben play key roles in its evolutionary history
+along the southern margin of the Gediz Graben can be                    and are also grouped into three categories: (1) the
+grouped into three contrasting lithological associations                E–W-trending, N-dipping (0◦ to 32◦ ), presently low-
+(Figs 2a, 3): (1) a southward tilted, locally folded and                angle normal/detachment fault (Karadut fault of Emre,
+exhumed Lower Miocene–Lower Pliocene continental                        1996; Çamköy detachment of Koçyiğit, Yusufoğlu &
+sedimentary megasequence with intercalated calc-                        Bozkurt, 1999a; Gediz detachment of Lips et al.
+alkaline volcanic rocks (e.g. Kurşunlu formation of                    2001 and Sözbilir, 2001, 2002). It is marked by
+Seyitoğlu & Scott, 1996; Salihli group of Koçyiğit,                  the structural juxtaposition of underlying meta-
+Yusufoğlu & Bozkurt, 1999a; Alaşehir and Kızıldağ                    morphic rocks of the Menderes Massif and overlying
+groups of Yılmaz et al. 2000; Alaşehir and Kurşunlu                   Early Miocene–Early Pliocene lithological association;
+formations of Seyitoğlu et al. 2002) (Fig. 3); (2)                     (2) a series of almost E–W-trending broad anticlines
+an unconformably (angular unconformity) overlying,                      and synclines with axes sub-parallel to the basin-
+undeformed, terraced Plio-Quaternary semi-lithified                     bounding faults, deforming only the Miocene associ-
+continental sequence with local basaltic lava flows (e.g.               ation. Their origin is controversial: while some infer
+Sart formation of Seyitoğlu & Scott, 1996; Karataş                    N–S-directed compression (Koçyiğit, Yusufoğlu &
+group of Koçyiğit, Yusufoğlu & Bozkurt, 1999a,b; Sart                Bozkurt, 1999a) others claim an extensional origin
+group of Yılmaz et al. 2000) (Fig. 3) and; (3) many                     (Seyitoğlu, Çemen & Tekeli, 2000; Sözbilir, 2001,
+steep, well-developed marginal alluvial fans of diverse                 2002). Bozkurt (2002) pointed out that the evidence
+                                                                                                                   . .
+68                                                                                  E. B O Z K U R T & H. S Ö Z B I L I R
+
+provided by Seyitoğlu et al. (2000) is too far to          the presence of ephemeral channels (cf. Cohen et al.
+definitely interpret these folds as the product of          1995).
+extensional tectonics although an extensional origin           Unit B is composed of red muddy sandstones
+does remain a possibility and; (3) E–W-trending,            and channelized conglomerates with some lenses of
+N-dipping (≥ 40◦ ) basin-bounding normal faults of          white to grey sandy limestones. It is represented
+diverse size in a graben-facing step-like pattern domin-    by conglomerate–pebbly-sandstone–sandstone altern-
+ated by first-order major and second order synthetic to     ation with red-laminated fine–medium grained sand-
+antithetic faults. They juxtapose the Miocene sediments     stone intercalations. Conglomerate, with occasionally
+with either the metamorphic basement or the Plio-           sandstone lenses, is composed mostly of pebble-size
+Quaternary sediments; those active structures separate      fragments in a red coarse-sandstone matrix. This unit,
+older lithologies from the marginal alluvial fan and        in general, displays a fining-upward character. It is
+basin floor sediments. The three sets of structures have    equivalent to the units II and III of Cohen et al. (1995)
+been studied in detail by many researchers (Hetzel et al.   (Fig. 3). These sediments are interpreted to represent
+1995a; Emre, 1996; Koçyiğit, Yusufoğlu & Bozkurt,        the deposits of fine-grained debris flows and ephemeral
+1999a; Seyitoğlu, Çemen & Tekeli, 2000; Seyitoğlu        channel-fills in an alluvial setting (cf. Cohen et al.
+et al. 2002; Bozkurt, 2001a,b, 2002, 2003; Gessner          1995).
+et al. 2001a,b; Gökten, Havzaoğlu & Şan, 2001;              The units A and B are interpreted to form diff-
+Lips et al. 2001; Sözbilir, 2001, 2002) to which readers   erent facies of Salihli group (Emre, 1996; Koçyiğit,
+are referred for further information.                       Yusufoğlu & Bozkurt, 1999a,b), Kurşunlu formation
+                                                            (Seyitoğlu & Scott, 1996) or Alaşehir and Kızıldağ
+                                                            groups (Yılmaz et al. 2000) (Fig. 3). Lateral and
+3. Results of geological mapping                            vertical transitions from one to another are very
+Geological mapping and structural analyses were             common throughout the study area. In these studies, the
+undertaken within the exhumed Miocene sedimentary           age of sediments loosely assigned as Early Miocene–
+association along the southern margin of the Gediz          Early Pliocene, based on the following criteria: (1)
+Graben, approximately 10 km west of the town of             Kızılhisar pollen assemblages (Late Miocene: Ediger,
+Alaşehir (Fig. 2b). The results of this work are des-      Batı & Yazman, 1996); (2) gastrapodas (Late Miocene–
+cribed briefly below.                                       Early Pliocene: Emre, 1996); (3) Eskihisar sporomorph
+                                                            association (middle Burdigalian–middle Serravalian:
+                                                            Seyitoğlu & Scott, 1996); (4) Yeni Eskihisar spormorph
+3.a. Stratigraphy
+                                                            association (late Serravalian–early Tortonian; Koçyiğit,
+Basement in the study area is represented by the            Yusufoğlu & Bozkurt, 1999a,b); (5) mammalian
+metamorphic rocks of the Menderes Massif. They              evidence (Late Pliocene–Early Pleistocene: Sarıca,
+are composed mainly of schists, quartzites, phyllites       2000) (see Koçyiğit, Yusufoğlu & Bozkurt, 1999a,b
+and marbles and are structurally overlain by the            for more details). They, in many places, rest directly on
+sedimentary associations exhumed with respect to the        the metamorphic rocks of the Menderes Massif along
+modern graben floor. They are mapped, based on their        a low-angle normal fault (detachment fault). These
+lithological characteristics, structure and colour (see     sediments dip to the south at an average of 30◦ (20◦ –
+below), into four distinct associations: units A, B, C      51◦ ) where it becomes steeper toward the fault (Fig. 2b),
+and D (Figs 2b, 3).                                         suggesting back rotation toward the major boundary
+   The oldest sediments of unit A structurally overlie      fault.
+the basement and is composed of intercalated sand-             Both units are characterized by many synthetic to
+stones and shales with characteristic yellowish to grey     antithetic meso-growth faults with variable dip angles
+weathering. Interbedded with these deposits are thick       (∼ 40◦ –80◦ ) (Fig. 4a, Table 1). The cut-off angles
+bedded to massive, very poorly sorted, clast-supported,     with the bedding are usually more than 60◦ . Laminar
+polygenetic, coarse-grained (pebble to boulder) con-        to trough-like cross-bedding, pebble imbrication and
+glomerates in which well-cemented subrounded–               graded bedding are other commonly occurring syn-
+subangular clasts of marble, schist, granite, gneiss and    sedimentary structures in these sedimentary associ-
+quartzite is observed within a matrix of sandstone-         ations. Palaeocurrent directions are largely from SSW
+siltstone-mudstone. Sandstones are well bedded, well        to NNE (Cohen et al. 1995; Koçyiğit, Yusufoğlu &
+sorted, and comprise well-rounded metamorphic clasts        Bozkurt, 1999a). Facies analysis and depositional
+within a muddy matrix. Scour-and-fill structures with       settings of these lithologies were discussed in detail by
+channellized polygenic conglomerates in sandstones          Cohen et al. (1995) to which the readers are referred
+occur occasionally. Intercalations of siltstone and         for further reading.
+mudstone are also common throughout the unit A. This           The third sedimentary association (unit C) is com-
+unit is equivalent to the unit I of Cohen et al. (1995)     posed dominantly of buff to light yellow coloured,
+(Fig. 3). These clastic sediments are interpreted to be     poorly bedded, semi-lithified conglomerates with some
+fan delta origin while scour-and-fill structures suggest    amounts of sandstone and mudstone. They are also
+Tectonic evolution of the Gediz Graben                                                                                               69
+
+
+
+
+Figure 4. Schmidth lower hemisphere equal-area projections of fault slip data from (a) growth faults in unit B sediments, (b) presently
+low-angle normal fault, and (c) high-angle normal faults along the southern margin of the Gediz Graben. Great circles are fault surfaces,
+the arrows are striations (see Table 1 for details).
+
+
+
+exhumed in the footwall of graben-bounding active                      Graben and they grade into fine-grained graben floor
+high-angle normal faults up to 500 m altitude (about                   sediments. Unit D sediments are juxtaposed with the
+350 m above the present-day graben floor) and are                      unit C sediments along graben margin-bounding high-
+heavily dissected by river incision. It is equivalent to the           angle normal faults (Fig 2b).
+unit IV and V of Cohen et al. (1995); Sart formation
+of Seyitoğlu & Scott (1996); Asartepe formation of
+Koçyiğit, Yusufoğlu & Bozkurt, (1999a) and Sart group               3.b. Structure
+of Yılmaz et al. (2000) (Fig. 3). The age of these
+sediments is assigned as Late Pliocene–Pleistocene                     Three types of major distinct structures occur in the
+(Sarıca, 2000). The lithologies of the unit C sediments                study area:
+are attributed to an alluvial fan deposition (cf. Cohen                   (1) the first, and the oldest, one is an E–W-trending,
+et al. 1995).                                                          N-facing, presently low-angle (5–11◦ ) inactive normal/
+   The forth sedimentary unit (unit D) comprises recent                detachment fault (Fig. 4b, Table 1). It is marked by
+alluvium deposits – numerous diverse size alluvial                     the structural juxtaposition of underlying metamorphic
+marginal fans along the southern margin of the Gediz                   rocks of the Menderes Massif and overlying Miocene
+                                                                                                                                    . .
+70                                                                                                   E. B O Z K U R T & H. S Ö Z B I L I R
+
+Table 1. Measurements of slickensides and slickenlines on the presently low-angle normal fault (detachment fault), high-angle normal faults
+and growth faults in the Miocene sediments (unit B)
+
+                Dip direction             Dip amount               Rake                                      Principal
+No.                 (◦ N)                     (◦ )                  (◦ )              Sense                 stress axes                φ
+Presently low-angle normal fault
+ 1                    020                      11                    85              Normal
+ 2                    360                      05                    85              Normal               σ 1 = 49◦ /348◦
+ 3                    360                      08                    97              Normal               σ 2 = 40◦ /150◦            0.118
+ 4                    002                      08                    97              Normal               σ 3 = 09◦ /248◦
+ 5                    005                      11                    83              Normal
+High-angle normal faults
+ 1                    016                      43                    83              Normal
+ 2                    033                      40                    97              Normal
+ 3                    027                      40                   107              Normal
+ 4                    035                      40                    95              Normal
+ 5                    004                      62                    84              Normal
+ 6                    196                      54                    77              Normal               σ 1 = 76◦ /167◦
+ 7                    184                      64                    84              Normal               σ 2 = 04◦ /272◦            0.321
+ 8                    180                      51                    84              Normal               σ 3 = 13◦ /003◦
+ 9                    034                      50                    98              Normal
+10                    350                      44                    85              Normal
+11                    017                      79                    89              Normal
+12                    003                      81                    94              Normal
+Growth faults in unit B
+ 1                    188                      43                    86              Normal
+ 2                    210                      72                    80              Normal
+ 3                    200                      74                    85              Normal               σ 1 = 81◦ /079◦
+ 4                    035                      67                    89              Normal               σ 2 = 07◦ /297◦            0.167
+ 5                    210                      77                    85              Normal               σ 3 = 05◦ /206◦
+ 6                    030                      80                    89              Normal
+ 7                    160                      64                    60              Normal
+
+
+
+
+red clastics (units A and B). Elsewhere outside the                        fault, most notably above marbles, contains slicken-
+study area, the fault plane may even become locally                        lines trending in similar direction. The cataclastic
+horizontal (Fig. 5a,b). This fault has controlled the                      rock sometimes show well-developed mesoscopic
+exhumation of the metamorphic basement through                             fracture pattern some of which occur as domino-
+progressive mylonitization, then cataclasis in the                         style, N-facing normal faults abruptly terminating
+footwall while the Miocene sediments were being de-                        against a major low-angle fault plane (Fig. 5c).
+posited in the hanging-wall. The metamorphic rocks                         The displacements along these mesofaults are in the
+immediately below show evidence for intense brittle                        order of a few cm’s and they are best observed within
+deformation with development of variably thick cata-                       marbles (Fig. 5c). The important point is that the fault
+clastic rocks while the red clastics in the hanging-wall                   pattern is consistent with the bulk shear sense, being
+are tilted to the south. Cataclasites are characterist-                    top-to-the-N–NNE.
+ically brownish-green in colour and comprise rock                             (2) The N-dipping, high-angle (≥ 40◦ ) faults of
+and mineral fragments within a fine-grained matrix.                        diverse size form the second conspicuous feature of
+Locally they display weak foliation. Metamorphic                           the study area and occur in a graben(north)-facing
+rocks in the structurally lower levels away from the                       step-like pattern dominated by first-order major and
+detachment fault show mylonitic fabrics consistent                         second order synthetic to antithetic faults. Antithetic
+with top-to-the-N–NNE directed kinematics parallel                         fault is here used for minor faults that dip in opposite
+to local stretching lineation and the detachment                           direction to a dominant/larger fault while synthetic fault
+
+
+Figure 5. Field photographs of: (a–b) low-angle to almost horizontal detachment surface. Immediately below the detachment surface
+lies brownish-green cataclastic rocks and above the Miocene red clastics; (c) mesoscopic normal faults above the low-angle detachment
+surface where strongly brittelly deformed marble unit above the fault surface is cut by north-facing synthetic normal faults (arrowed).
+Please note how meso-structures terminate abruptly against the main low-angle fault plane. The domino-style of mesofaults is consistent
+with top-to-the-N–NNE shearing; (d) high-angle normal fault along which the sediments of unit B and C are brought into contact and;
+(e) close-up view of the fault plane. There, the fault surface has an attitude of N60◦ E/11◦ N. The rake of the slip lines suggests that
+dominant motion along this structure is normal with minor amounts of dextral component; (f–g) high-angle normal fault north of
+Sarıkaya Tepe (hill). In this particular locality, the sediments of unit B and metamorphic rocks (schists and marbles) of the Menderes
+Massif (M) are juxtaposed. Please note that the sediments are dipping south toward the fault; (h) a close-up view of the same fault
+surface characterized by corrugations, grooves and slip lines. See Figure 2b for locations of field views. White arrows indicate the
+sense of motion along low-angle detachment fault and the black arrows, high-angle normal faults.
+Tectonic evolution of the Gediz Graben   71
+
+
+
+
+Figure 5. For legend see facing page.
+                                                                                                                     . .
+72                                                                                    E. B O Z K U R T & H. S Ö Z B I L I R
+
+is for minor faults that have the same displacement           displacements, is not performed but the data is
+sense related to a major fault (see Peacock, Knipe &          projected on a Schmidt lower hemisphere net (Fig. 4b)
+Sanderson, 2000 for more details). They form the              to give an idea for the movement direction of the
+boundaries between various rock associations of the           fault.
+study area (Fig. 2b) and show normal faulting with               The kinematic analysis of fault slip data verifies that
+minor amounts of strike-slip components (Fig. 4c).            the principal stress axes did not change significantly
+Although most are degraded by erosion, we were able           during the whole history of extension, from ductile
+to observe fault planes at one or two localities. In such     deformation in the footwall of a presently low-angle
+areas they contain fault plane related features like slick-   normal fault through brittle deformation along graben-
+enlines, corrugations, tension cracks (Figs 4c, 5c–h).        bounding high-angle normal faults, thus confirming the
+Otherwise these structures are traced on the basis            apparent parallelism of the ductile and the cataclastic
+of their topographic expression and juxtaposition of          lineations, and slip lines on detachment fault and
+various Miocene sedimentary associations.                     steeper normal faults.
+    The fault kinematic analysis using the data from             (3) In the present area, the third type of deformation
+striated fault planes of presently low-angle normal           occurs in the unit B sediments, exhumed along the
+fault, graben-bounding high-angle normal faults and           southern shoulder of the Gediz Graben, which are also
+the syn-sedimentary growth faults developed in unit           deformed by broad anticline with almost ENE–WNW-
+B (Table 1) are performed in order to determine the           trending fold axis paralleling the graben-bounding
+kinematic framework of faulting during each of the            high-angle normal faults (Figs 2b, 6a). Similarly, the
+inferred extensional episodes. The fault slip data are        Unit C sediments show evidence for folding in the
+analysed, using the stress inversion method of Angelier       hanging-wall of bounding high-angle normal faults
+(1984, 1991). The inverse analysis of fault-slip data         (Figs 2b, 6b). Although these sediments, in general,
+allows the determination of stress orientations from          are almost horizontal and show no sign of deformation
+measurements of fault slip data (the orientation and          all along the southern margin of the Gediz Graben,
+sense of slip along numerous faults: e.g. Angelier,           in the present area we have evidence for folding
+1984, 1990). The method is based on the assumption            of these sediments into a syncline with axis almost
+that the rigid block displacement is independent and          parallel to the adjacent high-angle normal fault to the
+that the stria on a fault plane is parallel to the            south. There, unit C sediments became tilted up to 25◦
+maximum resolved shear stress (τ ) applied on this fault      otherwise the sediments are almost horizontal (up to
+(cf. Carey & Brunier, 1974; Carey, 1979; Angelier,            5◦ ) (Fig. 2b). We think that this syncline is either:
+1984, 1994; Lisle, 1987; Means, 1987). All inversion          (i) a typical normal drag accommodating the slip in
+results include the orientation (plunge and azimuth) of       the hanging-wall of the bounding high-angle normal
+the principal stress axes as well as the ‘stress ratio        fault or (ii) a syn-depositional compaction structure.
+(φ)’ [φ = (σ 2 − σ 1 )/(σ 3 − σ 1 )]’, a linear quantity      On the other hand, the origin of folds deforming the
+describing relative stress magnitudes. The stress axes        Miocene sediments is controversial and it is beyond
+σ 1 , σ 2 , and σ 3 correspond to maximum intermediate,       the scope of this paper (see Koçyiğit, Yusufoğlu &
+and minimum principal stress axes, respectively (see          Bozkurt, 1999a,b; Seyitoğlu, Çemen & Tekeli, 2000;
+Angelier, 1994 for the details of stress inversion            Seyitoğlu et al. 2002; Bozkurt, 2002; Sözbilir, 2002 for
+procedure).                                                   further discussions).
+    Computed results of fault slip data on growth faults
+developed in unit B sediments define an approximately
+vertical σ 1 trending in 079◦ and plunging steeply
+                                                              3.c. Relationships of low-angle and high-angle
+at 81◦ that is consistent with NNE–SSW extension
+                                                              normal faults
+(Fig. 4a, Table 1). The average orientations of σ 2 and σ 3
+principal axes are 07◦ /297◦ and 05◦ /206◦ , respectively.    Although the present area is very small compared
+We observed high-angle faults, along the southern             to the size of the southern margin of the Gediz
+margin of the Gediz Graben, with normal motions, that         Graben, it forms an unique locality where one can
+is, consistent with an approximately N–S extension;           observe the relationship between the presently low-
+the calculated σ 1 trends in 167◦ and plunges steeply at      angle ductile-brittle detachment fault and high-angle
+76◦ , whereas σ 2 and σ 3 axes have average attitudes of      normal faults. There, low-angle normal fault occurs at
+04◦ /272◦ and 13◦ /003◦ , respectively (Fig. 4c, Table 1).    different elevations in a N-facing step-like topographic
+It is stated that major faults accommodate larger strain      pattern controlled by normal faults of diverse size in
+so that they accommodate rotational deformation and           this topographic expression (Figs 2b, 7, 8). In other
+alter regional stress orientations therefore they reflect     words, the detachment fault is chopped by the steeper
+local stress orientations rather than regional stress         normal faults. For instance, around Deliktaş tepe to
+(Pollard et al. 1993; Twiss & Unruh, 1998). For this          the southeast of village of Gökçealan, the detachment
+reason, the analysis of fault-slip data from the presently    fault occurs below the present day topographic surface
+low-angle normal fault, which accommodated larger             at a hillside (Figs 2b, 8a,b). It is well exposed on
+Tectonic evolution of the Gediz Graben                                                                                            73
+
+
+
+
+Figure 6. Schmidth lower hemisphere equal-area projections for poles to bedding planes in (a) units A and B, and (b) unit C sediments.
+
+
+
+
+Figure 7. Simplified geological cross-sections of selected transects across the southern margin of the Gediz Graben, showing the
+relationship between low-angle and high-angle normal faults. See Figure 2b for locations of transects.
+
+
+the western side of a deep gorge through the base of                  4. Discussion and conclusions
+Miocene sediments and into the Menderes Massif meta-
+morphics along the Şahlar dere (stream) (Fig. 8a,b).                 The timing, origin and evolution of N–S crustal ex-
+The fault surface (dipping north − 11◦ ) develops above               tensional tectonics and therefore the graben formation
+marbles while southward tilted red clastics occurs in the             in western Turkey have been the subject of long-
+hanging-wall. If viewed from the east and/or west, it is              lasting debate. It was not clear yet whether the change
+clearly seen that this fault terminates against, and is cut           in style of extension from core-complex formation
+and truncated by, a N-facing high-angle normal fault                  to the development of the horst-and-graben system
+that forms the boundary between different facies of the               currently observed in this region: (i) represents a single
+unit B sediments (Figs 2b, 8). Similar relationships                  continuous evolution for the overall extension since
+exits at different parts of the present area, such                    the latest Oligocene–Early Miocene to Quaternary
+as Sarikaya, Kaypak, Haneykaya and Göktepe hills                     times where core-complex generation and subsequent
+(Figs 2b, 8c–e).                                                      graben formation reflect progressive decrease in crustal
+                                                                                                                                 . .
+74                                                                                                E. B O Z K U R T & H. S Ö Z B I L I R
+
+
+
+
+Figure 8. Field photographs showing the relationships between low-angle detachment and high-angle normal faults along the southern
+margin of the Gediz graben. (a) detachment fault in Deliktaş tepe, western side of Şahlar dere (stream). There, the river opens a deep
+gorge through the base of Miocene sediments and into the Menderes Massif metamorphics, thus allowing to observe the relationships
+between the different structures of the Gediz graben. As is seen clearly the low-angle fault developed above marble and dips gently
+north (11◦ ) and terminates against, and is cut and truncated by a north-facing high-angle normal fault that forms the boundary between
+different facies of unit B and the metamorphic rocks; (b) close-up view of the detachment surface below which lies the marbles of
+the Menderes Massif while above, the south-dipping red clastics of unit B; (c–d) field view of the step-like topography controlled by
+the high-angle normal faults. As is seen the detachment fault surface is chopped and displaced along the high-angle faults and they
+occur at different topographic elevations; (e) a close-up view to the detachment surface in Soğukyurt. Please note that the detachment
+surface dips gently to the north and terminates against the high-angle normal fault; (f ) the appearance of the same structure from a
+different angle (view to the north towards the Gediz Graben). In this photograph, the detachment surface lies well above the present-day
+configuration of the Gediz Graben; in fact, it is hanging above Miocene sediments exhumed along the southern margin of the Gediz
+Graben. Gediz Graben floor lies in the foreground (GG) and the elevation difference between the detachment fault and the graben floor
+is pronounced. The top of the metamorphic rocks of the Menderes Massif is reached at a depth of 1.3 km in the Gediz graben, thus
+suggesting that the detachment surface displacement exceeds 2.0 km. See Figure 2b for locations. White arrows indicate the sense of
+motion along low-angle detachment fault and the black arrows, high-angle normal faults.
+Tectonic evolution of the Gediz Graben                                                                               75
+
+thickness as a result of extension (cf. rolling-hinge            The answer to the apparent paradox over the timing,
+model of Buck, 1988, 1991) (Seyitoğlu et al. 2002)           origin and evolution of the N–S crustal extension
+or; (ii) reflects two-stage extension: the first associated   and graben formation in western Turkey lies in the
+with orogenic collapse and/or rollback of Aegean-             examination of the relationship between the low-
+Cyprean subduction zone and the second with rifting as        angle detachment fault and graben-bounding high-
+was proposed, based on the stratigraphy and structure         angle normal faults. Of particular interest to this study,
+of the basin fills, for the Gediz and Büyük Menderes        the present area provided the first ever field evidence
+grabens (e.g. Koçyiğit, Yusufoğlu & Bozkurt, 1999a;        that the presently low-angle ductile-brittle detachment
+Bozkurt, 2000, 2001a,b, 2002, 2003; Okay & Satır,             fault is cut and displaced by the graben-bounding high-
+2000; Yılmaz et al. 2000; Sözbilir, 2001, 2002),             angle normal faults. The observation that the steeper
+separated by a short-time interval of N–S compression         faults cross-cut the Miocene sediments and truncates
+(e.g. Koçyiğit, Yusufoğlu & Bozkurt, 1999a).               the earlier low-angle detachment fault in a typical
+   First theory necessitates the steeper faults merge into    segmented fault-bounded morphology, together with
+the presently gently dipping detachment fault(s) (see         the stratigraphy and structure of the basin fill suggest
+figure 9 in Seyitoğlu et al. 2002) while the latter re-      that the extension in the Gediz Graben area occurred
+quires the active boundary faults to cross-cut and trun-      in two distinct stages, separated by a short-time gap:
+cate the detachment fault (see figure 14 in Hetzel et al.     core-complex mode, then wide-rift mode (cf. Buck,
+1995a; figures 2 and 6 in Emre 1996; figure 9                 1991). The short-time interval is supported by the
+in Koçyiğit, Yusufoğlu & Bozkurt, 1999a; figure 2          well-documented regional unconformity between the
+in Gessner et al. 2001a for theoretical models). It           Lower Miocene (Kurşunlu formation of Seyitoğlu &
+is important to emphasize that none of the above              Scott, 1996; Salihli group of Koçyiğit, Yusufoğlu
+theories documented field evidence in support of their        & Bozkurt, 1999a; Alaşehir and Kızıldağ groups of
+contention.                                                   Yılmaz et al. 2000; Alaşehir and Kurşunlu formations
+   The major fault systems of the Gediz Graben–low-           of Seyitoğlu et al. 2002) and Pliocene–Pleistocene
+angle detachment fault and steeper normal faults– are         sediments (Sart formation, Seyitoğlu & Scott, 1996;
+located on the southern side of the graben and they,          Asartepe formation, Koçyiğit, Yusufoğlu & Bozkurt,
+particularly their relationships, play key roles in the       1999a,b; Sart group, Yılmaz et al. 2000; Fig. 3).
+evolutionary history of the graben and extensional            This precludes a close genetic link between earlier
+tectonics in western Turkey. The detachment fault             and later faults and it is likely that the time gap
+has controlled the exhumation of the metamorphics             between these faults requires different mechanisms for
+through progressive mylonitization, then cataclasis in        each. However, current understanding of the processes
+the footwall while the Miocene sediments were being           (tectonic quiescence vs N–S continental compression)
+deposited in the hanging-wall. The mylonitic rocks            operating during the short-time interval is incomplete.
+display top-to-the-N–NNE directed kinematics and              The first event began by the Early Miocene (Hetzel et al.
+the detachment fault contains slickenlines trending           1995a; Seyitoğlu & Scott, 1996) while the second phase
+in similar direction. The WNW–ESE-trending basin-             commenced by ∼ 5 Ma (e.g. Koçyiğit, Yusufoğlu &
+bounding steeper faults juxtapose the Miocene sedi-           Bozkurt, 1999a; Bozkurt, 2000, 2001a,b, 2002; Yılmaz
+ments with either the metamorphic basement or the             et al. 2000) and is the result of combined effect of the
+Plio-Quaternary sediments (Figs 5d–g, 8a,c–e); those          initiation of dextral motion along the North Anatolian
+active structures separate older lithologies from the         Fault System (∼ 5 Ma: e.g. Barka & Kadinsky-Cade,
+marginal alluvial fan and basin floor sediments. The          1988; Westaway, 1994a; Armijo et al. 1999) and the
+most recent literature now agrees that the detachment         southward pull of the Anatolian Plate along Aegean-
+fault was an initially high-angle structure (48–53◦ ;         Cyprean subduction zone. It is important here to note
+Bozkurt, 2001b) and later rotated to lower angles during      that although most literature agrees on the Pliocene
+the course of extension (Bozkurt, 2001b; Gessner              (∼ 5 Ma) age for the initiation dextral motion along
+et al. 2001b; Seyitoğlu et al. 2002). The apparent           the North Anatolian Fault System, there are others who
+parallelism of the ductile and the cataclastic lineations,    invoke younger (∼ 3 Ma: Gautier et al. 1999) or older
+slip lines on detachment fault and steeper normal faults      ages (7 Ma: Westaway, 2003).
+indicates that the principal stress axes did not change          If the Pliocene age of high-angle normal faults is
+significantly during the whole history of extension,          correct (Bozkurt, 2002; Seyitoğlu et al. 2002) then their
+from ductile deformation through brittle deformation.         cross-cutting relationship with the detachment fault
+The isotopic data from syn-extensional granitoids             suggests that the recent documentation of fission-track
+(Turgutlu and Salihli granodiorites; Hetzel et al. 1995a)     ages (Gessner et al. 2001b) should be used with care.
+indicate that detachment fault commenced by the Early         We think that the acceleration of cooling since ∼ 5 Ma
+Miocene and continued to be active until c. 7 Ma              (Gessner et al. 2001b) cannot be a coincidence and this
+(Lips et al. 2001). The recent fission-track ages are         would mean either of the followings: (i) the detachment
+interpreted to suggest that the detachment fault was          fault may be reactivated during the second stage of
+active until Pleistocene times (Gessner et al. 2001b).        extension or (ii) the final unroofing of the Menderes
+                                                                                                                       . .
+76                                                                                      E. B O Z K U R T & H. S Ö Z B I L I R
+
+Massif was accomplished by the movement along high-            sociated with detachment faulting from sedimentation
+angle normal faults. Seyitoğlu et al. (2002) claimed that     that is linked to younger graben formation along high-
+the detachment fault cuts their Kurşunlu formation,           angle normal faults. The usage of Miocene sediments
+which may be used as weak evidence supporting the              to determine the timing of graben formation (e.g.
+possibility that the detachment fault became active in         Seyitoğlu & Scott, 1996; Seyitoğlu, Çemen & Tekeli,
+the early increments of second phase of extension.             2000; Seyitoğlu et al. 2002) is therefore misleading.
+However, structural evidence presented above indicates         We also argue that the term neotectonic extension is
+that the detachment fault is locked by the high-angle          also valid to explain the formation of the modern Gediz
+normal faults, thus strengthening the role of the high-        Graben, as commenced by ∼ 5 Ma with the initiation of
+angle normal faulting in exhuming the metamorphic              dextral motion along the North Anatolian Fault System.
+rocks.                                                            The results of this work also confirm the previous
+   The field evidence (the cross-cutting relationships         claims of episodic two-stage extension model for the
+between the detachment fault high-angle normal faults)         Gediz and Büyük Menderes grabens (e.g. Koçyiğit,
+provided here also precludes the interpretation that           Yusufoğlu & Bozkurt, 1999a; Bozkurt, 2000, 2002,
+the graben-bounding steep normal faults represent              2003; Yılmaz et al. 2000) and for the formation of
+northward-dipping synthetic listric normal faults that         Menderes and Kazdağ core-complexes (e.g. Bozkurt,
+formed in the brittle upper crust during ductile               2001b; Okay & Satır, 2000, respectively).
+extension at deeper levels as claimed by Seyitoğlu
+et al. (2002). Also the similarity of southward dip            Acknowledgment. This research was partially funded by
+angles indicate that the Miocene sediments (Figs 2b,           Middle East Technical University Research Foundation
+6a) were mainly tilted as part of the hanging-wall above       grants AFP–2000-03-09-02 and AFP–2001-03-09-04 and by
+the detachment fault and that steeper faults did not           the Turkish Academy of Sciences in the framework   . of the
+                                                               Young Scientist Award Program (EA-TÜBA-GEBIP/2001-
+accommodate any significant rotations in their hanging-        1-1) to EB. HS acknowledges financial support from
+walls.                                                         the Dokuz Eylül University (Project No. DEU-AFS-0922-
+   The idea that the high-angle normal faults merge            01.01.03). Nuretdin Kaymakçı is gratefully thanked for his
+into the detachment fault does not reflect the reality in      help in the preparation of stereoplots. Authors would like
+the field but also it does not fit with the existing gravity   to express their sincere thanks to Olivier Monod and Simon
+models in the Gediz Graben. These models demonstrate           Price whose careful comments and useful criticisms have
+that the Neogene sediments above detachment fault              greatly improved the manuscript, and to Ozan Deniz for his
+                                                               assistance and help during the fieldwork.
+have a relatively constant thickness of about 200–
+500 m; but north of the graben-bounding fault the
+thickness of the graben fill increases drastically,            References
+reaching up to 1.3 ± 0.1 km in the northeast of Salihli
+                                                               ALTUNEL, E., STEWART, I. S., PICCARDI, L. & BARKA, A. A.
+and 1.5 ± 0.14 km near Alaşehir (Paton, 1992; see                 2003. Earthquake faulting at ancient Cnidus, SW Turkey.
+page 1040 and figures 7 & 8). On the other hand,                   Turkish Journal of Earth Sciences 12, 137–52.
+along the southern margin of the Gediz Graben the              ARMIJO, R., MEYER, B., HUBERT, A. & BARKA, A. A. 1999.
+presently low-angle normal fault is last observed                  Westward propagation of the North Anatolian fault into
+at an elevation of about 850 m at Haneykaya tepe                   the northern Aegean: timing and kinematics. Geology
+(Figs 2b, 7a). If one reconstruct a section, based                 27, 267–70.
+on the present-day dip angle, it is obvious that the           ANGELIER, J. 1984. Tectonic analysis of fault slip data sets.
+                                                                   Journal of Geophysical Research 80, 5835–48.
+detachment fault is hanging above not only the present-        ANGELIER, J. 1991. Inversion of field data in fault tectonics
+day configuration of the Gediz Graben but also above               to obtain regional stress. III: A new rapid direct
+the exhumed Miocene sediments (Fig. 8f ). This is                  inversion method by analytical means. Geophysical
+well illustrated by the contact relationship between the           Journal International 103, 363–76.
+                                                                               .
+low- and high-angle normal faults around Deliktaş tepe        ARPAT, E. & BI NGÖL, E. 1969. The rift system of western
+(Fig. 2b). As the detachment fault forms the contact               Turkey: thoughts on its developments. Mineral Research
+between the Neogene sediments and the metamorphic                  and Exploration Institute of Turkey (MTA) Bulletin 73,
+                                                                   1–9.
+rocks of the Menderes Massif, the thickness of the             AVIGAD, D., GARFUNKEL, Z., JOLIVET, L. & AZAŇÒN,
+Neogene sediments in the Gediz Graben means about                  J. M. 1997. Back arc extension and denudation of
+c. 1.3–1.5 km depth to the detachment fault, which                 Mediterranean eclogites. Tectonics 16, 924–41.
+corresponds to an attitude of 1150–1350 m below                BARKA, A. A. & KADINSKY-CADE, K. 1988. Strike-slip fault
+sea level. This further implies that total amount of               geometry in Turkey and its influence on earthquake
+displacement of the detachment fault along basin-                  activity. Tectonics 7, 663–84.
+bounding high-angle normal faults is more than 2.0 km.         BOZKURT, E. 2000. Timing of Extension on the Büyük
+                                                                   Menderes Graben, western Turkey and its tectonic
+   In conclusion, we think it is misleading to describe            implications. In: Bozkurt, E., Winchester, J. A. & Piper,
+the Miocene sediments exhumed along the southern                   J. D. A. (eds), Tectonics and Magmatism in Turkey
+margin of the Gediz Graben as a simple graben fill and             and the Surrounding Area. Geological Society, London,
+any viable work should distinguish sedimentation as-               Special Publications 173, 385–403.
+Tectonic evolution of the Gediz Graben                                                                                      77
+                                                                    .
+BOZKURT, E. 2001a. Neotectonics of Turkey – a synthesis.         EDI GER, V., BATI, Z. & YAZMAN, M. 1996. Palynology
+     Geodinamica Acta 14, 3–30.                                       of possible hydrocarbon source rocks of the Alaşehir-
+BOZKURT, E. 2001b. Late Alpine evolution of the central               Turgutlu area in the Gediz graben (western Anatolia).
+     Menderes Massif, western Anatolia, Turkey. Inter-                Turkish Association of Petroleum Geologists Bulletin 8,
+     national Journal of Earth Sciences 89, 728–44.                   94–112.
+BOZKURT, E. 2002. Discussion on the extensional folding in       EMRE, T. 1996. Geology and tectonics of Gediz graben.
+     the Alaşehir (Gediz) Graben, western Turkey. Journal            Turkish Journal of Earth Sciences 5, 171–85 [in Turkish
+     of the Geological Society, London 159, 105–09.                   with English abstract].
+                                                                                        . .
+BOZKURT, E. 2003. Origin of NE-trending basins in western        EMRE, T. & SÖZBI LI R, H. 1995. Field evidence for
+     Turkey. Geodinamica Acta 16, 61–81.                              metamorphic core complex, detachment faulting and
+BOZKURT, E. & OBERHÄNSLI, R. 2001a. Menderes Massif                  accommodation faults in the Gediz and Büyük Menderes
+                                                                                                          . .
+     (Western Turkey): structural, metamorphic and mag-               grabens, western Anatolia. In: PI ŞKI N, Ö., ERGÜN, M.,
+     matic evolution – a synthesis. International Journal of          SAVAŞÇIN, M. Y. & TARCAN, G. (eds), International
+     Earth Sciences 89, 679–708.                                      Earth Sciences Colloquium on Aegean Regions (IESCA)
+BOZKURT, E. & OBERHÄNSLI, R. (eds) 2001b. Menderes                   Proceedings 1, 73–93.
+     Massif (western Turkey): Structural, Metamorphic and        ENGLAND, P. 2003. The alignment of Earthquake T-axes
+     Magmatic Evolution. International Journal of Earth               with the principal axes of geodetic strain in the Aegean
+     Sciences Special Issue 89, 679–882.                              region. Turkish Journal of Earth Sciences 12, 47–54.
+                                                                    .
+BOZKURT, E. & PARK, R. G. 1994. Southern Menderes                EYI DOĞAN, H. & JACKSON, J. A. 1985. A seismological
+     Massif: an incipient metamorphic core complex in                 study of normal faulting in the Demirci, Alaşehir and
+     western Anatolia, Turkey. Journal of Geological Society,         Gediz earthquake of 1969–1970 in western Turkey:
+     London 151, 213–16.                                              implications for the nature and geometry of deformation
+BOZKURT, E. & PARK, R. G. 1997a. Evolution of a                       in the continental crust. Geophysical Journal of Royal
+     mid-Tertiary extensional shear zone in the southern              Astronomical Society 81, 569–607.
+     Menderes Massif, western Turkey. Societe Geologique         GAUTIER, P., BRUN, J.-P., MORICEAU, R., SOKOUTIS, D.,
+     de France Bulletin 168, 3–14.                                    MARTINOD, J. & JOLIVET, L. 1999. Timing, kinematics
+BOZKURT, E. & PARK, R. G. 1997b. Microstructures of                   and cause of Aegean extension: a scenario based
+     deformed grains in the augen gneisses of Southern                on a comparison with simple analogue experiments.
+     Menderes Massif and their tectonic significance. Geo-            Tectonophysics 315, 31–72.
+     logische Rundschau 86, 103–19.                              GENÇ, Ş. C., ALTUNKAYNAK, Ş., KARACIK, Z. YAZMAN, M.
+BOZKURT, E. & SATIR, M. 2000. New Rb-Sr geochronology                 . YILMAZ, Y. 2001. The Çubukdağ graben, south of
+                                                                      &
+     from the southern Menderes Massif (southwestern                  Izmir: its tectonic significance in the Neogene geological
+     Turkey) and its tectonic significance. Geological Journal        evolution of the western Anatolia. Geodinamica Acta 14,
+     35, 285–96.                                                      45–56.
+BUCK, W. R. 1988. Flexural rotation of normal faults.            GESSNER, K., PIAZOLO, S., GÜNGÖR, T., RING, U., KRÖNER,
+     Tectonics 7, 959–73.                                             A. & PASSCHIER, C. W. 2001a. Tectonic significance of
+BUCK, W. R. 1991. Modes of continental lithospheric exten-            deformation patterns in granitoid rocks of the Menderes
+     sion. Journal of Geophysical Research 96, 20161–178.             nappes, Anatolide belt, southwest Turkey. International
+CAREY, E. 1979. Recherche des directions principales                  Journal of Earth Sciences 89, 766–80.
+     de contraintes associées au jeu d’une population de        GESSNER, K., RING, U., CHRISTOPHER, J., HETZEL, R.,
+     failles. Revue des Geologie Dynamique Géographique              PASSCHIER, C. W. & GÜNGÖR, T. 2001b. An active
+     et Physique 21, 57–66.                                           bivergent rolling-hinge detachment system: central
+CAREY, E. & BRUNIER, B. 1974. Analyse théorique et                   Menderes metamorphic core complex in western Turkey.
+     numérique d’une modéle mécanique élémentaire ap-            Geology 29, 611–14.
+     pliqué a l’etude d’une population des failles. Comptes     GÖKTEN, E., HAVZAOĞLU, Ş. & ŞAN, Ö. 2001. Tertiary
+     Rendus de l’Académie des Sciences, Paris, Serie D 279,          evolution of the central Menderes Massif based on struc-
+     891–94.                                                          tural investigations of metamorphics and sedimentary
+ .
+CI HAN, M., SARAÇ, G. & GÖKÇE, O. 2003. Insights into              cover rocks between Salihli and Kiraz (western Turkey).
+     biaxial extensional tectonics: an example from the               International Journal of Earth Sciences 89, 745–56.
+     Sandıklı Graben, west Anatolia Turkey. Geological           GÖRÜR, N., ŞENGÖR, A. M. C., SAKINÇ, M., TÜYSÜZ,
+                                                                                            . .
+     Journal 38, 47–66.                                               O., AKKÖK, R., YI ĞI TBAŞ, E., OKTAY, F. Y., BARKA,
+                                                                                                    .                 .
+COHEN, H. A., DART, C. J., AKYÜZ, H. S. & BARKA, A. A.               A. A., SARICA, N., ECEVI TOĞLU, B., DEMI RBAĞ, E.,
+     1995. Syn-rift sedimentation and structural development          ERSOY, Ş., ALGAN, O., GÜNEYSU, C. & AKYOL, A.
+     of Gediz and Büyük Menderes graben, western Turkey.            1995. Rift formation in the Gökova region, southwest
+     Journal of Geological Society, London 152, 629–                  Anatolia: implications for the opening of the Aegean
+     38.                                                              Sea. Geological Magazine 132, 637–50.
+                                                                                  .                              .
+DART, C. J., COHEN, H. A., AKYÜZ, S. H. & BARKA, A. A.          GÜRER, A., PI NÇE, A., GÜRER, Ö. F. & I LKIŞIK, O. M.
+     1995. Basinward migration of rift-border faults: impli-          2002. Resistivity distribution in the Gediz Graben and
+     cations for facies distributions and preservation poten-         its implications for crustal structure. Turkish Journal of
+     tial. Geology 23, 69–72.                                         Earth Sciences 11, 15–26.
+DEWEY, J. F. 1988. Extensional collapse of orogens. Tectonics    GÜRER, Ö. F. & YILMAZ, Y. 2002. Geology of the Ören
+     7, 1123–39.                                                      and surrounding regions, SW Turkey. Turkish Journal
+DEWEY, J. F. & ŞENGÖR, A. M. C. 1979. Aegean and                    of Earth Sciences 11, 2–18.
+     surrounding regions: complex multiple and continuum         GÜRER, F. Ö., BOZCU, M., YILMAZ, K. & YILMAZ,
+     tectonics in a convergent zone. Geological Society of            Y. 2001. Neogene basin development around Söke-
+     America Bulletin 90, 84–92.                                      Kuşadası (western Anatolia) and its bearing on tectonic
+                                                                                                                         . .
+78                                                                                        E. B O Z K U R T & H. S Ö Z B I L I R
+
+      development of the Aegean region. Geodinamica Acta            of the kinematics of Central Greece with respect
+      14, 57–70.                                                    to Europe: implications for Eastern Mediterranean
+HETZEL, R., PASSCHIER, C. W., RING, U. & DORA, O. Ö.               tectonics. Journal of Geophysical Research 100, 12675–
+      1995a. Bivergent extension in orogenic belts: The             90.
+                                                                                                   .                      .
+      Menderes Massif (southwestern Turkey). Geology 23,        LENK, O., TÜRKEZER, A., ERGI NTAV, S., KURT, A. I . &
+      455–58.                                                       BELGEN, A. 2003. Monitoring the kinematics of
+HETZEL, R. & REISCHMANN, T. 1996. Intrusion age of Pan-             Anatolia using permenant GPS network stations. Turkish
+      African augen gneisses in the southern Menderes Massif        Journal of Earth Sciences 12, 55–66.
+                                                                                                       . .
+      and the age of cooling after Alpine ductile extensional   LIPS, A. L. W., CASSARD, D., SÖZBI LI R, H. & YILMAZ, H.
+      deformation. Geological Magazine 133, 565–72.                 2001. Multistage exhumation of the Menderes Massif,
+HETZEL, R., RING, U., AKAL, C. & TROESCH, M. 1995b.                 western Anatolia (Turkey). International Journal of
+      Miocene NNE-directed extensional unroofing in the             Earth Sciences 89, 781–92.
+      Menderes Massif, southwestern Turkey. Journal of          LISLE, R. J. 1987. Principle stress orienations from faults: an
+      Geological Society, London 152, 639–54.                       adiotional constraints. Annales Tectonica 1, 155–58.
+                                                                                                                        .
+HETZEL, R., ROMER, R. L., CANDAN, O. & PASSCHIER, C. W.         MCCLUSKY, S., BALASSANIAN, S., BARKA, A. A., DEMI R, C.,
+                                                                          .
+      1998. Geology of the Bozdağ area, central Menderes           ERGI NTAV, S., GEORGIEV, I., GÜRKAN, O., HAMBURGER,
+      Massif, SW Turkey: Pan-African basement and Alpine            M., HURST, K., KAHLE, H. G., KASTENS, K., KEKELIDZE,
+      deformation. Geologische Rundschau 87, 394–406.               G., KING, R., KOTZEV, V., LENK, O., MAHMOUD, S.,
+                    .
+IŞIK, V. & TEKELI , O. 2001. Late orogenic crustal extension       MISHIN, A., NADARIYA, M., OUZOUNIS, A., PARADISSIS,
+      in the northern Menderes Massif (western Turkey):             D., PETER, Y., PRILEPIN, M., REILINGER, R. E., SANLI,
+                                                                    .
+      evidence for metamorphic core complex formation.              I ., SEEGER, H., TEALEB, A., TOKSÖZ, M. N. & VEIS,
+      International Journal of Earth Sciences 89, 757–65.           G. 2000. Global Positioning System constraints on plate
+JACKSON, J. & MCKENZIE, D. 1988. The relationship between           kinematics and dynamics in the Eastern Mediterranean
+      plate motions and seismic moment tensors and rates of         and Caucasus. Journal of Geophysical Research 105,
+      active deformation in the Mediterranean and Middle            5695–720.
+      East. Geophysical Journal 93, 45–73.                      MCKENZIE, D. P. 1978a. Some remarks on the development
+JOLIVET, L., FACCENNA, C., GOFFÉ, B., MATTEI, M.,                  of sedimentary basins. Earth and Planetary Science
+      ROSSETTI, F., BRUNET, C., STORTI, F., FUNICIELLO,             Letters 40, 25–32.
+      R., CADET, J.-P., D’AGOSTINO, N. & PARRA, T. 1998.        MCKENZIE, D. P. 1978b. Active tectonics of the Alpine-
+      Midcrustal shear zones in postorogenic extension:             Himalayan belt: the Aegean Sea and surrounding
+      example from the northern Tyrrhenian Sea. Journal of          regions. Geophysical Journal of Royal Astronomical
+      Geophysical Research 103, 12123–60.                           Society 55, 217–54.
+KAHLE, H. G., COCARD, M., PETER, Y., GEIGER, A.,                MEANS, W. D. 1987. A newly recognized type of slickenside
+      REILINGER, R., BARKA, A. & VEIS, G. 2000. GPS-                striation. Journal of Structural Geology 9, 585–90.
+      derived strain rate field within the boundary zones of    MEULENKAMP, J. E., VAN DER ZWAAN, G. J. & VAN
+      the Eurasian, African, and Arabian Plates. Journal of         WAMEL, W. A. 1994. On Late Miocene to recent vertical
+      Geophysical Research 105, 23353–70.                           motions in the Cretan segment of the Hellenic arc.
+KISSEL, C. & LAJ, C. 1988. Tertiary geodynamical evolution          Tectonophysics 234, 53–72.
+      of the Aegean arc: a paleomagnetic reconstruction.        MEULENKAMP, J. E., WORTEL, W. J. R., VAN WAMEL, W. A.,
+      Tectonophysics 146, 183–201.                                  SPAKMAN, W. & HOOGERDUYN STRATING, E. 1988. On
+        . .
+KOÇYI ĞI T, A. & ÖZACAR, A. 2003. Extensional neotectonic        the Hellenic subduction zone and geodynamic evolution
+      regime through the NE edge of the Outer Isparta Angle,        of Crete in the late Middle Miocene. Tectonophysics 146,
+      SW Turkey: new evidence field and seismic data. Turkish       203–15. .
+      Journal of Earth Sciences 12, 67–90.                      OKAY, A. I. & SATIR, M. 2000. Coeval plutonism and
+        . .
+KOÇYI ĞI T, A., YUSUFOĞLU, H. & BOZKURT, E. 1999a.               metamorphism in a latest Oligocene metamorphic core
+      Evidence from the Gediz Graben for episodic two-stage         complex in northwest Turkey. Geological Magazine 137,
+      extension in western Turkey. Journal of the Geological        495–516.
+                                                                                     . .
+      Society, London 156, 605–16.                              ÖZER, S. & SÖZBI LI R, H. 2003. Presence and tectonic
+        . .
+KOÇYI ĞI T, A., YUSUFOĞLU, H. & BOZKURT, E. 1999b. Reply         significance of Cretaceous rudist species in the so-
+      to ‘Discussion on evidence from the Gediz Graben              called Permo-Carboniferous Göktepe Formation, cent-
+      for episodic two-stage extension in western Turkey’.          ral Menderes Massif, western Turkey. International
+      Journal of the Geological Society, London 156, 1240–          Journal of Earth Sciences 92, 397–404.
+      42.                                                       PATON, S. 1992. Active normal faulting, drainage patterns
+KOYI, H. A. & SKELTON, A. 2001. Centrifuge modelling of             and sedimentation in southwestern Turkey. Journal of
+      the evolution of low-angle detachment faults from high-       the Geological Society, London 149, 1031–44.
+      angle normal faults. Journal of Structural Geology 23,    PEACOCK, D. C. P., KNIPE, R. J. & SANDERSON, D. J. 2000.
+      1179–85.                                                      Glossary of normal faults. Journal of Structural Geology
+LE PICHON, X. & ANGELIER, J. 1979. The Aegean arc and               22, 291–305.
+      trench system: a key to the neotectonic evolution of      POLLARD, D. D., SALTZER, S. D. & RUBIN, A. M. 1993. Stress
+      the eastern Mediterranean area. Tectonophysics 60, 1–         inversion methods: are they based on faulty assum-
+      42.                                                           ptions? Journal of Structural Geology 15, 145–54.
+LE PICHON, X. & ANGELIER, J. 1981. The Aegean Sea.              PURVIS, M. & ROBERTSON, A. H. F. 1997. Multistage rifting in
+      Philosophical Transactions of Royal Society, London           rapidly extending continental crust (west Turkey). Terra
+      Seri A 300, 357–72.                                           Abstracts 9, 398.
+LE PICHON, X., CHAMOT-ROOKE, C., LALLEMANT, S.,                 REILINGER, R. E., MCCLUSKY, S. C., ORAL, M. B., KING,
+      NOOMEN, R. & VEIS, G. 1995. Geodetic determination            W. & TOKSÖZ, M. N. 1997. Global Positioning System
+Tectonic evolution of the Gediz Graben                                                                                         79
+
+     measurements of present-day crustal movements in the               from the Gediz detachment, western Turkey. Turkish
+     Arabian-Africa-Eurasia plate collision zone. Journal of            Journal of Earth Sciences 10, 51–67.
+                                                                         . .
+     Geophysical Research 102, 9983–99.                             SÖZBI LI R, H. 2002. Geometry and origin of folding in
+SARICA, N. 2000. The Plio-Pleistocene age of Büyük Mend-              the Neogene sediments of the Gediz graben, western
+     eres and Gediz grabens and their tectonic significance on          Anatolia, Turkey. Geodinamica Acta 15, 277–88.
+                                                                         . .
+     N–S extensional tectonics in west Anatolia: Mammalian          SÖZBI LI R, H. & EMRE, T. 1996. Supradetachment basin and
+     evidence from the continental deposits. Geological                 rift basin developed during the neotectonic evolution
+     Journal 35, 1–24.                                                  of the Menderes Massif. Abstracts, 49th Geological
+ŞENGÖR, A. M. C. 1979. The North Anatolian Transform                  Congress of Turkey, pp. 30–1.
+     Fault: its age, offset and tectonic significance. Journal      STRAUB, C. S., KAHLE, H.-G. & SCHINDLER, C. 1997.
+     of the Geological Society, London 136, 269–82.                     GPS and geological estimates of the tectonic activity
+ŞENGÖR, A. M. C. 1982. Ege’nin neotektonik evrimini                   in the Marmara Sea region, NW Anatolia. Journal of
+     yöneten etkenler. In: Erol, O. & Oygür, V. (eds), Batı           Geophysical Research 102, 27587–601.
+     Anadolu’nun Genç Tektoniği ve Volkanizması Paneli.           THOMSON, S. N., STÖCKHERT, B. & BRIX, M. R. 1998.
+     Congress of the Geological Society of Turkey-1982, 59–             Thermochronology of the high-pressure metamorphic
+     72.                                                                rocks of Crete, Greece: implications for the speed of
+ŞENGÖR, A. M. C. 1987. Cross-faults and differential                  tectonic processes. Geology 26, 259–62.
+     stretching of hanging walls in regions of low-angle            TWISS, R. J. & UNRUH, J. R. 1998. Analysis of fault slip
+     normal faulting: examples from western Turkey. In:                 inversion: do they constrain stress or strain rate? Journal
+     Coward, M. P., DEWEY, J. F. & Hancock, P. L. (eds),                of Geophysical Research 103(B6), 12205–22.
+     Continental Extensional Tectonics. Geological Society,         VERGE, N. J. 1995. Oligo-Miocene extensional exhumation
+     London, Special Publications 28, 575–89.                           of the Menderes Massif, western Anatolia. Terra
+ŞENGÖR, A. M. C., GÖRÜR, N. & ŞAROĞLU, F. 1985. Strike-           Abstracts 7, 117.
+     slip faulting and related basin formation in zones of          WESTAWAY, R. 1994a. Present-day kinematics of the Middle
+     tectonic escape: Turkey as a case study. In: Biddle, K. &          East and Eastern Mediterranean. Journal of Geophysical
+     Christie-Blick, N. (eds), Strike-Slip Deformation, Basin           Research 99, 12071–90.
+     Formation and Sedimentation. Society of Economic               WESTAWAY, R. 1994b. Evidence for dynamic coupling
+     Paleontologists and Mineralogists, Special Publications            of surface processes with isostatic compensation in
+     37, 227–64.             .                                          the lower crust during active extension of western
+    .                                    .
+SEYI TOĞLU, G., ÇEMEN, I. & TEKELI , O. 2000. Extensional             Turkey. Journal of Geophysical Research 99, 20203–
+     folding in the Alaşehir (Gediz graben, western Turkey.            23.
+     Journal of the Geological Society, London 157, 1097–           WESTAWAY, R. 2003. Kinematics of the Middle East and
+     1100.                                                              Eastern Mediterranean Updated. Turkish Journal of
+    .
+SEYI TOĞLU, G. & SCOTT, B. 1992. The age of the                        Earth Sciences 12, 5–46.
+     Büyük Menderes Graben (west Turkey) and its tectonic         YILMAZ, Y., GENÇ, S. C., GÜRER, O. F., BOZCU, M., YILMAZ,
+     implications. Geological Magazine 129, 239–42.                     K., KARACIK, Z., ALTUNKAYNAK, Ş. & ELMAS, A.
+    .
+SEYI TOĞLU, G. & SCOTT, B. 1996. The age of the Alaşehir              2000. When did the western Anatolian grabens begin to
+     graben (west Turkey) ad its tectonic implications.                 develop? In: BOZKURT, E.,Winchester, J. A. & Piper, J.
+     Geological Journal 31, 1–11.                                       D. A. (eds), Tectonics and Magmatism in Turkey and the
+    .
+SEYI TOĞLU, G., SCOTT, B. C. & RUNDLE C. C. 1992. Timing               Surrounding Area. Geological Society, London, Special
+     of Cenozoic extensional tectonics in west Turkey.                  Publications 173, 353–84.
+     Journal of Geological Society, London  . 149, 533–38.          YILMAZ, Y. & KARACIK, Z. 2001. Geology of the northern
+    .                      .
+SEYI TOĞLU, G., TEKELI , O., ÇEMEN, I., ŞEN, Ş. & IŞIK,            side of the Gulf of Edremit and its tectonic significance
+     V. 2002. The role of the flexural rotation/rolling hinge           for the development of the Aegean grabens. Geodinam-
+     model in the tectonic evolution of the Alaşehir graben,           ica Acta 14, 31–40.
+     western Turkey. Geological Magazine 139, 15–26.                YUSUFOĞLU, H. 1996. Northern margin of the Gediz graben:
+      . .
+SÖZBI LI R, H. 2001. Geometry of macroscopic structures with           age and evolution, west Turkey. Turkish Journal of Earth
+     their relations to the extensional tectonics: field evidence       Sciences 5, 11–23.
+
+
+
+
+View publication stats
+

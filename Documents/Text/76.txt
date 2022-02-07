@@ -1,0 +1,1535 @@
+rglUTTERWO    RTH                                                                     Marine and Pe~o&umGeology, Vol. 12, No. 8, pp. 881-901
+B~]E I N E M A N N                                                                                                  1995 Elsevier Science Ltd
+                                                                                                                     Printed in Great Britain
+                                                                                                                  0264-8172/95 $10.00+ 0.00
+
+
+
+
+                  Tectonostratigraphy and sedimentary architecture
+                  of rift basins, with reference to the northern North
+                  Sea
+                  A. Nottvedt*
+                  Department of Geosciences, Norsk Hydro Research Centre, N-5020 Bergen, Norway
+
+                  R. H. Gabrielsen
+                   Geological Institute, University of Bergen, A Ilegaten 41, N-5007 Bergen, Norway
+
+                  R. J. Steel
+                  Department of Geology and Geophysics, University of Wyoming, PO Box 3006,
+                  Laramie, Wyoming 82071, USA
+
+                  Received 15 February 1995; revised 15April 1995; accepted9 May 1995
+
+                  A tectonostratigraphic model for the evolution of rift basins has been built, involving three
+                  distinct stages of basin development separated by key unconformities or unconformity
+                  complexes. The architecture and signature of the sediment infill for each stage are discussed,
+                  with reference to the northern North Sea palaeorift system. The proto-rift stage describes the rift
+                  onset with either doming or flexural subsidence. In the case of early doming, a proto-rift
+                  unconformity separates this stage from the subsequent main rift stage. Active stretching and
+                  rotation of fault blocks during the rift stage is terminated by the development of the syn-rift
+                  unconformity. Where crustal separation is accomplished, a break-up unconformity commonly
+                  marks the boundary to the overlying thermal relaxation or post-rift stage. Tabular architectures,
+                  thickening across relatively steep faults, characterize the proto-rift stage. Syn-rift architectures
+                  are much more variable. Depending on the ability of the sediment supply to fill the waxing and
+                  waning accommodation created during rotation and subsidence, one-, two- or three-fold
+                  lithosome architectures are likely to develop. During the post-rift stage, an early phase with
+                  coarse clastic infilling of remnant rift topography often precedes late stage widening of the basin
+                  and filling with fine-grained sediments.
+
+                  Keywords: tectonostratigraphy; rift basins; North Sea
+
+
+
+
+Continental lithospheric extension and basin formation                    deeper geometries and the relative amount, timing and
+have been attributed to pure shear (McKenzie, 1978),                      nature of this long-term continental lithospheric
+simple shear (Wernicke, 1985) and coupled simple                          extension. In his classical paper on pure shear rifting,
+shear/pure shear flexural deformation (Lister et al.,                     McKenzie (1978) used the North Sea as one of his type
+1986; Kusznir et al., 1991; Kusznir and Ziegler, 1992).                   examples. The symmetrical pure shear model was
+The coupled simple shear/pure shear flexural model                        subsequently favoured by Giltner (1987), Badley et al.
+ascribes the fundamental deformation mechanism of                         (1988) and Klemperer (1988), who proposed models
+crustal extension to faulting (simple shear) in the upper                 which involved mid-crustal decoupling along a sub-
+crust and ductile stretching (pure shear) in the lower                    horizontal detachment. The simple shear model has
+crust. The combined thermal and elastic/isostatic                         been applied by other workers to explain the asymmetry
+response of the lithosphere to extension controls the                     of the graben system (Beach, 1986; Beach et al., 1987;
+crustal architecture and thereby the geometry of                          Gibbs, 1987; Scott and Rosendahl, 19891) and the
+sedimentary basins (van der Beek et al., 1994).                           distribution of active seismic zones (Gabrielsen, 1988).
+   In the northern North Sea, despite the substantial                     Recent studies have suggested that elastic flexural
+amount of data available, our understanding of the                        effects on both the crustal and fault block scale are
+lithospheric processes governing extension are strongly                   important factors in the stretching process (Marsden
+model-based. Although researchers agree on a model                        et al., 1990; Kusznir et al., 1991; Cloetingh and Kooi,
+involving polyphase stretching and subsequent thermal                     1992; Roberts et al., 1993).
+cooling, there is considerable disagreement as to the                        The subsidence history of extended continental
+                                                                          margins consists of a phase of short-lived (<20 Ma)
+* C o r r e s p o n d e n c e to: D r A . NC~ttvedt                       active stretching followed by long-term (>/100 Ma)
+
+
+
+                                                       Marine and Petroleum Geology 1995 Volume 12 N u m b e r 8                       881
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+passive subsidence caused by thermal relaxation of the                                                           active stretching.
+heated lithosphere (Kinsman, 1973; McKenzie, 1978).                                                                 Further complications arise from studies of the
+An incipient phase of either flexural subsidence                                                                 geometry of rift infill stratigraphy. Wedge-shaped litho-
+(Harding, 1984; Scott and Rosendahl, 1989) or mantle                                                             some geometry is a commonly used criterion to identify
+plume-derived domal uplift (Morgan, 1971; Ziegler,                                                               the rifting stage, particularly in reflection seismic data
+1982; Mohr, 1992) before major stretching of the litho-                                                          (Cartwright, 1987; Prosser, 1993). However, bevelling
+sphere is similarly short-lived (<10 Ma). Following                                                              and infilling of remnant relief created during active
+McKenzie (1978), there is a predictable relation                                                                 stretching and fault block rotation commonly extend
+between crustal thinning, thermal processes, post-rift                                                           into the post-rift stage of thermal subsidence. The gross
+subsidence and sediment thickness. Owing to the                                                                  wedge geometries thus produced, particularly where
+elastic properties of the crust, this relationship is more                                                       there has been underfilling during rifting, are not
+complex both on the regional scale (van der Beek et al.,                                                         exclusively related to the active stretching stage alone;
+1994) and on the scale of individual fault blocks                                                                but are composite (passive infilling, compaction) in
+(Kusznir et al., 1991; Roberts and Yielding, 1991).                                                              origin. Only by detailed examination of their internal
+   According to these models, extended basins show a                                                             geometries may such depositional units be properly
+distinct evolutionary pattern that is coupled chrono-                                                            related to the structural history. These complications
+logically with their tectonic and thermo-mechanical                                                              are, nevertheless, locally constrained. In a broad
+development. However, this relation is complicated by                                                            perspective, intraplate rift zones such as the North Sea
+the fact that on a local scale, fault segments and fault                                                         palaeorift system may be subject to repeated stretching
+blocks within a rift structure may synchronously attain                                                          events separated by periods of thermal subsidence.
+different patterns of subsidence. The state of sub-                                                                 In the present paper we attempt to discuss and
+sidence varies according to the position within the                                                              summarize various key structural elements and
+basin, the relation to major tectonic features such as                                                           tectonostratigraphic components of extensional rift
+flats and ramps and the stage of development. Hence                                                              basins and to evaluate how these relate in space and
+subsidence controlled by flexuring may prevail in plat-                                                          time. We focus particularly on the principles and style
+forms and marginal highs contemporaneously with                                                                  of sediment infilling during the various stages of rift
+rotational faulting in graben areas, and individual fault                                                        evolution, with reference to the multiphase northern
+blocks may lock and cease to rotate before the end of                                                            North Sea palaeorift system.
+
+
+
+
+                     0o                           1°                             2°                         3°               4°          5°               6°
+                 6         2         °                 ~                                                                                                       62 °
+
+
+
+                                                                                                      Tampen
+                                                                                                       Spur
+
+
+
+
+            61°1          "        ~'~                      ~" I! ~                                ;il ii~ili# Terrace.'~lerrac.~
+                                                                                                               LOmre ;L''='''~      A    W ~ ' d i ~             61 °
+
+                                                  Fig.7
+
+
+
+                                                             East
+                                                           Shetland
+                                                            Basin
+
+
+
+
+                            East                            "-        .~::ii~i~i~!i::?!i!i!i!;
+          60 °            Shetland                               "' .-iiii~i:~#                ~                   Horda                           ~ _~               60°
+                          Platform                                           i~iiiii~i~i/i~i!i                    Platform
+
+
+
+
+             t o.              ,
+                                         •             .,~i~ii~!ili~ ~ ~=~                         H,0. } , \                       :(             -qa i m
+             0°                              1°                               2°                            3°                 4°             5°                  6°
+
+Figure 1 Structure map, northern North Sea. Geoseismic cross-sections presented in subsequent figures are marked
+
+
+
+
+882   M a r i n e and P e t r o l e u m G e o l o g y 1995 V o l u m e 12 N u m b e r 8
+                           Tectonostratigraphy and sedimentary architecture of rift basins: A. NOttvedt et al.
+
+Northern North Sea tectonostratigraphic                     Viking Graben axis (Steel and Ryseth, 1990). Steel
+framework                                                   (1993) has suggested that there were about nine
+                                                            intervals of high subsidence rate within this post-rift
+The northern North Sea palaeorift system, including         stage, accounting for a similar number of major trans-
+the Viking and Sogn graben, is an approximately 150-        gressions with associated clastic wedges derived from
+200 km wide zone of extended upper crust with pre-          the Norwegian and Scottish hinterlands. Increased fault
+served strata from pre-Triassic to Tertiary. It is          activity accompanied by particularly coarse-grained
+bounded by the Shetland Platform to the west and the        sediment facies are evident in the Rhaetian-
+Norwegian mainland to the east (Figure 1).                  Sinemurian (Statfjord Formation). Gabrielsen et al.
+   The northern North Sea-mid-Norwegian margin              (1990) have argued that this is a result of a separate (so-
+has experienced three episodes of lithospheric exten-       called 'early Cimmerian') minor extensional event, as
+sion from the (?)Permo-Triassic through Tertiary            has earlier been suggested on purely sedimentological
+times, of which the latest event led to crustal break-up    grounds (ROe and Steel, 1985). Depositional environ-
+and accretion of oceanic crust in the North Atlantic in     ments pass from continental to marine, implying that
+late Palaeocene-early Eocene times (Figure 2)               the creation of new accommodation space outpaced
+(Whiteman et al., 1975; Ziegler, 1975; 1982). A fourth,     sediment supply. It is likely that this was at least partly
+North Atlantic Carboniferous phase of extension, or         in response to thermal subsidence.
+possibly transtension, is evident in the lower-middle          The late Jurassic-early Cretaceous stretching event
+Carboniferous strata of the North Atlantic. The             is also well constrained. Rotational movements on the
+Carboniferous event was suggested to follow a               major fault zones bounding the northern Viking
+Devonian phase of sinistral shearing in the North           Graben commenced in the latest Bajocian-earliest
+Atlantic-Arctic realm (Harland, 1969). The impor-           Bathonian and ceased in the earliest Ryazanian (Rattey
+tance of such shear is presently debated, however, and
+from outcrops in western Norway gravitational in-
+stability and collapse of the Caledonian syn-orogenic
+lithosphere (Andersen et al., 1991), or even plate
+divergence (Fossen, 1992), have been suggested as                 Age/per.     Event       Rift stage        Rel. Elev.   Palaeolatitude
+                                                                                          ProtoIMain[ POSt
+alternative driving mechanisms for Devonian basin
+formation. Nevertheless, a Caledonian orogenic
+increase in crustal thickness to about 60 km (Andersen
+                                                                                                                             j
+et al., 1991) is likely to have been thinned to less than
+35 km before the onset of (?)Permo-Triassic rifting          -~0                ~                     ,,
+(F~erseth et al., in press).
+   A number of wells, especially in the UK sector,
+confirm the presence of Devonian and Carboniferous
+strata below the northern North Sea. However, pre-
+Triassic stratigraphy is still poorly known and little
+                                                                        ~3
+conclusive information exists about Devonian and
+Carboniferous extensional events. From deep pene-
+tration regional seismic data, Platt (1995) has inter-
+preted a major Devonian (-Carboniferous?) basin
+                                                             - 150~ "~          ~                     i
+below the East Shetland Platform and from a deep
+                                                                      _~_
+seismic profile (ILP-10) paralleling the west coast of
+Norway, Fa~rseth et al. (in press) have described what
+they believe to be the offshore continuation of onshore
+Devonian strata below the Horda Platform. Frazer
+et al. (1990) have summarized Carboniferous rift, post-
+                                                             -200
+
+
+                                                                        o;
+                                                                      ~.~_
+rift and inversion tectonics and sedimentation onshore
+UK, based on well and seismic data.                                     •~:                      •
+   Similarly, (?)Permo-Triassic rifting in the northern
+North Sea is poorly known. Sedimentary facies and
+architecture associated with this event are known from
+studies of the Hebridean Province off north-west
+Scotland (Steel, 1974) and from the inner Moray Firth
+                                                             -~ i
+area (Frostick et al., 1988). Precise dating and the
+spatial extent of the active stretching event in the         -~0        O
+
+
+northern North Sea are uncertain, but recent strati-
+graphic syntheses (Lervik et al., 1989; Steel and
+Ryseth, 1990) allow us to suggest syn-rift dates of no
+younger than Scythian, with a possible initiation during      •    Lithosphedcstretchingevents,northernNorthSea
+the late or even early Permian.                               ~ ExtensionaleventsaffectingnorthernNorthSea neighboullingareas
+   The following middle Triassic to early Jurassic post-     ~ Undifferentiatedintraplatetectonicevents,northernNorthSea
+rift stage is considerably better known. Subsidence in
+the northern North Sea was accompanied by faulting,         Figure 2 Schematic         s u m m a r y of the various rift events affecting
+stepping down from both margins towards the present         the northern North       Sea
+
+
+
+                                              Marine and Petroleum Geology 1995 Volume 12 Number 8                                     883
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+and Hayward, 1993; Partington et al., 1993; F~erseth                   hence, hydrocarbon plays (Harding, 1984; Gabrielsen
+et al., 1995; Ravnaas and Bondevik, unpublished data;                  et al., 1990; 1995). Based on data from the northern
+Johannesen et al., 1995). The depositional environ-                    North Sea, and comparison with extensional basins
+ments pass from coastal plain and shallow marine                       elsewhere, Gabrielsen (1986) has summarized the
+on the platforms and terraces bordering the Viking                     major structural/topographic features that characterize
+graben to deeper marine in the interior of the graben                  a mature graben system.
+system.                                                                   In this conceptual model, an interplay of steep planar
+   The Cretaceous-early Cenozoic succession in the                     and low-angle listric or planar (rotational) faults is
+northern North Sea largely represents post-rift infill,                envisaged. The extra-marginal fault complex separates
+resulting from subsidence in response to lithosperic                   the stretched area from its unstretched surrounding
+cooling following the late Jurassic-early Cretaceous                   terrain and may constitute a minor horst and graben
+stretching event (Sclater and Christie, 1980; Wood and                 topography (Figure 3). The extra-marginal fault system
+Barton, 1983). Deep water depositional environments                    is often separated from the platform area by a marginal
+dominate along the basin axis during the Cretaceous,                   horst. This is bounded by a marginal fault complex on
+with progressive onlap against basin margins and intra-                its basinward side. The platform is a structural unit
+basinal highs. Middle Cretaceous flank uplift along the                characterized by moderate fault activity and sub-
+Norwegian margin (see following discussion), however,                  sidence. It is frequently bordered by a marginal plat-
+suggests that the subsidence was not uniform.                          form high that is heavily faulted and defined by an array
+Accelerated subsidence in the Palaeocene also has been                 of rotated fault blocks. The sub-platform is restricted
+demonstrated (Sclater and Christie, 1980; Barton and                   by the inner and outer master fault systems. The inner
+Wood, 1984), but the reason for it is not clear. Some                  master fault system defines the margin of the interior
+models have suggested that it may be related to intra-                 graben. Although these structural elements tend to be
+plate compressional stresses (Cloetingh et al., 1987) or,              persistent along-strike of the rift system, transfer zones,
+alternatively, to a dynamic propagation of the Iceland                 anastomosing faults, fault bridges and other irregu-
+plume (White and Latin, 1993; Hall and White, 1994;                    larities (Freund and Mercier, 1976; Gibbs, 1984;
+J. Skogseid, pers. comm.).                                             Rosendahl, 1987) influence the graben geometry such
+   Subsequent Tertiary subsidence was segmented and                    that one or more of these elements are likely to be
+interrupted by basin flank uplifts, whereas in the early               lacking in any arbitrary section across or along the
+Miocene the entire northernmost North Sea area                         graben.
+became uplifted and eroded as a result of com-                            Most graben systems are subdivided into separate
+pressional tectonics in the Norwegian Sea (Rundberg                    segments. The geometry of such segments reflects the
+et al., 1995).                                                         along-strike spatial interaction of the master fault
+                                                                       systems and their interconnection at depth. Such
+                                                                       relations involve transfer zones of different types,
+Three-stage graben model and related
+                                                                       facilitating overlap and shifting polarities between the
+unconformities                                                         fault segments (Bosworth, 1985; Rosendahl, 1987). It is
+Mature rifts and other extended areas tend to display a                well established that the interior zone of the late
+number of common structural features (Johnson, 1930;                   Jurassic-Cretaceous Viking graben displays several
+Robson, 1971) that influence surface topography and                    centres of subsidence and the existence of transfer
+drainage development (Leeder and Jackson, 1993) and,                   zones has been proposed (F~erseth, 1984; Scott and
+
+
+
+
+                         A,'l'lt. I~A.                                              ~L~h ~
+
+
+
+                                                                                                                         libel
+                                         t~.; '~
+
+                                                                                            "'hi~ h
+
+
+
+
+Figure 3 Schematic illustration of the main structural units of a rift system
+
+
+
+884    Marine and Petroleum Geology 1995 Volume 12 Number 8
+                              Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt                                 et al.
+
+Rosendahl, 1989). The shifting polarity of graben                        sense, it will often coincide with the post-rift stage of a
+segments seems to be more pronounced in the                              previous rift cycle. To emphasize that we are referring
+(?)Permo-Triassic rift system that underlies the late                    to a stage that is genetically related to and preceding
+Jurassic-Cretaceous system (Gabrielsen et al., 1990);                    active stretching, we prefer the term proto-rift stage.
+F~erseth et al., in press).                                                 The proto-rift stage is sometimes characterized by
+   The nature and architecture of basin infill during                    deposition in a wide, slowly subsiding basin with only
+successive stages of rift evolution are determined by the                minor fault activity (Figure 4). This is the case for
+interplay between tectonics, climate, sediment type and                  segments of the East African Rift System (Baker et al.,
+supply rate, eustacy and, to a lesser extent, by the                     1972; Baker, 1986), the Baikal Rift (Logatchev,1978),
+position within the evolving rift system. Ideally,                       the Rhine Graben (IUies, 1978) and the Oslo Graben
+tectonostratigraphic units within a simple rift system                   (Ramberg and Larsen, 1978; Sundvoll and Larsen,
+develop in a uniform manner in response to stresses                      1994). During this stage, sedimentation is controlled
+and rates of deformation induced on the upper crust.                     primarily by climatic and, in marine settings, by relative
+However, different segments of a complex and possibly                    sea-level fluctuations.
+propagating rift system may be diachronous both                             In other rifts, progressive, thermally induced,
+locally and on a regional scale.                                         upward displacement of the asthenosphere-litho-
+   In basin analysis the complex interaction of all these                sphere boundary by mantle plumes cause the gradual
+elements needs to be taken into account and the dia-                     upwarp of broad rift domes that reach their maximum
+chroneity of the processes, in particular, needs to be                   dimensions before or at the onset of active stretching
+observed. The style of structuring and the geometry of                   (Figure 4). This is exemplified by the Red Sea (Davison
+the infill lithosomes in evolving rift basins commonly                   et al., 1994), central parts of the East African Rift (i.e.
+allow the erection of a three-stage model (Table 1,                      Gregory Rift, Kenya; Smith, 1994) and the central
+Figure 4). This model for basin development implies                      Atlantic Rift (Ziegler, 1988). Local failure of the litho-
+that the subsidence pattern varies from stage to stage                   sphere and the diapiric rise of asthenospheric material
+and that the depositional infill of each stage is                        during stretching lead to asthenoliths and temporary
+characterized by a distinct architecture. Subsequent                     domal uplift of the rift area (Turcotte, 1981). The
+stages may or may not be separated from the previous                     structural style during proto-rift basinal evolution is
+stage by a key unconformity (Table 1, Figure 5). It is                   also strongly influenced by the pre-existing structural
+emphasized that the three-stage model refers to the                      grain and by the ability of the crust to accommodate the
+evolution of rift basins in general and that applying the                initial tensional stress induced on it. Subvertical
+model for studying the infill of smaller segments of the                 (tensile) fracturing and emplacement of dyke swarms
+rift structure or single fault blocks may lead to compli-                may occur in incipient rifts (Gabrielsen, 1986; Sundvoll
+cations. This is because the onset and termination of                    et al., 1992), suggesting a brittle deformational
+stretching may vary according to the position in the rift                behaviour and lithospheric response possibly related to
+system. Nevertheless, in the examples included we                        the cold thermal state at rift onset.
+have used the model to interpret single seismic lines,
+being aware that the studied sections are probably not                      Geometry of proto-rift basins. Proto-rift basins are
+representative of the rift structure as a whole and that                 typically saucer-shaped, slightly deepening towards the
+part of the rift history may not be recorded.                            future graben axis (Figure 4). Faults and fractures tend
+                                                                         to be oriented parallel to the axis of the rift structure,
+Proto-rift stage                                                         but because of generally low subsidence rates, the
+The phase of rifting immediately before active stretch-                  faults are unlikely to create any large relief. On a basin
+ing is sometimes referred to as the pre-rift stage.                      scale, the subsidence has an overall flexural nature,
+However, many workers take this term to encompass                        leading to the progressive onlap of proto-rift strata
+the entire structural and stratigraphical evolution                      against the basin margins. The basic morphology of
+before rift onset. When used in a purely temporal                        proto-rift basins favours the establishment of large axial
+
+Table 1 Main architectural elements in rift basin stratigraphy
+
+Architectural elements      Description
+
+Proto-rift unit             Those units deposited during early flexural subsidence. This subsidence may or may not be interrupted by
+                            domal uplift associated with the entire basin area, or with parts of it. Generally, the subsidence associated
+                            with the proto-rift stage affects a broader area than do the successive stages
+Proto-rift unconformity     The unconformity that forms by erosion or rift-related domes
+Syn-rift unit               Those units laid down during active stretching resulting in fault block rotation. Consequently, this stage is
+                            characterized by the most irregular topography during the entire basin formation, particularly in basins
+                            where erosion and sediment influx rates are low. The associated depositional pattern may be very
+                            complex because of the temporal offset of tectonic activity between different segments of the basin, and
+                            because of irregularities in the rotation rates of individual fault blocks
+Syn-rift unconformity       The unconformity generated by erosion of uplifted fault blocks
+Break-up unconformity       The unconformity that forms by uplift and erosion of entire rift structure
+Post-rift unit              Those units deposited during the thermal subsidence phase, subsequent to active stretching. However,
+                            local relief may still be present, causing an initial or basal depositional unit reflecting the final infilling and
+                            elimination of this relief
+
+
+
+
+                                                      Marine and Petroleum Geology 1995 Volume                        12 N u m b e r   8    885
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+sediment transport systems, with some transverse input                          the underlying lower Jurassic groups/formations (Steel,
+along the length of the structure (Gabrielsen et al.,                           1993; his Table 1) and there is an increase in early
+1995). Domal uplift and incipient subsidence may                                Bajocian strata (Ness Formation) across fault lines in
+occur contemperaneously along different segments of                             the northern North Sea, as has been illustrated by
+the proto-rift structure (Figure 4).                                            Graue et al. (1987). Although some of the enhanced
+   The evolution of the Brent Delta System of the                               thickness results from increased sediment rates and
+northern North Sea (Graue et al., 1987; Helland-                                filling of the available accommodation space generated
+Hansen et al., 1992) seems to fit such a model. Deposi-                         during deposition of the underlying Dunlin Group,
+tion of the Brent Group has been coupled with the                               accelerated subsidence during the Aalenian-Bajocian
+growth and erosion of a mid-North Sea dome (Ziegler,                            is likely. Attempts to numerically simulate Brent delta
+1982; Underhill and Partington, 1993), as well as with                          progradation and retreat support this interpretation
+non-dome related tectonics along the northern North                             (Helland-Hansen et al., 1990). The subsidence increase
+Sea rift margins (Steel, 1993). The Brent Group shows                           overprints and adds to the effect of post-rift thermal
+an increase in thickness per time unit compared with                            subsidence following the (?)Permo-Triassic rift event.
+
+                 ]]]          Post-rift stage
+
+                     Late post-rift
+
+
+
+
+                     Early post-rift
+
+
+
+
+                                                     Filling and elimination Ot inherent syn-ri~ relief
+
+
+
+
+                 II           Rift stage
+
+                     Rift dimax
+
+
+
+
+                     Rift initiation
+
+
+
+
+                                                     Fault block compartmentilisation; weak tilting
+
+
+
+
+                 I            Proto-rift stage
+
+                 Ia)          Flexural downwarp                                   Ib)      Domal uplift
+
+
+
+
+                              Lower crust isotherm
+Figure 4 Schematic illustration of the tectonostratigraphic stages in rift basin evolution
+
+
+
+
+886    Marine and Petroleum Geology 1995 Volume 12 Number 8
+                             Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+Johannesen et al. (1995) have suggested that there were                                                  rift units as defined here are therefore difficult to
+some rotational fault movements as far back as the                                                       recognize and separate from the substratum, both
+late early Bajocian, affecting especially the Tarbert                                                    tectonically and sedimentologically, unless they rest on
+Formation, but we believe that much of the observed                                                      unconformable surfaces or directly on basement rocks.
+early Middle Jurassic subsidence increase in the                                                         The best criterion is probably to look for an increase in
+northern North Sea may have been along planar and                                                        differential subsidence and the establishment of a
+relatively steep, proto-rift stage faults developed                                                      depocentre, as for the Brent Group in the northern
+laterally to the domal uplift in the central North Sea.                                                  North Sea. The problem becomes accentuated in areas
+   Sediments deposited in response to the rise of a                                                      of multiple rifting. Excess heat from earlier rift events
+proto-rift dome have very little preservation potential if                                               may be inherited and influence the subsidence of
+they accumulate outside the area of subsequent stretch-                                                  subsequent rift basins, causing interference and a
+ing. This is because they are likely to be incorporated in                                               complex relationship between post-rift (pre-rift to
+rift shoulder uplift and exposed to rift margin erosion.                                                 subsequent stretching events) and proto-rifl strata. This
+                                                                                                         is the case in the Triassic-Jurassic succession from the
+   Architecture and identification of proto-rift                                                         northern North Sea and has been discussed by Steel
+strata. The regional character and the grossly tabular                                                   (1993). Hence it seems that careful subsidence analysis,
+depositional architectures of the proto-rift stage are not                                               both spatial and temporal, is the best way of identifying
+different from other craton or platform deposits. Proto-                                                 proto-rift units.
+
+
+           II!     Break-up unconformity
+
+
+
+
+                                                                   Erosion of previous rift basins and terrain
+
+
+
+
+                                 , , . , - 4 4 " 4 " " 4 "--" "" "-- 44 "   '    ~   q   ~   /   l   l   ~   m   m   m , /m' ' ' " ~" " " " ~ "-- ~4 -- 4 --" -- "-- --"
+                                                                                                                                                                             !
+                                                                                                                                                                             •1
+
+
+
+                              sino,euncon,ormi                                                                                                                               II
+                                                                                Hangingwalls!ope~7 ~                                                                         •
+                                                                                multiple unconformities ~                                                                    •
+                                                                                         IIII I         14                                                           I     IIIIII
+                                                                                                                     \
+           II      Syn-rift unconformity                                                                             ~N                       "/' ...............
+
+
+
+
+                            Fault block crest erosion
+
+
+
+
+            I      Proto-rift unconformity
+
+
+           ]a)     Domaluplift                                                                                             Ib)                 Flexuraldownwarp
+
+                                         Central dome erosion
+
+                                                                                                                                     Flank erosion
+Figure 5 Schematic illustration of the main unconformities related to rift basin evolution
+
+
+
+                                                                            Marine and Petroleum Geology 1995 Volume 12 Number 8                                                    887
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NcJttvedt et al.
+
+Proto-rift unconformity                                      (13 factor), (c) the mode of extension, whether
+ Changes in the rate and style of rotation of different      orthogonal or oblique, (d) the influence of pre-existing
+ structural elements within the rift system contribute to    structures and zones of weakness and (e) the litho-
+ the generation of unconformities of varying type and        logical composition of the pre- and syn-rift deposits.
+ extent (Rawson and Riley, 1982; Gabrielsen et al.              During the rift stage, platformward rotation of the
+ 1995). In an extensional system where no dome is           fault blocks prevails (Figure 6A) and extensive erosion
+ present, no regional angular unconformity is likely to     of the fault block shoulders takes place, as has been
+ develop above the Proto-rift unit. This is because         exemplified from segments of the North Sea Palaeo-rift
+ proto-rift deposits are involved in fault block rotation   system by Speksnijder (1987) and Cartwright (1987).
+ along with the syn-rift sediments. In such circumstances   Accelerating tectonic subsidence leads to overall trans-
+ only disconformities of more local character or un-        gression, unless the sediment drainage system has
+conformities related to non-tectonic processes are          access to larger source areas, allowing the sediment
+expected. Where the proto-rift stage is associated with     supply to keep pace with subsidence. Generally, the
+doming, however, a proto-rift unconformity is               depositional pattern is much more complex than that of
+developed (Figure 5). Both these relations are repre-       the proto-rift stage and is dominantly tectonically
+sented in the North Sea. The southern and central parts     driven.
+of the palaeorift system were domed and deeply eroded           During extension, steady rates of fault movement
+in the middle Jurassic (Ziegler, 1982; Underhill and        lead to increased fault block rotation. This is the case
+Partington, 1993), whereas the northern Viking              for domino style normal faults, as a result of the
+Graben strata seem relatively unaffected by this event.     rotation of fault-planes from steep to shallow through
+    The amount of erosion on the proto-rift uncon-          time, as well as for listric faults, as a function of the
+formity surface varies considerably, depending on the       fault planes being curved with depth. As stretching
+magnitude and areal extent of the uplift and on the         progresses, older faults lock and new faults generate.
+nature of the substratum. The relatively slow perturba-     The tendency for a rift system is therefore to pass from
+tion and thermal decay of mantle plumes generally           low tilt rates during the rift initiation sub-stage to
+favour widespread peneplanation of underlying proto-        maximum tilt rates during the rift climax sub-stage
+rift and pre-rift strata, particularly where they are       (Figure 4). This implies that individual fault blocks are
+sedimentary. Because of the low relief of the uplifted      governed by increasing tilt and tilt rates during active
+surface, the resultant unconformity tends to have a         stretching, before they become inactive and enter into a
+subtle expression and a small angle to underlying           post-rift state of development. Stress build-up and
+strata. As domal uplift related to incipient rifting is     release in the crust is a non-uniform process, however,
+commonly associated with subsidence in its vicinity,        and subsidence tends to be localized and fault move-
+erosional products tend to accumulate in associated         ments are episodic. Movements along different seg-
+depositional basins that may be a proto-rift, as with the   ments of a rift system are therefore likely to be
+Brent Delta System.                                         temporally offset, as in the North Sea palaeorift system
+   The proto-rift unconformity is likely to be over-        (Rattey and Hayward, 1993; Partington et al., 1993).
+printed and masked by erosion during the subsequent         Moreover, it may lead to variable rates of rotation and
+main rift stage. This is exemplified by the so-called       the occurrence of distinct and possible multiple
+'Mid-Cimmerian' unconformity in the North Sea,              rotational maxima across individual fault blocks
+which records later rift shoulder uplift and fault-         (Ravnaas and Bondevik, unpublished data). This raises
+controlled footwall uplift in addition to the proto-rift    the question of the existence of a late rift sub-stage with
+doming (Rattey and Hayward, 1993).                          reduced rotational rates, although this is probably not
+                                                            very common (see discussion below).
+Rift stage
+The rift stage describes the phase of active stretching        Geometry of main rift basins. The fundamental
+and fault block rotation. The terminology introduced         architectural element in many extensional basins is the
+by Prosser (1993) has been adapted in the further sub-      half-graben, formed within the hanging walls of major
+division of the rift stage.                                 rift-bounding or intra-rift basin faults (Figure 4). The
+   Syn-rift subsidence results from the elastic/isostatic   location and number of half grabens are influenced by
+adjustment of the crust due to mechanical stretching of     the position of the main faults and the width of the rift
+the lithosphere. The subsidence is counteracted by          zone, which again depends on rheology, crustal thick-
+upwelling of the asthenosphere into the space created       ness and stretching factors. Major faults tend to overlap
+by the mechanical stretching and thermal upward             and shift polarity along the rift zone, causing frag-
+displacement     of the       asthenosphere-lithosphere     mentation of the rift basin. Segments of opposing
+boundary, causing uplift of the rift zone (Turcotte and     polarity are separated by lateral or tranfer faults
+Emermann, 1983; Wernicke, 1985; Ziegler, 1992).             (Rosendahl, 1987). These fault systems exert a critical
+These effects are accompanied by differential flexural      control on the geomorphology and on erosion of
+warping of the rift structure, depending on the depth to    drainage areas. Rotation of the fault blocks, local
+the lithospheric necking level (Cloetingh and Kooi,         footwall uplift and adjacent hanging wall collapse
+1992; Kooi and Cloetingh, 1992).                            generated by the extension cause the overall geometry
+   Following Ziegler (1992), the structural style of syn-   of the corresponding syn-rift infill to be wedge-shaped,
+rift basinal development is influenced by (a) the thick-    thinning away from the graben bounding fault onto the
+ness and thermal state of the crust and subcrustal litho-   hanging wall. Other geometries may develop internally
+sphere at the onset of rifting, (b) the amount of crustal   in the wedge. The spacing, orientation and segmenta-
+extension and the width over which it is distributed        tion of the faults, and whether the drainage systems are
+
+
+
+888   Marine and Petroleum Geology 1995 Volume 12 Number 8
+                                            Tectonostratigraphy and sedimentary architecture of rift basins: A. Nattvedt et al.
+
+®
+                                                                                     0
+
+
+
+
+®
+                                                                                     o
+
+
+
+
+Figure 6 Schematic cross-section of a rift graben. Note rotation of strata away from graben axis during the main rift stage (A) and
+towards the graben axis during the post-rift stage (B)
+
+
+positioned on footwall, hanging wall or axial reaches of                                  units correspond to the rift initiation and climax sub-
+the basins, control the architecture of the syn-rift infill                               stages. Less developed wedge geometries in the mid-
+(Leeder and Jackson, 1993; Jackson and Leeder, 1994;                                      Aalenian to mid-Callovian unit suggest relatively small
+Gawthorpe et al., 1994).                                                                  rates of tilting across fewer faults, as is common during
+   Half-graben and wedge-shaped infill geometries                                         the proto-rift stage or rift initiation sub-stage. The mid-
+characterize both the (?)Permo-Triassic and late                                          Oxfordian to Kimmeridgian unit, on the other hand,
+Jurassic stretching events in the northern North Sea.                                     shows parallel, onlapping stratal patterns with little or
+Fault-bounded, wedge-shaped depositional units occur                                      no indications of syn-depositional faulting. This unit is
+from mid-Aalenian (top J10) through Kimmeridgian                                          therefore interpreted as early post-rift, filling in topo-
+(top J50/60) times south-west of the Brent Field                                          graphy created during a major rotational event at the
+(Rattey and Hayward, 1993) (Figure 7). However,                                           mid-Oxfordian boundary, and suggests that the rift
+careful analysis of internal geometries indicates that                                    climax sub-stage may be difficult to constrain. How-
+divergent stratal patterns reflecting syn-depositional                                    ever, acknowledging the three-dimensional variability
+faulting and rotation are only present in the mid-                                        of such systems, a more progressive rift climax with
+Aalenian to mid-Callovian and mid-Callovian to mid-                                       divergent stratal patterns may be developed laterally to
+Oxfordian units. In concert with the rift tectonostrati-                                  the referred section. On a larger scale the unit probably
+graphic subdivsion described earlier (Figure 4), these                                    reflects continued movements across the major eastern
+
+
+           w
+
+           EASTSHETLAND
+           PLATFORM                                                      EASTSHETLANDBASIN
+
+
+
+
+    2.0-
+                                                                               BASETERTtARY
+
+
+
+    3.0-
+
+
+
+
+    4.0-
+
+
+
+
+    5.0-
+
+                                                                                                                                       0              5             lOkm
+
+
+
+                 Proto-rl~rlft initiation           ~        Rlltdlmax                         ~         Eim~ypostrift
+
+
+Figure 7 R i f t - i n f i l l g e o m e t r i e s o n a geoseismic section south of t h e B r e n t area (modified f r o m Rattey and H a y w a r d , 1993; t h e i r Figure
+10). See Figure I f o r l o c a t i o n
+
+
+
+
+                                                                    Marine and Petroleum Geology 1995 Volume 12 Number 8                                               889
+(D
+
+
+
+
+              WNW                                                                                                                                                                           ESE
+e-
+                                                                                              HORDA PLATFORM                                                                       •FZ
+3
+C~
+                                                                                                     SEA FLOOR
+O                                                                                                    BASE QUATERNARY
+O
+       1.0-
+
+
+O1
+<
+O
+t-
+3
+
+Z
+t-
+3
+~T
+       4.0-
+GO
+
+
+
+       5.0-
+                                                                                          0                     10km
+                                                                                                                i
+
+
+
+     Figure 8 Rift-infill geometries on a geoseismic section across the southern Horda Platform (modified from Steel and Ryseth, 1990; their Figure 6/. Legend as for Figure 7. See Figure I for
+     location
+                                    Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+boundary fault of the East Shetland Platform.                                 (Prosser, 1993), on outcrop data in non-marine (Leeder
+    Another example from the (?)Permo-Triassic                                and Gawthorpe, 1987) or marine (Surlyk, 1984) infill,
+succession on the Horda Platform shows fault-                                 and on numerical modelling (Roberts et al., 1993).
+bounded, wedge-shaped units spanning the (?)Permian                               Building a syn-rift architectural model is difficult:
+to early Triassic and middle Triassic (Steel and Ryseth,                      extension and rotation rates can vary; various non-
+1990) (Figure 8). The units show divergent internal                           marine and marine processes are involved in the in-
+stratal patterns, indicating continued faulting and                           filling; development of the footwall, hanging wall and
+rotation accompanying deposition. The amount of                               axial catchment/drainage areas is complex; and sea-
+divergence suggests maximum tilt rates and rift climax                        level changes and time elapses between catchment
+during deposition of the (?)Permian to early Triassic                         generation and sediment yield. Nevertheless, because
+unit. The divergent character of the subsequent middle                        rift development involves basin floor rotation (footwall
+Triassic unit suggests continued faulting and rotation,                       uplift and hanging wall subsidence) superimposed on a
+albeit less significant, and may argue for the presence of                    background subsidence, and because the sedimentary
+a late rift sub-stage with reduced tilt rates. It seems                       infilling is a response to this tectonic scenario, a pattern
+unlikely that the divergence relates solely to compac-                        of syn-rift architecture may be recognizable. Variation
+tion of underlying strata. A late rift or rift relaxation                     in sediment supply, in sedimentary processes and in sea
+sub-stage has also been interpreted in the evolution and                      level is nevertheless likely to obscure any architectural
+filling of the Oslo Graben (Olaussen et al., 1994).                           signature.
+    As noted earlier, localized subsidence and episodic                           The problem involves an analysis in at least three
+fault movements lead to variable rates of rotation                            stages. Firstly, we have to look at well-constrained rift
+across individual fault blocks. Superimposed on the                           successions, usually from outcrops or well data, and
+general tectonic subsidence, this may lead to complex                         search for a recognizable lithological facies signature.
+depositional geometries (Figure 5). This has been                             Secondly, it is necessary to test whether the studied
+demonstrated by interpretations of the upper Jurassic                         signature is representative for the whole three-
+infill across the Oseberg Field (Ravnaas and Bondevik,                        dimensional lithosome or only of that part of the infill
+unpublished data) (Figure 9). Several rotational                              derived from a particular catchment area, such as the
+maxima during the late Bathonian, early Oxfordian and                         footwall or hanging wall. As a third step, the various
+possibly early Kimmeridgian led to the deposition of                          lithological components within the architectural unit
+wedge-shaped units downflank in hanging wall                                  need to be interpreted and correlated against rotational
+positions, in response to footwall crestal uplift and                         events and rates within the syn-rift interval.
+erosion. Interbedded tabular units were deposited                                 Only the first and parts of the second aspect of this
+during periods of general tectonic subsidence and                             problem have been given a systematic treatment. In the
+minor rotation.                                                               late Jurassic sub-basins of the northern North Sea there
+                                                                              are two architectural patterns that emerge in the syn-
+  Syn-rift architectural model. Considerable effort                           rift sediments. They both occur mainly in hanging wall
+has been put into recognizing the architectural signa-                        infill. In one, the syn-rift unit consists of basal and cap-
+ture of the syn-rift infill. The problem has been                             ping packages of sandstones, but with intervening
+reviewed by Prosser (1993), who emphasizes that the                           shales (Sinclair and Riley, 1995). In the other, only
+three-dimensional aspects of the problem has eluded                           basal sandstones and overlying shales are developed
+most workers. Efforts to resolve the problem include                          (Ravnaas and Bondevik, unpublished data) (Figure
+those relying on (single-line) seismic interpretation                         10).
+
+
+       W                                                                                                                                E
+       WEST FLANK                                                  OSEBERG FAULTBLOCK                                         BRAGE HORST
+
+
+
+
+               Periodsof lowtilt-rates       ~     Periodsof hightilt-rates
+
+
+Figure 9 Geoseismic section across the Oseberg Field showing interbedded wedge-shaped and t a b u l a r units as a result o f v a r y i n g
+rotational rates (modified from Ravnaas and Bondevik, unpublished data), See Figure I for location
+
+
+
+
+                                                       Marine and Petroleum Geology 1995 Volume 12 Number 8                           891
+     (1=
+                                                                                                                                                                                                                                                                                                                                       c~
+                                                                                                                                                                                                                                                                                                                                       5'
+          t,                                                                                                                                                                                                                                             ®
+          o~
+          o
+                                                                                                                                                                                @                                                                                                                                               ®o
+          3                                                             Overfilled basin                                                                                                            Starved, underfilled basin                                           Balanced filled basin
+          g.
+                                                                                                                                                                                                                                                                                                                                       3
+          =:        .'.'m.','.'.'.'-'.'.'.'.'.'.'.'.'.m'.'.'.'.'.'.'.
+                        °,'°°°',°                             *."        "       "°"             °       •   °°'.°°'.°                  -       -.*        °°'°',
+                                                                                                                                                                                                                                                                                                                                ¢:}    ,~
+                    ....', ......................:..........
+          ~.      I..,                  . . . . . . . . . . . . . . .                                                            ' . . . . . . .                            I
+          0             .       .   .    .    .   .   .   .     .   .    .   .    .     .    .       .                           (. . . . . . .
+e-
+          0
+          ° I"• ° •" ' 1 '. °. • ." .° ". • .' ° '.' . ." - '.' ' ' ' . . . . • . " ' ' '                         °'''''
+                                                                                                                                 ,° ' .......
+                                                                                                                                        " . .          . . .
+                                                                                                                                                                            I                                                                                                                                                   .6     o,
+                                                                                                                                                                                                                                                                                                                                t-     ¢b
+     ,<
+
+o
+0
+          --..
+                    P-R                                                      RIFT                                                           POST-RIFT
+                                                                                                                                                                                    Iiitll                     RIFT                   POST-RIFT                                 RIFT                       POST-RIFT
+         m                                                                                                                                                                          0
+                                                                                                                                                                                    |
+                                                                                                                                                                                          -~'"n                o"n         •                        ~-
+                                                                                       (Undifferentiated)                                                                           " ~            m                                                              '~m           §'~                          ~-,          m
+         t-                                                                                                                                                                                                    §'~:            (Undifferentiated)
+                                                                                                                                                                                                                                                                     I          ~                            -,~          ,_.          :3"-
+<
+0
+e-
+                                                                                                                                                                                                                                                                                                                                       E'
+         O"
+
+
+
+z
+e-       Q.
+
+3
+
+
+         .=
+
+
+
+         ~          "       '       I. . . . . . . .                                   I . . . .                     1 ' ' ' ' ° ° ' ' ' ' ° ' ' ' ' ' ' '
+         ~"         " ' ' "1" " ° ' ' " " ° " ' " ° " ' "1' " " ' " " " " " '1" ' " ' " • " "1 ° • " • ° • ' • " •
+     ~•             " ,° ' .'1" ,° " ,' ' ." ' ." ' ." " ." ' ," °1" • ." • ." • ." • .' "1" • ,' • ." - ." - I " o                                   ." • ," • •' • .' •                                                                                                                                                       (D     Cb
+     V
+
+                                                                                                                                            B                                                                                                                                                                                   --,.
+     ~
+     ~, ~I " " ; '. " ' " '. " " ' "~' " " ' ." " ' ~ ' " ' " ' " ' " ..' ". ", . . ~                                                                                                                                                                                                                                           -6
+     ¢D
+                                                                                                                                                                                                                                                                                                                                (/)
+     CL
+                                                                                                                                                                                                              RIFT                         POST-RIFT         "o                  RIFT                          POST-RIFT        (/)
+                    P-R                                                      RIFT                                                           POST-RIFT
+     ¢3                                      Pulse 1                                        Pulse 2                        Pulse 3                                                                                                                           o      Pulse 1           Pulse 2    Pulse 3
+      -1
+                                                                                                                                                                                                                                                             =
+                                                                                                                                                                                                               I           I                                 -n                                    31   09         ITII
+                                                                                                                                                                                                       (/I     0
+                                                                                      (Undifferentiated)                                                                                                       =~      ~   ~     (Undifferentiated)
+                                                                                                                                                                                                                                                                                                             i~-~l
+     ==                                                                                                                                                                                           (Rotational rates)                                                      (Rotational rates)
+     ==
+                           Tectonostratigraphy and sedimentary architecture of rift basins: A. NOttvedt et al.
+
+   The first pattern, consistent with the model of            (Figures 4 and 10; late rift/early post-rift).
+Prosser (1993), typically contains turbiditic sandstones         The three-fold architecture probably results from an
+in the basal part of the unit, sometimes with shallow         overall balance between subsidence and sediment input
+marine or even fluvial sandstones up-dip on the hanging       (Figure IOA), whereas the two-fold architecture, with
+wall. The upper sandstones are usually shallow marine         only basal sandstones, results from sediment starvation
+and even tend to shallow upwards into coastal plain           and underfilling of the basin (Figure lOB). In cases of
+deposits if the sediment supply is sufficient. Within this    multiple rifting, packages of repeated, progradational
+pattern the facies will vary from the deeper to the           sandstone units may develop. They are deposited
+shallower reaches of the hanging wall, but the diag-          during periods of low tilt rates and are separated by
+nostic feature is the overall transgressive nature of the     shales reflecting the generation of excess accommo-
+lower package and the overall regressive nature of the        dation space during rotational maxima (Figure IOA).
+upper part of the infill. Examples of this type of archi-        Very high rates of sediment supply may be expected
+tecture are illustrated in the main rift units of the Stat-   to cause overfilling of the basin. This is a result of new
+fjord North and Gyda Fields (Partington et al., 1993),        accommodation space being continuously filled,
+as well as from the Mj~lner Field in the southern North       regardless of the rates of subsidence and rotation,
+Sea (S~derstr~m et al., 1992).                                causing coarse clastic sediments to spill over into
+   The second pattern contains basal sandstones,              neighbouring half-graben. Overfilling of basins should
+commonly high-density turbidites, which show a                lead to a homogeneous architecture (one-fold) of
+deepening upward trend into basinal shales. The               stacked and amalgamated sandstones (Figure IOC).
+transgressive trend in the infill therefore dominates,        However, we do not know of any good examples of
+with the shallow marine systems barely able to pro-           overfilling in the northern North Sea.
+grade out at a late stage. This type of deepening and            On a large scale, fault block compartmentalization
+overall upward fining succession developed in hanging         and the formation of sub-basins, as well as increased
+wall successions has been documented by Faerseth et al.       subsidence rates towards the rift axis, commonly lead
+ (1995) from the Visund fault block and by Ravnaas            to trapping of the coarsest clastic sediments closest to
+ and Bondevik (unpublished data) from the Oseberg-            the rift margins. This is particularly the case for marine
+ Brage infill. Both of these examples are from marine         rift systems and suggests that during the evolving rift
+ half-grabens which are near the central or axial zones of    stage, a tendency towards overfilling close to the
+ the northern North Sea rift complex, far from the main       margins and underfilling in the rift axis may be
+ hinterland areas.                                            expected.
+    Successions which are footwall derived have been             This scenario seems reasonable, but is probably
+ well documented from the East Greenland syn-rift             oversimplified. Indications of this come from modelling
+ basins (Surlyk, 1984; Surlyk et al., 1993), from the         results. Roberts et al. (1993) have suggested that during
+ South Viking Graben (Frostick and Steel, 1993) and           intervals of increased extension and faulting rates there
+ from the Inner Moray Firth (Theriault and Steel, 1995).      may be an increased tendency for shoreline regression,
+ These successions tend to show a series of stacked           because of greater footwall uplift rates and the broader
+ upward fining signatures on scales of tens to hundreds       emergence of crestal drainage areas. They also empha-
+ of metres. The relationship of these signatures with the     size the importance of sediment loading in the half-
+ hanging wall signatures noted earlier is still uncertain.    graben as well as the importance of general tectonic
+    Generally, these patterns are representative of either    subsidence as a factor in the resultant stratigraphic
+ the footwall derived or the hanging wall derived strata.     patterns.
+ Three-dimensional documentation of syn-rift archi-
+ tectures in marine and non-marine settings is not yet           Syn-rift versus early post-rift strata. Theoretically,
+ available.                                                   it is easy to define the boundary between syn-rift and
+                                                              post-rift strata in a half-graben, because it occurs after
+   Tectonic significance of signature. As regards the         the end of faulting and a change in the tilting of fault
+correlation of two- (sandstone-shale) or three-fold           blocks (Figure 6). However, basins which have suffered
+(sandstone-shale-sandstone) lithosome architecture            some degree of sediment starvation are usually
+with the succession of rotational events and rates, this      characterized by remnant topography at this stage, and
+also is difficult. There is a general belief that basal       the early post-rift strata will therefore also display
+sandstones represent rift initiation with low tilt rates      wedge-shaped geometries. The main criterion that can
+and rapid emptying of weathered detritus from catch-          be used is the divergence of syn-rift strata against the
+ment areas (Figures 4 and 10; rift initiation) and that       active footwall, in contrast with the parallel build-up
+the shale-rich intervals represent the climax of rifting      and onlap of post-rift strata against this footwall after
+(Prosser, 1993) (Figures 4 and 10; rift climax). This is      the end of movement, as noted in the example from the
+because high rates of subsidence and rotation create          Brent Field (Figure 7). An additional important
+space faster than it can be infiUed and coarse sediments      feature, common to half-grabens in the northern North
+are trapped and stored nearer to the fault scarps. The        Sea, is the draping of crestal areas of tilted fault blocks
+upper sandstones are believed to represent a time of          by fine-grained strata (Draupne Formation) during the
+reducing subsidence and rotation rates at the end of the      last phases of the rift and early post-rift stages (Cart-
+active stretching phase. At this point, transverse            wright, 1987; Prosser, 1993).
+drainage systems become better established and
+shallow marine systems can prograde out across the            Syn-rift unconformity
+basin leading to potential infilling of the sub-basins to     The syn-rift unconformity describes the erosion surface
+sea level (see Prosser, 1993; Sinclair and Riley, 1995)       that bevels fault blocks during continental rifting
+
+
+
+                                                Marine and Petroleum Geology 1995 Volume 12 Number 8                893
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+ (Figures 4 and 5). It develops locally over individual       Break-up unconformity
+ fault blocks because of footwall uplift and lithospheric     In many rifted passive margins a regional separation or
+ unloading by extension (Kusznir et al., 1991; Ziegler,       break-up unconformity is developed during the final
+ 1992). The syn-rift unconformity separates the rift from     rifting stages, generally before crustal separation. It
+ the following post-rift stage and, with the exception of     develops in response to thermal uplift caused by the
+ the faulted terrain, it is the most pronounced feature of    diapiric rise of melts and upward displacement of the
+ rift basins. The syn-rift unconformity is complex in         asthenosphere-lithosphere boundary exceeding iso-
+nature and generally discontinuous within a rift basin.       static subsidence (Kusznir and Ziegler, 1992; Ziegler,
+It is best developed on rift shoulders and crests of          1992). This unconformity may overprint and cut below
+rotated fault blocks, where it is likely to be expressed as   the syn-rift unconformity and has the potential for
+one single unconformity. In deeper graben and down-           bevelling much of the previously deposited syn-rift
+flank hanging wall areas this single surface may feather      strata. Depending on the nature of lithospheric ex-
+into several separate unconformity strands in response        tension, whether pure, simple or delaminated shear, it
+to stepwise rotation and related subsidence/uplift of         may attain different signatures. In the case of pure
+fault blocks as well as to eustatic sea-level variatons       shear, the unconformity will normally affect the entire
+(Figure 5). This means that the erosion and formation         area of extended upper crust. For areas undergoing
+of the syn-rift unconformity may locally span anything        simple or delaminated shear, however, thermal uplift
+from a few tens of thousands of years to the entire           and subsequent break-up unconformity development
+length of the rift stage. Moreover, as local rift-created     may be asymmetrical to the rift structure. In such
+relief may be preserved at the end of active stretching,      circumstances the unconformity may affect and erode
+the development of the syn-rift unconformity may              only parts of the syn-rift fault block terrain.
+continue into the post-rift stage. The resultant un-
+conformity will of course depend on depth of erosion at       Post-rift stage
+the unconformity surface.
+                                                              Lithospheric extension and rift basin formation are
+    Figure 11 shows an example of the commonly termed         followed by an asymptotically decreasing post-rift sub-
+'base Cretaceous' (so-called 'late Cimmerian') un-
+                                                              sidence, caused by thermal contraction and relaxation
+conformity across the Snorre Field in the northern
+North Sea. This is not a regional unconformity and not        of the heated crust. Post-rift subsidence in passive
+                                                              margins in many parts of the world have consequently
+precisely base Cretaceous in age, but rather a complex
+                                                              been explained by models of thermal subsidence. Such
+and composite surface. It is laterally correlative to a
+                                                              thermal subsidence typically spans about 100 Ma
+prominent surface of marine onlap downflanks in many
+                                                              before thermal equilibrium is reached.
+half-grabens and along the rift axis, reflecting a major
+                                                                 The post-rift stage may be subdivided into an early
+sediment supply minimum and condensation in the
+                                                              post-rift sub-stage of sediment infilling of the remnant
+latest Jurassic (Rawson and Riley, 1982; Milton, 1993).
+                                                              basin topography inherited from the active stretching
+The crestal part of the Snorre fault block was exposed
+to subaerial and subaqueous erosion during much of            stage and a late post-rift sub-stage of draping of the
+                                                              entire graben system, including the platforms (Figure4).
+the late Jurassic and as much as 1 km of sediments has
+                                                              The transition from active stretching to thermal cooling
+been removed in the northern part of the block (Solli,
+                                                              and sediment loading should, however, lead to a trace-
+1995). Hanging wall erosion was typically smooth and
+                                                              able change in the rotation of strata from being directed
+sub-parallel to bedding, whereas footwall erosion took
+                                                              towards the platform to be directed towards the basin
+place in the form of footwall scarp failures and retreat.
+                                                              axis (Figure 6B). This is because the effect of thermal
+This suggests that there was a considerable relief on the
+                                                              contraction is most pronounced where the thinning,
+fault and strong underfilling of the adjacent basin to the
+                                                              and, accordingly, heat input, was most extensive, i.e.
+east of the Snorre fault block during rifting. Other fault
+                                                              along the graben axis. This effect is further exaggerated
+blocks in the North Sea, such as the Oseberg fault block
+                                                              by sediment loading and compaction of the post-rift
+(Figure 9), have rounded or flat tops resulting from          sediments, which also tend to be greatest in the basin
+erosion and peneplanation down to sea level (Ravnaas
+and Bondevik, unpublished data).                              centre. The importance and relative influence of
+                                                              thermal subsidence, tectonics, compaction and super-
+    The erosion and redeposition of sand, as well as the
+                                                              imposed intra-plate stresses depend to a large extent on
+accumulation of organic-rich mudstones, are intimately
+                                                              the flexural rigidity of the crust. The depth of the
+related to the development of the syn-rift unconformity.
+                                                              necking level during extension determines if the rift
+Depending on the latitude, climate and extent of
+                                                              system as a whole goes through either an upward or
+footwall uplift, the fault block crests may suffer any-
+                                                              downward state of flexuring, resulting in entirely
+thing from alpine glacial to tropical storm wave
+                                                              different subsidence patterns (Cloetingh and Kooi,
+erosion. Subaqueous erosion by marine currents and
+                                                              1992; Kooi and Cloetingh, 1992). Eustacy becomes
+fault scarp failure is likewise important. Rates of fault
+                                                              increasingly important relative to tectonics during the
+block rotation influence to what extent sand is
+                                                              decay of the post-rift stage.
+delivered and trapped in more crestal postions on the
+fault blocks, in coastal belts and deltaic aprons, or            Geometry of post-rift basins. Post-rift thermal
+shifted down footwalls and hanging walls to the faster        subsidence in passive margins typically occurs over a
+subsiding, deeper parts of the basins. Segmented basin        wider area than the original syn-rift subsidence,
+topographies and fast subsidence rates may lead to            resulting in an elongated, saucer-shaped basin
+starved, anoxic basins, favouring the accumulation of         morphology and onlapping of post-rift strata against
+organic-rich shales.                                          the basin margins as well as onto remnant syn-rift
+                                                              topography (White and MeKenzie, 1988). In many
+
+
+
+894   Marine and Petroleum Geology 1995 Volume 12 Number 8
+                                                  Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+intracontinental rift systems, however, post-rift thermal                        marking the transition from the early to the late post-
+subsidence also seems to be accommodated along pre-                              rift sub-stages. On the other hand, middle Triassic sub-
+existing fault zones, preferentially along the graben                            sidence on the Horda Platform (Figure 8) involved
+margin (Gabrielsen, 1986). Here, rift shoulders persist                          continued fault block rotation and should be assigned,
+as relatively elevated features on either side of the                            at least partly, to a late rift stage• This suggests that
+basin and, consequently, the fundamental architectural                           there may have been little, if any, topography left at the
+element is a graben. The reactivation of pre-existing                            onset of the post-rift stage. Consequently, an early
+steep faults along the graben margins may be expected                            post-rift sub-stage following (?)Permo-Triassic rifting
+in this stage, as well as the initiation of shallow listric                      may not be developed on the Horda Platform. This
+faults in younger sediments above the older master                               may indicate a state of overfilling of these half-grabens,
+faults (Figure 11).                                                              in contrast with the strong underfilling noted in the late
+   The major bounding faults of the northern North Sea                           Jurassic across the Brent Field.
+palaeorift system, the East Shetland and Oygarden                                   The Lomre-Uer Terrace (Figure 12) is another
+Fault Zones, are examples of such long-lived fault                               example of reactivation of older master faults during
+zones. They have been active during the proto-, main                             overall post-rift subsidence. Subsidence along the fault
+and post-rift stages of both the (?)Permo-Triassic and                           bounding the Uer Terrace to the south-east and on
+late Jurassic rift events (Figures 7 and 8), partly as                           some of the smaller faults persisted until the Ceno-
+frontal rift shoulder faults during (?)Permo-Triassic                            manian and small wedge-shaped depositional units
+stretching. In addition, the Viking Graben master                                occur close to the fault scarps, suggesting that there
+faults bounding the East Shetland Platform to the west                           may have been some relief on them. This therefore
+and the Horda Platform to the east acted as frontal                              corresponds to the early post-rift sub-stage, although
+shoulder faults during late Jurassic-early Cretaceous                            the tectonostratigraphic subdivision made earlier
+rifting. Both stretching events caused the development                           (Figure 4) seems inappropriate in this particular case.
+of positive and emergent rift shoulders•                                         Renewed movements along the master fault and north-
+   The geoseismic sections across the Brent Field                                westward tilting of the sub-intra-Turonian succession
+(Figure 7) and the Horda Platform (Figure 8) show                                suggests a major episode of flank uplift in the Turonian.
+contrasting geometries with respect to the early post-                           This was followed by onlap and draping of upper
+rift evolution. Middle Oxfordian and younger strata                              Cretaceous strata against the Turonian surface, reflect-
+west of the Brent Field onlap and drape the underlying                           ing the passage to late stage post-rift conditions.
+rotated fault block topography with no signs of active                              The early Cretaceous post-rift phase in the northern
+faulting (Figure 7). By the end of Kimmeridgian-                                 North Sea was characterized by slow subsidence, with
+Ryazanian all remnant main rift relief was filled in,                            much of the sedimentation accommodated by the
+
+
+                 W
+                 SNORRE FAULT BLOCK
+
+                 TOP PALAEOCENE
+
+
+          2.0-
+
+
+
+
+                                                                                                  \
+                                                                                                      \
+
+                     : • O.'t'*RI.~SSI(::; ' .'
+
+
+          3.0-
+
+
+
+
+          4.0-
+
+
+                      0                                2km
+                                                       i
+
+
+
+Figure 11 Geoseismic cross-section across the east margin of the Snorre fault block, showing details of fault block erosion (modified
+from Gabrielsen, 1986; his plate 4.5). Note the significant fault scarp retreat and the presence of a young failure plane and slightly
+rotated scarp segment. Note also the development of shallow listric faults in the post-rift succession above the old master fault.
+See Figure I for location
+
+
+
+
+                                                                   Marine and Petroleum Geology 1995 Volume 12 Number 8                895
+ Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et a l.
+
+ infilling of previous rift bathymetry. At this time the                   post-rift subsidence are generally much more simple
+ shoulders of the rift were supported (Joy, 1992).                         than those produced during active stretching. There is a
+During latest Cretaceous and Tertiary the shoulders                        general perception that post-rift subsidence leads to
+lost their support, producing an elongated, saucer-                        deepening of the basin and an increase in accommo-
+shaped basin and a 'steer's head' cross-sectional basin                    dation space, resulting in the accumulation of mainly
+shape (Figure 13). However, Cenozoic subsidence is                         fine-grained sediments. However, the upper sandstones
+only partly a result of late stage post-rift thermal sub-                  of the three-fold main rift architecture described earlier
+sidence following the late Jurassic-early Cretaceous                       relate to a large extent to reducing subsidence and
+stretching. As has been argued by Joy (1992), the                          filling of remnant main rift topography during the early
+Palaeocene subsidence increase noted earlier corre-                        post-rift sub-stage (Prosser, 1993). If a late rift sub-
+sponds in time to the opening of the Norwegian-                            stage is developed, progradation of sandstones may
+Greenland Sea and to a change from intra-continental                       initiate during this phase (Ravnaas and Bondevik,
+to passive margin post-rift subsidence. A renewed                          unpublished data). This is particularly well illustrated
+increase in subsidence is evident in the late Neogene,                     in the northern North Sea, where fault scarp derived
+possibly as a result of compressional intraplate stresses                  coarse clastic sediments and basin floor turbidites
+(Kooi et al., 1991). In addition, uplift events can be                     occurred frequently throughout the late Jurassic
+seen on the eastern Horda Platform during late                             (Partington et al., 1993), both during and after the
+Eocene-early Oligocene and in the Miocene (Figure                          rotational maxima in the Oxfordian (Rattey and
+13). Consequently, Tertiary (late post-rift) subsidence in                 Hayward, 1993). The stacking pattern during the early
+the northern North Sea was non-uniform and                                 post-rift sub-stage is likely to be overall regressive-
+commonly interrupted by intrabasin and basin flank                         transgressive.
+tectonics, probably related to tectonic processes occur-                      Because maximum subsidence occur along the rift
+ring along the neighbouring North Atlantic passive                         axis, post-rift successions tend to have a backstepping
+margin. The northern North Sea Tertiary evolution                          character. This is accentuated by a common decrease in
+therefore serves as an example of a complex late post-                     sediment input as drainage basins become eroded and
+rift history governed by multiple tectonic processes.                      lose their significance. The gradual passage from
+                                                                           continental coarse clastic sediments into shallow
+   Post-rift architectural models and tectonic                             marine shales in the middle Triassic-lower Jurassic
+significance. Sediment architectures resulting from                        post-rift succession in the northern North Sea serves as
+
+
+               WNW                                                                                                                  ESE
+       2.0
+                                                            LOMRETERRACE                                          UER TERRACE
+
+
+
+                                                                                              J
+                                                                                                  Y
+                                                                                          J
+                                                                              J
+
+                    J
+
+
+
+
+                                                        ~    J
+
+
+
+
+       2.5-
+ F--
+
+
+                J
+
+
+
+
+                                                                                                              0              5kin
+                                                                                                                                i
+
+
+       3.0
+
+Figure 12 Geoseismic cross-section across the Lomre-Uer Terraces, showing the Cretaceous post-rift evolution (with the courtesy of I.
+Johnsrud and F. Livbjerg, Norsk Hydro). See Figure I for location
+
+
+
+
+896           M a r i n e and Petroleum G e o l o g y 1995 V o l u m e 12 N u m b e r 8
+                               Tectonostratigraphy and sedimentary architecture of rift basins: A. N~ttvedt et al.
+
+               W
+                                                     HORDA PLATFORM
+
+                                                                                      SEAFLOOR
+
+        0.5        ~   ~                    ~                                      BAsEO.Aret~__
+                                                                                                                   -
+
+
+
+
+        1.0
+
+
+
+
+        1.5-
+
+
+
+
+                                                                                                  0            5           10km
+        2.0-
+
+Figure 13 Geoseismic cross-section across the Horda Platform, illustrating the Tertiary post-rift e v o l u t i o n (with the courtesy of
+P. van Veen and L. J. Skjold, Norsk Hydro). See Figure 1 for location
+
+
+a good example of such a model. A similar evolution is                 sized the influence of previous stretching phases on
+seen in the Cretaceous succession, although it repre-                  later structuring and subsidence (Badtey et al., 1988;
+sents the filling of an overdeepended and strongly                     Roberts et al., 1995). It is of particular importance to
+underfilled rift basin. In case of a sea level highstand, as           acknowledge that excess heat in a lithosphere that has
+during the late Cretaceous, low-relief drainage areas                  not reached thermal equilibrium after earlier events
+may be completely transgressed and the clastic supply                  may strongly influence the subsidence history of later
+shut off.                                                              events (Giltner, 1987).
+    As thermal equilibrium is approached, reducing                        Some investigations strongly suggest that the pre-
+subsidence rates related dominantly to compaction and                  Jurassic structural events need to be taken into account
+sediment loading may cause the renewed progradation                    in modelling the northern North Sea and it is suggested
+of coarser clastic sediments and allow the progressive                 that the (?)Permo-Triassic extension even exceeded the
+filling and shallowing of the basin during the latest post-            late Jurassic-early Cretaceous event in magnitude
+rift stage. Thermal equilibrium following the (?)Permo-                (Roberts et al., 1995). There is also a clear tendency for
+Triassic rifting event was probably never achieved                     the latter event to have been concentrated to a much
+before the onset of late Jurassic stretching and the                   narrower crustal segment than the previous event.
+latest post-rift stage is therefore not likely to be                      In the multi-stage rift model successive episodes of
+recorded in the sedimentary succession.                                crustal thinning lead to a gradual lowering of the
+    A return to clastic sedimentation is seen in the                   average crustal surface relief and potentially to sub-
+Tertiary post-rift filling of the North Sea, on the other              sidence below sea level. The northern North Sea
+hand, but it clearly does not fit such a simple model. As              clearly reflects such a development (Figure 2), passing
+noted earlier, the Tertiary subsidence is non-uniform                  from intramontane basinal settings during Devonian
+and to some extent related to external tectonics and the               extension to broad low relief alluvial plain settings
+early Tertiary progradation of coarse clastic sediments                during (?)Permo-Triassic rifting, and finally into
+into the northern North Sea, as an example, is a result                marginal and deep marine conditions during late
+of the progressive uplift and eastward tilting of the                  Jurassic-Cretaceous rifting (Ziegler, 1982; 1988).
+Scottish Highlands and East Shetland Platform during                   During this process the crust had been thinned to
+crustal separation and opening of the North Atlantic                   probably close to 12-14 km along the Viking Graben
+(Galloway et al., 1993).                                               axis.
+
+Effects of multi-stage rifting                                         Conclusions
+Several studies in the northern North Sea have empha-                  We have described and classified rift systems using a
+
+
+
+                                                     Marine and Petroleum Geology 1995 Volume 12 Number 8                           897
+Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt                                                             e t al.
+
+three-stage graben model (Figure 14). In many rifts,                                                  fault blocks are eroded during the rift stage. The
+active stretching is preceded by a proto-rift stage, which                                            resultant erosional surface, the syn-rift unconformity,
+is a tectonically distinct part of the rift cycle. It is                                              may accordingly be a composite surface reflecting the
+usually characterized by minor vertical movements on                                                  history of individual fault blocks.
+generally steep crustal fractures, leading to broad,                                                     Along many rifted passive margins a separate un-
+flexural subsidence in a saucer-shaped basin or, in the                                               conformity is developed when thermal uplift exceeds
+case of mantle plume growth, to broad domal uplift of                                                 isostatic subsidence during the final rifting stages,
+the future rift zone. Because subsidence is not related                                               generally before and during crustal separation. This is
+to fault block rotation, proto-rift units have tabular                                                here termed the break-up unconformity.
+depositional architectures. During this early subsidence                                                 The post-rift stage can be subdivided into an early
+proto-rift stage deposits are more or less conformably                                                post-rift sub-stage of sediment infilling of the basin
+overlain by syn-rift sediments, interrupted only by local                                             topography inherited from the active stretching stage
+disconformities related to, for example, sea-level falls.                                             and a late post-rift sub-stage of draping of the entire
+In cases where the proto-rift stage is associated with                                                graben system, including the platforms. Where rift
+doming, however, a significant regional unconformity,                                                 climax is followed directly by the early post-rift sub-
+the proto-rift unconformity, develops.                                                                stage, the upper sandstones of the above-noted syn-rift
+   During the active stretching or main rift stage,                                                   architectures will commonly represent the early post-
+rotation of the fault blocks away from the rift axis                                                  rift sub-stage. However, if a late rift stage with reduced
+prevails. The rift stage is characterized by episodic fault                                           rotational rates is present they may relate partly to this
+movements leading to variations in tilt rates and the                                                 stage. The transition from active stretching to thermal
+generation of accommodation space. In some rifts this                                                 cooling and sediment loading predicts a traceable
+allows a subdivision of the rift stage into a rift initiation                                         change in the rotation of strata from being directed
+sub-stage, with low tilt rates, followed by a rift climax                                             towards the platform to being directed towards the
+sub-stage, with maximum tilt rates. A late rift sub-stage                                             basin axis.
+with reduced tilt rates may be present where rift                                                        It is emphasized that the three-stage model for rift
+systems become dormant and stretching terminates                                                      evolution discussed here is an idealized model that is
+gradually instead of abruptly. Syn-rift sediment archi-                                               not compliant with all parts of all rift systems. As has
+tectures vary according to their position on the foot- or                                             been demonstrated from examples in the northern
+hanging walls of rotated fault blocks, but gross one-,                                                North Sea, different rift segments commonly lack one
+three- and two-fold (sand, sand-shale-sand and sand-                                                  or more of the referred sub-stages as a result of
+shale) architectures are suggested to result, depending                                               localized and non-uniform subsidence.
+on whether the basin is overfilled, is in balance (sedi-
+ment supply equals sedimentation), except during rift
+climax, or is underfilled. These can also be con-
+                                                                                                      Acknowledgements
+temporary states in successive sub-basins approaching                                                 We acknowledge our fellow colleagues and research
+the rift axis.                                                                                        students in the Joule II: Integrated Basin Studies (IBS)
+   Commonly, the uplifted footwall crests of rotated                                                  project, particularly Bjorn Tore Larsen, Jan Inge
+
+
+
+
+TECTONOSTRATIGRAPHIC
+                                                                                RIFT
+                                                                                                          R,FT
+                                                                                                          RIFT
+                                                                                                                                     I                 POST-RIFT
+
+
+                                                                                INITIATION                CLIMAX
+STAGES IN RIFT BASIN
+EVOLUTION
+                                                                                   Pulse 1            Pulse 2         Pulse 3
+(THREE-STAGE MODEL)                                                                                                                      EARLY                   LATE
+                                                            PROTO-
+                                                            RIFT                ....
+                                                                                Z~
+                                                                                  i
+
+                                                                                ___,
+                                                                                          i
+                                                                                          ~
+                                                                                          ,z
+                                                                                                 Zf
+                                                                                                 _o,
+                                                                                                      r         i
+
+                                                                                                                ,=
+                                                                                                                            1-1i~ I      POS~RIFT                POST-RIFT
+
+
+
+
+                                                                                  '<      '~     ~'<            '~-     o       ~|
+                                                                                                 -'°            '
+
+                                                                                ---,
+                                                                                _~,, o~-~~,,
+                                                                                          , ~~ ~,
+                                                                                               --_; o,~~~,,
+                                                                                                         , ~ -~
+                                                                                                      i
+                                                                                                      I
+
+
+
+
+MAIN UNCONFORMITIES
+                                                                     PROTO-RIFT                                         SYN-RIFT             BREAK-UP
+                                                                     UNCONFORMITY                                       UNCONFORMITY         UNCONFORMITY
+
+
+
+                                                                                   Away from rift axis
+
+GROSS STRATAL
+ROTATION
+
+                                                     Towards rift axis                         (Rotational maxima)                                  Towards rift axis
+
+
+Figure 14 S u m m a r y o f t h e t h r e e - s t a g e g r a b e n m o d e l
+
+
+
+
+898      Marine and Petroleum Geology 1995 Volume 12 Number 8
+                               Tectonostratigraphy and sedimentary architecture of rift basins: A. N#ttvedt et al.
+
+Faleide and Rodmar Ravnaas, for stimulating co-                        Faerseth, R. B., Gabrielsen, R. H. and Hurich, C. A. The influence
+                                                                            of basement in structuring of the North Sea Basin offshore
+operation and discussions. The Norsk Hydro drafting                         south-west Norway Norsk GeoL Tidsskr., in press
+department produced the illustrations. We also thank                   Faerseth, R. B., SjOblom, T. S., Steel, R. J., Liljedahl, T., Sauar,
+John Korstg&rd, Lars N0rgaard Jensen and Tony                               B. E. and Tjelland, T. Tectonic controls on Bathonian-
+Spencer for critically reviewing the paper. The work                        Volgian syn-rift successions on the Visund Fault Block,
+has been funded by the Research Council of Norway                           northern North Sea. In: Sequence Stratigraphy on the North-
+                                                                            west European Margin (Eds R. J. Steel, V. L. Felt, E. P.
+and Norsk Hydro as part of the Joule II Research                            Johannessen and C. Mathieu), Spec. PubL Norw. Petrol Soc.
+Programme (CEC Contract No. JOU2-CT 92-0110).                               No. 5, 325-346
+IBS Contribution No. JOU-2 CT92 0110.                                  Gabrielsen, R. H. (1986) Structural elements in graben systems
+                                                                            and their influence on hydrocarbon trap types. In: Habitat of
+                                                                            Hydrocarbons on the Norwegian Continental Shelf (Eds
+                                                                            A. M. Spencer etal.), Norwegian Petroleum Society, Graham
+References                                                                  and Trotman, London, 55-60
+Andersen, T., Jamtveit, B., Dewey, J. F. and Swensson, E. (1991)       Gabrielsen, R. H. (1988) Reactivation of faults on the Norwegian
+   Subduction and eduction of continental crust: major                      continental shelf and its implications for earthquake occur-
+   mechanisms during continent-continent collision and oro-                 rence. In: Causes and Effects of Earthquakes at Passive
+   genic extensional collapse, a model based on the south                   Margins and in Areas with Post-glacial Rebound on Both
+   Norwegian Caledonides Terra Nova 3, 303-310                              Sides of the North Atlantic (Eds S. Gregersen and P.
+Badley, M. E., Price, J. D., Rambech Dahl, C. and Agdestein, T.             Basham), Elsevier, Amsterdam, 69-92
+   (1988) The structural evolution of the northern Viking Graben       Gabrielsen, R. H., Faerseth, R. B., Steel, R. J., Idil, S. and KI0vjan,
+   and its bearing upon extensional modes of graben formation               O. S. (1990) Architectural styles of basin fill in the northern
+   J. GeoL Soc. London 145, 455-472                                         Viking Graben. In: Tectonic Evolution of the North Sea Rifts
+Baker, B. H. (1986) Tectonics and volcanism of the southern                 (Eds D. J. Blundell and A. D. Gibbs), Oxford University Press,
+   Kenya Rift Valley and its influence on rift sedimentation. In:           Oxford, 158-179
+   Sedimentation in the African Rifts (Eds L. E. Frostick, R. W.       Gabrielsen, R. H., Steel, R. J. and NOttvedt, A. Subtle traps in
+   Renaut, I. Reid and J. J. Tierclin), Spec, PubL Geol. Soc.               extensional terranes; a model with reference to the North
+   London No. 25, 45-57                                                     Sea Petrol GeoscL 1,223-235
+Baker, B. H., Mohr, P. A. and Williams, L. A. J. (1972) Geology of     Galloway, W. E., Garber, J. L., Xijin Liu and Sloan, B. J. (1993)
+   the eastern rift system of Africa Spec. Pap. GeoL Soc. Am.               Sequence stratigraphic and depositional framework of the
+   No. 136, 67 pp                                                           Cenozoic fill, Central and Northern North Sea Basin. In:
+Barton, P. and Wood, R. (1984) Tectonic evolution of the North              Petroleum Geology of Northwest Europe: Proceedings of the
+   Sea Basin: crustal stretching and subsidence Geophys. J.                 4th Conference (Ed. J. R. Parker), Geological Society,
+   Roy. Astron. Soc. 79, 987-1022                                            London, 317-335
+Beach, A. (1986) A deep seismic reflection profile across the          Gawthorpe, R. L., Fraser, A. J. and Collier, R. E. L. I. (1994)
+   northern North Sea Nature 323, 53-55                                      Sequence stratigraphy in active extensional basins: impli-
+Beach, A., Bird, T. and Gibbs, A. (1987) Extensional tectonics and           cations for the interpretation of ancient basin-fills Mar.
+   crustal structure: deep seismic reflection data from the                  Petrol GeoL 11,642-658
+   northern North Sea Viking Graben. In: Continental Exten-            Gibbs, A. D. (1984) Structural evolution of extensional basin
+   sional Tectonics (Eds M. P. Coward, J. F. Dewey and P. L.                 margins J. GeoL Soc. London 141,609-620
+   Hancock), Spec. PubL Soc. London No. 28, 467-476                    Gibbs, A. D. (1987) Linked tectonics of the northern North Sea
+Bosworth, W. (1985) Geometry of propagating continental rifts                basin. In: Sedimentary Basins and Basin Forming Mecha-
+   Nature 316, 625-627                                                       nisms (Eds C. Beaumont and A. J. Tankard), Can. Soc. Petrol
+Cartwright, J. A. (1987) Transverse structural zones in conti-               GeoL Mere. No. 12, 163-171
+   nental rifts - - an example from the Danish Sector of the           Giltner, J. P. (1987) Application of extensional models to the
+   North Sea. In: Petroleum Geology of Northwest Europe (Eds                 Northern Viking Graben Norsk GeoL Tidssk, 67, 339-352
+   J. Brooks and K. Glennie), Graham and Trotman, London,              Graue, E., Helland-Hansen, W., Johnsen, J. R., LOmo, L.,
+   441-452                                                                   NOttvedt, A., RCnning, K., Ryseth, A. and Steel, R. J. (1987)
+Cloetingh, S. and Kooi, H. (1992) Intraplate stresses and                    Advance and retreat of the Brent delta system, Norwegian
+   dynamical aspects of rifted basins Tectonophysics 215, 167-               North Sea. In: Petroleum Geology of North West Europe:
+    185                                                                      Proceedings of the 3rd Conference (Eds J. Brooks and K. W.
+Cloetingh, S., Lambeck, K. and McQueen, H. (1987) Apparent                   Glennie), Graham and Trotman, London, 915-938
+   sea-level fluctuations and a palaeostress field for the North       Hall, B. D. and White, N. (1994) Origins of anomalous Tertiary
+   Sea region. In: Petroleum Geology of Northwest Europe (Eds                subsidence adjacent to North Atlantic continental margins
+   J. Brooks and K. Glennie), Graham and Trotman, London,                    Mar. Petrol GeoL 11,702-714
+   49 - 57                                                             Harding, T. P. (1984) Graben hydrocarbon occurrences and
+Davison, I., AI-Kadasi, M., AI-Khirbash, S., AI-Subbary, A. K.,              structural styles Am. Assoc. Petrol GeoL Bull. 68, 333-362
+    Baker, J., Blakey, S., Basence, D., Dart, C., Heaton, R.,          Harland, W. B. (1969) Contribution of Spitsbergen to under-
+    McClay, K., Menzies, M., Nichols, G., Owen, L. and Yelland,              standing of the tectonic evolution of the North Atlantic
+   A. (1994) Geological evolution of the south-eastern Red Sea               region. In: North Atlantic, Geology and Continental Drift (Ed.
+    Rift margin, Republic of Yemen Geol. Soc. Am. Bull. 106,                 M. Kay), Am. Assoc. Petrol GeoL Mem. No. 12, 817-851
+    1474-1493                                                          Helland-Hansen, Steel, R. J., Nakayama, K. and Kendall, C. G. St.
+Fossen, H. (1992) The role of extensional tectonics in the                   C. (1990) Review and computer modelling of the Brent Group
+    Caledonides of south Norway J. Struct. GeoL 14, 1033-1046                stratigraphy. In: Deltas: Sites and Traps for Fossil Fuels (Eds
+Frazer, A. J., Nash, D. F., Steele, R. P. and Ebdon, C. C. (1990)            M. K. G. Whateley and K. T. Pickering), Spec. PubL GeoL Soc.
+   A regional assessment of the intra-Carboniferous play of                  London No. 41, 237-252
+    northern England. In: Classic Petroleum Provinces (Ed. J.           Helland-Hansen W., Aston, M., LOmo, L. and Steel, R. J. (1992)
+    Brooks), Spec. PubL GeoL Soc. London No. 50, 417-440                     Advance and retreat of the Brent delta: regent contributions
+Frostick, L. E. and Steel, R. J. (1993) Sedimentation in divergent           to the depositional model. In: Geology of the Brent Group
+    plate-margin basins Spec. PubL Int. Assoc. SedimentoL No.                (Eds A. C. Morton, R. S., Haszeldine, M. R. Giles and S.
+   20, 111-128                                                               Brown), Spec. PubL GeoL Soc. London No, 61, 109-127
+Frostick, L. E., Reid, I., Jarvis, J. and Eardly, H. (1988) Triassic    Ilties, J. H. (1978) Two stage Rhine graben rifting. In: Tectonics
+    sediments of the Inner Moray Firth, Scotland: early rift                 and Geophysics of Continental Rifts (Eds I. B. Ramberg and
+    deposits J. Geol. Soc. London 145, 235-248                               E. R. Neuman), NA TO Adv. Study Inst. Ser. Reidel, Dordrecht,
+Freund, R. and Mercier, A. M. (1976) The formation of rift valleys           63-71
+    and their zig-zag patterns Geol. Mag. 113, 561-568                  Jackson, J. and Leeder, M. R. (1994) Drainage systems and the
+Faerseth, R. B. (1984) Tectonic Map of the Northeast Atlantic,               development of normal faults: an example from Pleasant
+    Norsk Hydro, Oslo                                                        Valley, Nevada J. Struct. GeoL 16, 1041-1059
+
+
+
+
+                                                       Marine and Petroleum Geology 1995 Volume                     12 N u m b e r   8   899
+ Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+Johannessen, E. P., Mjes, R., Renshaw, D., Dalland, A. and                      tectonic development. In: Pangea: Global Environments and
+     Jacobsen, T. Northern limit of the 'Brent delta' at the Tampen             Resources (Ed. A. M. Embry), Can. Soc. Petrol Geol. Mem.
+     Spur - - a sequence stratigraphic approach for sandstone                   No. 17, 175-197
+     prediction. In: Sequence Stratigraphy on the Northwest                Partington, M. A., Mitchener, B. C., Milton, N. J. and Fraser, A. J.
+     European Margin (Eds R. J. Steel, V. L. Felt, E. P.                        (1993) Genetic sequence stratigraphy for the North Sea Late
+     Johannessen and C. Mathieu), Spec. PubL Norw. Petrol                      Jurassic and Early Cretaceous: distribution and prediction of
+     Soc., No. 5, 213-256                                                       Kimmeridgian-Late Ryazanian reservoirs in the North Sea
+Johnson, D. (1930) Geomorphologic aspects of rift valleys 15th                  and adjacent areas. In: Petroleum Geology of Northwest
+    International Geological Congress Proceedings, 2 354-373                   Europe: Proceedings of the 4th Conference (Ed. J. R. Parker),
+Joy, A. M. (1992) Right place, wrong time: anomalous post-rift                  Geological Society, London, 347-370
+     subsidence in sedimentary basins around the North Atlantic            Platt, N. H. (1995) Structure and tectonics of the northern North
+     Ocean. In: Magmatism and the Causes of Continental Break-                 Sea: new insights from deep penetration regional seismic
+     up (Eds B. C. Storey, T. Alabaster and R. J. Pankhurst), Spec.            data. In: Hydrocarbon Habitat in Rift Basins (Ed. J. J.
+    PubL GeoL Soc. London, No. 68, 387-393                                      Lambiase), Spec. Pub/. J, GeoL Soc. London No. 80, 103-113
+Kinsman, D. J. J. (1973) Rift valley basins and sedimentary                Prosser, S. (1993) Rift-related linked depositional systems and
+     history of trailing continental margins. In: Petroleum and                their seismic expression. In: Tectonics and Seismic Sequence
+     Global Tectonics; Hedberg Volume (Eds A. G. Fischer and S.                Stratigraphy (Eds G. D. Williams and A. Dobb), Spec. Pub/.
+    Judson), Princeton University Press, 83-126                                GeoL Soc, London No, 71, 35-66
+Klemperer, S. L. (1988) Crustal thinning and nature of extension           Ramberg, I. B. and Larsen, B. T. (1978) Tectonomagmatic evolu-
+     in the northern North Sea from deep seismic reflection pro-               tion. In: The Oslo Palaeorift: a Review and Guide to Excur-
+    filing Tectonics 7, 803-821                                                sions (Eds J. A. Dons and B. T. Larsen), Norg. GeoL Unders.
+Kooi, H. and Cloetingh, S. (1992) Lithospheric necking and                     337, 55-73
+    regional isostasy at extensional basins: part 2. Stress-               Rattey, R. P., and Hayward, A. B. (1993) Sequence stratigraphy
+    induced vertical motions and relative sea-level changes J.                 of a failed rift system: the Middle Jurassic to Early Cretaceous
+    Geophys. Res. 97, 17 523-17 592                                            basin evolution of the Central and Northern North Sea. In:
+Kooi, H., Hettema, M. and Cloetingh, S. (1991) Lithospheric                    Petroleum Geology of Northwest Europe: Proceedings of the
+    dynamics and the rapid Pliocene/Quaternary subsidence                      4th Conference (Ed. J. R. Parker), Geologial Society, London,
+    phase in the southern North Sea basin Tectonophysics 192,                  215-249
+    245-259                                                               Rawson, P. F. and Riley, L. A. (1982) Latest Jurassic-Early
+Kusznir, N. J. and Ziegler, P. A. (1992) The mechanics of conti-               Cretaceous events and the 'Late Cimmerian unconformity' in
+    nental extension and sedimentary basin formation: a simple-                the North Sea area Am. Assoc. Petrol GeoL Bull. 60, 2628-
+    shear/pure-shear flexural cantilever model Tectonophysics                  2648
+    215, 117-131                                                          Roberts, A. M. and Yielding, G. (1991) Deformation around
+Kusznir, N. J., Marsden, G. and Egan, S. S. (1991) A flexural                  basin-margin faults in the North Sea/Norwegian rift. In: The
+    cantilever simple-shear/pure-shear model of continental                    Geometry of Normal Faults (Eds A. M. Roberts, G. Yielding
+    lithosphere extension: application to the Jeanne d'Arc Basin               and B. Freeman), Spec. Publ. GeoL Soc. London, No. 56, 61-
+    and Viking Graben. In: The Geometry of Normal Faults (Eds                  78
+    A. M. Roberts, G. Yielding and B. Freeman), Spec. PubL GeoL           Roberts, A. M., Yielding, G., Kusznir, N. J., Walker, I. and Dorn-
+    Soc, London No, 56, 41-60                                                  Lopez, D. (1993) Mesozoic extension in the North Sea: con-
+Leeder, M. R. and Gawthorpe, R. L. (1987) Sedimentary models                   straints from flexural backstripping, forward modelling and
+    for extensional tilt-block/half-graben basins. In: Continental            fault populations. In: Petroleum Geology of Northwest
+    Extensional Tectonics (Eds M. P. Coward, J. F. Dewey and                  Europe: Proceedings of the 4th Conference (Ed. J. R. Parker),
+    P. L. Hancock), Spec. PubL GeoL Soc. London No. 28, 139-                   Geological Society, London, 1123-1136
+    152                                                                   Roberts, A. M., Yielding, G., Kusznir, N. J., Walker, I. M. and
+Leeder, M. R. and Jackson, J. A. (1993) The interaction between                Dorn-Lopez, D. (1995) Quantitative analysis of Triassic ex-
+    normal faulting and drainage in active extensional basins,                tension in the northern Viking Graben J. GeoL Soc. London
+    with examples from the western United States and central                  152, 15-26
+    Greece Basin Res. 5, 79-102                                           Robson, D. A. (1971) The structure of the Gulf of Suez (Clysmic)
+Lister, G. S., Etheridge, M. A. and Symonds, P. A. (1986)                     rift, with special reference to the eastern side J, GeoL Soc.
+    Detachment faulting and the evolution of passive continental              London 127, 247-276
+    margins Geology 14, 246-250                                           Rosendahl, B. R. (1987) Architecture of continental rifts with
+Lervik, K. S., Spencer, A. M. and Warrington, G. (1989) Outline of            special reference to East Africa Annu. Rev. Earth Planet. Sci.
+   Triassic stratigraphy and structure in central and northern                15, 445- 503
+    North Sea. In: Correlation in Hydrocarbon Exploration (Ed.            Rundberg, Y., Olaussen, S. and Gradstein, F. (1995) Incision of
+   J. D. Collinson), Norwegian Petroleum Society, Graham and                  Oligocene strata: evidence for northern North Sea Miocene
+   Trotman, London, 173-189                                                   uplift and key to the formation of the Utsira sands [abstract]
+Logatchev, N. A. (1978) Main features of evolution and magma-                 Geonytt 22
+   tism of continental rift zones in the Cenozoic. In: Tectonics          Ree, S.-L. and Steel, R. J. (1985) Sedimentation, sea-level rise
+   and Geophysics of Continental Rifts (Eds I. B. Ramberg and                 and tectonics at the Triassic-Jurassic boundary (Statfjord
+    E. R. Neuman), NA TOAdv. Studylnst. Ser., Reidel, Dordrecht,              Formation), Tampen Spur, northern North Sea J. Petrol
+   351-366                                                                    GeoL 8, 163-186
+Marsden, G., Yielding, G., Roberts, A. M. and Kusznir, N. J.              Sclater, J. G. and Christie, P. A. F. (1980) Continental stretching:
+   (1990) Application of a flexural cantilever simple shear/pure              an explanation of the post-mid-Cretaceous subsidence of the
+   shear model of continental lithosphere extension to the                    central North Sea Basin J. Geophys. Res. 85, 3711-3739
+   formation of the northern North Sea basin. In: Tectonic                Scott, D. L. and Rosendahl, B. R. (1989) North Viking Graben: an
+   Evolution of the North Sea Rifts (Eds D. J. Blundell and A. D.             East African perspective Am, Assoc. Petrol GeoL Bull. 73,
+   Gibbs), Oxford University Press, Oxford, 241-261                           155-165
+McKenzie, D. P. (1978) Some remarks on the development of                 Sinclair, I. K. and Riley, L. A. Separation of Late Cimmerian rift
+   sedimentary basins Earth Planet. Sci. Lett. 40, 25-32                      and drift megasequences" a comparison of the Jeanne d'Arc
+Milton, N. J. (1993) Evolving depositional geometries in the                  Basin, Grand Banks and the Outer Moray Firth, North Sea. In:
+   North Sea Jurassic rift. In: Petroleum Geology of Northwest               Sequence Stratigraphy on the Northwest European Margin
+   Europe: Proceedings of the 4th Conference (Ed. J. R. Parker),              (Eds R. J. Steel, V. L. Felt, E. P. Johannessen and C. Mathieu),
+   Geological Society, London, 425-442                                       Spec. PubL Norw. Petrol Soc. No. 5, 347-363
+Mohr, P. (1992) Nature of the crust beneath magmatically active           Smith, M. (1994) Stratigraphic and structural constraints on
+   rifts Tectonophysics 213, 269-284                                          mechanisms of active rifting in the Gregory Rift, Kenya
+Morgan, W. J. (1971) Convection plumes in the lower mantle                    Tectonophysics 236, 3-22
+   Nature 230, 42-43                                                      Solli, T. (1995) Upper Jurassic play concept - - an integrated
+Olaussen, S., Larsen, B. T. and Steel, R. J. (1994) The                      study in Block 34/7, Norway First Break 13, 21-30
+   Carboniferous-Permian Oslo Rift: basin fill in relation to             Speksnijder, A. (1987) The structural configuration of Cormorant
+
+
+
+
+900    Marine and Petroleum          Geology      1995 Volume         12 N u m b e r   8
+                                Tectonostratigraphy and sedimentary architecture of rift basins: A. NCttvedt et al.
+
+   Block IV in context of the northern Viking Graben structural            E. P. Johannessen and C. Mathieu), Spec. PubL Norw, Petrol
+   framework GeoL Mijnb. 65, 357-379                                       Soc. No. 5, 365-387
+Steel, R. J. (1974) New Red Sandstone piedmont and floodplain           Turcotte, D. L. (1981) Rifts - - tensional failures of the litho-
+   sedimentation in the Hebridean Province, Scotland J. Sedim.             sph ere. In: Papers presented to the Conference of Processes
+   Petrol 44, 336-357                                                      of Planetary Rifting, Napa Valley, California, 3-.5 December
+Steel, R. J. (1993) Triassic-Jurassic megasequence stratigraphy            1981, Lunar Planet. Inst. Contrib. 451, 5 - 8
+   in the northern North Sea: rift to post-rift evolution. In: Petro-   Turcotte, D. L. and Emermann, S. H. (1983) Mechanisms of
+   leum Geology of Northwest Europe: Proceedings of the 4th                active and passive rifting Tectonophysics 94, 39-50
+   Conference (Ed. J. R. Parker), Geological Society, London,           Underhill, J. R. and Partington, M. A. (1993) Jurassic thermal
+   299-315                                                                 doming and deflation in the North Sea; implications of the
+Steel, R. J. and Ryseth, A. (1990) The Triassic-early Jurassic             sequence stratigraphic evidence. In: Petroleum Geology of
+   succession in the northern North Sea: megasequence strati-              Northwest Europe: Proceedings of the 4th Conference (Ed.
+   graphy and intra-Triassic tectonics. In: Tectonic-Events                J. R. Parker), Geological Society, London, 337-345
+   Responsible for Britain's Oil and Gas Reserves (Eds R. F.            van der Beek, P. A., Cloetingh, S. and Andriessen, P. A. M. (1994)
+   Hardman and J. Brooks), Spec. PubL GeoL Soc. London No.                 Extensional basin formation mechanisms and vertical
+   55, 139-168                                                             motions at rift flanks: constraints from tectonic modelling
+Sundvoll, B. and Larsen, B. T. (1994) Architecture and early               and fission-track thermochronology Earth Planet. ScL Lett.
+   evolution of the Oslo Rift Tectonophysics 240, 173-189                  121,417-433
+Sundvoll, B., Larsen, B. T. and Wandaas, B. (1992) Early mag-           Wernicke, B. (1985) Uniform sense normal simple shear of the
+   matic phase in the Oslo rift and its related stress regime              continental lithosphere Can. J. Earth Sci. 22, 108-125
+    Tectonophysics 208, 37-54                                           White, N. and Latin, D. (1993) Subsidence analyses from the
+Surlyk, F. (1984) Fan-delta to submarine fan conglomerates of              North Sea 'triple-junction' J. GeoL Soc. London 150, 473-488
+   the Volgian-Valanginian Wollaston Foreland Group, East               White, N. and McKenzie, D. (1988) Formation of: the 'steer's
+   Greenland. In: Sedimentology of Gravels and Con-                        head' geometry of sedimentary basins by differential stretch-
+   glomerates (Eds E. H. Koster and R. J. Steel), Can. Soc.                ing of the crust and mantle Geology 16, 250-253
+   Petrol GeoL Mem. No. 10, 359-382                                     Whiteman, A. J., Rees, G., Naylor, D. and Pegrum, R. M. (1975)
+Surlyk, F., Noe-Nygaard, N. and Dam, G. (1993) High and low                North Sea troughs and plate tectonics Norg. GeoL Unders.
+    resolution sequence stratigraphy in lithological prediction - -        316, 137-161
+   examples from the Mesozoic around the North Atlantic. In:            Wood, R. and Barton, P. (1983) Crustal thinning and subsidence
+   Petroleum Geology of Northwest Europe: Proceedings of the               in the North Sea Nature 302, 134-136
+   4th Conference (Ed. J. R. Parker), Geological Society,               Ziegler, P. A. (1975) Geologic evolution of the North Sea and its
+    London, 199-214                                                        tectonic framework Am, Assoc. Petrol GeoL Bull. 59, 1073-
+Sederstrem, B, Forsberg, A., Holtar, E. and Rasmussen, B. A.               1097
+    (1992) The Mjelner Field, a deep Upper Jurassic oil field in        Ziegler, P. A. (1982) Geological Atlas of Western and Central
+   the Central North Sea First Break 9, 156-171                            Europe, Shell Internationale Petroleum, Maatschappij, 130
+Theriault, P. and Steel, R. J. (1995) Aspects of synrift sedi-             PP
+    mentation in the Upper Jurassic (Helmsdale Boulder Beds) of         Ziegler, P. A. (1988) Evolution of the Arctic-North Atlantic and
+   the Inner Moray Firth basin. In: Sequence Stratigraphy on               the Western Tethys Am. Assoc. Petrol GeoL Mem. No. 43
+    the Northwest European Margin (Eds R. J. Steel, V. L. Felt,         Ziegler, P. A. (1992) Geodynamics of rifting and implications for
+                                                                           hydrocarbon habitat Tectonophysics 215, 221-253
+
+
+
+
+                                                        Marine and Petroleum Geology 1995 Volume                  12 N u m b e r   8   901
+

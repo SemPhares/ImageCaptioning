@@ -1,0 +1,1120 @@
+Tectonics
+RESEARCH ARTICLE                              First Balanced Cross Section Across the Taurides Fold-Thrust
+10.1029/2017TC004893
+                                              Belt: Geological Constraints on the Subduction History
+Key Points:
+• The Taurides fold-thrust belt contains
+                                              of the Antalya Slab in Southern Anatolia
+  a minimum of 90.5-km shortening             Peter J. McPhee1      , Demir Altıner2, and Douwe J. J. van Hinsbergen1
+  that occurred in Eocence and
+  Mio-Pliocene phases                         1
+                                               Department of Earth Sciences, Utrecht University, Vening Meineszgebouw A, Utrecht, Netherlands, 2Department of
+• The Antalya slab has been decoupled
+  from the Cyprus slab and isolated in        Geological Engineering, Middle East Technical University, Ankara, Turkey
+  an upper plate position since Eocene
+  times
+• The Antalya slab consists mostly of         Abstract Eastern Mediterranean subduction accommodated Africa-Eurasia convergence since Mesozoic
+  continental lithosphere, which may          time and produced multiple subducted slab fragments in the mantle below Anatolia. These included the
+  have prevented it from sinking and
+  detaching
+                                              north dipping Cyprus and ENE-dipping Antalya slabs, which are currently separated by an upper mantle slab
+                                              gap. Segmentation of these slabs, and associated mantle ﬂow, may have contributed to <8 Ma uplift of the
+                                              Central Anatolian Plateau. The western Central Taurides fold-thrust belt in southern Turkey is in the upper
+Supporting Information:
+• Supporting Information S1                   plate above the Antalya slab and contains a geological record of its subduction. We present the ﬁrst
+                                              orogen-scale balanced cross section of the Taurides and ﬁnd that it formed in two stages: (1) Cretaceous to
+Correspondence to:                            middle Eocene thrusting resulted in a minimum of 73-km shortening, and (2) Mio-Pliocene thrusting resulted
+P. J. McPhee,                                 in a minimum of 17.5-km shortening. Eocene shortening accounts for only ~5 Myr of Africa-Eurasia plate
+p.j.mcphee@uu.nl
+                                              convergence. It is unlikely that >400 km of post to middle Eocene plate convergence was accommodated
+                                              between the Taurides and its Beydağları platform foreland and instead must have been accommodated south
+Citation:                                     of Beydağları. The associated southward plate boundary jump separated the Antalya slab from the African
+McPhee, P. J., Altıner, D., & van
+Hinsbergen, D. J. J. (2018). First balanced   plate and the Cyprus slab. The isolated Antalya slab was left in an intraplate setting and is probably still
+cross section across the Taurides             attached to Beydağları today. We suggest the continental composition of the Antalya slab may have
+fold-thrust belt: Geological constraints      prevented its detachment. Finally, the gap between the Antalya and Cyprus slabs existed since at least Eocene
+on the subduction history of the Antalya
+slab in southern Anatolia. Tectonics, 37,     time; their decoupling likely did not contribute to late Neogene Central Anatolian Plateau uplift.
+3738–3759. https://doi.org/10.1029/
+2017TC004893
+                                              1. Introduction
+Received 10 NOV 2017                          Africa-Eurasia convergence in the eastern Mediterranean region has been ongoing since mid-Mesozoic time
+Accepted 7 SEP 2018
+Accepted article online 13 SEP 2018           (e.g., Seton et al., 2012) and is presently accommodated by subduction at the Cyprus trench, south of
+Published online 18 OCT 2018                  Anatolia. Seismic tomography models of the upper mantle beneath Anatolia (Biryol et al., 2011; van der
+                                              Meer et al., 2018) show two distinct high-velocity anomalies (Figure 1): A north dipping Cyprus slab that
+                                              appears to be attached to the subducting African plate lithosphere, and an enigmatic ENE-dipping Antalya
+                                              slab, which strikes NNW below the Gulf of Antalya. The two slabs are distinguishable in the upper ~300 km
+                                              of the mantle. At deeper levels of the upper mantle, they either merge into one slab (Biryol et al., 2011) or
+                                              are two separate but touching bodies (van der Meer et al., 2018). Given slow Cenozoic Africa-Eurasia conver-
+                                              gence rates of 1–2 cm/year (Seton et al., 2012), these slabs must have formed during at least tens of millions
+                                              of years of subduction of African Plate lithosphere.
+                                              The Cyprus and Antalya slabs may have played an important role in the recent uplift history of the nascent
+                                              Central Anatolian Plateau. The Mut basin (Figure 2a) covers the south Central Taurides (Figure 3) and contains
+                                              late Miocene marine sedimentary rocks that have been uplifted more than 2 km above sea level (Cosentino
+                                              et al., 2012; Schildgen et al., 2012) with little deformation (Cosentino et al., 2012; Fernandez-Blanco, 2014).
+                                              Lithospheric delamination (Bartol & Govers, 2014), segmentation of the Cyprus and Antalya slabs
+                                              (Cosentino et al., 2012; Schildgen et al., 2012), and slab break-off (Schildgen et al., 2014; Öğretmen et al.,
+                                              2018) have been invoked as mechanisms to explain this late Miocene and younger surface uplift. However,
+©2018. The Authors.
+This is an open access article under the      the geological record that may be interpreted to determine when these slabs formed, whether they were
+terms of the Creative Commons                 initially contiguous and if so when they separated, and that may be interpreted to determine if the composi-
+Attribution-NonCommercial-NoDerivs
+                                              tion of those slabs was continental or oceanic remains poorly constrained. Thus, the inferred late
+License, which permits use and distri-
+bution in any medium, provided the            Mio-Pliocene history of the slabs has not been placed in the context of their long-term evolution.
+original work is properly cited, the use is
+non-commercial and no modiﬁcations            Anatolia forms the upper plate above the Cyprus and Antalya slabs and contains the Taurides fold-thrust belt
+or adaptations are made.                      (Figure 2a), which formed during south (west) as well as north (east) verging thrusting in Late Cretaceous to
+
+
+MCPHEE ET AL.                                                                                                                                               3738
+                                    Tectonics                                                             10.1029/2017TC004893
+
+
+
+
+                Figure 1. A 3-D model of subducted slabs in the mantle beneath the eastern Mediterranean region and modern plate con-
+                tacts, modiﬁed from Koç, Kaymakci, et al. (2016) after Biryol et al. (2011). w.C.T. marks the location of the western Central
+                Taurides. The slab geometry was extracted by Biryol et al. (2011) from their tomographic model of the eastern
+                Mediterranean. The red box indicates the extent of the map in Figure 2a.
+
+
+                Eocene time (e.g., Gutnic et al., 1979; Özgül, 1984). This was followed by Mio-Pliocene thrusting of Miocene basins
+                that unconformably covered the deformed western Central Taurides (Figure 2a; Ciner et al., 2008; Poisson et al.,
+                2003). Koç, Kaymakci, et al. (2016) and Koç, van Hinsbergen, et al. (2016) suggested that renewed subduction of
+                the Antalya slab may have been a driving factor in that Miocene deformation and that the slab may still be
+                contiguous with the continental Beydağları foreland of the western Central Taurides (Figure 2a); however,
+                how the Eocene and older history of the Taurides links to Miocene deformation is unknown.
+                In this paper, we aim to interpret the composition and subduction history of the Antalya slab and estimate
+                the timing of its decoupling from the Cyprus slab by investigating the timing and magnitude of shortening
+                during accretion of the western Central Taurides. To this end, we describe the structural style of the fold-
+                thrust belt and interpret the subsurface structure of the belt. We present the ﬁrst balanced cross section of
+                the western Central Taurides composite fold-thrust belt from the Beydağları platform to the Central
+                Taurides intramontane basins, over a distance of ~150 km (Figures 2a and 3). We investigate the minimum
+                amount of subduction that must have occurred during the formation of the fold-thrust belt. We then evaluate
+                the kinematic evolution of the Taurides in the context of Africa-Eurasia convergence and subduction.
+
+                2. Geological Setting
+                The Taurides are a fold-thrust belt that forms a mountain range along the southern margin of the Central
+                Anatolian Plateau up to ~2.8 km high, with kilometer-scale relief. The fold-thrust belt predominantly consists
+                of nonmetamorphic platform carbonate rocks, and minor deep-marine rocks. These are covered by an
+                ophiolite-bearing nappe that forms the highest structural unit. The Taurides form the southernmost unit in a
+                Late Cretaceous-Eocene accretionary orogen that makes up the Central Anatolian crust to the south of the
+                Izmir-Ankara suture zone in northern Turkey (e.g., Sengör & Yilmaz, 1981). Units within that orogen may have
+                originated as the eastern part of a microcontinental domain that occupied much of the Mediterranean region,
+                known as the Adria-Turkey plate (Stampﬂi et al., 1991) or Greater Adria (Gaina et al., 2013). This microcontinen-
+                tal domain was separated from Eurasia in the north and Africa in the south by ocean basins.
+                All tectonic units in the Anatolian orogen are overlain by a Late Cretaceous (~95–90 Ma) ophiolite and
+                ophiolitic melange (e.g., Dilek et al., 1999; Çelik et al., 2011; Parlak, 2016; van Hinsbergen et al., 2016, and
+                references therein). The ophiolites originated in an intraoceanic subduction zone that formed in the
+                Neotethys Ocean to the north of the Anatolian part of Greater Adria around ~100 Ma (Gürer et al., 2016;
+
+
+MCPHEE ET AL.                                                                                                                          3739
+                                   Tectonics                                                           10.1029/2017TC004893
+
+
+
+
+                Figure 2. (a) A map of the major tectonic units of Anatolia. Polygons are based on the MTA 1:500,000 geological mapping
+                series and are colored based on van Hinsbergen et al. (2016, and references therein). (b) Simpliﬁed tectonostratigraphic
+                scheme of the major units of Central Anatolia based on van Hinsbergen et al. (2016, and references therein). The Antalya
+                Nappes have been omitted for clarity. (c) Antalya Nappes tectonostratigraphy based on Yilmaz and Maxwell (1984), as used
+                in the MTA 1:100,000 map series.
+
+                van Hinsbergen et al., 2016). The northern margin of the Neotethys Ocean basin was bound by the Pontides,
+                which have been part of Eurasia since Triassic times (Dokuz et al., 2017; Okay et al., 2006). A second
+                subduction zone existed along the southern Pontides margin from Jurassic until latest Cretaceous to
+                Paleogene time as shown by arc volcanism, accreted and metamorphosed rocks, and forearc basin evolution
+                (e.g., Kaymakci et al., 2009; Okay et al., 2013, 2014; Topuz et al., 2014).
+                Closure of the Neotethys Ocean basin between the Pontides and the Anatolian part of Greater Adria was
+                accommodated on two trenches, until the Pontides-Taurides collision in latest Cretaceous to Paleogene
+                time. After that, subduction remained active on the southern (formerly the intraoceanic) trench (Gürer
+                et al., 2016). The location of the former Neotethys Ocean is demarcated by the Izmir-Ankara suture zone
+                (Sengör & Yilmaz, 1981; Figure 2a).
+                Three belts of metamorphic rocks are present north of the Taurides: the Tavşanlı zone in the northwest, the
+                Kırşehir Block in the northeast, and the Afyon zone in the south. These are the northern parts of the Greater
+                Adria microcontinental domain that were underthrusted and metamorphosed below the Anatolian
+
+
+MCPHEE ET AL.                                                                                                                     3740
+                                   Tectonics                                                          10.1029/2017TC004893
+
+
+
+
+                Figure 3. Large-scale structural map showing generalized stratigraphy and the location of our cross section (Section A;
+                Figure 7). This map is based on the MTA 1:500,000 geological map series. The red dashed boxes around Section A
+                indicate the extent of the strip maps shown in parts, in Figure 4. Black dashed boxes indicate the extent of maps in
+                Figures 5j–5l.
+
+
+                ophiolites in Late Cretaceous time, with overall southward younging metamorphism and thrusting (e.g., Okay
+                et al., 2001; Pourteau et al., 2010; van Hinsbergen, Kaymakci, et al., 2010; van Hinsbergen et al., 2016; Plunder
+                et al., 2013, 2016; see Figure 2b). The metamorphic units in Anatolia were likely exhumed along extensional
+                detachment faults in Late Cretaceous to early Eocene times (Gautier et al., 2002; Gautier et al., 2008, 2018;
+                Lefebvre et al., 2011, 2015).
+                The Taurides are composed of a nonmetamorphic thrusted carbonate platform and slope-derived rocks (e.g.,
+                Gutnic et al., 1979; Özgül, 1984). These consist of the allochthonous Bolkardağı and Aladağ nappes, the para
+                autochthonous Geyikdağı unit, and autochthonous Beydağları platform (Figure 2b). These units underlie an
+                allochthonous nappe composed of ophiolites, ophiolitic mélange, and allochthonous Mesozoic carbonate
+                blocks (e.g., Okay, 1984) collectively known as the Bozkır nappes (e.g., Andrew & Robertson, 2002; Özgül,
+                1976). The mélange matrix contains Late Cretaceous (Maastrichtian) planktonic foraminifera showing that
+                it formed after that time (Özgül, 1997). Regionally, the Bozkır nappes were thrust over the coherent but
+                internally deformed Bolkardağı and Aladağ nappes. The Bolkardağı nappe is the northernmost of these
+                nappes and contains nonmetamorphosed sedimentary rocks Taurides in the southwestern Taurides.
+                Toward the northeast, it was affected by an increasing grade of metamorphism where it becomes part of
+                the Afyon zone (Candan et al., 2005; Okay, 1984). The Bolkardağı nappe accreted below the Bozkır nappes
+                in Campanian-Maastrichtian times based on the age of the uppermost synorogenic sedimentary rocks in
+                the nappe, the age of the overlying melange matrix (Mackintosh & Robertson, 2012), and 70–65 Ma
+                40
+                   Ar/39Ar cooling ages in the metamorphosed parts of the nappe (Özdamar et al., 2013; Pourteau et al.,
+                2013). In the Derebucak area, the Bolkardağı nappe is not exposed; however, but it becomes a major unit
+                of the internal nappe stack southward along the Central Taurides (Figure 3), where it consists of polymeta-
+                morphic Precambrian basement and low-grade metamorphic Upper Paleozoic to Lower Paleocene sedimen-
+                tary rocks (Demirtasli et al., 1984).
+                The Aladağ nappe forms the southern part of the allochthonous nappes (Özgül, 1976). In the southeast of the
+                western Central Taurides near the town of Hadim, the Aladağ nappe was backthrust northeastward over
+                the Bolkardağı nappe. Locally, the Aladağ nappe is covered by ophiolitic melange of the Bozkır nappes.
+
+
+MCPHEE ET AL.                                                                                                                    3741
+                                  Tectonics                                                       10.1029/2017TC004893
+
+
+
+                The Aladağ nappe contains an Upper Devonian to Maastrichtian sequence of shelf carbonate and clastic
+                rocks (Özgül, 1976; Figure 4).
+                The allochthonous Bozkır, Bolkardağı, and Aladağ nappes were thrust over the Geyikdağı unit, which makes up
+                the high elevation axis of the western Central Taurides (Figure 2b). In the northern part of the western Central
+                Taurides, the Bozkır nappe is in direct contact with the Geyikdağı unit, and the Aladağ and Bolkardağı nappes
+                are absent. In places, the Aladağ nappe is underlain by thin slivers of deep-marine sedimentary rocks, which are
+                as young as Campanian-Maastrichtian age (Özgül, 1976; Mackintosh & Robertson, 2012). The structural and
+                paleogeographic context of those rocks is enigmatic, but they may be derived from a deep basin, which has
+                been referred to as the Dipsiz Göl basin that existed between the Aladağ nappe and the Geyikdağı unit platform.
+                The stratigraphy of the Geyikdağı unit varies regionally in terms of thickness and stratigraphic continuity but
+                in its most complete form consists of Precambrian to Ordovician sedimentary rocks and an overlying
+                sequence of Mesozoic to Paleogene carbonate rocks (e.g., Gutnic et al., 1979; Özgül, 1976; Figure 4). Within
+                the study area, the Jurassic to Lower Cretaceous stratigraphy varies spatially (see Gutnic et al., 1979 for
+                detailed descriptions). The Upper Cretaceous stratigraphy generally consists of shallow water to peritidal
+                platform carbonates and rudist-bearing neritic limestones.
+                The top of the Geyikdağı unit stratigraphy is composed of marl and coarse sandstone with ophiolitic pebbles.
+                Blocks derived from the allochthonous nappes become more common toward the hinterland (northeast).
+                Gutnic et al. (1979) interpreted this as a foreland basin deposit deposited onto nummulitic limestone at
+                the top of the carbonate sequence. The youngest reported foreland basin deposits are of late Lutetian age
+                (~40 Ma), constraining the maximum age of thrusting in the Geyikdağı unit (Gutnic et al., 1979).
+                The Beydağları platform of southwest Turkey is the lowest structural unit in the Taurides. It forms the foreland
+                of the western Central Taurides fold-thrust belt and is used as the regional pin line for our reconstruction. The
+                Beydağları platform contains an exposed sequence of Mesozoic to Oligocene platform carbonate rocks (Özer
+                et al., 2001). A 1-km-thick sequence of clastic sedimentary rocks was deposited onto the Beydağları platform in
+                Miocene times, in response to the emplacement of the east-verging Lycian Nappes (Hayward, 1982). The
+                emplacement of the Lycian Nappes may have been gravitationally driven and occurred during regional exten-
+                sion and exhumation in the Menderes region of western Turkey (van Hinsbergen, 2010), which was associated
+                with Aegean extension to the west of the Taurides (e.g., Gessner et al., 2013; van Hinsbergen & Schmid, 2012).
+                The Beydağları platform underwent a middle Miocene to Pliocene ~20° anticlockwise rotation in the eastern
+                limb of the Aegean orocline (Kissel & Poisson, 1987; Morris & Robertson, 1993; van Hinsbergen, Dekkers,
+                Bozkurt, & Koopman, 2010; van Hinsbergen, Dekkers, & Koç, 2010; van Hinsbergen & Schmid, 2012). Miocene
+                sedimentary rocks of the Aksu basin did not rotate with the Beydağları platform (Koç, van Hinsbergen,
+                et al., 2016), indicating that the Aksu basin and Beydağları platform were decoupled by major structures.
+                While the fold-thrust belt from the Bozkır nappes to the Beydağları platform was an overall southwest propa-
+                gating thrust system, southwest Turkey contains another fold-thrust belt that already existed in Late
+                Cretaceous to Paleocene time: the Alanya-Antalya Nappes. Those were thrust over the southern margin of
+                the Geyikdağı-Beydağları platforms from south to north (Özgül, 1984) and therefore do not follow the general
+                southwest-younging trend in ages of metamorphism and thrusting that is found in the rest of central and
+                western Turkey. Paleocene marine sedimentary rocks seal frontal thrust contacts within the Antalya-Alanya
+                Nappes near Alanya (Gutnic et al., 1979), indicating that accretion of the nappes was complete well before
+                SW verging thrusting affected the Geyikdağı unit in Eocene time.
+                The Antalya Nappes are the lowermost structural unit and contain sedimentary and volcanic rocks inter-
+                preted as the folded and thrusted southern passive margin of the Geyikdağı-Beydağları platforms (Dumont
+                et al., 1972; Robertson & Woodcock, 1984). We use the nomenclature and tectonostratigraphic subdivisions
+                of Yilmaz and Maxwell (1984) as used in the 1:100,000 map series of the General Directorate of Mineral
+                Research and Exploration Turkey (MTA); outlined in Figure 2b. The Alanya Nappes are structurally above
+                the Antalya Nappes and consists of high-pressure low-temperature metamorphic rocks, which experienced
+                peak metamorphism at ~85–80 Ma (Çetinkaplan et al., 2016; Okay & Özgül, 1984). The highest structural unit
+                is a dismembered ~95–90 Ma ophiolite (Çelik et al., 2006), which is in direct contact with the Antalya Nappes
+                on the eastern side of the Gulf of Antalya (Figures 2a and 2c). The ophiolites were emplaced northward onto
+                the Taurides and are thought to be remnants of an oceanic upper plate below which oceanic lithosphere that
+
+
+MCPHEE ET AL.                                                                                                              3742
+                                   Tectonics                                                         10.1029/2017TC004893
+
+
+
+                separated Greater Adria from the North African margin in Paleozoic and Mesozoic time subducted in Late
+                Cretaceous time (Mafﬁone et al., 2017; Moix et al., 2008). The Cyprus slab must contain this now subducted
+                Cretaceous age upper plate oceanic lithosphere (e.g., Biryol et al., 2011; Mafﬁone et al., 2017; Moix et al.,
+                2008). The objective of our study is to reconstruct the relationship between the Antalya slab and the
+                NW-SE trending western Central Taurides fold-thrust belt; the Antalya Nappes were formed above another
+                older and separate subduction zone, and so in our reconstruction we treat them as a single composite unit.
+                Finally, in the central part of the composite fold-thrust belt, the Antalya Nappes and underlying Taurides are
+                covered by the Miocene marine to marginal-marine Antalya basin, which includes the Aksu, Köprüçay, and
+                Manavgat subbasins as well as the Gulf of Antalya (Figures 2 and 3). These subbasins contain a Burdigalian
+                (~20–16 Ma) to lower Pliocene stratigraphy (~5–3 Ma; see Flecker et al., 2005; Çiner et al., 2008). The
+                Antalya basin was deformed by thrust faults until at least early Pliocene time (Poisson et al., 2003). Koç
+                et al. (2012, 2017) Koç, Kaymakci, et al. (2016) and Koç, van Hinsbergen, et al. (2016) demonstrated that
+                Miocene thrusting was coeval with E-W extension in the Central Tauride intramontane basins (Figure 3)
+                and accommodated westward convex oroclinal bending of the western Central Taurides.
+
+                3. Cross Section Construction
+                3.1. Methods
+                We constructed a balanced cross section of the western Central Taurides fold-thrust belt from the Beydağları
+                platform, NE across the NW-SE trending belt, to assess the timing and style of deformation and minimum
+                shortening. In the absence of subsurface data, we constructed the cross section using dip data, observations
+                of ﬁeld relationships, and lithostratigraphy. We interpreted thrust faults where there was structural repetition
+                of the lithostratigraphy or footwall cutoff and hanging wall cutoff contacts. Faulting and folding on the scale of
+                one hundred meters was not represented on our 144-km-long section, and so we collected dip measurements
+                that were representative of the ﬁrst-order structures. The shape of a thrust fault ramp exerts a ﬁrst-order
+                control on the style of deformation in the hanging wall above the fault (e.g., Berger & Johnson, 1980). We used
+                surface constraints on hanging wall deformation to predict the position and shape of subsurface thrust faults.
+                Thin-skinned fold-thrust belts evolve above a shallow dipping planar décollement (e.g., Dahlen, 1984; Davis
+                et al., 1983). It was not possible to estimate the depth of the décollement using widely used area-depth
+                calculation (e.g., Epard & Groshong, 1993), and we instead used the thickness of thrust sheets and predicted
+                fault trajectories to estimate the depth of the décollement, which we explain further in section 3.3.
+                At each step in building the cross section, we assumed the simplest structural solution with the least short-
+                ening. Eroded hanging wall anticlines were reconstructed as close to the modern topographic surface as pos-
+                sible using the geometric model of Suppe (1983). We assumed that that area was conserved during
+                deformation and that deformation was accommodated by layer-parallel shear. In the absence of evidence,
+                we assumed negligible footwall deformation and assumed that thrust faults formed instantaneously, rather
+                than by propagation. Section balancing assumes plane strain, which may be violated if the section is cross-cut
+                by strongly oblique faults or strike-slip faults. Strike-slip faults and oblique faults have been interpreted in the
+                western Central Taurides (Akay & Uysal, 1988; Glover & Robertson, 1998), although lateral offset has never
+                been demonstrated on any of the high-angle faults within our cross section.
+                We balanced the section to test whether our structural interpretation was internally consistent and to calcu-
+                late minimum shortening (e.g., Dahlstrom, 1969). A balanced cross section can be restored to its original, pre-
+                deformation geometry with a near-perfect ﬁt of all structural units in their predeformation order. We restored
+                the section by unfolding each thrust sheet relative to a local pin line (i.e., within the thrust sheet). Parts of the
+                section with an unknown stratigraphy were balanced using arbitrary template beds, and in Figure 7 those
+                parts have been left as white spaces. We used the ﬂexural-slip unfolding algorithm in Move 2016, which we
+                benchmarked against the analytical method of Suppe (1983). Unfolding was imposed relative to a template
+                horizon (i.e., the uppermost continuous stratigraphic horizon in the thrust sheet). The algorithm maintains
+                area and also line length in lines that are parallel to the template horizon.
+                3.2. Field Observations
+                We found that the western Central Taurides developed as an overall west verging fold-thrust belt toward the
+                Beydağları platform foreland. Our ﬁeld observations are presented as a strip map and cross section in
+                Figure 4. Descriptions of our main ﬁeld observations are in Table 1, which is accompanied by photographs
+
+
+MCPHEE ET AL.                                                                                                                  3743
+                                    Tectonics                                                             10.1029/2017TC004893
+
+
+
+
+                Figure 4. Strip maps containing the data we used to construct the cross section and the data projected to the cross section.
+                Roman numerals refer to descriptions in Table 1. Capital letters refer to photos in Figure 5. The extent of each map is
+                shown by red dashed boxes in Figure 3. A complete strip map is available in Figure S1 in the supporting information.
+                Yellow lines are major roads (a and b) Beydağları to the Aksu thrust, including the Bucak anticline, and the Aksu thrust
+                imbricate (c and d) Bozburundağ to Kirkkavak, showing the Bozburundağ thrust and the Köprüçay basin. (e and f) Kirkkavak
+                to Tarasci, showing the Derebucak thrust imbricate and the Huğlu syncline.
+
+
+
+MCPHEE ET AL.                                                                                                                         3744
+                                                              Tectonics                                                                10.1029/2017TC004893
+
+
+
+Table 1
+Descriptions of Key Field Relationships From West to East Along Section Line A
+ Observation                                                                                            Description
+
+ Bucak thrust                                      At Susuz, Upper Cretaceous limestone is thrust over Paleogene and (locally) upper Miocene rocks of the Beydağları
+   Figures 5a and 5j                                 foreland. The overlying Upper Cretaceous rocks contain meter-scale bedded limestone that deﬁnes a west
+   Figures 4a and 4b, point i)                       dipping monocline, which we interpret as a hanging wall anticline. The E-W trending valley at Susuz forms a
+                                                     reentrant in the thrust contact and exposes 1–3 km of Paleogene rocks in the footwall. South of Susuz
+                                                     (Figure 4a, point i), the Bucak thrust is downthrown on steep E-W trending faults and is covered by a thick
+                                                     layer of unconsolidated sediments. The west dipping hanging wall anticline, however, is continuous along
+                                                     strike to the line of the section. The hanging wall limestones dip ~20°W and are cut by a series of N-S
+                                                     trending normal faults that juxtapose massive and thickly bedded limestones with uppermost Cretaceous
+                                                     thinly bedded pelagic limestones.
+ East limb Bucak anticline                         Along the eastern limb of the Bucak anticline, Upper Cretaceous and local Paleogene limestones are covered on
+   Figures 4a and 4b, point ii)                      a ﬂat-on-ﬂat contact by a wide ridge of the Çataltepe nappe of the Antalya Nappes. The underlying rocks of the
+                                                     Bucak anticline are exposed to the north and south of the ridge, indicating that at least for the ﬁrst few kilometers
+                                                     the underlying limestone dips shallowly east. The Çataltepe nappe is exposed for about 5 km and then dips
+                                                     below higher tectonostratigraphic units of the Antalya Nappes (Alakırçay nappe and Tahtalıdağ nappe).
+ Aksu basin margin                                 Miocene sedimentary rocks are juxtaposed with the Antalya Nappes along 60–90°E dipping contact that we
+   Figures 4a and 4b, point iii)                     interpret as a normal fault. This locally forms the basin margin of the Miocene Aksu basin. Elsewhere, the
+ box B                                               Antalya Nappes are unconformably covered by gently folded (~10° dipping limbs) Miocene marine
+   Figure 5b                                         sedimentary rocks of the Aksu basin.
+ Aksu intrabasin thrusting                         On the strip map, the basin is dominated by a 600-m-high ridge of bedded lower Miocene conglomerate (Ciner
+   Figures 4a and 4b, point iv)                      et al., 2008) that has been thrust over upper Miocene sandstone and marl. Within the conglomerate ridge, the
+   Figure 5b                                         westernmost conglomerate unit dips ~20°E, followed by domains of ~50°E, then ~85°E on the eastern edge of
+                                                     the ridge. Between the 20°E and ~50°E dipping domains we found upper Miocene sandstone and marl on top
+                                                     of the conglomerate, which represents a thrust repetition. Between the ~50°and ~85°dipping domains we
+                                                     found a conspicuous footwall cutoff with local drag folding indicating a thrust fault.
+ Aksu thrust                                       The eastern margin of the Aksu basin is bound by a 60–80°E dipping Aksu thrust fault (e.g., Ciner et al., 2008),
+   Figures 4a and 4b                                 which juxtaposes the Çataltepe and Alakırçay nappes of Antalya Nappes with Miocene rocks.
+ Antalya Nappes                                    The Antalya Nappes east of Aksu form high relief ranges of up to 2,000 m in elevation and include all
+ Haskızılören thrust                                 tectonostratigraphic units of the Antalya nappes. The ophiolitic Tekirova Nappe is preserved within a N-S
+   Figures 4c and 4d, point v)                       trending syncline, bound to the east and west by exposures of lower tectonostratigraphic units of the
+                                                     Antalya Nappes. The rocks within the Antalya Nappes are intensely deformed by faulting and folding. A large
+                                                     part of that deformation must be related to the accretion of the Antalya Nappes nappe stack in Cretaceous
+                                                     to Paleocene times. In some places, for example, near Haskızılören, Antalya Nappes rocks are thrust over
+                                                     outliers of lower Miocene rocks, which require that part of the internal deformation is post early Miocene in age.
+ Bozburundağ thrust                                At Haskızılören, the Alakırçay Nappe is overlain by vertically bedded upper Miocene conglomerates that dip
+   Figure 3, Etler                                   onto a low-angle basal fault. This geometry is typical of a hanging wall cutoff but requires that younger rocks
+   Figure 4c box C                                   thrust over older ones. The internal structure of the Bozburundağ hanging wall was observed from a distance
+   Figure 5c                                         and has been imposed onto Section 4C. The conglomerates at Bozburundağ are the marginal facies of, and
+                                                     interﬁnger with, the marine sedimentary rocks of the Miocene Köprüçay basin to the east (Ciner et al., 2008;
+                                                     Deynoux et al., 2005). We consequently interpret this contact to be the result of inversion of an original basin-
+                                                     bounding normal fault that thrusted marginal basin ﬁll over the footwall and the basin edge. At Etler, 10 km
+                                                     south along the Bozburundağ fault, a normal fault contact is preserved and Miocene conglomerates in the
+                                                     hanging wall are folded, suggesting that partial inversion affected the fault there.
+ Bozburundağ anticline                             Upper Miocene conglomerates of Bozburundağ contain an intraformational angular unconformity and thin
+   Figure 3, Yeşilvadi                               toward the east, where the Cretaceous age Geyikdağı platform emerges in a west dipping sequence. An
+   Figure 4d, point vi)                              upward steepening of dips across the unconformities is consistent with our interpretation that the
+   (see also Ciner et al., 2008)                     Bozburundağ conglomerates were deposited on the hanging wall of a growth fault. Locally, the Antalya
+                                                     Nappes are not present, presumably because of erosion. The ﬂat-on-ﬂat contact of Antalya Nappes rocks
+                                                     thrust over the underlying Geyikdağı unit is exposed to the south of our section at Yeşilvadi. Bedding in
+                                                     the conglomerates at Bozburundağ deﬁnes a strongly asymmetrical west verging fold. The east limb is
+                                                     shallow dipping and unconformably covers a N-S trending open fold in the Cretaceous limestone at
+                                                     Ballıbucak that was eroded prior to deposition of Miocene conglomerate.
+ Köprüçay basal unconformity                       Miocene sedimentary rocks in the Köprüçay basin form an overall asymmetric syncline with a subvertical
+   Figure 3, Kesme                                   eastern ﬂank, where conglomerates of the base of the stratigraphy deﬁne a high N-S trending ridge (Kirkavak
+   Figure 4c box D                                   ridge). Those conglomerates cover Triassic rocks on an angular unconformity that is spectacularly exposed at
+   Figures 5d and 5e                                 Kirkkavak in the south (Figure 5d) and on the mountain pass from Kesme to Dumanli (Figure 5e). Near the
+                                                     village of Kesme within the center of the Köprüçay valley (see Figure 3, Kesme), Miocene conglomerates
+                                                     cover an angular erosional unconformity and seal thrust faults that cut down into Triassic, Permian, and
+                                                     Precambrian rocks.
+
+
+
+
+MCPHEE ET AL.                                                                                                                                                        3745
+                                                            Tectonics                                                               10.1029/2017TC004893
+
+
+
+ Table 1 (continued)
+
+ Observation                                                                                         Description
+
+ Köprüçay Slump                                   In the south of the Köprüçay basin, middle and upper Miocene marl and sandstone form a major west verging
+   Figure 5k                                         anticline with a subvertical west limb that runs along the larger Köprüçay synclinal axis. This vertical limb can
+                                                     be traced N-S over ~20 km and gradually disappears north and southward. Interestingly, in the southern and
+                                                     eastern part of the synclinal axis, the eastern ﬂat-lying limb abuts abruptly against subvertical basal
+                                                     conglomerates of the Köprüçay basin. This angular relationship suggests a normal fault contact, but this
+                                                     fault is located within the Miocene basin stratigraphy, between the competent basal conglomerates and
+                                                     the weak marl-rich marine deposits of the basin ﬁll. We explain the major fold in the marl and sandstone
+                                                     within the topographically lowest part of the Köprüçay syncline as a mega slump that formed during
+                                                     folding of the underlying basement. We regard the formation of the slump to be evidence for timing of
+                                                     the uplift of the basin margin. The normal fault between these deposits with the basal conglomerates
+                                                     represents a slump scar that formed during the folding of the Köprüçay syncline. The subvertical eastern
+                                                     limb of the Köprüçay syncline is widely interpreted as a right-lateral Kırkkavak strike-slip fault (Dumont &
+                                                     Kerey, 1975) or a normal fault (Deynoux et al., 2005; Schildgen et al., 2012). The contact between the
+                                                     Miocene and Triassic stratigraphy is not a fault but an unconformity, and we found no evidence for the
+                                                     presence of a Kırkkavak fault other than the slump scar. Instead, this is the asymmetric Kırkkavak anticline
+                                                     adjacent to the Köprüçay syncline. There are surfaces within the Miocene conglomerate units that contain
+                                                     slickensides, which are likely a reﬂection of layer-parallel slip during folding. The vertical eastern margin of
+                                                     the syncline did not form the Miocene basin margin, as marine upper Miocene deposits are found at
+                                                     1,500-m elevation east of the Kırkkavak anticlinal hinge at Sarıalan (Schildgen et al., 2012).
+ Cretaceous unconformity                          East of the Kırkkavak anticline, the rocks are dominated by the Geyikdağı and higher structural units of the
+   Figure 4f, point vii)                             Taurides that contain a recognizable but laterally variable lithostratigraphy (Figure 6). The carbonates of
+   Figure 6                                          the Geyikdağı unit are deformed by a thrust imbricate indicated by the repetition of the lithostratigraphy.
+                                                     The eastern limb of the Kırkkavak anticline contains Jurassic to Cretaceous platform carbonate rocks that
+                                                     create a syncline that preserves Upper Cretaceous rocks in the core toward the south. Toward the south of
+                                                     our strip map; uppermost Cretaceous limestone unconformably overlies the lower parts of the principal
+                                                     carbonate series, suggesting a phase of uplift and erosion sometime prior to latest Cretaceous time.
+ Başgölcűk thrust                                 The eastern limb of the syncline formed above an ~55°E dipping thrust fault at Başgölcűk that thrusted Lower
+   Figure 5f                                         Jurassic limestone over a narrow exposure of Paleogene rocks along a footwall cutoff. Paleogene rocks below
+   Figures 4e and 4f                                 the Başgölcűk thrust are overthrusted from the east by the ~65°W dipping Taşbaşından thrust along a
+                                                     footwall cutoff. This thrust also cross-cuts the Başgölcűk thrust. The overriding thrust sheet contains
+                                                     100-m-scale thrust repetitions that locally steepened the overlying bedding.
+ Pinarbasi thrust                                 Near Pınarbası, a well-exposed thrust fault dipping ~50°E separates deformed mudstone and sandstone of the Eocene
+   Figures 4e and 4f                                ﬂysch (Monod, 1977) that forms the highest stratigraphic unit of the Gembos thrust sheet from overlying fractured,
+   Figure 5                                         Upper Cretaceous, well-bedded to massive limestone with minor dolomite beds of the Pinarbasi thrust sheet.
+ Derebucak thrust                                 The Cretaceous limestone and dolomite of the Pinarbasi thrust sheet is overthrusted by Lower Jurassic
+   Figures 4e and 4f                                limestones of the Derebucak thrust sheet along a ﬂat-on-ﬂat thrust contact that is locally cross-cut by small-
+   Figure 5h                                        scale normal faults. Near the town of Derebucak, a conspicuous footwall cutoff between the underlying ~15°E
+                                                    dipping Upper Cretaceous limestones and ~45°E dipping Lower Jurassic limestones of the Derebucak thrust
+                                                    sheet is exposed in the valley side. At least 3.5 km of ﬂat-on-ﬂat overlap of the Lower Jurassic limestone on
+                                                    Upper Cretaceous limestone was mapped.
+ Derebucak H.W. anticline                         The Derebucak thrust sheet extends 100 km southward along the range, and at Üzümdere, the hanging wall
+   Figure 3, Üzümdere                               anticline of the thrust sheet is preserved, limiting shortening on the thrust to ~7 km.
+ Aladağ nappe                                     At Akçabellen, north of the section, the Aladağ nappe tapers out, and the ophiolite-bearing Bozkır Nappe lies
+   Figure 3, Akçabellen                             directly on the Derebucak thrust sheet. The platform rocks of the Geyikdağı unit plunge below the
+                                                    allochthonous Aladağ and Bozkır nappes at Derebucak.
+ Aladağ H.W. anticline                            South of Derebucak, the edge of the Aladağ nappe is marked by overturned Upper Triassic to Upper Cretaceous
+   Figure 3, Kuyucak                                rocks, which we interpret as a hanging wall anticline.
+ Seydişehir anticline                             Geyikdağı unit rocks reemerge from below the Bozkır and Aladağ nappes in a 2,300-m-high ridge of west
+   Figure 3                                         dipping Triassic to Eocene limestones. This ridge forms the eastern limb of the regional-scale Huğlu syncline
+                                                    and western limb of the regional-scale Seydişehir anticline. Cambrian-Ordovician shale and limestone are
+                                                    exposed in the Seydişehir valley below and form the core of the anticline. Tectonic windows through the
+                                                    internally deformed shale expose Triassic rocks and therefore demonstrate that there is duplexing of the
+                                                    Triassic and deeper stratigraphy in the anticline.
+ Central Tauride intramontane                     East of Seydişehir, exposures of the Taurides become scarce owing to the overlying Mio-Pliocene
+ extensional basins                                 ﬂuviolacustrine sedimentary rocks and volcanic rocks of the Central Tauride intramontane Basins (e.g., Koç
+   Figure 2                                         et al., 2012). Within these Mio-Pliocene basins, inliers of metamorphic rocks of the Afyon zone (Bolkardağı)
+                                                    and overlying ophiolite (e.g., Daşçı et al., 2015) are exposed, suggesting that the Taurides either
+                                                    underthrusted or are absent below higher tectonostratigraphic units.
+ Note. Numeral codes refer to points on the strip map and cross section (Figures 4a–4f). Letter codes refer to photographs in Figure 5.
+
+
+MCPHEE ET AL.                                                                                                                                                    3746
+                                  Tectonics                                                      10.1029/2017TC004893
+
+
+
+                and maps of key ﬁeld relationships in Figure 5. In Figure 6, we provide ﬁve schematic logs that illustrate the
+                various formations present across the fold-thrust belt, following the formation deﬁnitions of Monod (1977).
+                The thicknesses portrayed are measured in continuous sections in the ﬁeld or estimated from dip data. We
+                found strong lateral variations in the presence, absence, and thickness of stratigraphic units compared to
+                the composite stratigraphy of Monod (1977), which is in part the result of thrust tectonics and in part the
+                result of erosional unconformities.
+
+
+                3.3. Cross Section Results
+                Our cross section successfully reconciles our ﬁeld observations into a viable structural model and keeps struc-
+                tural relationships simple. The deformed and retrodeformed sections are shown in Figure 7, and a larger,
+                more detailed version that shows lithostratigraphic constraints is available in the supporting information
+                (Figure S2). Our section has a total length of 144 km, which becomes 234.5 km long when retrodeformed.
+                This indicates a minimum of 90.5 km shortening since the onset of thrusting of the Aladağ and Bozkır nappes
+                over the Geyikdağı unit in Eocene times. This total amount of shortening includes a minimum overlap of
+                55 km of the Aladağ and Bozkır nappes over the Geyikdağı unit. We measure a minimum of 18 km shortening
+                in the Derebucak thrust imbricate and 17.5 km in basement-involved thrusting of the Bucak thrust and the
+                thrusting that deformed the Antalya basin.
+                Our cross section starts in the Beydağları platform, which we describe as the foreland because it is the lowest
+                structural unit (Figures 2a and 3), and is not deformed by thrust faults at the surface. We use dip data and the
+                limited stratigraphic data to reconstruct the shape of the Bucak anticline. It is not possible to calculate the
+                depth of the décollement using area-depth relationships, ﬁrst because we have no independent constraint
+                on displacement on the Bucak anticline (Figures 4a and 4b) for a simple area-depth calculation and second
+                because there is no mappable lithostratigraphy to constrain the fold shape in the Bucak anticline for use in an
+                area-depth plot (e.g., Epard & Groshong, 1993). We face the same problem in the Seydişehir anticline
+                (Figure 3) in the eastern hinterland part of the section. We solve this problem by using the shape of the hang-
+                ing wall deformation of the Bucak anticline to predict the shape of the underlying fault and ﬁnd that a 10-km
+                deep décollement recreates the wavelength of the anticline and gives a good ﬁt for the shape of the fold
+                while minimizing shortening. We interpret this as the basal décollement of the belt. Our reconstruction
+                requires that below the Bucak anticline, the décollement dips at 2°E to ﬁt the Taurides stratigraphy below
+                the Antalya Nappes on the eastern side of the Bucak anticline. This is within 0.5° to 4° of typical
+                décollement dips found in fold-thrust belts (e.g., Echavarria et al., 2003; McQuarrie, 2004; Mitra, 1988). We
+                otherwise have no constraint on the depth and dip of the décollement, and so to the east of the Bucak
+                anticline, we assume that it is subhorizontal to 1°E dipping, to minimize space above the décollement.
+                We interpret that the Aksu basin (Figures 4a and 4b, iii) ﬁlled a graben because the western basin margin is
+                most simply interpreted as a normal fault. After restoring shortening within the Aksu basin, we predict that
+                the subsurface extension of eastern basin-bounding normal fault is located to the east of the Aksu thrust,
+                below the current position of the Antalya Nappes. We interpret a series of east dipping thrust faults within
+                the Aksu basin based on lithostratigraphic repetition and footwall cutoffs. The thrust sheets become system-
+                atically steeper dipping toward the east, which we interpret as refolding caused by a foreland propagating
+                thrust imbricate. The thrust imbricate incorporates a ~1-km thick stratigraphy and contains at least 15 km
+                of shortening.
+                Thrusting within the Aksu basin must link into the basal décollement to be balanced and is likely linked along
+                the Bozburundağ thrust (Figures 4c and 4d), because the uppermost unit of the Antalya Nappes is preserved
+                above the Aksu thrust, indicating the absence of a large fault-bend-fold anticline associated with a major
+                thrust ramp. Our interpretation requires that the décollement at the base of the Antalya Nappes was reacti-
+                vated as a thrust ﬂat connected to the Bozburundağ thrust and allowed the Antalya Nappes to bulldoze
+                through the Aksu basin. We interpret that the Aksu fault was an in-sequence thrust relative to the
+                Bozburundağ thrust, but out of sequence with respect to thrusting within the Aksu basin. We interpret that
+                the Bozburundağ conglomerate (Figure 4c) was thrust over the Antalya Nappes along an inverted basin-
+                bounding normal fault, which was folded by the underlying thrust fault. We reconstruct the shape of the
+                thrust below Bozburundağ using the shape of the east dipping limb of the Bozburundağ anticline and the
+                observation that to the west, the anticline remains buried below the Antalya Nappes that cover it.
+
+
+MCPHEE ET AL.                                                                                                             3747
+                                                              Tectonics                                                              10.1029/2017TC004893
+
+
+
+
+Figure 5. (a–i) Photos of key ﬁeld relationships along Section A. The location of each photo and detailed descriptions of the contacts are in Table 1. (j) A geological
+map of the Bucak thrust contact at the village of Susuz, 3 km north of the strip map (map extent is shown in Figure 3). (k) A geological map showing the extent of the
+Köprüçay slump along the Köprüçay basin. East and west dipping domains are shown as dashed polygons. The extent of the Section A strip map is marked as a
+dashed box around the Section A line. Section X shows the internal structure of the Köprüçay slump. (l) Geological map of tectonic windows in the Seydişehir valley
+after Gutnic et al. (1979). The approximate northern edge of the Section A strip map is marked as a dashed black line.
+
+
+
+
+MCPHEE ET AL.                                                                                                                                                    3748
+                Tectonics                   10.1029/2017TC004893
+
+
+
+
+                    Figure 5. (continued)
+
+
+
+MCPHEE ET AL.                                                 3749
+                                                              Tectonics                                                             10.1029/2017TC004893
+
+
+
+
+Figure 6. Generalized stratigraphy along the line of the section. Stratigraphic ages and formation names of the Geyikdağı are based on Gutnic et al. (1979). The loca-
+tions of these sections are indicated as yellow stars along Section A in Figure 3.
+
+
+
+                                          In the Köprüçay basin (Figure 5k), we assume based on the presence of angular unconformities exposed at
+                                          both edges of the basin that the Miocene sedimentary rocks were deposited onto deeply incised and
+                                          thrusted rocks that we saw near Kesme (Figure 3). We reconstruct the Kırkkavak anticline as an eroded and
+                                          reactivated hanging wall anticline, which created steeply overturned Triassic rocks in the northern margin
+                                          of the basin (Figure 7a). We attribute the tilt of the basin margin to folding in the hanging wall of thrust fault,
+                                          which accommodated ~2 km of shortening by steepening of the fold limbs. We link the Kırkkavak thrust into
+                                          the basal décollement to balance with thrusting to the west and to create uplift below the western edge of
+                                          the Derebucak thrust imbricate. Uplift of the Kirkkavak anticline cannot be accounted for by Miocene
+                                          deformation alone, suggesting that the anticline ﬁrst formed by thrusting during Eocene times.
+                                          Thrust faults in the Derebucak area (Figure 3) form a thrust imbricate that does not include pre-Jurassic rocks
+                                          as in the basement-involved thrust sheets to the west, and preserve the same structural level for ~20 km
+                                          (Figures 4e, 4f, and 7a). We reconstruct the Derebucak thrust imbricate by assuming that the thrust faults sole
+                                          into a single intermediate décollement at the base of the Jurassic platform carbonates. This is stratigraphically
+                                          above the deep décollement we infer in thrusting to the west. We estimate an ~1.5-km-deep décollement
+                                          using the stratigraphic thickness of the Derebucak thrust sheet (Figures 4e and 4f), as that thrust has a ﬂat-
+                                          on-ﬂat relationship at its base. Mechanically, the Kasımlar formation mudstone at the base of the platform
+                                          carbonates provided a glide surface (Figure 4), above which the thrust imbricate formed. The thrust fault
+                                          shapes are reconstructed from dip data above footwall cutoffs and from the shapes of hanging wall anticli-
+                                          nes. The resulting reconstruction is the simplest conﬁguration.
+                                          The Bozkır nappes above the eastern edge of the Derebucak thrust imbricate are structurally complex and
+                                          contain juxtaposed allochthonous units that change relative position along strike (Andrew & Robertson,
+                                          2002). We choose not to differentiate the internal structure of these nappes and instead measure the overlap
+                                          of the Bozkır and Aladağ nappes over the Geyikdağı unit. No evidence for shortening exists in the underlying
+                                          platform rocks or along strike of the Huğlu syncline (Figure 3), where the allochthonous nappes have been
+                                          eroded and the underlying platform rocks are exposed.
+                                          Thrust repetition of Triassic and older rocks in tectonic windows in the core of the Seydişehir anticline indi-
+                                          cate the presence of duplex thrusting (Figure 4l), which must be balanced by thrusting at the surface in
+
+
+MCPHEE ET AL.                                                                                                                                                   3750
+                                                              Tectonics                                                             10.1029/2017TC004893
+
+
+
+
+Figure 7. Section A from Bucak to Seydişehir. The Mesozoic stratigraphy has been generalized for clarity. A detailed large version of the section showing lithostrati-
+graphic constraints is included in Figure S2 in the supporting information. White areas below the colored stratigraphic units were included in section balancing but
+contain an unknown stratigraphy. (a) The balanced cross section of Section A. (b) Retrodeformed Section A, restored to the pre-late phase of thrusting. (c)
+Retrodeformed Section A restored to the pre-Eocene phase of thrusting.
+
+
+
+                                          the Derebucak thrust imbricate. We use the minimum shortening estimate obtained from the Derebucak
+                                          thrust imbricate to reconstruct a hinterland-dipping thrust duplex that recreates the wavelength and
+                                          amplitude of the Seydişehir anticline while balancing surface thrusting. Thick thrust sheets are required to
+                                          ﬁll space below the Seydişehir anticline while maintaining a balance with the Derebucak thrust imbricate.
+                                          This suggests that the basal décollement below the Derebucak thrust imbricate steps down into the same
+                                          basal décollement level that we reconstruct for the thrust faulting in the west, which also minimizes
+                                          structural complexity.
+
+                                          4. Discussion
+                                          The aim of our paper is to determine the composition and subduction history of the Antalya slab and its rela-
+                                          tionship to the Cyprus slab through structural analysis of the Taurides fold-thrust belt. To this end, we develop
+                                          the ﬁrst orogen-scale cross section across the western Central Taurides. Below, we discuss the validity of our
+                                          section and shortening estimates and then discuss the temporal evolution of the fold-thrust belt. We then
+                                          use this reconstruction to interpret the long-term subduction history and discuss the role these slabs may
+                                          have played during Miocene surface uplift in southern Anatolia.
+
+                                          4.1. Style of Deformation
+                                          The western belt from the Beydağları platform foreland to Köprüçay basin has long wavelength (~15 km)
+                                          folding and thrusting that involves deep structural units, including Precambrian rocks found north of the
+                                          Köprüçay basin. The eastern belt incorporates the Derebucak thrust imbricate, the Seydişehir duplex, and
+                                          the Bozkır and Aladağ nappes.
+                                          In our structural model, we assum minimum shortening. Variation in the dip or depth of the décollement
+                                          would inﬂuence our structural interpretation and the amount of shortening. For the basement-involved
+                                          thrusting there is uncertainty in the subsurface structure because the full thickness of the thrust sheets is
+                                          not present at the surface; we rely on the wavelength, amplitude, and shape of the fault related folding to
+
+
+MCPHEE ET AL.                                                                                                                                                   3751
+                                  Tectonics                                                      10.1029/2017TC004893
+
+
+
+                estimate the depth to décollement. It is plausible that some of the basement-involved thrusts are inverted
+                normal faults that penetrate down to midcrustal depths as in a thick-skinned thrust belt, although we did
+                not observe a change in stratigraphic thicknesses from the footwall to the hanging wall that would support
+                this. At Bucak, we use the shape of the Bucak anticline to predict the shape of the underlying fault and ﬁnd
+                that a 10-km-deep décollement recreates the wavelength of the anticline and gives a good ﬁt for the shape of
+                the fold. A shallower décollement, however, would be associated with thinner thrust sheets and would
+                require extra shortening to ﬁll space beneath the Bucak anticline. We assume a subhorizontal dipping
+                décollement to minimize space in the subsurface that needs to be ﬁlled by thrust repetition and hence short-
+                ening. For a steeper décollement of 3° to 4°, space above a décollement in the hinterland would likely need to
+                be ﬁlled by underthrusting of an eastward continuation of the Beydağları platform below the Derebucak
+                thrust imbricate, requiring ~40-km extra shortening and essentially making the Geyikdağı unit an internally
+                deformed allochthonous nappe. The deep décollement and thick thrust sheets we reconstruct for the
+                Seydişehir duplex are necessary to ﬁll space beneath the Seydişehir anticline while balancing shortening in
+                the Derebucak thrust imbricate.
+                In the Derebucak thrust imbricate, only the Mesozoic stratigraphy is incorporated in the thrust sheets along
+                the entire belt, the thrusts are closely spaced, and numerous examples of ﬂat-on-ﬂat or footwall cutoff rela-
+                tionships demonstrate that the thrust sheets are only a few kilometers thick. Hanging wall and footwall cutoffs
+                in the Derebucak thrust imbricate are preserved in most thrust slices and limit structural overlap, and so it is
+                unlikely that thrusting there accommodated much more shortening than reconstructed. Our interpretation of
+                the subsurface structure of the Derebucak thrust imbricate is subject to uncertainty. In the absence of seismic
+                or drill-core constraints on the depth of the underlying intermediate décollement, a deeper or steeper
+                décollement could accommodate more shortening, but would require a more complex structural model.
+                Our reconstruction assumes the thrusts within the duplex in the Seydişehir anticline sole into the basal
+                décollement to reduce complexity; the actual depth of the décollement that the duplex soles into is unknown.
+                Approximately 55 km of the 73 km of shortening in the belt east of Kirkkavak is demonstrated by the overlap
+                of the Bozkır and Aladağ nappes preserved as klippen on top of the Geyikdağı unit (Figure 7). A hanging wall
+                cutoff exists for the Aladağ nappe just south of our section, suggesting that only the Bozkır nappes may have
+                extended farther west and were removed by erosion. Our shortening estimate does not include internal
+                deformation within the Aladağ and Bozkır nappes, which may have accommodated a large but unknown
+                amount of extra shortening.
+                The total amount of overlap of the Aladağ and Bozkır nappes over the Geyikdağı unit is unconstrained, and
+                the thrust at the base of the Aladağ nappe may thus have accommodated a large amount of convergence
+                before thrusting over the Geyikdağı nappe. Cretaceous deep-marine sedimentary rocks are reported at the
+                base of the Aladağ nappes near the town of Hadim, 80 km to the southeast of Derebucak, and are interpreted
+                as the remnants of a deep basin known as the Dipsiz Göl basin, which may have separated platforms that the
+                Aladağ and Geyikdağı rocks originated from (Özgül, 1984; Mackintosh & Robertson, 2012). The consumption
+                of the Dipsiz Göl basin may have accommodated a large amount of convergence with little or no
+                accretionary record.
+
+                4.2. Timing of Deformation
+                The western Central Taurides formed in two main phases of thrusting. The early phase started with thrusting
+                of the Bozkır Nappes over the Aladağ nappe in Late Cretaceous to Paleocene times, as constrained by upper-
+                most Cretaceous (Maastrichtian) foreland basin deposits on top of the Aladağ nappe (Andrew & Robertson,
+                2002; Özgül, 1997). The formation of the Derebucak thrust imbricate at the expense of the Geyikdağı unit
+                occurred after late Lutetian time (~40 Ma), based on the youngest stratigraphic unit incorporated in the
+                thrusting (Gutnic et al., 1979).
+                Basement-involved thrusting to the west of the Derebucak thrust imbricate occurred largely in Neogene time
+                but must have started prior to early Miocene deposition of the Köprüçay basin. This conclusion is required by
+                the deep unconformity in the northern Köprüçay basin, the angular unconformity on the Kırkkavak anticline,
+                and the reentrant in the Antalya Nappes exposed on Bozburundağ Mountain. The earliest stages of
+                basement-involved thrusting between Kirkkavak and the Beydağları platform foreland must have predated
+                deposition of Burdigalian sedimentary rocks (~20–16 Ma) that cover folds and thrusts beneath the
+
+
+MCPHEE ET AL.                                                                                                             3752
+                                  Tectonics                                                       10.1029/2017TC004893
+
+
+
+                Köprüçay Basin. Those structures may therefore be part of the Eocene phase of thrusting. Folding in the
+                Köprüçay basin and thrusting in the Aksu basin incorporate sedimentary rocks up to Tortonian age (~12–
+                7 Ma), and the soft-sediment deformation and slope failure in the middle-upper Miocene of the Köprüçay
+                basin dates the formation of the Kırkkavak fold. Minor thrusting affected Pliocene marine sedimentary rocks
+                (Poisson et al., 2003), whereas widespread Pleistocene tufa deposits of the Antalya Plain (Figure 3) are unde-
+                formed (Glover, 1995). Thus, basement-involved thrusting between Kirkkavak and the Beydağları platform
+                foreland started prior to the Burdigalian (~20 Ma) and continued until early Pliocene time. Whether there
+                was a phase of tectonic quiescence between the late Eocene and early Miocene, or whether thrusting was
+                continuous, is not known. The absence of upper Eocene or Oligocene sedimentary rocks throughout our sec-
+                tion suggests that the thin-skinned thrusting of the Derebucak imbricate may have been conﬁned to the mid-
+                dle Eocene and that the shortening occurred in two stages separated by a late Eocene to Oligocene period of
+                tectonic quiescence.
+
+                4.3. Relationship of Taurides Deformation With Antalya Slab Subduction
+                Our cross section demonstrates that the western Central Taurides fold-thrust belt accommodated a minimum
+                of 90.5 km of upper crustal shortening since the onset of middle Eocene thrusting of the Aladağ and Bozkır
+                nappes over the Geyikdağı unit. Shortening in the fold-thrust belt must have led to northeastward displace-
+                ment and deep underthrusting or subduction of the original crustal and mantle lithosphere underpinnings of
+                nappes in the belt.
+                The carbonate platform sedimentary facies and the long stratigraphic range from Precambrian to Eocene of
+                the Geyikdağı unit suggest that it must have been underlain by continental crust that supported a surface
+                elevation around sea level. Such continental crust, similar to that of the Seychelles today, is typically
+                ~30 km thick (Hammond et al., 2013). Our cross section shows a thin-skinned fold-thrust belt that formed
+                above a basal décollement at ~10-km depth (Figure 7). The estimated total crustal thickness, however, is
+                ~35–40 km (Di Luccio & Pasyanos, 2007; Tezel et al., 2013), suggesting that another 15–30 km of crust exists
+                below the décollement. The crust below the décollement must be connected to the Beydağları platform fore-
+                land and may be underlain by its original mantle lithosphere.
+                The continental subduction and upper crustal accretion that formed the western Central Taurides occurred
+                between the converging Africa and Eurasia plates. To assess how much time it would require in late
+                Eocene and younger time to accommodate 90.5 km of continental subduction in southern Turkey, we com-
+                pared our shortening record to the amount of convergence through time calculated from an Africa-Eurasia
+                plate circuit reconstructed from the Atlantic Ocean. Using the Seton et al. (2012) plate circuit, we calculated
+                an average Africa-Eurasia convergence rate of approximately 2 cm per year (20 km/Ma) during Eocene time.
+                This is a minimum estimate of the subduction rate because it assumes that no extension occurred in the over-
+                riding Eurasian plate. This is, however, reasonable, because both the Black Sea and the extensional meta-
+                morphic complex of Central Anatolia in which the Kırşehir Block and Afyon zones exhumed are pre-late
+                Eocene in age (e.g., Okay et al., 1994; Gautier et al., 2008; Lefebvre et al., 2011; van Hinsbergen et al., 2016;
+                Gurer et al., 2018). In addition, there is no evidence for major Eocene to early Miocene shortening to the north
+                or northeast of our section. Using the Africa-Eurasia convergence rate as an estimate for subduction rate, it is
+                evident that the shortening associated with the underthrusting of the Geyikdağı unit below the Aladağ and
+                Bozkır Nappes and its internal imbrication prior to basement-involved thrusting between Kirkkavak and the
+                Beydağları platform foreland would require as little as ~5 Myr of late Eocene subduction and may well have
+                occurred entirely within the Lutetian (~49–41 Ma, Gradstein, 2012).
+                This scenario poses the following question: Where was subduction accommodated before and after the
+                accretion of the thin-skinned portion of the western Central Taurides? Several candidate structures exist that
+                may have accommodated convergence prior to the underthrusting and internal imbrication of the Geyikdağı
+                unit. First, we only constrain minimum shortening on the thrust fault below the Aladağ unit. The concentra-
+                tion of thrusting in the Derebucak thrust imbricate and the apparent lack of deformation in the platform
+                rocks that were once covered by the Bozkır and Aladağ nappes suggest that the allochthonous nappes were
+                ﬁrst emplaced over the platform, and then in the latest stages of accretion, the thrust imbricate deformed
+                ahead of the overriding allochthonous nappes. Wholesale underthrusting (i.e., convergence without shorten-
+                ing) of an eastern continuation of the Geyikdağı unit below the Aladağ nappe may be hidden if no window in
+                Central Anatolia exposes the Geyikdağı unit—and no such window has been found. In the equivalent part of
+
+
+MCPHEE ET AL.                                                                                                              3753
+                                  Tectonics                                                       10.1029/2017TC004893
+
+
+
+                the orogen in western Turkey, Miocene low angle normal faulting has exhumed a window that reveals
+                stacked metasedimentary rocks of the Menderes Massif that may be the underthrusted northward continua-
+                tion of the Beydağları platform, even though underthrusting there did not lead to major accretion at the
+                thrust front in the Lycian Nappes (e.g., Collins & Robertson, 1998; Gessner et al., 2001; van Hinsbergen,
+                2010). Metasedimentary rocks with peak metamorphic ages as young as late Eocene (~35 Ma) are exposed
+                as far as 200 km north of the Lycian thrust front (e.g., Lips et al., 2001; Bozkurt et al., 2011; Schmidt et al.,
+                2015), and internal shortening within the Menderes Massif (e.g., Gessner et al., 2001) may have accommo-
+                dated hundreds of kilometers of shortening equivalent to all ~55- to 35-Ma Africa-Eurasia convergence
+                (van Hinsbergen, Kaymakci, et al., 2010). The underthrusting without major accretion that is recorded in wes-
+                tern Turkey may be analogous to the fate of the missing Paleocene and early Eocene accretionary record in
+                the western Central Taurides. Furthermore, the enigmatic deep-marine deposits of the Dipsiz Göl basin
+                (Özgül, 1984) found below the Aladağ thrust (Mackintosh & Robertson, 2012) may be a remnant of a deep
+                basin once separating the Aladağ nappe and Geyikdağı unit, which was consumed by underthrusting with
+                almost no accretionary record. In even earlier times, before the accretion of the Aladağ and Bolkardağı nappe
+                (Afyon zone) in the Maastrichtian to Paleocene (Özgül, 1997), convergence was accommodated by under-
+                thrusting below the ~95- to 90-Ma suprasubduction zone ophiolites and underlying mélange of the Bozkır
+                nappes with no record of major accretion, but the development of a volcanic arc on the Kırşehir Block (van
+                Hinsbergen et al., 2016, and references therein).
+                Where subduction happened after the late Eocene accretion of the western Central Taurides is more proble-
+                matic. After Lutetian times (~40 Ma), a further 450 km of Africa-Eurasia convergence must have been accom-
+                modated according to the plate circuit. Our post-Lutetian estimate of the amount of shortening, probably
+                conﬁned to the Neogene, accounts for less than 5% of convergence, and uncertainties in the depth of
+                décollement do not allow for more than a few tens of kilometers more shortening. In addition, we know of
+                no candidate thrust west of the Derebucak imbricate that may have accommodated hundreds of kilometers
+                of subduction without accretion. It is most likely that post-Lutetian Africa-Eurasia convergence was accom-
+                modated to the south of the Beydağları platform. This would require that by late Eocene time, the
+                Beydağları platform foreland decoupled from the African plate and accreted to Anatolia.
+                A similar conclusion was drawn from a ﬁrst-order structural transect of the Beydağları platform and Menderes
+                Massif in western Anatolia. van Hinsbergen, Kaymakci, et al. (2010) argued that Africa-Eurasia convergence
+                there was taken up by shortening in the Menderes Massif and Lycian Nappes until late Eocene time. No
+                record of Oligocene thrusting exists in the Menderes massif, Lycian nappes, or its Beydağları platform fore-
+                land, during which time hundreds of kilometers of Africa-Eurasia convergence must have occurred. van
+                Hinsbergen, Kaymakci, et al. (2010) suggested that in late Eocene time (~35 Ma), the entire crust of the
+                Beydağları-Menderes platform accreted to the overriding Anatolian lithosphere. The Eocene and older plate
+                boundary was hence kinked and had two roughly E-W trending segments along which the Aegean and
+                Cyprus slabs subducted and a connecting N(W)-S(E) trending segment where the Antalya slab subducted.
+                After the Aegean trench jumped to the south of the Beydağları platform in late Eocene time, the Aegean
+                and Cyprus trenches were directly connected along the Florence Rise (Figure 2a). In that scenario, the
+                Beydağları platform, which was connected to the Antalya slab, was isolated in an intraplate, upper-plate posi-
+                tion, where it remains today. This explains why there is no shortening record to account for major post-
+                Eocene plate convergence along the line of our section: The NW-SE trending western Central Taurides likely
+                no longer accommodated Africa-Eurasia convergence after late Eocene time.
+                Did we constrain the subduction history and composition of the Antalya slab and its relation to the Cyprus
+                slab? From the analysis above, it follows that the history of the western Central Taurides since Eocene time
+                requires the consumption of at least 90.5 km of lower crust and lithosphere by underthrusting below the
+                Anatolia. The Antalya slab is the straightforward candidate to contain this lithosphere. The length of the
+                Antalya slab as suggested by seismic tomography (Biryol et al., 2011; van der Meer et al., 2018) is at least
+                300 km, at which point it becomes indistinguishable from the Cyprus slab in the tomography. The length
+                of the slab requires that it contains not only the middle Eocene and younger lithosphere but also lithosphere
+                that was consumed prior to underthrusting and accretion of the Geyikdağı unit, perhaps as far back as Late
+                Cretaceous time. Subduction since Late Cretaceous time led to the accretion of continent-derived crustal
+                units, and so the Antalya slab consists mostly of continental lithosphere. Presumably the net density of the
+                slab was similar to that of the surrounding asthenospheric mantle, and so it did not break off shortly after
+
+
+MCPHEE ET AL.                                                                                                              3754
+                                  Tectonics                                                     10.1029/2017TC004893
+
+
+
+                Eocene time. Moreover, our analysis suggests that the Antalya slab is continuous with the Beydağları platform
+                and has not been connected to the African plate since late Eocene time. The Cyprus slab appears to be con-
+                tinuous with the African plate and must contain the oceanic lithosphere that separated Greater Adria from
+                Africa, which according to plate reconstructions was 500 km wide and subducted after middle Eocene time
+                (Mafﬁone et al., 2017; Moix et al., 2008). The upper mantle portions of the slabs are of different composition,
+                continental in the case of the Antalya slab and oceanic in the case of the Cyprus slab, and have been discon-
+                nected since middle Eocene time.
+                Our results call for a reassessment of the dynamics of the Miocene tectonic evolution and uplift history of the
+                western Central Taurides. Segmentation of slabs below Anatolia may have played a role in uplift of the
+                Central Anatolian Plateau in the last 8 Ma by allowing mantle upwelling between slab segments
+                (Schildgen et al., 2012). The timing of uplift requires late Miocene segmentation of the slabs. Koç, van
+                Hinsbergen, et al. (2016) and Koç, Kaymakci, et al. (2016) suggested that Miocene extensional deformation
+                of the Central Tauride intramontane basins, westward convex western Central Taurides oroclinal bending,
+                and Miocene E-W shortening in the western Central Taurides were collectively driven by westward roll-
+                back of the Antalya slab segment. Our analysis now shows that the Antalya slab has been decoupled from
+                the Cyprus slab and evolved separately from the east Aegean slab for at least the last 35 Myr. We there-
+                fore conclude that slab segmentation did not trigger uplift. This does not necessarily mean that the pre-
+                vious hypotheses of Schildgen et al. (2012) and Koç, van Hinsbergen, et al. (2016); Koç, Kaymakci, et al.
+                (2016) are falsiﬁed: slow westward rollback of the continental Antalya slab associated with early
+                Miocene deformation may have opened a window between the slabs allowing asthenospheric inﬂow in
+                late Miocene time. The detachment of the eastern Aegean slab below western Anatolia, which may have
+                occurred around 15 Ma (Bocchini et al., 2018; van Hinsbergen, Kaymakci, et al., 2010) likely also inﬂuenced
+                the dynamics of the Antalya and Cyprus slabs and promoted mantle ﬂow. To advance our understanding
+                of the role of these slabs in driving Anatolian crustal deformation and surface uplift, we foresee that
+                further analysis is needed on the late Eocene to recent history of the Antalya slab, through map view
+                restoration and denudation history of the western Central Taurides, to explain why these processes
+                started only in Miocene time and to ﬁnd the dynamic underpinnings of the enigmatic rise of the
+                Central Anatolian Plateau.
+
+
+                5. Conclusions
+                In this paper, we study the history of shortening that led to the formation of the western Central Taurides to
+                reconstruct the composition and subduction history of the Antalya slab in relation to the Cyprus slab under-
+                lying Central Anatolia. Our conclusions are summarized as follows:
+                • We present the ﬁrst balanced, kinematically viable model of the structure of the western Central Taurides
+                  and ﬁnd a minimum of 90.5 km of shortening in a thin-skinned fold-thrust belt. We identify and describe
+                  two décollement horizons and a two-stage evolution of the belt, associated with different structural styles.
+                • In an early deformation phase, shortening led to emplacement of the Bozkır and Aladağ nappes onto the
+                  Geyikdağı unit. Emplacement of these nappes was followed by formation of a thin-skinned fold-thrust belt
+                  from Kırkkavak to Seydişehir, east of which the décollement stepped down from ~1.5 km to ~10 km depth.
+                  The fold-thrust belt between Kırkkavak and Seydişehir formed until at least late Lutetian time (~40 Ma) and
+                  accommodated at least 73 km of Eocene shortening.
+                • The later deformation phase refolded the western part of the belt and created long (~15 km) wavelength
+                  folding and thrusting, caused by basement-involved thin-skinned thrusting that propagated the ~10 km
+                  décollement westward toward the Beydağları platform foreland. This later deformation phase must have
+                  been active since at least Burdigalian times (~20 Ma), until at least early Pliocene times, and accommo-
+                  dated a minimum of 17.5 km of shortening.
+                • Comparison of our shortening estimates with expected subduction rates calculated from a plate circuit
+                  model shows that even with the uncertainties associated with our model, there are hundreds of kilometers
+                  of Africa-Eurasia convergence that left no accretionary record in the western Central Taurides. Pre-Eocene
+                  convergence left a highly incomplete shortening record.
+                • After Eocene times, Africa-Eurasia convergence in this segment of the plate boundary must have been
+                  accommodated to the south of the Beydağları platform foreland, indicating that after late Eocene times,
+
+
+MCPHEE ET AL.                                                                                                            3755
+                                                                      Tectonics                                                                            10.1029/2017TC004893
+
+
+
+                                                the Beydağları platform was decoupled from Africa and amalgamated to the overriding plate. The Antalya
+                                                slab underlying the Beydağları platform may still be attached to the Beydağları lithosphere and has
+                                                remained almost stagnant since Eocene times. The Miocene shortening phase was likely dynamically dri-
+                                                ven by the Antalya slab, but how remains enigmatic
+                                              • We suggest that the Antalya slab consists largely of continental lithosphere, in contrast to the Cyprus slab,
+                                                which must consist largely of oceanic lithosphere. These two slabs were segmented since Eocene times,
+                                                and so the process of segmentation was thus not a driver of Central Anatolian Plateau rise.
+
+Acknowledgments                               References
+P. J. M. and D. J. J. v. H. acknowledge
+NWO Vidi grant 864.11.004 to D. J. J. v. H.   Akay, E., & Uysal, S. (1988). Post-Eocene tectonics of the central Taurus mountains. Mineral Resources Exploration Bulletin, 108, 23–34.
+We thank Nuretdin Kaymakcı for                Andrew, T., & Robertson, A. H. F. (2002). The Beysehir-Hoyran-Hadim nappes: Genesis and emplacement of Mesozoic marginal and oceanic
+discussions and for logistical support.          units of the northern Neotethys in southern Turkey. Journal of the Geological Society, London, 159(5), 529–543. https://doi.org/10.1144/
+We thank Nadine McQuarrie and                    0016-764901-157
+Delores Robinson for their constructive       Bartol, J., & Govers, R. (2014). A single cause for uplift of the central and eastern Anatolian plateau? Tectonophysics, 637, 116–136. https://doi.
+reviews of the manuscript. The                   org/10.1016/j.tecto.2014.10.002
+1:150,000-scale versions of our strip         Berger, P., & Johnson, A. M. (1980). First-order analysis of deformation of a thrust sheet moving over a ramp. Tectonophysics, 70(3–4), T9–T24.
+map (Figure 4) and Section A (Figure 7a)         https://doi.org/10.1016/0040-1951(80)90276-0
+are included in Supporting Information        Biryol, B. C., Beck, S. L., Zandt, G., & Özacar, a. A. (2011). Segmented African lithosphere beneath the Anatolian region inferred from tele-
+S1.                                              seismic P-wave tomography. Geophysical Journal International, 184(3), 1037–1057. https://doi.org/10.1111/j.1365-246X.2010.04910.x
+                                              Bocchini, G. M., Brüstle, A., Becker, D., Meier, T., van Keken, P. E., Ruscic, M., et al. (2018). Tearing, segmentation, and backstepping of sub-
+                                                 duction in the Aegean: New insights from seismicity. Tectonophysics, 734-735, 96–118. https://doi.org/10.1016/j.tecto.2018.04.002
+                                              Bozkurt, E., Satır, M., & Buğdaycıoğlu, Ç. (2011). Surprisingly young Rb/Sr ages from the Simav extensional detachment fault zone, northern
+                                                 Menderes Massif, Turkey. Journal of Geodynamics, 52(5), 406–431. https://doi.org/10.1016/j.jog.2011.06.002
+                                              Candan, O., Çetinkaplan, M., Oberhänsli, R., Rimmelé, G., & Akal, C. (2005). Alpine high-P/low-T metamorphism of the Afyon zone and impli-
+                                                 cations for the metamorphic evolution of Western Anatolia, Turkey. Lithos, 84(1-2), 102–124. https://doi.org/10.1016/j.lithos.2005.02.005
+                                                                                                           40  39
+                                              Çelik, Ö. F., Delaloye, M., & Feraud, G. (2006). Precise Ar– Ar ages from the metamorphic sole rocks of the Tauride Belt ophiolites, southern
+                                                 Turkey: Implications for the rapid cooling history. Geological Magazine, 143(02), 213. https://doi.org/10.1017/S0016756805001524
+                                              Çelik, Ö. F., Marzoli, A., Marschik, R., Chiaradia, M., Neubauer, F., & Öz, İ. (2011). Early–middle Jurassic intra-oceanic subduction in the İzmir-
+                                                 Ankara-Erzincan Ocean, northern Turkey. Tectonophysics, 509(1–2), 120–134. https://doi.org/10.1016/j.tecto.2011.06.007
+                                              Çetinkaplan, M., Pourteau, A., Candan, O., Koralay, O. E., Oberhänsli, R., Okay, A. I., et al. (2016). P–T–t evolution of eclogite/blueschist facies
+                                                 metamorphism in Alanya massif: Time and space relations with HP event in Bitlis massif, Turkey. International Journal of Earth Sciences,
+                                                 105(1), 247–281. https://doi.org/10.1007/s00531-014-1092-8
+                                              Ciner, A., Karabiyiko, M., Monod, O., Deynoux, M., & Tuzcu, S. (2008). Late Cenozoic sedimentary evolution of the Antalya basin, southern
+                                                 Turkey. Turkish Journal of Earth Sciences, 17(July 2007), 1–41.
+                                              Collins, A. S., & Robertson, A. H. F. (1998). Processes of Late Cretaceous to late Miocene episodic thrust-sheet translation in the Lycian
+                                                 Taurides, SW Turkey. Journal of the Geological Society, 155(5), 759–772. https://doi.org/10.1144/gsjgs.155.5.0759
+                                              Cosentino, D., Schildgen, T. F., Cipollari, P., Faranda, C., Gliozzi, E., Hudáčková, N., et al. (2012). Late Miocene surface uplift of the southern
+                                                 margin of the Central Anatolian Plateau, Central Taurides, Turkey. Bulletin of the Geological Society of America, 124(1-2), 133–145. https://
+                                                 doi.org/10.1130/B30466.1
+                                              Dahlen, F. A. (1984). Noncohesive critical coulomb wedges: An exact solution. Journal of Geophysical Research, 89(B12), 10,125–10,133.
+                                                 https://doi.org/10.1029/JB089iB12p10125
+                                              Dahlstrom, C. D. A. (1969). Balanced cross-sections. Canadian Journal of Earth Sciences, 12, 743–757.
+                                              Daşçı, H. T., Parlak, O., Nurlu, N., & Billor, Z. (2015). Geochemical characteristics and age of metamorphic sole rocks within a Neotethyan ophiolitic
+                                                 mélange from Konya region (central southern Turkey). Geodinamica Acta, 27(4), 223–243. https://doi.org/10.1080/09853111.2014.979532
+                                              Davis, D., Suppe, J., & Dahlen, F. A. (1983). Mechanics of fold and thrust belts and accretionary wedges. Journal of Geophysical Research,
+                                                 88(B2), 1153–1172. https://doi.org/10.1029/JB088iB02p01153
+                                              Demirtasli, E., Turhan, N., Bilgin, A. Z., & Selim, M. (1984). Geology of the Bolkar mountains. Geology of the Taurus Belt. Proceedings of the
+                                                 International Symposium on the Geology of the Taurus Belt, Ankara, Turkey, 12–141.
+                                              Deynoux, M., Çiner, A., Monod, O., Karabıyıkoglu, M., Manatschal, G., & Tuzcu, S. (2005). Facies architecture and depositional evolution of
+                                                 alluvial fan to fan-delta complexes in the tectonically active Miocene Köprüçay Basin, Isparta angle, Turkey. Sedimentary Geology, 173(1–4),
+                                                 315–343. https://doi.org/10.1016/j.sedgeo.2003.12.013
+                                              Di Luccio, F., & Pasyanos, M. E. (2007). Crustal and upper-mantle structure in the eastern Mediterranean from the analysis of surface wave
+                                                 dispersion curves. Geophysical Journal International, 169(3), 1139–1152. https://doi.org/10.1111/j.1365-246X.2007.03332.x
+                                              Dilek, Y., Thy, P., Hacker, B., & Grundvig, S. (1999). Structure and petrology of Tauride ophiolites and maﬁc dike intrusions (Turkey):
+                                                 Implications for the Neotethyan Ocean. Geological Society of America Bulletin, 111(8), 1192–1216. https://doi.org/10.1130/0016-
+                                                 7606(1999)111<1192:SAPOTO>2.3.CO;2
+                                              Dokuz, A., Aydınçakır, E., Kandemir, R., Karslı, O., Siebel, W., Derman, A. S., & Turan, M. (2017). Late Jurassic magmatism and stratigraphy in the
+                                                 eastern Sakarya zone, Turkey: Evidence for the slab breakoff of Paleotethyan oceanic lithosphere. The Journal of Geology, 125(1), 1–31.
+                                                 https://doi.org/10.1086/689552
+                                              Dumont, J. F., Gutnic, M., Marcoux, J., Monod, O., & Poisson, A. (1972). Le Trias des Taurides occidentales (Turquie) Deﬁnition du bassin
+                                                 pamphylien: Un nouveau domaine à ophiolithes à la marge externe de la chaîne taurique. Zeitschrift der Deutschen Geologischen
+                                                 Gesellschaft, 123, 385–409.
+                                              Dumont, J. F., & Kerey, E. (1975). L’accident de Kirkkavak, un decrochement majeur dans le Taurus occidental (Turquie). Bulletin de La Société
+                                                 Géologique de France, 7, 1071–1073.
+                                              Echavarria, L., Hernández, R., Allmendinger, R., & Reynolds, J. (2003). Subandean thrust and fold belt of northwestern Argentina: Geometry
+                                                 and timing of the Andean evolution. AAPG Bulletin, 87(6), 965–985. https://doi.org/10.1306/01200300196
+                                              Epard, J. L., & Groshong, R. H. (1993). Excess area and depth to detachment. American Association of Petroleum Geologists Bulletin, 77(8),
+                                                 1291–1302. https://doi.org/10.1306/BDFF8E66-1718-11D7-8645000102C1865D
+
+
+
+MCPHEE ET AL.                                                                                                                                                                                3756
+                                        Tectonics                                                                            10.1029/2017TC004893
+
+
+
+                Fernandez-Blanco, D. (2014). Evolution of Orogenic Plateaus at Subduction Zones Sinking and raising the southern margin of the Central
+                   Anatolian Plateau. VU University Amsterdam. Doi:978-90-9028673-0
+                Flecker, R., Poisson, A., & Robertson, A. H. F. (2005). Facies and palaeogeographic evidence for the Miocene evolution of the Isparta angle in
+                   its regional eastern Mediterranean context. Sedimentary Geology, 173(1–4), 277–314. https://doi.org/10.1016/j.sedgeo.2003.10.014
+                Gaina, C., Torsvik, T. H., van Hinsbergen, D. J. J., Medvedev, S., Werner, S. C., & Labails, C. (2013). The African plate: A history of oceanic crust
+                   accretion and subduction since the Jurassic. Tectonophysics, 604, 4–25. https://doi.org/10.1016/j.tecto.2013.05.037
+                Gautier, P., Bozkurt, E., Bosse, V., Hallot, E., & Dirik, K. (2008). Coeval extensional shearing and lateral underﬂow during Late Cretaceous core
+                   complex development in the Niğde massif, Central Anatolia, Turkey. Tectonics, 27, TC1003. https://doi.org/10.1029/2006TC002089
+                Gautier, P., Bozkurt, E., Hallot, E., & Dirik, K. (2002). Dating the exhumation of a metamorphic dome: Geological evidence for pre-Eocene
+                   unrooﬁng of the Nigde massif (Central Anatolia, Turkey). Geological Magazine, 139, 559–576.
+                Gessner, K., Gallardo, L. A., Markwitz, V., Ring, U., & Thomson, S. N. (2013). What caused the denudation of the Menderes massif: Review of
+                   crustal evolution, lithosphere structure, and dynamic topography in southwest Turkey. Gondwana Research, 24(1), 243–274. https://doi.
+                   org/10.1016/j.gr.2013.01.005
+                Gessner, K., Ring, U., Passchier, C. W., & Gungor, T. (2001). How to resist subduction: Evidence for large-scale out-of-sequence thrusting during
+                   Eocene collision in western Turkey. Journal of the Geological Society, 158(5), 769–784. https://doi.org/10.1144/jgs.158.5.769
+                Glover, C. P. (1995). Plio-Quaternary sediments and neotectonics of the Isparta. The University of Edinburgh.
+                Glover, C. P., & Robertson, A. (1998). Neotectonic intersection of the Aegean and Cyprus tectonic arcs: Extensional and strike-slip faulting in
+                   the Isparta angle, SW Turkey. Tectonophysics, 298(1-3), 103–132. https://doi.org/10.1016/S0040-1951(98)00180-2
+                Gradstein, F. M. (2012). Introduction. In The geologic time scale, (pp. 1–29). Boston, Mass: Elsevier. doi:https://doi.org/10.1016/B978-0-444-
+                   59425-9.00001-9
+                Gürer, D., Plunder, A., Kirst, F., Corfu, F., Schmid, S. M., & van Hinsbergen, D. J. J. (2018). A long-lived Late Cretaceous–early Eocene extensional
+                   province in Anatolia? Structural evidence from the Ivriz detachment, southern central Turkey. Earth and Planetary Science Letters, 481,
+                   111–124. https://doi.org/10.1016/j.epsl.2017.10.008
+                Gürer, D., van Hinsbergen, D. J. J., Matenco, L., Corfu, F., & Cascella, A. (2016). Kinematics of a former oceanic plate of the Neotethys revealed
+                   by deformation in the Ulukışla basin (Turkey). Tectonics, 35, 2385–2416. https://doi.org/10.1002/2016TC004206
+                Gutnic, M., Monod, O., Poisson, A., & Dumont, J.-F. (1979). Géologie des Taurides Occidentales (Turquie). Mémoires de La Société Géologique de
+                   France, 137, 1–112.
+                Hammond, J. O. S., Kendall, J. M., Collier, J. S., & Rümpker, G. (2013). The extent of continental crust beneath the Seychelles. Earth and
+                   Planetary Science Letters, 381, 166–176. https://doi.org/10.1016/j.epsl.2013.08.023
+                Hayward, A. B. (1982). Tertiary ophiolite-related sedimentation in S.W. Turkey. PhD Thesis: University of Edinburgh.
+                Kaymakci, N., Özçelik, Y., White, S. H., & Van Dijk, P. M. (2009). Tectono-stratigraphy of the Çankırı basin: Late Cretaceous to early Miocene
+                   evolution of the Neotethyan suture zone in Turkey. Geological Society, London, Special Publications, 311(1), 67–106. https://doi.org/
+                   10.1144/SP311.3
+                Kissel, C., & Poisson, A. (1987). Preliminary paleomagnetic studies of the Cenozoic formations from Bey Daglari (western Central Taurides,
+                   Turkey). Comptes Rendus - Academie Des Sciences, Serie II, 304(8), 343–348.
+                Koç, A., Kaymakci, N., Van Hinsbergen, D. J. J., & Kuiper, K. F. (2017). Miocene tectonic history of the central Tauride intramontane basins, and
+                   the paleogeographic evolution of the Central Anatolian Plateau. Global and Planetary Change, 158, 83–102. https://doi.org/10.1016/j.
+                   gloplacha.2017.09.001
+                Koç, A., Kaymakci, N., van Hinsbergen, D. J. J., Kuiper, K. F., & Vissers, R. L. M. (2012). Tectono-sedimentary evolution and geochronology of the
+                   middle Miocene Altınapa Basin, and implications for the late Cenozoic uplift history of the Taurides, southern Turkey. Tectonophysics, 532-
+                   535, 134–155. https://doi.org/10.1016/j.tecto.2012.01.028
+                Koç, A., Kaymakci, N., van Hinsbergen, D. J. J., & Vissers, R. L. M. (2016). A Miocene onset of the modern extensional regime in the Isparta
+                   angle: Constraints from the Yalvaç Basin (southwest Turkey). International Journal of Earth Sciences, 105(1), 369–398. https://doi.org/
+                   10.1007/s00531-014-1100-z
+                Koç, A., van Hinsbergen, D. J. J., Kaymakci, N., & Langereis, C. G. (2016). Late Neogene oroclinal bending in the Central Taurides: A record of
+                   terminal eastward subduction in southern Turkey? Earth and Planetary Science Letters, 434(1), 75–90. https://doi.org/10.1016/j.epsl.2015.11.020
+                Lefebvre, C., Barnhoorn, A., & van Hinsbergen, D. J. J. Kaymakci, N., & Vissers, R. L. M. (2011). Late Cretaceous extensional denudation along a
+                   marble detachment fault zone in the Kırşehir massif near Kaman, central Turkey. Journal of Structural Geology, 33(8), 1220–1236. https://
+                   doi.org/10.1016/j.jsg.2011.06.002
+                Lefebvre, C., Peters, K., Wehrens, P., Brouwer, F. M., & Van Roermund, H. L. M. (2015). Thermal and extensional exhumation history of a
+                   high-temperature crystalline complex (Hırkadağ massif, Central Anatolia). Lithos, 238, 156–173. https://doi.org/10.1016/j.
+                   lithos.2015.09.021
+                Lips, A. L. W., Cassard, D., Sözbilir, H., Yilmaz, H., & Wijbrans, J. R. (2001). Multistage exhumation of the Menderes massif, western Anatolia
+                   (Turkey). International Journal of Earth Sciences, 89(4), 781–792. https://doi.org/10.1007/s005310000101
+                Mackintosh, P. W., & Robertson, A. H. F. (2012). Sedimentary and structural evidence for two-phase Upper Cretaceous and Eocene empla-
+                   cement of the Tauride thrust sheets in central southern Turkey. Geological Society, London, Special Publications, 372(1), 299–322. https://
+                   doi.org/10.1144/SP372.2
+                Mafﬁone, M., van Hinsbergen, D. J. J., de Gelder, G. I. N. O., van der Goes, F. C., & Morris, A. (2017). Kinematics of Late Cretaceous subduction
+                   initiation in the neo-Tethys Ocean reconstructed from ophiolites of Turkey, Cyprus, and Syria. Journal of Geophysical Research: Solid Earth,
+                   122, 3953–3976. https://doi.org/10.1002/2016JB013821
+                McQuarrie, N. (2004). Crustal scale geometry of the Zagros fold–thrust belt, Iran. Journal of Structural Geology, 26(3), 519–535. https://doi.org/
+                   10.1016/j.jsg.2003.08.009
+                Mitra, S. (1988). Three-dimensional geometry and kinematic evolution of the Pine Mountain thrust system, southern Appalachians. Bulletin of
+                   the Geological Society of America, 100(1), 72–95. https://doi.org/10.1130/0016-7606(1988)100<0072:TDGAKE>2.3.CO;2
+                Moix, P., Beccaletto, L., Kozur, H. W., Hochard, C., Rosselet, F., & Stampﬂi, G. M. (2008). A new classiﬁcation of the Turkish terranes and sutures
+                   and its implication for the paleotectonic history of the region. Tectonophysics, 451(1–4), 7–39. https://doi.org/10.1016/j.tecto.2007.11.044
+                Monod, O. (1977). Recherches geologique dans les Taurus occidental au sud de Beysehir (Turquie). PhD thesis. Universite de Paris-Sud, Orsay.
+                Morris, A., & Robertson, A. H. F. (1993). Miocene remagnetisation of carbonate platform and Antalya complex units within the Isparta angle,
+                   SW Turkey. Tectonophysics, 220(1–4), 243–266. https://doi.org/10.1016/0040-1951(93)90234-B
+                Öğretmen, N., Cipollari, P., Frezza, V., Faranda, C., Karanika, K., Gliozzi, E., et al. (2018). Evidence for 1.5 km of uplift of the Central Anatolian
+                   Plateau’s southern margin in the last 450 kyr and implications for its multiphased uplift history. Tectonics, 37, 1–32. https://doi.org/
+                   10.1002/2017TC004805
+
+
+
+MCPHEE ET AL.                                                                                                                                                  3757
+                                        Tectonics                                                                            10.1029/2017TC004893
+
+
+
+                Okay, A. I. (1984). Distribution and characteristics of the north-west Turkish blueschists. Geological Society, London, Special Publications, 17(1),
+                   455–466. https://doi.org/10.1144/GSL.SP.1984.017.01.33
+                Okay, A. I., & Özgül, N. (1984). HP/LT metamorphism and the structure of the Antalya massif, southern Turkey: An allochthonous composite
+                   tectonic sheet. Geological Society, London, Special Publications, 17(1), 429–439. https://doi.org/10.1144/GSL.SP.1984.017.01.30
+                Okay, A. I., Şengör, A. M. C., & Görür, N. (1994). Kinematic history of the opening of the Black Sea and its effect on the surrounding regions.
+                   Geology, 22(3), 267. https://doi.org/10.1130/0091-7613(1994)022<0267:KHOTOO>2.3.CO;2
+                Okay, A. I., Sunal, G., Sherlock, S., Alt, D., Tüysüz, O., Kylander-Clark, A. R. C., & Aygül, M. (2013). Early Cretaceous sedimentation and
+                   orogeny on the active margin of Eurasia: Southern central Pontides, Turkey. Tectonics, 32, 1247–1271. https://doi.org/10.1002/
+                   tect.20077
+                Okay, A. I., Sunal, G., Tüysüz, O., Sherlock, S., Keskin, M., & Kylander-Clark, A. R. C. (2014). Low-pressure-high-temperature metamorphism
+                   during extension in a Jurassic magmatic arc, central Pontides, Turkey. Journal of Metamorphic Geology, 32(1), 49–69. https://doi.org/
+                   10.1111/jmg.12058
+                Okay, A. I., Tansel, I., & Tüysüz, O. (2001). Obduction, subduction and collision as reﬂected in the Upper Cretaceous–lower Eocene sedi-
+                   mentary record of western Turkey. Geological Magazine, 138(02), 117–142. https://doi.org/10.1017/S0016756801005088
+                Okay, A. I., Tüysüz, O., Satir, M., Özkan-Altiner, S., Altiner, D., Sherlock, S., & Eren, R. H. (2006). Cretaceous and Triassic subduction-accretion,
+                   high-pressure-low- temperature metamorphism, and continental growth in the central Pontides, Turkey. Bulletin of the Geological Society
+                   of America, 118(9–10), 1247–1269. https://doi.org/10.1130/B25938.1
+                                                                                                                               40   39
+                Özdamar, Ş., Billor, M. Z., Sunal, G., Esenli, F., & Roden, M. F. (2013). First U-Pb SHRIMP zircon and Ar/ Ar ages of metarhyolites from the
+                   Afyon-Bolkardag zone, SW Turkey: Implications for the rifting and closure of the neo-Tethys. Gondwana Research, 24(1), 377–391. https://
+                   doi.org/10.1016/j.gr.2012.10.006
+                Özer, S., Sözbilir, H., Özkar, I., Toker, V., & Sari, B. (2001). Stratigraphy of Upper Cretaceous-Palaeogene sequences in the southern and
+                   eastern Menderes massif (western Turkey). International Journal of Earth Sciences, 89(4), 852–866. https://doi.org/10.1007/
+                   s005310000142
+                Özgül, N. (1976). Some geological aspects of the Taurus orogenic belt (Turkey). Bulletin of the Geological Society of Turkey, 19, 65–78.
+                Özgül, N. (1984). Stratigraphy and tectonic evolution of the central Taurus. In Proceedings of International Symposium on the Geology of the
+                   Taurus Belt, 1983 (pp. 77–90). General Directorate of Mineral Research and Exploration (MTA).
+                Özgül, N. (1997). Stratigraphy of the tectonostratigraphical units around Hadim–Bozkir–Taskent region, northern part of the Central
+                   Taurides. Bulletin of Mineral Resources Exloration (Turkey), 119, 113–174.
+                Parlak, O. (2016). The tauride ophiolites of Anatolia (Turkey): A review. Journal of Earth Science, 27(6), 901–934. https://doi.org/10.1007/
+                   s12583-016-0679-3
+                Plunder, A., Agard, P., Chopin, C., & Okay, A. I. (2013). Geodynamics of the Tavşanlı zone, western Turkey: Insights into subduction/obduction
+                   processes. Tectonophysics, 608, 884–903. https://doi.org/10.1016/j.tecto.2013.07.028
+                Plunder, A., Agard, P., Chopin, C., Soret, M., Okay, A. I., & Whitechurch, H. (2016). Metamorphic sole formation, emplacement and blueschist
+                   facies overprint: early subduction dynamics witnessed by western Turkey ophiolites. Terra Nova, 28(5), 329–339. https://doi.org/10.1111/
+                   ter.12225
+                Poisson, A., Roland, W., Sağular, K., & Temiz, H. (2003). New data concerning the age of the Aksu thrust in the south of the Aksu valley, Isparta
+                   angle (SW Turkey): Consequences for the Antalya basin and the eastern Mediterranean. Geological Journal, 38(3-4), 311–327. https://doi.
+                   org/10.1002/gj.958
+                Pourteau, A., Candan, O., & Oberhänsli, R. (2010). High-pressure metasediments in central Turkey: Constraints on the Neotethyan closure
+                   history. Tectonics, 29, TC5004. https://doi.org/10.1029/2009tc002650
+                                                                                                                                                              40   39
+                Pourteau, A., Sudo, M., Candan, O., Lanari, P., Vidal, O., & Oberhänsli, R. (2013). Neotethys closure history of Anatolia: Insights from Ar- Ar
+                   geochronology and P-T estimation in high-pressure metasedimentary rocks. Journal of Metamorphic Geology, 31(6), 585–606. https://doi.
+                   org/10.1111/jmg.12034
+                Robertson, A. H. F., & Woodcock, N. H. (1984). The SW segment of the Antalya complex, Turkey as a Mesozoic-Tertiary Tethyan continental
+                   margin. Geological Society, London, Special Publications, 17(1), 251–271. https://doi.org/10.1144/GSL.SP.1984.017.01.19
+                Schildgen, T. F., Cosentino, D., Caruso, A., Buchwaldt, R., Yıldırım, C., Bowring, S. A., et al. (2012). Surface expression of eastern Mediterranean
+                   slab dynamics: Neogene topographic and structural evolution of the southwest margin of the Central Anatolian Plateau, Turkey. Tectonics,
+                   31, TC2005. https://doi.org/10.1029/2011TC003021
+                Schildgen, T. F., Yıldırım, C., Cosentino, D., & Strecker, M. R. (2014). Linking slab break-off, Hellenic trench retreat, and uplift of the central and
+                   eastern Anatolian plateaus. Earth-Science Reviews, 128, 147–168. https://doi.org/10.1016/j.earscirev.2013.11.006
+                Schmidt, A., Pourteau, A., Candan, O., & Oberhänsli, R. (2015). Lu–Hf geochronology on cm-sized garnets using microsampling: New con-
+                   straints on garnet growth rates and duration of metamorphism during continental collision (Menderes Massif, Turkey). Earth and
+                   Planetary Science Letters, 432, 24–35. https://doi.org/10.1016/j.epsl.2015.09.015
+                Sengör, A. M., & Yilmaz, Y. (1981). Tethyan evolution of Turkey: A plate tectonic approach. Tectonophysics, 75(3–4), 181–241. https://doi.org/
+                   10.1016/0040-1951(81)90275-4
+                Seton, M., Müller, R. D., Zahirovic, S., Gaina, C., Torsvik, T., Shephard, G., et al. (2012). Global continental and ocean basin reconstructions since
+                   200 Ma. Earth-Science Reviews, 113(3–4), 212–270. https://doi.org/10.1016/j.earscirev.2012.03.002
+                Stampﬂi, G., Marcoux, J., & Baud, A. (1991). Tethyan margins in space and time. Palaeogeography, Palaeoclimatology, Palaeoecology, 87(1–4),
+                   373–409. https://doi.org/10.1016/0031-0182(91)90142-E
+                Suppe, J. (1983). Geometry and kinematics of fault-bend folding. American Journal of Science, 283(7), 684–721. https://doi.org/10.2475/
+                   ajs.283.7.684
+                Tezel, T., Shibutani, T., & Kaypak, B. (2013). Crustal thickness of Turkey determined by receiver function. Journal of Asian Earth Sciences, 75,
+                   36–45. https://doi.org/10.1016/j.jseaes.2013.06.016
+                Topuz, G., Celik, O. F., Sengor, A. M. C., Altintas, I. E., Zack, T., Rolland, Y., & Barth, M. (2014). Jurassic ophiolite formation and emplacement as
+                   backstop to a subduction-accretion complex in northeast Turkey, the Refahiye ophiolite, and relation to the Balkan ophiolites. American
+                   Journal of Science, 313(10), 1054–1087. https://doi.org/10.2475/10.2013.04
+                van der Meer, D. G., van Hinsbergen, D. J. J., & Spakman, W. (2018). The atlas of the underworld: A catalogue of slab remnants in the mantle
+                   imaged by seismic tomography, and their geological interpretation. Tectonophysics, 723, 309–448.
+                van Hinsbergen, D. J. J. (2010). A key extensional metamorphic complex reviewed and restored: The Menderes massif of western Turkey.
+                   Earth-Science Reviews, 102(1–2), 60–76. https://doi.org/10.1016/j.earscirev.2010.05.005
+                van Hinsbergen, D. J. J., Dekkers, M. J., Bozkurt, E., & Koopman, M. (2010). Exhumation with a twist: Paleomagnetic constraints on the
+                   evolution of the Menderes metamorphic core complex, western Turkey. Tectonics, 29, TC3009. https://doi.org/10.1029/2009tc002596
+
+
+
+MCPHEE ET AL.                                                                                                                                                   3758
+                                       Tectonics                                                                      10.1029/2017TC004893
+
+
+
+                van Hinsbergen, D. J. J., Dekkers, M. J., & Koç, A. (2010). Testing Miocene remagnetization of Beydagları: Timing and amount of Neogene
+                   rotations in SW Turkey. Turkish Journal of Earth Sciences, 19(April 2009), 123–156. https://doi.org/10.3906/yer-0904-1
+                van Hinsbergen, D. J. J., Kaymakci, N., Spakman, W., & Torsvik, T. H. (2010). Reconciling the geological history of western Turkey with plate
+                   circuits and mantle tomography. Earth and Planetary Science Letters, 297(3–4), 674–686. https://doi.org/10.1016/j.epsl.2010.07.024
+                van Hinsbergen, D. J. J., Mafﬁone, M., Plunder, A., Kaykmakcı, N., Ganerød, M., Hendriks, B. W. H., et al. (2016). Tectonic evolution and
+                   paleogeography of the Kırşehir block and the Central Anatolian ophiolites, Turkey. Tectonics, 35, 983–1014. https://doi.org/10.1002/
+                   2015TC004018
+                van Hinsbergen, D. J. J., & Schmid, S. M. (2012). Map view restoration of Aegean-west Anatolian accretion and extension since the Eocene.
+                   Tectonics, 31, TC5005. https://doi.org/10.1029/2012TC003132
+                Yilmaz, P., & Maxwell, J. (1984). An example of an obduction melange: The Alakir Ҫay unit, Antalya complex, southwest Turkey. Geological
+                   Society of America Special Papers, 198, 139–152. https://doi.org/10.1130/SPE198-p139
+
+
+
+
+MCPHEE ET AL.                                                                                                                                         3759
+

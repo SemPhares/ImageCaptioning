@@ -1,0 +1,1150 @@
+Bull. Soc. géol. France, 2016, t. 187, no 4, pp. 133-153
+
+
+
+
+ Pre-Pliocene tectonostratigraphic framework of the Provence continental shelf
+                       (eastern Gulf of Lion, SE France)
+   FRANÇOIS FOURNIER1, AURÉLIE TASSY1, ISABELLE THINON2, PHILIPPE MÜNCH3, JEAN-JACQUES CORNÉE3,
+        JEAN BORGOMANO1, PHILIPPE LEONIDE1, MARIE-ODILE BESLIER4, ARNAUD FOURNILLON1,7,
+       CHRISTIAN GORINI5, POL GUENNOC2, JULIEN OUDET1, MARINA RABINEAU6 , FRANÇOISE SAGE4
+                                      and RENAUDT OULLEC1,8
+
+
+          Keywords. – Marine geology, Tectonostratigraphy, Seismic stratigraphy, Cretaceous paleogeography, Oligo-Miocene
+          rifting, Post-rift compression.
+          Abstract. – The seaward extension of onshore formations and structures were previously almost unknown in Provence.
+          The interpretation of 2D high-resolution marine seismic profiles together with the integration of sea-bottom rock sam-
+          ples provides new insights into the stratigraphic, structural and paleogeographic framework of pre-Messinian Salinity
+          Crisis (MSC) deposits of the Provence continental shelf. Seven post-Jurassic seismic units have been identified on seis-
+          mic profiles, mapped throughout the offshore Provence area and correlated with the onshore series. The studied marine
+          surface and sub-surface database provided new insights into the mid and late Cretaceous paleogeography and structural
+          framework as well as into the syn– and post-rift deformation in Provence. Thick (up to 2000 m) Aptian-Albian series
+          whose deposition is controlled by E-W-trending faults are evidenced offshore. The occurrence and location of the Upper
+          Cretaceous South-Provence basin is confirmed by the thick (up to 1500 m) basinal series downlaping the Aptian-Albian
+          unit. This basin was fed in terrigenous sediments by a southern massif (“Massif Méridional”) whose present-day relict is
+          the Paleozoic basement and its sedimentary cover from the Sicié imbricate. In the bay of Marseille, thick syn-rift
+          (Rupelian to Aquitanian) deposition occurred (>1000 m). During the rifting phase, syn-sedimentary deformations con-
+          sist of dominant N040 to N060 sub-vertical faults with a normal component and N050 drag-synclines and anticlines.
+          The syn-rift and early post-rift units (Rupelian to early Burdigalian) are deformed and form a set of E-W-trending en
+          echelon folds that may result from sinistral strike-slip reactivation of N040 to N060 normal faults during a N-S com-
+          pressive phase of early-to-mid Burdigalian age (18-200Ma). Finally, minor fault reactivation and local folding affect
+          post-rift deposits within a N160-trending corridor localized south of La Couronne, and could result from a later,
+          post-Burdigalian and pre-Pliocene compressive phase.
+
+
+
+                   Cadre tectonostratigraphique des formations anté-pliocènes du plateau continental de
+                                      Provence (golfe du Lion oriental, SE France)
+
+
+          Mots-clés. –
+
+          Résumé. – Le prolongement en mer des formations et des structures provençales était jusqu’alors largement inconnu.
+          L’interprétation de profils de sismique-réflexion marine 2D et l’intégration de dragages et carottages du fond-marin ont
+          permis d’apporter des éléments nouveaux concernant le cadre stratigraphique, structural et paléogéographique des dé-
+          pôts anté-Messiniens du plateau continental de Provence. Cinq unités sismiques post-Jurassiques et anté-Messiniennes
+          ont été identifiées sur les profils sismiques, cartographiées à travers le plateau continental et corrélées avec les séries af-
+          fleurant à terre. Une épaisse unité apto-albienne (jusqu’à 2000 m) dont le dépôt est contrôlé par des failles E-W a été
+          mise en évidence en mer. L’existence d’un bassin subsident au Crétacé supérieur sur le plateau continental de Provence
+          a été confirmée par le développement d’une épaisse série de bassin (jusqu’à 1500 m) reposant en downlap sur
+          l’Apto-Albien. Le socle métamorphique de l’écaille de Sicié et sa couverture sédimentaire peut être considéré comme
+          une relique allochtone du « Massif Méridional » ayant alimenté le Bassin sud-provençal en éléments terrigènes au Cré-
+          tacé supérieur. Dans la rade de Marseille, une épaisse unité syn-rift (Rupélien à Aquitanien) a été mise en évidence
+          (>1000 m), structurée en une série de synformes en échelon d’axe E-W et affectée par des failles d’orientation domi-
+          nante N040 à N060. Sur le flanc sud des synformes, la formation de plis d’axe N050 est associée à une déformation
+          syn-sédimentaire. La formation des synformes en échelon d’axe E-W résulterait d’une réactivation en décrochement des
+          failles N040 à N060 pendant une phase de compression N-S dont l’âge est compris entre le Burdigalien inférieur et
+          moyen (18-20 Ma). Enfin, les dépôts post-rift sont affectés par des déformations mineures (réactivation de failles et plis
+          associés), le long d’un couloir d’orientation N160 à l’ouest de la baie de Marseille, attribuables à une phase de compres-
+          sion post-burdigalienne et anté-pliocène.
+
+1. Aix-Marseille Université, CNRS, IRD, CEREGE UM34, 3 place V. Hugo, 13331 Marseille, France
+2. DGR/GBS BRGM, 3 avenue Claude Guillemin, BP 36009, 45100 Orléans, France
+3. UMR5243-Géosciences Montpellier, Université Montpellier 2, Place Eugène Bataillon, 34090 Montpellier, France
+4. UMR 7329-GéoAzur, 250 rue Albert Einstein, 06560 Valbonne, France
+5. Institut des Sciences de la Terre de Paris (iSTeP) CNRS: UMR7193-Université Pierre et Marie Curie (UPMC), 4 place Jussieu, 75005 Paris, France
+6. CNRS, UMR6538, Domaines Océaniques, IUEM, 29280 Plouzané, France
+7. BEICIP-FRANLAB, 232 Avenue Napoléon Bonaparte, 92500 Rueil-Malmaison, France
+8 Institut Polytechnique LaSalle Beauvais, Département Géosciences (GEOS), 19 rue Pierre Waguet, BP 30313, 60026 Beauvais cedex, France
+Manuscript received on February 2, 2016; accepted May 30, 2016
+
+                                                                                                                       Bull. Soc. géol. Fr., 2016, no 4
+134                                                    FOURNIER F. et al.
+
+
+
+INTRODUCTION                                                      2005, 2006; Reijmer et al., 2015]. The South Provence ba-
+                                                                  sin was bordered to the north by an extensive carbonate
+The Provence continental shelf is located at the transition       platform and to the south by an emerged crystalline massif
+between the Gulf of Lion margin and the Ligurian margin.          [Philip, 1970; Hennuy, 2003].
+The Gulf of Lion and Ligurian margins are two segments of              At the end of the Cretaceous (late Santonian), the conver-
+the northern margin of the Liguro-Provencal basin which is        gence between Europe and Iberia was initiated [e.g. Dercourt
+interpreted as a back-arc basin that formed as a result of the    et al., 1986; Stampfli and Borel, 2002] and led to the develop-
+counter-clockwise rotation of Corsica-Sardinia micro-plate        ment of the Pyrenean fold-and-thrust belt [e.g. Mattauer,
+during the Miocene [Réhault et al., 1984; Gorini, 1993;           1968; Roure and Choukroune, 1998; Bestani et al., 2015]. In
+Gueguen et al., 1998; Carminati et al., 1998a and 1998b;          Provence, a thick continental succession (~1200 m at the
+Gattacceca et al., 2007]. Few attention has been paid on the      depocentre of the Arc basin), of late Santonian to Lutetian
+marine geology of this transitional area between Gulf of          age, deposited in a foreland setting [Leleu et al., 2009]. Dur-
+Lion and Ligurian margins, and very few published inter-          ing the Late Eocene (Bartonian) a major phase of shortening
+pretations of seismic and core data are available [Leenhardt      occurred with north-verging fold and thrust development,
+et al., 1969; Ducrot, 1967; Froget, 1967, 1971, 1972, 1974],      overprinting the former stuctures [e.g. Lutaud, 1935; Guieu,
+in contrast to the Gulf of Lion margin [e.g. Gorini, 1993;        1968; Tempier, 1987; Lacombe and Jolivet, 2005].
+Guennoc et al., 2000, Séranne, 1999; Lofi et al., 2003,
+                                                                       During the latest Eocene and Early Oligocene, the E-W
+2005; Lofi and Berné 2008; Bache et al., 2010; Oudet et al.,
+                                                                  extension in the West-European platform led to the formation
+2010; Moulin et al., 2015] and the Ligurian margin [e.g.
+                                                                  of the West-European rift system [Bergerat, 1987; Hippolyte
+Rollet, 1999; Rollet et al., 2002; Bigot-Cormier et al.,
+                                                                  et al., 1991; Ziegler, 1994; Séranne, 1999]. During the Late
+2004; Larroque et al., 2010; Sage et al., 2011]. The tectonic
+                                                                  Oligocene a second extensional phase was initiated as a re-
+style of the Gulf of Lion margin differs significantly from
+                                                                  sult of the opening of the Liguro-Provençal back-arc basin
+that of the Ligurian margin since the latter was strongly in-
+                                                                  [Rehault et al., 1984; Hippolyte et al., 1993; Mauffret and
+fluenced by post-rift tectonic inversion [Bigot-Cormier et
+                                                                  Gorini, 1996; Mauffret et al., 2004; Gattacceca et al., 2007;
+al., 2004, Sage et al., 2011]. The occurrence of extensive
+                                                                  Jolivet et al., 2015]. The opening of the Liguro-Provençal
+oligo-miocene and plio-quaternary deposits on the Pro-
+                                                                  basin occurred in two steps: a syn-rift stage (Chattian to
+vence continental shelf [Oudet et al., 2010; Tassy et al.,
+                                                                  early Burdigalian: 30-20.5 Ma) and a post-rift stage (early
+2014] provides a good opportunity to evidence and charac-
+                                                                  Burdigalian-Langhian: 20.5-15 Ma) with oceanic crust ac-
+terize the syn-rift and post-rift deformation at the transition
+                                                                  cretion and associated anticlockwise rotation of the Corsica-
+between the Gulf of Lion and Ligurian margins.
+                                                                  Sardinia continental block [e.g. Gattacceca et al., 2007].
+     On the basis of an integrated seismic, rock sample and       Oligocene-Early Miocene extensional phases were responsi-
+field study, the present work aims at 1) constructing a           ble for the reactivation of NNE-trending faults such as the
+tectono-stratigraphic framework for the Provence continen-        Aix-en-Provence fault system and for the formation of
+tal shelf by defining and interpreting the main seismo-strati-    grabens such as the Marseille, Huveaune and Aix-en-Provence
+graphic units and remarkable surfaces, 2) mapping and             basins that are filled with thick (locally higher than 800 m),
+characterizing the main structural domains, 3) providing          continental to shallow-marine successions [e.g. Nury, 1988;
+new insights into the mesozoic and cenozoic paleogeo-             Hippolyte et al., 1993] (fig. 1B).
+graphy of Provence, and 4) characterizing the syn-rift and             In South-East France, the Alpine front propagated to-
+post-rift deformation of the Provence margin.                     ward the SW, from the Late Oligocene to the Middle Mio-
+                                                                  cene, thus leading to the reactivation of Pyrenean structures.
+GEODYNAMIC HISTORY OF PROVENCE                                         The onset of a compressive regime in Provence [Villeger,
+                                                                  1984; Villeger and Andrieux, 1987; Blès and Gros, 1991] is
+During the rifting of the Liguro-Piemontais domain (Middle        recorded from the Early Miocene, but its timing with regards
+Triassic to Late Jurassic), the Provence area was located on      to the end of the oceanic accretion in the Liguro-Provençal
+a NE-trending margin of the Alpine Tethys [e.g. Stampfli          basin is still unclear. In northern Provence, the main Miocene
+and Borel, 2002]. The extensional regime related to the           Alpine fold-and-thrust deformation occurred during the
+opening of the Liguro-Piemontais ocean continued during           Tortonian [Clauzon, 1984]. In southern Provence, evidences
+the Early Cretaceous, thus resulting in the development of        of post-rift deformation are scattered: 1) vertical movements
+thick carbonate platform deposits in Provence [e.g. De            (uplifts) that are recorded by sea-level markers such as Mio-
+Graciansky and Lemoine, 1988; Masse et al., 2009]. During         cene marine abrasion surfaces [Champion et al., 2000] and
+the latest Barremian-earliest Aptian, the carbonate plat-         Pliocene shelf breaks [Tassy, 2012], and 2) major regional
+forms drowned in southern Provence as a result of the de-         faults that are considered to be active during post-oligocene
+velopment of a subsiding basin. During the mid-Cretaceous         times such as the Salon Cavaillon fault [Molliex et al., 2011]
+(Albian-Lower Cenomanian), the formation of the Durance           and the Aix fault [Guignard et al., 2005] (fig 1B).
+high [Gignoux, 1925; Masse and Philip, 1976] resulted in               The morphology of the continental margins in the
+the subaerial exposure of the Provence area and the devel-        whole Mediterranean domain has been strongly affected by
+opment of a major regional unconformity. During the               the so-called Messinian Salinity Crisis (MSC) that relates to
+Cenomanian to the Santonian, a rather shallow (~200 m wa-         a major and rapid sea-level drop that induced the develop-
+ter-depth), east-west trending, narrow and elongated basin        ment of a spectacular subaerial erosional surface (MES:
+was formed (South Provence basin) in a transtensive regime        Messinian Erosional Surface) [Hsü et al., 1973; Krijgsman
+that prevailed mainly during the Turonian-Coniacian               et al., 1999; Manzi et al., 2013; Roveri et al., 2014 and
+[Floquet and Hennuy, 2003; Hennuy, 2003; Floquet et al.,          references therein].
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                         135
+
+
+
+
+FIG. 1. – A) Bathymetric map of the Gulf of Lion, Provence and Ligurian margin (source: SHOM, IFREMER), B) Geological and structural setting of Provence,
+modified after Bestani et al. [2015], C) Location of the marine seismic profiles and cores and simplified onshore geological map.
+
+                                                                                                                        Bull. Soc. géol. Fr., 2016, no 4
+136                                                   FOURNIER F. et al.
+
+
+
+PREVIOUS MARINE GEOLOGY STUDIES                                  profiles (fig. 1), rock samples extracted from seabed and
+OFFSHORE PROVENCE                                                coastal outcrops. The present study is mainly based on
+                                                                 newly acquired marine seismic data from 5 surveys per-
+In contrast to the neighbouring Gulf of Lion and Ligurian        formed on board the R/V TETHYS II vessel: MAST5913
+margins, few marine geology studies have focused on the Pro-     (2007 and 2009), MARSOLIG (2008), CASSEIS (2009)
+vence continental shelf and published seismic and core data      and CASSEIS II (2011). The seismic profiles cover an area
+are scarce. The first dredging of submarine outcrops from the    of approximately 1800 km2 with a total survey length of
+Provence continental shelf has been carried on during the late   2740 km and an average profile spacing of 1 km. Seismic
+1940s around the Cassidaigne canyon [Bourcart, 1949] and         profiles consists of 255 high resolution (HR) and very high
+yielded Palaeozoic metamorphic rocks within the canyon and       resolution (VHR) sections with a recording length ranging
+Mesozoic dolomites and marls in the canyon’s head. New           from 0.2 s to 2 s two-way-travel-time (TWTT). The seismic
+dredging surveys of the Provence continental shelf, performed    acquisition devices used for these seismic surveys are dis-
+by the Cousteau submarine saucer in the early 1960s, pro-        played in table I. In addition, older industrial and academic
+vided a significant pre-Pliocene submarine rock database from    seismic surveys were integrated in this study [e.g. Gorini,
+the Cassidaigne canyon and Blauquières shelf [Blanc and          1993; Dos Reis, 2001; Lofi et al., 2003; Oudet et al., 2010]:
+Blanc-Vernet, 1966; Blanc et al., 1967; Froget, 1971; Froget,    GL80 (TOTAL), RM84 (TOTAL), MARION (IFREMER),
+1974]. Plio-Quaternary deposits of the Provence continental      CALMAR-99 (IFREMER) and Carry (EOSYS). Paper seis-
+shelf have been studied with sedimentological [e.g. Blanc and    mic profiles from Leenhardt et al. [1969] were used for
+Blanc-Vernet, 1966], diagenetical [Froget et al., 1972] and      geological interpretations but were not integrated in the
+micropaleontological approaches [Blanc-Vernet, 1969]. A de-      digital dataset.
+tailed geomorphologic study of the Provence continental slope
+has been conducted by Bourcart [1960] who identified and
+mapped the main submarine canyons. On the Provence conti-        TABLE I – Summary of seismic databases used in the present paper
+nental shelf, later geomorphologic studies have evidenced the
+presence of extensive underwater notches at various water
+depths [Collina-Girard, 1992; 1997].
+     The first reflexion seismic survey on the Provence con-
+tinental shelf has been performed in 1965 by the Oceano-
+graphic Museum of Monaco, using sparker seismic source,
+between the Planier islands and the Cassidaigne canyon.
+The results have been published by Leenhardt et al. [1969]
+who evidenced NE-SW anticlines and synclines south of
+Riou island as well as various small-scale paleo-canyons in-
+cising the edge of the continental shelf and filled with sedi-
+ment. Other sparker seismic profiles have been performed
+on the Banc des Blauquières, east of the Cassidaigne can-
+yon and studied by Froget [1974] who evidenced the occur-
+rence of a thick interval of deposits characterized by a
+layered seismic facies, crosscutting the Palaeozoic base-            The present study integrates descriptions of rock sam-
+ment, that was interpreted as representing the sedimentary       ples dredged from seabed and published by Froget [1967,
+infill of a graben. During the 1980s, various oil exploration    1972, and 1974] as well as newly acquired samples col-
+2D seismic databases have been acquired in the Gulf of           lected with the CNEXO-VILLE rock corer (BRGM) during
+Lion. Most of the profiles are located in the continental        the CASSEIS survey and published by Tassy et al. [2014].
+slope or deep-water area, but some of them reach the conti-      The location and description of the seabed rock samples are
+nental shelf. Maps and paleogeographic reconstructions of        summarized in table II.
+the Oligo-Miocene and Plio-Quaternary deposits of the off-
+shore Provence area have been performed from the strati-             The seismic interpretation is based on (1) the identifica-
+graphic interpretation of air-gun oil industry seismic           tion of major seismic horizons and major faults over the
+profiles [Bache, 2008; Oudet, 2008; Oudet et al., 2010].         surveyed area and imaged by a maximum of cross-cutting
+The recent acquisition of sparker and airgun seismic pro-        lines and (2) the definition of seismic units that are bounded
+files offshore Provence (MARSOLIG-2008, CASSEIS-                 by extensively correlatable seismic reflectors or envelopes
+2009 and CASSEIS-2011 surveys) led to the revision of the        of seismic terminations and that are characterized by a
+interpretations by Froget [1974] regarding the Blauquières       given seismic facies. Seismic facies are defined by a set of
+grabens. Tassy [2012] and Tassy et al. [2014] regarded such      seismic attributes such as reflector continuity, amplitude
+structures as steep flanked canyons formed during the            and frequency. The lack of offshore wells within the Pro-
+Messinian and filled with Plio-Quaternary deposits.              vence continental shelf did not allow direct lithologic and
+                                                                 chronostratigraphic calibration of the seismic strata to be
+                                                                 performed. The chrono-stratigraphic interpretation of the
+DATABASE AND METHODS                                             seismic unconformities and units are based on 1) the inter-
+                                                                 pretation of seismic facies in terms of lithology and
+The present study focuses on the Provence continental shelf      small-scale (meter to decameter-scale) heterogeneity distri-
+located between Cap Couronne and Cap Sicié. The dataset          bution, 2) the comparison between the seismic stratigraphic
+used in this study includes marine seismic reflection 2D         patterns evidenced from profiles offshore and the regional
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                         TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                              137
+
+
+TABLE II – Sea-bottom cores collected during the CASSEIS survey (2009)
+
+
+
+
+                                                                                          Bull. Soc. géol. Fr., 2016, no 4
+138                                                               FOURNIER F. et al.
+
+
+
+TABLE II – follow
+
+
+
+
+stratigraphic architecture onshore and 3) the dating of                        RESULTS
+sea-bottom rock samples located on seismic profiles. Ages
+for sea-bottom rock samples have been determined by using                      Definition of seismic units and chronostratigraphic
+benthic foraminiferal biostratigraphy or, when relevant                        interpretation
+microfossils were lacking, by lithologic and faciologic
+                                                                               The interpretation of seismic profiles and the analysis of
+analogies with onshore regional outcrops.
+                                                                               rock samples collected on the sea-bottom allowed seven
+
+
+
+
+FIG. 2. – Geological map of onshore southern Provence, modified after the BRGM geological map of Marseille 1/250,000 [Rouire and Blanc, 1979] and offshore
+Provence continental shelf (this study). Plio-Quaternary deposits (Unit 6) are mapped when its two-way time thickness is higher than 100 ms (two-way time).
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                            TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                      139
+
+
+post-Jurassic seismo-stratigraphic units to be identified and               Unit U0 (Berriasian to Barremian).
+mapped across the Provence continental shelf (fig. 2). The
+acoustic basement (Us) is characterized by an unstructured                  The U0 unit was distinguished from the underlying Us unit
+seismic facies ranging from chaotic to transparent. It corre-               only on sparker profiles, where it exhibits in its lower part a
+lates with the Paleozoic metamorphic basement (samples                      set of tectonically deformed and poorly continuous reflec-
+CR40, CR41, CR42, CR43: table II; samples m1, m2, m3,                       tors (fig. 5). This stratified interval (U0a) is interpreted to
+m4: table III), the late Paleozoic (Carboniferous and Perm-                 represent Berriasian to Hauterivian limestone and argilla-
+ian: sample p1, table III) deposits and part of the Mesozoic                ceous limestones. The sea-bottom sample v1 (table III) col-
+(Triassic to Jurassic: samples d2, d2, d3, d4, table III)                   lected within this stratified seismic facies interval yelded a
+sedimentary cover (fig. 3 and 4).                                           lower Valanginian age [Froget, 1974]. The upper part of the
+
+
+
+
+FIG. 3. – VHR sparker seismic images and interpretation of profiles A) CAS2011-13 and B) CAS09-spk10, both located in the bay of La Ciotat (see loca-
+tion in fig. 1). Us: acoustic basement (pre-Cretaceous); U2: Upper Cretaceous; U6: Plio-Quaternary.
+
+                                                                                                                     Bull. Soc. géol. Fr., 2016, no 4
+140                                                                FOURNIER F. et al.
+
+
+
+
+FIG. 4. – HR airgun seismic images and interpretation of profiles A) CAS09-46 and B) CAS09-02, both located in the Blauquières shelf (see location in fig. 1).
+Us: acoustic basement (pre-Cretaceous); U6: Plio-Quaternary.
+
+
+
+
+unit exhibits generally a non-stratified seismic facies (U0b)                    Unit U1 (Aptian –Albian)
+and likely correlate with the Upper Hauterivian and
+Barremian massive limestones and dolomites (fig. 6 and 7).                       The unit U1 was identified on both sparker and air-gun pro-
+On airgun profiles, the U0 unit exhibits a chaotic facies that                   files as being composed of a well stratified seismic facies
+cannot be distinguished from the underlying Us unit. On-                         with low-frequency, continuous, parallel and folded reflec-
+shore, the thickness of Berriasian to Barremian deposits                         tors (fig. 5, 7, 8, 9, 10 and 11). An upward transition in seis-
+may reach 750 m in the Marseille area whereas offshore the                       mic facies, from chaotic to layered, is commonly observed
+two-way time thickness of the U0 unit is higher than 0.2 s                       between U0 and U1 units (fig. 7). An Aptian to Albian
+(approximately 600 m by considering a velocity of 6000 m/s                       age was assigned to this seismic unit based on the follow-
+in Urgonian tight limestones after Fournier et al. [2011]).                      ing three criteria: 1) samples dredged from this unit
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                               TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                            141
+
+
+
+
+FIG. 5. – VHR sparker seismic images and interpretation of profiles A) MSL08-77 and B) MSL08-85, both located south of Frioul (see location in fig. 1 and 21).
+U0a: Lower Cretaceous (Berriasian to Hauterivian); U1: Aptian-Albian; U3-4: syn-rift to early post-rift (Rupelian to early Burdigalian); U6: Plio-Quaternary.
+
+
+
+
+(samples a1, a2, a3, a4, a5 and a6: table III) are black marls                   Cyr-sur-Mer, South of Soubeyrane cliffs (fig. 7), in the the
+and glauconitic, siliceous sponge-rich limestones that ex-                       bay of La Ciotat (fig. 3), south of the Riou island (fig. 11),
+hibit similar facies to that of Aptian and Albian outcrops                       and in the bay of Marseille, south of the Nerthe massif (fig.
+from the Toulon area [Froget, 1971], 2) the stratified seis-                     9). U2 unit reflectors exhibits onlap and/or downlap termi-
+mic pattern suggests sharp and high-frequency vertical vari-                     nations over U1 unit, south of the Riou island (fig. 11) and
+ations in lithology that are consistent with limestone-marl                      in the bay of Marseille (fig. 9). In high-resolution sparker
+alternations, and 3) unit U1 is in apparent stratigraphic con-                   profiles, this unit display in its lower part a well stratified
+formity with the top of unit U0 (Urgonian limestones). The                       seismic facies, with high-frequency, low to medium ampli-
+vertical change in seismic facies from chaotic to layered                        tude reflectors (fig. 7). South of La Ciotat, the top of this
+may represent an upward transition from the massive                              unit is characterized, on air-gun profiles, by deformed, low
+Urgonian limestones to well-stratified Bedoulian lime-                           continuity reflectors (fig. 3). By comparison with the for-
+stones and argillaceous limestones. The base of the unit U1                      mations identified onshore, unit U2 is assigned to the Upper
+therefore represents the drowning-event of the Urgonian                          Cretaceous (Cenomanian to Santonian) on the basis of the
+platform. Onshore, in Cassis area, the thickness of the                          following arguments: 1) a sea-bottom core sample (CR57b:
+Bedoulian-Gargasian interval is around 150 m. Offshore,                          table II) extracted in the bay of Cassis at the base of the unit
+south of the Riou island, the estimated thickness of U1 unit                     yielded the Hedbergella – Rotalipora foraminiferal assem-
+is 1100 to 1600 m (fig. 11) by taking an interval velocities                     blage that indicates a Cenomanian age [Tassy, 2012], 2) the
+ranging, respectively, from 3500 to 5000 m/s. In the bay of                      unconformable contact between U1 and U2 is comparable
+Marseille, south of the Nerthe massif, the two-way time                          to the angular unconformity between Aptian (Gargasian)
+thickness of the U1 unit may reach 0.8 s (fig. 9) which cor-                     marls and Cenomanian quartzose limestones observed on-
+responds to a thickness ranging from 1400 m to 2000 m                            shore in Cassis (fig. 7) , and 3) the well-stratified seismic
+(with interval velocities ranging respectively from 3500 to                      pattern in the lower part of unit 2 is consistent with alternat-
+5000 m/s).                                                                       ing argillaceous limestone-marl alternations (Cenomanian
+                                                                                 to Lower Turonian). The seismic facies change, from strati-
+Unit U2 (Upper Cretaceous)                                                       fied to chaotic, at top of Unit 2 is in agreement with the tran-
+                                                                                 sition from basinal limestone-marl alternations of the
+The unit U2 unconformably overlies unit U1 (Aptian-                              Cenomanian-Lower Turonian [Jolet, 1996] to complex sedi-
+Albian). Unit 2 was recognized between Cassis and Saint-                         mentary architectures of the mid-Turonian to Coniacian
+
+                                                                                                                            Bull. Soc. géol. Fr., 2016, no 4
+142                                                             FOURNIER F. et al.
+
+
+
+
+                                                                                                           FIG. 6. – VHR sparker seismic image and in-
+                                                                                                           terpretation of profile MSL08-120c, located
+                                                                                                           west of Planier Island (see location in fig. 1
+                                                                                                           and 21). U0b: Lower Cretaceous (Hauteri-
+                                                                                                           vian-Barremian); U5: post-rift (mid-Burdiga-
+                                                                                                           lian to Messinian); U6: Plio-Quaternary.
+
+
+
+
+FIG. 7. – VHR sparker seismic image and interpretation of profile CAS09-spk08b, located in the bay of Cassis (see location in fig. 1). U0b: Lower Creta-
+ceous (Hauterivian-Barremian); U1: Aptian-Albian; U2: Upper Cretaceous; U6: Plio-Quaternary.
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                          143
+
+
+interval consisting of basinal quartzose calcarenites                          with interval velocities ranging respectively from 3500 to
+interbedded with redeposited carbonate bodies (olistolites,                    5000 m/s), in the bay of Marseille, (fig. 9), whereas in the
+breccia and calciturbidites) and Gilbert-delta bottomset                       Riou syncline it is higher than 0.1 s (~175-250 m).
+conglomerates [Floquet and Hennuy 2003].
+    Onshore, the total thickness of the Upper Cretaceous                       Unit U3 (Rupelian – Chattian)
+marine deposits of the Beausset syncline (Cassis-La Ciotat
+area) averages 1600 m [Fournillon, 2013]. Offshore, the                        The U3 unit is identified in the bay of Marseille and is char-
+maximal two-way time thickness of the assumed Upper                            acterized by a stratified seismic facies with medium-low
+Cretaceous deposits (unit U2) is 0.6 s (~1000 to 1500 m                        frequency, high amplitude, folded reflectors both on sparker
+
+
+
+
+FIG. 8. – VHR seismic images and interpretation of profiles A) CALMAR-5004 and B) MSL08-58, both located north of Frioul islands, on the southern
+margin of the Oligo-Miocene Marseille extensional basin (see location in fig. 1 and 21). U1: Aptian-Albian; U3-4: syn-rift to early post-rift (Rupelian to
+early Burdigalian).
+
+                                                                                                                         Bull. Soc. géol. Fr., 2016, no 4
+144                                                              FOURNIER F. et al.
+
+
+
+
+FIG. 9. – Oil-industry air-gun seismic image and interpretation of profile 84RM-01, located in the bay of Marseille (see location in fig. 1 and 21). Us:
+acoustic basement (pre-Cretaceous), U0: Lower Cretaceous (Berriasian to Barremian); U1: Aptian-Albian; U2: Upper Cretaceous; U3-4: syn-rift to early
+post-rift (Rupelian to early Burdigalian); U5-6: undifferenciated post-rift Miocene (mid-Burdigalian to Messinian) and Plio-Quaternary.
+
+
+
+
+and air-gun profiles (fig. 12). This unit has been identified                 Unit U4 (Chattian-Lower Burdigalian)
+mainly north of the bay of Marseille where it is unconform-
+ably overlain by the U4 unit. U3 unit is in most cases diffi-                 The unit 4 (U4) is made of a set of parallel, continuous,
+cult to distinguish from the overlying U4 unit. As a                          high-frequency, folded reflectors. In the bay of Marseille,
+consequence, units U3 and U4 have been grouped as one                         this unit is conformable or slightly unconformable on unit 3
+single unit in the geological map of the offshore continental                 (fig. 12 and 13). Unit 4 is not distinguished from unit 3 in
+shelf (fig. 2). Unit 3 is interpreted to represent Lower                      the southern bay of Marseille and south of the Frioul is-
+Oligocene (Rupelian) continental deposits, based on the fol-                  lands. Units 3 and 4 are affected by post-depositional tec-
+lowing criteria: 1) two cored samples (CR18 and CR19: ta-                     tonic deformation characterized by E-W trending folds.
+ble II) from this unit are pedogenetized (palustrine?)                        Unit 4 has been attributed to Chattian to lower Burdigalian
+limestones with ostracods and freshwater gastropods that                      syn-rift to early post-rift deposits [Oudet et al., 2010] on
+are similar in depositional facies to Rupelian continental                    the basis of the structural continuity with the onshore out-
+carbonates from the Marseille basin [Nury, 1988; Tassy,                       crops (fig. 14, 15 and 16). The top of unit 4 is correlatable
+2012], 2) unit 3 occurs in structural continuity with the                     onshore with the top of the “biodetrital Sausset-les-Pins
+Rupelian continental deposits from L’Estaque area, in the                     unit” (SB2 unconformity sensu Oudet et al. [2010]) that
+Marseille Oligocene basin, and 3) well stratified seismic fa-                 was interpreted to represent the top of the early post-rift
+cies is consistent with sharp and rapid vertical variations in                “Lower Transgressive Group” of Gorini et al. [1993]. In the
+lithology (limestone, clays and sandstones).                                  upper part of unit 4, south of La Nerthe massif, between
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                       145
+
+
+
+
+FIG. 10. – Seismic image and interpretation of profile MARION, across the Calanques shelf (see location in fig. 1). U0: Lower Cretaceous (Berriasian to
+Barremian); U1: Aptian-Albian; U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary.
+
+
+
+TABLE III – Seabed rock samples from dredging surveys [after Froget, 1974]
+
+
+
+
+                                                                                                                       Bull. Soc. géol. Fr., 2016, no 4
+146                                                               FOURNIER F. et al.
+
+
+
+
+FIG. 11. – HR air-gun seismic image and interpretation of profile LM113, located in the Calanques shelf, south of Riou island (see location in fig. 1). U0:
+Lower Cretaceous (Berriasian to Barremian); U1: Aptian-Albian; U2: Upper-Cretaceous; U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary.
+
+
+
+
+Carry-Le-Rouet and La Couronne, seismic profiles (fig. 15)                     Unit U5 (Mid Burdigalian to Messinian)
+exhibit a significant unconformity (enveloppe of toplaps
+terminations) that is overlain by a set of onlapping reflec-                   Unit 5 (U5) is characterized by a stratified, high frequency
+tors. Such an unconformity may represent the SB1 uncon-                        and high amplitude seismic facies. South of La Nerthe mas-
+formity or “break-up unconformity” of Oudet et al. [2010].                     sif, this unit unconformably overlies unit U4 (fig. 17 and
+A sample of benthic foraminiferal-scleractinian packstone                      18) and consists of a set of undeformed reflectors that are
+(CR17: table II) was collected in this unit south of the                       gently dipping to the SW (fig. 15, 16 and 17). South of Cap
+Nerthe massif, that displays similar features to                               Couronne, unit U5 is affected by subvertical faults and
+Chattian-Aquitanian shallow-water limestones studied on-                       short-wavelength folds of undefined orientation along a
+shore [Tassy, 2012]. In the onshore Marseille basin, the                       N160-trending deformation belt (fig. 17, 19 and 20). Along
+thickness of Oligocene deposits is higher than 800 m [Nury,                    this deformed belt, seismic facies within Unit U5 may be-
+1988]. Offshore, the maximal two-way time thickness of                         come almost transparent or with discontinuous, low ampli-
+the unit U4 is approximately 0.6 s. The average value of                       tude reflectors. South of the Marseille bay, unit U5 is
+44 brine-saturated P-wave velocities calculated by using                       affected by reverse faults, at the vicinity of the contact with
+Gassmann relationship from laboratory measurements of                          the Mesozoic basement (U0 unit) from the seaward prolon-
+Oligo-Miocene dry outcrop samples of various lithologies                       gation of the Marseilleveyre massif (fig. 6). In the
+and facies [Oudet, 2008] is around 3200 m/s. If one consid-                    Calanques and Blauquières area, at the margin of the conti-
+ers this value as a correct estimate of average interval                       nental shelf, unit U5 forms a sedimentary wedge,
+velocity of Oligo-Miocene deposits, the maximum                                prograding southwards, that onlaps the Mesozoic (fig. 11)
+thickness of U3 and U4 units would average 960 m in the                        or the Paleozoic basement. This unit is bounded at top by
+bay of Marseille.                                                              the Messinian erosional surface. The lower part of unit U5
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                        147
+
+
+
+
+FIG. 12. – VHR sparker seismic image and interpretation of profile MSL08-50, located in the bay of Marseille (see location in fig. 1 and 21). U0b: Lower
+Cretaceous (Hauterivian-Barremian); U3: syn-rift (Rupelian); U4: syn-rift to early post-rift (Chattian to early Burdiagalian); U6: Plio-Quaternary.
+
+
+
+
+correlates onshore with the mid to upper Burdigalian “Plan                    Tectonostratigraphic framework of the Provence
+de Sausset unit” and “La Couronne Limestone unit” (fig. 14                    continental shelf
+and 15). This unit can be attributed to post-rift (“Upper                     The offshore Provence continental shelf can be subdivided
+Prograding Group” sensu Gorini et al. [1993]) and pre-                        into three main structural domains (fig. 2). The western
+Messinian formations [Oudet et al., 2010]. Halimeda-rich                      area, south of the Nerthe massif (Côte Bleue and bay of
+limestones (samples R15-R16: table III) were collected                        Marseille), represents the seaward extension of the Mar-
+from this unit [Froget, 1974] south of the Blauquières bank.                  seille Oligocene basin (fig. 1). The central area, located be-
+The maximum two-way time thickness of unit U5 is 0.2 s                        tween the Planier island and the Cassidaigne canyon, is a
+which would represent a thickness of approximately 320 m                      submarine plateau composed of highly deformed Mesozoic
+by considering a 3200 m/s interval velocity.                                  rocks which was significantly eroded during the MSC event
+                                                                              and by marine abrasion during Plio-Quaternary transgres-
+                                                                              sions [Froget, 1974; Collina-Girard, 1999]. The eastern
+Unit U6 (Plio-Quaternary)                                                     area (Blauquières bank), extending from the Cassidaigne
+                                                                              canyon to the Cap Sicié, is regarded as the seaward exten-
+                                                                              sion of the Bandol and Cap Sicié thrust-belts [Ducrot, 1967;
+Unit U6 is composed of a set of parallel, subhorizontal to                    Froget, 1974].
+oblique, sometimes sigmoidal, continuous reflectors, on
+both sparker and air-gun profiles (e.g. fig. 4 and 17). On the                The Côte Bleue and the Bay of Marseille
+Blauquières bank, this unit exhibits in its lower part a
+well-stratified seismic facies, with low-frequency and high                   The portion of the continental shelf bounded to the north by
+amplitude reflectors. In this area, unit U6 represents the                    the Nerthe massif and to the south by the Frioul horst (fig. 2)
+sedimentary infill of Messinian canyons [Tassy, 2012;                         is interpreted as the western extension of the Tertiary Mar-
+Tassy et al., 2014]. All samples collected from this unit pro-                seille basin. The NE-SW-oriented Frioul horst is made of
+vided Pliocene to Pleistocene ages [Froget, 1974; Tassy,                      Mesozoic units U0 (Berriasian to Barremian) and U1
+2012; tables II and III]. Onshore, the Bandol conglomer-                      (Aptian-Albian) and is structured by a set of N050 faults
+ates, assigned to the Pliocene by Coulon [1967] could rep-                    with normal component. In the bay of Marseille, Oligo-
+resent a lateral equivalent of the offshore unit U6.                          Miocene deposits (U3 and U4) lie on a thick interval (up to
+
+                                                                                                                        Bull. Soc. géol. Fr., 2016, no 4
+148                                                               FOURNIER F. et al.
+
+
+
+
+FIG. 13. – VHR sparker seismic image and interpretation of profile MSL08-52, located in the bay of Marseille (see location in fig. 1 and 21). U3-4: syn-rift
+to early post-rift (Rupelian to early Burdiagalian); U6: Plio-Quaternary; H1 to H9: seismic horizons.
+
+
+
+
+1.5 s TWT) of Aptian-Albian (U1) and Late Cretaceous                            en echelon N080-trending synclines (figs 9, 12, 13 and 21).
+(U2) basinal deposits. North of the Frioul islands, the                         This deformation is sealed by post-rift deposits of the U5
+syn-rift and early post-rift deposits (U3 and U4 units) are                     unit (fig. 21) whose base is assigned to the middle
+thick (approximately 1000 m) and are structured as a set of                     Burdigalian. The relatively isopachous deposition of the U4
+
+
+
+
+FIG. 14. – Land to sea geological cross-section based on field observations onshore and seismic interpretation offshore. Offshore, the thickness of units U4
+and U5 are is estimated by using a mean interval velocity of 3200 m/s. U0: Lower Cretaceous (Berriasian to Barremian); U4: syn-rift to early post-rift
+(Chattian to early Burdigalian); U5: post-rift (mid-Burdigalian to Messinian). Plan de Sausset and La Couronne Limestone units have been defined by Oudet
+et al. (2010).
+
+Bull. Soc. géol. Fr., 2016, no 4
+TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                     149
+
+
+
+
+                                                 FIG. 15. – A) Land to sea geological
+                                                 cross-section based on field observa-
+                                                 tions onshore and seismic interpreta-
+                                                 tion     offshore.    Offshore,      the
+                                                 thickness of units U4 and U5 is esti-
+                                                 mated by using a mean interval velo-
+                                                 city of 3200 m/s; B) Interpretation of
+                                                 VHR sparker seismic profile
+                                                 MSL08-19. U0: Lower Cretaceous
+                                                 (Berriasian to Barremian); U4:
+                                                 syn-rift to early post-rift (Chattian to
+                                                 early Burdigalian); U5: post-rift
+                                                 (mid-Burdigalian to Messinian).
+
+
+
+
+                                                 FIG. 16. – A) Land to sea geological
+                                                 cross-section based on field observa-
+                                                 tions onshore and seismic interpreta-
+                                                 tion     offshore.    Offshore,    the
+                                                 thickness of units U4 and U5 is esti-
+                                                 mated by using a mean interval velo-
+                                                 city of 3200 m/s; B) Interpretation of
+                                                 VHR sparker seismic profile
+                                                 MSL08-100. U4: syn-rift to early
+                                                 post-rift (Chattian to early Burdiga-
+                                                 lian); U5: post-rift (mid-Burdigalian
+                                                 to Messinian).
+
+                                                     Bull. Soc. géol. Fr., 2016, no 4
+150                                                                FOURNIER F. et al.
+
+
+
+
+FIG. 17. – VHR sparker seismic image and interpretation of profile MSL08-19, located in the bay of Marseille (see location in fig. 1 and 21). U4: syn-rift to
+early post-rift (Chattian to early Burdigalian); U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary; H10 to H13: seismic horizons.
+
+
+
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                          151
+
+
+unit sediments (fig. 12 and 13) in the center of the basin                    The Blauquières bank and the Cassidaigne canyon
+strongly suggests that the major phase of N080 fold devel-
+opment is younger than U4 and consequently occurred as a                      The Blauquières bank and the Cassidaigne canyon represent
+consequence after the early Burdigalian. The contact be-                      the western seaward extension of the Sicié massif that con-
+tween U3-4 deposits and the underlying Mesozoic basement                      sists of a Paleozoic metamorphic basement overlain by a
+of the Frioul horst (U0 and U1 units) occurs either as pas-                   Carboniferous to Jurassic sedimentary cover (Sicié-
+sive depositional onlap (fig. 12 and 22) or as a sharp struc-                 Blauquières unit). The Blauquières bank is affected by a set
+tural contact along NE-SW normal faults (fig. 8). The                         of canyons which are assigned to the Messinian erosional
+occurrence of drag-blocks along the NE-SW faults and as-                      event [Tassy, 2012; Tassy et al., 2014] and which deeply in-
+sociated syn-sedimentary drag-syncline and anticline devel-                   cise the Paleozoic and Mesozoic sedimentary cover as well
+opment (fig. 8) indicates that the set of NE-SW faults were                   as the metamorphic basement (fig. 4). The two mains inci-
+active during the deposition of U4 unit. East of the bay of                   sions are merging into one single N080 oriented canyon
+Marseille and north of the Frioul islands, the orientation of                 (Blauquières canyon) and are filled with Pliocene deposits
+faults affecting U3 and U4 units progressively changes east-                  (up to 600 m thick) (fig. 2 and fig. 4). The modern
+ward from NE-SW to E-W (fig. 21). Southwest of                                Cassidaigne canyon may be regarded as a relict portion of
+L’Estaque (NE Bay of Marseille), U3-U4 deposits are af-                       the syn-MSC Blauquières canyon that has not been entirely
+fected by N080 anticlines and synclines that are slightly                     filled by Plio-Quaternary deposits [Tassy, 2012; Tassy et
+oblique to dominant NE-SW faults (fig. 21). South of La                       al., 2014]. South of the Blauquières bank, Neogene post-rift
+Couronne, U4 and U5 units are significantly deformed                          deposits (U5 unit) onlap the metamorphic basement, along
+along a 5 km-width, N160-oriented corridor (fig. 2, 18, 19                    the shelf break (fig. 2).
+and 20). The unconformable contact of post-rift U5 unit
+over syn-rift to early post-rift unit U4 in this area suggests                Seaward extension of the Beausset syncline
+that part of the deformation occurred prior to the middle
+                                                                              Cretaceous deposits of the Beausset syncline (fig. 1) are
+Burdigalian. South of the Frioul islands, the Oligo-Miocene
+                                                                              correctly imaged in sparker profiles from Cassis to
+series are very thin, slightly deformed and of reduced exten-
+                                                                              Saint-Cyr-sur-Mer (fig. 2). In the Cassis bay, Aptian depos-
+sion (fig. 5, 14 and 21). It unconformably overlies U0 and
+                                                                              its (Unit U1) conformably overly the Urgonian Limestone
+U1 units that are affected by E-W-trending thrusts and
+                                                                              (top of unit U0) and the unconformable contact between
+folds. West of Planier island, flower-structure-like faults af-
+                                                                              Aptian marls and overlying Cenomanian quartzone
+fect the post-rift unit U5, suggesting a late reactivation of
+                                                                              calcarenite is well expressed (fig. 7). Westward between the
+syn-rift N050 faults (fig. 6). In the bay of Marseille, de-
+                                                                              Calanques coastline and La Ciotat, the seaward extension
+formed U3 and U4 units are sharply truncated below a sub-
+                                                                              the Beausset syncline terminates against a nearly vertical
+horizontal surface, interpreted as a polyphased wave-cut
+                                                                              N120 fault, which is connected onshore to the N-S trending
+surface that formed during the Plio-Quaternary marine
+                                                                              Luminy fault system (fig. 2). South of La Ciotat, the
+transgressions. As a consequence, in the bay of Marseille,
+                                                                              Beausset syncline ends against the Triassic and Jurassic
+there is no evidence of preserved Messinian incision within
+                                                                              cover of the Bandol thrust-belt. In La Ciotat bay, as evi-
+the continental shelf.
+                                                                              denced onshore [Philip, 1967, 1982; Philip et al., 1987] the
+                                                                              Upper Cretaceous unit (unit U2) from Le Beausset syncline
+The Calanques shelf                                                           may be overthrusted to the north by the Mesozoic cover of
+The Calanques shelf is located south of Planier island and                    the Bandol thrust belt (fig. 3A) or may passively onlap the
+the Calanques coastline, east of the Marseillais canyon and                   Triassic basement (fig. 3B).
+west of the Cassidaigne canyon (fig. 2). South of the
+Calanques coastline, the Cretaceous sedimentary cover                         DISCUSSION
+(units U0, U1 and U2) is highly deformed and affected by
+subvertical faults with orientations ranging from N100 to
+N120, sealed by Neogene post-rift deposits (unit U5). South                   New insights into the mid and late Cretaceous
+                                                                              paleogeography and structures of Provence
+of the Riou island, a thick interval (at least 1500 m) of
+Aptian-Albian (Unit U1) and unconformably overlying Up-                       The seismic interpretation of offshore profiles provides new
+per Cretaceous deposits (Unit U2) is preserved along the                      constraints on the paleogeography of Provence during mid
+axis of a N070-trending syncline (fig. 4). The southern mar-                  and late Cretaceous times. In figure 23 are mapped the oc-
+gin of the continental shelf consists of a horst structure                    currence and associated thickness of Aptian-Albian depos-
+bounded by N100 normal faults and composed of Paleozoic                       its (U1 unit) on the continental shelf. A key feature of the
+metamorphic rocks onlapped by post-rift deposits (Unit                        offshore seismic stratigraphy of Cretaceous series is the re-
+U5).                                                                          markable development of Aptian-Albian deposits in the bay
+
+
+
+
+FIG. 18. – VHR sparker seismic image and interpretation of profile MSL08-14, located south of La Couronne (see location in fig. 1 and 21). U4: syn-rift to
+early post-rift (Chattian to early Burdigalian); U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary.
+
+                                                                                                                         Bull. Soc. géol. Fr., 2016, no 4
+152                                                           FOURNIER F. et al.
+
+
+
+
+FIG. 19. – VHR sparker seismic image and interpretation of profile MSL08-12, located west of the bay of Marseille (see location in fig. 1 and 21).
+U4: syn-rift to early post-rift (Chattian to early Burdigalian); U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary.
+
+
+
+
+of Marseille (up to 0.8 s two-way time thickness = 1400 to                 and 23). This accident may have been active during the
+2000 m depth converted thickness: fig. 24 a and b) and                     deposition of unit U1 as suggested by the overall E-W di-
+south of the Riou island (up to 0.6 s two-way time thickness               rection that is consistent with the orientation of the
+= 1000 to 1500 m depth converted thickness: fig. 24c). The                 Aptian-Albian basin [Masse and Fenerci-Masse, 2013] and
+occurrence and regional distribution of thick Aptian-Albian                by the increase in unit U1 thickness toward the fault (fig. 9
+deposits on the Provence continental shelf may be inter-                   and 24b). On the Calanque shelf, the thickness of
+preted as resulting from various tectono-stratigraphic con-                Aptian-Albian deposits ranges from 150 m in the bay of
+trols. An early, syn-depositional control on the U1 unit                   Cassis to 1000-1500 m (0.6 s TWT) south of Riou island
+thickness is the southward increase in subsidence rate re-                 within a distance of less than 8 km (fig. 24c). Such an in-
+lated to the formation of the Aptian-Albian South-Provence                 crease in thickness may have been driven by syn-
+basin [Masse and Fenerci-Masse, 2013] that may have re-                    depositional movement of a set of N090 to N110 normal
+sulted in thicker deposition offshore. During the Durancian                faults evidenced from seismic data (fig. 23). Such faults
+phase, differential uplift within the Provence area led to                 have been probably reactivated as normal faults during the
+partial or complete erosion of the Aptian-Albian deposits.                 Durancian high event, as normal and/or strike slip faults
+Onshore Albian deposits are reported only near Toulon                      during the late Cretaceous South-Provence basin formation
+[Macchour, 1988] and in scattered, small-scale outcrops                    and finally as strike-slip or reverse faults during the
+around Marseille especially in La Nerthe massif. The effect                Pyreneo-Provençal compression as suggested by the defor-
+of Durancian differential uplift on the preservation of lower              mation (folds and thrusts) of Lower Cretaceous formations
+Cretaceous deposits has been evidenced onshore in the                      along N110 faults on the Riou island [Monteau et al.,
+Allauch massif [Guillonnet-Benaize et al., 2010] and La                    2005]. South of the Riou island, Aptian-Albian deposits are
+Nerthe massif [Masse, 1976]. Offshore, such differential                   preserved in an E-W-trending syncline of probable
+uplift is suspected between La Nerthe massif coast where                   Pyreneo-Provençal origin (fig. 24c).
+the Aptian deposits are relatively thin (< 150 m) and capped                   A major issue of the seismic interpretation of the newly
+by upper Cretaceous formations and offshore where U1 unit                  acquired seismic data is the mapping of the offshore termina-
+is extremely thick (> 1400 m) (fig. 23). The boundary be-                  tion of the Pyreneo-Provençal Sicié imbricate (fig. 2 and 23).
+tween thin and thick Aptian-Albian domains is a N090 to                    The development of the Sicié imbricate led to substantial
+N070 normal fault that is sealed by Tertiary deposits (fig. 9              subsequent erosion of the whole or part of the Mesozoic
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                           TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                     153
+
+
+
+
+FIG. 20. – HR airgun seismic image and interpretation of profile LM110, located west of the Bay of Marseille (see location in fig. 1 and 21). U1:
+Aptian-Albian; U4: syn-rift to early post-rift (Chattian to early Burdigalian); U5: post-rift (mid-Burdigalian to Messinian); U6: Plio-Quaternary.
+
+
+
+
+sedimentary cover. As a consequence, no Cretaceous de-                     dips of the prograding gilbert-delta foresets outcropping
+posit is preserved on top of the Sicié imbricate in contrast to            along coastal cliffs near La Ciotat, the dominant grain size
+the Calanques shelf area, west of the Cassidaigne canyon.                  and the estimated paleo-water-depth at the bottomset loca-
+                                                                           tion suggest that the top of the foreset is located between 2
+     On the Provence continental shelf, Upper Cretaceous                   and 5 km south of La Ciotat cliffs [Hennuy, 2003]. Bestani
+deposits (U2 unit) are only preserved in the Riou syncline                 et al. [2015] estimated that prior to the Pyreneo-Provençal
+(fig. 11) and in the bay of Marseille (fig. 9) where they                  shortening, the Sicié imbricate location was shifted 12 kilo-
+reach a thickness of approximately 1000-1500 m (0.6 s                      meters southward relatively to the Mesozoic cover from Le
+TWT). Such a thickness is consistent with the development                  Beausset unit. As a consequence, the restored position of the
+of a subsiding South-Provence basin [Philip, 1970; Hennuy,                 Paleozoic submarine outcrops relatively to La Ciotat Upper
+2003] during the Upper Cretaceous at the present-day conti-                Cretaceous deltaic foresets (~20 km southward from the
+nental shelf location. The Upper Cretaceous South-Pro-                     coast) is consistent with the occurrence, at short distance, of
+vence basin has been interpreted to result from E-W                        a metamorphic massif as suggested by Hennuy [2003]. The
+strike-slip fault movements under a transtensional tectonic                Sicié imbricate may therefore be regarded as a displaced rel-
+regime [Hennuy, 2003]. The studied seismic and core data-                  ict of the Upper Cretaceous Massif méridional and the source
+base evidenced that Paleozoic formations are present 8 km                  for terrigenous supplies in the South-Provence basin should
+south of La Ciotat coast, and belong to the offshore exten-                be located at least 20 km south of La Ciotat cliffs.
+sion of the Sicié imbricate. Most of the detrital grains
+within Upper Cretaceous deposits from the South-Provence                   Evidences and timing of post-rift deformation of the
+basin are considered to be sourced from an emerged land lo-                Provence continental shelf
+cated to south, the so-called Massif méridional [Hennuy,
+2003], and are of similar composition to that of the Paleo-                On the Provence continental shelf, Oligocene and Lower
+zoic metamorphic and sedimentary rocks from the Sicié                      Miocene deposits (units U3 and U4) exhibit evidences of
+cape [Redondo, 1986; Guieu et al., 1987]. The depositional                 syn-sedimentary and post-sedimentary deformations.
+
+                                                                                                                   Bull. Soc. géol. Fr., 2016, no 4
+154                                                                FOURNIER F. et al.
+
+
+
+
+FIG. 21. – Offshore geological map of the bay of Marseille with location of the seismic profiles figured in the present paper. H1 to H13: intersection of se-
+lected seismic horizons with the sea bottom.
+
+
+
+
+Syn-sedimentary deformations consist of dominant NE-SW                          of the Frioul islands, N050 normal faults were active during
+(N040 to N060) vertical faults and N050 drag-synclines and                      the syn-rift phase. A large part of the normal faults affect-
+anticlines (fig. 8) whereas post-depositional deformations                      ing U3 and U4 units are sealed by the post-rift U5 unit (fig.
+include N080-trending en echelon folds (fig. 13) and minor                      16, 18, 19). As evidenced by Hippolyte et al. [1991], the
+folds and faults localized along a N160 corridor south of La                    major NE-SW (N040 to N060) normal faults have formed
+Couronne (fig. 18). Both N080 en echelon folds within the                       during the early stages of extension (Rupelian) of the
+bay of Marseille, and localized deformation along N160                          Oligocene Marseille basin. The occurrence of N080 en ech-
+faults south of La Couronne, are sealed by the post-rift U5                     elon folds in the bay of Marseille is consistent with a
+unit (fig. 21). The correlations between coastal outcrops                       sinistral strike-slip reactivation of the N040 to N060 faults
+and offshore seismic profiles indicate that the top U4 un-                      during a compressive phase of N-S direction (fig. 26). Such
+conformity would correspond to the major angular uncon-                         a post-rift, N-S compressive phase with sinistral strike-slip
+formity evidenced by Oudet et al. [2010] and Demory et al.                      reactivation of N020 to N060 faults has been evidenced on-
+[2011] at the base of the Plan de Sausset unit (fig. 14)                        shore in the Oligocene Marseille basin by microstructural
+whose age is mid-Burdigalian (NN3 calcareous nannofossil                        analyses [Nury and Raynaud, 1986]. The age of this N-S
+zone). Magnetostratigraphic and biostratigraphic studies                        compression phase is estimated to range from the early to
+[Oudet et al., 2010; Demory et al., 2011] have shown that                       mid Burdigalian (20-18 Ma) as suggested by the time gap
+such an unconformity would correspond to a time hiatus of                       evidenced between top U4 and base U5 unit (fig. 25).
+approximately 2 m.y. (fig. 25), including part of the early                         The deformation along the N160 corridor south of La
+and mid Burdigalian (20-18 Ma). Units U3 and U4 are                             Couronne is polyphased. The angular unconformity be-
+crosscut by normal faults of dominant NE-SW orientation                         tween U4 and U5 units suggest a first phase of deformation
+that is consistent with the orientation of the major                            that is coeval with the en echelon folds development and
+L’Estaque and L’Amandier fault systems (fig. 2 and 26)                          probably related to a minor dextral strike slip reactivation
+identified onshore in the Oligocene Marseille basin [Nury                       of syn-rift N160 faults in response to the N-S compression.
+and Raynaud, 1986; Hippolyte et al., 1991]. As suggested                        Later deformations affect the U5 unit and consist of N160
+by the occurrence of N050 syn-sedimentary folds northwest                       fault (strike-slip?) reactivation and localized folding at the
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                            TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                       155
+
+
+
+
+FIG. 22. – VHR sparker seismic image and interpretation of profile MSL08-14, located on the southern margin of the Oligo-Miocene Marseille extensional
+basin (see location in fig. 1 and 21). U1: Aptian-Albian; U4: syn-rift to early post-rift (Chattian to early Burdigalian).
+
+
+
+
+vicinity of the faults thus leading to a 5 km width                          valleys related to a hectometer-scale uplift that occurred
+N160-trending corridor of deformation that is sealed by                      during the Burdigalian. The oldest deposits infilling these
+post-Messinian deposits. Flower-like structures affecting                    incisions are mid-Burdigalian (NN3 calcareous nannofossil
+the U5 unit are evidenced southwest of Planier island and                    zone at the base of the sequence S1 of Besson [2005]) and
+are probably related to a reactivation of N050 faults during                 can therefore be correlated with the Plan de Sausset unit
+a post-rift compressive phase. Such deformations suggest                     from the southern flank of the Nerthe massif, and offshore,
+one or various post-Burdigalian and pre-Messinian episodes                   with the base of the U5 unit. The regional uplift recorded
+of compression. Onshore Provence, the timing of post-rift                    onshore by the Burdigalian incised valleys (base S1 of
+deformation is relatively poorly constrained. In northern                    Besson [2005]) is therefore probably coeval with the
+Provence, the onset of Alpine compressive deformation is                     strike-slip reactivation of N040-N060 and N160 faults and
+recorded by the subsidence inversion in the Valensole area                   the development of en echelon folds in the bay of Marseille.
+and is believed to start during the Burdigalian times [Dubois                The available chronostratigraphic constraints (fig. 25) indi-
+and Curnelle, 1978] and to continue until the Langhian                       cate that the Burdigalian compression evidenced by seismic
+[Villeger, 1984]. The age of the beginning of the Alpine de-                 data offshore occurred when the counterclockwise rotation
+formation (Burdigalian to Langhian) was confirmed by field                   velocity of Sardinia with respect to stable Eurasia started to
+studies along the Salon-Cavaillon fault [Molliex, 2009;                      decrease (i.e. around the inflexion point of the Sardinia ro-
+Molliex et al., 2011]. Besson [2005] evidenced, in the                       tation angle through times), at least 3 Ma before the end of
+whole western Provence area, a network of deeply incised                     the rotation of Sardinia (15 Ma after Gattacceca et al.
+
+                                                                                                                      Bull. Soc. géol. Fr., 2016, no 4
+156                                                            FOURNIER F. et al.
+
+
+
+
+FIG. 23. – Onshore and offshore occurrence and thickness of Aptian-Albian deposits with indication of presumed mid-Cretaceous faults and major Pyre-
+neo-Provençal thrusts.
+
+
+
+
+[2007]). Such a timing suggests therefore that the south-                       1) the occurrence offshore of a thick (up to 2000 m)
+ward propagation of the Alpine thrust front started prior to               Aptian-Albian deposition controlled by E-W-trending normal
+the end of the Liguro-Provençal oceanic opening. The age                   faults. Such deposits are preserved within Pyreneo-Provençal
+of the later deformations affecting the U5 unit is poorly                  synclines or within Oligo-Miocene grabens;
+constrained: they occurred during or after the Burdigalian                      2) the occurrence of thick Upper Cretaceous series (up
+and before the MSC. Such deformations may be assigned to                   to 1500 m) confirms the existence of an E-W elongated
+the Tortonian compressive phase that is well expressed on-                 South-Provence through during Cenomanian to Santonian
+shore between the Salon-Cavaillon and Mid-Durance faults                   times;
+[Clauzon, 1984, 1988] and that is believed to be responsible
+for the reactivation of older structures such as the Concors                    3) the Sicié imbricate is a major Pyreneo-Provençal
+anticlines [Clauzon et al., 2011] and for the formation of La              structure recognized on the Provence continental shelf. Its
+Trevaresse massif [Chardon and Bellier, 2003] (fig. 24a).                  western boundary is located west of the Cassidaigne canyon.
+                                                                           The Paleozoic metamorphic basement and its Mesozoic sedi-
+                                                                           mentary cover is regarded as the displaced relict of the Upper
+                                                                           Cretaceous “Massif méridional” that represents the main
+CONCLUSION                                                                 source of terrigenous sediments in the South-Provence basin.
+                                                                                These results show that quantitative structural restorations
+The integrative interpretation of marine seismic and                       of the basement and sedimentary cover are essential for further
+sea-bottom rock samples provides new insights into the                     reconstructions of a detailed and accurate paleogeographic set-
+structural and paleogeographic framework of post-Jurassic                  ting of pre-Pyreneo-Provençal depositional systems.
+series of the Provence continental shelf. Seven major
+post-Jurassic seismic units have been defined from marine                       In addition the present study provided evidences of
+seismic data and a geological map of the Provence shelf has                syn-rift and post-rift deformations on the Provence conti-
+been produced. The major results of the present study re-                  nental shelf:
+garding the mid and late Cretaceous paleogeography and                          4) during the rifting phase, syn-sedimentary deforma-
+structural framework are:                                                  tions consist of dominant NE-SW (N040 to N060) vertical
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                               TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                            157
+
+
+
+
+FIG. 24. – a) Interpretative crustal-scale cross section summarizing the in-depth interpretations of the southern Provence area; onshore structures and inter-
+pretations are compiled from Lacombe and Jolivet [2005], Terrier et al. [2008], Molliex et al. [2011] and Andreani et al. [2013]. b) Geological cross-sec-
+tion across the Nerthe range onshore (modified from Andreani et al. [2013]) and the Provence continental shelf offshore (from the present database). c)
+Geological cross-section across the western Etoile range onshore (modified from Andreani et al. [2010]) and the Provence continental shelf offshore (from
+the present database). For b) and c) detailed location is shown on figure 2.
+
+
+
+
+fault development and N050 drag-syncline and anticline                           corridor localized south of La Couronne. Such deformations
+formation;                                                                       are interpreted as resulting from a later, post-Burdigalian and
+    5) in the bay of Marseille, the syn-rift and early post-rift                 pre-Messinian compressive phase.
+deposits (U3 and U4 units: Rupelian to early Burdigalian)
+are structured into a set of E-W-trending en echelon folds
+that are interpreted to result from sinistral strike-slip reacti-                Acknowledgements. – This work was funded by Action Marges and
+vation of the NE-SW faults during a N-S compressive phase                        KarstEAU project. Authors thank the captains and the crew of the R/V
+of early-to-mid Burdigalian age (18-20 Ma);                                      TETHYS II ship. We particularly thank Jacques Bégot (IUEM Brest) and
+    6) the Burdigalian compressive event recorded on the                         Fabien Paquet (BRGM) for their technical support on seismic acquisition.
+                                                                                 We would like to thank the Master SET students (Aix-Marseille Univer-
+Provence continental shelf is coeval with the regional uplift                    sity) for their contribution to the seismic acquisition in 2007 and 2009
+recorded onshore by the Burdigalian incised valleys (base                        (LM5913 surveys). We also thank S. Berné for providing seismic lines
+S1 of Besson [2005]);                                                            from the CALMAR cruise and IFREMER for the MARION profile.
+    7) minor deformations affect the post-rift U5 unit (mid
+Burdigalian to Messinian), particularly along a N160-trending                    SGF associate editor: Philippe Yamato
+
+
+
+
+                                                                                                                            Bull. Soc. géol. Fr., 2016, no 4
+158                                                               FOURNIER F. et al.
+
+
+
+
+FIG. 25. – Chronostratigraphic constraints of the U4 (syn-rift to early post-rift) and U5 (later post-rift). Such chronostratigraphic framework is compared
+with the evolution of the Liguro-Provençal basin and associated rotation of Sardinia with respect to stable Eurasia [after Gattacceca et al., 2007].
+
+
+
+
+FIG. 26. – Sketch of the deformation of the Tertiary Marseille basin during the Burdigalian compression.
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                             TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                           159
+
+
+                                                                     References
+
+
+ANDREANI L., LOGET N., RANGIN C. & LE PICHON X. (2010). – New structu-        CLAUZON G. (1984). – Evolution géodynamique d’une montagne proven-
+          ral constraints on the southern Provence thrust belt (France):              çale et de son piedmont: l’exemple du Luberon (Vaucluse,
+          evidences for an Eocene shortening event linked to the Corsi-               France). – Montagnes et Piémonts, Toulouse, R.G.P.S.O.
+          ca-Sardinia subduction. – Bulletin de la Société géologique de      CLAUZON G. (1988). – Evolution géodynamique pliocène du bassin de Cu-
+          France, 181, 6, 547-563.                                                    curon/Basse-Durance (Provence, France): une megaséquence ré-
+ANDREANI L., LOGET N., RANGIN C. & LE PICHON X. (2013). – Reply to the                gressive de comblement d’une ria méditerranéenne consécutive à
+          comments of Jean Philip on the paper entitled “New structural               la crise de salinité messinienne. – Géologie Alpine, Mém. H.S.
+          constraints on the southern Provence thrust belt (France): evi-             14, 215-226.
+          dences for an Eocene shortening event linked to the Corsica-Sar-
+          dinia subduction”. – Bulletin de la Société géologique de           CLAUZON G., FLEURY T.-J., BELLIER O., MOLLIEX S., MOCOCHAIN L. &
+          France, 184, 3, 279-285.                                                    AGUILAR J.-P. (2011). – Morphostructural evolution of the Lube-
+                                                                                      ron since the Miocene (SE France). – Bulletin de la Société géo-
+BACHE F. (2008). – Evolution Oligo-Miocène des marges du micro océan
+                                                                                      logique de France, 182, 2, 95-110.
+          Liguro-Provençal. – PhD thesis, Univ. Bretagne Occidentale,
+          338 p.                                                              COLLINA-GIRARD J. (1992). – Présentation d’une carte bathymétrique au
+BACHE F., OLIVET J.-L., GORINI C., RABINEAU M., BAZTAN J., ASLANIAN D.                 1/25 000o du Précontinent Marseillais. (au large de la zone li-
+          & SUC J.-P. (2009). – The Messinian erosional and salinity cri-              mitée par la grotte Cosquer et l’habitat préhistorique de Carry le
+          ses: view from the Provence basin (Gulf of Lions, western Medi-              Rouet). – Géologie Méditerranéenne, XIX, 2, 77-97.
+          terranean). – Earth Planetary Science Letters, 286, 139-157.        COLLINA-GIRARD J. (1997). – Profils littoraux en plongée et niveaux d’éro-
+BACHE F., OLIVET J.-L., GORINI C., ASLANIAN D., LABAILS C. & RABINEAU                  sion eustatique près de la grotte Cosquer (Marseille) et en Pro-
+          M. (2010). – Evolution of rifted continental margins: the case of            vence. – Comptes-Rendus de l’Académie des Sciences, Paris,
+          the Gulf of Lions (western Mediterranean basin). – Earth Plane-              324, IIa, 607-615.
+          tary Science Letters, 292, 345-356.                                 COULON C. (1967). – Le volcanisme tertiaire de la région toulonnaise (Var).
+BERGERAT F. (1987). – Paléo-champs de constraintes tertiaires dans la                 – Bulletin de la Société géologique de France, IX, 7, 691-700.
+          plate-forme européenne au front de l’orogène alpin. – Bulletin
+          de la Société géologique de France, 8, III, 3, 611-620.             DEMORY F., CONESA G., OUDET J., MANSOUR H., MÜNCH P., BORGOMANO J.,
+                                                                                       THOUVENY N., LAMARCHE J., GISQUET F. & MARIE L. (2011). –
+BESSON D. (2005). – Architecture du bassin rhodano-provençal miocène
+                                                                                       Magnetostratigraphy and paleoenvironments in shallow-water
+          (Alpes, SE France): relations entre déformation, physiographie
+                                                                                       carbonates: the Oligocene-Miocene sediments of the northern
+          et sédimentation dans un bassin molassique d’avant-pays. – PhD
+                                                                                       margin of the Liguro-Provençal basin (West Marseille, southeas-
+          thesis, Ecole Nationale Supérieure des Mines de Paris, 438p.
+                                                                                       tern France). – Bulletin de la Société géologique de France, 182,
+BESTANI L., ESPURT N., LAMARCHE J., FLOQUET M., PHILIP J., BELLIER O. &                1, 37-55.
+          HOLLENDER F. (2015). – Structural style and evolution of the Py-
+          renean-Provence thrust belt, SE France. – Bulletin de la Société    DERCOURT J., ZONENSHAIN L.P., RICOU L.-E., KASMIN V.G., LE PICHON X.,
+          géologique de France, 186, 4-5, 223-241.                                    KNIPPER A.L., GRANDJACQUET C., SBORTSHIKOV I.M., GEYSSANT
+BIGOT-CORMIER F., SAGE F., SOSSON M., DEVERCHERE J., FERRANDINI M.,                   J., LEPVRIER C., PECHERSKY D.H., BOULIN J., SIBUET J.-C.,
+          GUENNOC P., POPOFF M. & STEPHAN J.-F. (2004). – Déformations                SAVOSTIN L.A., SOROKHTIN O., WESTPHAL M., BAZHENOV M.L.,
+          pliocènes de la marge nord-Ligure (France): les conséquences                LAVEZ J.-P. & BIJU-DUVAL B. (1986). – Geological evolution of
+          d’un chevauchement crustal sub-alpin. – Bulletin de la Société              the Tethys belt from Atlantic to Pamirs since the Lias. – Tecto-
+          géologique de France, 175, 197-211.                                         nophysics, 123, 241-315.
+BLANC J.-J. & BLANC-VERNET L. (1966). – Affleurements sous-marins du          DOS REIS T. (2001). – La tectonique salifère et son influence sur l’architec-
+          Barrémien et de l’Aptien dans la baie de Cassis. – Comptes Ren-              ture sédimentaire quaternaire de la marge du golfe du Lion-Médi-
+          dus de l’Académie des Sciences, Paris, 262, 1398-1399.                       terranée occidentale. – PhD thesis, Univ. Paris 6, 216 p. +157 pp.
+BLANC J.-J., FROGET C. & GUIEU G. (1967). – Géologie littorale et             DUBOIS P. & CURNELLE R. (1978). – Résultats apportés par le forage Les
+          sous-marine de la région de Marseille. Relations avec les struc-              Mées-1 sur le plateau de Valensole. – Comptes-Rendus Som-
+          tures de Basse-Provence. – Bulletin de la Société géologique de               maire de la Société géologique de France, 4, 181-184.
+          France, 9, 4, 561-571.
+                                                                              DUCROT J. (1967). – Premières données sur la structure profonde du banc
+B LANC-VERNET L. (1969). – Contributions à l’étude des foraminifères de                des Blauquières (région de la Ciotat, Bouches-du-Rhône). –
+          Méditerranée. – Recueil des Travaux de la Station Marine                     Comptes-Rendus Sommaire de la Société géologique de France,
+          d’Endoume, 48, 315p.                                                         3, 80.
+BLES J.-L. & GROS Y. (1991). – Stress field changes in the Rhône Valley
+          from the Miocene to the present. – Tectonophysics, 194, 265-277.    FLOQUET M. & HENNUY J. (2003). – Evolutionary gravity flow deposits in
+                                                                                      the Middle Turonian-Early Coniacian southern Provence basin
+BOURCART J. (1949). – Peut-on étudier directement la géologie du plateau
+                                                                                      (SE France): origins and depositional processes. In: J. LOCAT
+          continental? – Comptes-Rendus de la Société géologique de
+                                                                                      & J. MIENERT, Eds., Submarine mass movements and their
+          France, 2, 12-14.
+                                                                                      consequences. – Kluwer Academic Publishers, Dordrecht, The
+BOURCART J. (1960). – Carte topographique du fond de la Méditerranée oc-              Netherlands, 417-424.
+          cidentale. – Bulletin du Musée Océanographique de Monaco,
+          1163, 20p.                                                          FLOQUET M., GARI J., HENNUY J., LEONIDE P. & PHILIP J. (2005). – Sédi-
+CARMINATI E., W ORTEL M.J.R., MEIJER P.T. & SABADINI R. (1998a). – The                mentations gravitaires carbonatées et silicoclastiques dans un
+          two-stage opening of the western-central Mediterranean basins:              bassin en transtension, séries d’âge cénomanien à coniacien
+          a forward modeling test to a new evolutionary model. – Earth                moyen du Bassin Sud-Provençal. – 10ème Congrès Français de
+          Planetary Science Letters, 160, 667-679.                                    Sédimentologie, Publ. ASF, 52, Paris, Giens, 80p.
+CARMINATI E., W ORTEL M.J.R., SPAKMAN W. & SABADINI R. (1998b). – The         FLOQUET M., PHILIP J., LEONIDE P. & GARI J. (2006). – Sédimentation et
+          role of slab detachment processes in the opening of the wes-                géodynamique du bassin Sud-Provençal au Crétacé supérieur,
+          tern-central Mediterranean basins: some geological and geophy-              histoire et dynamique des plates-formes carbonatées et de leur
+          sical evidence. – Earth Planetary Science Letters, 160, 651-665.            biotas durant le Phanérozoïque. – Réunion spécialisée de la So-
+CHAMPION C., CHOUKROUNE P. & CLAUZON G. (2000). – La déformation                      ciété géologique de France: Histoire et dynamique des pla-
+          post-Miocène en Provence occidentale. – Geodinamica Acta, 13,               tes-formes carbonatées et de leurs biotas durant le
+          67-85.                                                                      Phanérozoïque-Journées Jean Philip, Université de Provence,
+CHARDON C. & BELLIER O. (2003). – Geological boundary conditions of the               Marseille, 69 p.
+          1909 Lambesc (Provence, France) earthquake: Structure and           FOURNIER F., LEONIDE P., BISCARRAT K., GALLOIS A., BORGOMANO J. &
+          evolution of the Trévaresse ridge anticline. – Bulletin de la So-            FOUBERT A. (2011). – Elastic properties of microporous cemen-
+          ciété géologique de France, 174, 5, 497-510.                                 ted grainstones. – Geophysics, 76, 6, 211-226.
+
+                                                                                                                         Bull. Soc. géol. Fr., 2016, no 4
+160                                                              FOURNIER F. et al.
+
+
+FOURNILLON A. (2013). – Modélisation géologique 3D et hydrodynamique          JOLIVET L., GORINI C., SMIT J. & LEROY S. (2015). – Continental breakup
+          appliquées aux réservoirs carbonatés karstiques: caractérisation              and the dynamics of rifting in back-arc basins: The Gulf of Lion
+          des ressources en eau souterraine de l’unité du Beausset (SE                  margin. – Tectonics, 34, 4, 662-679.
+          France). – PhD thesis, Aix-Marseille Univ., 428p.                   KRIJGSMAN W., HILGEN F.J., R A I., SIERRO F.J. & W ILSON D.S. (1999). –
+FROGET C. (1967). – Découvertes d’affleurements quaternaires anciens sur                Chronology, causes and progression of the Messinian salinity
+          le Précontinent provençal au large de l’île de Riou. – Comptes                crisis. – Nature, 400, 652-655.
+          Rendus de l’Académie des Sciences, Paris, (D), 264, 2, 212-214.     LACOMBE O. & JOLIVET L. (2005). – Structural and kinematic relationships
+FROGET C. (1971). – Etat sur les connaissances du canyon de Cassidaigne                 between Corsica and the Pyrenees-Provence domain at the time
+          et de ses abords (sud de Cassis, Bouches-du-Rhône). – Bulletin                of the Pyrenean orogeny. – Tectonics, 24, TC1003, doi: 10.1029/
+          du BRGM, section IV, Géologie Générale, 3, 5-13.                              2004TC001673.
+FROGET C. (1972). – Exemples de diagenèse sous-marine dans les sédi-          LARROQUE C., MERCIER DE LEPINAY B. & MIGEON S. (2010). – Morphotec-
+          ments pliocènes et pléistocènes: dolomitization, ferruginisation              tonic and fault-earthquake relationships along the northern Ligu-
+          (Méditerranée nordoccidentale, sud de Marseille). Examples of                 rian margin (western Mediterranean) based on high resolution,
+          submarine diagenesis in Pliocene and Pleistocene sediments: do-               multibeam bathymetry and multichannel seismic-reflection pro-
+          lomitization, ferruginisation (northwest Mediterranean, south of              files. – Marine Geophysical Research, 32, 163-179.
+          Marseille). – Sedimentology, 19, 59-83.                             LEENHARDT O., PIERROT S., REBUFATTI A. & SABATIER H. (1969). – Etude
+FROGET C. (1974). – Essai sur la géologie du pré-continent de la Provence               sismique de la zone de Planier (Bouches du Rhône). – Revue de
+          occidentale. – PhD thesis, Aix-Marseille Univ., 219 p.                        l’Institut Français du Pétrole, XXIV, 11, 1261-1287.
+GATTACCECA J., DEINO A., RIZZO R., JONES D.S., HENRY B., BEAUDOIN B. &        LELEU ET AL. (2009) P3 ?????????????????????????????????
+          VADEBOIN F. (2007). – Miocene rotation of Sardinia: New paleo-      LOFI J., RABINEAU M., GORINI C., BERNE S., CLAUZON G., DE CLARENS P.,
+          magnetic and geochronological constraints and geodynamic im-                  MOUTAIN G.S., RYAN W.B.F., STECKLER M.S. & FOUCHET C.
+          plications. – Earth Planetary Science Letters, 258, 359-377.                  (2003). – Plio-Quaternary prograding clinoform wedges of the
+GIGNOUX M. (1925). – Géologie stratigraphique. – Masson et Cie, Paris.                  western Gulf of Lions continental margin (NW Mediterranean)
+                                                                                        after the Messinian Salinity Crisis. – Marine Geology, 198, 3-4,
+GORINI C., LE MARREC A. & MAUFFRET A. (1993). – Contribution to the                     289-317.
+          structural and sedimentary history of the Gulf of Lions (western
+                                                                              LOFI J., GORINI C., BERNE S., CLAUZON G., DOS REIS A.T., RYAN W.B.F. &
+          Mediterranean), from the ECORS profiles, industrial seismic
+                                                                                        STECKLER M. (2005). – Paleoenvironmental changes and erosio-
+          profiles and well data. – Bulletin de la Société géologique de
+                                                                                        nal processes on the western Gulf of Lions during the Messinian
+          France, 164, 353-363.
+                                                                                        Salinity Crisis. – Marine Geology, 217, 1-2, 1-30.
+GRACIANSKY P.-C. DE & LEMOINE M. (1988). – Early Cretaceous tectonics         LOFI J. & BERNE S. (2008). – Evidence for pre-Messinian submarine ca-
+          in the southwestern French Alps: a consequence of North-Atlan-                nyons on the Gulf of Lions slope (western Mediterranean). –
+          tic rifting during Tethyan spreading. – Bulletin de la Société                Marine and Petroleum Geology, 25, 8, 804-817.
+          géologique de France, 8, IV, 5, 733-737.
+                                                                              LUTAUD L. (1935). – Sur la genèse des chevauchements et écailles de la
+GUEGUEN E., DOGLIONI C. & FERNANDEZ M. (1998). – On the post 25 Ma                      Provence calcaire. – Comptes Rendus Sommaires de la Société
+          geodynamic evolution of the western Mediterranean. – Tectono-                 géologique de France, 261-263.
+          physics, 298, 259-269.
+                                                                              MACHHOUR L. (1988). – Le Bassin toulonnais au Crétacé moyen (Aptien-
+GUENNOC P., GORINI C. & MAUFFRET A. (2000). – Histoire géologique du                    Cénomanien), Sud-Est de la France. – PhD thesis, Université de
+          golfe du Lion et cartographie du rift oligo-aquitanien et de la               Provence, 472p.
+          surface messinienne. – Géologie de la France, 3, 67-97.
+                                                                              MANZI V., GENNARI R, HILGEN F, KRIJGSMAN W., LUGLI S., ROVERI M. &
+GIEU G. (1968). – Etude tectonique de la région de Marseille. – Thèse                   SIERRO F.J. (2013). – Age refinement of the Messinian Salinity
+          d’Etat, Université Aix Marseille I, 604p.                                     Crisis onset in the Mediterranean. – Terra Nova, 25, 4, 315-322.
+GUIEU G., PHILIP J., DURAND J.-P., NURY D. & REDONDO C. (1987). – Le dé-      MASSE J.-P. (1976). – Les calcaires urgoniens de Provence-Valangi-
+          tritisme provençal du Crétacé moyen à l’Oligocène dans son                    nien-Aptien inférieur. – Thèse d’État, Univ. Aix-Marseille II,
+          cadre paleogéographique, structural et géodynamique. – Géo-                   3 vol.
+          logie Alpine, Mém. h. s., 13, 247-271.                              MASSE J.-P. & PHILIP J. (1976). – Paléogéographie et tectonique du Crétacé
+GUIGNARD P., BELLIER O. & CHARDON D. (2005). – Géométrie et cinéma-                     moyen en Provence. – Revue de Géographie Physique et Géo-
+          tique post-oligocène des failles d’Aix et de la moyenne Durance               logie Dynamique, 2, 49-66.
+          (Provence, France). – Comptes-Rendus Géosciences, 337, 3,           MASSE J.-P. & FENERCI-MASSE M. (2013). – Drowning events, development
+          375-384.                                                                      and demise of carbonate platforms and controlling factors: The
+GUYONNET-BENAIZE C., LAMARCHE J., MASSE J.-P., VILLENEUVE M. &                          Late Barremian-Early Aptian record of Southeast France. – Sedi-
+          VISEUR S. (2010). – 3D structural modelling of small deforma-                 mentary Geology, 298, 28-52.
+          tions in poly-phase faults pattern; application to the Mid-Creta-   MASSE J.-P., VILLENEUVE M., LEONFORTE E. & NIZOU J. (2009). – Block til-
+          ceous Durance uplift, Provence (SE France). – Journal of                      ting of the North Provence Early Cretaceous carbonate margin;
+          Geodynamics, 50, 2, 81-93.                                                    stratigraphic, sedimentologic and tectonic data. – Bulletin de la
+HENNUY J. (2003). – Sédimentation carbonatée et silicoclastique sous côn-               Société géologique de France, 180, 2, 105-115.
+          trole tectonique, le bassin Sud-Provençal et sa plate-forme car-    MATTAUER M. (1968). – Les traits structuraux essentiels de la chaîne Pyré-
+          bonatée du Turonien moyen au Coniacien moyen – Evolution                      néenne. – Revue de Geologie Dynamique et de Geographie Phy-
+          séquentielle, diagénetique, paléogéographique. – Ph. D. Thesis,               sique, 10, 3-11.
+          Université de Provence, Marseille, 208 p.                           MAUFFRET A. & GORINI C. (1996). – Structural style and geodynamic evo-
+HIPPOLYTE J.-C., NURY D., ANGELIER J. & BERGERAT F. (1991). – Relations                 lution of Camargue and western Provençal basin, southeastern
+          entre tectonique extensive et sédimentation continentale:                     France. – Tectonics, 15, 356-375.
+          exemple des oligocènes de Marseille et de Basse-Provence. –         MAUFFRET A., FRIZON DE LA MOTTE D., LALLEMANT S., GORINI C. & MAIL-
+          Bulletin de la Société géologique de France, 162, 6, 1083-1094.               LART A. (2004). – E-W opening of the Algerian basin (western
+HIPPOLYTE J.-C., ANGELIER J., BERGERAT F., NURY D. & GUIEU G. (1993). –                 Mediterranean). – Terra Nova, 16, 5, 257-264.
+          Tectonic-stratigraphic record of paleostress time changes in the    MOLLIEX S. (2009). – Caractérisation de la déformation tectonique récente
+          Oligocene basins of the Provence, southern France. – Tectono-                 en Provence (SE France). – PhD thesis, Univ. Aix-Marseille III,
+          physics, 226, 15-35.                                                          346 p.
+HSÜ K.J. (1973). – The desiccated deep-basin model for the Messinian          MOLLIEX S., BELLIER O, TERRIER M., LAMARCHE J., MARTELET G. & ESPURT
+          events. In: C.W. Drooger, Ed., Messinian events in the Mediter-               N. (2011). – Tectonic and sedimentary inheritance on the struc-
+          ranean. – North-Holland Publ. Co., Amsterdam, 60-67.                          tural framework of Provence (SE France): Importance of the Sa-
+JOLET P. (1996). – Etude stratigraphique et sédimentologique d’une                      lon-Cavaillon fault. – Tectonophysics, 501, 1-16.
+          plate-forme mixte carbonatée-silicoclastique: le Turonien de        MONTEAU R., RICOUR J. & ARGYRIADIS I. (2005). – Structure chevauchante
+          Provence (S.E. France). – PhD Thesis, Aix-Marseille Univ.,                    du massif de Marseilleveyre et de l’archipel Riou-Jaîre-Maïre, à
+          221 p.                                                                        Marseille (Bouches-du-Rhône). – Mésogée, 61, 61-70.
+
+Bull. Soc. géol. Fr., 2016, no 4
+                                               TECTONOSTRATIGRAPHIC FRAMEWORK OF THE PROVENCE                                                           161
+
+
+MOULIN M., KLINGELHOEFER F., AFILADHO A., ASLANIAN D., SCHNÜRLE P.,              ROUIRE J. & BLANC J.-J. (1979). – Carte géologique de la France à
+            NOUZE H., BESLIER M.-O. & FELD A. (2015). – Deep crustal                      1/250 000: Feuille Marseille (GC39), carte et notice explicative,
+            structure across a young passive margin from wide-angle and re-               88p. – BRGM, Orléans
+            flection seismic data (The SARDINIA Experiment) – I. Gulf of
+                                                                                 ROVERI M., FLECKER R., KRIJGSMAN W., LOFI J., LUGLI S., MANZI V., SIER-
+            Lion’s margin. – Bulletin de la Société géologique de France,
+                                                                                          RO F.J., B ERTINI A., C AMERLENGHI A., D E L ANGE G.J., G OVERS
+            186, 4-5, 309-330.
+                                                                                          R., HILGEN F.J., HUBSCHER C., MEIJER P.TH. & STOICA M.
+NURY D. (1988). – L’Oligocène de Provence méridionale: stratigraphie, dy-                 (2014). – The Messinian Salinity Crisis: past and future of a
+            namique sédimentaire, reconstitutions paléogéographiques. –                   great challenge for marine sciences. – Marine Geology, 352,
+            PhD thesis, Univ. de Provence, 411 p.                                         25-58.
+NURY D. & RAYNAUD S. (1986). – Etude tectono-sédimentaire du fossé Oli-
+            gocène de Marseille (Bouches-du-Rhône). Evolution posté-             SAGE F., BESLIER M.-O., THINON I., LARROQUE C., DESSA J.-X., MIGEON S.,
+            rieure. – Géologie de la France, 4, 377-397.                                   ANGELIER J., GUENNOC P., SCHREIBER D., MICHAUD F., STEPHAN
+OUDET J. (2008). – Etude terre-mer de la transition syn-rift/post-rift sur les             J.-F. & SONNETTE L. (2011). – Structure and evolution of a pas-
+            marges de l’océan Liguro-Provençal: Apports de la modélisation                 sive margin in a compressive environment: example of the south
+            géologique 3D et de la chronostratigraphie intégrée. – PhD the-                western Alps-Ligurian basin junction during the Cenozoic. –
+            sis, Aix-Marseille Univ., 288 p.                                               Marine and Petroleum Geology, 28, 1263-1282.
+OUDET J., MÜNCH PH., BORGOMANO J., QUILLÉVÉRÉ F., MELINTE M., DEMO-              SÉRANNE M. (1999). – The Gulf of Lion continental margin (NW Mediter-
+            RY F., V ISEUR S. & C ORNÉE J.-J. (2010). – Land and sea study of            ranean) revisited by IBS: an overview. In: B. DURAND, L. JOLI-
+            the northeastern golfe du Lion rifted margin. In: X. LE PICHON               VET, F. H ORVÁTH and M. S ÉRANNE , Eds, The Mediterranean
+            and C. RANGIN, Eds, Geodynamics of the France Southeast Ba-                  basins: Tertiary extension within the Alpine orogen. – The Geo-
+            sin. – Bulletin de la Société géologique de France, 181, 6,                  logical Society, London, Spec. Publ., 156, 15-36.
+            591-607.
+                                                                                 STAMPFLI G.M. & BOREL G.D. (2002). – A plate tectonic model for the Pa-
+PHILIP J. (1967). – Modalités et importance de la transgression du Sénonien
+                                                                                          leozoic and Mesozoic constrained by dynamic plate boundaries
+            inférieur dans la région de Saint-Cyr-sur-Mer, Var. – Comp-
+                                                                                          and restored synthetic oceanic isochrones. – Earth and Planeta-
+            tes-Rendus de l’Académie des Sciences, Paris, 265, 1883-1886.
+                                                                                          ry Science Letters, 196, 17-33.
+PHILIP J. (1970). – Les formations calcaires à rudistes du Crétacé supérieur
+            provençal et rhodanien. – Thèse d’État, Université de Provence,      TASSY A. (2012). – Karsts côtiers et canyons sous-marins de la marge pro-
+            Marseille, 438 p.                                                              vençale au Cénozoïque: Contrôle géodynamique, eustatique, hy-
+PHILIP J. (1982). – Rapports entre tectonique et sédimentation carbonatée                  drologique et structural. – PhD thesis, Aix-Marseille Univ.,
+            récifale. Etude d’un modèle provençal. – Géologie Méditerra-                   414 p.
+            néenne, 9, 3, 223-227.                                               TASSY A., FOURNIER F., MUNCH P., BORGOMANO J., THINON I., FABRI M.C.,
+PHILIP J., MASSE J.-P. & MACHHOUR L. (1987). – L’évolution paléogéogra-                    RABINEAU M., ARFIN B., BEGOT J., BESLIER M.-O., CORNEE J.-J.,
+            phique et structurale du front de chevauchement nord-toulonnais                FOURNILLON A., GORINI C., GUENNOC P., LEONIDE P., OUDET J.,
+            (Basse-Provence occidentale, France). – Bulletin de la Société                 PAQUET F., SAGE F. & TOULLEC R. (2014). – Discovery of Messi-
+            géologique de France, (8), III, 3, 541-550.                                    nian canyons and new seismic stratigraphic model, offshore Pro-
+REDONDO C. (1986). – Etude des sédiments détritiques du Crétacé supé-                      vence (SE France): implications for the hydrographic network
+            rieur marin de la Provence occidentale et recherche des zones                  reconstruction. – Marine and Petroleum Geology, 57, 25-50.
+            d’apport: sédimentologie, pétrographie, minéralogie. – Thèse
+                                                                                 TEMPIER J. (1987). – Modèle nouveau de mise en place des structures pro-
+            d’Etat, Université de Provence, 496p.
+                                                                                           vençales. – Bulletin de la Société géologique de France, Paris, 8,
+REHAULT J.-P., B OILLOT G. & MAUFFRET A. (1984). – The western Mediter-                    III, 533-540.
+            ranean basin geological evolution. – Marine Geology, 55,
+            447-477.                                                             TERRIER M., SERRANO O. & HANOT F. (2008). – Reassessment of the struc-
+REIJMER J.J.G., PALMIERI P., GROEN R. & FLOQUET M. (2015). – Calciturbi-                  tural framework of western Provence (France): consequence on
+            dites and calcidebrites: Sea-level variations or tectonic proces-             the regional seismotectonic model. – Geodinamica Acta, 21,
+            ses? – Sedimentary Geology, 317, 53-70.                                       (5-6), 231-238.
+ROLLET N. (1999). – Structure profonde et dynamique du Bassin ligure et          VILLEGER M. (1984). – Evolution tectonique du panneau de couverture
+            de ses marges. – PhD thesis, P. et M. Curie Univ., Paris, 324 p.              Nord-Provençal (Mont-Ventoux, Luberon, Moyenne Durance). –
+ROLLET N., DEVERCHERE J., BESLIER M.-O., GUENNOC P., R EHAULT J.-P.,                      PhD thesis, Univ. Paris-Sud, 175 p.
+            SOSSON M. & TRUFFERT C. (2002). – Back-arc extension, tecto-
+            nic inheritance and volcanism in the Ligurian Sea, western Me-       VILLEGER M. & ANDRIEUX J. (1987). – Phases tectoniques post-Eocènes et
+            diterranean. – Tectonics, 21, 3, 6-1 – 6-23.                                  structuration polyphasée du panneau de couverture nord proven-
+                                                                                          çal (Alpes externes méridionales). – Bulletin de la Société géolo-
+ROURE F. & CHOUKROUNE P. (1998). – Contribution of the Ecors seismic
+                                                                                          gique de France, 8, 147-156.
+            data to the Pyrenean geology: Crustal architecture and geodyna-
+            mic evolution of the Pyrenees. – Mémoires de la Société géolo-       ZIEGLER P.A. (1994). – Cenozoic rift system of western and central Europe:
+            gique de France, 173, 37-52.                                                   an overview. – Geologie in Mijnbow, 73, 99-127.
+
+
+
+
+                                                                                                                            Bull. Soc. géol. Fr., 2016, no 4
+

@@ -1,0 +1,615 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/334708612
+
+
+
+Comparative study on the Lower Silurian Longmaxi marine shale in the
+Jiaoshiba shale gas ﬁeld and the Pengshui area in the southeast Sichuan
+Basin, China
+
+Article in Geosciences Journal · July 2019
+DOI: 10.1007/s12303-019-0014-y
+
+
+
+CITATIONS                                                                                              READS
+
+0                                                                                                      114
+
+6 authors, including:
+
+            Lei Chen                                                                                              Shu Jiang
+            Southwest Petroleum University                                                                        University of Utah
+            24 PUBLICATIONS 237 CITATIONS                                                                         95 PUBLICATIONS 710 CITATIONS
+
+                SEE PROFILE                                                                                          SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+              Thermal evolution of north margin of the South China Sea View project
+
+
+
+              Thermal history reconstruction in the Sichuan Basin View project
+
+
+
+
+ All content following this page was uploaded by Lei Chen on 26 November 2019.
+
+ The user has requested enhancement of the downloaded file.
+                                                      Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+
+                                                             Contents lists available at ScienceDirect
+
+
+                                  Journal of Natural Gas Science and Engineering
+                                              journal homepage: www.elsevier.com/locate/jngse
+
+
+
+
+Sequence stratigraphy and its application in marine shale gas
+exploration: A case study of the Lower Silurian Longmaxi Formation in
+the Jiaoshiba shale gas ﬁeld and its adjacent area in southeast Sichuan
+Basin, SW China
+Lei Chen a, b, *, Yongchao Lu b, Shu Jiang c, Jianqing Li d, Tonglou Guo e, Chan Luo b,
+Fengcun Xing f
+a
+  School of Geoscience and Technology, Southwest Petroleum University, Chengdu, 610500, China
+b
+   Key Laboratory of Tectonics and Petroleum Resources of Ministry of Education, China University of Geosciences (Wuhan), Wuhan, 430074, China
+c
+  Energy and Geoscience Institute (EGI), University of Utah, Salt Lake City, UT, 84108, USA
+d
+   East China Branch of SINOPEC, Nanjing, 210011, China
+e
+  Southern Exploration and Development Division Company of SINOPEC, Chengdu, 610041, China
+f
+  Institute of Sedimentary Geology, Chengdu University of Technology, Chengdu 610059, China
+
+
+
+
+a r t i c l e i n f o                                 a b s t r a c t
+
+Article history:                                      Based on outcrops, cores, well logs data, and mineralogical, geochemical and petrophysical analysis, we
+Received 9 February 2015                              studied the sequence stratigraphy of marine shale dominated the Lower Silurian Longmaxi Formation,
+Received in revised form                              favorable commercial shale gas interval within the sequence stratigraphic framework. We interpret the
+28 August 2015
+                                                      Lower Member of the Longmaxi Formation as a third order sequence which is composed of transgressive
+Accepted 7 September 2015
+Available online 10 September 2015
+                                                      systems tract (TST), early highstand systems tract (EHST) and late highstand systems tract (LHST). The
+                                                      TST mainly consists of mixed siliceous mudstone and clay-rich siliceous mudstone with high total
+                                                      organic carbon (TOC) content, high content of brittle minerals and the highest gas content which is the
+Keywords:
+Sequence stratigraphy
+                                                      most favorable shale gas reservoir interval; the EHST is mainly composed of mixed siliceous mudstone
+Marine shale                                          and clay-rich siliceous mudstone in the lower part and mixed argillaceous mudstone in the upper part
+Longmaxi Formation                                    with well-developed laminaes, moderate TOC content and gas content; ﬁnally, the LHST is mainly
+Sichuan Basin                                         composed of organic-lean and clay-rich mudstone (e.g. silica-rich argillaceous mudstone and mixed
+                                                      argillaceous mudstone) with the lowest gas content. Sequence stratigraphic framework controls the
+                                                      distribution of TOC, mineralogy in time and space, which further controls the sweet spot areally and pay
+                                                      zone vertically for shale gas accumulation in the southeast Sichuan Basin. The data collected from the
+                                                      commercial shale gas wells conﬁrmed that the sequence stratigraphy is valid for the shale gas explo-
+                                                      ration and can be applied to the shale gas exploration in the other area.
+                                                                                                                      © 2015 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                          good prospect, how to ﬁnd the sweet spot of shale gas in shale
+                                                                                         strata is still the main obstacle we need to face in the shale gas
+    The great success of shale gas exploration in North America has                      exploration. In order to ﬁnd the sweet spot of shale gas, a lot of
+attracted increasing interesting from petroleum geologists in the                        work has been done by geologists and engineers through numerical
+world. They are eager to ﬁnd more commercial shale gas in other                          modeling (Wang and Carr, 2013a,b), seismic velocities (Jaiswal
+countries. Although the success of shale gas exploration in North                        et al., 2014), seismic inversion (Peng et al., 2014), well logs data
+America leads geologists to believe that shale gas exploration has a                     (Aliouane and Ouadfeul, 2014).
+                                                                                            As an integrated approach, sequence stratigraphy, after nearly
+                                                                                         forty years development, has been applied to siliciclastic and
+                                                                                         carbonate deposits in depositional settings from lacustrine to
+  * Corresponding author. School of Geoscience and Technology, Southwest Pe-
+troleum University, Chengdu, 610500, China.                                              deep water settings and led to great success in conventional
+    E-mail address: cl211@126.com (L. Chen).                                             clastic and carbonate petroleum exploration (Vail et al., 1977; Van
+
+http://dx.doi.org/10.1016/j.jngse.2015.09.016
+1875-5100/© 2015 Elsevier B.V. All rights reserved.
+                                        L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                              411
+
+
+Wagoner et al., 1990; Miall, 1991; Schlager, 1992; Weimer et al.,                  to intra-shelf low setting during the Early Silurian period (Fig. 1),
+1998; Posamentier and Allen, 1999; Catuneanu, 2002;                                and characterized by a set of thick organic rich marine shale
+Catuneanu et al., 2009; Jiang et al., 2013; Hemmesch et al.,                       deposited with thickness ranging from 60 to 120 m (Guo and
+2014). However, little research has been done to study the                         Zhang, 2014) (Figs. 1 and 2).
+sequence stratigraphy of shale strata deposited in deep water                          This area has experienced multi-stage tectonic events; most
+environment (Slatt and Rodriguez, 2012). According to traditional                  notably, the Paleozoic CaledonianeHercynian, Triassic Indo-China
+sequence stratigraphy, it is difﬁcult to conduct sequence strati-                  and Jurassic-Cretaceous Yanshan and Cenozoic Himalayan activ-
+graphic analysis in the deep marine basins due to the weak sea                     ities controlled the tectonic evolution of the southeast Sichuan
+level signal (Hemmesch et al., 2014), the relatively homogenous,                   Basin (Guo, 1996). During the Ordovician period, the Upper
+ﬁne-grained nature of the shale interval (Ver Straeten et al., 2011)               Yangtze Platform was dominated by carbonate deposit. When it
+and the conformity contact between upper and lower strata.                         came to the Late Ordovician to Early Silurian, the Caledonian
+Nevertheless, some researchers integrated the geochemistry,                        movement reached the highest intensity which placed the Upper
+geomechanics, core analysis, well logs, and palaeontology to                       Yangtze Platform under compression and led to the development
+conduct sequence stratigraphic analysis for shale in order to un-                  of Central Sichuan Uplift in the west of Yangtze Platform, North
+derstand the sequence boundary, maximum ﬂooding surface, in-                       Sichuan Uplift in the north and Qiangzhong Uplift in the south
+ternal stratal stacking patterns, lithofacies variability and                      (Zeng et al., 2011; Liang et al., 2009). Due to the compression and
+depositional models within the sequence (Algeo et al., 2004;                       development of several uplifts around the Sichuan Basin, the
+Macquaker et al., 2007; Ver Straeten et al., 2011; Slatt and                       marine area reduced to the restricted area in the northeast, east
+Abousleiman, 2011; Abouelresh and Slatt, 2012; Slatt and                           and southeast Sichuan Basin with relative rising sea-level (Su,
+Rodriguez, 2012; Hemmesch et al., 2014; Kohl et al., 2014). Some                   1999; Huang et al., 2011). At the same time, a relatively low en-
+geologists have even tried to establish the criteria and models for                ergy, and anoxic environment dominated in the southeast Sichuan
+sequence stratigraphy study in marine shale and predict the po-                    Basin, which led to thick, organic rich shale being deposited in this
+tential shale gas vertically and laterally (Ver Straeten et al., 2011;             area (Wang et al., 2009).
+Abouelresh and Slatt, 2012; Slatt and Rodriguez, 2012), so it is
+necessary to conduct sequence stratigraphy research in shale                       2.2. Stratigraphy
+strata and apply it to shale gas exploration.
+    The Lower Silurian Longmaxi marine shale, with estimated                           In the southeast Sichuan Basin, the Lower Silurian Longmaxi
+recoverable resources of up to 8.1  1012 m3 (286.5 Tcf), has yielded              Formation unconformably overlies the Ordovician Wufeng For-
+about 1.8  108 m3 (6.3 bcf) gas in 2013 in the southeast Sichuan                  mation, which comprises a set of thin siliceous shale and yields
+Basin. Great success of shale gas exploration has been made since                  abundant Amplexograptus, Dicellograptus, Tangyagraptus and
+the ﬁrst shale gas well-JY1HF well yielded shale gas ﬂow of                        Diceratograptus (Chen et al., 1987, 2000, 2003, 2005). The Longmaxi
+20.3  104 m3/day (7200 Mcf/day) in 2012 and the highest pro-                      Formation is conformably overlain by the sandstone, siltstone or
+duction rate was 54.7  104 m3/day (19,400 Mcf/day) from JY8-2HF                   carbonate succession of the Xiaoheba Formation (or Shiniulan
+well in the Jiaoshiba shale gas ﬁeld in Fuling, Chongqing. The                     Formation). The Longmaxi Formation is characterized by black
+Jiaoshiba shale gas ﬁeld is about 76,000 km2, its recoverable re-                  shale and abundant graptolites, such as Glyptograptus, Para-
+sources amount is approximately 2  1012 m3 (74 Tcf). From 2012 to                 kidograptus, Cystograptus, Demirastrites, Lituigraptus, Stimulograptus
+July, 2015, the Jiaoshiba shale gas ﬁeld has produced shale gas about              (Chen et al., 2000). The Lower Member of the Longmaxi Formation
+21.24  108 m3 (75 bcf) with daily shale gas production reaching up                is dominated by black organic-rich shale with numerous graptolites
+to more than 1200  104 m3/day (424 MMcf/day). Nowadays, there                     developed. The Upper Member is composed of siltstone, silty
+are about 200 wells and 50 pads in the Jiaoshiba shale gas ﬁeld. It is             mudstone and argillaceous limestone (Fig. 2). This Upper Member
+estimated that the shale gas production will reach up to                           has low TOC and shows siltstone and limestone increasing toward
+50  108 m3 (176.6 bcf) in 2015, and ﬁnally reach a total capacity of              the top. The whole Longmaxi Formation displays TOC decreasing
+100  108 m3 (353.1 bcf) in 2017.                                                  upward and siltstone increasing upward, which suggests a
+    Many researchers have done a large number of studies on the                    decreasing water depth from bottom to top. The Longmaxi For-
+Longmaxi Shale's properties and accumulation mechanism (Liu                        mation is mainly distributed in the southeast and east Sichuan
+et al., 2006, 2009, 2011, 2013; Wang et al., 2009; Zhu et al., 2010;               Basin with thickness ranging from 160 to 600 m. Due to develop-
+Pu et al., 2010; Chen et al., 2011, 2012; Liang et al., 2012; Tian                 ment of the Chuanzhong (central Sichuan) Uplift, there are no
+et al., 2013; Chen et al., 2014), however, the sequence stratig-                   Longmaxi shale deposits in the center of the Sichuan Basin and
+raphy of the Lower Silurian Longmaxi marine shale in the southeast                 limited distribution in the northwest Sichuan Basin (Fig. 2).
+Sichuan Basin is not as well known. Thus, this study integrates
+outcrop studies with cores, well logs, and geochemical data to (1)
+analyze the sequence stratigraphy of the Lower Silurian Longmaxi                   3. Data and methodology
+shale; (2) establish the sequence stratigraphic framework of this
+shale; (3) investigate the potential shale gas pay zone within                         The targeted research area is the Jiaoshiba shale gas ﬁeld (Fig. 1)
+sequence stratigraphic framework.                                                  and its adjacent Pengshui area with 43 samples from the Qiliao
+    The Lower Silurian Longmaxi Formation is composed of two                       outcrop section and 37 samples from the Huangcaoji outcrop sec-
+Members: the Lower Member and the Upper Member. The Lower                          tion, as well as 110 samples collected from recently drilled PY 1 and
+Member of the Longmaxi Formation is emphasized in this article                     JY 1 shale gas wells (Fig. 1). Core and outcrop analyses include
+because it is the current commercial shale gas production interval.                lithofacies description, organic geochemistry, and mineral compo-
+                                                                                   sition tests, thin section observation, etc.
+2. Geological setting                                                                  One hundred and twenty samples were analyzed by State Key
+                                                                                   Laboratory of Geological Processes and Mineral Resources of China
+2.1. Tectonic and paleogeographic setting                                          University of Geosciences (Wuhan) for mineralogy by X-ray ﬂuo-
+                                                                                   rescence spectrometry (XRF) analysis. Sixty samples were analyzed
+   The studied area, located in the southeast Sichuan Basin, is shelf              by Experimental research center of Wuxi research institute of
+412                                               L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+
+
+       Fig. 1. Location of study area and depositional setting of the Lower Silurian Longmaxi shale in the southeast Sichuan Basin (After Liu et al., 2011; Zhu et al., 2010).
+
+
+
+
+Fig. 2. Stratigraphic framework and sedimentary ﬁlling pattern for Upper Ordovician to Lower Silurian Formations in Sichuan Basin (After Chen et al., 2002; Su et al., 2007; Xu et al.,
+2011). See Fig. 1 for the section location.
+                                                L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                           413
+
+
+
+
+Fig. 3. Sequence boundary showing lithological variation above and below the boundary. A, Core photo showing dark gray shelly limestone underlain SB1 and black shale overlain
+SB1, JY11 well. B, Qiliao section showing dark gray shelly limestone underlain SB1 and black shale overlain SB1. C, Dujiagou section showing lime mudstone or marl underlain SB2
+and silty mudstone overlain SB2. See Fig. 1 for the location of outcrops. SB ¼ Sequence boundary.
+
+
+
+petroleum geology of SINOPEC for rock pyrolysis tests. QEMSCAN                             4. Results and discussion
+technology was used for 18 samples of JY 1 and PY 1 well in Energy
+& Geosciences Institute at University of Utah in US. Logs of six wells                     4.1. Sequence stratigraphy
+(Fig. 1) were also collected for the sequence stratigraphic analysis.
+The gas content data of ﬁve wells from Jiaoshiba shale gas ﬁeld and                          The Sequence stratigraphic framework of the Longmaxi For-
+Pengshui area was also available for this study.                                           mation is poorly understood in comparison with those in coarse
+
+
+
+
+Fig. 4. Sequence boundary identiﬁcation for the Lower Siluiran Longmaxi Formation by using well logs from PY 1 well located in Pengshui area in the southeast Sichuan Basin. See
+Fig. 1 for the well location. GR ¼ Natural gamma ray; SP ¼ Spontaneous potential; LLS ¼ Shallow investigate induction log; LLD ¼ Deep investigate induction log; AC ¼ Acoustic;
+CNL ¼ Compensated neutron logging; U ¼ Uranium.
+414                                              L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+
+
+      Fig. 5. Sequence boundary identiﬁcation for the Lower Silurian Longmaxi Formation by using U/Th ratios from PY 1 well and JY1 well. See Fig. 1 for the wells location.
+
+
+clastic and carbonate successions in the Sichuan Basin (Li et al.,                          to carrying out the study of sequence stratigraphy. However,
+2012). Our goal was to establish a sequence stratigraphic frame-                            because shale is mainly deposited in intra-shelf low, slope and
+work in the southeast Sichuan Basin, thus providing a detailed                              basinal setting, the idea of relying only on seismic reﬂections to
+sequence stratigraphic correlation and lithofacies prediction for                           identify unconformity surface and ascertain sequence boundary
+shale reservoir characterization.                                                           obviously doesn't work due to no distinctive seismic reﬂection
+                                                                                            pattern for relatively homogeneous property of shale. Previous
+4.1.1. Identiﬁcation of sequence boundary                                                   studies found that well log data, geochemical parameters and
+    A sequence is enveloped on top and bottom by sequence                                   lithofacies, etc, are of key signiﬁcance in determining of shale
+boundaries (SB), so identiﬁcation of sequence boundaries is the key                         sequence boundaries (Abouelresh and Slatt, 2012; Slatt and
+
+
+
+
+Fig. 6. Sequence stratigraphic interpretation of the Lower Member of the Longmaxi Formation of JY 1 well (see Fig. 1 for the well location). GR ¼ Natural gamma ray; KTH ¼ Gamma
+ray without uranium; LLD ¼ Deep investigation induction log; AC ¼ Acoustic; SB ¼ Sequence boundary; mfs ¼ Maximum ﬂooding surface; TST ¼ Transgressive systems tract;
+EHST ¼ Early highstand systems tract; LHST ¼ Late highstand systems tract.
+                                                 L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                             415
+
+
+
+
+Fig. 7. Sequence stratigraphic interpretation of the Lower Silurian Longmaxi Formation of PY1 well (see Fig. 1 for the well location). GR ¼ Natural gamma ray, LLD ¼ Deep
+investigation induction log, U ¼ Uranium; SB ¼ Sequence boundary; mfs ¼ Maximum ﬂooding surface; TST ¼ Transgressive systems tract; EHST ¼ Early highstand systems tract;
+LHST ¼ Late highstand systems tract.
+
+
+
+Rodriguez, 2012). Therefore, sequence boundaries are determined                             area (Chen and Qiu, 1986; Chen, 1988; Cheng and Wang, 1991; Feng
+in this part through well-logs, lithofacies and redox indicator (U/Th                       et al., 1993; Su, 1999), so SB1 is a transgressive surface of erosion
+ratio).                                                                                     (SB/TSE) as Slatt and Rodriguez (2012) described. Because of the
+    Two sequence boundaries e SB1 and SB2 were identiﬁed in the                             regression at the end of the Late Ordovician Wufeng Formation and
+Lower Member of the Longmaxi Formation in the study area                                    transgression in the Early Silurian Longmaxi Formation, a suit of
+(Figs. 3e5 ). SB1 is the boundary between Ordovician and Silurian,                          dark gray shelly limestone were deposited in the Late Wufeng
+this surface shows disconformity between the Ordovician Wufeng                              Formation period which represents a shallow water environment
+Formation and the Silurian Longmaxi Formation in the southeast                              (Fig. 3A, B) and a suit of black shale were deposited in the Early
+Sichuan Basin (Li et al., 2012). The researchers also found that large                      Longmaxi Formation period which represents a deep water envi-
+scale regression happened during the end of the Late Ordovician                             ronment (Fig. 3A, B), this variation in lithofacies also exhibits sharp
+Wufeng Formation and large scale transgression had begun when it                            change on the well logs: SB1 is picked at a sudden decrease in GR
+came to the Early Silurian Longmaxi Formation in Upper Yangtze                              (gamma-ray), AC (sonic) and U (uranium) values (Fig. 4). At the
+
+
+
+
+Fig. 8. Sequence stratigraphic correlation using well logs through the study area, showing variation of systems tracts in the Sequence A (the Lower Member of the Longmaxi
+Formation). GR ¼ Gamma ray; TST ¼ Transgressive systems tract; EHST ¼ Early highstand systems tract; LHST ¼ Late highstand systems tract. See Fig. 1 for the location of this cross
+section.
+416                                             L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+
+
+Fig. 9. Isopach maps of TST, EHST and LHST of Sequence A (the Lower Member of the Longmaxi Formation) in the study area. A, Isopach maps of TST of Sequence A; B, Isopach maps
+of EHST of Sequence A; C, Isopach maps of LHST of Sequence A.
+
+
+
+same time, based on the U/Th ratios, the SB1 is a transitional surface                     interpret the Lower Member of the Longmaxi Formation as a third-
+for palaeoredox conditions from increasing reduction conditions to                         order sequences e Sequence A (Figs. 6 and 7). This sequence is
+increasing oxidizing conditions (Fig. 5). SB2 is the boundary be-                          composed of a transgressive systems tract (TST) and highstand
+tween the Lower Member and the Upper Member of the Longmaxi                                systems tract (HST). Early highstand systems tract (EHST) and late
+Formation, which is manifested as a lithofacies transformation                             highstand systems tract (LHST) can be further identiﬁed within
+interface with lime mudstone underlain and silty mudstone over-                            highstand systems tract (HST) (Figs. 6 and 7).
+lain (Fig. 3C) and a palaeoredox conditions transformation surface                            The Transgressive systems tract corresponds to the lower part
+with increasing oxidizing conditions underlain and increasing                              of the Lower Member of the Longmaxi Formation with a typical
+reduction conditions overlain (Fig. 5), meaning that this surface is a                     upward increases in gamma-ray response patterns, followed by
+ﬂooding surface indicated by sharp increase in GR values (Fig. 4).                         the early highstand systems tract with four cycles showing typical
+                                                                                           upward decreases in gamma-ray response. The boundary between
+4.1.2. Sequences of the Lower Silurian Longmaxi Formation                                  TST and EHST is interpreted as a maximum ﬂooding surface
+    Based on the identiﬁcation of the sequence boundaries, we                              (mfs) on the top of a condensed section (CS) representing
+
+
+
+
+Fig. 10. The mineralogy and lithofacies of TST within the Sequence A (the Lower Member of the Longmaxi Formation) in the Jiaoshiba shale gas ﬁeld and its adjacent area in the
+southeast Sichuan Basin. The terminology and classiﬁcation for shale lithofacies is following Gamero-Diaz et al. (2012).
+                                               L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                         417
+
+
+
+
+Fig. 11. QEMSCAN photographs and thin-section photographs for different lithofacies of TST. A, Silica-dominated mudstone. The QEMSCAN image showing abundant quartz and
+massive texture, JY1 well, 2406.8 m. B, Clay-rich siliceous mudstone. The QEMSCAN image showing abundant quartz and faint laminations, PY1 well, 2141.2 m. C, Mixed siliceous
+mudstone. JY1 well, 2407.42 m. D, Argillaceous/siliceous mudstone with quartz laminae, JY1 well, 2394.3 m. E, Mixed mudstone with fragment of sponge spicule, JY1 well,
+2402.55 m.
+
+
+
+deposition during the part of the sequence A. The CS is featured                          4.1.3. Sequence stratigraphic framework correlation
+on the log by high GR and U and low AC. The EHST and LHSH are                                 Based on the sequence analysis of drilling wells, we established
+both composed of four cycles indicated by the gamma-ray pat-                              the high frequency sequence stratigraphic framework through
+terns; each showed the same upward decrease in gamma-ray                                  stratigraphic correlation in the study area (Fig. 8). The cross
+response (Figs. 6 and 7).                                                                 section shows that Sequence A (Lower Member of the Longmaxi
+
+
+
+
+Fig. 12. The mineralogy and lithofacies of EHST within the Sequence A (the Lower Member of the Longmaxi Formation) in the Jiaoshiba shale gas ﬁeld and its adjacent area in
+southeast Sichuan Basin. The terminology and classiﬁcation for shale lithofacies is following Gamero-Diaz et al. (2012).
+418                                             L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+Formation) is regionally consistent in southeastern Sichuan Basin                          mudstone, mixed siliceous mudstone, argillaceous/siliceous
+with thickness ranging from 80 m to 105 m (Fig. 8). The TST is                             mudstone and mixed mudstone (Fig. 10). The silica-dominated
+dominated by organic-rich shale with thickness ranging from 13 m                           mudstone is massive, poorly laminated and rich in silica content
+to 35 m in the study area (Fig. 9A). The TST shows a thickening trend                      (quartz þ feldspar>80%) (Fig. 11A). The clay-rich siliceous
+from south to the north of the study area (Fig. 9A). This can be                           mudstone contains silica content between 50% and 80%, showing
+explained by the depositional setting variations: shelf and intra                          faint laminations and higher content of illite when it compared
+shelf low dominated the south area, while intra shelf low occupied                         with the silica-dominated mudstone (Fig. 11B). The mixed siliceous
+the north area (Fig. 1). The water depth gradually increased from                          mudstone is characterized by mix of quartz, clay and carbonate
+south to the north. The EHST shows the same thickening trend from                          (Fig. 11C). The argillaceous/siliceous mudstone displays high con-
+west to the east as the TST, with thickness ranging from 30 m to                           tent of organic matter and abundant quartz laminaes (Fig. 11D). The
+60 m (Fig. 9B). The LHST shows an obvious thickening trend from                            mixed mudstone has a relatively low content of quartz when it
+JS1 well with 16 m in the northeast to DS1 well with 62 m in the                           compared with the other four lithofacies in TST. Some fossil frag-
+southeast (Fig. 9C). This systems tract is dominated by organic-lean                       ments (e.g. sponge spicule) are present in some mixed mudstone
+shale in the study area (Fig. 8).                                                          samples (Fig. 11E). Among these ﬁve lithofacies, silica-dominated
+                                                                                           mudstone, clay-rich siliceous mudstone and mixed siliceous
+4.2. Lithofaices within sequence stratigraphy                                              mudstone are the dominate lithofacies and show high silica content
+                                                                                           (Fig. 10).
+   Based on the mineralogy based classiﬁcation scheme for shales                               EHST: This system tract is composed by clay-rich siliceous
+proposed by Gamero-Diaz et al. (2012), we project the XRF data and                         mudstone, mixed siliceous mudstone, argillaceous/siliceous
+QEMSCAN data onto the ternary diagram for the classiﬁcation of                             mudstone, mixed mudstone and silica-rich mudstone (Fig. 12).
+shale lithofacies. Eight lithofacies were identiﬁed in the Sequence A                      Mixed siliceous mudstone is well laminated, including some low
+(the Lower Member of the Longmaxi Formation) (Figs. 10, 12 and                             angle cross-laminations (Fig. 13AeC). Clay-rich siliceous mudstone
+14). The lithofacies vary from different system tract within the                           is characterized by abundant horizontal laminaes (Fig. 13DeE).
+Sequence A.                                                                                Argillaceous/siliceous mudstone displays moderate content of silica
+   TST: Five lithofacies were identiﬁed in this system tract. These                        minerals (30%e50%) and clay minerals (30%e50%) with some faint
+ﬁve lithofacies are silica-dominated mudstone, clay-rich siliceous                         laminaes developed (Fig. 13F). Mixed mudstone is also shows
+
+
+
+
+Fig. 13. Photographs for different lithofacies of EHST. AeC, Mixed siliceous mudstone. A, core photograph showing abundant silty laminaes, PY1 well, 2115.2 m; B, QEMSCAN image
+of A showing low angle cross-laminaes. C, Thin-section showing abundant laminaes. DeE, Clay-rich siliceous mudstone. D, core photo showing silty laminaes, JY1 well, 2374 m. E,
+QEMSCAN image of D showing quartz laminaes. F, Argillaceous/siliceous mudstone with faint laminaes, JY1 well, 2357.07 m. G, H, Mixed mudstone. G, Core photograph showing
+silty laminaes, JY1 well, 2374 m. H, QEMSCAN image of G showing laminaes. I, QEMSCAN image for silica-rich argillaceous mudstone with abundant homogeneous distribution of
+illite, JY1 well, 2349 m.
+                                                L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                          419
+
+
+abundant laminaes (Fig. 13GeH). Silica-rich argillaceous mudstone                          4.3. TOC, mineralogy and total gas content within sequence
+displays high content of illite with homogeneous structure                                 stratigraphy
+(Fig. 13I). Compared with the TST, abundant laminaes were devel-
+oped within almost all the lithofacies except silica-rich argillaceous                         In the Sequence A (the Lower Member of the Longmaxi For-
+mudstone in the EHST.                                                                      mation), the TOC content, gas content and quartz content display an
+    LHST: Five lithofacies were identiﬁed in this system tract. These                      obviously change from TST to LHST. In the TST, the TOC content is
+ﬁve lithofacies are argillaceous/siliceous mudstone, mixed                                 more than 2.44% in PY1 well (Fig. 17) and shows highest TOC
+mudstone, silica-rich argillaceous mudstone, mixed argillaceous                            content at the bottom and then decreases from the bottom to the
+mudstone and clay-dominated mudstone (Fig. 14). Argillaceous/                              top (Fig. 17). The high TOC content concentrates in the lower TST
+siliceous mudstone has moderate content of silica minerals (30%e                           with the highest TOC content of 4.31% in PY1 well, then sharply
+50%) and clay minerals (30%e50%) with a small amount of car-                               decreases to less than 2% in the upper TST with the lowest TOC
+bonate minerals (<20%). Some faint laminaes can be found in                                content of 0.46% in PY1 well (Fig. 17). When it comes to the EHST,
+argillaceous/siliceous mudstone (Fig. 15A). Mixed mudstone has                             the TOC content shows almost same change trends as that in TST,
+almost equal amounts of the three components (silica minerals,                             but the value is much lower than that in TST. The TOC content
+carbonate and clay minerals) with some laminaes developed                                  further decreases in LHST and reduce from 1.08% at the bottom to
+(Fig. 15B, C). Mixed argillaceous mudstone has more than 50% of                            0.17% at the top (Fig. 17). In the whole area, the TOC content shows
+clay content with similar amounts of carbonate and silica minerals                         same vertical change trends from TST to LHST and it also exhibits
+and shows homogenous structure (Fig. 15D). Silica-rich argillaceous                        lateral variations in the study area (Fig. 18). In the TST, the higher
+mudstone is rich in clay minerals and shows some faint laminaes                            TOC content is located in the Jiaoshiba gas ﬁeld (JY1 well) and
+(Fig. 15E). Clay-dominated mudstone has high content of clay                               Pengshui area (PY1 well) and decreases towards southwest
+minerals with a few amount of carbonate and silica minerals with                           (Fig. 18). In the EHST, the TOC content distribution patterns are
+clay minerals homogenous distributed (Fig. 15F). Compared with                             similar to that in TST which is higher in the Jiaoshiba gas ﬁeld (JY1
+the EHST, the lithofacies within the LHST is relatively clay rich and                      well) and Pengshui area (PY1 well) and lower in the southwest
+laminaes less developed. .                                                                 area. The TOC content is less than 1% in the whole study area in the
+    Based on the identiﬁcation of lithofacies, we established the                          LHST period (Fig. 18).
+vertical sequence of lithofacies within the Sequence A (the Lower                              Compared to TOC, the gas content also shows decreasing trends
+Member of the Silurian Longmaxi Formation) (Fig. 16). The result                           from TST to LHST (Fig. 17). In TST, the gas content ranges from
+shows that clay-rich siliceous mudstone and mixed siliceous                                1.70 m3/ton to 2.46 m3/ton with the highest value in the middle of
+mudstone dominated the TST, making the strata of the TST rich in                           TST in PY1 well (Fig. 17). In EHST, the gas content changes
+silica. When it comes to the EHST, mixed siliceous mudstone and                            frequently with an overall decrease with values ranging from
+clay-rich siliceous mudstone were concentrated at the bottom and                           0.45 m3/ton to 1.87 m3/ton in PY1 well (Fig. 13). When it comes to
+mixed argillaceous mudstone occurred on the top. The LHST is                               LHST, the gas content deceases from 1.14 m3/ton to 0.46 m3/ton in
+dominated by clay-rich shale (e.g. mixed argillaceous mudstone                             PY1 well (Fig. 17).
+and silica-rich mudstone).                                                                     We also found that quartz content has obvious variations in
+
+
+
+
+Fig. 14. The mineralogy and lithofacies of LHST within the Sequence A (the Lower Member of the Longmaxi Formation) in the Jiaoshiba shale gas ﬁeld and its adjacent area in the
+southeast Sichuan Basin. The terminology and classiﬁcation for shale lithofacies is following Gamero-Diaz et al. (2012).
+420                                              L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+
+
+
+Fig. 15. Photographs for different lithofacies of LHST. A, Argillaceous/siliceous mudstone. The thin-section photograph showing inhomogeneous distribution of quartz with different
+size, JY1 well, 2340.82 m. B, C, Mixed mudstone. B, Core photo for mixed mudstone, PY1 well, 2036.6 m; C, QEMSCAN image of B showing discontinuous laminaes and abundant clay
+minerals; D, Mixed argillaceous mudstone, PY1 well, 2030.5 m. E, Silica-rich argillaceous mudstone. QEMSCAN image showing abundant clay minerals, JY1 well, 2338.6 m. F, Clay-
+dominated mudstone. QEMSCAN image showing abundant clay minerals and pyrite laminae, JY1 well, 2332.8 m.
+
+
+
+different systems tract. The quartz content is highest in TST with                             In term of TOC, quartz and gas content, the TST has the highest
+range from 39.6% to 52.6% (46.7% in average) in PY1 well (Fig. 17),                         TOC content, total gas content and quartz content. At the same
+then decreases to 36.7% in average with content ranging from 31.1%                          time, The TOC content has the similar changing patterns to gas
+to 42% in EHST. When it comes to LHST, the quartz content further                           content within the Sequence A (the Lower Member of the Longmaxi
+deceases to 24.1% in average (ranging from 20.1% to 29.3%) (Fig. 17).                       Formation): both show decreasing trends from TST to LHST. Also,
+
+
+
+
+                 Fig. 16. Vertical lithofacies variations within Sequence A (the Lower Silurian Longmaxi Formation) in PY1 well. See Fig. 1 for the well location.
+                                                 L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                               421
+
+
+
+
+Fig. 17. Vertical variations of TOC content, gas content and quartz content in the Sequence A (the Lower Member of the Longmaxi Formation) in PY1 well. See Fig. 1 for well location.
+
+
+
+gas content decreases with decreasing quartz content from TST to                             content ranges from 3.59 m3/ton to 5.96 m3/ton in the TST, 1.59 m3/
+LHST (Fig. 17), which indicates the shale in TST is high quality                             ton to 4.67 m3/ton in the EHST and 0.67 m3/ton to 3.49 m3/ton in
+fracturable shale gas reservoir with highest TOC, gas content and                            the LHST (Table 1).
+brittle minerals content.                                                                        Based on the gas content data from the ﬁve commercial shale
+                                                                                             gas wells, we can see that each well shows the same gas content
+                                                                                             change pattern. The gas content is highest in the TST, and then
+5. Application
+                                                                                             reduces in the EHST and the LHST. The LHST has the lowest gas
+                                                                                             content. The change pattern of gas content within the Sequence A
+   In order to examine the application of sequence stratigraphy in
+                                                                                             (the Lower Member of the Longmaxi Formation) shows that the TST
+shale gas exploration, we collected gas content data of ﬁve com-
+                                                                                             is the most potential shale gas pay zone within the sequence
+mercial wells, among which four wells (JY1, JY2, JY3 and JY4 well)
+                                                                                             stratigraphic framework.
+are located in the Jiaoshiba shale gas ﬁeld and PY1 well is located in
+Pengshui area. We found that the TST has the highest gas content in
+Pengshui area with value ranging from 1.7 m3/ton to 2.46 m3/ton                              6. Conclusions
+and the gas content value is much lower in the EHST and LHST in
+PY1 well (Table 1). In the Jiaoshiba shale gas ﬁeld, the average gas                             In this paper, we studied the sequence stratigraphy of the Lower
+
+
+
+
+Fig. 18. Cross section showing the lateral TOC content variations in the Sequence A (the Lower Member of the Longmaxi Formation) in the Jiaoshiba shale gas ﬁeld and its adjacent
+area in southeast Sichuan Basin. See Fig. 1 for the location of the cross section.
+422                                                  L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423
+
+Table 1                                                                                              Toward the standardization of sequence stratigraphy. Earth Sci. Rev. 92, 1e33.
+The total gas content of TST, EHST and LHST of Sequence A (the Lower Member of                       http://dx.doi.org/10.1016/j.earscirev.2008.10.003.
+Longmaxi Formation) in Jiaoshiba shale gas ﬁeld and its adjacent area in southeast              Chen, J.Y., 1988. Ordovician cephalopod bathymetric signals and chronology of sea-
+Sichuan Basin.                                                                                       level change. Acta Palaeotol. Sin. 27, 331e345 (in Chinese with English
+                                                                                                     summary).
+  Well         TST/m3 t1                EHST/m3 t1               LHST/m3 t1                  Chen, X., Qiu, J.Y., 1986. The paleoenvironment evolution during Ordovician in
+                                                                                                     Yichang. J. Stratigr. 10, 1e15 (in Chinese with English summary).
+               Max.    Min.    Mean      Max.     Min.    Mean     Max.     Min.    Mean        Chen, X., Xiao, C.X., Chen, H.Y., 1987. Wufengian (Ashgillian) graptolite faunal dif-
+  PY1 well     2.46    1.7     2.1       1.86     0.45    1.01     1.14     0.46    0.73             ferentiation and anoxic environment in South China. Acta Palaeontol. Sin. 26,
+  JY1 well     5.2     1.08    3.59      3.92     0.69    1.59     0.88     0.49    0.67             326e344 (in Chinese with English summary).
+                                                                                                Chen, X., Rong, J.S., Mitchell, C.E., Harper, D.A.T., Zhan, R.B., Zhang, Y.D., Li, R.Y.,
+  JY2 well     7.42    3.78    5.96      7.71     2.76    4.67     4.22     1.89    3.49
+                                                                                                     Wang, Y., 2000. Late Ordovician to earliest Silurian graptolite and brachiopod
+  JY3 well     6.67    3.41    4.65      4.3      2.52    3.24     4.0      2.22    2.91
+                                                                                                     biozonation from the Yangtze region, South China, with a global correlation.
+  JY4 well     7.07    4.13    5.5       5.47     3.2     4.25     4.02     2.93    3.28
+                                                                                                     Geol. Mag. 137, 623e650. http://dx.doi.org/10.1017/S0016756800004702.
+                                                                                                Chen, H.D., Tian, J.C., Liu, W.J., Xu, X.S., Zheng, R.C., Mou, C.L., Li, Y.S., Qin, J.X., 2002.
+                                                                                                     Division and correlation of the sequence of marine sinian system to Middle
+Silurian Longmaxi Formation in the southeast Sichuan Basin. The                                      Triassic series in the South of China. J. Chengdu Univ. Technol. 29, 354e379 (in
+Lower Member of the Silurian Longmaxi Formation is interpreted                                       Chinese with English abstract).
+                                                                                                Chen, X., Melchin, M.J., Fan, J.X., Mitchell, C.E., 2003. Ashgillian graptolite fauna of
+as a third order sequence, which is composed of TST, EHST and                                        the Yangtze region and the biogeographical distribution of diversity in the
+LHST. The thickness of the TST ranges from 15 m to 35 m and the                                      latest Ordovician. Bull. Soc. Ge     ol. Fr. 174, 141e148. http://dx.doi.org/10.2113/
+EHST has the thickness between 30 m and 60 m, while the thick-                                       174.2.141.
+                                                                                                Chen, X., Fan, J.X., Melchin, M.J., Mitchell, C.E., 2005. Hirnantian (Latest Ordovician)
+ness of LHST is between 20 m and 60 m. In the Sequence A (the                                        graptolites from the upper Yangtze region, China. Palaeontology 48, 235e280.
+Lower Silurian Longmaxi Formation), different system tract has                                       http://dx.doi.org/10.1111/j.1475-4983.2005.00453.x.
+different lithofacies associations, TOC content, gas content and                                Chen, S.B., Zhu, Y.M., Wang, H.Y., Liu, H.L., Wei, W., Fang, J.F., 2011. Shale gas
+                                                                                                     reservoir characterization: a typical case in the southern Sichuan Basin of China.
+minerals content, which determine the shale gas favorable pay                                        Energy 36, 6609e6616. http://dx.doi.org/10.1016/j.energy.2011.09.001.
+zone. The TST is mainly compose of clay-rich siliceous mudstone                                 Chen, S.B., Zhu, Y.M., Wang, H.Y., Liu, H.L., Wei, W., Fang, J.H., 2012. Structure
+and mixed siliceous mudstone with high TOC, high content of                                          characteristics and accumulation signiﬁcance of nanopores in Longmaxi shale
+                                                                                                     gas reservoir in the southern Sichuan Basin. J. China Coal Soc. 37, 438e444 (in
+quartz and the highest gas content. The EHST is dominated by
+                                                                                                     Chinese with English abstract).
+mixed siliceous mudstone and clay-rich siliceous mudstone in the                                Chen, L., Lu, Y.C., Jiang, S., Li, J.Q., Guo, T.L., Luo, C., 2014. Heterogeneity of the Lower
+lower part and mixed argillaceous mudstone in the upper part with                                    Silurian Longmaxi marine shale in the southeat Sichuan Basin of China. Mar.
+                                                                                                     Pet. Geol. 65, 232e246. http://dx.doi.org/10.1016/j.marpetgeo.2015.04.003.
+well-developed laminaes, moderate TOC content and gas content.
+                                                                                                Cheng, H.J., Wang, Y.Z., 1991. Discussion on controlling factors of desalinated water
+The LHST mainly consists of mixed argillaceous mudstone and                                          in Upper Yangtze Sea during Late Ordovician Wufeng period. J. Stratigr. 15,
+silica-rich mudstone with high clay content, the lowest value of                                     109e114 (in Chinese with English summary).
+TOC content and gas content. The commercial shale gas production                                Feng, H.Z., Yu, J.H., Fang, Y.T., 1993. Palaeosalinity analysis of Upper Yangtze Sea
+                                                                                                     during Late Ordovician Wufeng period. J. Stratigr. 17, 179e185 (in Chinese with
+wells conﬁrmed that the TST is the most favorable pay zone and                                       English summary).
+high quality fracturable shale gas reservoir within the sequence                                Gamero-Diaz, H., Miller, C., Lewis, R., 2012. sCore: a Classiﬁcation Scheme for
+stratigraphic framework in the Jiaoshiba shale gas ﬁeld and its                                      Organic Mudstones Based on Bulk Mineralogy. Search and Discovery article #
+                                                                                                     40951.
+adjacent area in the southeast Sichuan Basin.                                                   Guo, Z.W., 1996. The Forming and Evolution of Sichuan Basin. Geological Publishing
+                                                                                                     House, Beijing, pp. 1e207 (in Chinese).
+                                                                                                Guo, T.L., Zhang, H.R., 2014. Formation and enrichment mode of Jiaoshiba shale gas
+Acknowledgments                                                                                      ﬁeld, Sichuan Basin. Pet. Explor. Dev. 41, 31e40. http://dx.doi.org/10.1016/
+                                                                                                     S1876-3804(14)60003-3.
+   This study was supported by the Young Scholars Development                                   Hemmesch, N.T., Harris, N.B.C., Minch, A., Selby, D., 2014. A sequence-stratigraphic
+                                                                                                     framework for the Upper Devonian Woodford Shale, Permian Basin, west Texas.
+Fund of SWPU (No. 201599010078) and China National Natural                                           AAPG Bull. 98, 23e47. http://dx.doi.org/10.1306/05221312077.
+Science Foundation (No. 41302089). We thank Hu Xiaohui, Hao                                     Huang, W.M., Liu, S.G., Wang, G.Z., Zheng, X.L., Wang, J., 2011. Shale gas exploration
+Ting, and Liu Lu for their earlier work about the thin section anal-                                 prospect of Lower Paleozoic in southeastern Sichuan and western Hubei-
+                                                                                                     eastern Chongqing areas, China. Geol. Bull. China 30, 364e371 (in Chinese
+ysis and core study. The authors wish to thank Zebulon Pischnotte,                                   with English abstract).
+University of Utah at Salt Lake City in US, for providing language                              Jaiswal, P., Varacchi, B., Ebrahimi, P., Dvorkin, J., Puckette, J., 2014. Can seismic ve-
+help. Special thanks are given to China Scholarship Council (CSC).                                   locities predict sweet spots in the Woodford Shale? A case study from
+                                                                                                     McNeff2e28 Well, Grady County, Oklahoma. J. Appl. Geophys. 104, 26e34.
+We are also grateful to two anonymous reviewers and handling
+                                                                                                     http://dx.doi.org/10.1016/j.jappgeo.2014.02.005.
+editor for their critical comments and constructive suggestions.                                Jiang, S., Henriksen, S.H., Wang, Lu, Y.C., Ren, J.Y., Cai, D.S., Feng, Y.L., Weimer, P.,
+                                                                                                     2013. Sequence-stratigraphic architectures and sand-body distribution in
+                                                                                                     Cenozoic rifted lacustrine basins, east China. AAPG Bull. 97, 1447e1475. http://
+References                                                                                           dx.doi.org/10.1306/03041312026.
+                                                                                                Kohl, D., Slingerland, R., Arthur, M., Bracht, R., Engelder, T., 2014. Sequence stra-
+Abouelresh, M.O., Slatt, R.M., 2012. Lithofacies and sequence stratigraphy of the                    tigraphy and depositional environments of the Shamokin (Union Springs)
+    Barnett Shale in east-central Fort Worth Basin, Texas. AAPG Bull. 96, 1e22.                      Member, Marcellus Formation, and associated strata in the middle Appalachian
+    http://dx.doi.org/10.1306/04261110116.                                                           Basin. AAPG Bull. 98, 483e513. http://dx.doi.org/10.1306/08231312124.
+Algeo, T.J., Schwark, L., Hower, J.C., 2004. High-resolution geochemistry and                   Li, Y.F., Fan, T.L., Gao, Z.Q., Zhang, J.C., Wang, X.M., Zeng, W.T., Zhang, J.P., 2012.
+    sequence stratigraphy of the Hushpuchney Shale (Swope Formation, eastern                         Sequence stratigrapy of Silurian black shale and its distribution in the southeast
+    Kansas): implication for climate-environmental dynamics of the Late Pennsyl-                     area of Chongqing. Nat. Gas Geosci. 23, 299e306 (in Chinese with English
+    vanian Midcontinent Seaway. Chem. Geol. 206, 259e288. http://dx.doi.org/                         abstract).
+    10.1016/j.chemgeo.2003.12.028.                                                              Liang, D.G., Guo, T.L., Bian, L.Z., Chen, J.P., Zhao, Z., 2009. Some progress on studies of
+Aliouane, L., Ouadfeul, S., 2014. Sweet spots discrimination in shale gas reservoirs                 hydrocarbon generation and accumulation in marine sedimentary regions,
+    using seismic and well-logs data. A case study from the Worth basin in the                       Southern China (part 3): controlling factors on the sedimentary facies and
+    Barnett shale. Energy Procedia 59, 22e27. http://dx.doi.org/10.1016/                             development of Palaeozoic marine source rocks. Mar. Orig. Pet. Geol. 14, 1e19
+    j.egypro.2014.10.344.                                                                            (in Chinese with English abstract).
+Catuneanu, O., 2002. Sequence stratigraphy of clastic systems: concepts, merits, and            Liang, C., Jiang, Z.X., Yang, Y.T., Wei, X.J., 2012. Shale lithofacies and reservoir space
+    pitfalls. J. Afr. Earth Sci. 35, 1e43. http://dx.doi.org/10.1016/S0899-5362(02)                  of the Wufeng-Longmaxi Formation, Sichuan Basin, China. Pet. Explor. Dev. 39,
+    00004-0.                                                                                         736e743. http://dx.doi.org/10.1016/S1876-3804(12)60098-6.
+Catuneanu, O., Abreu, V.J., Bhattacharya, P., Blum, M.D., Dalrymple, R.W.,                      Liu, R.B., Tian, J.C., Wei, Z.H., Zhang, M.W., Zhong, S.Q., Zhang, G.H., Wang, B., 2006.
+    Eriksson, P.G., Fielding, C.R., Fisher, W.L., Galloway, W.E., Gibling, M.R., Giles, K.A.,        Comprehensive research of effective hydrocarbon source rock of Lower strata
+    Holbrook, J.M., Jordan, R., Kendall, C. G. St. C., Macurda, B., Martinsen, O.J.,                 from Simian to Silurian system in Southeast area of Sichuan Province. Nat. Gas
+    Miall, A.D., Neal, J.E., Nummedal, D., Pomar, L., Posamentier, H.W., Pratt, B.R.,                Geosci. 17, 824e828 (in Chinese with English abstract).
+    Sarg, J.F., Shanley, K.W., Steel, R.J., Strasser, R.J., Tucker, M.E., Winker, C., 2009.     Liu, S.G., Zeng, X.L., Huang, W.M., Ma, W.X., 2009. Basic characteristics of shale and
+                                                   L. Chen et al. / Journal of Natural Gas Science and Engineering 27 (2015) 410e423                                                423
+
+     continuous-discontinuous transition gas reservoirs in Sichuan basin, China.              Tian, H., Pan, L., Xiao, X.M., Wilkins, R.W.T., Meng, Z.P., Huang, B.J., 2013.
+     J. Chengdu Univ. Technol. (Science Technol. Ed.) 36, 578e592 (in Chinese with                A preliminary study on the pore characterization of Lower Silurian black shales
+     English abstract).                                                                           in Chuandong Thrust Fold Belt, southwestern China using low pressure N2
+Liu, S.G., Ma, W.X., Luba, J., Huang, W.M., Zeng, X.L., Zhang, C.J., 2011. Characteristics        adsorption and FE-SEM methods. Mar. Pet. Geol. 48, 8e19. http://dx.doi.org/
+     of the shale gas reservoir rocks in the Lower Silurian Longmaxi Formation, East              10.1016/j.marpetgeo.2013.07.008.
+     Sichuan basin, China. Acta Petrol. Sin. 27, 2239e2252 (in Chinese with English           Vail, P.R., Mitchum Jr., R.M., Todd, R.G., Widmier, J.M., Thompson III, S., Sangree, J.B.,
+     abstract).                                                                                   Bubb, J.N., Hatleid, W.G., 1977. Seismic stratigraphy and global changes in sea
+Liu, S.G., Ma, W.X., Jansa, L., Huang, W.M., Zeng, X.L., Zhang, C.J., 2013. Character-            level. In: Payton, C.E. (Ed.), Seismic Stratigraphy-applications to Hydrocarbon
+     istics of the shale gas reservoir rocks in the Lower Silurian Longmaxi Formation,            Exploration, AAPG Memoir 26. American Association of Petroleum Geologists,
+     East Sichuan Basin, China. Energy Explor. Exploit. 31, 187e219. http://                      Tulsa, Oklahoma, pp. 49e62.
+     dx.doi.org/10.1260/0144-5987.31.2.187.                                                   Ver Straeten, C.A., Brett, C.E., Sageman, B.B., 2011. Mudrock sequence stratigraphy: a
+Macquaker, J.H.S., Taylor, K.G., Gawthorpe, R.L., 2007. High-resolution facies ana-               multi-proxy (sedimentological, paleobiological and geochemical) approach,
+     lyses of mudstone: implications for paleoenvironmental and sequence strati-                  Devonian Appalachian Basin. Palaeogeogr. Palaeoclimatol. Palaeoecol. 304,
+     graphic interpretations of offshore ancient mud-dominated successions.                       54e73. http://dx.doi.org/10.1016/j.palaeo.2010.10.010.
+     J. Sediment. Res. 77, 324e339. http://dx.doi.org/10.2110/jsr.2007.029.                   Van Wagoner, J.C., Mitchum, R.M., Campion, K.M., Rahmanian, V.D., 1990. Silici-
+Miall, A.D., 1991. Stratigraphic sequences and their chronostratigraphic correlation.             clastic sequence stratigraphy in well logs, cores, and outcrop: concepts for high
+     J. Sediment. Petrol. 61, 497e505.                                                            resolution correlation of time and facies. In: Van Wagoner, J.C., Mitchum, R.M.,
+Peng, C., Peng, J., Chen, Y., Zhang, H., 2014. Seismic prediction of sweet spots in the           Campion, K.M., Rahmanian, V.D. (Eds.), AAPG Methods in Exploration Series 7.
+     Da'anzhai shale play, Yuanba area, the Sichuan Basin. Nat. Gas Ind. B 1, 185e191.            American Association of Petroleum Geologists, Tulsa, Oklahoma, pp. 1e63.
+     http://dx.doi.org/10.1016/j.ngib.2014.11.010.                                            Wang, G.C., Carr, T.R., 2013a. Organic-rich Marcellus Shale lithofacies modeling and
+Posamentier, H.W., Allen, G.P., 1999. Siliciclastic Sequence Stratigraphy-concepts                distribution pattern analysis in the Appalachian Basin. AAPG Bull. 97,
+     and Applications. In: SEPM Concepts in Sedimentology and Paleontology 7.                     2173e2205. http://dx.doi.org/10.1306/05141312135.
+     Society for Sedimentary Geology, Tusla, Oklahoma, pp. 1e210.                             Wang, G.C., Carr, T.R., 2013b. Prediction and distribution analysis of Marcellus shale
+Pu, B.L., Jiang, Y.L., Wang, Y., Bao, S.J., Liu, X.J., 2010. Reservoir-forming conditions         productive facies in the Appalachian Basin. In: USA. AAPG Annual Conference
+     and favorable exploration zones of shale gas in Lower Silurian Longmaxi For-                 and Exhibition, Pittsburgh, PA, May 19e22, 2013.
+     mation of Sichuan Basin. Acta Pet. Sin. 31, 225e230 (in Chinese with English             Wang, S.J., Wang, L.S., Huang, J.L., Li, X.J., Li, D.H., 2009. Silurian shale gas forming
+     abstract).                                                                                   conditions on the Yangtze area. Nat. Gas Ind. 29, 45e50 (in Chinese with En-
+Schlager, W., 1992. Sedimentology and Sequence Stratigraphy of Reefs and Car-                     glish abstract).
+     bonate Platforms. American Association of Petroleum Geologists, Tulsa, Okla,             Weimer, P., Varnai, P.P., Budhijanto, F.M., Acosta, Z.M.R., Martinez, E., Navarro, A.F.,
+     pp. 1e71. AAPG Continuing Education Course Notes Series 34.                                  Rowan, M.G., McBride, B.C., Villamil, T., Arango, C., Crews, J.R., Pulham, A.J., 1998.
+Slatt, R.M., Abousleiman, Y., 2011. Merging sequence stratigraphy and geomechanics                Sequence stratigraphy of Pliocene and Pleistocene turbidite systems, northern
+     for unconventional gas shales. Lead. Edge 30, 274e278. http://dx.doi.org/                    Green Canyon and Ewing Bank (offshore Louisiana), northern Gulf of Mexico.
+     10.1190/1.3567258.                                                                           AAPG Bull. 82, 918e960.
+Slatt, R.M., Rodriguez, N.D., 2012. Comparative sequence stratigraphy and organic             Xu, S.L., Chen, H.D., Chen, A.Q., Lin, L.B., Li, J.W., Yang, J.B., 2011. Source rock char-
+     geochemistry of gas shales: commonality or coincidence. J. Nat. Gas Sci. Eng. 8,             acteristics of Marine Strata, Sichuan Basin. J. Jilin Univ. (Earth Sci. Ed.) 41,
+     68e84. http://dx.doi.org/10.1016/j.jngse.2012.01.008.                                        343e350 (in Chinese with English abstract).
+Su, W.B., 1999. On the OrdovicianeSilurian boundary at the viewpoint of sequence              Zeng, X.L., Liu, S.G., Huang, W.M., Zhang, C.J., 2011. Comparison of Silurian Longmaxi
+     stratigraphy. Geol. Miner. Resour. South China 1, 1e12 (in Chinese with English              Formation shale of Sichuan Basin in China and Carboniferous Barnett Formation
+     abstract).                                                                                   shale of Fort Worth Basin in United States. Geol. Bull. China 30, 372e384 (in
+Su, W.B., Li, Z.M., Ettensohn, F.R., Johnson, M.E., Huff, D., Wang, W., Ma, C., Li, L.,           Chinese with English abstract).
+     Zhang, L., Zhao, J.J., 2007. Distribution of Black Shale in the Wufeng-Longmaxi          Zhu, Y.M., Chen, S.B., Fang, J.H., Luo, Y., 2010. The geologic background of the Siluric
+     Formations (Ordovician-Silurian), South China: major controlling factors and                 shale-gas reservoiring in Szechwan, China. J. China Coal Soc. 35, 1160e1164 (in
+     implications. Earth Sci. J. China Univ. of Geosci. 32, 819e827 (in Chinese with              Chinese with English abstract).
+     English abstract).
+
+
+
+
+  View publication stats
+

@@ -1,0 +1,1085 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+                    and sharing with colleagues.
+   Other uses, including reproduction and distribution, or selling or
+ licensing copies, or posting to personal, institutional or third party
+                       websites are prohibited.
+   In most cases authors are permitted to post their version of the
+     article (e.g. in Word or Tex form) to their personal website or
+    institutional repository. Authors requiring further information
+      regarding Elsevier’s archiving and manuscript policies are
+                           encouraged to visit:
+                  http://www.elsevier.com/copyright
+                                                             Author's personal copy
+
+                                                                 Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+                                                          Contents lists available at SciVerse ScienceDirect
+
+
+                                                              Journal of Geodynamics
+                                              journal homepage: http://www.elsevier.com/locate/jog
+
+
+
+
+Structural and sedimentary records of the Oligocene revolution in the Western
+Alpine arc
+T. Dumont ∗ , S. Schwartz, S. Guillot, T. Simon-Labric, P. Tricart, S. Jourdan
+ISTerre, CNRS & Université de Grenoble I, Maison des Géosciences, 1381 rue de la Piscine, BP53, 38041 Grenoble Cedex 9, France
+
+
+
+
+a r t i c l e         i n f o                           a b s t r a c t
+
+Article history:                                        The northwestwards-directed Eocene propagation of the Western Alpine orogen is linked with (1) com-
+Received 23 February 2011                               pressional structures in the basement and the Mesozoic sedimentary cover of the European foreland,
+Received in revised form 12 October 2011                well preserved in the External Zone (or Dauphiné Zone) of the Western Alps and (2) tectono-sedimentary
+Accepted 10 November 2011
+                                                        features associated with the displacement of the early Tertiary foreland basin. Three major shortening
+Available online 20 November 2011
+                                                        episodes are identiﬁed: a pre-Priabonian deformation D1 (N-S shortening), supposedly linked with the
+                                                        Pyrenean-Provence orogeny, and two Alpine shortening events D2 (N- to NW-directed) and D3 (W-
+Keywords:
+                                                        directed). The change from D2 to D3, which occurred during early Oligocene time in the Dauphiné zone,
+Western Alps
+Continental subduction
+                                                        is demonstrated by a high obliquity between the trends of the D3 folds and thrusts, which follow the
+Collision                                               arcuate orogen, and of the D2 structures which are crosscut by them. This change is also recorded in the
+Foreland basins                                         evolution of the Alpine foreland basins: the ﬂexural basin propagating NW-wards from Eocene to earliest
+Westward escape                                         Oligocene shows thin-skinned compressional deformation, with syn-depositional basin-ﬂoor tilting and
+                                                        submarine removal of the basin inﬁll above active structures. Locally, a steep submarine slope scar is
+                                                        overlain by kilometric-scale blocks slided NW-wards from the orogenic wedge. The deformations of the
+                                                        basin ﬂoor and the associated sedimentary and erosional features are kinematically consistent with D2
+                                                        in the Dauphiné foreland. Since ∼32 Ma, the previously subsiding areas were uplifted and the syntectonic
+                                                        sedimentation shifted westwards. Simultaneously, the paleo-accretionary prism, which developed dur-
+                                                        ing the previous, continental subduction stage, was rapidly exhumed during the Oligocene collision stage
+                                                        due to westward indentation by the Adriatic lithosphere, which likely enhanced the relief and erosion
+                                                        rate. The proposed palinspastic restoration takes into account this two-stage evolution, with important
+                                                        northward transport of the distal passive margin fragments (Briançonnais) involved in the accretionnary
+                                                        prism before the formation of the western arc, which now crosscuts the westward termination of the
+                                                        ancient orogen. By early Oligocene, the Ivrea body indentation, which was kinematically linked with the
+                                                        Insubric line activation, initiated the westward escape and the curvature of the arc was progressively
+                                                        acquired, as recorded by southward increasing counter-clockwise rotations in the internal nappes. We
+                                                        propose that the present N-S trend of the Ivrea lithospheric mantle indenter which appears roughly
+                                                        rectilinear at ∼15 km depth could be a relict of the western transform boundary of Adria during its north-
+                                                        ward Eocene drift. The renewed Oligocene Alpine kinematics and the related change in the mode of
+                                                        accomodation of Africa–Europe convergence can be correlated with deep lithospheric causes, i.e. partial
+                                                        detachment of the Tethyan slab and/or a change in motion of the Adria plate, and was enhanced by the
+                                                        E-directed rollback of the eastern Ligurian oceanic domain and the incipient Ligurian rifting.
+                                                                                                                           © 2011 Elsevier Ltd. All rights reserved.
+
+
+
+
+1. Introduction                                                                            microplate may have moved independently during the Tertiary
+                                                                                           (Channel, 1996; Handy et al., 2010). The Western Alpine orogen
+    The Alpine orogen resulted from the collision of the Adri-                             is well documented but the paleogeographic restoration is still
+atic microplate, supposedly linked with Africa, with the European                          debated (Schmid et al., 2004; Handy et al., 2010). The arcuate shape
+continental margin of the Western Tethys ocean during Early                                has been interpreted in different ways, involving (i) pre-Alpine
+Tertiary times. The Africa–Europe convergence was oriented N-                              (Tethyan) paleogeographic inheritance on the European margin
+S (Dewey et al., 1989; Rosenbaum et al., 2002) but the Adriatic                            side (Lemoine et al., 1989), or due to the shape of the Adriatic
+                                                                                           indenter (Tapponnier, 1977); (ii) purely collisional origin due to
+                                                                                           indenter-induced body forces causing variable transport/spreading
+ ∗ Corresponding author. Tel.: +33 476635904.                                              directions, referred to as the radial outward model (Platt et al.,
+   E-mail address: thierry.dumont@ujf-grenoble.fr (T. Dumont).                             1989b); (iii) plate motion with rotation of the Adriatic microplate
+
+0264-3707/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jog.2011.11.006
+                                                Author's personal copy
+
+                                               T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                         19
+
+
+and/or part of the Penninic foreland (Vialon et al., 1989; Collombet           Hercynian orogeny (Corsini et al., 2004; Guillot et al., 2009), sur-
+et al., 2002 and references therein), or with change in relative               rounded by a Tethyan sedimentary cover of Mesozoic age and
+motion of the Adriatic microplate (Schmid and Kissling, 2000; Ford             scattered remnants of Cenozoic Alpine foreland basins (e.g. De
+et al., 2006 and references therein). As proposed by Handy et al.              Graciansky et al., 2010, and references therein). The basement mas-
+(2010), a sharp change occurred at about 35 Ma, in the motion                  sifs trend NE-SW from Mont-Blanc to Belledonne, and NW-SE in the
+and conﬁguration of the Adriatic microplate, and the subsequent                southernmost part of the Alpine arc (Argentera). The NE-SW trend
+Oligocene dynamics could be partly driven by the initiation of                 corresponds to the Hercynian fabric reactivated in large-scale tilted
+the Ligurian rollback subduction and associated eastward retreat               fault blocks during the Tethyan rifting (e.g. Lemoine et al., 1986
+(Vignaroli et al., 2009).                                                      and references therein). This part of the European palaeomargin of
+    Nevertheless, the ﬁnite radial shape of the Western Alpine arc             the Tethys suffered approximately E-W shortening in the footwall
+cannot be simply restored without facing overlap problems in its               of the CPT during Alpine orogenesis (e.g. Dumont et al., 2008 and
+central part. This geometry results from progressive deformation               refrences therein), The Pelvoux massif, which is located at the tran-
+events from Eocene to Miocene, and involves rotations of ancient               sition between the NE-SW and NW-SE trends, has a sub-circular
+kinematic indicators during younger deformation stages, especially             shape (Fig. 2) because it suffered several non-coaxial Pyrenean and
+in the Internal Zones (Fig. 1; Choukroune et al., 1986; Collombet              Alpine shortening events (Ford, 1996; Dumont et al., 2008).
+et al., 2002; Rosenbaum and Lister, 2005). There is evidence of anti-              This compressional interference structure was ﬁrst affected
+clockwise rotation of transport directions through time, both in the           by N-S shortening events commonly assigned to the “Pyrenean-
+External and in the Internal Zones (e.g. Lemoine, 1972; Merle and              Provence” stage, during late Cretaceous to Eocene times (Meckel
+Brun, 1981; Steck, 1998; Schmid and Kissling, 2000; Ceriani et al.,            et al., 1996; Ford, 1996; Michard et al., 2010). Subsequently,
+2001), so that the initial geometry can only be restored through               that is during late Eocene to earliest Oligocene, a ﬁrst set of
+consideration of incremental displacements (Capitanio and Goes,                non-metamorphic nappes (“Embrunais Nappes”, Figs. 1 and 2),
+2006).                                                                         composed of late Cretaceous deep-water sediments likely of
+    The present arc is outlined by a lithospheric thrust ramp com-             oceanic origin and of Mesozoic cover detached from the distal and
+monly called “Crustal Pennine Thrust” (CPT, Fig. 1), exposed at                middle parts of the European palaeomargin, were gravitationally
+present at the front of the Internal Zones, which are metamorphic,             transported towards more proximal portions of the European fore-
+and corresponding to at least an 80 km offset of the Moho along                land (Kerckhove et al., 1978; Merle and Brun, 1981; Ford et al.,
+the ECORS-CROP proﬁle (Guellec et al., 1990; Kissling et al., 2006;            2006). It is observed that the later stages of thrust system propaga-
+Lardeaux et al., 2006). This feature occurred quite late in Alpine his-        tion (from middle Oligocene onwards) were more radially directed
+tory and does not ﬁt the earlier Alpine kinematics and geometry,               (Choukroune et al., 1986; Platt et al., 1989a). The main associated
+particularly in the Internal Zones (Schmid and Kissling, 2000; Dèzes           crustal-scale structure corresponds to the “Crustal Pennine Thrust”
+et al., 2004; Thomas et al., 1999). However, in the footwall of the            CPT (Figs. 1 and 2), which represents the limit between the foreland
+“Crustal Pennine Thrust”, that is, in the External Zone, the displace-         (including the early Embrunais Nappes; E, Fig. 1) and the metamor-
+ments and rotations are moderate (Gratier et al., 1989; Aubourg                phic, Internal Nappes stack (Sue and Tricart, 2003). The Pelvoux
+et al., 1999). It is thus possible to observe the interference between         massif was lying in the footwall of both the NW-ward directed
+differently oriented shortening stages during the development of               Embrunais Nappes and the W-ward directed Internal Nappes,
+continental collision more easily than in the Internal Nappes stack            which crosscut the latter (Dumont et al., 2008). This explains its
+the building of which was polyphase and involved in continental                antiformal dome geometry.
+subduction.                                                                        The Mesozoic series overlies a sharp, late Hercynian unconfor-
+    The aim of this paper is to depict how the Alpine Oligocene plate          mity, developed as a peneplanation surface which became ﬂat and
+revolution is recorded within the external part of the Alps, both in           horizontal over the whole study area between late Carboniferous
+terms of deformation and of sedimentary evolution through times.               and early Triassic times. The so-called Dauphiné type (central part
+The arguments considered are (i) the interference structures and               of the External Western Alps) and Subalpine Mesozoic sequence
+variably-directed nappe displacements that are found in the Exter-             (Subalpine massifs and southern part of the arc; Fig. 2) are charac-
+nal Zone within the Dauphiné and southern Subalpine domains                    terised by the following formations:
+of the western and southwestern parts of the arc (Fig. 2) and (ii)
+synsedimentary deformation and displacements of the Tertiary                   - Late middle to Late Triassic: thin peritidal dolomites showing
+foreland basins over the External Zone. A review of structural, meta-            only minor thickness variation, which implies that the whole area
+morphic and chronological data available from the whole western                  remained ﬂat and horizontal until near end-Triassic times. The
+and central Alps provides an integrated framework for the investi-               Triassic sequence, which is only made of carbonates in Dauphiné,
+gated kinematic changes.                                                         remains attached to the basement, but it thickens further S and SE
+    Cross-folding in the External Zone has been previously inter-                in the SE-France basin (Courel et al., 1984), and also in the Internal
+preted as an interplay between Pyrenean and Alpine shortening                    Nappes, including evaporites which provide widespread detach-
+events, that is between the Iberian and Apulian plates kine-                     ment layers. The Triassic sequence is capped by thin alkaline to
+matic effects (i.e. Lemoine, 1972; Ford, 1996). It is shown here                 transitional basaltic ﬂows in Dauphiné, which may indicate the
+that a signiﬁcant part of N-S shortening is actually younger than                startpoint of Tethyan rifting.
+the “Pyrenean-Provence” event and just preceeded the west-                     - Lowermost Liassic (early to middle Hettangian) transgressive
+ward Oligocene propagation of the Internal Nappes. It is proposed                platform carbonates grade upwards into thick early Liassic to
+that these structures, which formed around the Eocene-Oligocene                  Middle Jurassic hemipelagic marls and limestones. These latter
+boundary, are linked to the NW propagating Adria–Europe collision                formations are coeval with repeated stages of extensional fault-
+during the early stage of the Alpine orogenesis.                                 ing (Chevalier et al., 2003; Dommergues et al., 2011), and show
+                                                                                 important thickness and facies changes due to differential subsi-
+                                                                                 dence (Lemoine et al., 1986; Dumont, 1998).
+2. Structural and stratigraphic setting                                        - Late Jurassic to early Cretaceous pelagic, post-rift carbonates
+                                                                                 are rarely preserved in the Dauphiné massifs, but the post-rift
+   The External Zone of the Western Alps (Fig. 1) is composed                    unconformity is locally observed thanks to Tithonian limestones
+of elevated crystalline basement massifs having recorded the                     directly overlying the Hercynian basement (Barféty and Gidon,
+                                                          Author's personal copy
+
+20                                                    T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 1. Overall map of the Western Alps and their foreland. CPT: Crustal Pennine Thrust, boundary between the External and Internal Zones. Horizontal stripped areas:
+Internal Zones, made of metamorphic units displaced from the European tethyan margin, the Ligurian Tethys ocean and from the Adriatic margin. Vertical stripped areas:
+early emplaced nappes, including units issued from the distal European passive margin (Briançonnais, Piedmont) and from the ocean ﬂoor (Helminthoid ﬂyschs)—P: Prealps;
+E: Embrunais-Ubaye nappes; L: Ligurian nappes.
+
+
+
+
+  1983). The post-rift cover is widespread further to the west and                       1979; Ford, 1996). Later on, the subsidence due to ﬂexural bend-
+  south, providing the thick carbonate series of the Subalpine mas-                      ing of the European foreland underneath the propagating Alpine
+  sifs.                                                                                  wedge (Sinclair, 1997) led to the deposition of a transgressive
+- The Upper Cretaceous formations recorded the earliest com-                             sequence including Middle to Late Eocene platform limestones
+  pressional deformation (pre-Senonian folding) in the Devoluy                           (Pairis, 1988), hemipelagic Globigerina marls and ﬁnally thick tur-
+  Subalpine massif, due to the motion of the Iberian block (Meckel                       biditic sandstones/shales alternations dated latest Eocene-early
+  et al., 1996).                                                                         Oligocene (Ravenne et al., 1987; Joseph and Lomas, 2004). The
+- A sharp pre-Priabonian continental erosion surface cuts the                            Paleogene sediments, which are widespread in the southern part
+  Mesozoic sequence downwards from the southeast (Maritime                               of the Western Alps, are capped by a characteristic formation
+  Alps) to the Pelvoux massif further northwest (Gupta and Allen,                        containing olistostrome over much of the Western Alpine arc
+  2000). This event was linked with exhumation of the Pelvoux                            (“Schistes à blocs”; Kerckhove, 1964) and by the gravity-driven
+  basement and folding of the Dauphiné and Subalpine Mesozoic                            emplacement of the ﬁrst “exotic” nappes in the basinal setting
+  cover, and it is assigned to the Iberian plate motion (Gidon,                          (Kerckhove, 1969; Campredon, 1977).
+                                                          Author's personal copy
+
+                                                         T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                          21
+
+
+
+
+Fig. 2. Detailed map of the Dauphiné, Provence, Southern Subalpine and Maritime Alps areas, with location of Figs. 3 and 7. A: locality of Figs. 8, 9, 10 (bottom) and 11 (right).
+B: locality of Fig. 11 (left). C: locality of Fig. 10 (top). CPT: Crustal Pennine Thrust, sole of the Internal Nappes; EBT: Embrunais Basal Thrust, sole of the Embrunais Nappes.
+Areas of interest (see text)—A: around Restefond pass (SE of Barcelonnette city); B: around the Galibier pass (N of Briançon city); C: Faucon du Caire (S of Gap city).
+
+
+
+3. Structure of the Dauphiné-Subalpine foreland before the                                     The Dauphiné basement massifs, between Belledonne and
+Adria–Europe collision                                                                      Pelvoux, represent NS-trending Jurassic tilted blocks (Fig. 3;
+                                                                                            Lemoine et al., 1986). They result from reactivation of the Hercynian
+3.1. Hercynian and Tethyan inheritance                                                      fabric and are subparallel to it, but they were moved obliquely by
+                                                                                            Tethyan syn-rift extension (NW-SE; Lemoine et al., 1989; Dumont
+    The structure of the External Crystalline basement massifs                              et al., 2008). Alpine inversion consists mainly of buttressing in
+in the Western Alps (Mt Blanc, Belledonne, Pelvoux; Fig. 1) is                              the hangingwall of master rift faults and shortcuts in their foot-
+strongly inﬂuenced by the Permo-Carboniferous External crys-                                wall. Basement shortening involves both folding and thrusting. In
+talline shear zone trending N30◦ E and including local N-S strike-slip                      the Argentera massif, maximum burial is estimated at 4.8–7 kb
+faults (Guillot et al., 2009). The orientation of the Hercynian                             (Sanchez et al., 2011b), but in the Pelvoux massif the basement
+petrofabric changes to N140◦ E in the Argentera massif (Corsini                             deformation processes are still debated, considering the more
+et al., 2004). It can be used as a post-Permian deformation                                 moderate burial setting (Ford, 1996; Dumont et al., 2008). Compres-
+marker.                                                                                     sional deformation increases eastwards, approaching the Crustal
+                                                          Author's personal copy
+
+22                                                     T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 3. Tethyan and Pyrenean-Provence inheritance in the Dauphiné External massifs (area located in Fig. 2): the NE-SW to NS orientation of the western Dauphiné massifs
+(Belledonne-Taillefer, Grandes Rousses-Rochail) corresponds to Tethyan tilted fault blocks (red) superimposed on the Hercynian fabric. Conversely, the Pelvoux massif has
+a sub-circular shape, its southern and southwestern boundaries beeing underlined by pre-Priabonian thrusts (black).
+
+
+Pennine Thrust. There is no evidence for compressional reactiva-                       southwards by coarse ﬂuvial conglomerates at the bottom of the
+tion of the extensional boundary faults. The ﬁrst-order wavelength                     Paleogene Flysch des Aiguilles d’Arves Fm., partly sourced by the
+of compressional structures is of the same order of magnitude than                     Pelvoux cristalline basement (Ivaldi, 1987). The southern Subalpine
+the major tilted blocks width: i.e., the Grandes Rousses basement                      domain, located to the SE of the Pelvoux massif (Fig. 2), developed
+anticline is superimposed on a 10 km-wide tilted block (Dumont                         a large wavelength uplift with NW-ward truncation of the Upper
+et al., 2008).                                                                         Cretaceous to Jurassic sequences before the Eocene transgression.
+    Conversely, the Pelvoux basement massif has a sub-circular                             It is noteworthy that the trends of the structural and tectono-
+shape which is best explained by the interplay between several,                        sedimentary features related with this D1 compressional event are
+non-coaxial shortening events. It is cored by a relatively homoge-                     strongly oblique or even sub-perpendicular to the present orogen
+neous late Hercynian granite (Guerrot and Debon, 2000) with little                     in the southern part of the arc, represented by the CPT.
+evidence of important variations in the syn-rift series around the
+massif (Barféty, 1988).
+
+3.2. Pre-Priabonian structures (D1)                                                    4. Foreland subsidence and deformation: NW-ward orogen
+                                                                                       propagation during Eocene
+    The Alpine ﬂexural basin ﬂoor recorded compressional defor-
+mation before the onset of sedimentation, which onlapped a locally                     4.1. Early Alpine deformation (D2)
+rugged topography (Gupta and Allen, 2000). A pre-Senonian event
+produced local folding of the Mesozoic sequence in basinal set-                            An important amount of N-S convergence and northward dis-
+ting, involving gravity sliding close to the platform edge (Michard                    placement of the Alpine orogenic wedge with respect to the
+et al., 2010). A younger, basement-involved compressional event is                     European foreland is considered in the Central and Eastern Alps
+documented by high-angle basement thrusts sealed by Priabonian                         during late Eocene times (Froitzheim et al., 1994; Schmid and
+sediments which are found in the south and SW Pelvoux areas (a,                        Kissling, 2000; Dèzes et al., 2004), requiring either a major sinistral-
+Fig. 3; Gidon et al., 1980; Ford, 1996). The associated kinematic                      oblique accommodation zone at the western end of the early Alpine
+indicators in the footwall Mesozoic sediments indicate a S-SW                          orogen as postulated by Ricou and Siddans (1986), or a strongly
+transport direction consistent with another set of basement thrusts                    oblique oceanic subduction of the Piedmont ocean and further col-
+located further north (b, Fig. 3) but not sealed by the Paleogene                      lision in the Western Alps (Handy et al., 2010). The External western
+sediments except at their southeastern termination, and which are                      Alps provide kinematic data corresponding to this deformation
+assigned to the same shortening event. All these pre-Priabonian                        stage, both in the cristalline basement of the Pelvoux area and in the
+structures are tilted by younger EW shortening events (Dumont                          surrounding Mesozoic and Tertiary sedimentary cover. Important
+et al., in press).                                                                     northward to NW-ward displacements occurred at the southern
+    This pre-Priabonian compressional event D1 caused an impor-                        and eastern sides of the Pelvoux massif, i.e. the “Perron des Claux”
+tant exhumation of the whole southern part of the Pelvoux massif                       thrust (Vernet, 1966), which can be followed laterally over more
+with complete removal of the Mesozoic stratigraphic section by                         than 30 km (PDC, Fig. 4). In the southern Pelvoux area (site 1, Fig. 4),
+continental erosion. The pre-Priabonian truncation surface is also                     it crosscuts the Meso-Cenozoic cover, and further north it detaches
+found on the northern side of the Pelvoux massif (Barbier et al.,                      thin basement slices in the eastern Pelvoux region (sites 2–4, Fig. 4).
+1973), allowing the underlying Mesozoic sequence to be completed                       The propagation of the PDC thrust from the Meso-Cenozoic cover
+northwards up to Upper Jurassic. There, this surface is onlapped                       down to the Hercynian basement towards the north can only have
+                                                         Author's personal copy
+
+                                                        T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                      23
+
+
+
+
+Fig. 4. The Meije dome, an interference between NS (or NW-SE) and EW shortening in the Pelvoux external basement massif. Upper part: 3D map of the basement/Mesozoic
+cover interface (rainbow shaded surface) and of the granite/gneiss interface (purple shaded surface) in the northern Pelvoux area. Despite the erosion of the former surface
+in the central part, both of them are clearly involved in the dome shape, which demonstrates that this structure is Alpine in age (post-Mesozoic). Lower part: block diagram
+(looking to the East) and associated NS section across the Pelvoux massif and the Meije dome, with the main thrusts and localities cited in the text—1: col de Méollion and
+Sommet Drouvet, north of Orcières; 2: northern side of Les Bans valley (Onde river); 3: northern side of Ailefroide valley, between Ailefroide and Pelvoux villages; 4: upper
+Vallon de Chambran, SE of Rochers de l’Yret; 5: from NE slopes of the Combeynot massif (Rochers de la Madeleine) to southern slopes of Crête de Chaillol (W of Lautaret
+pass).
+
+
+occurred provided that the latter had been previously uplifted (due                      11: Pêcher et al., 1992; Butler, 1992; Simon-Labric et al., 2009), (ii)
+to pre-Priabonian shortening, D1, Section 3.2).                                          long wavelength folding (Fig. 4), (iii) eastward dip caused by differ-
+   The PDC thrust probably connects further north to the                                 ential uplift of the Pelvoux massif with respect to Internal Nappes
+“Madeleine” thrust which duplicates the Eocene sequence over                             during the Neogene (Tricart et al., 2000) and (iiii) offset of the thrust
+the Combeynot basement unit (site 5, Fig. 4; Barbier et al., 1973).                      surface by several late orogenic NE-SW dextral strike-slip faults.
+The deformation in its footwall at sites 1 and 4 indicate a NW-                             Several reverse faults are found in the footwall of the PDC
+ward transport. The PDC thrust has been deformed during several                          roof thrust, which are also N- to NW-directed. The Pelvoux thrust
+younger Alpine events, as shown by (i) severe overprint by top-to-                       (PeT, Fig. 4) is associated with N-directed imbricates in the lower
+the-west shearing in the footwall of the Crustal Pennine Thrust (site                    Mesozoic sediments (Pêcher et al., 1992 and personal data); the
+                                                 Author's personal copy
+
+24                                            T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+Combeynot thrust (CoT) and Meije thrust (MeT) transport folded                Champsaur”, “Flysch des Aiguilles d’Arves” and “Grès de Taveyan-
+basement over the Jurassic cover further north. The Meije thrust              naz” from south to north, respectively. As expected in a ﬂexural
+climbs section in its footwall towards the north, but has an appar-           basin setting (Sinclair, 1997), the diachroneity of this transgressive
+ent NE-ward dip due to further tilt. The hangingwall basement of              sequence over the whole Eocene time span is shown by compiled
+the Meije and Combeynot thrusts include large wavelength ramp                 stratigraphic data (Fig. 6, left).
+anticlines involving the granitic core, the gneissic envelope and                 This Eocene propagation and coastal migration occurred
+the Triassic-lower Liassic sedimentary cover (Fig. 4). The Mesozoic           towards the N- to NW in the southern Subalpine domain
+cover in the footwall of the Meije and Combeynot thrusts con-                 (Kerckhove, 1969; Guardia and Ivaldi, 1987) and in the Helvetic
+tains ENE-WSW trending drag folds, and the sole of the Combeynot              realm (Kempf and Pﬁffner, 2004; Ford et al., 2006), apart from a
+thrust sheet shows a top-to-the NW shear band (Authemayou,                    SW-ward lateral propagation and conﬁnement at the western ter-
+2002).                                                                        mination of the basin (Maritime-Alps to Haute-Provence; Sztrakos
+    There is some evidence that the motion of the PDC thrust and of           and du Fornel, 2003; Puigdefabregas et al., 2004; Campredon and
+the associated Pelvoux, Meije and Combeynot thrusts occurred dur-             Giannerini, 1982). Sediment supply from the south and northward
+ing earliest Oligocene times. The Combeynot shear band yielded a              or NW-ward sedimentary transport directions of the distal deltaic
+lowermost Oligocene 40 Ar/39 Ar age (Simon-Labric et al., 2009). Soft         fans (Ravenne et al., 1987; Callec, 2001) are in agreement with this
+sediment deformation is recorded in the very top of the Paleogene             N to NW direction of propagation of the lithospheric ﬂexure. How-
+sediments at several localities, indicating top-to-the NW displace-           ever, as pointed by Ford et al. (2006), the geometry of the Eocene
+ments associated with the PDC thrust: to the SE of the Pelvoux, its           ﬂexural basin has been heavily distorted by the younger develop-
+Meso-Cenozoic hangingwall sequence is overlain by a thick Ter-                ment of the Alpine arc.
+tiary olistostrome (“complexe d’Orcières”, Debelmas et al., 1980)                 The starved inﬁll of the Paleogene ﬂexural basin bears evidence
+beneath the Embrunais Basal Thrust. N to NW recumbent isocli-                 of synsedimentary deformation preceeding the emplacement of
+nal folding is sealed by this olistostrome and vanishes laterally in          the ﬁrst gravity-driven nappes and of the accretionnary wedge
+it (Kerckhove et al., 1978). Further west, Gidon and Pairis (1980)            having caused the N to NW-directed deformation D2. Even in
+and Butler and McCaffrey (2004) provide evidence for NW-directed              its western termination, N to NW-ward propagation of deforma-
+transport in the footwall of the PDC thrust, which occurred during            tion is recorded during the Late Eocene (Stanley, 1980; Tempier,
+or very soon after the deposition of the uppermost Paleogene ﬂysch            1987) and the Grès d’Annot in Maritime-Alps suffered NW-directed
+sediments (Dumont et al., in press). Similar syn-sedimentary defor-           basin ﬂoor deformation, documented by NW- or SE-directed onlaps
+mation criteria are found along the northern continuation of the              (Ravenne et al., 1987; Euzen et al., 2004; Smith and Joseph, 2004)
+PDC thrust (Bravard and Gidon, 1979). The olistostrome represent-             or sequences architecture (Broucke et al., 2004). Compressional
+ing the very top of the Paleogene sedimentary sequence is locally             basin-ﬂoor deformation is also demonstrated by the occurence of
+dated early Oligocene (Mercier de Lépinay and Feinberg, 1982).                large-wavelength removal of the Paleocene section prior to the
+    The D2, top-to-the N to NW deformation of the Dauphiné fore-              ﬁrst Embrunais Nappes emplacement. This feature is best docu-
+land is related with the emplacement of the earliest Alpine nappes            mented across a NW-SE cross-section (Fig. 7), which is trending
+(Embrunais Nappes, Dumont et al., 2008), whose remnants are                   “orogen-parallel” with respect to the present arc, contrary to the
+found immediately to the SE of the Pelvoux massif (Figs. 1–5).                more classical NE-SW proﬁles found in the litterature (e.g. Ford
+These nappes, made of oceanic and continental margin sedi-                    et al., 1999). This removal, which took place in a basinal setting
+ments, are derived from the uppermost part of the accretionnary               as demonstrated by the permanent occurrence of an olistostrome
+wedge as shown by their very low metamorphic grade. They were                 over the surface, is found over two long-wavelength anticlines cor-
+emplaced initially in basinal setting by the way of gravity processes         responding to the Embrun half-window and to the Barcelonnette
+(Kerckhove, 1969) and they ﬁnally covered a much larger part of               window (Fig. 7) where the Paleocene series is missing beneath the
+the Dauphiné and Subalpine forelands than their present remnants,             nappes. As these areas correspond to the Jurassic Vocontian basin,
+with a signiﬁcant thickness of 4–8 km over part of the Pelvoux mas-           this erosion was probably caused by an uplift due to an incipient
+sif (Waibel, 1990) and the Argentera massif (Labaume et al., 2008)            structural inversion of this basin. The relationships between Paleo-
+whose basement exhumation occurred recently (Sanchez et al.,                  gene basin ﬂoor folding and erosion can be observed to the south of
+2011a). Some other remnants of these early Alpine nappes consist              the Barcelonette window, SE of Barcelonette city (Figs. 7 and 8). The
+of the Prealps and the Ligurian ﬂysch nappes (P, L, Fig. 1).                  Mesozoic series are locally affected by thin-skinned deformation,
+                                                                              showing a tight, EW trending and northward directed recumbent
+4.2. Foreland basin propagation and orogen migration during the               anticline cored by Triassic evaporites (Terre Plaine fold, Fig. 8).
+Eocene                                                                        The Paleogene ﬂysch series (Grès d’Annot Fm.) have been com-
+                                                                              pletely eroded above the fold hinge, and the truncation surface
+   The Eocene ﬂexural basin propagated ﬁrst over the Briançonnais            outcrops further south, over the normal limb. Here, the evidence
+part of the European palaeomargin during the early to middle                  for Paleogene syndepositional activity of the fold consist of (1)
+Eocene. Its basal inﬁll unconformably covers the Briançonnais                southeastward-tilt of the hemipelagic Globigerina marls, which are
+upper Cretaceous to Paleocene deep marine sequences without                   onlapped by the lower part of the Grès d’Annot formation (upper
+any evidence of emersion. The coastal migration reached more                  Fig. 8, left; Kerckhove, 1974) and by a marker layer of conglomeratic
+proximal parts of the Tethyan margin, that is the southern Sub-               debris-ﬂow usually occurring ∼300 m above the base of the for-
+alpine, Dauphiné and Helvetic domains, during the middle to late              mation (Jean, 1985; Joseph and Lomas, 2004), (2) northwestward
+Eocene (Priabonian; Ford et al., 2006, and references herein). The            erosional truncation of the Grès d’Annot fm., from >600 m thick
+basin ﬂoor is marked by a sharp transgressive surface, locally                to zero in about 5 km across the Bonnette pass (Figs. 8 and 9). The
+unconformable (Pairis et al., 1984), because this area had been               truncation surface represented a NW-dipping paleoslope presently
+previously exposed due to the Pyrenean-Provence compressional                 incised by several valleys (Fig. 8, top and Fig. 9) and capped by
+events (D1). The propagation of the basin over it during late                 the olistostrome. This submarine erosional event seems to have
+Eocene to earliest Oligocene times is marked by a rapid deep-                 followed or to have occurred in association with soft-sediment
+ening due to ﬂexural subsidence: the facies grade upwards from                deformation and normal faulting in the Grès d’Annot further south-
+coastal limestones to hemipelagic foraminiferal marls and thick               east (Bouroullec et al., 2004) which may indicate gravitational
+turbiditic sandstone series, locally named “Grès d’Annot”, “Grès du           unstability.
+                                                       Author's personal copy
+
+                                                      T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                   25
+
+
+
+
+Fig. 5. Structural sketch map from Dauphiné to Provence, and main faults and thrusts involved in the N- to NW-directed episode (D2) and in the W- to SW-directed episode
+(D3), respectively (cartoons in the lower part of the ﬁgure).
+
+
+
+    The paleoslope together with the olistostrome are overlain by                     covering a kilometre-scale submarine paleoslope that truncates the
+kilometre-scale blocks of Mesozoic sedimentary cover derived                          Eocene ﬂysch stratiﬁcation, also with no evidence of tectonic con-
+from the Briançonnais and Provence domains (Fig. 8; location A                       tact (Fig. 10, bottom). Similar olistoliths of Briançonnais origin are
+Fig. 2). We propose to regard these blocks as olistoliths and not as                  described further SE, to the SE of the Argentera massif (Lanteaume,
+tectonic thrust sheets, mainly because there is no evidence of tec-                   1990). These blocks show different stratigraphic signatures, indi-
+tonic shear zones at their base. They overlie basinal clastic deposits                cating that they slid from a paleogeographic hinge zone inherited
+                                                               Author's personal copy
+
+26                                                         T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 6. Chronostratigraphic litterature review comparing the sedimentary record of the Paleogene ﬂexural basin of the Western Alps (left part), the metamorphic imprint of
+the European passive margin units involved in the Alpine orogen (central part) and their kinematic record (tectonic transport criteria, right part). The continental subduction
+regime, marked by the propagation of the ﬂexural basin and by the diachronicity of the HP-LT metamorphism in the orogenic wedge, is associated with N-directed transport
+criteria. It ceased during early Oligocene, coeval with the re-orientation of kinematic indicators (see refs. Agard et al. (2001), Amaudric du Chaffaut (1982), Barféty et al. (1992),
+Baudin et al. (1993), Berggren et al. (1995), Bigot-Cormier et al. (2000), Bogdanoff et al. (2000), Bousquet et al. (2002), Bucher et al. (2004), Callec (2004), Caron et al. (1980),
+Ceriani and Schmid (2004), Cliff et al. (1998), Crespo-Blanc et al. (1995), Dal Piaz (2001), Duchêne et al. (1997), Du Fornel et al. (2004), Egal (1992), Engi et al. (2001), Evans
+and Eliott (1999), Fischer and Villa (1990), Freeman et al. (1998, 1997), Gebauer (1999), Gubler-Wahl (1928), Hardenbol et al. (1998), Jeanbourquin and Goy-Eggenberger
+(1991), Keller et al. (2005), Keller and Schmid (2001), Kerckhove and Thouvenot (2008), Kurz et al. (1996), Lahondère et al. (1999), Lapen et al. (2007a,b), Lateltin (1987), Le
+Bayon and Ballèvre (2006), Leloup et al. (2005), Lihou (1995), Malusà et al. (2005), Markley et al. (1998), Meffan-Main et al. (2004), Merle et al. (1989), Michard et al. (2004),
+Monié (1990), Mosar et al. (1996), Nagel (2008), Padoa (1999), Pairis and Kerckhove (1987), Parsy-Vincent (1974), Reddy et al. (2003), Ring (1995), Rubatto et al. (1999),
+Rubatto and Hermann (2001), Schlunegger and Willett (1999), Schwartz et al. (2007), Seno et al. (2005), Steck (1990), Tilton et al. (1991), Varrone and d’Atri (2007), and
+Zimmermann et al. (1994)).
+
+
+from the Tethyan rifting (Fig. 11, right) and inverted during the                                To sum up, the tectono-sedimentary behaviour of the Paleo-
+Paleogene. Some of them contain Provence-type, reefal upper                                   gene ﬂexural basin is documented by onlaps and submarine erosion
+Jurassic facies (log 1, Mourre Haut and Grande Séolane units),                                associated with basin ﬂoor folding during and soon after its Pri-
+which supports the hypothesis of a southern provenance, consis-                               abonian to early Oligocene inﬁll. This immediately preceeded the
+tent with the interpretation of gravity sliding from the northern                             D2 shortening episode recorded in the Dauphiné foreland and
+edge of the Provence platform. One of them shows an important                                 the emplacement of the Embrunais nappes. All these features
+erosional gap beneath the Tethyan breakup unconformity (log 3,                                can be consistently integrated in the NW-directed propagation
+Fig. 11), a typical signature of a hangingwall block. It is noteworthy                        model of the Alpine orogen from Eocene to early Oligocene
+that very similar anomalies are found in a stack of “thrust sheets”                           times.
+in the Briançonnais nappes stack near the Galibier pass, that is
+∼90 km further NNW (Fig. 11, left, and location B Fig. 2). In this                            4.3. Crustal record of continental subduction during the Eocene
+latter locality, which lies in the hangingwall of the CPT, out-
+of-sequence thrusting associated with D3 (Section 5.1) makes it                                   According to several authors, the propagation of the Alpine
+difﬁcult to restore the initial order of the units, but Fig. 11 (left part)                   orogen during the Eocene is maintained by continental subduc-
+gives a tentative correlation based on stratigraphic arguments.                               tion processes (Berger and Bousquet, 2008, and references herein).
+Nevertheless, the similarities between sites A (Restefond pass) and                           Following this, the shallow level features described above must
+B (Galibier pass), located in the footwall and in the hangingwall of                          be compared to the deep crustal record of the Internal Zones,
+the CPT, respectively, are to be considered regarding the restoration                         which exhibit a wide range of European continental margin units
+of the Internal zones (Section 6) and their displacement during the                           gradually involved in the subduction channel during the Paleo-
+collision stage (Section 5.1). Above these blocks initially emplaced                          gene. Reviews of geochronological and tectono-metamorphic data
+by gravitational processes, the bulk of Embrunais nappes is made                              (e.g. Berger and Bousquet, 2008; Bousquet et al., 2008) indicate
+of Helminthoid ﬂyschs series of late Cretaceous to Paleocene age                              that high-pressure metamorphism occurred over a long time span
+(Kerckhove, 1969), obducted from the oceanic realm.                                           between 70 and 35 Ma, while there is little evidence for an elevated
+                                                        Author's personal copy
+
+                                                       T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                      27
+
+
+
+
+Fig. 7. Upper part: NW-SE section across the external zone of the southern western Alps, from the southern Pelvoux to the Argentera massif (vertical exaggeration 2×). This
+proﬁle is trending sub-parallel to the present Alpine orogen in the southern part of the western arc, but it crosscuts sub-perpendicularly the early Alpine structures (D2).
+The Paleogene series (yellow) are missing in the central part of the proﬁle (area between the yellow dashed lines on the map) due to erosion before the emplacement of the
+Embrunais nappes (orange). This erosion, which occurred in submarine setting (see Figs. 8–10), is regarded as the consequence of an incipient structural inversion of the
+Mesozoic Vocontian basin, whose thick series are now exposed in the Embrun and Barcelonnette tectonic windows. Lower part: aerial photograph of the western Alpine arc
+from the SW: the Embrunais Nappes are underlined by snow in the foreground.
+
+
+
+orogen at that time considering the relatively low erosion budget                       reconstruction of Schmid and Kissling (2000), the propagation rate
+(Kuhlemann, 2000).                                                                      of the foreland basin after Ford et al. (2006), and the subduction rate
+   The diachroneity of involvement of the distal margin units,                          of the distal parts of the European margin (Berger and Bousquet,
+especially the Briançonnais domain, in the continental subduction                      2008), the rate of propagation of the orogen would have been of
+zone is illustrated in Fig. 6 (middle part) showing high-pressure and                   the same order of magnitude than the Africa–Europe convergence
+exhumation ages plotted from some selected references between                           rate (∼1 cm/yr). However, this estimation is poorly constrained
+the oceanic units and the proximal European margin represented                          and it assumes that Adria was not moving independently of Africa
+by the External Zone. It documents the overlap of high-pressure and                     during Eocene times, which is still debated because of the possible
+brittle exhumation ages in different fragments of the Briançonnais                     occurrence of spreading of the Ionian sea between Africa and Adria
+crust, which is in agreement with their gradual accretion to the                        before 35 Ma (Michard et al., 2002; Handy et al., 2010). Anyway,
+orogenic wedge. This evolution is coeval with the migration                             as pointed out by Handy et al. (2010), the northward displacement
+of the Paleogene ﬂexural basin towards the Dauphiné/Helvetic                            of Adria during Eocene ﬁts the palinspastic width of the distal
+foreland (Fig. 6, left part), spanning the whole Eocene stage. In the                   European margin (about 120–150 km of Briançonnais domain;
+Internal Zones, the kinematic indicators corresponding to the early                     Lemoine et al., 1986; Stampﬂi et al., 1998, 2002) predicted to have
+Alpine deformation stages are predominantly northward directed                          been consumed in the subduction zone. Considering the Adria plate
+(Section 5.3), consistent with the tectono-sedimentary evidence                         motion direction, the tectonic transport criteria in the Internal
+from the ﬂexural basin and from the foreland. The structures of                         nappes and the evidence of N-NW propagation of the foreland
+the resulting accretionary buildup, exhumed at present in the                           ﬂexural basin during Eocene, a signiﬁcant northward displacement
+Internal arc, are best shown across a NS-trending cross-section                         of the Briançonnais units, at present spreading around the arc, is
+(Tricart and Schwartz, 2006). All these features are consistent                         needed during the early stages of Alpine continental subduction.
+with the orientation of Africa–Europe convergence during Paleo-                         This was postulated by the model of Ricou and Siddans (1986)
+gene after Rosenbaum et al. (2002). Considering the palinspastic                        and is consistent with some observed similarities between the
+                                                              Author's personal copy
+
+28                                                        T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 8. The Restefond paleoslope, located to the SE of the Barcelonnette city (location Figs. 2 (A) and 7). Bottom: detail of the cross-section of Fig. 7(top) at the SE termination
+of the Barcelonnette window (same colors legend as Fig. 7). Both onlap and erosion of the Grès d’Annot fm. occurred over the hangingwall of the Terre Plaine fold-and-thrust
+structure, which was therefore active during Priabonian to earliest Oligocene times. Top and middle: panoramic view of the northern slopes of the Restefond pass, showing
+(i) the onlap of the Grès d’Annot sandstones over the tilted Globigerina hemipelagic marls near “cabanne de Clapouse” (left part of the picture), and (ii) the truncation of the
+Grès d’Annot stratiﬁcation beneath the “Schistes à blocs” olistostrome layer (grey). The paleoslope resulting from this truncation is dipping northwestwards, that is oblique
+with respect to the panoramic view. Several hectometric to kilometric scale slided blocks are hanging over this paleoslope, which are issued from different domains (see
+text). The stratigraphic composition of these blocks is given in Fig. 11 (right).
+
+
+Briançonnais and the Provence-Corsica-Sardinia upper Paleozoic                              and approximately 30◦ diverging transport directions on both
+and Mesozoic stratigraphic sequences.                                                        sides of the Pelvoux culmination are observed (Fig. 5; Gamond,
+                                                                                             1980; Tricart, 1980; Bürgisser and Ford, 1998). This demonstrates
+5. The Oligocene revolution: westward extrusion and                                          the occurrence of basement uplift in the Pelvoux area prior to
+formation of the arc                                                                         the D3 westward transport of Internal Nappes over it, due to the
+                                                                                             cumulative effects of D1 and D2 basement thickening. The change
+5.1. Deformation in the External Zone: Main Alpine,                                          in orientation of shortening is documented in the footwall of the
+west-directed stacking (D3)                                                                  CPT by the tectonic overprint of deformation D3, which produced
+                                                                                             interference structures with the previous shortening episodes
+   The eastern part of the Dauphiné zone was underthrust                                     because of its different orientation.
+eastwards beneath the Crustal Pennine Thrust from the early                                      To the north of the Pelvoux massif, a change in transport direc-
+Oligocene onwards (Simon-Labric et al., 2009). This is recorded by                           tions of thin-skinned thrust sheets from N-NW to W-NW or west
+the dominantly top-to-the west intense shear in the footwall of                              is described (Bravard, 1982; Ceriani et al., 2001). Complicated 3D
+the CPT at the eastern edge of the Pelvoux massif (Butler, 1992),                            structures due to a near 90◦ change in shortening orientation, from
+                                                          Author's personal copy
+
+                                                         T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                         29
+
+
+
+
+Fig. 9. Top: aerial photograph of the south-dipping “Mauvaise côte” cliff, located to the west of the Restefond pass. Bottom: same view with recent normal faulting restored
+(left part). This cliff truncates obliquely the submarine erosion surface which is presented in Fig. 8. The stratiﬁcation of the Annot sandstone fm. is enhanced by snow, showing
+a ∼20◦ apparent angle with the erosion surface.
+
+
+
+approximately N-S (D2) to approximately E-W (D3), reactivate E-W                           External Zone (Fig. 5), which are likely related with the same D2/D3
+trending thrusts as strike-slip faults (Dumont et al., 2008). To the                       interference.
+SE of the Pelvoux, a D2 northwestward directed recumbent fold
+involving the Late Eocene ﬂysch (Grès du Champsaur fm.), the olis-                         5.2. Renewed distribution of foreland basins during early
+tostrome and part of the Embrunais Nappes (Kerckhove et al., 1978)                         Oligocene
+is affected by D3 westward folding, so that antiformal hinges are
+developed both within the reverse limb and within the correct way-                            The distribution of the foreland basins in the southern Subalpine
+up section. This occurs in the footwall of the Prapic thrust, which is                     domain (External Zone of the Western Alps) changed completely
+kinematically linked with the WSW-ward propagation of shorten-                             during Early Oligocene times (Ford et al., 2006): the formation of the
+ing in front of the Crustal Pennine Thrust (Bürgisser and Ford, 1998).                     Digne nappe (Figs. 2 and 5), corresponding to the previously sub-
+    At a larger scale, the interplay between NS and EW shorten-                            siding ﬂexural basin, led most of the Eocene-lowermost Oligocene,
+ing is documented by the structure of the Meije granitic dome,                             westward pinching out ﬂysch deposits to be uplifted and eroded
+whose shape is not issued from a preserved Hercynian pluton but                            by a continental drainage pattern. Conversely, some continental
+from an Alpine compressional interference: this is shown by similar                        or lacustrine, westward thickening depocenters developed in the
+bending of the boundary between the granitic core and the gneissic                         proximal foreland of this nappe, over an area which was previously
+envelopes and of the peripheral basement-cover interface with its                          devoid of sedimentation. Only a narrow area at the hinge between
+Triassic cover (Fig. 4, top), thereby precluding any Hercynian origin                      these two domains shows the Eocene and Oligocene sedimentary
+for this structure. The Meije dome is a result of N-S “arching” in the                     sequences overlapping (Meckel et al., 1996), but generally with an
+hangingwall of the Meije thrust (D2) combined with E-W arching in                          erosional unconformity between both (Fig. 10, top).
+the footwall of the Crustal Pennine Thrust (D3). This dome may be                             The early Oligocene sediments in the Barrême thrust-top basin
+regarded a smaller scale version of the sub-circular Pelvoux massif                        recorded (i) a ∼90◦ shift in sedimentary transport directions (Evans
+(Fig. 3). Some other domes occur in the sedimentary cover of the                           and Mange-Rajetsky, 1991; Callec, 2001) and (ii) a change in source
+                                                             Author's personal copy
+
+30                                                       T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 10. Outcrop views of the erosion surface which caps the sediments of the Late Eocene-Earliest Oligocene ﬂexural basin (continental subduction stage): (1) In basinal
+setting (location A, Fig. 2; outcrop located in Fig. 8), the submarine erosion surface is covered by olistostrome deposits (2) dated of early Oligocene age in the Helvetic realm
+(Mercier de Lépinay and Feinberg, 1982) and by slided blocks (Figs. 8 and 9); (3, 4) towards the foreland (location C, Fig. 2), a rugged continental erosion surface truncates
+the late Eocene-early Oligocene succession (“Nummulitic”, N) and is onlapped by the continental “Molasse Rouge” fm. (ﬂuvial conglomerates, 5) of Oligocene age. Location
+of the outcrops: south of Faucon du Caire (3: ravin de la Bouchouse; 4: ravin de la Bouse).
+
+
+
+rocks: the Grès de Ville were fed in crystalline basement clasts                           wedge located to the east or the NE (Chauveau and Lemoine,
+from the south (Provence-Corsica-Sardinia continent) whereas the                           1961; Evans and Mange-Rajetsky, 1991; Morag et al., 2008). The
+overlying Clumanc conglomerates were fed in non-metamorphic                                latter source zone, subject to very active erosion, has been iden-
+and HP-LT ocean-derived clasts from the rapidly exhuming Alpine                            tiﬁed as being inherited from parts of the Eocene accretionary
+                                                         Author's personal copy
+
+                                                        T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                      31
+
+
+
+
+Fig. 11. Statigraphic content of the blocks hanging over the Restefond paleoslope (right part; see Fig. 8; location A, Fig. 2), and comparison with the thrust sheets of the
+Galibier area (left part; location B, Fig. 2). The strong variations observed in the Mesozoic series show that the Restefond blocks (right) are issued from a paleogeographic
+hinge zone inherited from the Tethyan rifting. The same statement can be done about the Galibier thrust-sheets (left), except that they were more severly overprinted by
+top-to-the west transport (deformation D3) in the hangingwall of the CPT. This comparison also supports an important northward or northwestward displacement of the
+Internal zones with respect to the Embrunais nappes.
+
+wedge that suffered strong shortening and uplift in early Oligocene                      trends of syndepositional deformation and changes in the direction
+times (Bernet and Tricart, 2010; Schwartz et al., submitted for                          of displacements of facies and depocenters. The age of this event
+publication). The sediments of the Tertiary Piedmont basin also                          can be bracketed within a short time interval between the youngest
+recorded a tectono-sedimentary shift at the same time, which con-                        deposits of the ﬂexural ﬂysch basin (∼31–32 Ma, Fig. 6 and refer-
+sists of a sharp erosional unconformity truncating highly deformed                       ences herein) and the oldest inﬁll in the thrust-top molasse basins
+Alpine nappes, and which is overlain by coarse continental clastics                      (∼30–31 Ma; Artoni and Meckel, 1998; Callec, 2001).
+starting from the Early Oligocene (Polino et al., 1991; Cibin et al.,
+2003; Carrapa et al., 2004; Di Giulio et al., 2001; Marroni et al.,                      5.3. The early Oligocene orogen
+2002).
+    Some Oligocene syndepositional deformation criteria observed                             The extensive Alpine literature provides much evidence of dra-
+in the French southern Subalpine foreland indicate a westward                            matic changes in the central part of the Alpine orogen during early
+propagation, clearly different from the Eocene ﬂexural basin                             Oligocene times. Both the magmatic activity, the deep and shal-
+setting: (i) in the Barême thrust-top syncline, top-to-the west                          low structures, the morphology and the kinematic/geodynamic
+syndepositional folding occurred as early as 31 Ma (Artoni and                           setting in the whole Alpine realm are involved in this revolution:
+Meckel, 1998; Callec, 2001); (ii) further north, westward to NW-                         the igneous activity, including the emplacement of the Periadriatic
+ward directed thrusting occurred prior to or during the deposition                       plutons between 33 and 31 Ma (Müller et al., 2001), is regarded as
+of the Rupelian “Molasse Rouge” fm. in the Digne area (Esclangon                         a thermal consequence of slab breakoff in the Central Alps (Von
+thrust-sheet: Haccard et al., 1989) and in Faucon du Caire area (C,                      Blankenburg and Davies, 1995). The Bergell Pluton emplacement
+Fig. 2; Roche Cline thrust sheets: Arnaud et al., 1978). A westward                      postdates N-directed nappes stacking and it is coeval with the
+shift of depocenters is observed in Oligo-Miocene times both in the                      onset of dextral shear and thrusting along the Periadriatic line
+southern Subalpine chains (Couëffé and Maridet, 2003) and in the                         segments (Schmid et al., 1989, 1996; Müller et al., 2001; Handy
+Helvetic realms (Beck et al., 1998).                                                     et al., 2010). Contemporaneous calc-alkaline post-collisional vol-
+    To sum up, the observed interplay between exhumation of the                          canism is reported from the early Oligocene ﬂysch sediments in
+axial chain, deformation of the western foreland, erosion and sed-                       the northwestern foreland (Vuagnat, 1985; Waibel, 1990; Rufﬁni
+imentation clearly shows the occurrence of a sharp change during                         et al., 1997).
+Early Oligocene times with respect to the Eocene framework: sub-                             A review of published kinematic data in the Internal and Exter-
+sidence inversions, changes in clastic provenance, changes in the                        nal zones (Fig. 6, right part) shows how brutally the trends of
+                                                            Author's personal copy
+
+32                                                       T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+
+
+Fig. 12. Summary sketch of the Paleogene evolution of the Alpine foreland in the southern part of the Western Alps. The stages of deformation D1 to D3 refer to the deformation
+history presented in the text: The D1 structures and basement exhumation are sealed by Priabonian sediments to the south of the Pelvoux massif, but are not dated. The
+required N-S shortening component is assigned to the Eocene motion of the Iberian plate whose effects are known in the Pyrenean and Provence realms (Section 3.2). The
+D2 deformation is expected to occur diachronously in the foreland of the propagating accretionary wedge (vertical hatching), and follows shortly the NNW- to NW-ward
+propagation of the ﬂexural basin (Section 4). It corresponds to the continental subduction stage, and it reached the Pelvoux area around the Eocene-Oligocene boundary. The
+D3 collision stage overprinted completely the previous orogenic wedge, which was indented westwards by the Internal metamorphic nappes stack (horizontal hatching),
+giving birth to the western Alpine arc (Section 5). This overprint is shown by interference structures, deformation and uplift of the previously emplaced, low metamorphic
+grade nappes (EN, vertical hatching), whose erosion feeded the molasse basins together with metamorphic rocks issued from the exhuming paleo-accretionnary wedge (IN).
+
+
+
+stretching lineations and transport directions vary through time.                         ﬂexure (Fig. 6, central and left parts), this tectonic shift seems to
+The anticlockwise rotation was pointed by Platt et al. (1989a),                           have occurred more or less simultaneously over the whole Alpine
+but one can see more precisely a sharp ∼90◦ change close to the                           realm. Before, the internal zones were dominated by north-directed
+Eocene-Oligocene boundary. Contrary to the coupled migration of                           transport, associated with “transverse” folds (Caby, 1973), i.e. E-
+the orogen and of the foreland basin during the Eocene lithospheric                       W trending. Pervasive D1 transport lineations (Choukroune et al.,
+                                                          Author's personal copy
+
+                                                         T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                        33
+
+
+
+
+Fig. 13. Proposed palispastic evolution of the western Alpine realm and surrounding areas. The reconstruction considers both paleogeographical and paleostructural con-
+straints from the literature, such as coastal migration of the ﬂexural basin after Ford et al. (2006) and the estimated location of the Adriatic microplate after the sequential
+restoration of Schmid and Kissling (2000) and Handy et al. (2010) and more open choices such as the western termination of the Valais ocean (A). It is proposed that, before
+Eocene, the Western Adria Transform Zone (WATZ) bounded a NW-dipping subduction zone beneath Corsica-Sardinia-Calabria, from a SE-dipping zone beneath Adria. The
+continentward propagation of this transform zone allowed the Briançonnais terrane to be separated from the Iberian plate and integrated in the Alpine accretionnary prism,
+the Adriatic crust and upper mantle therefore overlying the European crust. From Early Oligocene onwards, the northern part of Adria rotated and moved westwards. The
+rectilinear western boundary of the Ivrea upper mantle indenter which cores the Oligocene to present arc could be a relict of the WATZ.
+
+
+
+1986; Carry, 2007) have been re-arranged by arcuate bending dur-                           of the Eocene ﬂexural basin with its initial overload in the French
+ing later episodes (Rosenbaum and Lister, 2005). Afterwards, the                           foreland and (ii) rapid burial affecting the previously exposed
+renewed tectonic activity is marked by the activation of major,                            Eocene HP wedge in the Italian Piedmont (Bertotti et al., 2006).
+west directed crustal thrusts in the Western Alps during early                                 Apart from the Alpine orogen itself, the Early Oligocene also cor-
+Oligocene (Badertscher and Burkhard, 1998; Tricart et al., 2000;                           responds to the initiation of subsidence in the West European rift
+Fügenschuh and Schmid, 2003; Simon-Labric et al., 2009), which                             system (Merle and Michon, 2001), of the Corsica-Sardinia rifting
+cross-cut the previous nappes stack. Coeval eastward underthrust-                          (Lacombe and Jolivet, 2005), and to the onset of the Tyrrhenian-
+ing of the Pelvoux massif is dated 31–33 Ma (Simon-Labric et al.,                          Apenninic dynamics (Vignaroli et al., 2009; Handy et al., 2010).
+2009). This is also coeval with the onset of dextral movement along                        The ﬁrst-order geodynamic cause that can explain both these fea-
+the Insubric line.                                                                         tures and the kinematic re-organization of the Alpine chain is still
+   This early Oligocene event is also detected through a strong                            debated, but an increasing inﬂuence of the deep-seated mantle
+elevation of the axial Alpine orogen, which is suspected consid-                           dynamics in the Mediterranean area is suspected (Faccenna et al.,
+ering the increase in sediment budget in the northern and western                          2004).
+forelands (Kuhlemann, 2000; Kempf and Pross, 2005; Morag et al.,
+2008; Bernet and Tricart, 2010) leading to basins overﬁll and to
+the transition from ﬂysch to molasse sedimentation. An other evi-                          6. Discussion and conclusion
+dence is provided by the onset of coarse sedimentation in Lombardy
+and Piedmont, interpreted as a consequence of rapid unrooﬁng in                               The central and southern parts of the External Western Alps
+Western and Central Alps (Giger and Hurford, 1989; Carrapa et al.,                         show evidence of several interfering shortening episodes dur-
+2004). From early Oligocene onwards, one can observe a dramatic                            ing Alpine convergence. The present Pelvoux large-scale dome
+discrepancy between (i) the rapidly exhuming axial chain, now rep-                         probably initiated over a basement ridge perpendicular to the
+resented by the Internal Zones, with exhumation and canibalization                         present chain, i.e. W-E, and the southern Subalpine Meso-Cenozoic
+                                                 Author's personal copy
+
+34                                            T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+cover shows basin-and-swell structures (Remollon and Barrot                   been localised at the western termination of the Eocene ﬂexural
+domes, Embrun and Barcelonnette nappe windows; Figs. 2 and 7),                basin (Fig. 13B and C). The Adria upper plate, responsible for ﬂex-
+which result from interference between shortening events of varied            ural loading, did not extend westwards farther than the present
+orientations. Such interferences were up to now regarded as super-            location of the Ligurian Alps (Fig. 13B and C), involving the occur-
+imposed effects of the dynamics of the Iberian and Adriatic plates,           rence of a major N-S sinistral transform boundary that we propose
+the former beeing responsible for Pyrenean-Provence deformations              to name Western Adria Transform Zone (WATZ; Fig. 13A). Con-
+and the latter for Alpine episodes. However, we observe that part             sidering the interpretations of Durand-Delga and Rossi (2002),
+of N-S to NW-SE shortening in the southern foreland of the western            Faccenna et al. (2004) or Vignaroli et al. (2008), the longitudinal
+Alpine arc actually relates to the early stages of the Adria–Europe           location of this boundary corresponded with a subduction polar-
+collision, because it post-dates the onset of ﬂexural loading of              ity reversal of the Tethyan oceanic lithosphere, from NW-dipping
+the European foreland by the Austro-Alpine wedge. Top-to-the                  beneath the Iberia-Sardinia-Corsica block to SE-dipping beneath
+northwest direction of propagation of the collisional thrust stack            Adria. As initially proposed by Ricou and Siddans (1986), such
+during the Eocene-earliest Oligocene time span (Fig. 12) is docu-             a sinistral transform boundary allowed the Briançonnais domain
+mented by both near-surface evidence in the Paleogene ﬂexural                 to be detached from the Corsica-Provence realm and transported
+basin, such as synsedimentary folding, gravity sliding and subma-             northwards. The northward propagation of Adria along this bound-
+rine slope scar, and upper crustal deformation in the Dauphiné                ary produced initial thrusting of the oceanic accretionary wedge
+external basement. During the same period, HP-LT deformation                  (so-called Piedmont Schistes lustrés) over the distal European mar-
+within the palaeo-accretionary prism occurred mainly in a north-              gin, namely the Piedmont and internal Briançonnais domains, then
+ward propagating setting, as documented by published kinematic                the gradual involvement of Briançonnais fragments in the Tethyan
+data from the internal arc (Fig. 6, right). The diachroneity of high-         subduction zone, contemporaneously with the closure of the Valais
+pressure ages within the Briançonnais part of the subducted plate            ocean further north (Handy et al., 2010). This northward motion of
+(Fig. 6, middle) is best explained by a continental subduction regime         Adria provided the superposition of Adriatic and European litho-
+spanning the entire Eocene, coeval with the ﬂexural basin propa-              spheric mantles, a duplication that is well documented in the
+gation. Considering this long lasting north- to NW-directed early             Western Alps (Lardeaux et al., 2006).
+Alpine kinematic setting, the elements that were involved in the                  The Oligocene Western Alpine evolution resulted primarily in
+accretionnary wedge, such as the Briançonnais continental margin             the combined effects of two related dynamic processes: (i) west-
+fragments, have to be restored to the SE of the future location of            ward indentation (combined with anticlockwise rotation; Channel,
+the western Alpine arc (Fig. 13A). This is consistent with a palaeo-          1996) of previously uplifted Adriatic lithospheric mantle to the
+geographic location of the Briançonnais domain to the east of the            north (Ivrea body) and (ii) SE- to E-directed incipient Apenninic
+Iberia-Sardinia-Corsica microplate (e.g. Stampﬂi et al., 1998, 2002).         thrusting to the south, probably driven by slab roll-back beneath
+   A complete renewal of the tectonic setting occurred close to               the Corsica-Sardinia-Provence realm suffering back-arc extension
+the Eocene-Oligocene boundary, initiating a mature stage of colli-            (Faccenna et al., 2004). The contrasting evolution of these two
+sion with westward escape of the Internal Nappes stack. According             domains led to strain partitioning and the necessary development
+to many authors (Ziegler, 1989; Stampﬂi et al., 2002; Collombet               of strike-slip boundaries (Giglia et al., 1996; Malusà et al., 2009).
+et al., 2002; Rosenbaum and Lister, 2005; Ford et al., 2006; Molli,           The Ivrea body, which has been extensively investigated using geo-
+2008), the formation of the western Alpine arc occurred mainly                physical methods (Roure et al., 1996; Schreiber et al., 2010 and
+after the Eocene, that is during this mature stage of collision with          references herein) and which outcrops at the western termina-
+lateral extrusion. The deep part of the paleo-accretionnary wedge,            tion of the Southern Alps (Siegesmund et al., 2008), is an Adriatic
+having migrated northwards during the previous, continental sub-              lithospheric mantle and crustal fragment overthrusting the Euro-
+duction stage, was then cross-cut and thrust westwards over the               pean Moho. The lower crustal section yielded Eocene ZFT ages
+emerged proximal part of the ﬂexural basin, allowing a metamor-               (Siegesmund et al., 2008) which mark the N-directed thrusting
+phic rocks provenance for the synorogenic sediments during the                stage (Handy et al., 1999) over the oceanic (Sesia) and continental
+Early Oligocene, a scenario which is summarized in Figs. 12 and 13.           European crust (Briançonnais) during the continental subduction
+According to us, and following Ford et al. (2006), this scenario pro-         stage. The western boundary of the Ivrea body, corresponding to
+vides the best explanation for the two-stages deformation history             lithospheric mantle, trends approximately N-S beneath the south-
+and interference structures observed in the external zone.                    ern part of the Western Alpine arc (Waldhauser et al., 2002; Kissling
+   The Oligocene westward escape of the Internal Alps indenter                et al., 2006; Lardeaux et al., 2006), that is in strong discrepancy with
+was kinematically linked with the dextral motion along the Insubric           the present arc shape. We propose that this N-S boundary which
+fault to the north (Schmid et al., 1987) and with an expected conju-          appears roughly rectilinear at ∼15 km depth (Vernant et al., 2002;
+gate sinistral shear zone to the south, from which the recent “Stura          Schreiber et al., 2010) could be a relict of the western transform
+couloir” (Giglia et al., 1996) could derive. The lithospheric scale           boundary of Adria during northward Eocene drift (WATZ, Fig. 13).
+indenter is cored by Adriatic lithospheric mantle of the Ivrea body           The westward motion of this presumably inherited Adria inden-
+(Lardeaux et al., 2006). Thus, from the Early Oligocene onwards               ter was accommodated by dextral shear along the Periadriatic line
+(Fig. 13D), the northern part of Adria was translated westwards,              as soon as earliest Oligocene (Schmid et al., 1987; Handy et al.,
+indenting the accretionary buildup derived from the previous con-             2005), with possibly a conjugate sinistral shear zone to the south
+tinental subduction stage in between the western Alpine foreland              (Giglia et al., 1996). It produced fast exhumation of the Eocene
+and the uplifted western limit of the Adriatic lithosphere. In front          paleo-accretionnary wedge, together with a dramatic increase in
+of the Ivrea indenter, the “Piemont Schistes lustrés” fossil accre-           altitude and erosion rates. This exhumation is recorded within
+tionary wedge therefore suffered E-W ductile to brittle extensional           the lower Oligocene molasse basins on both sides of the renewed
+shear during exhumation and tilting (Schwartz et al., 2009).                  relief, sourced from high-pressure metamorphic rocks and oceanic
+   This two-stage model elucidates the discrepancy between                    mélanges of various metamorphic grades. The curvature of the arc
+the present structure of recent “hypercollision” dynamics of the              was progressively acquired, producing radial spreading of transport
+Western Alpine arc, on the one hand, and the partly strike-slip               lineations (Choukroune et al., 1986; Platt et al., 1989b; Lickorish
+continental subduction belt developed previously on the west-                 et al., 2002) and southward increasing counter-clockwise rotations
+ern edge of the northward-moving Adriatic microplate (Ricou and               of internal units (Collombet et al., 2002). The southern part of the
+Siddans, 1986), on the other. The initiation of the arc would have            arc now cross-cuts perpendicularly the paleo-accretionary wedge.
+                                                              Author's personal copy
+
+                                                             T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                            35
+
+
+The effects of Oligocene indentation were enhanced at the south-                              Bigot-Cormier, F., Poupeau, G., Sosson, M., 2000. Dénudations différentielles du mas-
+ern termination of the arc by the onset of Corsica-Sardinia rifting                               sif cristallin externe Alpin de l’Argentera (Sud-Est de la France) révélées par
+                                                                                                  thermochronologie traces de ﬁssion (apatites, zircons). C. R. Acad. Sci. Paris 330,
+(Guennoc et al., 2000) due to rollback of the NW-ward subducted                                   363–370.
+Tethyan lithosphere (Faccenna et al., 2004; Jolivet et al., 2009).                            Bogdanoff, S., Michard, A., Mansour, M., Poupeau, G., 2000. Apatite ﬁssion track anal-
+    The driving mechanism that produced this sharp change in the                                  ysis in the Argentera massif: evidence of contrasting denudation rates in the
+                                                                                                  External Crystalline Massifs of the Western Alps. Terra Nova 12, 117–125.
+mode of accommodation of Africa–Europe convergence in the Alps,                               Bouroullec, R., Cartwright, J.A., Johnson, H.D., Lansigu, C., Quémener, J.M., Savanier,
+from continental subduction to collision with lateral extrusion, is                               D., 2004. Syndepositional faulting in the Grès d’Annot Formation SE France:
+still debated. There is little evidence for any change in relative                                high-resolution kinematic analysis and stratigraphic response to growth fault-
+                                                                                                  ing. Geol. Soc. Lond. Spec., 241–265, Publication no. 221.
+motion between Africa and Europe (Dewey et al., 1989; Rosenbaum
+                                                                                              Bousquet, R., Goffé, B., Vidal, O., Oberhänsli, R., Patriat, M., 2002. The tectono-
+et al., 2002) but a motion change is recorded by Adria 35 Ma ago                                  metamorphic history of the Valaisan domain from the Western to the Central
+(e.g. Handy et al., 2010). This renewal in Alpine kinematics must                                 Alps: new constraints on the evolution of the Alps. GSA Bull. 114, 207–225.
+                                                                                              Bousquet, R., Oberhänsli, R., Goffe, B., Wiederkehr, M., Koller, F., Schmid, S., Schuster,
+have been enhanced by the change of the subduction polarity from
+                                                                                                  R., Engi, M., Berger, A., Martinotti, G., 2008. Metamorphism of metasediments at
+SE to NW in the Ligurian oceanic domain (Rosenbaum et al., 2002;                                  the scale of an orogen: a key to the Tertiary geodynamic evolution of the Alps.
+Michard et al., 2006; Handy et al., 2010) and by the subsequent E-                                Geol. Soc. Lond. Spec., 393–411, Publication no. 298.
+directed rollback of the eastern Ligurian oceanic domain and the                              Bravard, C., 1982. Données nouvelles sur le stratigraphie et la tectonique de la zones
+                                                                                                  des Aiguilles d’Arves au nord du col du Lautaret. Géol. Alpine Grenoble 58, 5–13.
+incipient Mediterranean dynamics.                                                             Bravard, C., Gidon, M., 1979. La structure du revers oriental du Massif du
+                                                                                                  Pelvoux: Observations et interprétations nouvelles. Géologie Alpine t.55,
+Acknowledgement                                                                                   23–33.
+                                                                                              Broucke, O., Guillocheau, F., Robin, C., Joseph, P., Calassou, S., 2004. The inﬂuence
+                                                                                                  of syndepositional basin ﬂoor deformation on the geometry of turbiditic sand-
+   This work was supported by the Agence Nationale pour la                                        stones: a reinterpretation of the Cote de L’Ane area (Sanguiniere-Restefonds
+Recherche grant “ERD-Alps”.                                                                       sub-Basin, Gres d’Annot, Late Eocene, France). Geol. Soc. Lond. Spec. Publ. 221,
+                                                                                                  203–222.
+                                                                                              Bucher, S., Ulardic, C., Bousquet, R., Ceriani, S., Fügenschuh, B., Gouffon, Y.,
+References                                                                                        Schmid, S., 2004. Tectonic evolution of the Briançonnais units along a transect
+                                                                                                  (ECORS-CROP) through the Italian–French Western Alps. Eclogae Geol. Helv. 97,
+Agard, P., Jolivet, L., Goffé, B., 2001. Tectonometamorphic evolution of the Schistes             321–345.
+    Lustrés complex: implications for the exhumation of the HP and UHP rocks in               Bürgisser, J., Ford, M., 1998. Overthrust shear deformation of a foreland basin; struc-
+    the western Alps. Bull. Soc. Géol. France 172, 617–636.                                       tural studies south-east of the Pelvoux massif, SE France. J. Struct. Geol. 20,
+Amaudric du Chaffaut, S., 1982. Les unités alpines à la marge orientale du massif                 1455–1475.
+    cristallin corse. Doctorate thesis. Trav. Lab. Géologie Ecole Normale Supérieure,         Butler, R.W.H., 1992. Thrust zone kinematics in a basement-cover imbricate stack:
+    15, Paris, 133 pp.                                                                            Eastern Pelvoux massif, French Alps. J. Struct. Geol. 14, 29–40.
+Arnaud, H., Gidon, M., Pairis, J.L., 1978. Dislocations synsédimentaires du socle et          Butler, R.W., McCaffrey, H.W.D., 2004. Nature of thrust zones in deep water sand-
+    déformations ultérieures de la couverture: l’exemple des chaînons subalpins au                shale sequences: outcrop examples from the Champsaur sandstones of SE
+    NE de Sisteron. C. R. Acad. Sci. Paris 287, 787–790.                                          France. Mar. Petr. Geol. 21, 911–921.
+Artoni, A., Meckel, L.D., 1998. History and deformation rates of a thrust sheet               Caby, R., 1973. Les plis transversaux dans les Alpes occidentales: implications pour la
+    top basin; the Barrême basin, Western Alps, SE France. Geol. Soc. Lond. Spec.,                genèse de la chaîne alpine. Bull. Soc. Géol. France 15, 624–634.
+    213–237, Publication no. 134.                                                             Callec, Y., 2001. La déformation synsédimentaire des bassins paléogènes de l’arc de
+Aubourg, C., Rochette, P., Stéphan, J.F., Popoff, M., Chabert-Pelline, C., 1999. The mag-         Castellane (Annot, Barrême, Saint-Antonin). Mémoire Sciences de la Terre, Ecole
+    netic fabric of weakly deformed Late Jurassic shales from the southern subalpine              des Mines de Paris, 349, no. 43.
+    chains (French Alps): evidence for SW-directed tectonic transport direction.              Callec, Y., 2004. The turbidite ﬁll of the Annot sub-basin (SE France): a sequence
+    Tectonophysics 307, 15–31.                                                                    stratigraphy approach. In: Joseph, P., Lomas, S.A. (Eds.), Deep Water Sedimenta-
+Authemayou, C., 2002. Géométrie tridimentionnelle et tectonique de raccourcisse-                  tion in the Alpine Basin of SE France, Geol. Soc. Spec. Publication no. 221. , pp.
+    ment Nord-Sud dans le Massif du Pelvoux. Unpublished DEA. Université Joseph                   111–135.
+    Fourier, Grenoble, 36 pp.                                                                 Campredon, R., 1977. Les formations paléogènes des Alpes maritimes franco-
+Badertscher, N., Burkhard, M., 1998. Inversion alpine du graben Permo-Carbonifère                 italiennes. Memoire H. S. Soc. Geol., France, 199 pp.
+    de Salvan-Dorénaz et sa relation avec le chevauchement de la nappe de Morcles             Campredon, R., Giannerini, G., 1982. Le synclinal de St Antonin (arc de Castellane,
+    sus-jacente. Eclogae Geol. Helv. 91, 359–373.                                                 Chaînes subalpines méridionales); un exemple de bassin soumis à une déforma-
+Barbier, R., Barféty, J.C., Bocquet, A., Bordet, P., Le Fort, P., Meloux, J., Mouterde, R.,       tion compressive permanente depuis l’Eocène supérieur. Géol. Alpine Grenoble
+    Pêcher, A., Petiteville, M., 1973. Carte géologique de la France au 1/50000è, feuille         58, 15–20.
+    La Grave. Bur. Rech. Geol. Min. Orléans.                                                  Capitanio, F.A., Goes, S., 2006. Mesozoic spreading kinematics: consequences for
+Barféty, J.C., 1988. Le Jurassique dauphinois entre Durance et Rhône. Etude strati-               Cenozoic Central and Western Mediterranean subduction. Geophys. J. Int. 165,
+    graphique et géodynamique. Documents du Bureau de Recherches géologiques                      804–816.
+    et minières, Orléans 131, 655.                                                            Caron, C., Homewood, P., Morel, R., Stuijvenberg, J., 1980. Témoins de la nappe
+Barféty, J.C., Gidon, M., 1983. La stratigraphie et la structure de la couverture                 du Gurnigel sur les Préalpes médianes: une conﬁrmation de son origine
+    dauphinoise au Sud de Bourg d’Oisans. Leurs relations avec les déformations                   ultrabriançonnaise. Bull. Soc. Fribourgeoise Sc. Nat. 69, 64–79.
+    synsédimentaires jurassiques. Géol. Alpine 59, 5–32.                                      Carrapa, B., Di Giulio, A., Wijbrans, J., 2004. The early stages of the Alpine colli-
+Barféty, J.C., Tricart, P., Jeudy De Grissac, C., 1992. La quatrième écaille près de              sion: an image derived from the upper Eocene-lower Oligocene record in the
+    Briançon (Alpes françaises): un olistostrome précurseur de l’orogenèse pen-                 Alps–Apennines junction area. Sediment. Geol. 171, 181–203.
+    nique éocène. C. R. Acad. Sci. Paris 314, 71–76.                                          Carry, N., 2007. De la subduction continentale à l’exhumation dans les Alpes pen-
+Baudin, T., Marquer, D., Persoz, F., 1993. Basement–cover relationships in the Tambo              niques. PhD thesis. University of Rennes, 307 pp.
+    nappe (Central Alps, Switzerland): geometry, structure and kinematics. J. Struct.         Ceriani, S., Fügenschuh, B., Schmidt, S., 2001. Multi-stage thrusting at the “Penninic
+    Geol. 15, 543–553.                                                                            Front” in the Western Alps between Mont Blanc and Pelvoux massifs. Geol. Rund.
+Beck, C., Deville, E., Blanc, E., Philippe, Y., Tardy, M., 1998. Horizontal shortening            90, 685–702.
+    control of middle Miocene marine siliciclastic accumulation (Upper Marine                 Ceriani, S., Schmid, S., 2004. From N–S collision to WNW-directed post-collisional
+    Molasse) in the southern termination of the Savoy Molasse Basin (northwestern                 thrusting and folding: Structural study of the Frontal Penninic Units in Savoie
+    Alps/southen Jura). Geol. Soc. Lond. Spec. Publ. 134, 263–278.                                (Western Alps, France). Eclogae Geol. Helv. 97, 347–369.
+Berger, J.P., Bousquet, R., 2008. Subduction-related metamorphism in the Alps:                Channel, J.E.T., 1996. Paleomagnetism and Paleogeography of Adria. Geol. Soc. Lond.
+    review of isotopic ages based on petrology and their geodynamic consequences.                 Spec. Publ. 105, 119–132.
+    Geol. Soc. Lond. Spec., 117–144, Publication no. 298.                                     Chauveau, J.C., Lemoine, M., 1961. Contribution à l’étude géologique du synclinal
+Berggren, W.A., Kent, D.V., Swisher, C.C., Aubry, M.P., 1995. A revised Cenozoic                  tertiaire de Barrême (moitié nord). Bull. Serv. Carte géol France 58, 287–318.
+    geochronology and chronostratigraphy. In: Berggren, W.A., Kent, D.V., Aubry,              Chevalier, F., Guiraud, M., Garcia, J.P., Dommergues, J.L., Quesne, D., Allemand, P.,
+    M.P., Hardenbol, J. (Eds.), Geochronology, Time Scale and Global Stratigraphic                Dumont, T., 2003. Calculating the long-term displacement rates of a normal
+    Correlations, vol. 54. SEPM Special Publication, pp. 129–212.                                 fault from the high-resolution stratigraphic record (early Tethyan rifting, French
+Bernet, M., Tricart, P., 2010. The Oligocene orogenic pulse in the Southern Pen-                  Alps). Terra Nova 15, 410–416.
+    ninic Arc (Western Alps): structural, sedimentary and thermochronological                 Choukroune, P., Ballevre, M., Cobbold, P., Gautier, Y., Merle, O., Vuichard, J.P.,
+    constraints. Bull. Soc. Géol. Fr. 182, 25–36.                                                 1986. Deformation and motion in the Western Alpine arc. Tectonics 5,
+Bertotti, G., Mosca, P., Juez, J., Polino, R., Dunai, T., 2006. Oligocene to present kilo-        215–226.
+    metres scale subsidence and exhumation of the Ligurian Alps and the Tertiary              Cibin, U., Di Giulio, A., Martelli, L., 2003. Oligocene-Early Miocene tectonic evolution
+    Piedmont Basin (NW Italy) revealed by apatite (U–Th)/He thermochronology:                     of the northern Apennines (northwestern Italy) traced through provenance of
+    correlation with regional tectonics. Terra Nova 18, 18–25.                                    piggy-back basin ﬁll successions. Geol. Soc. Lond. Spec., 269–287, Publ. No. 208.
+                                                                  Author's personal copy
+
+36                                                            T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+Cliff, R.A., Barnicoat, A.C., Inger, S., 1998. Early Tertiary eclogite facies metamorphism     Ford, M., Duchêne, S., Gasquet, D., Vanderhaeghe, O., 2006. Two-phase orogenic
+     in the Monviso Ophiolite. J. Metamorphic Geol. 16, 447–455.                                   convergence in the external and internal SW Alps. J. Geol. Soc. Lond. 163,
+Collombet, M., Thomas, J.C., Chauvin, A., Tricart, P., Bouillin, J.P., Gratier, J.P., 2002.        1–12.
+     Counterclockwise rotation of the western Alps since the Oligocene: new insights           Ford, M., Lickorish, W.H., Kuznir, N.J., 1999. Tertiary foreland sedimentation in the
+     from paleomagnetic data. Tectonics, doi:10.1029/2001TC901016.                                 Southern Subalpine Chains, SE France: a geodynamic appraisal. Basin Res. 11,
+Corsini, M., Ruffet, G., Caby, R., 2004. Alpine and late Hercynian geochronologi-                  315–336.
+     cal constraints in the Argentera massif (Western Alps). Eclogae Geol. Helv. 97,           Freeman, S.R., Butler, R.W., Cliff, R.A., Inger, S., Barnicoat, A.C., 1998. Deforma-
+     3–15.                                                                                         tion migration in an orogen-scale zone array: an example from the Basal
+Couëffé, R., Maridet, O., 2003. Découverte de deux gisements à micromammifères                     Briançonnais Trust, internal Franco-Italian Alps. Geol. Mag. 135, 349–367.
+     du Burdigalien supérieur dans la molasse du bassin de Digne (Alpes de Haute               Freeman, S.R., Inger, S., Butler, R.W., Cliff, R.A., 1997. Dating deformation using Rb-
+     Provence, SE France): implications stratigraphiques et tectoniques. Eclogae Geol.             Sr in white mica: greenschist-facies deformation ages from Entrelor shear zone,
+     Helv. 96, 197–207.                                                                            Italian Alps. Tectonics 16, 57–76.
+Courel, L., et al., 1984. Trias. In: Debrand-Passard, S., Courbouleix, S., Lienhardt, M.J.     Froitzheim, N., Schmid, S.M., Conti, P., 1994. Repeated change from crustal shorten-
+     (Eds.), Synthèse géologique du Sud-Est de la France, Mémoire Bur. Rech. Géol.                 ing to orogenparallel extension in the Austroalpine units of Graubunden. Eclogae
+     Min. No. 125. , pp. 61–117.                                                                   Geol. Helv. 87/2, 559–612.
+Crespo-Blanc, A., Masson, H., Sharp, Z., Cosca, M., Hunziker, J., 1995. A stable and           Fügenschuh, B., Schmid, S., 2003. Late stages of deformation and exhumation of an
+     40
+        Ar–39 Ar isotope study of a major thrust in the Helvetic nappes (Swiss Alps):              orogen constrained by ﬁssion-track data: a case study in the Western Alps. GSA
+     evidence for ﬂuid ﬂow and constraints on nappe kinematics. GSA Bull. 107,                     Bull. 115, 1425–1440.
+     1129–1144.                                                                                Gamond, J.F., 1980. Direction de déplacement et linéation: cas de la couverture
+Dal Piaz, G., 2001. Geology of the Monte Rosa massif: historical review and personal               sédimentaire dauphinoise orientale. Bull. Soc. Géol. France 1984 22 (7), 429–436.
+     comments. Schweiz. Min. Petrogr. Mitt. 81, 275–303.                                       Gebauer, D., 1999. Alpine geochronology of the Central and Western Alps: new con-
+Debelmas, J., Durozoy, G., Kerckhove, C., Monjuvent, G., Mouterde, R., Pêcher, A.,                 straints for a complex geodynamic evolution. Schweiz. Miner. Petrogr. Mitt. 79,
+     1980. Notice de la carte géologique de la France au 1/50000è, feuille Orcières.               191–208.
+     Bur. Rech. Géol. Min. Orléans, 27.                                                        Gidon, M., 1979. Le rôle des étapes successives de déformation dans la tectonique
+De Graciansky, P.C., Roberts, D.G., Tricart, P., 2010. The Western Alps, from rift to pas-         alpine du massif du Pelvoux (Alpes occidentales). C. R. Acad. Sci. Paris 288,
+     sive margin to orogenic belt. An integrated geoscience overview. Development                  803–806.
+     in Earth Surface Processes, vol. 14. Elsevier, 429 pp.                                    Gidon, M., Buffet, G., Bonhomme, M., Montjuvent, G., Fourneaux, J.C., Mouterde, R.,
+Dewey, J.F., Helman, M.L., Turco, E., Hutton, D.H.W., Knott, S.D., 1989. Kine-                     1980. Carte géologique de la France au 1/50000è, feuille 845, St Bonnet. Bur.
+     matics of the western Mediterranean. In: Coward, M.P., Dietrich, D.,                          Rech. Geol. Min.
+     Park, R.G. (Eds.), Alpine Tectonics, Geol. Soc. Spec. Publication No. 45. ,               Gidon, M., Pairis, J.L., 1980. Nouvelles données sur la structure des écailles de Soleil
+     pp. 265–283.                                                                                  Boeuf (bordure sud du massif du Pelvoux). Bull. Bur. Rech. Geol. Min. 1, 35–41.
+Dèzes, P., Schmid, S., Ziegler, P.A., 2004. Evolution of the European Cenozoic Rift            Giger, M., Hurford, A.J., 1989. Tertiary intrusives of the Central Alps: their Tertiary
+     System: interaction of the Alpine and Pyrenean orogens with their foreland                    uplift, erosion, redeposition and burial in the south-alpine foreland. Eclogae
+     lithosphere. Tectonophysics 389, 1–33.                                                        Geol. Helv. 82, 857–866.
+Di Giulio, A., Carrapa, B., Fantoni, R., Gorla, L., Valdisturlo, A., 2001. Middle              Giglia, G., Capponi, G., Crispini, L., Piazza, M., 1996. Dynamics and seismotectonics
+     Eocene to Early Miocene sedimentary evolution of the Lombardian segment                       of the West-Alpine arc. Tectonophysics 267, 143–175.
+     of the South Alpine foredeep (Italy). Int. J. Earth Sci. (Geol. Rundsch.) 90,             Gratier, J.P., Ménard, G., Arpin, R., 1989. Strain–displacement compatibility and
+     534–548.                                                                                      restoration of the Chaînes Subalpines of the western Alps. In: Coward, M.P.,
+Dommergues, J.L., Guiffra, A., Dumont, T., Chevalier, F., 2011. La Lumachelle à                    Dietrich, D., Park, R.G. (Eds.), Alpine Tectonics. , pp. 65–81, Spec. Pub. No. 45.
+     Cardinia (Bivalves) et Alsatites (Ammonites) du Revers de Cote Dure dans                  Guardia, P., Ivaldi, J.P., 1987. Contrôle tectonique de la sédimentation paléogène sur
+     l’Hettangien de la couverture sédimentaire du Massif du Rochail (Oisans, Isère,               le bord méridional du massif de l’Argentera (Alpes Maritimes). Géologie Alpine,
+     France). Revue de Paléobiologie, Genève 30, 193–221.                                          Grenoble, mém. H.S No. 13, 343–356.
+Duchêne, S., Blichert-Toft, J., Luais, B., Télouk, P., Lardeaux, J.M., Albarède, F., 1997.     Gubler-Wahl, Y., 1928. La nappe de l’Ubaye au sud de la vallée de Barcelonnette.
+     The Lu–Hf dating of garnets and the ages of the Alpine high-pressure metamor-                 Thèse. Paris, 201.
+     phism. Nature 367, 586–589.                                                               Guellec, S., Mugnier, J.L., Tardy, M., Roure, F., 1990. Neogene evolution of the western
+Du Fornel, E., Joseph, P., Desaubliaux, G., Eschard, R., Guillocheau, F., Lerat, O., Muller,       Alpine foreland in the light of Ecors data and balanced cross-section. In: Mem.
+     C., Ravenne, C., Sztrakos, K., 2004. The southern Grès d’Annot outcrops (French               Soc. Géol. France No. 156, pp. 165–184.
+     Alps): an attempt at regional correlation. In: Joseph, P., Lomas, S.A. (Eds.), Deep       Guennoc, P., Gorini, C., Mauffret, A., 2000. Histoire géologique du Golfe du Lion et
+     Water Sedimentation in the Alpine Basin of SE France. Geol. Soc. Spec. Publica-               cartographie du rift oligo-aquitanien et de la surface messinienne. Géologie de
+     tion No. 221, pp. 137–160.                                                                    la France 3, 67–97.
+Dumont, T., 1998. Sea-level changes and early rifting of a European Tethyan margin             Guerrot, C., Debon, F., 2000. U–Pb zircon dating of two contrasting Late Variscan
+     in the western Alps and Southeastern France. In: de Graciansky, P.C., Hardenbol,              plutonic suites from the Pelvoux massif (French Western Alps). Schweiz Min.
+     J., Jacquin, T., Vail, P.R. (Eds.), Mesozoïc and Cenozoic Sequence Stratigraphy               Petrogr. Mitt. 80, 249–256.
+     of European Basins. Society of Economic Petrologists and Mineralogists, pp.               Guillot, S., Di Paola, S., Ménot, R.P., Ledru, P., Spalla, M.I., Gosso, G., Schwartz, S., 2009.
+     623–642, Special Publication 60.                                                              Suture zones and importance of strike-slip faulting for Variscan geodynamic
+Dumont, T., Champagnac, J.D., Crouzet, C., Rochat, P., 2008. Multistage shortening in              reconstructions of the External Crystalline Massifs of the western Alps. Bull.
+     the Dauphiné zone (French Alps): the record of Alpine collision and implications              Soc. Géol. France 180, 483–500.
+     for pre-Alpine restoration. Swiss J. Geosci. 101, 89–110.                                 Gupta, S., Allen, P.A., 2000. Implications of foreland paleotopography for strati-
+Dumont, T., Simon-Labric, T., Authemayou, C., Heymes, T. Lateral termination of                    graphic development in the Eocene distal Alpine foreland basin. GSA Bull. 112,
+     the north-directed Alpine orogeny and onset of westward escape in the West-                   515–530.
+     ern Alpine arc: structural and sedimentary evidence from the external zone.               Haccard, D., Beaudouin, B., Gigot, P., Jorda, M., 1989. Notice explicative de la carte
+     Tectonics, in press.                                                                          géologique de France (1/50000), feuille La Javie (918). Bur. Rech. Géol. Min.
+Durand-Delga, M., Rossi, P., 2002. About the Ligurian-Piemontese Ocean on the                      Orléans, 152.
+     transect Corsica-Apennines. C. R. Geosci. 334, 227–228.                                   Handy, M., Babist, J., Wagner, R., Rossenberg, G., Konrad, M., 2005. Decoupling and
+Egal, E., 1992. Structure and tectonic evolution of the external zone of Alpine Corsica.           its relation to strain partitioning in continental lithosphere: insight from the
+     J. Struct. Geol. 14, 1215–1228.                                                               Periadriatic fault system (European Alps). Geol. Soc. London Spec. Publ. 243,
+Engi, M., Scherrer, N.C., Burri, T., 2001. Metamorphic evolution of pelitic rocks of the           249–276.
+     Monte Rosa nappe: constraints from petrology and simple grain monazite age                Handy, M.R., Franz, L., Heller, F., Janott, B., Zurbriggen, R., 1999. Multistage accretion
+     data. Schweiz. Min. Petrogr. Mitt. 81, 305–328.                                               and exhumation of the continental crust (Ivrea crustal section, southern Alps,
+Euzen, T., Joseph, P., Du Fornel, E., Lesur,.S., 2004. Three-dimensional stratigraphic             northwestern Italy and southern Switzerland. Geol. Soc. Am. Bull. 103, 236–253.
+     modelling of the Gres d’Annot system, Eocene-Oligocene, SE France. Geol. Soc.             Handy, M., Schmid, S.M., Bousquet, R., Kissling, E., Bernouilli, D., 2010. Reconciling
+     London Spec. Publ. 221, 161–180.                                                              plate-tectonic reconstructions of Alpine Tethys with the geological–geophysical
+Evans, M.J., Eliott, T., 1999. Evolution of a thrust-sheet-top basin: the Tertiary                 record of spreading and subduction in the Alps. Earth Sci. Rev. 102, 121–158.
+     Barrême Basin, Alpes de Haute Provence, France. Geol. Soc. Am. Bull. 111,                 Hardenbol, J., Thierry, J., Farley, M.B., Jacquin, T., de Graciansky, P.C., Vail, P., 1998.
+     1617–1643, Springer, Berlin, pp. 185–206.                                                     Mesozoic and Cenozoic sequence stratigraphic framework of European ba. In: de
+Evans, M.J., Mange-Rajetsky, M.A., 1991. The provenance of sediments in the Bar-                   Graciansky, P.C., Hardenbol, J., Jacquin, T., Vail, P. (Eds.), Mesozoic and Cenozoic
+     rême thrust-top basin, Haute Provence, France. Geol. Soc. Spec. Publication No.               Sequence Stratigraphy of European Basins. Soc. Econ. Min. Petr. Spec. Publ. 60. ,
+     57, 323–342.                                                                                  pp. 3–14.
+Faccenna, C., Piromallo, C., Crespo-Blanc, A., Jolivet, L., Rossetti, F., 2004. Lateral slab   Ivaldi, J.P., 1987. Le Paléogène détritique marin du pays des Arves (Savoie): analyse
+     deformation and the origin of the western Mediterranean arcs. Tectonics 23,                   par thermoluminescence et paléogéographie. Géologie Alpine, Grenoble, mém.
+     TC1012, 21 pp.                                                                                H.S No. 13, 343–356.
+Fischer, H., Villa, I.M., 1990. Erste K/Ar- und (super 40)Ar/(super 39)Ar- Hornblende-         Jean, S., 1985. Les grès d’Annot au NW du massif de l’Argentera-Mercantour. Unpub-
+     Mineralalter des Taveyannaz-Sandstein. Schweitz. Miner. Petrol. Mitt. 70,                     lished PhD thesis. University of Grenoble, 244.
+     73–75.                                                                                    Jeanbourquin, P., Goy-Eggenberger, D., 1991. Mélanges suprahelvétiques: sédimen-
+Ford, M., 1996. Kinematics and geometry of early Alpine, basement involved folds,                  tation et tectonique au front de la nappe de Morcles (Vaud, Suisse). Géologie
+     SW Pelvoux Massif, SE France. Eclogae Geol. Helv. 89, 269–295.                                Alpine 67, 43–62.
+                                                               Author's personal copy
+
+                                                             T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38                                                                37
+
+
+Jolivet, L., Faccenna, C., Piromallo, C., 2009. From mantle to crust: stratching the           Lickorish, W.H., Ford, M., Bürgisser, J., Cobbold, P.R., 2002. Arcuate thrust systems
+     Mediterranean. Earth Planet. Sci. Lett. 285, 198–209.                                         in sandbox experiments: a comparison to the external arcs of the Western Alps.
+Joseph, P., Lomas, S., 2004. Deep-water sedimentation in the Alpine foreland basin                 GSA Bull. 114, 1089–1107.
+     of SE France: new perspectives on the Grès d’Annot. An introduction. Geol. Soc.           Lihou, J.C., 1995. A new look at the Blattengratt unit of Eastern Switzerland: early
+     Lond. Spec. Publ. 221, 1–16.                                                                  Tertiary foreland basin sediments from the South Helvetic realm. Eclogae Geol.
+Keller, L.M., Hess, M., Fügenschuh, B., Schmid, S., 2005. Structural and meta-                     Helv. 88, 91–114.
+     morphic evolution of the Camughera-Moncucco, Antrona and Monte Rosa                       Malusà, G.M., Polino, R., Zattin, M., 2009. Strain partitioning in the axial NW Alps
+     units southwest of the Simplon line, Western Alps. Eclogae Geol. Helv. 98,                    since the Oligocene. Tectonics 28, 1–26.
+     19–49.                                                                                    Malusà, G.M., Polino, R., Zattin, M., Bigazzi, G., Martin, S., Piana, F., 2005. Miocene to
+Keller, L.M., Schmid, S., 2001. On the kinematics of shearing near the top of the Monte            Present differential exhumation in the Western Alps: Insights from ﬁssion track
+     Rosa nappe and the nature of the Furgg zone in the Val Loranco (Antrona valley,               thermochronology. Tectonics 24, TC3004, 23.
+     N. Italy): tectonometamorphic and paleogeographical consequences. Schweiz.                Markley, M.J., Teyssier, C., Cosca, M.A., Caby, R., Hunziker, J.C., Sartori, M., 1998.
+     Min. Petrogr. Mitt. 81, 347–367.                                                              Alpine deformation and 39 Ar–40 Ar geochronology of synkinematic white mica
+Kempf, O., Pﬁffner, O.A., 2004. Early Tertiary evolution of the North Alpine Foreland              in the Siviez-Mischabel Nappe; western Pennine Alps, Switzerland. Tectonics
+     Basin of the Swiss Alps and adjoining areas. Basin Res. 16, 549–567.                          17, 407–425.
+Kempf, O., Pross, J., 2005. The lower marine to lower freshwater Molasse                       Marroni, M., Feroni, A.C., Di Biase, D., Ottria, G., Pandolﬁ, L., Taini, A., 2002. Polyphase
+     transition in the northern Alpine foreland basin (Oligocene; central Switzerland-             folding at upper structural levels in the Borbera Valley (northern Apennines,
+     south Germany): age and geodynamic implications. Int. J. Earth Sci. 94,                       Italy): implications for the tectonic evolution of the linkage area between Alps
+     160–171.                                                                                      and Apennines. C. R. Géosci. 334, 565–572.
+Kerckhove, C., 1964. Mise en évidence d’une série à caractère d’ « olistostrome                Meckel, L.D., Ford, M., Bernouilli, D., 1996. Tectonic and sedimentary evolution of
+     » au sommet des grès d’Annot (Nummulitique autochtone) sur le pourtour                        the Dévoluy Basin, a remnant of the Tertiary western Alpine foreland basin, SE
+     des nappes de l’Ubaye (Alpes franco-italiennes). C. R. Acad. Sci. Paris 259,                  France. Géologie de la France 2, 3–26.
+     4742–4745.                                                                                Meffan-Main, S., Cliff, R.A., Barnicoat, A.C., Lombardo, B., Compagnoni, R., 2004. A Ter-
+Kerckhove, C., 1969. La Zone du Flysch dans les nappes de l’Embrunais-Ubaye (Alpes                 tiary age for Alpine high-pressure metamorphism in the Gran Paradiso massif,
+     occidentales). Géologie Alpine, Grenoble 45, 5–204.                                           Western Alps: a Rb–Sr microsampling study. J. Metam. Geol. 22, 267–281.
+Kerckhove, C., 1974. Notice explicative de la Carte géologique de France au 1/50000è,          Mercier de Lépinay, D., Feinberg, H., 1982. L’olistostrome sommital des grès
+     feuille Barcelonnette (895). Bur. Rech. Géol. Min. Orléans.                                   delphino-helvétiques dans la partie nord-occidentale du massif de Platé-Haut-
+Kerckhove, C., Cochonat, P., Debelmas, J., 1978. Tectonique du soubassement                        Giffre (Haute Savoie, Alpes occidentales): nature, âge et implications structurales.
+     parautochtone des nappes de l’Embrunais-Ubaye sur leur bordure occidentale,                   C. R. Acad. Sci. Paris 294, 1279–1284.
+     du Drac au Verdon. Géologie Alpine, Grenoble 54, 67–82.                                   Merle, O., Brun, J.P., 1981. La déformation polyphasée de la nappe du Parpaillon
+Kerckhove, C., Thouvenot, F., 2008. Notice explicative de la Carte géologique de                   (Flysch à Helminthoïdes): un résultat de la déformation progressive asociée à
+     France au 1/50 000è, feuille Allos (919), deuxième édition. Bur. Rech. Géol. Min.,            une translation non rectiligne. C. R. Acad. Sci. Paris t.292, 343–346.
+     Orléans.                                                                                  Merle, O., Cobbold, P.R., Schmid, S., 1989. Tertiary kinematics in the Lepontine dome.
+Kissling, E., Schmid, S., Lippitsch, R., Ansorge, J., Fügenschuh, B., 2006. Litho-                 In: Coward, M.P., Dietrich, D., Park, R.G. (Eds.), Alpine Tectonics, Geol. Soc. Spec.
+     sphere structure and tectonic evolution of the Alpine arc: new evidence from                  Publication No. 45. , pp. 113–134.
+     high-resolution teleseismic tomography. In: Gee, D.G., Stephenson, R.A. (Eds.),           Merle, O., Michon, L., 2001. The formation of the West European rift: a new model
+     European Lithosphere Dynamics, vol. 32. Geol. Soc. London Memoirs, pp.                        as exempliﬁed by the Massif Central area. Bull. Soc. Géol. Fr. 172, 213–221.
+     129–145.                                                                                  Michard, A., Avigad, D., Goffé, B., Chopin, C., 2004. The high-pressure metamorphic
+Kuhlemann, J., 2000. Post-collisional sediment budget of circum-Alpine basins (Cen-                front of the south Western Alps (Ubaye-Maira transect, France, Italy). Schweiz.
+     tral Europe). Mem. Sci. Geol. Padova 52, 1–91.                                                Min. Petrogr. Mitt. 84, 215–235.
+Kurz, W., Neubauer, F., Genser, J., 1996. Kinematics of Penninic nappes (Glock-                Michard, A., Dumont, T., Andreani, L., Loget, N., 2010. Cretaceous folding in the
+     ner Nappe and basement-cover nappes) in the Tauern Window (Eastern Alps,                      Dévoluy Mountains (Subalpine Chains, France): gravity-driven detachment at
+     Austria) during subduction and Penninic-Austroalpine collision. Eclogae Geol.                 the European paleomargin versus compressional event. Bull. Soc. Géol. France
+     Helv. 89, 573–605.                                                                            181, 565–582.
+Lacombe, O., Jolivet, L., 2005. Structural and kinematic relationships between Cor-            Michard, A., Chalouan, A., Feinberg, H., Goffé, B., Montigny, R., 2002. How does the
+     sica and the Pyrenees-Provence domain at the time of the Pyrenean orogeny.                    Alpine belt end between Spain and Morocco? Bull. Soc. Géol. France 173, 3–15.
+     Tectonics 24, 1–20.                                                                       Michard, A., Negro, F., Saddiqi, O., Bouybaouene, M.L., Chalouan, A., Montigny,
+Labaume, P., Jolivet, M., Souquière, F., Chauvet, A., 2008. Tectonic control on diagene-           R., Goffe, B., 2006. Pressure-temperature-time constraints on the Maghrebide
+     sis in a foreland basin: combined petrologic and thermochronologic approaches                 mountain building: evidence from the Rif-Betic transect (Morocco, Spain), Alge-
+     in the Grès d’Annot basin (Late Eocene–Early Oligocene, French–Italian external               rian correlations, and geodynamic implications. C. R. Géosci. 338, 92–114.
+     Alps). Terra Nova 20, 95–101.                                                             Molli, G., 2008. Northern Apennine-Corsica orogenic system: an updated overview.
+Lahondère, D., Rossi, P., Lahondère, J.C., 1999. Structuration alpine d’une marge                  Geol. Soc. Lond. Special Publ. 298, 413–442.
+     continentale externe: le massif du Tenda (Haute-Corse). Implications géody-               Monié, P., 1990. Preservation of Hercynian 39 Ar–40 Ar ages through high-pressure
+     namiques au niveau de la transversale Corse-Apennins. Géologie de la France 4,                low-temperature Alpine metamorphism in the Western Alps. Eur. J. Miner. 2,
+     27–44.                                                                                        343–361.
+Lanteaume, M., 1990. Notice explicative de la Carte géologique de France au1/50                Morag, N., Avigad, D., Harlavan, Y., McWilliams, M., Michard, A., 2008. Rapid exhuma-
+     000è, feuille Viève-Tende (948). Bur. Rech. Géol. Min., Orléans, 129.                         tion and mountain building in the Western Alps: petrology and 40 Ar/39 Ar
+Lapen, T.J., Johnson, C.M., Baumgrtner, L.P., Dal Piaz, G.V., Skora, S., Beard, B.L., 2007a.       geochronology of detritus from Tertiary basins of southeastern France. Tectonics
+     Coupling of oceanic and continental crust during Eocene eclogite-facies meta-                 27, 1–18.
+     morphism: evidence from the Monte Rosa nappe, Western Alps, Italy. Contrib.               Mosar, J., Stampﬂi, G.M., Girod, F., 1996. Western Préalpes Médianes Romandes:
+     Mineral. Petrol. 153, 139–157.                                                                timing and structure. A review. Eclogae Geol. Helv. 89, 389–425.
+Lapen, T.J., Johnson, C.M., Beard, B.L., 2007b. Lu–Hf age and isotope systematics of           Müller, W., Prosser, G., Mancktelow, N., Villa, I., Kelly, S.P., Viola, G., Oberli, F., 2001.
+     the Dora Maira nappe, western Alps. Goldschmidt Conf. Abstr. 2007, A544.                      Geochronological constraints on the evolution of the Periadriatic Fault system
+Lardeaux, J.M., Schwartz, S., Tricart, P., Paul, A., Guillot, S., Béthoux, N., Masson, F.,         (Alps). Int. J. Earth Sci. (Geol. Rundsch.) 90, 623–653.
+     2006. A crustal-scale cross-section of the southwestern Alps combining geo-               Nagel, T.J., 2008. Tertiary subduction, collision and exhumation recorded in the
+     physical and geological imagery. Terra Nova 18 (6), 412–422.                                  Adula nappe, central Alps. Geol. Soc. Lond. Special Publ. 298, 365–392.
+Lateltin, O., Müller, D., 1987. Evolution paléogéographique du bassin des grès de              Padoa, E., 1999. Les ophiolites du massif de l’Inzecca (Corse alpine): lithostratigra-
+     Taveyannaz dans les Aravis (Haute Savoie) à la ﬁn du Paléogène. Eclogae Geol.                 phie, structure géologique et évolution géodynamique. Géologie de la France 3,
+     Helv. 80, 127–140.                                                                            37–48.
+Le Bayon, B., Ballèvre, M., 2006. Deformation history of a subducted continental crust         Pairis, J.L., 1988. Paléogène marin et structuration des Alpes occidentales françaises.
+     (Gran Paradiso, Western Alps): continuing crustal shortening during exhuma-                   Doctorate thesis. Grenoble University, 501.
+     tion. J. Struct. Geol. 28, 793–815.                                                       Pairis, J.L., Campredon, R., Charollais, J., Kerckhove, C., 1984. Paléogène, Alpes. In:
+Leloup, P.H., Arnaud, N., Sobel, E.R., Lacassin, R., 2005. Alpine thermal and structural           Debrand-Passard, S., Courbouleix, S., Lienhardt, M.J. (Eds.), Synthèse géologique
+     evolution of the highest external crystalline massif: the Mont Blanc. Tectonics               du Sud-Est de la France, Mémoire Bur. Rech. Géol. Min. No. 125. , pp. 410–415.
+     24, TC4002, 26.                                                                           Pairis, J.L., Kerckhove, C., 1987. Le ﬂysch de St Clément (Haut Embrunais): un
+Lemoine, M., 1972. Rythme et modalité des plissements superposés dans les chaînes                  paléoprisme d’accrétion nummulitique dans la zone subbriançonnaise. Géologie
+     subalpines méridionales des Alpes occidentales françaises. Geol. Runschau 61,                Alpine, mémoire H.S. 13, 371–378.
+     975–1010.                                                                                 Parsy-Vincent, A., 1974. Contribution à l’étude géologique de la partie SW de la
+Lemoine, M., Bas, T., Arnaud-Vanneau, A., Arnaud, H., Dumont, T., Gidon, M., Bour-                 Balagne sédimentaire (Corse). Unpublished PhD thesis. Université Paul Sabatier,
+     bon, M., De Graciansky, P.C., Rudckiewicz, J.L., Megard-Galli, J., Tricart, P., 1986.         Toulouse, 101 p.
+     The continental margin of the Mesozoic Tethys in the Western Alps. Marine                 Pêcher, A., Barféty, J.C., Gidon, M., 1992. Structures est-ouest anténummulitiques à
+     Petroleum Geol. 3 (August (86)), 179–199.                                                     la bordure orientale du massif des Ecrins-Pelvoux (Alpes françaises). Géologie
+Lemoine, M., Dardeau, G., Delpech, P.Y., Dumont, T., de Graciansky, P.C., Graham,                  Alpine, Grenoble, Série spéciale Résumés 1, 72–73.
+     R., Jolivet, L., Roberts, D., Tricart, P., 1989. Extension syn-rift et failles trans-     Platt, J.P., Behrmann, J.H., Cunningham, P.C., Dewey, J.F., Helman, M., Parrish, M.,
+     formantes jurassiques dans les Alpes occidentales. C. R. Acad. Sci. Paris 309,                Shepley, M.G., Wallis, S., Weston, P.J., 1989a. Kinematics of the Alpine arc and
+     1711–1716.                                                                                    the motion history of Adria. Nature 337, 158–161.
+                                                                   Author's personal copy
+
+38                                                             T. Dumont et al. / Journal of Geodynamics 56–57 (2012) 18–38
+
+
+Platt, J.P., Lister, G.S., Cunningham, P., Weston, P., Peel, F., Baudin, T., Dondey, H.,         Simon-Labric, T., Rolland, Y., Dumont, T., Heymes, T., Authemayou, C., Corsini, M.,
+    1989b. Thrusting and backthrusting in the Briançonnais domain of the western                    Fornari, M., 2009. 40 Ar/39 Ar dating of Penninic Front tectonic displacement (W
+    Alps. In: Coward, M.P., Dietrich, D., Park, R.G. (Eds.), Alpine Tectonics. Geol. Soc.            Alps) during the Lower Oligocene (31–34 Ma). Terra Nova 21, 127–136.
+    Spec. Pub. No. 45. , pp. 135–152.                                                            Sinclair, H.D., 1997. Tectonostratigraphic model for underﬁlled peripheral foreland
+Polino, R., Rufﬁni, R., Ricci, B., 1991. Le molasse terziarie della collina di Torino:               basins: an Alpine perspective. G.S.A. Bull. 109, 324–346.
+    relazioni con la cinematica alpina. Atti Tic. Sc Terra 34, 85–95.                            Smith, R., Joseph, P., 2004. Onlap stratal architectures in the Gres d’Annot: geometric
+Puigdefabregas, C., Gjelberg, J., Vaksdal, M., 2004. The Gres d’Annot in the Annot                   models and controlling factors. Geol. Soc. Lond. Spec. Publ. 221, 389–399.
+    syncline: outer basin-margin onlap and associated soft-sediment deformation.                 Stampﬂi, G., Borel, G., Marchant, R., Mosar, J., 2002. Western Alps geological con-
+    Geol. Soc. Lond. Spec. Publ. 221, 367–388.                                                       straints on western Tethyan reconstructions. In: Rosenbaum, G., Lister, G.S.
+Ravenne, C., Vially, R., Riche, P., Trémolières, P., 1987. Sédimentation et tectonique               (Eds.), Reconstruction of the Evolution of the Alpine-Himalayan Orogen. J. Virtual
+    dans le bassin marin Eocène supérieur-Oligocène des Alpes du Sud. Rev. Inst.                     Explorer, vol. 7, pp. 75–104.
+    Français du Pétrole 42, 529–553.                                                            Stampﬂi, G., Mosar, J., Marquer, D., Marchant, R., 1998. Subduction and obduction
+Reddy, S.M., Wheeler, J., Butler, R.W.H., Cliff, R.A., Freeman, S., Inger, S., Pickles, C.,          processes in the Swiss Alps. Tectonophysics 296, 159–204.
+    Kelley, S.P., 2003. Kinematic reworking and exhumation within the convergent                 Stanley, D.J., 1980. The Saint-Antonin conglomerate in the Maritime Alps: A model
+    Alpine orogen. Tectonophysics 365, 77–102.                                                       for coarse sedimentation on a submarine slope. Smithsonian Contrib. Mar. Sci.
+Ricou, L.E., Siddans, A.W.B., 1986. The Western Alps. In: Coward, M.P., Ries, A.C. (Eds.),           5, 1–28.
+    Collision Tectonics. Geol. Soc. Spec. Publ. 19. , pp. 229–244.                               Steck, A., 1990. Une carte des zones de cisaillement ductile des Alpes centrales.
+Ring, U., 1995. Horizontal contraction or horizontal extension? Heterogeneous Late                   Eclogae Geol. Helv. 83, 603–627.
+    Eocene and Early Oligocene general shearing during blueschist and greenschist                Steck, A., 1998. The Maggia cross-fold: An enigmatic structure of the Lower Penninic
+    facies metamorphism at the Pennine-Austroalpine boundary zone in the West-                       nappes of the Lepontine Alps. Eclogae Geol. Helv. 91, 333–343.
+    ern Alps. Geol. Rundsch. 84, 843–859.                                                        Sue, C., Tricart, P., 2003. Neogene to ongoing normal faulting in the inner
+Rosenbaum, G., Lister, G.S, 2005. The Western Alps from the Jurassic to Oligocene:                   western Alps: a major evolution of the late Alpine tectonics. Tectonics 22,
+    spatio-temporal constraints and evolutionary reconstructions. Earth Sci. Rev.                    doi:10.1029/2002TC001426.
+    69, 281–306.                                                                                 Sztrakos, K., du Fornel, E., 2003. Stratigraphie, paléoécologie et foraminifères du
+Rosenbaum, G., Lister, G.S., Duboz, C., 2002. Relative motion of Africa, Iberia and                  paléogène des Alpes Maritimes et des Alpes de Haute-Provence (Sud-Est de la
+    Europe durin the Alpine orogeny. Tectonophysics 359, 117–129.                                    France). Rev. Micropal. Genève 46, 229–267.
+Roure, F., Choukroune, P., Polino, R., 1996. Deep seismic reﬂection data and new                 Tapponnier, P., 1977. Evolution tectonique du système alpin en Méditerrannée:
+    insights on the bulk geometry of mountain ranges. C. R. Acad. Sci. Paris 322 (2a),               poinçonnement et écrasement rigide-plastique. Bull. Soc. Géol. France 19,
+    345–359.                                                                                         437–460.
+Rubatto, D., Gebauer, D., Compagnoni, R., 1999. Dating of eclogite-facies zircons:               Tempier, C., 1987. Modèle nouveau de mise en place des structures provençales.
+    the age of Alpine metamorphism in the Sesia-Lanzo zone (Western Alps). Earth                     Bull. Soc. Géol. France 8, 1–8.
+    Planet. Sci. Lett. 167, 141–158.                                                             Thomas, J.C., Claudel, M.E., Collombet, M., Tricart, P., Chauvin, A., Dumont, T., 1999.
+Rubatto, D., Hermann, J., 2001. Exhumation as fast as subduction? Geology 29, 3–6.                   First paleomagnetic data from the sedimentary cover of the French Penninic
+Rufﬁni, R., Polino, R., Callegari, E., Hunziker, J.C., Pfeifer, H.R., 1997. Volcanic-rich tur-       Alps: evidence for Tertiary counterclockwise rotations in the Western Alps. Earth
+    bidites of the Taveyanne sandstones from the Thônes syncline (Savoie, France):                   Plan. Sci. Lett. 171, 561–574.
+    records for a Tertiary postcollisional volcanism. Schweiz. Min. Petrogr. Mitt. 77,           Tilton, G.R., Schreyer, W., Schertl, H.P., 1991. Pb–Rb–Nd isotopic behaviour of deeply
+    161–174.                                                                                         subducted crustal rocks from the Dora Maira Massif, Western Alps, Italy: what is
+Sanchez, G., Rolland, Y., Jolivet, M., Brichau, S., Corsini, M., Carter, A., 2011a. Exhuma-          the age of the ultrahigh-pressure metamorphism? Contrib. Mineral. Petrol. 108,
+    tion controlled by transcurrent tectonics: the Argentera-Mercantour massif (SW                   22–33.
+    Alps). Terra Nova 23, 116–126, doi:10.1111/j. 1365-3121.2011.00991.x.                        Tricart, P., 1980. Tectoniques superposées dans les Alpes occidentales, au sud du
+Sanchez, G., Rolland, Y., Schneider, J., Corsini, M., Oliot, E., Goncalves, P., Verati,              Pelvoux. Evolution structurale d’une chaîne de collision. Thèse de Doctorat
+    C., Lardeaux, J.M., Marquer, D., 2011b. Dating low temperature deformation by                    d’Etat. Strasbourg, 407.
+    40
+       Ar/39 Ar on white micas, insights from the Argentera-Mercantour massif (SW                Tricart, P., Schwartz, S., 2006. A north-south section across the Queyras Schistes
+    Alps). Lithos, doi:10.1016/j.lithos.2011.03.009.                                                 lustrés (Piedmont zone, western Alps): Syn-collision refolding of a subduction
+Schlunegger, F., Willett, S., 1999. Spatial and temporal variations in exhumation of                 wedge. Eclogae Geol. Helv. 99, 429–442.
+    the Central Swiss Alps and implications for denudation mechanisms. In: Geol.                 Tricart, P., Schwartz, S., Sue, C., Poupeau, G., Lardeaux, J.M., 2000. La dénudation
+    Soc. Lond. Spec. Publ. No. 154, Exhumation Processes, pp. 157–179.                               tectonique de la zone ultradauphinoise et l’inversion du front briançonnais au
+Schmid, S.M., Aebli, H.R., Heller, F., Zingg, A., 1989. The role of the Periadriatic Line in         sud-est du Pelvoux (Alpes occidentales): une dynamique miocène à actuelle. Bull.
+    the tectonic evolution of the Alps. In: Coward, M.P., Dietrich, D., Park, R.G. (Eds.),           Soc. Géol. France 172, 49–58.
+    Alpine Tectonics, Geol. Soc. Spec. Publication No. 45. , pp. 153–171.                        Varrone, D., d’Atri, A., 2007. Acervulinid macroid and rhodolith facies in the Eocene
+Schmid, S., Berger, A., Davidson, C., Giere, R., Hermann, J., Nievergelt, P.,                        Nummulitic Limestone of the Dauphinois Domain (Maritime Alps, Liguria, Italy).
+    Puschnig, A.R., Rosenberg, C., 1996. The Bergell pluton (Southern Switzerland,                   Swiss J. Geosci. 100, 503–515.
+    Northern Italy): overview accompanying a geological-tectonic map of the                      Vernant, P., Masson, F., Bayer, R., Paul, A., 2002. Sequential inversion of local earth-
+    intrusion and surrounding country rocks. Schweiz. Min. Petrogr. Mitt. 76,                        quake traveltimes and gravity anomaly – the example of the western Alps.
+    329–355.                                                                                         Geophys. J. Int. 150, 79–90.
+Schmid, S., Fügenschuh, B., Kissling, E., Schuster, R., 2004. Tectonic map and overall           Vernet, J., 1966. Observations nouvelles sur le synclinal d’Ailefroide et les bordures
+    architecture of the Alpine orogen. Eclogae Geol. Helv. 97, 93–117.                               du massif du Pelvoux en Vallouise. Trav. Lab. Géol. Grenoble 42, 275–280.
+Schmid, S.M., Kissling, E., 2000. The arc of the western Alps in the light of geophysical        Vialon, P., Rochette, P., Ménard, G., 1989. Indentation and rotation in the western
+    data on deep crustal structure. Tectonics 19, 62–85.                                             Alpine arc. In: Coward, M.P., Dietrich, D., Park, R.G. (Eds.), Alpine Tectonics, Geol.
+Schmid, S.M., Zingg, A., Handy, M., 1987. The kinematics of movements along the                      Soc. Lond. Spec. Publ. 45. , pp. 329–338.
+    Insubric Line and the emplacement of the Ivrea Zone. Tectonophysics 135,                     Vignaroli, G., Faccenna, C., Jolivet, L., Piromallo, C., Rossetti, F., 2008. Subduction
+    47–66.                                                                                           polarity reversal at the junction between the Western Alps and the Northern
+Schreiber, D., Lardeaux, J.M., Martelet, G., Courrioux, G., Guillen, A., 2010. 3-                    Apennines, Italy. Tectonophysics 450, 34–50.
+    D modelling of Alpine Mohos in Southwestern Alps. Geophys. J. Int. 180,                      Vignaroli, G., Faccenna, C., Rossetti, F., Jolivet, L., 2009. Insights from the Apennines
+    961–975.                                                                                         metamorphic complexes and their bearing on the kinematics evolution of the
+Schwartz, S., Guillot, S., Tricart, P., Bernet, M., Jourdan, S., Dumont, T., Montagnac, G.           orogen. Geol. Soc. Lond. Spec. Publ. 311, 235–256.
+    Source tracing of detrital serpentinite in the Oligocene molasse deposits from               Von Blankenburg, F., Davies, J.H., 1995. Slab breakoff: a model for syncollisional
+    Western Alps (Barrême basin): implications for relief formation in the Internal                  magmatism and tectonics in the Alps. Tectonics 14, 120–131.
+    Zone. Geol. Mag., submitted for publication.                                                 Vuagnat, M., 1985. Les grès de Taveyanne et roches similaires: vestiges d’une activité
+Schwartz, S., Lardeaux, J.M., Tricart, P., Guillot, S., Labrin, E., 2007. Diachronous                magmatique tardi-alpine. Mem. Soc. Géol. Ital. 26, 39–53.
+    exhumation of HP-LT metamorphic rocks from south-western Alps: evidence                      Waibel, A.F., 1990. Sedimentology, petrographic variability and very-low-grade
+    from ﬁssion-tracks analysis. Terra Nova 19, 133–140.                                             metamorphism of the Champsaur sandstone (Paleogene, Hautes Alpes, France).
+Schwartz, S., Tricart, P., Lardeaux, J.M., Guillot, S., Vidal, O., 2009. Late tectonic and           PhD thesis. Geneva, 140.
+    metamorphic evolution of the Piedmont accretionary wedge (Queyras Schistes                   Waldhauser, F., Lippitsch, R., Kissling, E., Ansorge, J., 2002. High-resolution tomog-
+    lustres, western Alps): evidences for tilting during Alpine collision. Geol. Soc.                raphy of upper-mantle structure using an a priori three-dimensional crustal
+    Am. Bull. 121, 502–518.                                                                          model. Geophys. J. Int. 150, 403–414.
+Seno, S., Dallagiovanna, G., Vanossi, M., 2005. A kinematic evolutionary model for               Ziegler, P.A., 1989. Geodynamic model for Alpine intra-plate compressional defor-
+    the Penninic sector of the Ligurian Alps. Int. J. Earth Sci. 94, 114–129.                        mation in Western and Central Europe. Geol. Soc. Lond. Spec. Publ. 44, 63–85.
+Siegesmund, S., Layer, P., Dunkl, I., Vollbrecht, A., Steenken, A., Wemmer, K., Ahrendt,         Zimmermann, R., Hammerschmidt, K., Franz, G., 1994. Eocene high pressure meta-
+    H., 2008. Exhumation and deformation history of the lower crustal section of the                 morphism in the Pennine units of the Tauern window (Eastern Alps): evidence
+    Valstrona di Omegna in tne Ivrea Zone, southern Alps. Geol. Soc. Lond. Spec. Publ.               from 40 Ar–39 Ar dating and petrological investigations. Contrib. Miner. Petrol.
+    298, 45–68.                                                                                      117, 175–186.
+

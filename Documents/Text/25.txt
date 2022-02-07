@@ -1,0 +1,874 @@
+                                                Marine Geology 234 (2006) 21 – 42
+                                                                                                            www.elsevier.com/locate/margeo
+
+
+
+
+Shoreface migrations at the shelf edge and sea-level changes around
+  the Last Glacial Maximum (Gulf of Lions, NW Mediterranean)
+G. Jouet a,b,⁎, S. Berné a , M. Rabineau b , M.A. Bassetti a , P. Bernier c , B. Dennielou a ,
+                         F.J. Sierro d , J.A. Flores d , M. Taviani e
+                                         a
+                                        Géosciences Marines, IFREMER, BP 70, Plouzané, France
+                                    b
+                                   UMR-CNRS 6538 Domaines Océaniques, I.U.E.M., Plouzané, France
+               c
+                   UMR-CNRS 5125 Paléoenvironnements et Paléobiosphère, Université C. Bernard Lyon1, Villeurbanne, France
+                               d
+                                 Universidad de Salamanca, Departamento de Geología, Salamanca, Spain
+                                            e
+                                              ISMAR-CNR, Via P. Gobetti, 101 Bologna, Italy
+                                                         Accepted 5 September 2006
+
+
+
+
+Abstract
+
+     The Bourcart–Hérault canyon interfluve in the Gulf of Lions (NW Mediterranean) was the site of very high sedimentation (up to
+2.5 m/kyr) around the Last Glacial Maximum, due to the vicinity of major fluvial systems that fed the shelf edge. Shoreface deposits
+and offshore muds deposited during each glacial/interglacial 100 kyr-cycle, created a repeated motif with high-angle and low-angle
+clinoforms on seismic profiles. New detailed morphological, sedimentological and paleo-environmental data, constrained by 14C
+dating, allow us to propose a scenario for the evolution of this critical area between 46 and 15 cal. kyr BP. The major seismic sequence
+(S5), formed as a forced regression during the overall sea-level fall between MIS-3 and MIS-2, can be sub-divided into several
+prograding units, which indicate that relative sea-level changes were punctuated by intervals of increased fall or slow-down, or even
+stillstand. Similarly, the onset of sea-level rise was marked by steps, during which wave-cut terraces formed, and can be tracked all
+around the Gulf of Lions. Three stillstands or slow-downs of sea-level change are identified and dated by deposits found at 90 m
+relative sea-level (21 cal. kyr BP), 110–115 m rsl (18–17 cal. kyr BP), and 98–105 m rsl (before 15.9 cal. kyr BP). Cementation of
+beach rocks, that now form eroded pinnacles culminating at 90 m, occurred during the 21 kyr stillstand. The position of relative sea-
+level during the maximum lowstand is not known, but should be deeper than 115 m. Periods of increased northwesterly winds
+favoured transport of coarser sediment at the shelf edge, in relation with deep water cascading: this created a distinct sandy interval
+during the period of Heinrich event 2 (around 24 cal. kyr BP), at the origin of amplitude anomaly on very high-resolution seismic data.
+The increased sea-level rise, around 15 cal. kyr BP, resulted in an abrupt decrease of sedimentation.
+© 2006 Elsevier B.V. All rights reserved.
+
+Keywords: Last Glacial Maximum; relative sea-level; high-resolution sedimentary record; Western Mediterranean; Heinrich events
+
+
+
+
+                                                                           1. Introduction
+
+ ⁎ Corresponding author. Géosciences Marines, IFREMER, BP 70,
+                                                                              During the last two decades, a sub-continuous record
+Plouzané, France. Tel.: +33 2 98 22 48 19 or +33 2 98 49 87 17;
+                                                                           of Quaternary paleoclimatic evolution has been obtained
+fax: +33 2 98 22 45 70.                                                    from marine and continental studies or ice cores. The
+    E-mail address: gjouet@ifremer.fr (G. Jouet).                          important climatic changes, which were amplified since
+0025-3227/$ - see front matter © 2006 Elsevier B.V. All rights reserved.
+doi:10.1016/j.margeo.2006.09.012
+22                                              G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+900 kyr (MIS-22/23, Ruddiman et al., 1986; Thunell                             method using a geological approach is presented, based
+et al., 1991), led to dramatic variations in sea-level and                     on data collected in Western Mediterranean area.
+oceanic circulation, sediment erosion and transport;                              The Gulf of Lions (Fig. 1) is a passive continental
+these changes have had a major impact on the archi-                            margin that is located far from main ice-sheets, with a
+tecture and sedimentary environments of continental                            relatively constant subsidence rate and a high sediment
+margins. The relative sea-level changes can be deduced                         supply; it therefore represents an ideal area for studying
+from the oxygen isotope ratio (δ18O) of foraminifera                           the impact of sea-level changes on sedimentary strata
+(Imbrie et al., 1984; Martinson et al., 1987; Labeyrie,                        and sequences. The main sediment source is from the
+1987, 1989; Shackleton, 2000; Waelbroeck et al., 2002),                        alpine glaciers and the Rhône watershed (100,000 km2),
+and the “isotopic” sea-level curves are constrained by                         with additional supply from the Pyrénées and Massif
+coral reefs studies (Fairbanks, 1989; Bard et al., 1990;                       Central rivers (Aude, Agly, Tech, Têt, Orb and Hérault,
+Chappell and Polach, 1991; Bard et al., 1996). Sea-level                       in Fig. 1). The combination of high sedimentation
+is, thus, inferred from species living only at a given                         supply and significant subsidence rate (250 m/Myr at
+water depth and their relative position with respect to a                      the shelf edge, Rabineau, 2001) generates the progres-
+reference level (e.g. present day sea level). Nevertheless,                    sive filling of available space, and the preservation of
+all of these methods have intrinsic uncertainties and                          the depositional sequences at the shelf edge. It is also
+there is a need of independent documentation of sea-                           well-documented that part of the remaining sediment
+level position. In this paper, a sea-level estimation                          supply is bypassed and feeds the prograding continental
+
+
+
+
+Fig. 1. Geographic and hydrographic settings of the Gulf of Lions. The present day morphology and the sand distribution on the continental shelf
+(Aloïsi, 1986) illustrate the effect of the last deglacial sea-level rise with (1) Pleistocene prodeltaic/lower shoreface muds beyond about 120 m water
+depth, (2) Pleistocene shoreface sands between about 80 m and 120 m water depth, (3) a deglacial littoral prism with prodeltaic muds (between about
+20 and 80 m water depth) and shoreface sands (between the coastline and about 20 m water depth). The general circulation is mainly driven by the
+anti-clockwise flow of the Liguro-Provençal or Northern Current (Millot, 1990). Seismic profiles and sediment cores are localised on the Bourcart–
+Hérault interfluve. BC: Bourcart Canyon; HC: Hérault Canyon.
+                                                G. Jouet et al. / Marine Geology 234 (2006) 21–42                                                  23
+
+
+slope (Lofi et al., 2003), the Rhône deep sea fan (Droz                       sequence. On the other hand, the Plio-Quaternary
+and Bellaiche, 1985) and the Pyreneo–Languedocian                             sedimentation was characterized by important margin
+sedimentary ridge (Berné et al., 1999).                                       progradation (about 70 km in about 5 Myr; Lofi et al.,
+   The objective of this paper is to investigate the                          2003). On the basis of recent seismic investigations, the
+architecture of prodeltaic/shoreface sediments deposited                      Upper Quaternary sequences are observed to show the
+around the Last Glacial Maximum (between 46 and                               stacking of several prograding wedges bounded by
+15 cal. kyr BP) at the shelf edge, and to propose a scenario                  discontinuities (D30, D40, D50, D60 and D70 in Fig. 2)
+for sea-level oscillations during this period.                                they converge in a landward direction, with a pinch out at
+                                                                              about 80 m water depth. In detail, the prograding wedges
+2. Geological and environmental settings                                      display two major types of seismic facies: (1) PI prisms
+                                                                              with gently dipping clinoforms (b 1°), and (2) PII prisms
+2.1. Stratigraphic organisation of the Gulf of Lions                          with relatively high-angle clinoforms (from 3° to 7°). This
+continental margin                                                            elementary motif (PI/PII) is repeated vertically and
+                                                                              allowed to define 5 major sequences (S1 to S5; Rabineau
+    The Palaeozoic and Mesozoic metamorphic basement                          et al., 2005) bounded by major discontinuities (Fig. 2).
+of the Rhône margin (Biju-Duval, 1984) is covered by                          The regressive deposits represent the most significant
+a Neogene to Quaternary sedimentary mega-sequence                             element constituting outer shelf sequences, when in fact
+(Bentounsi, 1990; Gorini et al., 1993; Gueguen, 1995;                         the transgressive deposits are limited to a thin veneer of
+Sioni, 1997). The margin was formed after a period of                         reworked sands that top the regressive shoreface deposits
+rifting during the Oligocene–Aquitanian, followed by                          (Berné et al., 1998; Bassetti et al., 2006-this volume).
+deposition of thick Neogene sequences (see the review by                      Some authors considered that each of these wedges
+Berné and Gorini, 2005). At the end of the Miocene, the                       corresponded to 100 kyr-glacio-eustatic cyles (Aloïsi,
+Messinian salinity crisis (Hsü et al., 1973; Clauzon, 1974)                   1986; Rabineau, 2001), whereas others proposed that
+represented a major event all over the Mediterranean: a                       they were linked to higher-frequency (20–40 kyr) cycli-
+sea-level drawdown led to a pronounced erosion surface                        cities (Tesson et al., 1993; Gensous et al., 1993; Tesson et
+on the margins and deposition of deep-basin evaporitic                        al., 1994; Gensous and Tesson, 1996). Stratigraphic
+
+
+
+
+Fig. 2. Stratigraphic interpretation from high-resolution Sparker seismic lines P-1110 (position in Fig. 1). A) The NW–SE transect across the platform
+illustrates the stacking of the last 5 sedimentary sequences (S1 to S5) bounded by major discontinuities (D30 to D70). Vwater = 1500 m.s− 1 and
+Vsed = 1600 m.s− 1 are used for depth conversions. B) Recognition of the sedimentary motif (modified from Rabineau et al., 2005). Deposits are
+organized with a horizontal motif consisting of: (1) PI prisms with gently dipping clinoforms (b1°) and (2) PII prisms with relatively high-angle
+clinoforms (from 3 to 7°). Thin black lines are time-lines. PI corresponds to the seaward termination of PII, beyond the action of waves, and could be
+partly preserved during a general sea-level fall, whereas PII is seaward transferred due to the regressive erosion. C) Correlation between the
+sedimentary sequences on the shelf and the last 5 glacial/interglacial 100 kyr-glacio-eustatic cycles (Rabineau et al., 2005). Each major erosional
+surface (D30 to D70) corresponds to a relative low sea-level of the Specmap eustatic curve (Imbrie et al., 1984).
+24                                       G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+modelling supports the 100-kyr hypothesis because other             Alboran Sea, Cacho et al. (1999) suggested that, during
+explanations would imply unrealistic subsidence rates               Heinrich events 1–5, polar waters reached the Mediter-
+(Rabineau et al., 2005).                                            ranean Sea through the Strait of Gibraltar and induced a
+   The present day morphology of the continental shelf              weakening of the thermohaline circulation. The modelling
+clearly illustrates the effect of the lowest sea-level during       of paleocirculation at the LGM (Myers et al., 1999)
+glacial and the deglacial sea-level rise (Fig. 1) with (1)          indicates a similar direction in the Liguro–Provençal
+Pleistocene lowstand shoreface sands between about                  current but certainly amplified by the low sea-level.
+80 m and 120 m water depth, (2) Pleistocene lowstand                Similarly, on the continent, the reduced evaporation and
+prodeltaic/lower shoreface muds beyond about 120 m                  the strengthening of storms would lead to a decrease in
+water depth and (3) the deglacial (transgressive and high-          precipitation and change in the hydrological cycle (Bartov
+stand) littoral prism (Aloïsi et al., 1977) with prodeltaic         et al., 2002). The low temperatures and a significant
+muds (between about 20 and 80 m water depth) and                    increase in wind intensity (Myers et al., 1999) resulted in
+shoreface sands (between the coastline and about 20 m).             enhanced wind erosion of the watershed during LGM
+                                                                    (Ehlers, 1996). It has been proposed that the sedimentary
+2.2. Hydrodynamics                                                  flux, during the maximum of glaciation, was 3 to 3.5 times
+                                                                    greater than the present one (Bossuet et al., 1996).
+   The Gulf of Lions is a wave-dominated shelf with                    During the last glacial cycle, the Mediterranean Sea
+moderate energy. However, wave heights associated to                was connected to the global ocean and therefore fol-
+SE winds can be in excess of 8 m with periods of about              lowed the same trends for absolute sea-level changes
+10 s. During winter, dominant N and NNW winds                       (Fig. 3). The various isotopically-derived sea-level
+(Mistral and Tramontane) generate cascading of cold                 curves for the last 120 kyr (Labeyrie, 1987, 1989;
+dense water with strong associated currents, especially             Shackleton, 2000; Waelbroeck et al., 2002; Siddall et al.,
+in canyon heads situated to the SW of the Gulf of Lions             2003) display a general fall until the LGM, punctuated
+(Palanques et al., 2006-this volume). The general                   by high-frequency changes; these sea-level curves have
+circulation (Fig. 1) is mainly governed by the anti-                been constrained in depth by coral reefs studies
+clockwise flow of the Liguro–Provençal or Northern                  (Fairbanks, 1989; Bard et al., 1990, 1996) and ice-cap
+Current (Millot, 1990). This current roughly follows the            volume estimations (Shackleton, 1977). However,
+shelf edge, but it locally deviates in relation with sea-           differences in the order of 40 m remain between various
+floor morphology, creating secondary anti-cyclonic                  data sets, as summarized in Fig. 3. And the last low sea-
+gyres extending to the upper part of the canyons and                level (isotopic stage 2) is generally set around 110 and
+sweeping the interfluves (Durrieu de Madron, 1992).                 120 m below present sea-level, but estimates going from
+The hydrodynamism on the platform is slightly                       90 to 150 m were proposed (Shackleton, 1977; Fair-
+modified and locally associated to the coastal wind                 banks, 1989; Bard et al., 1990; Lambeck and Bard, 2000;
+and swell-induced currents (Millot, 1990, 1999).                    Clark and Mix, 2002).
+
+2.3. Climate and sea-level changes during the Last                  3. Methods
+Glacial Cycle
+                                                                       The study area was surveyed in great detail in prep-
+    The Quaternary is characterized by cyclic climate and           aration of a scientific drilling expedition as part of the
+sea-level changes (Shackleton, 1987) that strongly impact           European “PROMESS 1” project (Berné et al., 2004).
+the sedimentary architecture of continental margins.                The available data, acquired on board R/V “L'Atalante”,
+Within these Milankovitch cycles, more rapid fluctuations           R/V “Le Suroît” and R/V “L'Europe”, include very
+in δ18O have been identified at the millennial scale                precise swath bathymetric data from Simrad EM12D,
+(Dansgaard et al., 1993); the Dansgaard–Oeschger os-                EM300, and EM1000. Seismic data presented in this
+cillations (D/O) determine asymmetrical cycles with a               paper include Sparker and mud penetrator (Chirp)
+progressive cooling at a regional scale followed-up by an           sources (Figs. 1 and 4). The vertical resolution of the
+abrupt increase of temperatures (Bond et al., 1993). The            single-channel Sparker (700 Joules, 500 to 2000 Hz) is
+coldest intervals occur during Heinrich events (Ruddi-              around 1 m, whereas that of the hull-mounted Chirp
+man, 1977; Heinrich, 1988), approximately every 11 kyr              system of R/V “Le Suroît” (2000 to 5200 Hz system) is
+(Bond et al., 1992). Even if the Mediterranean Sea lies far         in the range of 50 cm. A long impulse (50 ms) was
+from the former ice sheets, these events are identified             linearly modulated in time and frequency (Schock et al.,
+within Mediterranean sediments. For instance, in the                1989). To improve the signal/noise ratio, the raw data
+                                                  G. Jouet et al. / Marine Geology 234 (2006) 21–42                                                        25
+
+
+were processed with the Ifremer SITHERE program                                    4. Results
+(Lericolais et al., 1990). The interpretation of seismic
+profiles was implemented using the general principles of                           4.1. Morphology of the study area
+seismic stratigraphy (Mitchum et al., 1977).
+    Several piston cores, including the “giant” piston corer                          The study area is located between 90 and 350 m
+of R/V “Marion Dufresne”, were retrieved from the                                  water depth, in the vicinity of the Bourcart (Aude) and
+study area, with penetration reaching more than 20 m in                            Hérault canyons (Fig. 4). Along the interfluve, the shelf
+soft sediments or alternating sands and silts, but less than                       break is positioned at 180 m depth, whereas it is only at
+3 m in massive sands, even with vibro-corers. These                                about 110 m at the position of canyon heads. Both sides
+cores are located along a transect across the canyon                               of the canyon interfluve are affected by slump scars.
+interfluve (Fig. 4). Physical properties were first                                The smooth morphology of this region is disturbed by
+measured onboard using the MSCL-GEOTEK (Multi                                      several pockmarks, often aligned along preferential
+Sensor Core Logging system). They were split, described                            direction.
+and sampled for multi-proxy studies. Radiometric dates
+were obtained with accelerator mass spectrometer (AMS)                             4.1.1. Shelf scarps
+14
+   C dating of well-preserved shells. AMS measurements                                Besides the shelf break, a major scarp, about 10 m
+were made at Lawrence Livermore National Laboratory                                high is observed in the study area. Its average slope is
+(CAMS) and at Poznan Radiocarbon Laboratory (PRL)                                  about 4°, compared to the average 0.13° slope of the
+(Table 1). The ages reported herein are δ13C-normalised                            outer continental shelf. The top of the scarp is at a water
+conventional 14C years, corrected for an assumed air–sea                           depth of 110 to 115 m, except in the vicinity of the
+reservoir effect of 400 yr, then converted into calibrated                         Bourcart canyon, where it is at a depth of about 120 m.
+ages using the Calib. v4.4 version (Stuiver et al., 1998),                         Another step, best observed on seismic profiles (Fig. 7),
+and the Glacial polynomial (Bard et al., 1998).                                    has its top at a depth of 98 to 105 m; these two steps can
+
+
+
+
+Fig. 3. Global sea-level changes according to different authors for the last 120 kyr, and for the 35–10 kyr period, based on isotopic studies, coral reef
+studies, or interpretation of paleodelta fronts (Imbrie et al., 1984; Labeyrie, 1987, 1989; Fairbanks, 1989; Bard et al., 1990; Bassinot et al., 1994; Rohling
+et al., 1998; Skene et al., 1998; Shackleton, 2000; Waelbroeck et al., 2002; Siddall et al., 2003). The right axis represents the mean ocean sea-level derived
+by Shackleton (2000) from atmospheric δ18O. Note the differences between various curves in the order of 40 m during Marine Isotope Stage 3 and 2.
+26                                              G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+be observed throughout the Gulf of Lions (Berné et al.,                       90 m and located to the East of the Hérault canyon; they
+2002; Fig. 1) at similar water depths.                                        indicate a maximum over-consolidation of muds under-
+   These scarps correspond to the transition between                          lying the eroded shoreface sands of about 30 m (Baztan,
+two major sedimentary units:                                                  2004).
+
+– “relict offshore sands” that formed during the Last                         4.1.3. Fluvial network and canyon incisions
+  Glacial cycle forced regressions and represent high                             A paleo-network of reliefs, attributed to the retreat path
+  energy shoreface deposits;                                                  of streams during the deglacial sea-level rise, has already
+– offshore/prodeltaic muds that represent the distal                          been described all over the continental shelf (Berné et al.,
+  (seaward) equivalent to the upper shoreface sands                           2002), and more specifically on the Bourcart–Hérault
+  (Rabineau et al., 1998; Berné, 1999).                                       interfluve (Rabineau, 2001). The connection between
+                                                                              canyon heads and streams during the Last Glacial
+4.1.2. Cemented sands                                                         Maximum is demonstrated by axial incisions within the
+    Another striking morphological feature in the study                       Bourcart and Hérault-2 and Hérault-3 canyons (Baztan
+area corresponds to an area of elongated relief parallel to                   et al., 2005). In fact, the so-called Hérault canyon was
+bathymetric contour lines, culminating at 90 ± 0.5 m                          connected during LGM to the Rhône (Berné et al., 2004),
+water depth (based on very detailed swath bathymetric                         the Hérault being a tributary of the Rhône at that time; this
+data), up to 20 m above the surrounding sea-floor                             major stream built a shelf edge delta that can be identified
+(Fig. 5A). It has a lateral extent of more than 7 km and a                    on the basis of bathymetric data, as showed in Fig. 4B (1).
+width of about 300 m. Seismic profiles (Section 4.2)                          Similarly, another stream (Aude or Agly), flowing from
+show that it tops the clinoforms of the upper shoreface                       the West, reached the western flank of the Bourcart
+sand facies, and that erosion occurred, particularly at the                   canyon and was at the origin of axial incision within the
+bottom of the landward flank of the relief. A sample was                      canyon head (2 in Fig. 4B). Seismic data presented in
+dredged at the top of this ridge and shows that it com-                       Section 4.2 indicate that a stream reached the interfluve
+prises coarse siliciclastic sands cemented by small crys-                     and fed an eastern branch of the Bourcart canyon head
+tals of high-magnesian calcite during early diagenetic                        (3 in Fig. 4B), but this is not observable in the present day
+processes. The grain fabric, the petrographic, and geo-                       morphology.
+chemical nature of the cement indicate that cementation
+occurred in the phreatic zone, with a slight influence of                     4.1.4. Dunes
+brackish water, thus implying a formation in the vicinity                        All the sandy deposits, interpreted as the result of
+of the shoreline with possible lagoonal influence (Bernier                    deglacial and modern processes, are shaped by low
+et al., 2000). This observation rules out the possibility                     amplitude (2–3 m) bedforms (dunes and sand ridges)
+that these lithified sands could be gresified aeolian dunes                   with a main East–West long axis (Bassetti et al., 2006-
+as observed in the Eastern Mediterranean (Almagor,                            this volume).
+1979) or on the South Florida margin (Locker et al.,                             In summary, all information confirms that the study
+1996). A 14C date of the cement extracted and separated                       area was impacted by the outbuilding of a major deltaic/
+from carbonates by density (in order to avoid contam-                         shoreface system during the Last Glacial period.
+ination by carbonate fragments of biogenic or detritic
+origin) indicates a precise diagenetic age of cementation                     4.2. Seismic architecture of the last glacial depositional
+of 17,785 ± 240 14C yr BP (21 cal. kyr BP). The presence                      sequence
+of beach rocks above the shoreface sands, at 90 m below
+modern sea-level, can only be explained by erosion that                          Within the Last Glacial seismic sequence (S5 in
+would have removed up to 20 m of sediment. This                               Fig. 2A), several sub-units can be identified thanks to the
+estimate is confirmed by geotechnical measurements                            very dense seismic coverage of the high resolution,
+around other pinnacles, culminating at the same depth of                      newly acquired Sparker and Chirp data (Figs. 4, 6 and 7).
+
+
+Fig. 4. A) Swath bathymetric map of the Bourcart–Hérault interfluve, based on EM1000 and EM 300 swath bathymetric data. The study area is
+comprised between 90 and 350 m water depth, in the vicinity of the Bourcart (Aude) and Hérault canyons. Sparker and mud penetrator (Chirp)
+seismic data include a NW–SE transect along the canyon interfluve sampled by sediment cores. B) Morphological interpretation. The Hérault
+canyon was connected during LGM to the Rhône (1). Similarly, another stream (Aude, Agly or Hérault), flowing from the West (2), reached the
+western flank of the Bourcart canyon. Seismic data also indicate that a stream (3) flowed to the interfluve, and fed an eastern branch of the Bourcart
+canyon head. Besides the shelf break, major scarp are observed at a water depth of 98–105 m and 110–115 m.
+G. Jouet et al. / Marine Geology 234 (2006) 21–42   27
+28                                             G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+Table 1
+Summary of the dated samples used for this study
+Depth (cm)    Material              Laboratory #      Dating technique     Corrected C14 ages     Calibrated age (yr B.P.)    Calibration reference
+                                                                           (yr B.P.)
+MD99-2350                                             Depth: 2.57 mbsf–water depth: 98 m–location: 42.91067 N–003.67733 E
+43            Shell                 Ly-11901          Conventional      10,315+/− 60          11,683-11,891 (38%)      Stuiver et al. (1998)
+                                                                                              11,901-12,145 (51%)
+53–54         Mytilus spp.          LLNL-98906        AMS               23,770+/− 140         28,405 (28,244–28,565) Bard et al. (1998)
+240           Chlamys               Poz-7860          AMS               39,800+/− 800         45,549 (44,707–46,386) Bard et al. (1998)
+              opercularis
+
+“Pierres de Sètes” CLDR9701 (Bernier et al., 2000)    Depth: Sea floor–water depth: 95–108 m–location: north of Bourcart canyon
+0                                Ly-91146             AMS                13,220+/− 130        15,499-16,071              Stuiver et al. (1998)
+0                                Ly-91145             AMS                17,780+/− 170        20,645-21,403              Stuiver et al. (1998)
+0                                Ly-9987              AMS                17,385+/− 240        20,148-20,991              Stuiver et al. (1998)
+
+MD99-2349                                             Depth: 18.62 mbsf–water depth: 128 m–location: 42.82117 N–003.72383 E
+397           Benthic               Poz-7851          AMS               17,340+/− 90          20,183-20,852            Stuiver et al. (1998)
+              Foraminifera
+              + Ostracods
+535–538       Arctica islandica     Ly-11900          Conventional         19,235+/− 150          22,294-23,104               Stuiver et al. (1998)
+902           Cyclichna spp.        Poz-7852          AMS                  20,570+/− 100          24,131 (24,014–24,247)      Bard et al. (1998)
+1074          Corbula Gibba         LLNL-96163        AMS                  20,750+/− 70           24,460 (24,376–24,539)      Bard et al. (1998)
+1218          Nucula spp.           Poz-7854          AMS                  21,190+/− 100          24,969 (24,853–25,085)      Bard et al. (1998)
+1736–1738     Foraminifera spp.     LLNL-96165        AMS                  35,500+/− 800          40,979 (40,117–41,838)      Bard et al. (1998)
+
+CLKS-11 (Rabineau, 2001)                              Depth: 7.04 mbsf–water depth: 157 m–location: 42.74983 N–003.78267 E
+216–219     Serpulid tubes          LYON-803          Conventional      16,585+/− 110         19,318–19,980            Stuiver et al. (1998)
+236–239     Serpulid tubes          LYON-804          Conventional      17,045+/− 100         19,844–20,513            Stuiver et al. (1998)
+
+MD99-2348                                             Depth: 22.77 mbsf–water depth: 296 m–location: 42.69300 N–003.84167 E
+25            nc.                   Univ-Salam.       AMS               12,620                14,497                   Stuiver et al. (1998)
+80            Foraminifera   spp.   LLNL-108010       AMS               13,950+/− 60          16,377–16,857            Stuiver et al. (1998)
+190           Foraminifera   spp.   LLNL-108011       AMS               14,240+/− 60          16,704–17,197            Stuiver et al. (1998)
+300           Foraminifera   spp.   LLNL-108012       AMS               14,980+/− 70          17,531–18,074            Stuiver et al. (1998)
+518           Foraminifera   spp.   LLNL-108014       AMS               15,490+/− 70          18,101–18,677            Stuiver et al. (1998)
+1018          Foraminifera   spp.   LLNL-108015       AMS               17,510+/− 80          20,380–21,047            Stuiver et al. (1998)
+1231          nc.                   Univ-Salam.       AMS               17,660                20,886                   Stuiver et al. (1998)
+1498          Foraminifera   spp.   LLNL-108016       AMS               19,350+/− 90          22,447–23,216            Stuiver et al. (1998)
+1680–1681     Bulk                  LLNL-77703        AMS               20,160+/− 80          23,763 (23,358–24,193) Bard et al. (1998)
+              Foraminifera   spp.
+Absolute dates were obtained with accelerator mass spectrometer (AMS) 14C dating of well-preserved shells and microfauna. AMS measurements
+were made at Lawrence Livermore National Laboratory (LLNL), and at Poznan Radiocarbon Laboratory (PRL). The conventional radiocarbon datings
+were done by “Centre de datation par le radiocarbone - Université Claude Bernard Lyon1” (Ly) and “Bureau de Recherches Géologiques et Minières”
+(BRGM). The ages reported herein are δ13C-normalised conventional 14C years, corrected for an assumed air–sea reservoir effect of − 400 yr, and then
+converted into calibrated ages using the Calib v4.4 version (marine98.14c; Stuiver et al., 1998), and the Glacial polynomial (Bard et al., 1998).
+
+
+   The basal unit (U147) displays sub-parallel, contin-                      in the seaward direction (Fig. 7). Consequently, U147
+uous and very gently dipping reflections, with alternat-                     thickens in the offshore direction. The amount of erosion
+ing high and low amplitude reflection facies (Fig. 7).                       can be estimated on the basis of the truncation of
+Landward, it presents higher angle geometries (Fig. 8).                      successive reflections up to 10 m in the upper part of the
+The lower boundary of U147 is the major erosional                            interfluve. The seaward migration of the offlap break and
+surface (D60) correlated at the regional scale (Fig. 2) and                  the downlaps within U147 together with the erosion of
+interpreted as the regressive surface of erosion that                        the topsets in the landward portion demonstrate a general
+formed during Marine Isotope Stage 6 (Rabineau et al.,                       progradation of the depositional system (Figs. 6 and 7).
+2005). The upper boundary (D63) is an erosional trun-                           The upward transition (from U147 to U151) is marked
+cation in the proximal part of the interfluve, down to                       by a dramatic change in clinoform geometries with
+about 145 m below sea-level, and becomes conformable                         low angle clinoforms of U147 rapidly passing to high
+                                                G. Jouet et al. / Marine Geology 234 (2006) 21–42                                                  29
+
+
+
+
+Fig. 5. A) Close-up view of the “Pierres de Sète” zone. This elongated relief (7 km lateral extent and 300 m width) is parallel to bathymetric contour
+lines, and culminates at 90 ± 0.5 m water depth (20 m above the surrounding sea-floor). B) Seismic profile P-1005 and C) its interpretation show that
+cemented sands top the clinoforms of the upper shoreface sand facies, and that erosion occurred, especially at the bottom of the landward flank of the
+relief. A sample was dredged at the top of this ridge (CLDR01) and shows that it is made of coarse silicoclastic sands cemented during early
+diagenetic processes with an age of cementation of 17,785 ± 240 14C yr BP (21 cal. kyr BP).
+
+
+angle clinoforms of the upper sandy shoreface facies                          about 300 m, an average height of 1.5 to 2 m and with a
+(Fig. 8).                                                                     thinning of the seaward dipping limb. U151 is mainly
+   Units U151 and U152 have similar seismic facies:                           aggradational and the transition to U152 seems to be
+they display quasi-parallel internal reflections with im-                     gradual. It is worth noting that similar bedforms are
+portant lateral variations in seismic facies and they                         observed within older sequences, such as sequence S4 in
+change from discontinuous wavy reflections in the                             Fig. 6. The very weak slope (b1°) of these bedforms
+proximal part (Fig. 7), becoming parallel and continuous                      would prevent their recognition in the stratigraphic
+in seaward direction. The wavy facies is similar to                           record.
+undulations observed on continental shelves and slopes,                          U152 displays clear seaward migration of the offlap
+interpreted by many authors as bedforms (sediment                             break (progradation). The seaward migration of the
+waves: Migeon et al., 2001; Lee et al., 2002) or                              wavy facies illustrates this trend, as well as the pro-
+deformation structures evolving into depositional bed-                        gressive seaward shift of depocentres creating internal
+forms (Cattaneo et al., 2004). They have a spacing of                         discontinuities within this unit (Fig. 7). The boundary
+                                                                                                                                                                                                            30
+                                                                                                                                                                                                            G. Jouet et al. / Marine Geology 234 (2006) 21–42
+Fig. 6. A) High-resolution seismic Sparker line P-7020 (position in Fig. 4) along the canyon interfluve (dip section). Vwater = 1500 m.s− 1 and Vsed = 1600 m.s− 1 are used for the depth conversions. B)
+Stratigraphic interpretation and close-up views. The five major seismic sequences (S1 to S5) attributed to 100 kyr-cycles are identified. In each major sequence, the high-angle sandy clinoforms often
+downlap an erosional seismic discontinuity, which affects the underlying low angle clinoforms. A wavy facies, similar to undulations observed on several continental shelves and slopes, is observed
+within S5 and within other, older sequences, such as sequence S4.
+                                                                                                                                                                                                               G. Jouet et al. / Marine Geology 234 (2006) 21–42
+Fig. 7. Very high-resolution seismic Chirp profile P-7020ch (A) (position in Fig. 4) and interpretation (B). The profile is positioned at the same location as Sparker profile of Fig. 6. Steps and terraces
+identified on bathymetric maps are positioned. Within the Last Glacial cycle sequence (S5), several units (U147, U151, U152, U154 and U155) can be identified throughout the study area. The close-
+up view shows the position of core MD99-2349 within the wavy facies.
+
+
+
+
+                                                                                                                                                                                                               31
+32                                              G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+
+
+Fig. 8. High-resolution seismic Sparker lines P-7056-7049 (A) and interpretation (B) (position in Fig. 4) across the cemented sands and the easterly
+Bourcart canyon head. Steps and terraces identified on bathymetric maps are positioned. Note the continuity between high-angle clinoforms of the
+sandy facies (PII) and low-angle clinoforms of the offshore muds (PI), demonstrating that these deposits formed as forced regressions (see explanation
+in text). Within U151, U152 and U154, the U-shape of seismic reflections records the infill of a depression incised within U147. This infill runs along
+a NW–SE direction and connects to the South with the Bourcart canyon head, and to the North to the fluvial drainage network (3 in Fig. 4).
+
+between the two units is locally marked by high-                               ward. The internal seismic is similar to that of U147,
+amplitude reflections (D65).                                                   with continuous alternating high and low amplitude
+   In summary, the stacking pattern of U151 and                                reflections (Fig. 7).
+U152 is characterized by a progressive change from                                Seismic profiles also show, especially within units
+aggradation to progradation of the low-angle clino-                            U151, U152 and U154, a U-shaped morphology of seis-
+forms preserved along the interfluve (Fig. 7). The                             mic reflections infilling a depression incised in U147. In
+correlative high-angle reflection clinoforms of the                            U151/U152, the reflections are locally discontinuous,
+sandy facies (PII) document about 7 km of shoreline                            recording the instability of the wedge, whereas U154
+progradation (Fig. 8). Despite erosion of the topsets,                         displays draping facies (Fig. 8A). When mapped in 3D,
+preservation of the bottomsets can aid estimate the                            these depocentres run along a NE–SW direction, and
+clinoform geometry and does not indicate a major                               connect to the South with the Bourcart canyon head and to
+change in sea-level.                                                           the North to the fluvial network (3 in Fig. 4) described
+   Unit U154 is the most distal seismic unit of the                            previously.
+prograding wedge. It pinches out at a rather constant                             Unit U155 is only observable on the top of the sandy
+depth of about 140 m; its lower boundary (D70) is an                           prism PII and corresponds to a transgressive reworking
+erosional discontinuity that truncates the underlying                          of underlying deposits (Bassetti et al., 2006-this
+deposits, and progressively becomes conformable sea-                           volume).
+                                            G. Jouet et al. / Marine Geology 234 (2006) 21–42                                          33
+
+
+4.3. Sedimentary facies                                                 briefly described here. The 14C dates are summarized
+                                                                        in Table 1.
+   The main lithological and sedimentological char-                         Core MD99-2350 is located at 98 m water depth. It was
+acters of 4 piston cores sampled on the Bourcart–                       retrieved from the sandy facies of prism PII, and is there-
+Hérault interfluve (Fig. 9), along or very close to a                   fore only 2.57 m in length (Fig. 9). However, it allows to
+NW–SE Chirp seismic profile shown in Fig. 6, are                        sample the discontinuity between the fine to medium
+
+
+
+
+Fig. 9. Correlation between core and seismic data along the Bourcart–Hérault interfluve. Correlations between cores MD99-2350, MD99-2349,
+CLKS-11 and MD99-2348 are based on seismic reflections and 14C dates, the same time-line corresponding to various sedimentary environments
+across the shelf edge. The 14C dates are summarized in Table 1.
+34                                              G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+(median around 200–250 μm) bioclastic, well-sorted                            though only 50 cm of this unit were recovered; the
+sands of unit U155 (50 upper cm in the core) and the                          unit is dated at about 41 cal. kyr BP (see Table 1 and
+alternating sands and silts of the bottomsets of unit U147.                   Figs. 9 and 10) and is overlain by a 3 m thick interval
+The surface bounding the 2 units displays a very coarse                       with coarse shelly sands alternating with silts. The
+lag with shells, pebbles and reworked material (Perez-                        boundary between the two intervals likely corresponds
+Belmonte, 2003; Bassetti et al., 2006-this volume). A                         to the seismic discontinuity of D63. The upper 15 m of
+sample from the top of U147 yields and ages of about                          the core show alternating millimetric to centimetric
+28 cal. kyr BP, and another one from the bottom of U155                       silty clay and silt laminae, with intervals where fine to
+gives an age of about 12 cal. kyr BP.                                         medium sand beds are more abundant. Sandy or silty
+    Core MD99-2349 is located at 128 m water depth.                           beds have sharp or even erosional base and display a
+It sampled units U147, U151, and U152. U147                                   clear fining upward trend. Bioturbation is abundant
+consists of clayed silt (mean grain size of 30 μm),                           within the fine-grained beds, and generally
+
+
+
+
+Fig. 10. Chirp seismic section, lithology, carbonate content, density and sonic velocity along core MD99-2349, located at 128 m water depth (position
+in Fig. 4). This core sampled units U147, U151, and U152, corresponding to a time span estimated to 21 kyr (from 41 to 20 cal. kyr BP; see Table 1 and
+Fig. 10). The major facies corresponds to alternating millimetric to centimetric silty clay and silt laminae, with intervals where fine to medium sand
+beds are more abundant. The base of sandy or silty beds is sharp or even erosional, and they display a clear fining upward trend. Note the change in
+density and sonic velocity below D65 that corresponds to higher sand content (because of increased cascading of cold water during Heinrich Event 2).
+                                         G. Jouet et al. / Marine Geology 234 (2006) 21–42                                  35
+
+
+incorporates coarser (silty) material from the overlying            4.4.2. Paleobathymetry
+beds. This pattern is similar to the storm graded beds                  A paleobathymetric reconstruction of core MD99-
+described by Aigner (1985).                                         2349 succession can be proposed. Unit U147 includes
+    Within the 15–0 m interval, which corresponds to the 28         mollusc taxa (e.g. the bivalves Bathyarca grenophia,
+to 20 cal. kyr BP interval, an overall coarsening upward            Kelliella miliaris and Venus casina, the gastropod Al-
+trend is observed. Between 7.5 and 8.5 m, sand beds are             vania testae and thecosomatous pteropods), indicative
+much more abundant and correlate with discontinuity D65             of relatively deep open shelf-upper slope environments
+on seismic profiles. This reflection is dated at about 24 cal.      (ca. 60–120 m); sandy beds in this same unit contain an
+kyr BP.                                                             assemblage dominated by the serpulid polychaete Ditrupa
+    Core MD99-2348 is located at 296 m water depth.                 arietina and the bivalve Corbula gibba, pointing out a
+It sampled seismic units U154 and U152 (Fig. 9). The                sediment-stressed shelf environment whose bathymetry
+core displays homogeneous bioturbated grey silty clay               cannot be established with precision, but hypothesised to
+(median of 10 μm at the top of the core, 6 μm at the                be in the range of 30–90 m. Unit U151 between 1700–
+bottom) with abundant organic matter spots and                      1500 cm contains mollusc taxa of boreo-celtic signifi-
+bioturbation. A thin bed of sand is observed at the                 cance, such as the gastropod B. humphreysianum and the
+top of the core, as on most of other cores sampled                  bivalves cf. Modiolus modiolus, Modiolula phaseolina
+around the Bourcart canyon head (Gaudin et al., 2006-               (large morphotype), P. septemradiatum associated with
+this volume). The seismic discontinuity D70, that                   Aequipecten opercularis, Astarte sulcata, C. gibba,
+bounds units U152 and U154, is positioned at about                  Turritella sp. and the bryozoan Turbicellepora coronopus,
+9 m on the core, and corresponds to a slight change in              interpreted as indicative of a muddy–silty mid-outer shelf
+the density. Sedimentation rate calculated from 14C                 setting comprised between 40–100 m water depth. In the
+dates is very high, especially between 21 and 18 cal.               upper part of this unit the macrofossil assemblages still
+kyr BP, where it reaches 2.5 m/kyr. This allows                     include boreo-celtic (B. humphreysianum, Arctica islan-
+precise dating of the transition between units U152                 dica, Mya truncata) and other taxa of lesser climatic
+and U154 (D70) at about 20 cal. kyr BP. The time                    significance (e.g., Nucula sp., Yoldia sp., Parvicardium
+span represented by U154 ranges from 20 to 15 cal.                  minimum, Hiatella arctica etc.). It documents mid-shelf
+kyr BP. Holocene deposits are absent in this core.                  environments with paleodepth likely in the range of 40–
+    Core CLKS-11 is located at 157 m water depth and is             60 m; a pelagic input by Thecosomatous pteropods
+very similar to core MD99-2348 but only sampled U154                (Spiratella sp.) is a further indication of open marine
+(Fig. 9). The only difference is that organic fragments             conditions, while the localised presence of shell layers,
+are more abundant, probably because the core is located             serpulid polychaete, minireefs and barnacles (ca. 1450–
+in a more proximal position with respect to the MD99-               1460 cm) document times of reduced sediment input. The
+2348. The 14C ages obtained on this core are consistent             occurrence of planktonic (e.g., G. pachyderma sinistrally
+with those from MD99-2348.                                          coiled, G. glutinata) and benthic (Hyalinea balthica)
+    The sedimentary facies, observed on both MD99-2348              foraminifera from units U152 to U147 is a further
+and CLKS-11, indicate an offshore environment (Reading              indication of colder than present (glacial Pleistocene)
+and Collinson, 1996) beyond the storm wave base.                    seawater temperatures at the time of their deposition.
+                                                                    Finally the upper part of the succession (U152) has a very
+4.4. Paleonvironmental constraints based on fossil content          important faunal content whereas undetermined bivalve
+                                                                    fragments are abundant, together with rotaliid and miliolid
+4.4.1. Temperature                                                  foraminifera, and plant remains indicative of active
+   Within the fine-grained fraction of seismic unit                 prodeltaic environments.
+U152, cold species of benthic foraminifera (such as
+Uvigerina peregrina, Hyalinea baltica, Cassidulinidae               5. Discussion
+spp.), and planktonic foraminifera (Globigerina pachy-
+derma sinistrally coiled, Globigerina glutinata) are                   We have collected a set of evidence that demonstrate
+observed (Bourdillon, 1994). Seismic units U151 and                 the effect of relative sea-level changes on strata archi-
+U152 also contain typical cold boreo-celtic guests in               tecture at the shelf edge during the turnaround of LGM.
+the Mediterranean Pleistocene such as the molluscs                  Thanks to the precise 14C dates obtained from cores and
+Pseudamussium septemradiatum, Chlamys islandica,                    cemented beaches along a dip section that allows to
+Arctica islandica, Mya truncata, and Buccinum                       identify time-lines, these evidences can be put together
+humphreysianum.                                                     into a stratigraphic framework. The detailed stratigraphy
+36                                  G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+of the Last Glacial Cycle established on the Bourcart–         during the last sea-level lowstand. Taking into consider-
+Hérault interfluve (Fig. 7) allows the study of marine         ation both the stratigraphic interpretations and sedimen-
+accumulation from the shoreface to the upper offshore          tological information, we evidence rapid fluctuations of
+                                                 G. Jouet et al. / Marine Geology 234 (2006) 21–42                                                     37
+
+
+the sedimentary environment (Figs. 7 and 9). Which                              of the forced regressive sequence S5, in relation with falls
+factors are the causes of the geometric discontinuities that                    of the wave action base; similar features were described on
+we observe both on the high resolution seismic and inside                       the Adriatic shelf (Trincardi and Correggiari, 2000;
+the sedimentary record described by the cores? These                            Ridente and Trincardi, 2005). The entire sequence S5
+variations in the sedimentation of a beach or prodelta can                      formed during a forced regression, as a seaward and
+be explained either by the fast evolution of the paleo-                         downward shift of the coast line forced by a relative sea-
+bathymetry, either by changes in the conditions of                              level fall (Posamentier et al., 1992). S5 is topped by
+sedimentation (hydrodynamism) or by fluctuations in                             transgressive sand bodies and a thin veneer of mobile
+sediment supply. What is the relative importance of these                       sands (Bassetti et al., 2006-this volume). The dates
+processes which variably controlled transport and depo-                         obtained in this study allow us to confirm a precise time-
+sition of sediments from 46 to 15 cal. kyr BP?                                  frame for the deposition of S5 and overlying deposits.
+                                                                                Deposition of units U147 through U152 that compose S5
+5.1. Evidences for regressive processes at the origin of                        occurred during the overall sea-level fall, between 46 and
+the high-angle clinoforms in S5                                                 20 cal. kyr BP (Table 1). It should be noted that the deepest
+                                                                                evidence of marine erosion detectable on seismic profiles
+    On Sparker seismic, the steeply dipping sandy                               (except around canyon heads where energy is focused) is
+clinoforms often downlap onto an erosional seismic                              around 170 m (Fig. 7), far beyond the lowest sea-level
+discontinuity which affects the underlying low angle                            scenario for LGM.
+clinoforms (Fig. 6); this geometry led some authors to                              The upper part of U147 is dated both at the bottom of
+consider the sandy clinoforms as transgressive para-                            cores MD99-2349 and MD99-2350. The time period for
+sequences (Van Wagoner et al., 1990) formed during the                          the deposition of this unit is estimated older than 41 cal.
+overall deglacial sea-level rise (Tesson et al., 2000). In                      kyr BP at two different positions on the deposit profile.
+their interpretation, the erosion surface was a ravinement                      A date of 28.4 cal. kyr BP is also given at the bottom of
+surface separating regressive prodeltaic muds from                              U151 within the sandy clinoforms on core MD99-2350
+transgressive overlying sands. However, in places                               at the erosional surface that corresponds to D63
+where accommodation was sufficient, such as the                                 (analysis performed on complete shell of Mytilus sp.,
+Bourcart canyon head (Fig. 8), continuity exists between                        indicative of very shallow water environment at the time
+high-angle (sandy) clinoforms and gently dipping                                of deposition). This age post-dates the onset of depos-
+clinoforms, and therefore demonstrates that deposition                          ition of U151 and it is consistent with the age of about
+of the two facies was synchronous. In locations where                           25 cal. kyr BP found on core MD99-2349 in the middle
+accommodation was more restricted (Fig. 6), such as the                         part of U151. An age between 20.5 and 20 cal. kyr BP is
+flat outer continental shelf, a zone of erosion and bypass                      found for D70 based on dates from cores MD99-2348
+developed between the sandy clinoforms of the shoreface                         and CLKS-11. This is also consistent with an age less
+and the muds deposited beyond the storm wave-base                               than 20,517 cal. kyr BP from core MD99-2349. In
+(Berné, 1999). Such surfaces, named regressive surfaces                         addition, cementation of the beach rocks of “Pierres de
+of marine erosion (Plint and Nummendal, 2000), form                             Sète” occurred at 21 ± 0.4 cal. kyr BP, which corre-
+below sea-level under the erosive action of waves and                           sponds to the end of a regression phase, and therefore to
+currents. The major erosional surfaces on the interfluve                        a probable decrease or even stop of the sea-level fall.
+(D60, D63 and D70), located downstream of the sandy                                 In summary, the time-frame for the deposition of
+prism, formed prior to LGM and bound units showing a                            units U147, U151 and U152 confirms that they formed
+shallowing upward trend. They are consequently regres-                          between MIS-3 and MIS-2, during a period of sea-level
+sive surfaces of marine erosion linked to downward shifts                       fall.
+
+
+Fig. 11. Scenario for sedimentation on the Bourcart–Hérault interfluve during the LGM “turnaround”. This synthetic NW–SE profile is based on
+seismic interpretation, lithological and chronological data. A) Evolution from N46 to 28 cal. kyr BP: this time interval corresponds to a general
+decrease of relative sea-level and to the end of deposition of U147. Around 41 cal. kyr BP, rsl is estimated between 45 and 65 m. The best estimate of
+the interval encompassed by the erosional surface D63 is 41 to 28 cal. kyr BP. This interval corresponds to a major sea-level fall. B) Evolution from 28
+to 20 cal. kyr BP: this period is interpreted as a phase of stillstand or very slow decrease of sea-level, followed by the onset of renewed sea-level fall
+(recorded by units U151 and U152). The cementation of beach rocks at 90 m water depth occurred at about 21 cal. kyr BP. C) Evolution from 20 to
+15 cal. kyr BP. The deposition of seismic unit U154 corresponds to the period of “turnaround” of relative sea-level. Only the fine-grained distal
+component of the LGM shoreface was preserved, below 140 m water depth. The lowest sea-level is estimated to be at least 110–115 m and the onset
+of rsl rise between 18 and 17 cal. kyr BP. A slow down of the transgression, between 17 and 15.9 cal. kyr BP, is marked by a bathymetric step at 98–
+105 m. This period corresponds to the onset of deposition of thin transgressive sand bodies on the outer shelf (U155).
+38                                        G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+5.2. Scenario for sedimentation on the Bourcart–                      – the steep clinoforms of the shoreface sands are at a
+Hérault interfluve during the LGM turnaround                            constant depth along a distance of about 7 km (average
+                                                                        shoreline progradation of about 0.9 m/yr; Fig. 8);
+    Geological and chronostratigraphic evidence allow                 – the transition from aggradation to progradation of the
+us to propose a scenario for the deposition of seismic                  time-equivalent muddy low-angle clinoforms would
+units and discontinuities that can be observed through-                 result from a progressive decrease of accommodation
+out the study area (from U147 to U155); this scenario is                space (the sediment is progressively bypassed
+based on the assumption that the overall subsidence s.l.                beyond the storm wave-base, when available space
+is in the order of 250 m/Myr (Rabineau et al., 2005),                   is occupied by newly deposited sediment);
+equivalent to 5 m for the last 20 kyr. The study area is              – paleobathymetry estimates from macrofauna assem-
+situated sufficiently far from the former margins of the                blages within core MD99-2349 indicate a depth of
+major ice sheets for sea-level to follow global eustatic                about 50 m in the middle of unit U151 at about 15 m
+changes to a first approximation (Lambeck and Bard,                     below sea-floor. In unit U152, benthic foraminifera
+2000). As to the effect of water loading, a value of about              assemblages indicate a depth of about 40 m (see
+15 m is proposed for the Gulf of Lions by the same                      Section 4.4.2. for the details);
+authors. Our scenario, in any event, refers to relative               – the storm beds observed on core MD99-2349 (Fig. 9)
+sea-levels (RSL), as measured with respect to the pre-                  are typically attributed to water depths of 30–40 m
+sent mean sea-level. It is summarized in Fig. 11.                       (Guillocheau and Hoffer, 1988);
+                                                                      – the overall increase in sand fraction (well illustrated
+5.2.1. From N 46 to 28 cal. kyr BP                                      by the upward increase in density and sonic velocity
+    This time interval corresponds to the deposition of the             along core MD99-2349; Fig. 10) probably results
+upper part of U147. This unit was sampled at the bottom                 from progressive infill of available space. Around
+of cores MD99-2349 and MD99-2350. A paleobathy-                         20.5 cal. kyr BP, however, the abrupt increase in sand
+metry of 80–100 m is indicated by mollusc assemblages                   faction is likely related to the onset of sea-level fall;
+at the bottom of core MD99-2349, i.e. at 145 m below                  – cementation of beach rocks (90 m water depth or less
+present sea-level; it gives a relative sea-level depth of 45            if some of the cemented material was eroded) at
+to 65 m at around 41 cal. kyr BP confirmed by the fine-                 about 21 cal. kyr BP also requires a fairly stable sea-
+grained composition of sediments. The basinward                         level. This event would pre-date an episode of
+migration of the offlap break, together with the erosion                renewed sea-level fall.
+of topsets in the upper part of the interfluve, suggests a
+general fall of relative sea-level during the end of                    In the Bourcart canyon head, the end of the 28–
+deposition of U147.                                                  20 cal. kyr BP interval is marked by a shift of fluvial
+    An early connection of a fluvial system of unknown               connection, from a stream labelled “3” in Fig. 4 to
+origin (3 in Fig. 4B) with the Bourcart canyon head was              another, labelled “2” and situated further West. The
+established at the end of this period. This incision is              brackish influence observed on the cement of the
+oriented along a NE–SW direction and crosses the                     “Pierres de Sète” beach rocks could result from this
+interfluve.                                                          fluvial influence.
+    Surface D63 corresponds to a major sea-level fall, as
+evidenced by the abrupt change of sedimentary facies                 5.2.3. From 20 to 15 cal. kyr BP
+between U147 and U151 in the landward part of the study                 This period corresponds to the deposition of seismic
+area (Fig. 8). In the distal part, surface D63 is coeval to the      unit U154 and to the period of turnaround of relative
+upper most 3 m of U147 on core MD99-2349 (Fig. 10),                  sea-level. However, the sediments that could have been
+which correspond to coarse shelly sand, probably                     deposited between 110 and 140 m during this period
+reworked and transported seaward from the former                     were bypassed or eroded, because they were situated
+shoreline. The best estimate for the time span represented           above the lowest sea-level, or above the storm wave-
+by this surface is 41 to 28 cal. kyr BP.                             base. As a result, only the fine-grained distal component
+                                                                     of the LGM shoreface was preserved, below 140 m
+5.2.2. From 28 to 20 cal. kyr BP                                     water depth. The position of the lowest sea-level is
+   This time interval corresponds to the deposition                  difficult to determine precisely, because the topsets of
+of U151 and U152 ended by the onset of renewed sea-                  the sandy clinoforms were generally eroded during the
+level fall. This period is interpreted as a phase of stillstand      ensuing sea-level rise. Consequently, the scarp that
+or very slow fall of sea-level for the following reasons:            occurs at 110–115 m does not represent the position of
+                                         G. Jouet et al. / Marine Geology 234 (2006) 21–42                                 39
+
+
+the lowest sea-level, but the top of a terrace riser that           clear change in lithology but H2 is marked between
+formed during an ensuing stillstand, as described for               19 and 22.5 m below sea-floor by a peak in abundance
+instance in lake deposits by Adams and Wesnousky                    of the foraminifer Neogloboquadrina pachyderma
+(1998). In any event, it implies that sea-level fell at least       (sinistrally coiled), and in the coccolithophere Emili-
+down to 110–115 m, and possibly as deep as 140 m rsl                ana huxleyi N 4 μm (a cold water morphotype) (Flores
+Taking into account a subsidence of 5 m and water                   et al., 2005).
+loading effect of 15 m, the estimation of the corre-                   A similar pattern is observed at the top of this core
+sponding global lowest sea-level would be between 90                between 1 and 3.5 m, which corresponds to an age
+−95 and 120 m.The high sedimentation rate between 20                between 16.5 and 18 cal. kyr BP (Berné et al., 2004;
+and 18 cal. kyr BP (2.5 m/kyr) can be explained by the              Flores et al., 2005). This age matches well with the age
+vicinity, at that time, of a probable Rhône related shelf-          of H1 of Bond et al. (1992). Nevertheless, the erosion of
+edge delta (1 in Fig. 4), leading to sediment plumes                unit U152 during relative sea-level rise did not allow
+being swept toward the interfluve by the general anti-              preservation of H1 in core MD99-2349.
+clockwise circulation.                                                 The process leading to increased sand content
+    The timing of the onset of sea-level rise can be                must be linked to enhancement of northwesterly
+estimated from the abrupt decrease in the sedimentation             winds (Mistral and Tramontane), which control the
+rate, which occurred between 18 and 17 cal. kyr BP. The             formation of dense cold water. In the present-day
+scarp observed at 98–105 m would represent a decrease               highstand situation, it has been shown that periods of
+in the sea-level rise, which occurred before 15.9 cal. kyr          increased northwesterly wind during winter triggers
+BP (age of the ravinement surface at 99 m water depth,              cascading currents (Palanques et al., 2006-this volume);
+Bassetti et al., 2006-this volume). The progradation of             these currents transport sand downslope, as shown by
+the glacial shoreface (prism PII) which show seaward an             the presence of recent (b 100 yr) sand beds buried in
+upward trend of progressive downlap, is ended by this               muds within the Bourcart canyon head (Gaudin et al.,
+paleobathymetric step.                                              2006-this volume).
+    The erosion of the “Pierres de Sète” (carving of up to             In conclusion, even if there are no IRD (Ice Rafted
+20 m of sand) took place between 21 and 15 cal. kyr BP,             Debris) in the Gulf of Lions, we can identify a seismic re
+and this age marks the onset of deposition of thin                  flection associated to Heinrich event 2, as there are
+transgressive sand bodies on the outer shelf (U155).                reflections related to IRD in NE Atlantic (Auffret et al.,
+    In summary, this scenario requires some variations in           1998).
+the rate of relative sea-level changes, with a drastic drop
+before 28 cal. kyr BP, a slow-down during the sea-level             6. Conclusion
+fall at about 90 m rsl at about 21 cal. kyr BP, a minimum
+sea-level at least at 110–115 m rsl; the onset of sea-level            The new VHR seismic and lithologic data set from
+rise between 18 and 17 cal. kyr BP, and a slow down of              the Bourcart–Herault interfluve provide a high-resolu-
+sea-level rise at a level of about 98–105 m rsl between             tion marine sedimentary record of the Last Glacial
+17 and 15.9 cal. kyr BP.                                            Maximum at the shelf edge of the Gulf of Lions. Within
+                                                                    the last sedimentary sequence S5, which corresponds to
+5.3. Heinrich events and seismic reflections                        the Last Glacial 100 kyr-cycle, several units display a
+                                                                    good record of sea-level changes that occurred between
+   The imprint of Heinrich events was shown in the                  46 and 15 cal kyr BP. This particular interval is only
+Alboran Sea (Cacho et al., 2000) and attributed to the              recorded in the critical area constituted by the shelf
+intensification of Deep Western Mediterranean Water                 break (above the major slump scars that cut across the
+formation during periods of cooling, in relation with               continental slope at about 500 m water depth and
+southward displacement of the Polar Front. In the Gulf              deeper). Through time, three zones of connection of
+of Lions, a very distinct cold interval corresponding to            fluvial systems with the shelf break can be identified,
+Heinrich event 2 (H2) has been evidenced by multi-                  including a possible distributary of the Rhône.
+proxy analysis of core MD99-2348 (Flores et al., 2005).                Because of the high detrital input, sedimentation
+This interval corresponds to an increase in sand fraction           rate reached a maximum of 2.5 m/kyr between 21–
+along core MD99-2349, between 7.5 m and 8.5 m, dated                18 kyr. Sediment supply stopped abruptly at 15 kyr,
+about at 24 cal. kyr BP; it also corresponds to a seismic           because of the rapid landward shift of fluvial outlets
+reflection (D65) that can be tracked seaward up to the              during the deglacial sea-level rise. Geomorphological,
+bottom of core MD99-2348. Along this core, there is no              sedimentological and paleoenvironmental information
+40                                               G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+indicate that the fluctuation of sea-level around LGM                       Aloïsi, J.C., 1986. Sur un modèle de sédimentation deltaïque:
+was punctuated by periods of slowing down and                                  contribution à la connaissance des marges passives. Thèse de
+                                                                               doctorat d'Etat Thesis, Université de Perpignan, Perpignan, 162 pp.
+acceleration. Three periods of stillstand are identified                    Aloïsi, J.C., Auffret, G.A., Auffret, J.P., Barusseau, J.P., Hommeril, P.,
+and dated at 90 m relative sea-level (21 cal. kyr BP),                         Larsonneur, C., Monaco, A., 1977. Essai de modélisation de la
+110–115 m rsl (18–17 cal. kyr BP), and 98–105 m rsl                            sédimentation actuelle sur les plateaux continentaux français. Bull.
+(before 15.9 cal. kyr BP). The position of relative sea-                       Soc. Géol. Fr. 19 (2), 183–195.
+                                                                            Auffret, G., Dennielou, B., Boelaert, A., Bassinot, F., Labeyrie, L.,
+level during the maximum lowstand is not known, but is
+                                                                               Pujol, C., Loncaric, N., 1998. Physical Properties and Environ-
+at least 115 m. During this time, periods of increased                         mental Implications of Thick Heinrich Layers from the Meriadzek
+northwesterly winds favoured transport of coarser                              Terrace (Bay of Biscay, NE Atlantic Ocean), 6th International
+sediment at the shelf edge, in relation with cascading                         Conference on Paleoceanography, Lisbon.
+deep water. This process creates a distinct sandy interval                  Bard, E., Hamelin, B., Fairbanks, R.G., 1990. U–Th ages obtained by
+during the period of Heinrich event 2, at the origin of                        mass spectrometry in corals from Barbados: sea level during the
+                                                                               past 130,000 years. Nature 346, 456–458.
+amplitude anomaly on very high resolution seismic data.                     Bard, E., Hamelin, B., Arnold, M., Montaggioni, L., Cabioch, G., Faure,
+                                                                               G., Rougerie, F., 1996. Deglacial sea-level record from Tahiti corals
+Acknowledgements                                                               and the timing of global meltwater discharge. Nature 382, 241–244.
+                                                                            Bard, E., Arnold, M., Hamelin, B., Tisnerat-Laborde, N., Cabioch, G.,
+   This research is supported by the European Commu-                           1998. Radiocarbon calibration by means of mass spectrometric
+                                                                               230Th/234U and 14C ages of corals. An updated data base including
+nity through the EUROSTRATAFORM (contract EVK3-                                samples from Barbados, Mururoa and Tahiti. Radiocarbon 40 (3),
+2002-00079) and PROMESS 1 (contract EVR1-CT-                                   1085–1092.
+2002-40024) projects. Initial support was provided by                       Bartov, Y., Stein, M., Enzel, Y., Agnon, A., Reches, Z., 2002. Lake
+“Region Languedoc–Roussillon”, Ifremer and the French                          levels and sequence stratigraphy of Lake Lisan, the Late Pleistocene
+“Margins” program. Additional support was provided by                          precursor of the Dead Sea. Quat. Res. 57 (1), 9–21.
+                                                                            Bassetti, M.A., Jouët, G., Dufois, F., Berné, S., Rabineau, M., Taviani,
+the French Agence Nationale de la Recherche (ANR,                              M., 2006-this volume. Sand bodies at the shelf edge in the Gulf of
+contract NT05-3-42040). Captains and crews of “Marion                          Lions (Western Mediterranean): Deglacial history and modern
+Dufresne”, “Le Suroît” and “L'Europe” are thanked for                          processes. Mar. Geol. 234, 93–109, doi:10.1016/j.margeo.
+assistance during cruises “Images 5”, “Basar” 1 and 2,                         2006.09.010.
+“Strataform”. A special thank is due to Nicolas Thouveny                    Bassinot, F., Labeyrie, L., Vincent, E., Quidelleur, X., Shackleton, N.J.,
+                                                                               Lancelot, Y., 1994. The astronomical theory of climate and the age
+and Yvon Balut, (respectively chief scientist and                              of the Brunhes–Matuyama magnetic reversal. Earth Planet. Sci. Lett.
+operational manager) for their dedication during cruise                        126, 91–108.
+Images 5. The technical staffs of Genavir (data acquisi-                    Baztan, J., 2004. Formation et évolution des canyons sous-marins du
+tion) and Ifremer/GM (data processing) are warmly                              Golfe du Lion: relation avec les cycles glacio-eustatiques. Thèse de
+                                                                               Doctorat, UBO-IFREMER, 450 pp.
+thanked (A.S. Alix, R. Apprioual, F. Dubois, F. Duval,
+                                                                            Baztan, J., Berné, S., Olivet, J.L., Rabineau, M., Aslanian, D., Gaudin,
+G. Floch, I. Jégou, E. Le Drezen, E. Leroux, B. Loubrieu,                      M., Réhault, J.P., Canals, M., 2005. Axial incision: the key to
+A. Normand, D. Pierre, C. Satra). J. Baztan and                                understand submarine canyon evolution (in the western Gulf of
+M. Gaudin are thanked for lively discussions on the                            Lions). Mar. Pet. Geol. 22 (6–7), 805–826.
+origin and evolution of canyons. Contribution n°985 of                      Bentounsi, F., 1990. ECORS— Golfe du Lion. Interprétation des profils
+the IUEM, European Institute for Marine Studies (Brest,                        de sismique réflexion longue écoute-cinématique d'ouverture de la
+                                                                               Méditerranée Occidentale. Mémoire de D.E.A. Université de
+France), n°2174 of the GDRMarges and n°1503 of the                             Bretagne Occidentale, Brest. 69 pp.
+ISMAR-CNR.                                                                  Berné, S., 1999. Dynamique, architecture et préservation des corps
+   Finally, we would like to thank the reviewers, Dr G-J                       sableux de plateforme. Mémoire d'habilitation à diriger des
+Weltje, Dr D. Ridente and Editor Dr F. Trincardi, for                          recherches. Université de Lille 1, Lille. 111 pp.
+their thoughtful suggestions to improve the manuscript.                     Berné, S., Gorini, C., 2005. The Gulf of Lions: an overview of recent
+                                                                               studies within the French “Margins” Programme. Mar. Pet. Geol.
+                                                                               22 (6–7), 691–693.
+References                                                                  Berné, S., Lericolais, G., Marsset, T., Bourillet, J.F., de Batist, M.,
+                                                                               1998. Erosional shelf sand ridges and lowstand shorefaces:
+Adams, K.D., Wesnousky, S.G., 1998. Shoreline processes and the age            examples from tide and wave dominated environments of France.
+   of the Lake Lahontan Highstand in the Jessup embayment, Nevada.             J. Sediment. Res. 68 (4), 540–555.
+   Geol. Soc. Amer. Bull. 110, 1318–1332.                                   Berné, S., Loubrieu, B., the CALMAR shipboard party, 1999.
+Aigner, T., 1985. Storm depositional systems. Lecture Notes in Earth           Canyons and recent sedimentary processes on the western Gulf
+   Sciences, vol. 3. Springer Verlag, Berlin. 174 pp.                          of Lions margin. First results of the Calmar cruise. C. R. Acad. Sci.
+Almagor, G., 1979. Relict sandstones of Pleistocene age on the                 Paris 328, 471–477.
+   continental shelf of Northern Sinai and Israel. Isr. J. Earth-Sci. 28,   Berné, S., Aloïsi, J.C., Baztan, J., Dennielou, B., Droz, L., Dos Reis, T.,
+   70–76.                                                                      Lofi, J., Méar, Y., Rabineau, M., 2002. Notice de la carte morpho-
+                                                     G. Jouet et al. / Marine Geology 234 (2006) 21–42                                                   41
+
+
+    bathymétrique du Golfe du Lion. IFREMER et Région Languedoc                       during the last climatic cycles in the Gulf of Lions (Western
+    Roussillon, Brest. 48 pp.                                                         Mediterranean) revealed by micropaleontological and geochemical
+Berné, S., Rabineau, M., Flores, J.A., Sierro, F.J., 2004. The impact of              tools, European Geosciences Union (EGU). Geophys. Res. Abstr.
+    quaternary global changes on strata formation: exlporation of the                 Vienna 02208.
+    shelf edge in the Northwest Mediterranean Sea. Oceanography 17                Gaudin, M., Berné, S., Jouanneau, J.-M., Palanques, A., Puig, P., Mulder,
+    (4), 92–103.                                                                      T., Cirac, P., Rabineau, M., Imbert, P. 2006-this volume. Massive sand
+Bernier, P., Berné, S., Rabineau, M., Baztan, J., 2000. Les Pierres de                beds attributed to deposition by dense water cascades in the Bourcart
+    Sète: un indicateur paléobathymétrique et paléoenvironnemental.                   canyon head, Gulf of Lions (northwestern Mediteranean Sea). Mar.
+    In: Berné, S., Guennoc, P., Monaco, A. (Eds.), Atelier Golfe du                   Geol. 234, 111–128, doi:10.1016/j.margeo.2006.09.020.
+    Lion du GDR Marges, Paris, 8 pp.                                              Gensous, B., Tesson, M., 1996. Sequence stratigraphy, seismic profiles,
+Biju-Duval, B., 1984. Les marges continentales françaises de la                       and cores of Pleistocene deposits on the Rhône continental shelf.
+    Méditerranée. In: Boillot, G. (Ed.), Les marges actuelles et fossiles             Sediment. Geol. 105, 183–190.
+    autour de la France. Masson, Paris, pp. 249–334.                              Gensous, B., Williamson, D., Tesson, M., 1993. Late-Quaternary
+Bond, G., Broecker, W., Johnsen, S., McManus, J., Labeyrie, L., Jouzel,               transgressive and highstand deposits of a deltaic shelf (Rhône delta,
+    J., Bonani, G., 1993. Correlations between climate records from                   France). In: Posamentier, H.W., Summerhayes, C.P., Haq, B.A.,
+    North Atlantic sediments and Greenland ice. Nature 365, 143–147.                  Allen, G.P. (Eds.), Sequence Stratigraphy and Facies Associations.
+Bond, G., Heinrich, H., Broecker, W., Labeyrie, L., McManus, J.,                      International Association of Sedimentologists Special Publication,
+    Andrews, J., Huon, S., Jantschik, R., Clasen, S., Simet, C.,                      vol. 18. Blackwell, Oxford, pp. 197–212.
+    Tedesco, K., Klas, M., Bonani, G., Ivy, S., 1992. Evidence for                Gorini, C., Le Marrec, A., Mauffret, A., 1993. Contribution to the
+    massive discharges of icebergs into the North Atlantic Ocean                      structural and sedimentary history of the Gulf of Lions (Western
+    during the last glacial period. Nature 360, 245–249.                              Mediterranean) from the ECORS profiles, industrial seismic
+Bossuet, G., Ruffaldi, P., Magny, M., Richard, H., Mouthon, J., 1996.                 profiles and well data. Bull. Soc. Géol. Fr. 164 (3), 353–363.
+    Dynamique et approche quantitative des remplissages fini-et                   Gueguen, E., 1995. La Méditerranée Occidentale: un véritable
+    postwürmiens du bassin lacustre de Cerin (Jura, France). Bull. Soc.               océan. Exemple de segmentation des marges et de hiatus
+    Géol. Fr. 167 (4), 483–494.                                                       cinématiques. Implications sur les processus d'amincissement
+Bourdillon, C., 1994. Micropaléontologie de sédiments de sondage                      crustal. Thèse de Doctorat, Université de Bretagne Occidentale,
+    dans le Golfe du Lion (Mer Méditerranée). BRGM internal report                    Brest, 281 pp.
+    N1864, Orléans. 15 pp.                                                        Guillocheau, F., Hoffer, M., 1988. Zonation des dépôts de tempètes
+Cacho, I., Grimalt, J.O., Pelejero, C., Canals, M., Sierro, F.J., Flores, J.A.,       en milieu de plateforme: le modèle des plateformes nord-
+    Shackleton, N., 1999. Dansgaard-Oeschger and Heinrich event                       gondwanienne et armoricaine à l'Ordovicien et au Dévonien.
+    imprints in Alboran Sea paleotemperatures. Paleoceanography 14                    C. R. Acad. Sci. Paris 307, 1909–1916.
+    (6), 698–705.                                                                 Heinrich, H., 1988. Origin and consequences of cyclic ice rafting in the
+Cacho, I., Grimalt, J.O., Sierro, F.J., Shackleton, N., Canals, M., 2000.             Northeast Atlantic Ocean during the past 130,000 years. Quat. Res.
+    Evidence for enhanced Mediterranean thermohaline circulation                      29, 142–152.
+    during rapid climatic coolings. Earth Planet. Sci. Lett. 183, 417–429.        Hsü, K.J., Cita, M.B., Ryan, W.B.F., 1973. The Origine of the
+Cattaneo, A., Correggiari, A., Marsset, T., Thomas, Y., Marsset, B.,                  Mediterranean Evaporites, Initial Reports of the Deep Sea Dril-
+    Trincardi, F., 2004. Seafloor undulation pattern on the Adriatic                  ling Project. U.S. Government Printing Office, Washington, D.C.,
+    shelf and comparison to deep-water sediment waves. Mar. Geol.                     pp. 1203–1231.
+    213 (1–4), 121–148.                                                           Imbrie, J., Hays, J.D., Martinson, D.G., McIntyre, A., Mix, A.C.,
+Chappell, J., Polach, H., 1991. Post-glacial sea-level rise from a coral record       Morley, J.J., Pisias, N.G., Prell, W.L., Shackleton, N.J., 1984. The
+    at Huon Peninsula, Papua New Guinea. Nature 349 (10), 147–149.                    orbital theory of pleistocene climate: support from a revised
+Clark, P.U., Mix, A.C., 2002. Ice sheets and sea level of the Last                    chronology of the marine d O18 record. In: Berger, A., Imbrie, J.,
+    Glacial Maximum. Quat. Sci. Rev. 21, 1–7.                                         Hays, J., Kukla, G., Saltzman, B. (Eds.), Milankovitch and Climate.
+Clauzon, G., 1974. L'hypothèse eustatique et le creusement pré-                       Series C: Mathematical and Physical Sciences.
+    pliocène de la vallée du Rhône. Ann. Géogr. 456, 129–140.                     Labeyrie, L.D., 1987. Variations in mode of formation and temperature
+Dansgaard, W., Johnsen, S.J., Clausen, H.B., Dahl-Jensen, D., Gundestrup,             of oceanic deep waters over the past 125,000 years. Nature 327
+    N.S., Hammer, C.U., Hvidberg, C.S., Steffensen, J.P., Sveinbjörns-                (6122), 477–482.
+    dottir, A.E., Jouzel, J., Bond, G., 1993. Evidence for general                Labeyrie, L.D., 1989. Une courbe du niveau marin sur 150 000 ans.
+    instability of past climate from a 250-kyr ice-record. Nature 364,                d'après Labeyrie, 1987, pers. com.
+    218–220.                                                                      Lambeck, K., Bard, E., 2000. Sea-level changes along the French
+Droz, L., Bellaiche, G., 1985. Rhône deep-sea fan: morphostructure                    Mediterranean coast for the past 30,000 years. Earth Planet. Sci.
+    and growth pattern. Am. Assoc. Pet. Geol. Bull. 69, 460–479.                      Lett. 175, 203–222.
+Durrieu de Madron, X., 1992. Hydrography and nepheloid structures                 Lee, H.J., Syvitski, J.P.M., Parker, G., Orange, D., Locat, J., Hutton,
+    in the Grand-Rhône canyon. Cont. Shelf Res. 457–477.                              E.W.H., Imran, J., 2002. Distinguishing sediment waves from
+Ehlers, J., 1996. Quaternary and Glacial Geology. Wiley, New York.                    slope failure deposits: field examples, including the ‘Humboldt
+    578 pp.                                                                           slide’, and modelling results. Mar. Geol. 192 (1–3), 79–104.
+Fairbanks, R.G., 1989. A 17,000-year glacio-eustatic sea level record:            Lericolais, G., Allenou, J.P., Berné, S., Morvan, P., 1990. A new
+    influence of glacial melting rates on the Younger Dryas event and                 system for acquisition and processing of very high-resolution
+    deep-ocean circulation. Nature 342, 637–642.                                      seismic reflection data. Geophysics 55 (8), 1036–1046.
+Flores, J.A., Sierro, F.J., Pérez-Folgado, M., Colmenero-Hidalgo, E.,             Lofi, J., Rabineau, M., Gorini, C., Berné, S., Clauzon, G., De Clarens,
+    Gravalosa, J.M., Bárcena, M.A., Grimalt, J., Berné, S., Dennielou,                P., Tadeu Dos Reis, A., Mountain, G.S., Ryan, W.B.F., Steckler,
+    B., Curtis, J.H., Hodell, D.A., 2005. Abrupt climatic changes                     M.S., Fouchet, C., 2003. Plio-Quaternary prograding clinoform
+42                                                  G. Jouet et al. / Marine Geology 234 (2006) 21–42
+
+
+    wedges of the western Gulf of Lion continental margin (NW                       prodelta deposits of the late Holocene highstand mud wedge. Mar.
+    Mediterranean) after the Messinian Salinity Crisis. Mar. Geol.                  Geol. 222–223, 213–233.
+    198 (3–4), 289–317.                                                         Rohling, E.J., Fenton, M., Jorissen, F.J., Bertrand, P., Ganssen, G.,
+Locker, S.D., Hine, A.C., Tedesco, L.P., Shinn, E.A., 1996. Magnitude               Caulet, J.P., 1998. Magnitudes of sea level lowstands of past
+    and timing of episodic sea-level rise during the last deglaciation.             500,000 years. Nature 394, 162–165.
+    Geology 24 (9), 827–830.                                                    Ruddiman, W.F., 1977. North Atlantic ice-rafting: a major change
+Martinson, D.G., Pisias, N.G., Hays, J.D., Imbrie, J., Moore Jr., T.C.,             75000 years before present. Science 196, 1208–1211.
+    Shackleton, N.J., 1987. Age dating and the orbital theory of the ice        Ruddiman, W.F., McIntyre, A., Raymo, M., 1986. Paleoenvironmental
+    ages: development of a high-resolution 0 to 300,000-year chrono-                results from North Atlantic sites 607 and 609. In: Orlofsky, S.
+    stratigraphy. Quat. Res. 27, 1–29.                                              (Ed.), Initial Reports of the Deep Sea Drilling Project, Washington,
+Migeon, S., Savoye, B., Zanella, E., Mulder, T., Faugères, J.C.,                    pp. 855–878.
+    Weber, O., 2001. Detailed seismic-reflection and sedimentary                Schock, S.G., Leblanc, L.R., Mayer, L.A., 1989. Chirp subbottom
+    study of turbidite sediment waves on the Var Sedimentary Ridge                  profiler for quantitative sediment analysis. Geophysics 54, 445–450.
+    (SE France): significance for sediment transport and deposition             Shackleton, N.J., 1977. The oxygen isotope stratigraphic record of the
+    and for the mechanisms of sediment-wave construction. Mar. Pet.                 Late Pleistocene. Philos. Trans. R. Soc. Lond., B 280, 169–182.
+    Geol. 18, 179–208.                                                          Shackleton, N.J., 1987. Oxygen isotopes, ice volume and sea-level.
+Millot, C., 1990. The Gulf of Lions' hydrodynamics. Cont. Shelf Res.                Quat. Sci. Rev. 6, 183–190.
+    10 (9–11), 885–894.                                                         Shackleton, N.J., 2000. The 100,000-year Ice-Age cycle found to lag
+Millot, C., 1999. Circulation in the Western Mediterranean Sea. J. Mar.             temperature, carbon dioxide, and orbital eccentricity. Science 289,
+    Syst. 20, 423–442.                                                              1897–1902.
+Mitchum, R.M., Vail, P.R., Sangree, J.B., 1977. Seismic stratigraphy            Siddall, M., Rholing, E.J., Almogi-Labin, A., Hemleben, C.,
+    and global changes of sea level, part 6: stratigraphic interpretation           Meischner, D., Schmelzer, I., Smeed, D.A., 2003. Sea-level
+    of seismic reflection patterns in depositional sequences. In: Payton,           fluctuations during the last glacial cycle. Nature 423, 853–858.
+    C.E. (Ed.), Seismic Stratigraphy — Application to Hydrocarbon               Sioni, S., 1997. Mer Ionienne et Apulie depuis l'ouverture de l'Océan
+    Exploration. AAPG, vol. 26, pp. 117–133. Tulsa, Oklahoma.                       Alpin. Thèse de Doctorat, Université de Bretagne Occidentale, Brest.
+Myers, P.G., Haines, K., Rohling, E.J., 1998. Modelling the paleo-circulation   Skene, K.I., Piper, D.J.W., Aksu, A.E., Syvitski, J.P.M., 1998. Evaluation
+    of the Mediterranean: the Last Glacial Maximum and the Holocene                 of the global oxygen isotope curve as a proxy for Quaternary sea
+    with emphasis on the formation of Sapropel. Paleoceanography 13,                level by modeling of delta progradation. J. Sediment. Res. 68 (6),
+    586–606.                                                                        1077–1092.
+Palanques, A., Durrieu de Madron, X., Puig, P., Fabres, J., Guillén, J.,        Stuiver, M., Reimer, P.J., Bard, E., Beck, J.W., Burr, G.S., Hughen, K.A.,
+    Calafat, A., Canals, M., Bonnin, J., 2006-this volume. Suspended                Kromer, B., McCormac, F.G., Van Der Plicht, J., Spurk, M., 1998.
+    sediment fluxes and transport processes in the Gulf of Lions                    INTCAL98 Radiocarbon age calibration 24,000–0 cal BP. Radio-
+    submarine canyons. The role of storms and dense water cascading                 carbon 40, 1041–1083.
+    Mar. Geol. 234, 43–61, doi:10.1016/j.margeo.2006.09.002.                    Tesson, M., Allen, G.P., Ravenne, C., 1993. Late Pleistocene shelf-perched
+Perez-Belmonte, L., 2003. Enregistrement de la dernére transgression                lowstand wedges on the Rhône continental shelf. In: Posamentier, H.W.,
+    dans le Gulf du Lion. Memoire DEA. University of Lille, p. 52.                  Summerhayes, C.P., Haq, B.A., Allen, G.P. (Eds.), Sequence Stratig-
+Plint, A.G., Nummendal, D., 2000. The falling stage systems tract:                  raphy and Facies Associations. . IAS Spec. Pub., vol. 18. Blackwell
+    recognition and importance in sequence stratigraphy. In: Hunt, D.,              Sci. Pub., Oxford, pp. 183–196.
+    Gawthorpe, R.L. (Eds.), Sedimentary Responses to Forced                     Tesson, M., Gensous, B., Ravenne, C., 1994. Architecture of Pleistocene
+    Regressions. Geological Society, London, pp. 1–17.                              deposits of the Languedoc shelf (Gulf of Lions, France). Relations
+Posamentier, H.W., Allen, G.P., James, D.P., Tesson, M., 1992. Forced               with Glacio-eustatic Cycles and Stratigraphic Implications, 15th IAS
+    regressions in a sequence stratigraphic framework: concepts, ex-                Regional Meeting, Ischia, pp. 401–403.
+    amples and exploration significance. Am. Assoc. Pet. Geol. Bull.            Tesson, M., Posamentier, H., Gensous, B., 2000. Stratigraphic
+    76, 1687–1709.                                                                  organisation of Late Pleistocene deposits of the western part of
+Rabineau M., 2001. Un modèle géométrique et stratigraphique des                     the Rhone shelf (Languedoc shelf) from high resolution seismic
+    séquences de dépôts quaternaires de la plate-forme du Golfe du                  and core data. A.A.P.G. Bull. 84 (1), 119–150.
+    Lion : enregistrement des cycles glacioeustatiques de 100 000 ans.          Thunell, R., Rio, D., Sprovieri, R., Vergnaud-Grazzini, C., 1991. An
+    Thèse de Doctorat, Université de Rennes 1 and IFREMER, 392­70                   overviewof the post-Messinian paleoenvironmental history of the
+    pp. (2 vols) http://www.ifremer.fr/docelec.                                     Mediterranean. Paleoceanography 6 (1), 143–164.
+Rabineau, M., Berné, S., Ledrezen, E., Lericolais, G., Marsset, T.,             Trincardi, F., Correggiari, A., 2000. Quaternary forced regression depo-
+    Rotunno, M., 1998. 3D architecture of lowstand and transgressive                sits in the Adriatic Basin and the record of composite sea-level cycles.
+    Quaternary sand bodies on the outer shelf of the Gulf of Lion,                  In: Hunt, D., Gawthorpe, R.L. (Eds.), Sedimentary Responses to
+    France. Mar. Pet. Geol. 15, 439–452.                                            Forced Regressions. Geological Society, London, pp. 245–269.
+Rabineau, M., Berné, S., Aslanian, D., Olivet, J.L., Joseph, P.,                Van Wagoner, J.C., Mitchum, R.M., Campion, K.M., Rahmanian, V.D.,
+    Guillocheau, F., Bourillet, J.F., Le Drezen, E., Grangeaon, D., 2005.           1990. Siliciclastic sequence stratigraphy in well logs, cores and
+    Sedimentary sequences in the Gulf of Lion: a record of                          outcrops: Concepts for high resolution correlation of time and
+    100,000 years climatic cycles. Mar. Pet. Geol. 22 (6–7), 775–804.               facies. Methods in Exploration Series, vol. 7. American Associa-
+Reading, H.G., Collinson, J.D., 1996. Clastic coasts. In: Reading, H.G.             tion of Petroleum Geologists. 55 pp.
+    (Ed.), Sedimentary Environments; Processes, Facies and Stratig-             Waelbroeck, C., Labeyrie, L.D., Michel, E., Duplessy, J.-C., McManus, J.,
+    raphy. Blackwell Scientific Publications, Oxford, p. 688.                       Lambeck, K., Balbon, E., Labracherie, M., 2002. Sea level and deep
+Ridente, D., Trincardi, F., 2005. Pleistocene “muddy” forced-                       water changes derived from benthic foraminifera isotopic record.
+    regression deposits on the Adriatic shelf: a comparison with                    Quat. Sci. Rev. 21 (1–3), 295–305.
+

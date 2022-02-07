@@ -1,0 +1,1294 @@
+       Three-dimensional seismo-tectonics in the Po Valley
+                     basin, Northern Italy
+        Claudio Turrini, Pamela Angeloni, Olivier Lacombe, Maurizio Ponton,
+                                             François Roure
+
+
+
+      To cite this version:
+    Claudio Turrini, Pamela Angeloni, Olivier Lacombe, Maurizio Ponton, François Roure. Three-
+    dimensional seismo-tectonics in the Po Valley basin, Northern Italy. Tectonophysics, Elsevier, 2015,
+    661, pp.156-179. �10.1016/j.tecto.2015.08.033�. �hal-01247987�
+
+
+
+
+                                   HAL Id: hal-01247987
+                 https://hal.archives-ouvertes.fr/hal-01247987
+                                      Submitted on 23 Dec 2015
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+Three-dimensional seismo-tectonics in the Po Valley basin, Northern Italy
+
+Claudio Turrinia, 1
+clturri@wanadoo.fr
+
+Pamela Angelonib
+
+Olivier Lacombec, d
+
+Maurizio Pontone
+
+François Rouref, g
+
+a
+    CTGeolConsulting, 78100, St. Germain-en-Laye, France
+
+b
+    Via Antonio Perfetti 25, 00133 Roma, Italy
+
+c
+    Sorbonne Universit és, UPMC Univ Paris 06, UMR 7193, ISTEP, F-75005, Paris, France
+
+d
+    CNRS, UMR 7193, ISTEP, F-75005, Paris, France
+
+e
+    Dipartimento di Matematica e Geoscienze, Universit à degli Studi di Trieste, Trieste, Italy
+
+f
+    IFP-EN, Rueil-Malmaison, France
+
+g
+    Utrecht University, The Netherlands
+
+1
+    Tel.: + 33 672391235.
+
+
+
+         Abstract
+               The Po Valley (Northern Italy) is a composite foreland - –foredeep basin caught in between the Southern Alps and Northern Apennine mountain belts.
+
+               By integrating the 3D structural model of the region with the public earthquake dataset, the seismo-tectonics of the basin is shown at different scales of observation.
+               The three-dimensional geo-volume is used to review the seismicity around the region and validate the structure-–earthquake association for such a complex tectonic framework.
+               Despite the overall uncertainty due to the original data distribution-quality as well as the crustal scale model dimension, the direct correlation between structures and seismicity a) confirms the Po Valley region as an active
+         tectonic system, and b) allows the whole structural architecture to be revised by a unique three-dimensional perspective and approach.
+               This study also indicates that 3D methodology is a powerful tool for a better understanding of highly complex seismo-tectonic situations at both regional and local scalescales.
+
+
+
+Keywords: Seismo-tectonics; 3D models; Earthquakes; Po Valley; Northern Italy; Southern Alps; Northern Apennines
+
+
+1 Introduction
+           Italy is an active tectonic province within the Mediterranean geodynamic puzzle. In the region, the major structural units and the related crustal scale geological boundaries are clearly revealed by the current stress field and the important
+seismicity (e.g. Carminati & Doglioni, 2012; Di Bucci & Angeloni, 2013 and reference therein). Through geological time, both pre-Alpine (Mesozoic and pre-Mesozoic) and Alpine (mainly Cenozoic) tectonics have interacted to create the current
+structural and stratigraphic setting (Elter and Pertusati, 1973; Laubscher, 1996; Castellarin, 2001; Castellarin and Cantelli, 2010; Cuffaro et al., 2010; Mosca et al., 2010; Carminati and Doglioni, 2012 and reference therein). As a result, the Po
+Valley (Fig. 1) represents the north-westernmost buried sector of the Apulian indenter (or Adria plate: Channell et al., 1979, Dewey et al., 1973, Dercourt et al., 1986), the foreland/foredeep domain to the Alpine and Northern Apenninic belts and,
+ultimately, one of the major hydrocarbon provinces of continental Europe.
+
+
+
+
+Fig. 1 Digital topography and tectonic framework (modified from Nicolich, 2010) around the Po Valley region. (PV) Po Valley; (SA) Southern Alps; (NA) Northern Apennines; (WA) Western Alps; (EA) Eastern Alps; (D) Dinarides; (J) Jura Mountains; (A) Adriatic; (T) Tyrrenhian; (1) Insubric Line; (2)
+
+Giudicarie Line; (3) Schio- – Vicenza Line; (4) Sestri- – Voltaggio- – Villavernia Lines; (a- – e) buried thrust fronts: a = Milano Thrust Front; b = Monferrato Thrust Front; c = Emilian Thrust Front; d = Ferrara- – Romagna Thrust Front; e = Ancona Thrust Front. TPB = Tertiary Piedmont Basin. Latitude and
+
+Longitude values are North and East of Greenwich. Grid in the insert inset map is 500 km.
+
+
+          Historical and instrumental earthquakes across the Italian peninsula are recorded, collected and reviewed by the Istituto Nazionale di Geofisica e Vulcanologia (INGV; National Institute for Geophysics and Volcanology). The derived
+catalogues are constantly updated at each new seismic event and both initial and (re)processed data are available to the public, on the institution's website (http://www.ingv.it/it/).
+
+          While earthquakes happen continuously all through the country, the northern part of Italy is characterized by patchy hypocentre occurrence with highly concentrated clusters (Fig. 2a). Magnitude (local) of the reported earthquakes across
+the region is between 0 and 7 while depth of the events is between 0-–70 km. Focal mechanisms from the available literature (Fig. 2b) indicate mainly north-southnorth–south active shortening with thrust-related and strike-–slip structures, these
+being supported by regional stress, thrust -–slip rates, GPS-derived maps and geomorphological criteria (Burrato et al., 2003; Montone et al., 2004; Maesano et al., 2010, 2011; Rovida et al., 2011; Burrato et al, 2012; Carminati & Doglioni, 2012;
+Michetti et al., 2012; Di Bucci & Angeloni, 2013; Maesano et al., 2013, 2014; and all references therein).
+Fig. 2 a- – b - —Instrumental (black) and historical (red) earthquakes (0 < M < 7) against the Po Valley tectonics (see Fig. 1 for units unit distribution and name). Green squares in Fig. 2panel a are deep wells which have penetrated the Mesozoic Carbonates. In Fig. 2panel b the focal mechanisms of
+
+the major events (M > 5; from Di Bucci and Angeloni, 2013) are indicated. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+           Three-dimensional modeling modelling is an important tool to tackle highly complex geological structures. Although such technique has become a standard procedure especially for oil and gas exploration (Mitra and Leslie, 2003; Turrini
+and Rennison, 2004; Dischinger and Mitra, 2006; Mitra et al., 2005, 2007; Valcarce et al., 2006; Turrini et al., 2009; Lindsay et al., 2012; Vouillamoz et al., 2012; Shao et al., 2012 and reference therein), groundwater aquifer studies (Berg et al.,
+2004 and references therein) and ore deposit analysis (Han et al., 2011, and references therein), the application of 3D models to seismo-tectonic studies is rare (e.g. Bechtold et al., 2009; Burrato et al., 2014; Carena et al., 2002; Maesano et al.,
+2014). Hence, schematic cross-sections or simple map-view projections constitute the classic tools for the analysis of structures-versus-earthquakes associations.
+
+           As follow-up to the recent Po Valley 3D model (Turrini et al., 2014), this study aims to illustrate and discuss the structures and the seismicity of the region from crustal to local scale.
+
+           Noteworthy, given the range of uncertainty in both the 3D model and the original earthquake dataset, this study does not aim to offer a quantitative seismological analysis about the selected structural domains. Conversely, the final 3D
+geo-volume may represent a powerful tool in the unraveling unravelling of the basin seismo-tectonic complexity.
+
+2 Regional framework of the Po Valley
+2.1 Structures, stratigraphy & exploration
+         Structures across the Po Valley region mainly refer to the external domains of the Southern Alps and the Northern Apennines and intervening foreland, this latter being a major obstacle to the propagation of large and buried tectonic arcs (Pieri and
+
+Groppi, 1981; Castellarin and Vai, 1982; Bartolini et al., 1996; Cassano et al., 1986Cassano et al.,1986,; Castellarin et al., 1986; Ricci Lucchi, 1986; Perotti, 1991; Perotti and Vercesi, 1991; Bertotti et al., 1997; Argnani and Ricci Lucchi, 2001; Carminati and
+
+Doglioni, 2012; Ahmad et al., 2014; Toscani et al., 2014; Turrini et al., 2014, and reference therein). Provided the well results and the outcrops around the region, the Po Valley sedimentary successions are defined by Mesozoic carbonates, clastic Cenozoic
+
+deposits and a crystalline basement essentially composed of Hercynian metamorphic rocks. The final tectonic features evolved from late Triassic-–early Jurassic extension to late Cretaceous-–Cenozoic compression, this providing inversion of the pre-existing
+
+extensional structures and shortening across both the foreland and the surrounding orogenic belts (Bertotti et al., 1993; Fantoni et al., 2004; Jadoul et al., 1992). ). During such a deformation history, sedimentation of the carbonates kept pace with the overall
+
+tectonics so that shelf, marginal and basin type deposits developed as part of the northern Africa derived Adria micro-plate. Triassic-–early Jurassic rift-related structures were locally inverted by Cretaceous contraction with reactivation of some of the existing N-–S
+
+and E-–W trending normal faults (Dal Piaz et al., 2004; Ravaglia et al., 2006; Schmid et al., 2004). Onset of the foreland flexure at the front of the western Southern Alps is suggested by the deposition of Oligocene turbidites (Gonfolite basin; Gelati and Gnaccolini,
+
+1982; Castellarin and Vai, 1986; Roure et al., 1989, 1990). Finally, in Miocene and Pliocene times, the basin became the foreland of the Alps and the Apennines Apennine belts and the Mesozoic rocks were deeply buried beneath the
+
+Paleogene-Palaeogene –Neogene clastics and the associated foredeeps foredeep wedges (Fantoni et al., 2004; Trumpy, 1973).
+
+         Since the end of the 20th century a number of hydrocarbon fields have been discovered and developed inside the Po Valley basin (Pieri, 1984). Among others, the Villafortuna-–Trecate field, 30 km west of Milano, has been the most successful so far as
+
+it produced 240 MMbbls from a Triassic carbonate reservoir, 5000 m below the mean sea level. By the acquisition of modern 2D/3D seismic surveys and the drilling of deep wells (green dots in Fig. 2a), the oil business strongly contributed to the understanding of
+
+the basin tectonics, sedimentology and geochemistry (Bello and Fantoni, 2002; Bongiorni, 1987; Casero et al. 1990; Cassano et al., 1986; Errico et al, 1980; Fantoni et al., 2004; Lindquist, 1999; Mattavelli and Margarucci, 1992; Mattavelli and Novelli, 1987;
+
+Nardon et al., 1991; Pieri, 1984; Pieri and Groppi, 1981).
+
+
+2.2 Seismo-tectonic setting
+         Summarising active tectonic studies and all those works useful for the seismo-tectonic characterisation characterization of the Po Valley region is difficult, due to the size of the area and the number of papers. Indeed, numerous research projects have
+
+increasingly tackled the Po Valley neotectonic setting, this being especially due to the recent earthquake activity in the region (Michetti et al., 2012; Vannoli et al., 2014).
+
+         Previous studies discussed the region as part of the larger Italian seismo-tectonics in terms of seismicity (Chiarabba et al., 2005), seismogenic source characteristics and processes (Basili et al., 2008), present-day stress field and focal mechanisms (Di
+
+Bucci and Angeloni, 2013; Montone et al., 2004), and GPS analysis (Serpelloni et al., 2005, 2012, 2013). At the same time, other studies have concentrated on selected areas or specific seismo-tectonic-related topics across the Po Valley and the surrounding
+
+regions. Among these many studies, below we put emphasis on those which provided key constraints to the performed 3D modelling, loosely grouped by tectonic domain (foreland, Southern Alps, Northern Apennines).
+
+         In the foreland, Castaldini and Panizza (1991) illustrated one of the first inventory inventories of active faults, yet restricted to the eastern sector of the region. Burrato et al. adopted a geomorphological approach, based on the detailed analysis of the
+
+drainage network (2003), and pseudo 3D models (2012 and 2014) to contribute to the assessment of the seismic hazard across the basin. Carminati et al. (2007) utilized historical sources to discuss the feasibility of liquefaction-induced subsidence in Venice and
+
+the possible associated earthquake phenomena. Livio et al. (2009; 2014), 2014) used seismic reflection profiles, field data, exploratory trenching and geomorphic and structural analysis to characterize the Quaternary growth history of selected inferred active
+
+buried thrusts. Bresciani and Perotti (2014) used field surveys, well data and a detailed interpretation of a depth-converted seismic line, to reveal the seismo-tectonic characteristics of a partially buried structure, still active in recent times (the Romanengo
+
+anticline). Toscani et al. (2014)Toscani et al., (2014) investigated the kinematics of the central sector of the Po Valley foreland - –foredeep units, between the Southern Alps and the Apennines, by structure restoration and analogue models. Recently, Maesano et
+
+al. (2010, 2011, 2013, 2014) presented the compilation of a slip-rate database about the Plio-–Pleistocene blind thrusts of the outer Northern Apennines fronts, these being potential sources of strong earthquakes. North of Milan and at the transition between the
+
+Southern Alps and the foreland units, Scardia et al. (2014) documented the tectonics and earthquake activity which deformed that domain since the Pliocene to the present day.
+
+         Along the eastern Southern Alps and especially in the Friuli region, seismo-tectonic structures have been investigated using: stress orientation data and focal mechanism inversion (Bressan et al., 1992, 1998, 2003), structures-–earthquake association
+
+(Carulli and Ponton, 1992), earthquake relocation and hypocentral probability (Poli et al., 2002), seismogenic sources (Barba et al., 2013; Burrato et al., 2008; Galadini et al., 2005), strain accumulation and stress transfer by numerical investigation (Cassola et al.,
+
+2007), site velocities from continuous GPS observations and 3D modeling modelling (Bechtold et al., 2009), finite-fault synthetic seismograms and fault models (Moratto et al., 2012), and seismic monitoring experiments (Chiaraluce et al., 2009).
+
+         On the southern side of the Po Valley basin, the seismicity of the Northern Apenninic front and the derived buried tectonic arcs has been the subject for different studies (Benedetti et al., 2003; Boccaletti et al., 2011; Di Giovambattista and Tyupkin, 1999;
+
+Gunderson et al., 2013; Ponza et al., 2010; Toscani et al., 2006, 2009). In particular, given the recent and important earthquake activity, various techniques have been used to unravel the seismo-tectonic framework of the western sector of the Ferrara tectonic arc,
+
+namely the Cavone-–Mirandola area (Carminati et al., 2010; Bignami et al., 2012; Di Manna et al., 2012; Marzorati et al., 2012; Scognamiglio et al., 2012; Carannante et al., 2013; Maesano et al., 2013; Bonini et al., 2014; Govoni et al., 2014).
+
+         Noteworthy, given the apparent lack of important seismicity, no particular research has tackled the seismo-tectonics of the extreme western Po Valley (i.e. west of Milan). Nevertheless and exceptionally, Delacou et al. (2004) integrated that region as part
+
+of the seismo-tectonics analysis of the western/central Alps using a synthesis of the available and most reliable focal mechanisms.
+3 Data & methodology
+3.1 Data
+         The data used to build the performed 3D model are derived from public literature and the archives of the Italian Ministry of Energy (http://unmig.sviluppoeconomico.gov.it, namely the ViDEPI Project, n.d). As such they refer to geophysical and geological
+
+maps, cross-sections, well composite logs and stratigraphic columns. No seismic data have been used during the model building process. A complete description of the whole dataset, and its distribution across the basin, is provided in Turrini et al. (2014).
+
+         Conversely, the earthquake data comes from the catalogues available to the public on the INGV website (http://bollettinosismico.rm.ingv.it; http://iside.rm.ingv.it). Hypocentres in the database, described by location, magnitude (Mw and Mi for historical
+
+and instrumental earthquake respectively) and depth, can be essentially classified as:
+
+
+         1. Historical, if their location was derived from the analysis of the damage pattern. They are included in the CPTI11 Catalogue (Rovida et al., 2011; http://emidius.mi.ingv.it/CPTI11/). There are earthquakes from 1000 to 2006, those occurred from 1980 to 2006 are also included in the
+
+            instrumental catalogues. This is a parametric catalogue with epicentral coordinates, but not depth, and magnitude expressed as moment magnitude (Mw).
+
+         2. Instrumental if it occurred after 1980 and registered by the Italian seismic Network (that was established after the 1980 Irpinia earthquake). Usually all these earthquakes were located in semi real time and re-located manually. These earthquakes are included in different catalogues
+
+            since the ISN was developed during the time and changed also a little bit the procedure to located locate them. From 1981 to 2001 they are included in the CSI 1.1 Catalogue (Castello et al., 2006; http://csi.rm.ingv.it/). From 2002 to April 2013 they are included in the Bollettino Sismico
+
+            Italiano and downloadable from http://bollettinosismico.rm.ingv.it/ and http://iside.rm.ingv.it/. The latter web site includes also the real-time seismicity not revised by the analyst seismologists (April 2014 up to now).
+
+
+3.2 Methodology
+         The methodology adopted so far refers to four different phases of data collection, editing and analysis.
+
+         Phase I: the available data from the literature have been integrated/geo-referenced to a common geographical system and used to build the Po Valley 3D structural model (Turrini et al., 2014). Four layers have been gridded all across the region while
+
+key cross-sections, depth-slices and isopach maps have been constructed to analyse analyze the final model. Both the model building and the related analysis have been performed using the MOVE software.
+
+         Phase II: in order to a) review the regional 3D model layers, b) improve them across selected structural domains inside the basin, and c) build the final 3D fault pattern, the Kingdom 2D3D package (http://www.ihs.com/products/oil-gas/geoscience-
+
+software/kingdom-seismic-interpretation/index.aspx) has been used after creation of a regular grid of SEGY pseudo-seismic lines and import of the MOVE depth grids, these being hence better suitable for re-picking, tie to wells and local modifications.
+
+Specifically, the fault building process was performed by:
+
+
+         1. projection of public map fault traces on the model grid layers
+
+         2. analysis and slicing of the structural geometries from the 3D model depth-grids and along the available well paths
+
+         3. gridding of the final 3D fault plane.
+
+
+         Further, the Kingdom surface-validation tool was used to allow the 3D surface compatibility of the modeled modelled faults to be checked during real-time picking on the pseudo-segy lines.
+
+         Phase III: the 3D structural model has been populated with the earthquake data from the INGV catalogs catalogues and a 3D seismo-tectonic model could be obtained. For ease, both historical and instrumental events were divided and graphically
+
+scaled in different magnitude classes (0 < M < 7). The final 3D seismo-tectonic models have been accurately sliced and analyzed versus the hypocenter hypocentre distribution, the single shock events being eventually coloured by depth and projected onto the
+
+model vertical slices from the most suitable distances.
+
+         Phase IV: 3 selected 3D seismo-tectonic sub-models and the derived earthquake-–structures associations have been analysed analyzed by map view, systematic vertical slicing and hypocenter hypocentre projection. The MOVE software was used for
+
+3D visualization and rendering of the model structures and earthquake events.
+
+
+4 Model and data uncertainty
+         The uncertainties associated with the 3D structural model have been discussed in by Turrini et al. (2014)Turrini et al., (2014) and can be considered to increase as we move downscale from the crustal to the field scale. In order to refine
+the interpretation and reduce the related uncertainties, the MOVE grids have been reviewed and improved using Kingdom software, where interpretation of horizons and faults can be more easily managed by cross-picking and wells, such as is
+done for conventional seismic interpretation. Since no seismic data have been used during the model building, any issue related to the Po Valley litho-tectonic units velocities is directly inherited from the original depth-data (maps, cross-
+sections, wells; see specific papers referenced in Turrini et al., 2014) so that the related uncertainty is then accepted as part of the 3D structural model one.
+
+        Uncertainty concerning the location and magnitude of earthquakes within the extent of the final 3D model can be larger than the structural uncertainty. This is mainly due to the data recording and processing. In particular, depth
+conversion of the events is critical as the final error will essentially depend on the difference between the selected velocity model and the true, yet unknown, velocity distribution through the Earth. Despite any effort and reviewing by the INGV
+experts, uncertainty about 3D location (horizontal and vertical) and magnitude of the hypocenters hypocentres remains a major issue within the Po Valley seismicity database (e.g. Chiarabba et al., 2005), although various filtering of the data may
+represent a way to reduce it: 1) magnitude cut-off (i.e. > 5, ref. Vannoli et al., 2014), 2) selection of the events characterized by a minimum error in the INGV catalogues, and 3) selection of the events recorded by a maximum number of stations.
+Eventually, although aware of the aforementioned concepts and given the general scarce and patchy seismicity of the Po Valley domain, we have chosen to use the entire INGV earthquake dataset. As a consequence the possible seismo-
+tectonic scenarios have been analyzed in the light of the performed 3D perspective and our experienced/knowledge of the basin. The process suggested that:
+
+         1. The validity of the Po Valley structure- – earthquake integration seems, at present, acceptable at the regional scale, whereas it should be considered possible at a smaller scale (e.g. across the selected sub-domains);
+
+         2. The distance of projection of the earthquakes (HPD = Hypocentre Projection Distance) on the selected cross-sections or maps is based on a) an average 2- – 5 km horizontal- – vertical error (http://www.ingv.it/it/), b) the structural domain specifications (e.g. mainly
+
+            compression/extension?), c) the 3D structures (geometries, dimensions), and d) the distribution/density of the surrounding earthquakes;
+
+         3. This indicates that the earthquakes- – structures integration and the derived comparative analysis have the potential to act as a decisive tool for uncertainty reduction and reciprocal validation of the data used to build the final Po Valley 3D seismo-tectonic model.
+
+
+
+5 Seismo-tectonics across the 3D Po Valley geo-volume
+5.1 3D model and regional seismicity
+        Once the outcrop structural trends and the subsurface model layers are put against the entire earthquake dataset, the 3D seismo-tectonic framework across and around the Po Valley is immediately revealed.
+
+        In general, the model confirms the positive correlation among the crustal tectonics and the most important earthquake events (Fig. 3a).
+Fig. 3 Images from the 3D seismo-tectonic model. a) Moho and top Mesozoic Carbonates grid-layers with earthquake (3 < M < 7) colored coloured by depth (sea color colour scale bar in Fig. 3panel c). Perspective view looking NW; b) map view of the Moho units (EM = European Moho, AM = Adria
+
+Moho, TyM = Tyrrenian Moho; white dot line is the northern boundary of the Adria Moho; see Turrini et al, 2014) against contour map of the Po Valley top Mesozoic Carbonates and major tectonics. Earthquakes (3 < M < 7) are colored coloured by depth (sea color colour scale bar in Fig. 3panel c).
+
+NA = Northern Alps, WA = Western Alps, SA = Southern Alps, Nap = Northern Apennines; c) all instrumental earthquakes (0 < M < 7) colored coloured by depth to show active tectonics across the Northern Apennines and the Southern Alps. (For interpretation of the references to colour in this figure
+
+legend, the reader is referred to the web version of this article.)
+
+
+           In detail, inspection of the 3D model by depth rendering, contouring and perspective visualization of the layerslayer/faults fault grids and the earthquake events illustrates a number of observations:
+
+
+           1. Most of the events are concentrated at the upper-crust level, between the top basement and the top Mesozoic carbonates (Fig. 3b; red events);
+
+           2. Only a minor part of the shocks occur in the lower crust or close to the Moho interface (Fig. 3b; orange and green event);
+
+           3. The Adria plate boundary is actively interacting with the Tyrrhenian-– Ligurian plate below the Northern Apennines (Fig. 3a; see also Fig. 7c-– d) so that the earthquake events can be followed from surface down to 70 km below the Northern Apennines (Fig. 3a and c; see also
+
+               Fig. 7c-– d);
+
+           4. Conversely, along the Southern Alps belt, the tectonic interaction between the Adria and the Europe plates appears currently frozen at the deep crust and Moho levels whereas deformation of the upper crust is confirmed by the intense seismicity across the Mesozoic and upper
+
+               basement units (Fig. 3a and c; see also Fig. 7a-– d);
+           5. At the southern and northern boundaries of the eastern Po Valley domain, overthrusting of the Southern Alps and the Northern Apennines onto the Po Valley Mesozoic foreland controls the earthquake concentration at the buried and segmented front of the two belts (Ferrara arc, Friuli
+
+               domain) (Fig. 4a);
+
+           6. Structures across the Cenozoic clastic successions and above the base-Pliocene surface (Fig. 4b) show poor instrumental seismicity (e.g. in the NW sector the Ferrara tectonic arc).
+
+
+
+
+Fig. 4 Images from the 3D seismo-tectonic model. a) Top Mesozoic Carbonates contoured 3D grid and major thrust surfaces at the Northern Apennines (Nap) and Southern Alps (SA) segmented external front; instrumental earthquakes coloured by depth (colour scale bar in Fig. 3c); b) eastern Po
+
+Valley Base Pliocene 3D structures (see insert inset for location) and the associated instrumental earthquakes in the Cavone region. Outcrop geometries (purple) and thrust front of the Northern Apennines (black stipple line) are shown. (For interpretation of the references to colour in this figure
+
+legend, the reader is referred to the web version of this article.)
+
+
+           Seismicity can also be correlated to the Mesozoic Carbonates units which is the main exploration target in the area (see Turrini et al., 2014 for detailed discussion). Indeed, because the earthquakes especially concentrate at the upper-crust level (see
+
+Fig. 3b), the final Carbonates-earthquake map-view (Fig. 5a-–b) can be taken as representative of the Po Valley foreland seismo-tectonics. The derived picture illustrates the major structures of the eastern and western domain as they stand against a general poor
+
+and patchy seismicity: nearly absent west of the Giudicarie lineament and rather intense although extremely localized to the east of that lineament.
+Fig. 5 Po Valley top Mesozoic Carbonates 3D grid by contouring and depth colouring, earthquakes and tectonics: map view; a) structures against all instrumental and historical earthquakes. Location of sections and selected domains of in Figs. 7, 8, and 9 are is indicated; b) structures against
+
+instrumental earthquakes (4 < M < 7) coloured by depth. Horizontal net dimension is 80 km. Latitude and longitude values are North and East of Greenwich.
+
+
+5.2 Faults and earthquakes
+          At present, our seismo-tectonic model is populated with 66 fault surfaces. Most of them are thrust faults (with possible local oblique component of slip) related to Alpine shortening. Nevertheless, a part of those faults can be associated to both extension
+
+and compression that occurred through Triassic to present (Turrini et al., 2014 and all references therein). Few faults in the current 3D model are extensional faults only.
+
+          In detail, the 3D model faults can be divided into 4 groups (Fig. 6) mainly defined according to their location and depth and each characterized by specific earthquake population:
+Fig. 6 3D fault surfaces, coloured by depth, against all earthquake events: see text for description of each fault-group. Horizontal net dimension is 80 km. Latitude and longitude values are North and East of Greenwich.
+
+
+          Group 1 (Fig. 6a): these faults are part of the western Po Valley structural domain and they exclusively cut across the Mesozoic carbonates and their underlying basement (Cassano et al, 1986; Fantoni et al., 2004; Ravaglia et al., 2006). Depth to the fault
+
+plane is comprised between 3 and 15 km. Dip is really variable depending on the related structure orientation and tectonic significance (see Turrini et al. 2014, and reference therein). Most of the Group 1 faults appear free from important earthquake activity with
+
+the exception of isolated faults to the east of Milan and those below the Monferrato belt (see cross-section AA1 in Fig. 8 and related discussion).
+
+          Group 2 (Fig. 6a): faults of this group belong to the eastern Po Valley structural domain, namely the buried front of the Northern Apennines (Ferrara arc). These faults deform the Mesozoic carbonates and propagate into the overlying Cenozoic clastic
+
+successions (Pieri and Groppi, 1981; Cassano et al., 1986; Castellarin et al., 1986; Bonini et al, 2014 and all reference references therein). Basement involvement by some of the more internal faults is a long-standing debate, yet it seems to be eventually
+
+demonstrated by recent earthquake activity (Govoni et al., 2014 for the most recent analysis of relocated hypocentres). Depth to the fault plane is comprised between 3 and 15 km. Dip is mainly towards the SW. Inside the group, the faults that deform the NW
+
+sector of the Ferrara tectonic arc can be correlated with intense earthquake clusters (see Section 5.4.2 and related references). Only a weak seismicity is recorded along the 3D fault surfaces that have been modeled modelled across the SE sector of the arc.
+
+          Group 3 (Fig. 6b): these faults are again part of the western Po Valley domain yet they are shallower than the ones described for group 1 and mechanically detached from them (Bello and Fantoni, 2002; Cassano et al., 1986; Fantoni et al., 2004; Turrini
+
+et al., 2014 and references therein). In particular they:
+         1. displace the South Alpine allochthonous basement (fault '‘SAb'’)
+
+         2. displace and imbricate the South Alpine carbonate units ( faults 'fault ‘SAc'’)
+
+         3. induce thrusting of the clastic sediments at the front of the western Southern Alps (fault '‘SAw'’)
+
+         4. displace the Northern Apennine Ligurides units in the Monferrato region (fault '‘NAm'’)
+
+         5. deform the clastic succession of the Emilia and Milano buried fronts (faults '‘NAe'’ and '‘SMf'’ respectively).
+
+
+         Seismicity around those faults is poor and the related magnitude values vary from low to moderate as we move from west to east, towards the Giudicarie lineament and the NW sector of the Ferrara buried arc.
+
+         Group 4 (Fig. 6b): faults in this group define the Veneto and Friuli Southern Alps domains, the latter being deformed by both the Alpine and Dinaric tectonics (see Section 5.4.1, this paper, and references therein). Depth to the fault planes varies between
+
+1 and 15 km as their dip is mostly towards the NNW (Alpine faults) and NE (Dinaric faults). Seismicity around the fault planes can be intense with high magnitude values (see Section 5.4.1).
+
+
+5.3 3D model slicing and earthquakes
+         Vertical slicing of the model provides further insights about the final 3D seismo-tectonic geo-volume and the methodology as well.
+
+         The crustal-scale sections in Fig. 7 supply good examples of the Po Valley structure-–earthquake associations moving from the western domain (section 'sections ‘a'’ and '‘b'’) to the eastern one (section 'sections ‘c'’ and '‘d'’). The hypocentres from the
+
+INGV database have been projected perpendicularly from a distance of 10 km, on the same cross-sections which have been already discussed in terms of structural geometries by Turrini et al. (2014). The negative and positive correlations between structures
+
+and instrumental seismicity are straight-forwards across the region at all of the stratigraphic levels. Once again the major tectonic zones are the loci of important earthquake clusters in the eastern Po Valley domain (section 'sections ‘c'’ and '‘d'’). Conversely the
+
+western domain structures (section 'sections ‘a'’ and '‘b'’) appear nearly earthquake-free, even considering the historical event distribution (red dots at depth = 0 on all of the cross-sections).
+Fig. 7 Crustal-scale cross-sections from Turrini et al., (2014) against the INGV earthquake dataset; black dots: instrumental hypocentres (0 < M < 7); red dots: historical hypocentres (M = 3-– 7). HPD = Hypocentre Projection Distance. Deep red dots in section ‘d’ are historical hypocentres relocated
+
+by depth. Section ‘a’: 1 = Near Top Basement; 2 = Near Top Triassic; 3 = top Mesozoic Carbonates; 4 = Cenozoic succession; 5 = Base-Pliocene unconformity; NA = Northern Apennines, Allochtonous(Allochthonous Ligurides); TPB = Tertiary Piedmont Basin sediments; LA = Ligurian Alps;
+
+SA = Southern Alps; IFZ = Insubric Fault Zone; M = Moho. Section ‘b’: 1 = Northern Apennines ( AllochtonousAllochthonous Ligurides); 2 = Southern Alps; 3 = Western + Northern Alps. Section ‘c’: 1 = Near Top Basement; 2 = Near Top Triassic; 3 = top Mesozoic Carbonates; 4 = Cenozoic
+
+succession; 5 = Base-Pliocene unconformity; NA = Northern Apennines; SA = Southern Alps; v = volcanics; IEF = Inverted extensional fault. Section ‘d’: 1 = Near Top Basement; 2 = Near Top Triassic; 3 = top Mesozoic Carbonates; 4 = Cenozoic succession; 5 = Base-Pliocene unconformity;
+
+NA = Northern Apennines; SA = Southern Alps; IFZ = Insubric Fault Zone; M = Moho. See Fig. 5a for location of sections. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+           In order to focus on the seismo-tectonic interpretation of the foreland structure while showing the impact of the earthquake distance of projection on the derived uncertainty, the AA1 cross-section in Fig. 8 has been sliced from the 3D model and the
+
+related structure-–earthquake associations have been analysed analyzed and compared to one another.
+Fig. 8 Vertical slice across the seismo-tectonic 3D model to show the possible structures-– earthquakes associations as a function of the hypocentres projection distance: a) section location on the top Mesozoic Carbonates grid layer and all earthquake dataset; red line = vertical slice path, stipple
+
+lines = 5, 10 and 20 km Hypocentre Projection Distance for b, c, and d earthquake projection sensitivity; b) 2d structures and earthquakes (0 < M < 5) projected from 5 km normal to the section; c) 2d structures and earthquakes (0 < M < 5) projected from 10 km normal to the section; c) 2d structures
+
+and earthquakes (0 < M < 5) projected from 20 km normal to the section. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+           The cross -section runs through the Monferrato arc, the Gaggiano-Lacchiarella domain, the external front of the Southern Alpine belt (and the related foreland units) and the Veneto carbonate platform unit (Fig. 8a). The overall structural setting basically
+
+refers to a) Triassic-–Jurassic extension which controlled the Mesozoic block-faulting and the related thickness distribution and b) Cretaceous-to-Pliocene contraction which reactivated part of the extensional faults, inverted some of the Jurassic basins and
+
+displaced the Apennines and Southern Alps towards the Po Valley foreland (Turrini et al., 2014 and all references therein).
+
+           Three different distances of projection of the surrounding earthquakes have been considered with respect to the structure orientation and dimensions (see Fig. 8a and figure caption for explanation). The associated magnitude, variable between 0 and 5
+has been rendered using different colors colours and dimension of the points representing the shocks in the area.
+
+         When the projection distance of the events on the cross-section is 5 km (Fig. 8b), no major shock is shown across the structures. Conversely three shocks with 3 < M < 4 occur in the Veneto Platform domain: near the top of the Mesozoic Carbonates and
+
+in the lower crust, at approximately 20 km depth below the mean sea level. One shock with similar magnitude occurs close to the Moho below the Monferrato belt, in correspondence to a strong '‘fold'’ of the Moho. A cloud of shocks with 0 < M < 3 is loosely
+
+distributed to the ENE of the well Chiari 1, between the topography and - − 10 km depth. Eventually, some isolated shocks can be picked below the Asti 1 well, in the Monferrato region. The picture, despite the absence of major earthquakes, provides a
+
+reasonable imaging of the seismo-tectonic of the area with an increasing seismicity from SW to NE.
+
+         Using a 10 km (Fig. 8c) distance of projection a couple of 4 < M < 5 events can now be associated with the basement faults which deform the Veneto Platform. The 3 < M < 4 earthquakes are spread over a wider area, below and to the east of the Chiari
+
+well, both in the foreland and within the Southern Alps units. A few of them also appear close to the Moho: close to the Moho interface between the Lacchiarella inverted structure and the Monferrato belt, and near to the top of the basement, below the Asti 1 well.
+
+The seismo-tectonic architecture suggested using a 5 km distance of projection is here confirmed and possibly reinforced: a) seismicity gets stronger from west to east, b) the Southern Alps thrusts do correlate with some shock events, c) some of the extensional
+
+faults in the foreland can be correlated to isolated shocks (Chiari basin) and some other are nearly shock-free (Lacchiarella basin), and d) there seems to exist a seismogenic layer above the Moho interface.
+
+         Using a 20 km distance (Fig. 8d), the 3 < M < 5 earthquake clusters previously described are substantially the same while the 0 < M < 3 events increase in density as a sort of background-seismicity-noise across the crust to the east and west of the
+
+Gaggiano-–Lacchiarella zone.
+
+         From the performed analysis we conclude that:
+
+
+         1. With any of the earthquake projection distance we have chosen, the overall seismo-tectonic picture always indicates moderately active Veneto-Platform and Southern Alps domains and a low active Monferrato domain, the two being separated by a nearly silent zone which covers the
+
+            Gaggiano-– Lacchiarella structural domain.
+
+         2. Along the selected cross-section path, increase in the projection distance from 5 to 20 km results to an increase of the structure seismicity for all of the domains with no visible inconsistency among the different tests.
+
+         3. Nevertheless, given the geometry of the structures (dimension and orientation) and the distribution of the available earthquakes, a projection distance of 10 km appears to be the most reasonable for the selected model slice to produce a most likely representation of the possible seismo-
+
+            tectonic system. Conversely the 5 and 20 km earthquake projection distances seem to account for the extreme situations (minimum or maximum earthquake events), those not allowing the studied case to be completely/correctly represented in its seismo-tectonic elements.
+
+
+
+5.4 Seismo-tectonics of selected structural domains around the Po Valley basin
+         In order to test the final 3D seismo-tectonic model and the related methodology, two domains on the opposite sides of the Po Valley basin, the Friuli domain and the Ferrara arc (Figs. 9-–13), have been selected for further and more refined analysis.
+Fig. 9 Selected domains from the Po Valley 3D seismo-tectonic model: a) Friuli domain: section location, tectonics and earthquakes; IFz = Insubric Fault zone, SAf = Southern Alps thrust front, Df = Dinarides thrust front, SAD = Southern Alps-– Dinarides Interference zone. Horizontal net dimension is
+
+80 km. Latitude and longitude values are North and East of Greenwich; b) earthquake distribution by number and depth against approximate crustal scale stratigraphy (Mz = Mesozoic carbonates, B = basement; M = Moho); blue shadow area to suggest vertical uncertainty of the earthquake
+
+distribution; c) Ferrara arc domain: section location, tectonics and earthquakes; d) earthquake distribution by number and depth against approximate crustal scale stratigraphy (Mz = Mesozoic carbonates, B = basement; M = Moho); blue shadow area to suggest vertical uncertainty of the earthquake
+
+distribution. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+Fig. 10 Seismo-tectonic sections in the Friuli domain of the eastern Southern Alps to show structures-– earthquake associations in the region (location in Fig. 9a; modified from Ponton, 2010; HPD = Hypocentre Projection Distance; note different HPD for the same a1 and a2 cross-sectionsections:
+
+see text for discussion). Deep red dots are relocated hypocentershypocentres. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+Fig. 11 3D visualization of the Friuli domain seismo-tectonics: 4 < M < 7 earthquakes against 3D fault surfaces; a) earthquakes in the footwall of major thrust plane, perspective view looking NW; b) same earthquake cluster of Fig. 11in panel a at the Southern Alps-– Dinarides structural interference
+
+(IF = interference zone; SATh = Southern Alps thrust; DTh = Dinaric thrust.; see text for discussion). Perspective view looking NW.
+Fig. 12 Seismo-tectonic sections sliced across the 3D volume (location in Fig. 9b) to show structure-– earthquake association across the Ferrara tectonic arc; HPD = Hypocentre Projection Distance; see text for discussion.
+Fig. 13 3D visualization across the Ferrara domain; a) earthquake stratigraphy, conformable with the model layers; perspective view looking SSW; b) earthquakes (cubes colored coloured by depth; dimension proportional to magnitude) versus folds and thrusts in the Cavone field area; perspective
+
+view looking NW. c) transfer zone, overlapping thrusts and earthquake distribution between the Cavone field and the Ferrara anticline (cross sections from Cassano et al., 1986). Perspective view looking SW; see text for discussion.
+
+
+5.4.1 The Friuli domain
+          The Friuli domain is located at the transition between the eastern sector of the Southern Alps-Dinaric fronts and the associated Po Valley foreland (Fig. 9a; see also Fig. 5). The tectonic setting is related to a poly-phase history which created the present
+
+tight architecture and the associated arc-shaped configuration, convex towards the north. In this region, N -–S faults, transported within the belt and buried in the foreland, mainly refer to Mesozoic extensional episodes, while two different thrust families result from
+
+the progressive interference between the Dinaric (end Cretaceous-–Eocene) and Alpine (from end Oligocene onwards) mountain belts (Castellarin et al., 1992, 2006; Doglioni & Bosellini, 1987; Ponton, 2010; Venturini, 1991). The Dinaric structures are
+
+particularly evident in the eastern sector (Julian Pre-Alps), with NW-–SE oriented folds and thrusts (Placer, 1999; Placer et al., 2010) The Dinaric thrusts appear truncated in the central sector (Gemona) by a dense system of neo-Alpine E-–W imbricate thrusts
+
+which locally and partially re-use the pre-existing Dinaric ones. In the western sector (Carnian Pre-Alps) NE-–SW thrusts, neo-Alpine in age (Upper Miocene onwards), can be observed together with NW-–SE coeval dextral strike -–slip faults of the eastern zone
+
+(Slovenia). Across the area, rocks pertain to both metamorphic and non-metamorphic rocks. The basement is metamorphic to the west, while in Carnia (Central and Eastern Friuli zone) it corresponds to a non-metamorphosed Paleozoic Palaeozoic succession which
+
+has however been deformed by Variscan tectonic phases, and to a late-orogenic Permo-Carboniferous sequence (Ponton, 2010 and reference therein). The sedimentary succession which covers the basement is about 10 km thick. There are two important
+
+evaporitic layers: in the Permian (up to 250 m thick) and in the Carnian (up to 250 m thick); Mid-Triassic massive carbonates (up to 1000 m thick) or terrigenous successions; late Triassic to Cretaceous very thick massive carbonates (up to 3500 m thick); at the top
+clastic deposits refer to the Dinaric foredeep, (Paleogene Palaeogene turbidites, 2500 m), and to the South Alpine forebulge, (Miocene clastics, up to 2500 m).
+
+         The domain is seismically active and is classified at the top risk level in the seismic hazard map of northern Italy. Seismicity (Fig. 9a; see also Fig. 5) is distributed in clusters along the mountain fronts and both earthquake concentration and depth
+
+decrease towards the foreland. The largest cluster of events is shown in the central pre-Alps, at the interference between the Dinaric structures and the neo-Alpine ones. In this area, most of the hypocentres are reported to be approximately concentrated between
+
+1 and 30 km depth (Fig. 9b) (Carulli & Ponton, 1992; Merlini et al., 2002; Moratto et al., 2012; Ponton, 2010). The associated focal mechanisms (see Fig. 2b) (Burrato et al., 2008; Di Bucci and Angeloni, 2013; Michetti et al., 2012) indicate a) compressional
+
+tectonics and N -–S oriented principal stress direction in the central sector of the domain, b) compression with NNW-–SSE oriented principal stress direction and locally sinistral shear in the western sector (Bechtold et al., 2009; Bressan et al., 1998, 2003; Burrato
+
+et al., 2008; Galadini et al., 2005; Peruzza et al., 2002; Poli et al., 2002), and c) dextral strike -–slip shear movements in the eastern sector (Slovenia) (Kastelich et al., 2008; Ponton, 2010). Both the stress and GPS-related displacement fields, confirm the afore-
+
+mentioned tectonics and the present kinematics (see also Serpelloni et al., 2005, 2012, 2013; Bechtold et al., 2009; Devoti et al., 2011; Michetti et al., 2012).
+
+         The 3D analysis of the Friuli domain has been performed using selected cross-sections from recent literature (Fig. 10; Ponton, 2010). These sections have been imported into the Po Valley 3D model so that some of the key thrusts could be digitized, built
+
+as three-dimensional surfaces and integrated within the final geo-volume. Hence, the whole setting has been checked for special geometrical compatibility so that the 3D Po Valley model and the 2D cross-sections could be reciprocally validated.
+
+         Noteworthy, within this domain, some of the historical hypocentres have been relocated by the INGV specialists and their depth has been assigned (deep red dots in sections ‘a-–d ’ of Fig. 10).
+
+         Section '‘a’'
+
+
+         This section is oriented ENE-–WSW across the belt (see location in Fig. 9a). It represents a strike line to the Alpine structures and, simultaneously, a dip-line to the Dinaric ones. As such thrusts refer to these two diachronous and distinct structural families
+
+thus revealing the derived interference and overprinting kinematics (Ponton, 2010). Given the high-density hypocentre cluster which the section intersects in the NE of the area, an initial earthquakes earthquake projection distance of 1 km has been chosen. The
+
+resulting picture (Fig. 10 10a1) shows low-to-high seismicity in correspondence of the strong thrust-stacking which has been interpreted in the eastern sector of the section, with depth between 5 and 10 km, within the Triassic units and above the basement. Few
+
+and isolated minor shocks appear in the central and western sectors, close to the top basement. Interestingly, when the earthquake projection distance is 2 km (Fig. 1010a2), the results show a slightly different structures-–earthquakes association, so that: 1) the
+
+cluster in the eastern part of the section is denser, 2) a number of hypocentres occur at higher levels of the eastern tectonic stack (Upper Triassic and Jurassic levels), and 3) some important shocks can be observed in the basement, both below the thrust-related
+
+imbricates and in the central part of the section.
+
+         Section '‘b’'
+
+
+         This section can be approximately considered as an oblique line to both the Alpine and Inner Dinaric structures, and a dip line to the Outer Dinaric structures and a dip line to the external Dinaric fronts (see location in Fig. 9a). It also intersects a couple of
+
+strike -–slip zones in its internal part. The interpreted fault pattern clearly shows the related structural interference (high angle and low angle thrusts cross-cutting each others). Using a variable 2-–5 km projection distance (NE and SW of the Bernadia well
+
+respectively), the section allows the central Friuli earthquake cluster to be illustrated and compared with the one provided by the previous strike line. The resulting hypocenter hypocentre distribution confirms the correlation between the deep thrust-stack and the
+
+seismicity in the area. The main shocks appear to occur at the top of the Middle Triassic units, at the bottom of Upper Triassic carbonate units and, locally, within the basement. Remarkably, the high-angle (NW-–SE) strike -–slip faults here seem not to tie with any
+
+earthquakes, yet their SE segments are highly seismogenic (Burrato et al., 2008; Ponton, 2010).
+
+         Sections ‘c’ and ‘d’
+
+
+         Both the sections are dip-lines with respect to the Alpine structures and cut through the entire Alpine belt (see location in Fig. 9a). The earthquake projection distance is 2 km for section c and 5 for section d.
+
+         On section '‘c'’ (see Fig. 10c) the earthquake events are widespread over a large part of the central sector and, once again, they seem to occur 1) especially within the mid-Triassic carbonates and 2) close to the top of the basement. A positive correlation
+
+among the projected shocks and the interpreted thrusts is really evident at the footwall of the basement units.
+
+         On section '‘d '’ (see Fig. 10d), seismicity is weak and displays a decreasing trend from north to south of the belt. The positive correlation among instrumental hypocentres and thrusts is impressive at the deep ramp segment of the more external thrust
+
+surface. The outer and shallow thrust-anticline can be likely associated with the historical shocks (i.e. 0 m depth).
+
+         3D visualization
+
+
+         The seismo-tectonic pattern of the region is outstanding when observed in the 3D volume (Fig. 11). In particular, the anatomical analysis of the model confirms that the central Friuli high-density earthquake cluster:
+
+
+          1. is localized in the footwall of a major thrust zone whose footwall volume has been imbricated by the recent active tectonic (Fig. 11a)
+             2. is related to the interference between Alpine and Dinaric structures and the derived overlapping thrust surfaces (Fig. 11b), those being locally active during the '‘same'’ geological interval (i.e. the Alps and the Dinarides are active belts at present).
+
+
+
+5.4.2 The Ferrara domain
+             This domain is located at the front of the eastern sector of the Northern Apennines, in the Ferrara arc (Fig. 9c; see also Fig. 5). Structures refer to thrusted thrust folds, displaced towards the NE and deforming both the Mesozoic and Cenozoic deposits (e.g.
+
+Turrini et al., 2014 and references therein). The structural style is debated yet major evidence supports mainly thin-skinned tectonics with some partial/local involvement of the basement. Nevertheless, a conclusive thin-–thick skinned tectonics can now be
+
+admitted, resulting from the interference between possible Mesozoic extensional faults (approximately N -–S oriented; Turrini et al., 2014Turrini et al.2014) and Cenozoic thrusts, WNW-–ESE oriented. From top to bottom, the rock package refers to Cenozoic
+
+terrigenous successions, Mesozoic carbonates and metamorphic basement (Cassano et al., 1986). An important detachment level made up of evaporite (Burano Formation), enhances the mechanical decoupling between the basement and the Meso-–Cenozoic
+
+package (e.g. Cassano et al., 1986). Conclusively, the interaction among faults (normal and reverse), mechanical stratigraphy and the flexure-related Pio -–Pleistocene subsidence does control the present-day kinematics and mechanics of deformation across the
+
+entire domain.
+
+             The Ferrara arc is a seismically active domain as testified by the 2012 Emilia seismic sequence (Bonini et al., 2014; Govoni et al., 2014; see all references therein). Earthquakes are mainly concentrated in the west sector of the arc while they are sparse
+
+in the eastern sector (Fig. 9c). Focal mechanisms suggest compression and, locally, strike -–slip deformation (see Fig. 2b). Magnitude from the available earthquake dataset is comprised between 0 and 6 (historical: 3.5-–6; instrumental: 0 -–6). Depth of the
+
+hypocentres varies from 0 to approximately 40 km (Fig. 9d) so that both main shock and aftershock clusters occur 1) within the clastic sediments, 2) inside the Mesozoic carbonates, 3) in the basement and locally 4) below the Moho. In the area the present day
+
+tectonic behaviour is supported by the regional stress field, GPS studies, INSAR results and thrust slip analysis (Bonini et al., 2014; Govoni et al., 2014 and reference therein). Following the Mirandola recent earthquake event (29 May 2012; M = 6) the area has
+
+been monitored by the temporary seismograph net deployed by INGV (Marzorati et al., 2012). Despite the updated and the re-located hypocentre distribution, a great uncertainty still needs to be accepted about both the location of the seismogenic sources and
+
+the related thrust plane geometry.
+
+             Vertical slicing of the performed 3D model grids (horizons and faults) allowed the systematic projection of the available earthquakes to be performed on regularly spaced cross-sections and the structure -–earthquake associations to be recognised
+
+(Fig. 12).
+
+             Section ‘a’
+
+
+             This section is oriented WNW-–ESE, perpendicular to the regional transport direction of structures. Earthquakes, projected from 2 km distance on the chosen vertical plane, are asymmetrically distributed. As such they occur especially in the western
+
+sector, this representing one of the lateral ramp of the Ferrara arc. The hypocenters hypocentres can be observed from the Moho level to the base Pliocene horizons. They tend to disappear in the central sector of the arc. Few events appear in the eastern sector, the
+
+eastern lateral ramp domain of the Ferrara arc. On this cross-section no particular correlation can be defined between earthquakes and the faults sliced from the 3D model.
+
+             Sections '‘b'’ to '‘f’'
+
+
+             All sections from '‘b '’ to '‘f'’ are oriented perpendicular to the structural geometries and parallel to the regional shortening and transport direction. Given the earthquake density and the section spacing, the hypocenter hypocentre projection distance is 500 m
+
+for section 'sections ‘b '’, '‘c'’ and '‘d '’. It is 1 km for section '‘e ”’ and 10 km for section '‘f'’.
+
+             On section '‘b '’, cutting across the western Ferrara lateral ramp domain (the Cavone field area), the projected earthquakes seem to fall in the footwall of the thrust-related imbricates and they occur a) close to the basement level, b) mainly within the
+
+Mesozoic carbonate layers and c) subordinately inside the Oligo-–Miocene layers. The shallower main shock and some of the minor events can be correlated with the 3D model thrusts.
+
+             The structural units are more open on section '‘c'’ as we move away from the aforementioned lateral ramp domain. Here (the Mirandola area), the earthquakes occur around the outermost thrust fold where they locally correlate with the model frontal
+
+thrust. A few of the projected hypocenters hypocentres occur across the crust below the Mesozoic. Close to the basement level a number of events rather suggest that the detachment level of the fold-and-thrust structures is seismically active, propagating the
+
+deformation towards the NE.
+
+             Section '‘d '’ is cut near to the central sector of the Ferrara arc and close to the possible transfer zone which appears at both the 3D model Mesozoic carbonate layer and the base Pliocene one (Turrini et al., 2014). Again, like for section c, the earthquake
+
+events are projected around the external thrust and its footwall. The more internal structure seems not to be active. Across the basement and down to more than 20 km below sea level the hypocenters hypocentres are dispersed across a large zone where, so far, no
+
+major faults have been modeled modelled inside the 3D seismo-tectonic volume.
+
+             Section '‘e '’ runs across the aforementioned Ferrara arc transfer zone. Structures are even more open than in section '‘d '’. Across the Mesozoic carbonate unit, the projected earthquakes loosely correlate with the external thrust while the internal fault
+
+appears nearly inactive. Minor hypocenters hypocentres below the top basement level confirm that the crust is likely undergoing some seismogenic tectonics (Vannoli et al., 2014).
+         Seismicity in the eastern sector of the arc is generally sparse. As such we used only one section to represent the seismo-tectonic setting in the region. Indeed, in section '‘f'’ the projected earthquakes are again loosely dispersed from the Moho model
+
+level to the Plio -–Pleistocene sedimentary unit. While in the Meso-–Cenozoic succession they do not show any obvious positive correlation with the model faults their presence and distribution below the top basement would allow active deformation to be inferred
+
+at great depth in the crust (Vannoli et al., 2014).
+
+         3D visualization
+
+
+         3D visualization of the Ferrara arc units can better show the complex seismo-tectonics across the region. The selected perspective views (Fig. 13)
+
+
+          1. confirm a possible layering of the seismicity a) close to the top basement, b) within the Mesozoic carbonate unit and c) above the base Pliocene layers of the model (Fig. 13a)
+
+          2. allow partitioning of the shocks to be observed across the faulted structures, apparently in the footwall of the major faults (Fig. 13b)
+
+
+          3. illustrate the distribution of the hypocenters hypocentres around and across the thrust surfaces that form the tectonic stack in the western Ferrara arc (Fig. 13c). Here, as the thrusts are progressively anastomosed and tightened towards the lateral ramp domain (the Cavone field area),
+
+             deformation and the associated earthquakes are transferred across the different, overlapping thrusts and the intervening rely-zones.
+
+
+
+6 Discussion
+6.1 Methodology
+         The first point which obviously needs to be discussed is the methodology so far used to build and analyze the performed Po Valley 3D seismo-tectonic model.
+
+         As already mentioned (Turrini et al., 2014 and Section 3.4) the model suffers from different types of uncertainties. Indeed, we acknowledge that it is based on public data only (yet filtered and organized through the long experience of the authors about
+
+the region), those being sparse and derived from various sources (i.e. they need systematic cross-check and QC). Also, the model covers a very large region (from crustal to field scale) so that it necessarily represents one solution in the possible spectrum which
+
+could be derived from the chosen model building workflow. Conclusively, errors may refer to both structure building/interpretation and earthquake parameters (magnitude, vertical and horizontal location).
+
+         Once those points are accepted we still need to stress that all of the model layers and the associated fault patterns are reasonably well-constrained by the collected dataset and they do show fair three-dimensional compatibility, at all scales. Hence they
+
+do represent a robust framework thanks to which the earthquake family can be analyzed while looking for the most likely interpretation, despite the complex tectonics of the region. Furthermore, starting from the current geo-volume, the 3D model can and will be
+
+continuously updated and progressively refined in more and more detail by using different software (MOVE, Kingdom; basin modeling modelling by the Themis-Genesis software is in progress; the magnitude volume across the whole basin has been recently built
+
+using the GOCAD software – — Turrini et al., 2015).
+
+         In terms of specific earthquakes-–structures integration and analysis, let us have a look at the major improvements that the performed model provides with respect to the past results.
+
+         Among the many papers that have investigated the seismo-tectonics of the Po Valley basin, none has ever represented the derived framework using a complete 3D approach. So far, the seismo-tectonic setting of the region has been essentially
+
+illustrated by maps and cross-sections. Results are that a) on map view the shallow events can drastically hide the deep ones, and b) the hypocentres projected on the cross-section may easily be not representative of the cross-section tectonics. Remarkably,
+
+most of the papers use one cross-section (often modified/simplified from the literature) and the related hypocenter hypocentre projection distance (HPD in Figs. 7, 8, 10, 12) is not always indicated. On those sections stratigraphy is approximated from the
+
+referenced literature (i.e. not directly tied to the well data) or completely absent. Faults are commonly represented as simple 2D segments so that their three-dimensional consistency is difficult to be checked against the earthquake occurrence.
+
+         However, we acknowledge that most of the works are particularly rich with details and measurements that, at the moment, are completely lacking from our model. It is certainly evident that the seismicity dataset that has been imported and used into/within
+
+the basin 3D geological volume is still rough and a better selection of the earthquakes can be performed as a base to the final interpretation. With that respect, the precise definition of each event in terms of the related parameters and the associated uncertainties
+
+would represent a step forwards while aiming for the perfect 3D seismo-tectonic modeling modelling of the region. Furthermore, data/interpretation about the active deformation such as growth strata around the key structures, slip rate along the major thrusts, GPS
+
+analysis, focal mechanisms and geomorphological indicators (see references in Section 2 of this paper) could definitely bring to the 3D model immense benefit and improvement.
+
+         This might be the road ahead for future development and improvement of the model.
+
+
+6.2 Po Valley 3D seismo-tectonics
+         The results from the performed 3D model confirm that the Po Valley is a geological province rather discontinuous and not-homogeneous in terms of tectonic activity. The derived associations between structures and earthquakes clearly suggest that there
+
+are regions which at present show an important seismicity (i.e. the Northern Apennines) while others appear relatively quiet, at least silent (i.e. the western Po Valley, from Milano to Torino). Further to that, regions that were silent in the past became
+suddenly/recently active causing great damage to the country and the population (i.e. the western sector of the Ferrara arc). Ultimately, at the same map location there are shallow portions of the crust which are seismically active whereas the corresponding deep
+
+levels appear seismically frozen (i.e. the Friuli area).
+
+         Causes of such a patchy seismo-tectonic system can be multiple as they likely refer to a) the complex geodynamics that modeled modelled the region through time and space, b) the present fault-related tectonics, c) the inherited pre-Alpine
+
+paleogeography palaeogeography and d) the region earthquake-mechanical stratigraphy.
+
+         All those elements have or should show a corresponding earthquake imprinting. Although being totally aware of the possible bias related to the data uncertainty and the complexity of the overall geodynamics, those causes are addressed here below to
+
+raise questions and discussion.
+
+
+6.2.1 Earthquakes versus Po Valley geodynamics
+         Extension due to passive margin formation and the successive shortening due to counter-clockwise rotation of the Adria plate towards and against the Europe one are definitely the long-standing events considered as responsible for the overall Po
+
+Valley tectonics (see references in Turrini et al., 2014; Weber et al., 2010, and references therein). Such a dynamic started in Triassic time and is believed to be continuing these days. The related long standing deformation process has hypothetically been
+
+intermittent in both time and space with sudden pulses of energy relaxation especially within/across specific domains: a) around the well-known rotation pole of the Adria plate, b) above the subduction/indentation regions and c) along the possible associated
+
+transverse zones.
+
+         The junction between the Western Alps and the Northern Apennines is represented within the 3D structural model by a combination of complex deep and shallow tectonics at the extreme south-western Po Valley basin (Turrini et al., 2014). The
+
+earthquake distribution in the western Po Valley illustrates a frozen domain to the north of the Monferrato belt and a moderate active domain to the south of the Monferrato. Seismicity is increasingly more active towards the Ligurian Alps that is in the region where
+
+the possible pole of rotation for the Adria/Po Valley plate motion is inferred (Vignaroli et al., 2008).
+
+         The subduction/indentation tectonics are evidenced by the performed 3D seismo-tectonics without much of a discussion: a) at the Europe-–Adria convergent boundary, the active shallow Southern Alps units float on a deep frozen Moho geometry, those
+
+two structural levels being identified by intense and nearly no earthquakes respectively (ref. also Castellarin et al., 2006); b) simultaneously, the present Northern Apennines seismicity confirms active deformation of the crust from the topography down to
+
+approximately 70 km of depth (see Fig. 3c). It is noteworthy to suggest that gridding of the base of the earthquake data below the central and eastern Northern Apennines results in a surface which largely corresponds to the Adria Moho layer of the 3D model.
+
+Such an envelope surface is dipping 45 ° below the Apennine belt yet, although such a geometry would support some subduction dynamics, the subduction type process remaining is still debatable (intra-crustal or sub-crustal; see discussion in Turrini et al.,
+
+2014).
+
+         Ultimately, the crustal transfer zones (see Vannoli et al., 2014, for previous/alternative interpretation) that would enhance the aforementioned rigid yet non-homogeneous roto-translation process, obliquely oriented to the entire Po Valley-
+
+–Alps-–Apennines tectonic system, can be locally illustrated by some possible structure -–earthquake association. These mainly occur across the Northern Apennines belt where horizontal (NNE-–SSW) and vertical hypocentre clusters are observed. On the other
+
+side of the Po Valley, the Giudicarie transverse lineament and the associated NE-–SW aligned earthquake clusters are likely representing the expression of both the Adria geodynamics and the pre-Alpine paleogeography palaeogeography (Castellarin and Vai,
+
+1982).
+
+
+6.2.2 Earthquakes versus Po Valley faults
+         Provided that better knowledge about the faults of a region means better understanding of their seismogenic potential, the faults-–earthquakes issue is likely the most important from the performed 3D seismo-tectonic model.
+
+         The fault pattern supplied by the Po Valley 3D structural model contains all of the major faults which can be derived from the available sub-surface literature, mainly derived from seismic interpretation and tied to the well velocities (see Turrini et al., 2014
+
+for dataset references). As such, they should suggest reliable geometries which actively concur to define the basin tectonic architecture yet they do not necessarily suggest any active seismogenic discontinuity.
+
+         In terms of 3D faults versus earthquake distribution, the overall picture appears to support the final seismo-tectonic zonation made of active, silent and frozen domains which have been above suggested as a consequence of the Adria geodynamics:
+
+
+          1. The extreme western Po Valley, south and west of Milano, (see Figs. 5 and 6) stands as a frozen or silent domain where faults are generally sealed by the top Messinian unconformity (Cassano et al., 1986; Pieri and Groppi, 1981). In the area, the high number of faults is remarkably in strong
+
+             contrast with the apparent lack of important recent seismicity (see Figs. 5 and 6);
+
+
+          2. the western Po Valley domain east of Milan is a relatively active domain with low-to-moderate seismicity localized along selected faults (see Fig. 8 and text for discussion);
+
+
+          3. in the southern part of the eastern Po Valley, the Ferrara arc is an active-to-silent domain as we move from the NW to the SE sectors (see Figs. 5, 6, 9, 12). Faults which overlap to form the north-western lateral ramp zone of the arc account for intense seismogenic activity (see Fig. 13c),
+
+             whereas the eastern sector faults are only expressed by very local/sparse seismicity;
+         4. in the northern part of the eastern Po Valley, the Friuli domain is definitely an active shallow domain with intensively seismogenic faults across the upper crust of the belt (Figs. 3c, 5, 6, 7d, 9a and 10).
+
+
+
+6.3 Earthquakes and paleogeographical palaeogeographical framework
+         The extensional fault pattern of the Po Valley is made of mainly NS oriented faults and, subordinately, EW oriented ones (Turrini et al., 2014 and reference therein). On section AA1 of in Fig. 8 the inversion and reactivation of pre-alpine extensional faults
+
+is are clearly illustrated by two examples: the Chiari and the Lacchiarella domains. Despite the similar deformation history, the seismicity that has been recorded across the two domains is strikingly different: in the Chiari zone some of the faults appear to show
+
+weak seismicity whereas faults in the Lacchiarella area, although clearly reactivated (Fantoni et al., 2004), do not seem to correlate to the available hypocenters hypocentres within the model. Given a similar orientation of the existing faults with respect to the
+
+present regional stress field direction (both approximately NS), the observed different structure-–earthquake associations could be related to a) their proximity to active crustal scale lineation, b) important facies changes in the Mesozoic sediments, c) the
+
+basement architecture, and d) the interplay among a-–b-–c factors. In such a perspective a) faults across the Chiari structural domain would result as the most potentially seismogenic faults, those being located at the front of the Southern Alps and close to the
+
+Giudicarie crustal lineaments; b) the same Chiari faults occur at the regional platform-to-basin facies transition which separates the western Po Valley domain from the eastern one (see also Fig. 8); and c) the Chiari unit evolves as a Liassic basin so that at the
+
+end of Mesozoic it defines the footwall (low-basement feature) to the Veneto basement high (see also Fig. 8).
+
+         The control of the pre-alpine structural fabric on the Po Valley seismicity observed in the Lacchiarella-–Chiari region (Fig. 8), can eventually be illustrated by the correlation between the earthquake dataset and some of the 3D model isopach maps, these
+
+already presented and discussed in Turrini et al. (2014).
+
+         If we consider the Mesozoic isopach map (Fig. 14a), some of the N-–S basin-and-high features (blue to red areas in the figure), mainly Jurassic in age, can be associated with the final 3D model N-–S oriented earthquake trends, transversal to the main
+
+NE-–SW and NW-–SE oriented ones. Among them the most prominent earthquake-paleo –palaeo-structure association is definitely the Giudicarie one.
+Fig. 14 – a) Mesozoic isopach against present-day tectonics (compare with Figs. 1-– 2 and 5; SA and NA are outcropping Southern Alps and Northern Apennines thrust fronts, respectively) and all earthquakes; H1-– 3 are High units (see text for discussion); b) Triassic-– early Liassic isopach against
+
+major earthquakes (4-– 7 magnitude): VP = Veneto platform carbonate domain, FP = Friuli platform carbonate domain (see text for discussion).
+
+
+           When the Triassic-–Early Liassic isopach map is considered (Fig. 14b), the distribution of the platform carbonate facies seems to have a strong control on the current seismicity recorded across the Po Valley region. Indeed while the Ferrara arc seismicity
+
+appears to happen at the southern margin of the Veneto Platform, earthquakes in the Friuli region are clearly distributed along the Friuli Platform margin (Ponton, 2010).
+
+
+6.4 Earthquakes and mechanical stratigraphy
+           Results from the performed seismo-tectonic model suggest a crustal-scale earthquakes stratigraphy (Fig. 15a) which, together with the regional mechanical stratigraphy (Fig. 15b), would control the final Po Valley structural style.
+
+
+
+
+Fig. 15 Earthquake stratigraphy and mechanical stratigraphy from the Po Valley basin; a) crustal scale earthquake distribution; b) simplified mechanical stratigraphy (note detachment levels and lithology profile by qualitative strength of the different units); c) generic Po Valley thrust geometry and most
+
+likely earthquake shocks derived from this study (dimension of red star by earthquake magnitude). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+           At the basin scale the derived earthquake stratigraphy shows a maximal hypocenter hypocentre concentration between 0 and 13 km with a decreasing trend between 15 and 40 km depth below the sea level. When such values are compared with the
+
+regional cross-sections sliced from the model (see Figs. 7 and 8) it follows that the 0-–15 km earthquake layer can be approximately related to the upper crust structures (mainly within the Mesozoic carbonate layer) with a possible preferential detachment level at
+
+about 10 km (near top of the basement?). With increasing depth, the deeper 20-–35 km seismogenic layer should possibly refer to some lower crust tectonics in the foreland (see seismicity close to the Moho interface in Fig. 8) and below the Northern Apennines
+
+belt (see Fig. 3b and c).
+
+           A similar situation is revealed for both the selected Po Valley domains which have been discussed in Section 6 (Friuli and Ferrara arc). By looking at the different earthquake stratigraphy diagrams (Fig. 9b and d), seismicity is mainly localized 1) across
+
+the competent Mesozoic carbonates, 2) close to the top of the basement and subordinately 3) within the upper crust.
+
+           Following the previous considerations, we can conclude that the combination of earthquake and mechanical stratigraphy supports the structural distribution and the associated structural style that can be observed across the whole Po Valley basin (see
+
+discussion in Turrini et al., 2014). Indeed a thick-–thin skinned tectonics likely fits the described earthquake-layering, so that a Po Valley seismogenic thrust surface (Fig. 15c) would progressively develop as followfollows:
+           1. nucleate along a mid-crust detachment level
+
+           2. ramp across the upper crust
+
+           3. flatten near the top basement interface
+
+           4. ramp again across the carbonates
+
+           5. flatten at the base of the Tertiary succession
+
+           6. ramp across the Mio-– Pliocene sediments.
+
+
+           Depending on the available lithologies and sediment thickness (i.e. the mechanical stratigraphy) the propagating fault zones would generate major earthquake events at the various ramp-segments and minor events at the transition between the
+
+basement and the Mesozoic layer (Figs. 15c and 16). Seismicity may also occurs occur along the flat-segments yet eventually be reduced
+
+
+           1. at the Upper-Triassic level, (i.e. the Burano evaporites, a major detachment in the Apennines)
+
+           2. at the base of the Tertiary clastic successions where fluid overpressures are reported (Bosica and Shiner, 2013) and likely to be expected nearly all through the Po Valley basin.
+
+
+
+
+Fig. 16 Crustal section across the Po Valley and main seismogenic zones (light blue shadows). T: Tertiary sediments; Mz: Mesozoic sediments; B: basement; M: Moho. HPD = Hypocentre Projection Distance; v:h = 2.5:1. (For interpretation of the references to colour in this figure legend, the reader is
+
+referred to the web version of this article.)
+
+
+           Eventually, given the described paleopalaeo-tectonics (see Fig. 14) the fault zone geometry may deviate in both the horizontal and vertical directiondirections.
+
+
+7 Conclusions
+        The integration of the Po Valley 3D structural model (Turrini et al., 2014) with the earthquake data available from the INGV catalogues resulted in a comprehensive and unique 3D seismo-tectonic geo-volume of the region.
+
+        Nevertheless, given the final uncertainty, extreme caution needs to be considered in the definition of the possible structure-–earthquake associations, that uncertainty increasing increases as investigation is performed across restricted
+structural domains.
+
+        Despite any uncertainty, the 3D model has been proven to be a valuable and reliable tool particularly in the rendering and evaluation of the Po Valley crustal scale seismo-tectonic template. Indeed, it confirmed that the major tectonic
+features around the region do account for the strongest earthquake events recorded by the INGV catalogues. In that respect, the seismicity localized by a) the Southern Alps shallow units and their thrust front from Milano to the Friuli area, b)
+the Northern Apennines belt in their crustal roots (down to 70 km) and at their burial front (e.g. the Ferrara domain), and c) the reactivated Giudicarie paleopalaeo-lineament, is revealed with great evidence by the performed perspective analysis.
+
+        Furthermore the reconstructed crustal framework also suggests that there might exist an earthquake-stratigraphy where the Moho, the top basement and the Mesozoic package seem to better concentrate the seismic activity. Such an
+earthquake stratigraphy works with the well-known Po Valley mechanical stratigraphy to develop the final variable structural style.
+
+        At the scale of some selected domains, the 3D model looks more capable than the previous 2D investigations to illustrate the complex structures that have been likely responsible for strong earthquakes: a) the active interference
+between Alpine and Dinaric structures in the Friuli area, in the footwall of the regional Valsugana fault zone, and b) the relay zones among the en-echelon thrust planes in the Cavone region, are clear examples of such a situation.
+
+        Ultimately and notwithstanding, the model seems to suggest that the Mesozoic (pre-Alpine) litho-stratigraphy and the related fault pattern are the most likely key elements in controlling the major structure-–earthquake associations in the
+region. In particular it seems interesting to note that important facies and thickness changes in the Mesozoic sediment distribution could eventually trigger medium-to-strong earthquake events more efficiently than pre-existing faults.
+
+        Future updating and improving of the model may rely on more refined selection of the earthquake data, integration of geomorphological interpretation, detailed analysis about the sinsyn-tectonic growth of the identifiable seismogenic
+structures, and new software applications for an alternative elaboration of the earthquake dataset.
+
+8 Uncited reference
+        Maesano and The Italian Geomol Team, 2014
+
+AcknowledgmentsAcknowledgements
+        Giovanni Toscani, Peter Shiner, two anonymous reviewers and, in particular, Pierfrancesco Burrato are kindly acknowledged for reviewing and actively concurring to the improven improvement of this paper.
+
+References
+Ahmad M.I., Dubey A.K., Toscani G., Bonini L. and Seno S., Kinematic evolution of thrusts wedge and erratic line length balancing: insights from deformed sandbox models, Int. J. Earth Sci. (Geol. Rundsch.) 133, 2014, 329–347,
+
+       http://dx.doi.org/ 10.1007/s00531-013-0947-8.
+
+Argnani A. and Ricci Lucchi F., TerziaryTertiary silicoclastic turbidite systems of the Northern Apennines, In: Vai G. B.G.B. and Martini I. P.I.P., (Eds.), Anatomy of an Orogen: The Apennines and Adjacent Mediterranean Basins, 2001, Kluwer
+       Academic Publishers , 327–350.
+
+Barba S., Finocchio D., Sikdar E. and Burrato P., Modelling the interseismic deformation of a thrust system: seismogenic potential of the Southern Alps, Terra Nova 2013, http://dx.doi.org/ 10.1111/ter.12026.
+
+Bartolini C., Caputo R. and Pieri M., Pliocene-–Quaternary sedimentation in the Northern Apennine Foredeep and related denudation, Geol. Mag. 133, 1996, 255–273, http://dx.doi.org/ 10.1017/S0016756800009006.
+
+Basili R., Valensise G., Vannoli P., Burrato P., Fracassi U., Mariano S., Tiberti M. and Boschi E., The Database of Individual Seismogenic Sources (DISS), version 3: summarizing 20 years of research on Italy's earthquake geology,
+       Tectonophysics 453, 2008, 20–24.
+
+Bechtold M., Battaglia M., Tanner D.C. and Zuliani D., Constraints on the active tectonics of the Friuli/NW Slovenia area from CGPS measurements and three-dimensional kinematic modeling, J. Geophys. Res. 114, 2009, B03408,
+       http://dx.doi.org/ 10.1029/2008JB005638.
+
+Bello M. and Fantoni R., Deep oil plays in the Po Valley: deformation and hydrocarbon generation in a deformed foreland, In: AAPG Hedberg Conference, “Deformation History, Fluid Flow Reconstruction and Reservoir Appraisal in Foreland Fold
+       and Thrust Belts ” May 14-–18, Abstract Book, 1-–4, 2002, (http://www.searchanddiscovery.com/documents/2003/bello/images/bello.pdf).
+
+Benedetti L.C., Tapponnier P., Gaudemer Y., Manighetti I. and Van der Woerd J., Geomorphic evidence for an emergent active thrust along the edge of the Po Plain: the Broni-–Stradella fault, J. Geophys. Res. 108 (B5), 2003, 2238,
+       http://dx.doi.org/ 10.1029/2001JB001546.
+
+Berg R.C., Russell H. and Thorleifson L.H., (Eds.), Three-dimensional Geological Mapping for Groundwater Applications – — Workshop. Extended Abstracts, Illinois State Geological Survey. Open-File Series 2004– 8,
+
+       2004, (http://library.isgs.uiuc.edu/Pubs/pdfs/ofs/2009/ofs2009-04.pdf).
+
+Bertotti G., Picotti V., Bernoulli D. and Castellarin A., From rifting to drifting: tectonic evolution of the South-Alpine upper crust from the Triassic to the Early Cretaceous, Sediment. Geol. 86, 1993, 53–76.
+
+Bertotti G., Capozzi R. and Picotti V., Extension controls Quaternary tectonics, geomorphology and sedimentations of the N-Apennines foothills and adjacent Po Plain (Italy), Tectonophysics 282, 1997, 291–301.
+
+Bignami C., Burrato P., Cannelli V., Chini M., Falcucci E., Ferretti A., Gori S., Kyriakopoulos C., Melini D., Moro M., Novali F., Saroli M., Stramondo S., Valensise G. and Vannoli P., Coseismic deformation pattern of the Emilia 2012 seismic
+
+       sequence imaged by Radarsat-1 interferometry, Ann. Geophys. 55 (4), 2012, 789–795, http://dx.doi.org/ 10.4401/ag6157.
+
+Boccaletti M., Corti G. and Martelli L., Recent and active tectonics of the external zone of the Northern Apennines (Italy), Int. J. Earth Sci. 100, 2011, 1331–1348, http://dx.doi.org/ 10.1007/s00531-010-0545-y.
+
+Bongiorni D., La ricerca di idrocarburo negli alti strutturali mesozoici della Pianura Padana: l’'esempio di Gaggiano, Atti Tic Sci. Terra XXXI, 1987, 125–141.
+
+Bonini L., Toscani G. and Seno S., Three-dimensional segmentation and different rupture behavior during the 2012 Emilia seismic sequence (Northern Italy), Tectonophysics 630, 2014, 33–42.
+
+Bressan G., De Franco R. and Gentile F., Seismotectonic study of the Friuli (Italy) area based on tomographic inversion and geophysical data, Tectonophysics 207, 1992, 383–400.
+
+Bressan G., Snidarcig A. and Venturini C., Present state of tectonic stress of the Friuli area (eastern Southern Alps), Tectonophysics 292, 1998, 211–227.
+
+Bressan G., Bragato L.P. and Venturini C., Stress and strain tensors based on focal mechanisms in the seismotectonic framework of th the Friuli-Venezia Giulia region (Northeastern Italy), Bull. Seismol. Soc. Am. 93 (3), 2003, 1280–1297.
+
+Burrato P., Ciucci F. and Valensise G., An inventory of river anomalies in the Po Plain, Northern Italy: evidence for active blind thrust faulting, Ann. Geophys. 46 (5), 2003, 865–882.
+
+Burrato P., Poli M.E., Vannoli P., Zanferrari A., Basili R. and Galadini F., Sources of Mw 5 + earthquakes in northeastern Italy and western Slovenia: an updated view based on geological and seismological evidence, Tectonophysics 453, 2008,
+
+       157–176.
+
+Burrato P., Maesano F.E., D’'Ambrogi C., Toscani G. and Valensise G., From drawing anticline axes to 3D modelling of seismogenic sources: evolution of seismotectonic mapping in the Po Plain, In: 7° EUropean Congress on REgional
+       GEOscientific Cartography and Information Systems (EUREGEO), 12-–15 June 2012, Bologna, 2012, (Available from: http://ambiente.regione.emilia-romagna.it/geologia-
+       en/temi/euregeo2012/presentations/09_Burrato_etal_Euregeo.pdf).
+
+Burrato P., D’'Ambrogi C., Maesano F.E. and Toscani G., Regional earthquake source model of the Po Plain based on full 3D definition of active faults, In: GeolMol Mid-term Conference, Montanuniversit ät Leoben, 5-–6 June, 2014, 2014.
+
+Carena S., Suppe J. and Kao H., Active detachment of Taiwan illuminated by small earthquakes and its control of first-order topography, Geology 30 (10), 2002, 935–938.
+
+Carminati E. and Doglioni C., Alps vs. Apennines: the paradigm of a tectonically asymmetric Earth, Earth Sci. Rev. 112, 2012, 67–96.
+
+Carminati E., Enzi S. and Camuffo D., A study on the effects of seismicity on subsidence in foreland basins: an application to the Venice area, Glob. Planet. Chang. 55, 2007, 237–250.
+
+Carminati E., Scrocca D. and Doglioni C., Compaction-induced stress variations with depth in an active anticline: Northern Apennines, Italy, J. Geophys. Res. 115, 2010, B02401, http://dx.doi.org/ 10.1029/2009JB006395.
+
+Carulli G.B. and Ponton M., Interpretazione strutturale profonda del settore centrale Carnico-Friulano, Studi Geol. Camerti 1992, 275–284, (Special Volume, CROP 1-1A).
+
+Casero P., Rigamonti A. and Iocca M., Paleogeographic relationship during Cretaceous between the Northern Adriatic area and the Eastern Southern Alps, Mem. Soc. Geol. Ital. 45, 1990, 807–814.
+
+Cassano E., Anelli L., Fichera R. and Cappelli V., Pianura Padana, interpretazione integrata di dati Geofisici e Geologici, In: 73° congresso Soc. Geol. It., Roma, 1986.
+
+Cassola T., Battaglia M., Doglioni C. and Zuliani D., A two dimensional elastic deformation model of the strain accumulation in Friuli – — Venezia Giulia (Julian Alps), In: Excerpt from the Proceedings of the COMSOL Users Conference 2007
+       Grenoble, 2007.
+
+Castaldini D. and Panizza M., Inventario delle faglie attive tra I fiumi Po e Piave e il lago di Como (Italia Settentrionale), Quaternario 4 (2), 1991, 333–410.
+Castellarin A., Alps-–Apennines and Po Plain-–Frontal Apennines relationships, In: Vai G.B. and Martini I.P., (Eds.), Anatomy of an Orogen, The Apennines and Adjacent Mediterranean Basins 2001, Kluver; London, 177–196.
+
+Castellarin, A., Cantelli, L., 2010. Geology and evolution of the Northern Adriatic structural triangle between Alps and Apennines – — Rend.Fis.Acc.Lincei, 21, (Suppl 1):S3-–S14, DOI 10.1007/s12210-010-0086-0.
+
+Castellarin A. and Vai G.B., Introduzione alla geologia strutturale del Sudalpino, In: Castellarin A. and Vai G.B., (Eds.), Guida alla gelogia del Sudalpino centro orientale, Guide Geol. Reg., Soc. Geol. It. 1982, 1–22.
+
+Castellarin A. and Vai G.B., In: Wezel F.C., (Ed), The Origin of Arcs, 1986, Elsevier Sc. Pul. , 253–280.
+
+Castellarin A., Eva C., Giglia G. and Vai G. B.G.B., Analisi strutturale del Fronte Appenninico Padano, Giorn. Geol. Sez. 3° (47/1-2), 1986, 47–75.
+
+Castellarin A., Cantelli L., Fesce A.M., Mercier J.L., Picotti V., Pini G.A., Prosser G. and Selli L., Alpine compressional tectonics in the Southern Alps. Relationships with the N-AppeninesApennines, Ann. Tectonicae 6, 1992, 62–94.
+
+Castellarin A., Nicolich R., Fantoni R., Cantelli L., Sella M. and Selli L., Structure of the litospherelithosphere beneath the Eastern Alps (southern sector of the TRANSALP transect), Tectonophysics 414, 2006, 259–282.
+
+Castello B., Selvaggi G., Chiarabba C. and Amato A., CSI Catalogo della sismicità italiana 1981-–2002, versione 1.1. INGV-CNT, Roma, http://csi.rm.ingv.it/ 2006.
+
+Channell J.E.T., D’'Argenio B. and Horvath F., Adria, the African promontory, in Mesozoic Mediterranean palaeogeography, Earth Sci. Rev. 15, 1979, 213–292.
+
+Chiarabba C., Jovane L. and DiStefano R., A new view of Italian seismicity using 20 years of instrumental recordings, Tectonophysics 395, 2005, 251–268.
+
+Chiaraluce L., Valoroso L., Anselmi M., Bagh S. and Chiarabba C., A decade of passive seismic monitoring experiments with local networks in four Italian regions, Tectonophysics 476, 2009, 85–98.
+
+Cuffaro, M., Riguzzi, F., Scrocca, D., Antonioli, F., Carminati, E., Livani, M., Doglioni, C., 2010. On the geodynamics of the northern Adriatic plate - — Rend. Fis. Acc. Lincei, 21 (Suppl 1): S253–S279 DOI 10.1007/s12210-
+       010-0098-9.
+
+Dal Piaz G.V., Bistacchi A. and Massironi M., Geological outline of the Alps, Episodes 26, 2004, 175–180.
+
+Delacou B., Sue C., Champagnac J.D. and Burkhard M., Present-day geodynamics in the bend of the western and central Alps as constrained by earthquake analysis, Geophys. J. Int. 158, 2004, 753–774, http://dx.doi.org/ 10.1111/j.1365-
+
+       246X.2004.02320.x.
+
+Dercourt J., Zonenshain L.P., Ricou L.-E., Kazmin V.G., Le Pichon X., Knipper A.L., Grandjacquet C., Sbortshikov I.M., Geyssant J., Lepvrier C., Pechersky D.H., Boulin J., Sibuet J.-C., Savostin L.A., Sorokhtin O., Westphal M., Bazhenov
+       M.L., Laurer J.P. and Biju-Duval B., Geological evolution of the Tethys belt from Atlantic to Pamirs since the Lias, Tectonophysics 123, 1986, 241–315.
+
+Devoti R., Esposito A., Pietrantonio G., PisaniI A.R. and Riguzzi F., Evidence of large scale deformation patterns from GPS data in the Italian subduction boundary, Earth Planet. Sci. Lett. 311 (3–4), 2011, 230–241,
+       http://dx.doi.org/ 10.1016/j.epsl.2011.09.034.
+
+Dewey J.F., Pitman C., Ryan B.F. and Bonnin J., Plate tectonics and the evolution of the Alpine systems, Geol. Soc. Am. Bull. 84 (3), 1973, 137–180.
+
+Di Bucci D. and Angeloni P., Adria seismicity and seismotectonics: review and critical discussion, Mar. Pet. Geol. 42, 2013, 182–190, http://dx.doi.org/ 10.1016/j.marpetgeo.2012.09.005.
+
+Di Giovambattista R. and Tyupkin Y., The fine structure of the dynamics of seismicity before M > 4.5 earthquakes in the area of Reggio Emilia (Northern Italy), Ann. Geofis. 42 (5), 1999.
+
+Di Manna P., Guerrieri L., Piccardi L., Vittori E., Castaldini D., Berlusconi A., Bonadeo L., Comerci V., Ferrario F., Gambillara R., Livio F., Lucarini M. and Michetti A., Ground effects induced by the 2012 seismic sequence in Emilia: implications
+
+       for seismic hazard assessment in the Po Plain, Ann. Geophys. 55, 2012, 4, http://dx.doi.org/ 10.4401/ag-6143.
+
+Dischinger J.D. and Mitra S., Three-dimensional structural model of the Painter and East Painter reservoir structures, Wyoming fold and thrust belt, AAPG Bull. 90 (8), 2006, 1171–1185.
+
+Doglioni C. and Bosellini A., Eoalpine and mesoalpine tectonics in the Southern Alps, Geol. Rundsch. 76 (3), 1987, 735–754.
+
+Elter P. and Pertusati P., Considerazioni sul limite Alpi-–Appennino e sulle sue relazioni con l’'arco delle Alpi occidentali, Mem. Soc. Geol. Ital. 12, 1973, 359–375.
+
+Errico G., Groppi G., Savelli S. and Vaghi G.C., Malossa Field: a deep discovery in the Po Valley, Italy, AAPG Mem. 30, 1980, 525–538.
+Fantoni R., Bersezio R. and Forcella F., Alpine structure and deformation chronology at the Southern Alps-–Po Plain border in Lombardy, Boll. Soc. Geol. Ital. 123, 2004, 463–476.
+
+Galadini F., Poli M.E. and Zanferrari A., Seismogenic sources potentially responsible for earthquakes with M > 6 in the eastern Southern Alps (Thiene-–Udine sector, NE Italy), Geophys. J. Int. 161, 2005, 739–762.
+
+Gelati R. and Gnaccolini, Evoluzione tettonico-sedimentaria della zona al limite tra Alpi a Appennino tra l’'inizio dell’'Ologocene e il Miocene medio, Mem. Soc. Geol. Ital. 24, 1982, 183–191.
+
+Govoni A., Marchetti A., De Gori P., Di Bona M., Lucente F. P.F.P., Improta L., Chiarabba C., Nardi A., Margheriti L., Agostinetti N. P.N.P., Di Giovanbattista R., Latorre D., Anselmi M., Ciaccio M. G.M.G., Moretti M., Castellano C. and Piccinini
+       D., The 2012 Emilia seismic sequence (Northern Italy): imaging the thrust fault system by accurate aftershock location, Tectonophysics 622, 2014, 44–55, http://dx.doi.org/ 10.1016/j.tecto.2014.02.013.
+
+Gunderson K.L., Pazzaglia F.J., Picotti V., Anastasio D.A., Kodama K.P., Rittenour T., Frankael K.F., Ponza A., Berti C., Negri A. and Sabbatini A., Unraveling tectonic and climatic controls on synorogenic growth strata (Northern Apennines,
+       Italy), Geol. Soc. Am. Bull. 126 (3–4), 2013, 532–552, http://dx.doi.org/ 10.1130/B30902.1.
+
+Han J., Yeon Y., Hyun H. and Hwang D., 3D Geological Model of Mining Area, http://www.asiageospatialforum.org/2011/proceeding/pps/Jonggyu%20Han_AGF.pdf 2011.
+
+Jadoul F., Berra F. and Frisia S., Stratigraphic and palaeogeographic evolution of a carbonate platform in an extensional tectonic regime: the example of the Dolomia Principale in Lombardy (Italy), Riv. Ital. Paleontol. Stratigr. 98, 1992, 29–44.
+
+Kastelich V., Vrabek M., Cunningnam D. and Gosar A., Neo-alpine structural evolution and present-day tectonic activity of the Eastern Southern Alps: the case of the Ravne Fault, NW Slovenia, J. Struct. Geol. 30, 2008, 963–975.
+
+Laubscher H.P., Shallow and Deep Rotations in the Miocene Alps Tectonics, 15, 1022-–1035, 1996.
+
+Lindquist S.J., Petroleum systems of the Po Basin province of northern Italy and the northern Adriatic Sea: Porto Garibaldi (biogenic), Meride/Riva di Solto (thermal), and Marnoso Arenacea (thermal), In: U.S. Geological Survey Open-File Report
+       99-50-M, 1999, (19 pp., 15 figs., 3 tables).
+
+Lindsay M., Aillères L., Jessell M., de Kemp E. and Betts P., Locating and quantifying geological uncertainty in three-dimensional models: analysis of the Gippsland Basin, southeastern Australia, Tectonophysics 546–547, 2012, 10–27,
+
+       http://dx.doi.org/ 10.1016/j.tecto.2012.04.007.
+
+Livio F., Berlusconi A., Michetti A., Sileo G., Zerboni A., Trombino L., Cremaschi M., Mueller K., Vittori E., Carcano C. and Rogledi S., Active fault-related folding in the epicentral area of the December 25, 1222 (Io = IX MCS) Brescia
+
+       earthquake (Northern Italy): seismotectonic implications, Tectonophysics 476, 2009, 320–335.
+
+Maesano F.E. and The Italian Geomol Team, Integrating data sources for 3D modeling: the Italian activity in the GeoMol Project, Rend. Online Soc. Geol. Ital. 30, 2014, 28–32, http://dx.doi.org/ 10.3301/ROL.2014.07, (3 figs).
+
+Maesano F., D’'Ambrogi C., Burrato P. and Toscani G., Long-term geological slip rates of the Emilia thrust front (Northern Apennines) from 3D modelling of key buried horizons, In: 85° Congresso Nazionale della Societ à Geologica Italiana,
+       “L'Appennino nella geologia del Mediterraneo Centrale”, 6-– 8 September 2010, Pisa, 2010.
+
+Maesano F.E., D'Ambrogi C., Burrato P. and Toscani G., Slip-rates of the buried Northern Apennines thrust fronts from 3D modeling of key geological horizons (Po Plain, Northern Italy), In: VIII Forum della Federazione Italiana di Scienze della
+
+       Terra, Geoitalia, 19-–23 September 2011, Torino, 2011, (Plio-–Pleistocene only & few pseudo 3D blocks from sections).
+
+Maesano F.E., Toscani G., Burrato P., Mirabella F., D’'Ambrogi C. and Basili R., Deriving thrust fault slip rates from geological modeling: examples from the Marche coastal and offshore contraction belt, Northern Apennines, Italy, Mar. Pet.
+       Geol. 42, 2013, 122–134, http://dx.doi.org/ 10.1016/j.marpetgeo.2012.10.008.
+
+Maesano F.E., D'Ambrogi C., Burrato P. and Toscani G., Slip-rates of blind thrusts in the Po sedimentary basin (Italy), Tectonophysics 643, 2014, 8–25.
+
+Marzorati S., Carannante S., Cattaneo M., D'Alema E., Frapiccini M., Ladina C., Monachesi G. and Spallarossa D., Automated control procedures and first results from the temporary seismic monitoring of the 2012 Emilia sequence, Ann.
+
+       Geophys. 55, 2012, 4, http://dx.doi.org/ 10.4401/ag-6116.
+
+Mattavelli L. and Margarucci V., Malossa Field – — Italy, Po Basin, In: Foster N.H. and Beaumont E.A., (Eds.), Treatise of Petroleum Geology, Atlas of Oil and Gas Fields, Structural Traps VII, 1992, American Association of Petroleum
+       Geologists ; Tulsa, OK , 119–137.
+
+Mattavelli L. and Novelli L., Origin of the Po basin hydrocarbons, Mém. Soc. Géol. Fr. 151, 1987, 97–106.
+
+Merlini S., Doglioni C., Fantoni R. and Ponton M., Analisi strutturale lungo un profilo geologico tra la linea Fella Sava e l’'avampaese adriatico (Friuli Venezia Giulia - — Italia), Mem. Soc. Geol. Ital. 57, 2002, 293–300, (Roma).
+Michetti A.M., Giardina F., Livio F., Mueller K., Serva L., Sileo G., Vittori E., Devoti R., Riguzzi F., Carcano C., Rogledi S., Bonadeo L., Brunamonte F. and Fioraso G., Active compressional tectonics, Quaternary capable faults and the seismic
+
+       landscape of the Po Plain (N Italy), Ann. Geophys. 55 (5), 2012, 969–1001, http://dx.doi.org/ 10.4401/ag-5462.
+
+Mitra S. and Leslie W., Three-dimensional structural model of the Rhourde el Baguel, AAPG Bull. 87 (2), 2003, 231–250.
+
+Mitra S., Figueroa G.C., Hernandez Garcia J. and Murillo Alvarado A., Three-dimensional structural model of the Cantarell and Sihil structures, Campeche Bay, Mexico, AAPG Bull. 89 (1), 2005, 1–26.
+
+Mitra S., Gonzalez A., Hernandez Garcia J. and Kajari G., Ek-Balam field: a structure related to multiple stages of salt tectonics and extension field, Algeria, AAPG Bull. 91 (11), 2007, 1619–1636.
+
+Montone P., Mariucci M.T., Pondrelli S. and Amato A., An improved stress map for Italy and surrounding regions (central Mediterranean), J. Geophys. Res. 109, 2004, , B10410http://dx.doi.org/ 10.1029/2003JB002703.
+
+Moratto L., Suhadolc P. and Costa G., Finite-fault parameters of the September 1976 M > 5 aftershocks in Friuli (NE Italy), Tectonophysics 536–537, 2012, 44–60.
+
+Mosca P., Polino R., Rogledi S. and Rossi M., New data for the kinematic interpretation of the Alps–Apennines junction (Northwestern Italy), Int. J. Earth Sci. (Geol. Rundsch.) 99, 2010, 833–849, http://dx.doi.org/ 10.1007/s00531-009-0428-2.
+
+Nardon S., Marzorati D., Bernasconi A., Cornini S., Gonfalini M., Mosconi S., Romano A. and Terdich P., Fractured carbonate reservoir characterization and modeling a multidisciplinary case study from the Cavone oil field, Italy, First
+
+       Break 9 (12), 1991, 553–565.
+
+Nicolich, R., 2010. Geophysical investigation of the crust of the Upper Adriatic and neighbouring chains - — Rend.Fis.Acc.Lincei, 21, (Suppl 1):S181-–S196, DOI 10.1007/s12210-010-0093-y.
+
+Perotti C. R.C.R., Osservazioni sull’'assetto strutturale del versante padano dell’'Appennino Nord-Occidentale, Atti Tic Sci. Terra 34, 1991, 11–22.
+
+Perotti C. R.C.R. and Vercesi P. L.P.L., Assetto tettonico ed evoluzione strutturale recente della porzione nord-occidentale dell’'Appennino Emiliano, Memorie Descrittive Carta Geologica d’'Italia XLVI, 1991, 313–326.
+
+Peruzza L., Poli M.E., Rebez A., Renner G., Rogledi S., Slejko D. and Zanferrari A., The 1976-–1977 seismic sequence in Friuli: new seismotectonic aspects, Mem. Soc. Geol. Ital. 57, 2002, 391–400.
+
+Pieri M., Storia delle ricerche nel sottosuolo padano fino alle ricostruzioni attuali, In: Cento anni di geologia Italiana, Volume Giubilare, 1° Centenario della Soc. Geol. Ital. 1881–1981, Roma, 1984, 155–177.
+
+Pieri M. and Groppi G., Subsurface geological structure of the Po Plain, Italy, Prog. Fin. Geodinamica CNR, pubbl.414 1981, 1–113.
+
+Placer L., Contribution to the macrotectonic subdivisionofsubdivision of the border region between Southern Alps and External Dinarides, Geologija 41, 1999, 223–255, (Ljubljana).
+
+Placer L., Vrabec M. and Celarc B., The bases for understanding of the NW Dinarides and Istria Peninsula tectonics. Geologija 53/1 55–86 Ljubljana. Contribution to the macrotectonic subdivisionofsubdivision of the border region between
+       Southern Alps and External Dinarides, Geologija 41, 2010, 223–255, (Ljubljana).
+
+Poli M.E., Peruzza L., Rebez A., Renner G., Slejko D. and Zanferrari A., New seismotectonic evidence from the analysis of the 1976-–1977 and 1977-–1999 seismicity in Friuli (NE Italy), Boll. Geofis. Teor. Appl. 43, 2002, 53–78, (Trieste).
+
+Ponton M., Architettura delle Alpi Friulane, 2010, Museo Friulano di Storia Naturale, Publ. No 52, Udine. ISBN: 9788888192529.
+
+Ponza A., Pazzaglia F.J. and Picotti V., Thrust-fold activity at the mountain front of the Northern Apennines (Italy) from quantitative landscape analysis, Geomorphology 123, 2010, 211–231.
+
+Ravaglia A., Seno S., Toscani G. and Fantoni R., Mesozoic extension controlling the Southern Alps thrust front geometry under the Po Plain, Italy: insights from sandbox models, J. Struct. Geol. 28, 2006, 2084e2096.
+
+Ricci Lucchi F., The Oligocene to recent foreland basins of the northern Apennines, In: Allen P. A.P.A. and Homewood P., (Eds.), Foreland Basins, I.A.S. Special Publication 8, 1986, 105–139.
+
+Roure F., Polino R. and Nicolich R., Poinçonnements, rétrocharriages et chevauchements post-basculement dans les Alpes occidentales: evolution intracontinentale d’'une chaîne de collision, CR Acad. Sci. Paris 309 (II), 1989, 283–290.
+
+Roure F., Polino R. and Nicolich R., Early Neogene deformation beneath the Po plain: constraints on the post-collisional Alpine evolution, In: Roure F., Heitzmann P. and Polino R., (Eds.), Deep structure of the Alps, Mem. Soc. Geol.
+
+       France 156, 1990, 309–322.
+
+Rovida R., Camassi R., Gasperini P. and Stucchi M., In: CPTI11, the 2011 version of the Parametric Catalogue of Italian Earthquakes, Milano, Bologna, 2011, (http://emidius.mi.ingv.it/CPTI/).
+
+Scardia G., Festa A., Monegato G., Pini R., Rogledi S., Tremolada F. and Galadini F., Evidences for the late Alpine tectonics in the Lake Garda area (northern Italy) and seismogenic implications, Geol. Soc. Am. Bull. 127 (1/2), 2014, 113–130,
+       http://dx.doi.org/ 10.1130/B30990.1.
+
+Schmid S., Fugenschuh B., Kissling E. and Schuster R., Tectonic map and overall architecture of the Alpine orogen, Eclogae Geol. Helv. 97, 2004, 93–117.
+
+Serpelloni E., Anzidei M., Baldi P., Casula G. and Galvani A., Crustal velocity and strain-rate fields in Italy and surrounding regions: new results from the analysis of permanent and non-permanent GPS networks, Geophys. J. Int. 161 (3), 2005,
+       861–880.
+
+Serpelloni E., Anderlini L., Avallone A., Cannelli V., Cavaliere A., Cheloni D., D’'Ambrosio C., D’'Anastasio E., Esposito A., Pietrantonio G., Pisani A.R., Anzidei M., Cecere G., D’'Agostino N., Del Mese S., Devoti R., Galvani A., Massucci A.,
+       Melini D., Riguzzi F., Selvaggi G. and Sepe V., GPS observations of coseismic deformation following the May 20 and 29, 2012, Emilia seismic events (northern Italy): data, analysis and preliminary models, Ann. Geophys. 55, 2012, 4,
+
+       http://dx.doi.org/ 10.4401/ag-6168.
+
+Serpelloni E., Faccenna C., Spada G., Dong D. and D. P. Williams S., Vertical GPS ground motion rates in the Euro-Mediterranean region: new evidence of velocity gradients at different spatial scales along the Nubia-–Eurasia plate boundary, J.
+       Geophys. Res. 118, 2013, 6003–6024, http://dx.doi.org/ 10.1002/2013JB010102.
+
+Shao Y., Zheng A., He Y. and Xiao K., 3D geological modeling under extremely, complex geological conditions, J. Comput. 3, 2012, 699–705.
+
+Toscani G., Seno S., Fantoni R. and Rogledi S., Geometry and timing of deformation inside a structural arc: the case of the western Emilian folds (Northern Apennine front, Italy), Boll. Soc. Geol. Ital. 125, 2006, 59–65.
+
+Toscani G., Burrato P., Di Bucci D., Seno S. and Valensise G., Plio-Quaternary tectonic evolution of the Northern Apennine thrust front (Bologna-Ferrara section, Italy): seismotectonic implications, Ital. J. Geosci. 128 (2), 2009, 605–613,
+       http://dx.doi.org/ 10.3301/IJG.2009.128.2.605.
+
+Toscani G., Bonini LL., Ahmad M., Di Bucci D., Di Giulio A., Seno S. and Galuppo C., Opposite verging chains sharing the same foreland: kinematics and interactions through analogue models (Central Po Plain, Italy), Tectonophysics 633, 2014,
+       268–282, http://dx.doi.org/ 10.1016/j.tecto.2014.07.019.
+
+Trumpy R., The timing of orogenic events in the Central Alps, In: De Jong K.A. and Scholten R., (Eds.), Gravity and Tectonics, 1973, Wiley and Sons ; New York , 229–251.
+
+Turrini C. and Rennison P., Structural style from the Southern Apennines ’' hydrocarbon province—an integrated view, In: McClay K.R., (Ed), Thrust tectonics and hydrocarbon systems, AAPG Memoir 82, 2004, 558–578.
+
+Turrini C., Dups K. and Pullan C., 2D and 3D structural modelling in the Swiss-–French Jura Mountains, First Break 27, 2009, 65–71.
+
+Turrini C., Lacombe O. and Roure F., Present-day 3D structural model of the Po Valley basin, Northern Italy, Mar. Pet. Geol. 56, 2014, 266–289.
+
+Turrini C., Angeloni P., Lacombe O., Ponton M. and Roure F., Three-dimensional seismo-tectonics in the Po Valley basin, northern Italy, 2015, Geopgysical Geophysical Research Abstract, EGU; Vienna.
+
+Valcarce G., Zapata T., Ansa A. and Selva G., Three-dimensional structural modeling and its application for development of the El Porto´'n field, Argentina, AAPG Bull. 90 (3), 2006, 307–319.
+
+Vannoli P., Burrato P. and Valensise G., The seismotectonics of the Po Plain (Northern Italy): tectonic diversity in a blind faulting domain, Pure Appl. Geophys. 172, 2014, 1105–1142, http://dx.doi.org/ 10.1007/s00024-014-0873-0.
+
+Venturini C., Cinematica neogenico-quaternaria del sudalpino orientale (settore friulano), Studi Geol. Camerti 1991, 109–113, (vol. spec. (1990), Camerino).
+
+ViDEPI Project, http://unmig.sviluppoeconomico.gov.it/videpi/kml/webgis.asp.
+
+Vignaroli G., Faccenna C., Jolivet L., Piromallo C. and Rossetti F., Subduction polarity reversal at the junction between the Western Alps and the Northern Apennines, Italy, Tectonophysics 450, 2008, 34–50.
+
+Vouillamoz N., Sue C., Champagnac J. and Calcagno P., 3D cartography modeling of the Alpine Arc, Tectonophysics 579, 2012, 131–143, http://dx.doi.org/ 10.1016/j.tecto.2012.06.012.
+
+Weber J., Vrabec M., Pavlovcic-Preseren P., Dixon T., Jiang Y. and Stopar R.B., GPS derived motion of the Adriatic microplate from Istria Peninsula and Po Plain sites, and geodynamic implications, Tectonophysics 483, 2010, 213–222,
+
+       http://dx.doi.org/ 10.1016/j.tecto.2009.09.001.
+
+
+
+
+      Highlights
+               • A comprehensive and unique 3D representation of the seismo-tectonic architecture of the Po Valley basin
+
+               • Structure -–earthquake associations are illustrated to review and discuss the complex seismicity across the region .
+
+               • A major step in the analysis of the Po Valley seismo-tectonics with respect to the previous studies
+
+
+
+
+Queries and Answers
+Query:
+
+         Your article is registered as a regular item and is being processed for inclusion in a regular issue of the journal. If this is NOT correct and your article belongs to a Special Issue/Collection please contact i.samikannu@elsevier.com
+immediately prior to returning your corrections.
+
+Answer: Yes
+
+Query:
+
+         Please confirm that given names and surnames have been identified correctly.
+
+Answer: Yes
+
+Query:
+
+         The affiliation "IFP-EN, Rueil-Malmaison, France and Utrecht University, The Netherlands" has been split into two different affiliations. Please check and confirm if correct.
+
+Answer: Yes
+
+Query:
+
+         This sentence has been slightly modified for clarity. Please check and confirm if the meaning is still correct.
+
+Answer: Yes
+
+Query:
+
+         Please confirm that given names and surnames have been identified correctly.
+
+Answer: yes
+
+Query:
+
+         Please check the captured keywords and amend if necessary.
+
+Answer: Seismo-tectonics, 3D models, Earthquakes, Po Valley
+
+Query:
+
+         Journal style requires a minimum of 4 and maximum of 6 keywords. Please check and provide the necessary correction.
+
+Answer: Seismo-tectonics, 3D models, Earthquakes, Po Valley
+
+Query:
+         The citation "Argnani et al., 2001" has been changed to match the author name/date in the reference list. Please check and correct if necessary.
+
+Answer: ok
+
+Query:
+
+         The citation "Gelati and Gnaccolini M., 1982" has been changed to match the author name/date in the reference list. Please check and correct if necessary.
+
+Answer: ok
+
+Query:
+
+         Citation "Livio et al. (2014)" has not been found in the reference list. Please supply full details for this reference.
+
+Answer: Livio, F., Berlusconi, A., Zerboni, A., Trombino, L., Sileo, G., Michetti, A.M., Rodnight, E., Spötl, C., 2014. Progressive offset and surface deformation along a seismogenic blind thrust in the Po Plain foredeep
+(Southern Alps, Northern Italy). American Geophysical Union ; doi : 10.1002/2014JB011112.
+
+Query:
+
+         Citation "Bresciani and Perotti (2014)" has not been found in the reference list. Please supply full details for this reference.
+
+Answer: Bresciani, I., Perotti, C.R., 2014. An active deformation structure in the Po Plain (N. Italy): the Romanengo anticline. American Geophysical Union; doi: 10.1002/2013TC003422
+
+Query:
+
+         Citations "Scognamiglio et al., 2012" and "Carannante et al., 2013" have not been found in the reference list. Please supply full details for these references.
+
+Answer: Carannante, S., Argnani, A., Augliera, P., Cattaneo, M., D’Alema, E., Franceschina, G., Lovati, S., Massa, M., Monachesi, G., Moretti, M., 2014. Risultati da Progetto Sismologico S1 (INGV-DPC 2013) Base-
+knowledge improvement for assessing the seismogenic potential of Italy Section n: D18/b2 Relocated seismicity in the Po Plain. Workshop Terremoto Emilia 2012 - Roma, 26 Maggio 201.
+
+Query:
+
+         The citation "ViDEPI Project" has been changed to match the author name/date in the reference list. Please check and correct if necessary.
+
+Answer: ok
+
+Query:
+
+         Section "3.4" has been cited here but not found/provided. Please check and amend as necessary.
+
+Answer: Section 4.
+
+Query:
+
+         Please check the data here and amend if necessary.
+
+Answer: see also
+
+Query:
+
+         Citation "Bosica and Shiner, 2013" has not been found in the reference list. Please supply full details for this reference.
+
+Answer: Bosica, B., and Shiner, P., 2013. Petroleum systems and Miocene turbidites leads in the Western Po Valley”, 11th Offshore Mediterranean Conference and Exhibition, Ravenna, Italy, March 20-22, 2013.
+Query:
+
+         This sentence has been slightly modified for clarity. Please check and confirm if the meaning is still correct.
+
+Answer: ....associations, being that uncertainty greater as investigation is performed across restricted structural domains.
+
+Query:
+
+         Uncited reference: This section comprises references that occur in the reference list but not in the body of the text. Please position each reference in the text or, alternatively, delete it. Thank you.
+
+Answer: please delete the reference
+
+Query:
+
+         Please confirm that given names and surnames have been identified correctly.
+
+Answer: ok
+

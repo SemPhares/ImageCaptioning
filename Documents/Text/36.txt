@@ -1,0 +1,558 @@
+                       Larhyss Journal, ISSN 1112-3680, n°28, Dec 2016, pp. 103-119
+                           © 2016 All rights reserved, Legal Deposit 1266-2002
+
+
+
+
+ APPROCHE MULTICRITERE POUR L’ETUDE DE LA GENESE DES
+         NAPPES D’EAUX SALEES, JEFFARA NORD
+                    (S-E TUNISIE)
+
+      A MULTICRITERIA APPROACH TO STUDY GENESIS OF SALTED
+     GROUNDWATER, NORTHERN JEFFARA (SOUTH-EASTERN TUNISIA)
+
+         BEN ALAYA M.1 , KHOUNI R.2 , ZEMNI T.3 , KHMERI S. 3 , ZARGOUNI F. 3
+          1
+              Laboratoire des Matériaux Utiles, Institut National de Recherche et d’Analyse
+                     Physico-Chimique, Pôle Technologique Sidi Thabet, Tunisie
+     2
+         Primoil, Centre urbain Nord, immeuble PROMED BOUILDING, Etage 7 bloc B-1
+ 3
+     Université Tunis El Manar, Département de Géologie, Faculté des Sciences de Tunis,
+                                   2092 Tunis, Tunisie
+
+                                      benalaya.mohsen@gmail.com
+
+RESUME
+
+Des données de forages hydrauliques et géophysiques ont été utilisées,
+conjointement à des analyses géochimiques, pour esquisser un modèle
+conceptuel de fonctionnement hydrogéochimique du système aquifère de la
+Jeffara nord (Tunisie SE), largement influencé par la tectonique. L’étude des
+données de subsurfce a permis de montrer que le passage d’un domaine de
+plate-forme saharienne stable au domaine atlasique a été marqué par de
+nombreux accidents, qui ont affecté les formations du côté des sebkhas. C’est à
+travers les dysharmonies tectoniques et les niveaux carbonatés fortement
+diaclasés que s’effectue probablement la contamination des eaux souterraines,
+respectivement, par l’ascension d’eau salée profonde et l’empiétement des
+saumures sous les sebkhas. En effet, le mélange entre eau douce/eau salée est
+fortement modifié par des interactions géochimiques: échanges de bases et
+phénomènes de précipitations/dissolution.
+Mots clefs : Aquifère multicouche ; tectonique ; hydrochimie ; Tunisie SE
+
+
+
+
+© 2016 BEN ALAYA M. & al. Ceci est un article Libre Accès distribué sous les termes de la licence Creative Commons
+Attribution (http://creativecommons.org/licenses/by/4.0), qui permet l'utilisation sans restriction, la distribution et la
+reproduction sur tout support, à condition que le travail original soit correctement cité.
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+ABSTRACT
+
+A multi-disciplinary study comprising boreholes, geophysical and geochemical
+analyses are used to outline a conceptual hydrogeochemical model of northern
+Jeffara groundwater, largely influenced by tectonic. The study of subsurface
+data demonstrated that the passage of Saharian stable platform to Atlas domain
+is marked by fracturation affecting several geological formations near sebkhas.
+Indeed, contamination of groundwater is probably resulting from rise of deep
+salt water through tectonic disharmony and saltwater intrusion from the sebkhas
+by means of fractured carbonate formation. Moreover, the groundwaters quality
+is characterized by geochemical interactions: cationic exchange and the
+precipitation/dissolution process of minerals in the aquifer formations.
+Keywords: multi-layered aquifer; tectonic; hydrochemistry; south-eastern
+Tunisia
+
+INTRODUCTION
+
+La partie septentrionale du bassin de la Jeffara est représenté par le bassin de
+Gabès Nord-est ses alentours (Tunisie SE) (Figure 1), qui est le siège de
+plusieurs opérations de pompage d’eau destinée à l’alimentation en eau potable,
+ainsi qu’aux secteurs industriels et agricoles vu la rareté des eaux de surface.
+Parallèlement à cette forte sollicitation, le système aquifère multicouche de la
+Jeffara de Gabès nord et ses alentours est exposé à une pollution saline. Ce
+système aquifère est largement influencé par les caractéristiques structurales
+locales (Ben Alaya et al. 2014a & 2014b).
+La présente étude a pour objectif d’examiner l’influence des structures
+profondes sur la structuration de ce système aquifère et sur la salinité de ses
+ressources en eaux. Dans ce but, nous avons eu recours à une approche
+multidisciplinaire qui regroupe plusieurs méthodes, directes et indirectes: (1)
+l’observation sur le terrain, (2) l’analyse des séquences lithologiques de forages
+hydrauliques et pétroliers, (3) l’interprétation des données sismiques (pétrolière
+et haute résolution) qui permettent d’affiner la configuration géométrique des
+réservoirs souterrains de ce bassin, et (4) l’analyse des données
+hydrogéochimiques.
+Ce travail s’est poursuivi dans le secteur de Gabès Nord et ses alentours, afin de
+trouver des guides méthodologiques et de les utiliser ensuite dans d’autres
+
+
+
+
+104
+Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                         (S-E Tunisie)
+
+
+secteurs du bassin de la Jeffara. Ces guides permettent de proposer une
+orientation des prospections de la ressource en eau dans les zones arides.
+
+CADRE D’ETUDE
+
+La zone d’étude concerne le bassin de Gabès Nord-est ses alentours dans sa
+partie côtière et non côtière. Elle est limitée par deux grands domaines (1) les
+derniers plis atlasiques de direction Sud-ouest-Nord-est, l’anticlinal de Zemlet
+El Beïda au Nord et la mégastructure anticlinale de Chott El Fejej à l’Ouest, (2)
+la plate-forme saharienne au Sud et (3) la plaine effondrée de la Jeffara
+(Bouaziz, 1995) (Figure 2).
+
+
+
+
+     Figure 1 : Carte géologique de la région de Gabès Nord et ses alentours
+
+
+
+                                                                                 105
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+Le secteur de Gabès Nord, qui se trouve dans la partie septentrionale du bassin
+de la Jeffara, est constitué par des formations d’âge Crétacé et Mio-Plio-
+Quaternaire (Figure 1 et 3). Le Crétacé inférieur regroupe les grès, les argiles,
+les gypses et les sables du Barrémien et les calcaires dolomitiques de l’Albo-
+Aptien. Le Crétacé supérieur se compose essentiellement de calcaires
+dolomitiques karstifiés et de dépôts marno-gypseux du Coniacien-Santonien,
+calcaires fissurés et karstifiés du Turonien, de dépôts marno-gypseux et
+calcaires lumachelliques du Cénomanien. Le Mio-Pliocène est représenté par
+des dépôts continentaux : sables grossiers, sables fins, argiles sableuses, argiles
+et conglomérats. Le Quaternaire se compose essentiellement de dépôts
+détritiques continentaux allant de sables plus ou moins grossiers à des argiles
+avec parfois de minces intercalations de gypses et de conglomérats.
+
+
+
+
+  Figure 2 : Domaines structuraux du sud de la Tunisie et localisation de la zone
+                                    étudiée
+
+
+
+
+106
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+Le climat qui règne dans ce bassin est de type aride à semi-aride avec des
+tendances sahariennes. Les précipitations se caractérisent par leur irrégularité et
+leur violence, elles ne dépassent qu’exceptionnellement 180 mm/an.
+Les investigations hydrogéologiques effectuées dans le secteur Gabès Nord et
+ses alentours (Mamou 1990 ; Ben Alaya et al. 2014a) ont révélé un système
+multicouche où se superposent plusieurs niveaux aquifères, dont les plus
+importants sont, du plus récent au plus ancien, les suivants: l’aquifère sableux
+du Miocène, l’aquifère calcaire du Coniacien-Santonien et l’aquifère calcaire du
+Turonien. Ce système aquifère est largement influencé par les caractéristiques
+structurales locales (Ben Alaya et al. 2014a & 2014b). La faille d’El Hamma
+(Figure 1) a en effet engendré l’effondrement du bloc Est mettant en contact les
+niveaux gréseux du Crétacé inférieur de forte perméabilité à l’Ouest avec les
+niveaux marno-gypseux du Crétacé supérieur de moindre perméabilité à l’Est
+(Figure 4). Ce “seuil hydraulique” (Castany, 1950) maintient à son amont une
+pression hydrostatique nettement plus élevée qu’en aval.
+En surface, ce seuil est matérialisé par l’alignement des sources de l’Oued El
+Hamma, dont la température est d’environ 50°C (Figure 3). Depuis quelques
+années, l’exploitation de la nappe de la Jeffara à l’Est de la faille d’El Hamma a
+conduit à une baisse de la piézométrie entraînant l’extinction de l’artésianisme
+sur la plus grande partie de la nappe de la Jeffara et le tarissement généralisé des
+sources au niveau de la partie septentrionale de la Jeffara. Depuis quelques
+années, l’exploitation de la nappe de la Jeffara à l’Est de la faille d’El Hamma a
+conduit à une baisse de la piézométrie entraînant l’extinction de l’artésianisme
+sur la plus grande partie de la nappe de la Jeffara et le tarissement généralisé des
+sources au niveau de la partie septentrionale de la Jeffara.
+
+
+
+
+                                                                                  107
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+
+   Figure 3: Log lithostratigraphique de la partie septentrionale du Bassin de la
+                                      Jeffara
+
+
+
+
+108
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+
+
+Légende:
+
+1: Mio-Plio-Quaternaire; 2: Miocène; 3: Sénonien inférieur; 4: Sénonien lagunaire; 5:Turonien;
+6: Cénomanien-Turonien basale; 7: Apto-Albien; 8: Crétacé inférieur; 9: Faille ; 10: Forage et
+son N°IRH; 11: Source ; 12 : circulation des eaux souterraines ; 13 : Déversement des eaux du
+CI dans la nappe de la Jeffara et 14: sens d’écoulement de la nappe de la Jeffara.
+
+
+ Figure 4 : Coupe hydrogéologique synthétique à travers la partie septentrionale
+                du bassin de la Jeffara entre El Hamma et Gabès.
+
+
+Le seuil hydraulique d’El Hamma constitue à la fois l’exutoire naturel de la
+nappe du CI à travers les sources de l’Oued El Hamma, et l’alimentation
+souterraine qui transite vers la nappe de la Jeffara. En effet, le seuil d’El
+Hamma induit une dénivelée piézométrique de plus de 50 m. Cette dénivelée
+s’explique par la configuration géologique du seuil d’El Hamma permettant à
+l’eau du CI de remonter le long des accidents tectoniques successifs (Figure 4),
+pour se déverser dans les différentes formations aquifères de la Jeffara. La
+pression au niveau du seuil est appelée à baisser en fonction du temps, vu la
+
+
+
+
+                                                                                         109
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+forte exploitation de la nappe du CI pratiquée en amont (bassin du Grand Erg
+Oriental en Algérie et en Tunisie), et celle de la Jeffara à travers toute la plaine
+côtière.
+
+MATERIELS ET METHODES
+
+Les interactions entre les aquifères de la nappe de la Jeffara de Gabès Nord et
+les aquifères profondes (salinité > 7 g/l) et l’interaction eau/niveaux
+évaporitiques ont été étudiées à partir de l’analyse et de l’interprétation des
+données de sismique réflexion. Les études par sismique–réflexion pétrolière et
+haute résolution ont contribué à l’identification des structures profondes et
+appréhender la géométrie des aquifères (Laroque & Dupuy, 2004 ; Zouhri et al.,
+2011). Dans la région de Gabès nord et ses alentours, les données fournies par
+les puits pétroliers (Cf1 et ZB1) et les forages hydrauliques sont un secours pour
+le calage, respectivement, de la sismique pétrolière et haute résolution (Figure
+5). La conversion des profondeurs en utilisant les courbes temps–profondeur a
+permis d’affiner la structure géologique des différents horizons perméables et
+imperméables.
+Afin d’évaluer la minéralisation des eaux souterraines de la région, une
+campagne de mesure a été réalisée pendant l’année 2008. Les analyses
+chimiques des éléments majeurs ont été réalisées par différentes méthodes
+(gravimétrie, titrimétrie et spectrométrie à flamme). L’erreur sur la balance
+ionique reste acceptable (E < 5%) pour l’ensemble des points analysés.
+
+RÉSULTATS ET DISCUSSIONS
+
+Coupe géosismique
+
+Les coupes géosismiques des profils sismiques pétroliers L4 et L14 de direction,
+respectivement, E-W et N-S (Figure 6) permet de confirmer d’une part la
+complexité géologique de la région Gabès Nord et d’autre part l’existence d’une
+mosaïque de failles normales et profondes de directions NW-SE, N-S, E-W et
+NE-SW qui affectent les séries allant du Trias au Crétacé supérieur. Les mêmes
+directions de failles sont identifiées sur la sismique haute résolution (Figure 7).
+Ces informations impliquent qu’en plus des traits structuraux déjà décrits sur les
+cartes géologiques de Gabès, il existe en profondeur d’autres structures de
+même importance, qui devront être prises en considération pour mieux
+
+
+
+
+110
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+comprendre le schéma hydrodynamique du système aquifère de la Jeffara de
+Gabès Nord et ses alentours. En effet, l’influence des structures anciennes est
+bien visible sur les sections sismiques, qui révèlent un système aquifère
+compartimenté en horsts et en grabens.
+
+
+
+
+Légende : 1 : Sebkhas, 2 : Quaternaire, 3 : Moi-Pliocène, Éocène, 5 : Crétacé
+supérieur, 6 : Crétacé inférieur, 7 : Trias, 8 : Profil sismique pétrolière non publié dans
+ce travail, 9 : profil sismique pétrolière publié dans ce travail, 10 : Profil sismique
+Haute résolution (HR) non publié dans ce travail, 11 : profil sismique Haute résolution
+(HR) non publié dans ce travail, 12 : Faille certaine, 13 : Forage pétrolier et 14 : Oued.
+
+
+                  Figure 5 : Carte de position des profils sismique
+
+
+Une telle structuration présente des implications hydrogéologiques très
+importantes, dans la mesure où elle contrôle l’écoulement et la qualité
+chimiques des eaux souterraines.
+
+
+
+
+                                                                                      111
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+
+      Figure 6 : Coupes géosismiques des profils sismiques L14 (A) et L4 (B)
+
+
+
+
+      Figure 7 : Coupe géosismique du profil sismique haute résolution HR3
+
+
+
+
+112
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+Piézomètrie
+
+Afin de comprendre le fonctionnement hydrogéologique de cet aquifère et le
+sens d’écoulement, et afin de détecter les zones renfermant des ressources
+souterraines, la combinaison de l’apport piézométrique et géométrique des
+réservoirs a été prise en compte. L’analyse piézométrique (Figure 8) montre que
+le sens de l’écoulement de la nappe est de direction moyenne Ouest-Est. Cet
+écoulement se fait dans plusieurs compartiments hydrogéologiques. En effet, les
+eaux convergeraient à partir des structures en horsts vers les zones de
+dépressions (Grabens). La structure piézométrique identifiée sur la carte
+piézométrique est un dôme piézométrique qui est une zone de recharge au
+niveau du Turonien fracturé qui favorise l’infiltration dans la nappe.
+
+
+
+
+     Figure 8 : Carte piézométrique de la nappe de la Jeffara de Gabès Nord
+
+
+Hydrochimie
+
+La carte de répartition spatiale de salinité (g L-1, Figure 9) montre une similitude
+assez étroite avec l’allure de la carte piézométrique de la nappe (3 et 10 g L -1).
+La salinité des eaux est influencée par la lithologie, le séjour des eaux dans les
+réservoirs et l’interaction eau-roche évaporitique. Dans les alentours de Gabès,
+
+
+
+                                                                                  113
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+et le long de la frange côtière, les valeurs de la salinité de l’eau de la Jeffara
+varient de 2,8 à 3 g L-1. Ceci peut s’interpréter comme un apport local en eau
+douce caractérisant l’aquifère calcaire du Coniacien-Santonien à travers ses
+affleurements dans le bassin versant de l’Oued Gabès. En plus, dans ce secteur,
+la forte karstification des calcaires du Coniacien-Santonien est de nature à
+favoriser la bonne circulation des eaux souterraines et par conséquent une légère
+variation de leur salinité dans le sens de l’écoulement. A proximité des sebkhas,
+les valeurs élevées de salinité de la nappe de la Jeffara semblent être dues à une
+communication avec les eaux très chargées des sebkhas (Sabkhet El Hamma et
+Sabkhet El Melah-M’khacherma) d’une part, et à une remontée d’eau très
+minéralisée piégée dans les séries du Crétacé inférieur (salinité> 7g/l) à la
+faveur des accidents tectoniques bordant le graben d’Ouedref–Métouia d’autre
+part. Il y a risque de transformer aussi les dépressions de type sebkhas à des
+aires de recharge en cas de surexploitation à moyen et à long terme, source
+éventuelle de contamination des eaux souterraines, au niveau des accidents, par
+des eaux superficielles plus salées.
+
+
+
+
+               Figure 9 : Carte de salinité de la nappe de la Jeffara
+
+
+
+
+114
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+Mécanismes de l’acquisition de la charge saline
+
+Le traitement des données analytiques a été réalisé à l’aide du logiciel
+AquaChem afin de préciser l’origine de la minéralisation des eaux et la nature
+des niveaux réservoirs. En effet, l’approche hydrochimique appliquée aux
+différentes eaux analysées, au Laboratoire du Groupe Chimique Tunisien
+(GCT), dans la région d’étude a révélé que les eaux de la nappe de la Jeffara,
+présentent des salinités variables et sont dans l’ensemble caractérisées par une
+dominance des sulfates, des chlorures et du sodium. Ceci montre bien que la
+minéralisation de ces eaux est acquise principalement par la dissolution des
+minéraux évaporitiques.
+Afin de déterminer le faciès chimique des eaux analysées, nous avons reporté
+les résultats d’analyses dans le digramme de Piper (1944). Les points
+représentatifs de tous les points d’eau échantillonnés (Figure 10) montrent
+montre que les faciès chimiques des eaux évoluent du faciès hydrochimique Na-
+Ca- SO4-Cl au Ca-Na-SO4-Cl pour les eaux les moins chargées et au faciès
+hydrochimique Na-Ca-Cl-SO4 au Na-Cl pour les eaux les plus chargées. Ceci
+est corroboré par les indices de saturation (Is) calculés par le programme
+WateqF (Plummer et al. 1976) qui montrent un état de sous-saturation pour tous
+les échantillons vis-à-vis de la halite et de légère sous saturation vis-à-vis du
+gypse. Le calcul des indices de saturation de la calcite et la dolomite (Figure 11)
+montre que la majorité des eaux prélevées sont saturés vis-à-vis des minéraux
+carbonatés, la calcite, la dolomite et l’aragonite. L’eau est en équilibre avec un
+minéral lorsque Is = 0, elle est sous-saturée lorsque Is < 0 et sursaturée lorsque
+Is > 0 (Subyani 2005, Cidu et al. 2009).
+Les teneurs en Ca2+ et en Mg2+ montrent une grande variabilité, de 272 à 712 mg
+L-1 pour Ca2+ et de 37 à 264 mg L-1 pour Mg2+. Ceci peut s’expliquer par le fait
+que ces deux cations sont probablement impliqués dans les processus de
+dissolution/ précipitation du gypse, de la calcite et de la dolomite (présence d’un
+ion commun le Ca2+) et aux phénomènes d’échanges de base Na+-Ca2+ ou Na+-
+Mg2+ et d’échanges Ca2+-Mg2+, dus à l’interaction entre eau et roches
+carbonatées (dolomitisation). Les phénomènes d’échanges de bases, qui
+caractérisent les niveaux aquifères de la nappe de la Jeffara, sont mis en
+évidence par la relation Ca2+/(HCO3- + SO42-) en fonction de Na+/Cl- (Fig. 12).
+La projection des différents points sur le diagramme Ca 2+/(HCO3- + SO42-) en
+fonction de Na+/Cl- (Figure 12) montre que 31% des points d’eau subissent un
+échange de bases inverse par lequel les ions Na + sont adsorbés à la surface des
+minéraux argileux en libérant du Ca2+ (Na+/Cl- < 1), 22% des points subissent
+
+
+
+                                                                                  115
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+un échange de bases direct par lequel les ions Na + sont libérés du complexe et
+sont remplacés par les ions Ca 2+ (Na+/Cl- > 1) et 47% des points présentent l’état
+naturel (Na+/Cl- = 1). Tous les points d’eau présentent un déficit en Ca 2+ par
+rapport aux ions HCO3- et SO42- sûrement dû à l’effet de la fixation du calcium
+par les argiles et à la précipitation de la calcite. En effet, la précipitation de la
+calcite est contrôlée par l’échange de bases inverse et la dissolution du gypse
+qui tendent à maintenir la saturation et la sursaturation de l’eau vis-à-vis ce
+minéral (calcite). En outre, les bicarbonates formés par la dissolution de la
+calcite mettant en jeu le CO 2 (g) sont équilibrés par Ca2+ et Na+ libérés du
+complexe des minéraux argileux de la formation aquifère (Andrews et al. 1994).
+
+
+
+
+   Figure 10 : Diagramme de Piper (1944) appliqué aux eaux de la nappe de la
+                          Jeffara de Gabès Nord.
+
+
+
+
+116
+Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                         (S-E Tunisie)
+
+
+
+
+   Figure 11 : Box plots illustrant la variation des indices de saturation (IS) de
+                   certains minéraux des formations aquifères
+
+
+
+
+            Figure 12 : Relation entre Ca2+/(HCO3- + SO42-) et Na+/Cl-
+
+
+
+
+                                                                                     117
+Ben Alaya M. & al. / Larhyss Journal, 28 (2016), 103-119
+
+
+
+CONCLUSION
+
+Les méthodes géologiques et géophysiques (sismique réflexion) et l’analyse des
+forages hydrogéologiques et pétroliers ainsi que les l’interprétation des données
+hydrogéochimiques ont été utilisées ici pour montrer le rôle que peut jouer la
+tectonique dans la compréhension du fonctionnement des aquifères et la genèse
+des nappes d’eau salée.
+Ainsi, les lignes sismiques ont permis de relever les principales caractéristiques
+de la partie septentrionale du bassin de la Jeffara (tectonique, extension des
+couches aquifères...), de suivre les limites de fonctionnement des aquifères
+profonds et de déceler les zones hydrogéologiques favorables. Elles montrent
+que le dispositif en horsts et grabens a contrôlé la répartition des formations
+perméables, l’écoulement souterrain et la qualité chimique des eaux. De même,
+elles donnent aussi des indications précieuses de profondeurs de réservoirs pour
+une éventuelle implantation de forages.
+La variation de la salinité et le comportement hydrogéochimique des aquifères
+de la nappe de la Jeffara de Gabès s’expliquent par une interaction avec leur
+environnement global (niveaux évaporitiques et sebkhas) et par un contexte
+géologique complexe.
+Par ailleurs, cette étude montre que la région de Gabès Nord est affectée par des
+accidents qui hachent l’ensemble des formations allant du Trias au Plio-
+Quaternaire dans la partie Nord du secteur d’études et aux alentours des
+sebkhas. Il est évident que certaines remontées d’eau salée se sont faites à la
+faveur des failles à partir des formations aquifères du Crétacé inférieur (Salinité
+> 7g/l) dans la plaine de la Jeffara de Gabès Nord. Aux alentours des sebkhas,
+C’est à travers la fracturation et la fissuration des niveaux notamment
+carbonatés et la bonne perméabilité des niveaux sableux du Miocène que
+s’effectue probablement la contamination des eaux souterraines par des eaux
+superficielles plus salées. Le mélange entre eau douce/eau salée est fortement
+modifié par des interactions géochimiques : échanges de bases et phénomènes
+de précipitations des minéraux carbonatés et dissolution des minéraux
+évaporitiques.
+Cette démarche nous a permis d’obtenir des guides méthodologiques qui seront
+utilisés pour orienter l’implantation de nouveaux forages. La prise en compte de
+la géométrie, sur laquelle se fondent les modèles hydro-structuraux, permettra
+dans une prochaine étape de réaliser une étude de gestion des ressources de ce
+système aquifère.
+
+
+
+
+118
+ Approche multicritère pour l’étude de la genèse des nappes d’eaux salées, Jeffara nord
+                                                                          (S-E Tunisie)
+
+
+RÉFÉRENCES BIBLIOGRAPHIQUES
+
+ANDREWS, J.N., FONTES, J.C., ARANYOSSY, J.F., DODO, A., EDMUNDS, W.M.,
+   JOSEPH, A., TRAVI, Y. (1994). The evolution of alkaline aquifer of the Irhazer
+   Plain, Niger. Water Resour Res 30(1): 45–61
+BEN ALAYA, M., ZEMNI, T., MAMOU, A. & ZARGOUNI, F. (2014): Acquisition
+   de salinité et qualité des eaux d’une nappe profonde, Tunisie: Approche statistique et
+   géochimique. Hydrological Sciences Journal. 59 (2), 395-419.
+BEN ALAYA, M., SAIDI, S., ZEMNI, T. & ZARGOUNI, F. (2013b). Suitability
+   assessment of deep groundwater for drinking and irrigation use in the Djeffara
+   aquifers (Northern Gabes, south-eastern Tunisia). Environ Earth Sci. 71, 3387–3421.
+BOUAZIZ, S. (1995). Étude de la tectonique cassante dans la plateforme et l’Atlas
+   sahariens (Tunisie méridionale): évolution des paléochamps de contraintes et
+   implications géodynamiques. Thèse Es Sciences. Université Tunis-II, Tunisie.
+CASTANY, G. (1954). L’accident sud tunisien et ses relations avec l’accident sud-
+   atlasique. Comptes Rendus de l’Académie des sciences, Paris, 238.
+CIDU, R., BIDDAU, R., AND ET FANFANI, L. (2009). Impact of past mining activity
+   on the quality of groundwater in SW Sardinia (Italy). Journal of Geochemical
+   Exploration, 100, 125–132.
+LARROQUE, F.& DUPUY, A. (2004). Apports de la méthode sismique réflexion haute
+   résolution à l’identification des structures profondes des formations tertiaires en
+   Médoc (Gironde, France): implications hydrogéologiques. C.R.G. 336, 1111–1120.
+MAMOU, A. (1990). Caractéristiques et évolution des ressources en eau du Sud
+   Tunisien.
+PIPER, A. M. (1944). A graphic procedure in the geochemical interpretation of water
+   analyses. Trans. Am. Geophys. Union 25, 914–923.
+PLUMMER, L.N., JONES, B.F., and et TRUESDELL, A.H. (1976). WATEQF, a
+   Fortan IV version of WATEQ, a computer program for calculating chemical
+   equilibrium of natural waters. US Geological Survey Water Resources Investigation
+   Report                      76–13.                 Available                    from:
+   http://pbadupws.nrc.gov/docs/ML0331/ML033170395. pdf
+SUBYANI, A.M. (2005). Hydrochemical identification and salinity problem of ground-
+   water in Wadi Yalamlam basin, Western Saudi Arabia. Journal of Arid
+   Environments, 60, 53–66.
+ZOUHRI, L., GORINI, C., LAMOUROUX, C., VACHARD, D., DAKKI, M. (2003):
+   Interprétation hydrogéologique de l’aquifère des bassins Sud rifains (Maroc): apport
+   de la sismique réflexion. C. R. G. 335, 319–326.
+
+
+
+
+                                                                                    119
+

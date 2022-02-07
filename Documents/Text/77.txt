@@ -1,0 +1,339 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/280931545
+
+
+
+International Conference on Science Technology Engineering & Management
+[ICON-STEM'15] Surface Geo-Electrical Sounding for the Determination of
+Aquifer Characteristics in part of t...
+
+Article · April 2015
+
+CITATIONS                                                                                                 READS
+0                                                                                                         108
+
+3 authors, including:
+
+            Mathiazhagan Mookiah                                                                                     Selvakumar Thiagarajan
+            Manonmaniam Sundaranar University                                                                        Anna University, Chennai
+            9 PUBLICATIONS 18 CITATIONS                                                                              11 PUBLICATIONS 24 CITATIONS
+
+                SEE PROFILE                                                                                               SEE PROFILE
+
+
+
+
+ All content following this page was uploaded by Selvakumar Thiagarajan on 13 August 2015.
+
+ The user has requested enhancement of the downloaded file.
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                          ISSN: 0974-2115
+
+         Surface Geo-Electrical Sounding for the Determination of Aquifer
+          Characteristics in part of the Palar Sub-Basin, Tamilnadu, India
+                                   M. Mathiazhagan*, T. Selvakumar, G. Madhavi
+                            Centre for Water Resources, Anna University, Chennai – 25, India
+                          *Corresponding Author: Email.ID: mr.mathiazhagan@yahoo.com
+                                                      ABSTRACT
+         A resistivity survey was carried out to study the groundwater potential in Palar Sub-Basin Walajabad Block,
+Tamilnadu, India, such as resistivity, depth and thickness by which water can be obtained. The geo-electrical methods
+used in the survey are Vertical Electrical Sounding (VES) with the aim of determining groundwater potential area. The
+110 VES points were conducted using the Schlumberger Configuration in the entire study area. The instrument used is
+ABEM Terrameter SAS 1000. The VES data were interpreted using IX1Dv2 software which showed that the area is
+composed of top soil, clay, sandy clay, sand gravel, weathered genies, jointed genies and massive charnockite. The
+curves are prominently of A, Q, K and H type indicating the presence of three layers followed by combination of
+curves AK, KH, HK, HA, QH, AA, AH and KA indicating the four layers followed by combination of curves KHA,
+HKH, KQH, AKH, KHK, HKQ and AAK indicating the presence of five layers sub-surface layers. Interpretation
+reveals the number of subsurface layers, their thickness and their water bearing capacity within the study area. The best
+layer which acts as the good aquifer of Walajabad block is the H type and H Combination type occur in the study area
+except hard rock terrain. H type curve indicate the good aquifer in the study area. The resistivity varying from 0.565
+Ωm to 39174.4 Ωm and thickness from 0.105 m to 94.91 m.
+Keywords: Vertical Electrical Sounding, Resistivity, Thickness, Depth, Type Curve, Groundwater and Aquifer.
+INTRODUCTION
+         The electrical resistivity technique involves the measurement of the apparent resistivity of soils and rock as a
+function of depth or position. The most common electrical technique needed in hydrogeologic and environmental
+investigations is vertical electrical soundings (resistivity sounding). During resistivity surveys, current is injected into
+the each through a pair of current electrodes, and the potential difference is measured between a pair of current
+electrodes, and the potential electrodes. The bulk average resistivity of all soils and rock influencing the current. It is
+calculated by dividing the measured potential difference by the input current and multiplying by a geometric factor
+specific to the array being used and electrode spacing (AAA Zohdy, 1974).
+        In a resistivity sounding the distance between the current electrodes and the potential electrodes is
+systematically increased, thereby yielding information on subsurface resistivity from successively greater depth. The
+variation of resistivity with the depth is modeled using forward and inverse modeling computer software. The vertical
+sounding method was chosen for this study because the instrument is simple, field logistics are easy and straight
+forward while the analysis of data is less tedious and economical (A.N.Amadi, 2012). It also has capability to
+distinguish between saturated and unsaturated layers.
+         In a resistivity sounding the distance between the current electrodes and the potential electrodes is
+systematically increased, thereby yielding information on subsurface resistivity from successively greater depth. The
+variation of resistivity with the depth is modeled using forward and inverse modeling computer software. The
+Schlumberger method has a greater penetration than the Wenner. In resistivity method, Wenner configuration
+discriminates between resistivities of different geoelectric lateral layers while the Schlumberger configuration is used
+for the depth layers (J.A.Olowofela, 2005). Geoelectric method is regularly used in determination of depth, thickness
+and boundary of an aquifer (G.O. Omosuyi, 2007, M.I. Ismailmohamaden, 2005)in determination of groundwater
+potential (J.O.Oseji et.al. 2005). The investigation of alluvial aquifers with large resistivity contacts by Gnanasundar D
+and Elango L, 1999, Identification of the presence and location of a leachate plume, delineation of the groundwater
+potential aquifers and vulnerability of aquifer contamination by A.I Opera, 2012 . Geo-electrical techniques provide an
+alternative method for acquiring hydraulic parameters and processes data in order to adequately characterize flow in
+
+JCHPS Special Issue 8: March 2015                  www.jchps.com                                       Page 1
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                          ISSN: 0974-2115
+hard rock aquifers (M.O.K’orowe, 2012) Resistivity value in sedimentary rocks are also controlled by parameters such
+as water contents, salinity, texture, matrix conductivity and the presence of clay materials (C.N. Nwankwo and
+G.O.Emujakporue, 2012).
+The objective of this research paper is to find useful information on subsurface hydrogeological conditions of the study
+area such as aquifer resistivity, aquifer thickness, depth and groundwater quality at Palar Basin, Walajabad Block by
+using Vertical Electrical Sounding.
+STUDY AREA
+        In this research project the study area selected is Walajabad block of Kancheepuram District, Palar sub basin.
+As per Groundwater Estimating Committee (GEC), 2009 the Walajabad block has been categorized as overexploited
+block. Palar river is the major river draining across the district from West to East, and the river is a seasonal in nature.
+As the surface water drying on, the groundwater has become the main source for irrigation and drinking water sectors.
+The study area is predominantly underlain by hard rocks, sedimentary and alluvium deposits and hence because of
+heterogeneity in geological formation a suitable methodology is required to identify groundwater potential zones. The
+areal extent of the study area is 325 Km2 and lies between the geopgraphical co-ordinates of Latitude 13˚14’12” -
+12˚15’38”and Longitude 79˚30’37” and 80˚30’42”.
+
+
+                                                  Figure.1. Study Area Map
+
+
+
+
+MATERIALS AND METHODS
+         The resistivity technique examines horizontal and vertical discontinuities in the electrical properties of the
+ground. It measures earth resistivity by passing an electrical current into the ground and measuring the resulting
+potentials created. This method involves the supply of direct current or low-frequency alternating current into the
+ground through a pair of electrodes and the measurement of the resulting potential through another pair of electrodes
+(potential electrodes) (AAA Zohdy et.al. 1974). Because the current is known and the potential can be measured an
+apparent resistivity can be calculated. The apparent resistivity of the subsurface material is a function of the magnitude
+of the current, the recorded potential difference and the geometry of the electrode array used. The current electrodes
+spacing (AB) increases after each reading while the potential electrodes spacing (MN) increases only when deemed
+necessary and controlled by the relation AB/2 ≥ 5MN/2 as required by the Schlumberger array. For Schlumberger
+soundings (Fig. 2). This survey used ABEM SAS 1000 Terrameter, Sweden. Then, the sounding curves were
+interpreted to determine the apparent resistivity and thicknesses of the subsurface layers. Interpretation was used with
+IX1Dv2 software.
+
+
+
+
+JCHPS Special Issue 8: March 2015                    www.jchps.com                                     Page 2
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                           ISSN: 0974-2115
+                      Figure.2. Schlumberger Sounding Or Vertical Electrical Sounding (VES)
+
+
+
+
+A total number of 110 Vertical Electrical Sounding (VES) points were carried out in the Walajabad block at
+Kancheepuram in Tamilnadu, India. The maximum of outer current electrode spacing is 200 m. Then the inner
+potential electrode maximum spacing is 10 m. The apparent resistivity data are associated with varying depths relative
+to the distance between the current and potential electrodes and can be interpreted qualitatively and quantitatively in
+terms of a lithologic and/or geohydrologic model. In the qualitative interpretation method the shape of the field curve is
+observed to assess the number of layers and their resistivity. In the quantitative interpretation method true resistivity ‘ρ’
+and layer thickness ‘h’ as the fundamental characteristics of a geoelectric layer are obtained. The quantitative
+interpretation of VES curves in this study was done by the well–known method of curves matching. In curves matching
+technique, the field VES curves are compared with set of theoretical curves to obtain ‘ρ’ and ‘h’ (M.Mathizhagan et.al
+2012 & 2013).
+RESULTS AND DISCUSSION
+         Qualitative interpretation of VES curves: For qualitative interpretation method, the shape of the field curve is
+observed to assess the number of layers and their resistivity. It gives information about the number of layers with their
+continuity through area and reflects the degree of homogeneity or heterogeneity of an individual layer. Figure 3, 4 and
+5 shows examples of resistivity sounding curves in the study area with three, four and five layers respectively. In this
+study area, three geological formations namely alluvium, sedimentary and hard rock are present. Totally, 110 Vertical
+Electrical Sounding (VES) points have been covered with 25, 58 and 27 points respectively. Alluvium occurs in the
+north and south end of the study area. Hard rock followed by south side alluvium formation towards north. Then
+sedimentary followed by north side alluvium formation towards south. These soundings are characterized by relatively
+high resistivity values in the first layer (AB~8m) reflecting dry zone for the entire study area. But the difference are
+clear in the second and third layer (AB > 8m) reflecting the groundwater on the geophysical parameters (resistivity) as
+the variation in the depths of the layers and their nature.
+       The form of the geoelectrical sounding curves throughout the study area are considerably of the types A, Q, K,
+H, AK, KH, HK, HA, QH, AA, AH, KA, KHA, HKH, KQH, AKH, KHK, HKQ and AAK. The interpretive models for
+each VES station as well as the percentage relative Root Mean Square (RMS) errors which provide quantitative
+assessment on the quality of the interpretation method the RMS error ranges from 3.33% to 16.56 %.
+
+
+
+
+ Figure.3. Geophysical interpretation results for three          Figure.4. Geophysical interpretation results for four
+
+JCHPS Special Issue 8: March 2015                   www.jchps.com                                       Page 3
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                       ISSN: 0974-2115
+                        layers curve                                                layers curve
+
+
+
+
+                           Figure.5. Geophysical interpretation results for five layers curve
+         Generally in northern and southern sides, 10 different curves of alluvium nature occur i.e. H, Q, A, HA, QH,
+HA, KH, AK, HK and KQH. Different curves reflect the heterogeneous nature of the study area. In the northern
+alluvial formation three layers curves of H, Q and A types and four layers of QH, HA, KH, AK, HK types and KQH
+the five layer curves occur. Hard rock formation with 11 different curves occur i.e. A, K, AK, AA, KA, HK, KH, HA,
+HKH, KHK and AKH. It also clearly indicates the heterogeneities nature of the hard rock formation. In this formation
+three layer A and K types; four layers AK, AA, KA, HK, KH and HA types; five layers HKH, KHK and AKH types
+occur. In sedimentary formation with 11 different curves occur i.e. H, A, HK, AA, HA, KH, HKQ, KHK, AAK, KHA
+and HKH. It also clearly indicates heterogeneities of the sedimentary formation. In this formation three layer H and A
+types; four layers HK, AA, HA and KH types; five layer curve HKQ, KHK, AAK and HKH types occur.
+Quantitative interpretation: The VES curves were also interpreted quantitatively though from a purely theoretical
+view point to delineate the subsurface succession of the geoelectric layer in the study area. The results of the data
+analysis show that the area under investigation can generally be interpreted as a three, four and five layered region
+down to the depth of investigation main features of each of the layers is as follows.
+Alluvium formation: Five layers are occurring in the alluvium formation with the resistivity of the surface layer
+ranging between 5.17 Ωm to 2219.5 Ωm and are typically indicative of dry layer (alluvium and clay soil) with top soil
+variation. This layer reaches a maximum 4.73 m thickness at VES 38 and about minimum 0.44 m at VES 45. Depth
+variation ranges from 0.44 m to 4.73 m. Second layer is characterized by relatively low resistivity values of 2.64 Ωm to
+380306.2 Ωm. This layer is shallow and is unconfined aquifer with weathered/sandy clay. The thickness of this layer
+varies greatly from one locality to another with its maximum thickness of 46.04 m as recorded at VES 38 and its
+minimum thickness 0.0236 m at VES 37. Depth variation ranges from 0.819 m to 50.78 m. Third layer is characterized
+by relatively low resistivity values of 15.95 Ωm to 3334.2 Ωm. This is confined aquifer with Weathered Genesis/Sandy
+clay/Jointed Genesis. The thickness of this layer varies with its maximum 94.91 m thickness at VES 63 and about
+minimum 2.24 m at VES 37. Depth variation ranges from 3.06 m to 99.29 m. Fourth layer is characterized by relatively
+low resistivity values 10.27 Ωm to 386.2 Ωm. This is confined aquifer with Weathered Genesis/Jointed
+Genesis/Massive Charnockite. The thickness of this layer varies from 42.37 m to ∞. Depth variation ranges from 45.44
+m to ∞. The resistivity of 5th layer ranges from 1325.5 Ωm was interpreted as Jointed Genesis/Massive Charnockite.
+Hard Rock formation: There are five layers in the hard rock formation with first layer having resistivity variation
+from 2.31 Ωm to 251.1 Ωm. They are typically indicative of dry layer (clay/sandy clay soil) with top soil variation.
+This layer reaches a maximum 5.22 m thickness at VES 23 and about minimum 0.42 m at VES 6. Depth variation
+ranges from 0.42 m to 5.22 m. Second layer is characterized by relatively low resistivity values of 0.565 Ωm to 1755.4
+
+JCHPS Special Issue 8: March 2015                 www.jchps.com                                    Page 4
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                        ISSN: 0974-2115
+Ωm. This layer is shallow and is unconfined aquifer with weathered/highly weathered Genesis. The thickness of this
+layer varies greatly from one locality to another with its maximum thickness 44.62 m as recorded at VES 23 and its
+minimum thickness 0.245 at VES 41. Depth variation ranges from 0.689 m to 49.84 m. Third layer is characterized by
+relatively low resistivity values of 2.83 Ωm to 22088.9 Ωm. This is confined aquifer with Weathered Genesis/Jointed
+Charnockite. The thickness of this layer varies its maximum 75.6 m thickness at VES 59 and about minimum 0.112 m
+at VES 41. Depth variation ranges from 5.05 m to 79.32 m. Fourth layer is characterized by relatively low resistivity
+values 29.08 Ωm to 35476.3 Ωm. This is confined aquifer with Weathered Genesis/Jointed Genesis/Massive
+Charnockite. The thickness of this layer varies its maximum 67.56 m thickness at VES 30 and about minimum 11.32 m
+at VES 62. Depth variation ranges from 18.37 m to 78.58 m. The resistivity of fifth layer ranges from 75.98 Ωm to
+4835.6 Ωm was interpreted as Jointed Genesis/Massive Charnockite.
+Sedimentary formation: There are five layers occurred in the sedimentary formation with the resistivity of the surface
+layer ranges between 1.8 Ωm to 945.8 Ωm and are typically indicative of dry layer (clay/sandy clay soil) with top soil
+variation. This layer reaches a maximum 4.92 m thickness at VES 10 and about minimum 0.424 m at VES 11. Depth
+variation ranges from 0.424 m to 4.92 m. Second layer is characterized by relatively low resistivity values of 4.35 Ωm
+to 1737.2 Ωm. This layer is shallow and is unconfined aquifer with sandy clay/clayey sand. The thickness of this layer
+varies greatly from one locality to another with its maximum thickness 43.04 m as recorded at VES 20 and its
+minimum thickness 0.123 m at VES 99. Depth variation ranges from 1.74 m to 44.22 m. Third layer is characterized by
+relatively low resistivity values of 3.3 Ωm to 3763.2 Ωm. This is confined aquifer with Sandy Clay/Clayey Sand/Sand
+Gravel/shale. The thickness of this layer varies its maximum 72.74 m thickness at VES 9 and about minimum 1.45 m
+at VES 11. Depth variation ranges from 4.69 m to 83.6 m. Fourth layer is characterized by relatively low resistivity
+values of 7.03 Ωm to 1046 Ωm. This is confined aquifer with Sandy Clay/Sand Gravel/Boulders. The thickness of this
+layer varies its maximum 92.17 m thickness at VES 11 and about minimum 28.33 m at VES 107. Depth variation
+ranges from 37.9 m to 97.95 m. The resistivity of fifth layer ranges from 4.82 Ωm to 39174.4 Ωm was interpreted as
+Boulders.
+        The above fig.6. Geophysical survey locations with cross section map. There are four cross section plotted i.e.
+AA’ BB’ CC’ and DD’. In the AA’ cross section comes under South Alluvium formation, BB’ cross section comes
+under Hard rock formation, CC’ cross section comes under Sedimentary formation and DD’ comes under North
+Alluvium formation. This cross section shows the South Alluvium formation fig.7. It is shows the five layer cross
+section map. First layer is top soil followed by fine sand for the second layer that is maximum occur in the VES 38
+(Palayasevaramapuram) at 52 m and VES 44 (Vengudi) at 45 m depth and it is very good aquifer. The third layer is
+Highhly weathered rock its hold in more water area. It is fall on VES 39 (Sankarampuram), VES 42
+(Pulliyampakkam), VES 43(Walajabad) and VES 47 (Villivalam). Fourth layer is Jointed Charnockite rock It is fall on
+VES 45(Kelaottivakkam) and VES 48 (Nayakenpatai). And last layer Massive charnockite.
+         This cross section shows the Hard Rock formation fig.8. It is shows the five layer cross section map. First layer
+is top soil followed by clay for the second layer that is maximum occur in the VES 52 (Kaliyanor) at 5 m and VES 25
+(Uthukadu) at 1 m depth. The third layer is Weahered Gneiss its hold in more water area. It is fall on VES 52
+(Kaliyanor), VES 61 (Neikuppam). Fourth layer is Jointed/Fracture Charnockite rock It is fall on VES 61
+(Kelaottivakkam) and VES 25 (Uthukadu) it is maixmum 75 m thickness. And last layer Massive charnockite it is very
+near by ground surface at VES 70 (Kattavakkam). This cross section shows the Sedimantary formation fig.9. It is
+shows the five layer cross section map. First layer is top soil followed by clay for the second layer that is maximum
+occur in the VES 8 (Alappakam) at 20 m and VES 73 (Vedal) at 8 m depth. The third layer is Sandy Clay/Clayey
+Sandy its hold in more water area. It is fall on VES 19 (Rajakulam), VES 13 (Singadivakam), VES 11 (Athivakkam)
+and VES 8(Alappakam) these area wide thickness of this layer. Fourth layer is sandy gravel It is fall on VES 73
+(Vedal) and it is maixmum 45 m thickness. And last layer Boulders.
+
+
+
+
+JCHPS Special Issue 8: March 2015                 www.jchps.com                                      Page 5
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                     ISSN: 0974-2115
+
+
+
+
+Figure.6.Geophysical survey locations with cross                   Figure.7. Shows the cross section AA’
+                 section map
+          Figure.8. Shows the cross section BB’                       Figure.9. Shows the cross section CC’
+
+
+
+
+                                         Figure.10. Shows the cross section DD’
+
+
+
+
+         This cross section shows the North Alluvium formation fig.10. It is shows the four layer cross section map.
+First layer is top soil followed by Fine Sand/Clay for the second layer that is maximum occur in the VES 86 (Pullalur)
+at 30 m and VES 98 (Samanthipuram) at 8 m depth. The third layer is Sandy Sandy Clay/Clayey Sandy/Sandy Gravel
+its hold in more water area. It is fall on VES 85 (Palur), VES 87 (Pullalur), VES 88 (Thandalam), VES 89 (Purisai) and
+VES 98 (Samanthipuram) these area wide thickness of third layer. And last layer Boulders it is occur VES 86 (Pullalur)
+near to another area.
+
+
+
+JCHPS Special Issue 8: March 2015                 www.jchps.com                                   Page 6
+  International Conference on Science Technology Engineering & Management
+                               [ICON-STEM’15]
+Journal of Chemical and Pharmaceutical Sciences                                                        ISSN: 0974-2115
+CONCULSION
+        In qualitative interpretation clearly indicate the heterogenetic of the entire study area. In predominantly H type
+and H combination type curve occur in the study area except hard rock terrain. H type curve indicate the good aquifers
+in the study area. But H type curve is very less in hard rock terrain. In hard rock area, mostly A type and A
+combination type curve occur. This indicates hard rock. K type and K combination type curve indicate aquitard of the
+two aquifers. Then last one Q type and Q combination type curve indicate clay or salinity of the subsurface aquifer.
+        In quantitive interpretation most of the points have the good aquifer thickness and have good quality of bearing
+the water. Northen side of alluvium aquifer thickness maximum 85.88 m VES 90 at Purisai and minimum thickness
+41.53 m VES 83 at Govindavadiagaram. Southern side of alluvium aquifer thickness maximum 94.91 m VES 63 at
+Bossivakkam and minimum thickness 46.4 m VES 38 at Palayasevarampuram. Hard rock terrain of aquifer thickness
+maximum 75.6 m VES 59 at Puthagaram and minimum thickness 44.62 m VES 23 at Thenneri Tank. Sedimentary
+formation aquifer thickness maximum 92.7 m VES 11 at Athivakkam and minimum thickness 43.04 m VES 20 at
+Sinnivakkam.
+         The best layer which acts as the good aquifer of Walajabad block is the H type and H Combination type occur
+in the study area except hard rock terrain. H type curve indicate the good aquifer in the study area. The electrical
+resistivity data therefore gives reasonably accurate results among other methods that can be used to understand the
+subsurface layers and basement configuration in groundwater prospecting.
+ACKNOWLEDGEMENT
+       The authors wish to acknowledge the research grant provided by State Planning Commission, Government of
+Tamilnadu, India to carry out this research.
+REFERENCE
+A.A.A. Zohdy, G.P. Eaton and D.R. Mabey, Application of Surface Geophysics to Groundwater Investigations, US
+Geology Survey, 1974.
+AN Amadi, CD Nwawulu, CI Unuevhol, Evaluation of the groundwater potential in Pompo village, Gidan Kwano,
+Minna using vertical electrical resistivity sounding, Brit J Appl Sci Technol, 1, 2012, 53-66.
+J.A.Olowofela, V.O.Jolaosho and B.S.Badmus, Mmeasuring the electrical resistivity of the earth using a fabricated
+resistivity meter, Eur.J.Phys, 26, 2005, 501-515.
+G.O. Omosuyi, A. Adeyemo and A.O. Adegoke, Investigation of groundwater prospect using electromagnetic and
+geoelectric sounding at afunbiowo, near Akure, Southwestern Nigeria, Pacific J.Sci.Technol., 2007 vol.8, pp.172-182
+M.I. Ismailmohamaden, “Electric resistivity investigation at Nuweiba Harbour Gulf of Aqaba, South Sinal”,
+Egypt.J.Aquatic Res., 2005 vol. 31, pp.57-68.
+J.O.Oseji, E.A. Atakpo and E.C.Okolie, Geoelectric investigation of the aquifer characteristics and groundwater
+potential in Kwale, Elta State, Nigeria, J. Applied Sci. Environ. Mgt, 9, 2005, 157-160.
+D. Gnanasundar and L. Elango, Grondwater Quality assessment of a coastal aquifer using Geolectrical Techniques”,
+Journal of Environmental Hydrology, 7, 1999, 2
+A.I. Opera, N.N. Onu and D.U. Okera, Geophysical Sounding for the Determination of Aquifer Hydraulic
+Characteristics from Dar-Zurrock Parameters: Case Study of Ngor Okpala, Imo River Basin, Southeastern Nigeria, the
+Pacific Journal of Science and Technology, 13(1), 2012, 590-603
+M.O.K’orowe, M.O. Nyadawa, V.S. Singh and R.Rangarajan, Geo-electrical resistivity and groundwater flow models
+for characterization of a hardrock aquifer system, Global Advanced Research Journal of Physical and Applied
+Sciences, (GARJPAS), 1, 2012, 21-31
+C.N. Nwankwo and G.O.Emujakporue, Geophysical Method of Investigating Groundwater and Sub-Soil
+Contamination – A case study American Journal of Environmental Engineering, 2(3), 2012, 49-53
+M. Mathiazhagan, T.Selvakumar and Madhavi Ganesan, Geophysical Technique for Sensing of Solid Waste Dump
+Site-Induced Groundwater Contamination Leachate, Poll Res, 32(3), 2013, 509-514.
+
+
+JCHPS Special Issue 8: March 2015                 www.jchps.com                                      Page 7
+
+
+ View publication stats
+

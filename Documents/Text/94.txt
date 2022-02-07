@@ -1,0 +1,376 @@
+                          PUBLICATIONS
+Geophysical Research Letters
+RESEARCH LETTER                             Imaging the plate boundary between Greenland
+10.1002/2016GL069329
+                                            and North America within the Kane Basin
+Special Section:                            by means of geophysical data
+The Arctic: An AGU Joint
+Special Collection                          Axel Ehrhardt1, Michael Schnabel1, Volkmar Damm1, and Karsten Piepjohn1
+                                            1
+                                                Federal Institute for Geosciences and Natural Resources, Hannover, Germany
+Key Points:
+• Seismic and potential geophysical data
+  image the plate boundary between
+  Greenland and Ellesmere Island
+                                            Abstract The Nares Strait is a waterway separating NW Greenland and North America. The nature of the
+• The Kane Basin can be subdivided into     Nares Strait has been subject of discussion for decades, especially if it represents a transform fault that
+  two structural units                      compensated the opening of the Bafﬁn Bay in the Paleogene as Alfred Wegener supposed in 1912. The Kane
+• The transition between both units
+                                            Basin in the central part of Nares Strait provides an opportunity to cross the proposed fault. Geophysical data
+  is interpreted as relic of the
+  Wegener Fault                             were acquired in 2001 and 2010, including among others multichannel and wide-angle seismic data. The
+                                            eastern part of the Kane Basin is characterized by a solid platform most likely representing a continuation
+                                            of the Paleoproterozoic Ingleﬁeld-Mobile-Belt (Greenland). In the western part, a sedimentary basin with
+Correspondence to:
+                                            northwestward tilted and eroded layers of Cretaceous age can be resolved. The transition between those two
+A. Ehrhardt,                                units shows the plate boundary between Greenland and North America and can be considered as a relic of
+Axel.Ehrhardt@bgr.de                        the Wegener Fault.
+
+Citation:
+Ehrhardt, A., M. Schnabel, V. Damm, and
+                                            1. Introduction
+K. Piepjohn (2016), Imaging the plate
+                                            The nature of the Nares Strait (Figure 1), a seaway between Greenland and Ellesmere Island, is important
+boundary between Greenland and North
+America within the Kane Basin by means      to understand the plate tectonic history of the Arctic region and especially the opening of the Bafﬁn Bay.
+of geophysical data, Geophys. Res. Lett.,   It is well understood that rifting and seaﬂoor spreading took place between Greenland and Bafﬁn Island
+43, 7913–7920, doi:10.1002/
+                                            [Oakey and Chalmers, 2012; Roest and Srivastava, 1989; Suckro et al., 2012]; however, it is unclear if this
+2016GL069329.
+                                            extension caused left-lateral displacement between Greenland and Ellesmere Island and how this motion
+Received 25 APR 2016                        was compensated. Plate tectonic reconstruction models require a left-lateral transform fault along the west
+Accepted 16 JUL 2016                        Greenland margin for the compensation of at least 125 km of extension and seaﬂoor spreading in the
+Accepted article online 21 JUL 2016
+                                            Bafﬁn Bay from Late Cretaceous to Eocene times [Peirce, 1982; Srivastava, 1978; Tessensohn et al., 2008].
+Published online 4 AUG 2016
+                                            Previously, Taylor [1910] and Wegener [1912] suggested some kind of left-lateral transform fault along the
+                                            Nares Strait, nowadays proposed as the Wegener Fault [Le Pichon et al., 1977; Taylor, 1910; Wegener, 1912;
+                                            Wilson, 1963]. This fault is supported by recent studies [von Gosen et al., 2008; Greiner and Neugebauer,
+                                            2013; Saalmann et al., 2005; Tessensohn et al., 2008].
+                                            During the early Eocene simultaneous seaﬂoor spreading in the Labrador Sea and Bafﬁn Bay in the West and
+                                            North Atlantic in the east of Greenland was active as well as in the Eurasian Basin [Kristoffersen and Talwani,
+                                            1977; Piepjohn et al., 2013; Srivastava, 1978]. In this time period the tectonic regime at the NW Greenland
+                                            margin changed from transform motion to compression (Eurekean Deformation) [Piepjohn et al., 2013;
+                                            Srivastava and Tapscott, 1986]. After the late Eocene (anomaly C13) seaﬂoor spreading in the Labrador
+                                            Sea and Bafﬁn Bay ceased [Srivastava, 1978] and deformation along the west Greenland margin stopped.
+                                            As a result Greenland became attached to the North American Plate [Tessensohn et al., 2008].
+                                            However, the necessity of a transform fault compensating the relative motion between Greenland and
+                                            North America is highly disputed and in particular land geological data do not support this hypothesis
+                                            indicating that no or only minor left-lateral displacement occurred between Greenland and Ellesmere
+                                            Island [Dawes, 2009; Dawes and Kerr, 1982; Frisch and Dawes, 2014; Pulvertaft and Dawes, 2011].
+                                            The Kane Basin is one of a series of basins that are aligned along the Nares Strait, halfway between the Bafﬁn
+                                            Bay in the south and the Lincoln Sea in the north. It is the largest basin in the Nares Strait, and the under-
+                                            standing of its internal structure contributes to the understanding of the plate tectonic history of
+                                            Greenland and North America.
+
+©2016. American Geophysical Union.          This paper presents insight into the Kane Basin by means of 2D seismic, sonobuoys, gravity, and magnetic
+All Rights Reserved.                        data acquired during a survey of BGR in 2010 [Damm, 2010]. To the western boundary of the Kane Basin
+
+
+EHRHARDT ET AL.                                               IMAGING THE PLATE BOUNDARY IN KANE BASIN                                               7913
+                  Geophysical Research Letters                                                                 10.1002/2016GL069329
+
+
+
+
+                      Figure 1. Map of the northern Bafﬁn Bay and Nares Strait. The Nares Strait separates Greenland from Ellesmere Island.
+                      The solid dark line shows the plate boundary between Greenland and North America after Harrison [2006]. The dashed
+                      dark line shows the proposed seaﬂoor spreading axes between Greenland and Bafﬁn Island after Harrison [2006]. The red
+                      box marks the limits of the inset map with a superimposed geologic map [after Dawes et al., 2000; Jackson et al., 2006].
+                      The colors are bright for onshore geology and shaded for offshore geology. The MCS lines are marked by the purple lines.
+                      Red triangles mark the deployment positions of sonobuoys. The yellow triangles mark the sonobuoys shown in Figure 2.
+                      Location of the Judge Daly Fault after Mayr and de Vries [1982] and Saalmann et al. [2005]—KB: Kane Basin; SS: Smith Sound;
+                      NWB: North Water Basin; KC: Kennedy Channel; CL: Cape Lawrence; DB: Dobbin Bay; and JDF: Judge Daly Promontory Fault.
+                      Bathymetry data from the IBCAO data set [Jakobsson et al., 2012].
+
+
+
+
+                      the data are augmented by older unpublished data from 2001 [Jackson et al., 2001] and published data
+                      [Jackson et al., 2006].
+
+
+                      2. Methods
+                      A ﬁrst data set was acquired in 2001 on the western side of the Kane Basin (PASSAGE project [Jackson et al.,
+                      2001]). This data set was recorded with six channels only (150 m cable length) and three GI-Guns with 615 in3
+                      (10 L) in total [Jackson et al., 2001]. The limited cable length did not allow a reasonable multiple attenuation.
+                      The 2010 geophysical data were acquired during the ARK-XXV/3 Polarstern expedition. Because of the prevail-
+                      ing sea ice coverage of up to 6/10, only a short 750 m streamer with 60 channels without lead-in cable and
+                      stretch section and without depth control was deployed in order to acquire two multichannel seismic
+                      (MCS) lines (Figure 1). As signal source we used 4 G-Guns with 520 in3 (8.5 L) each. Accompanying, we
+                      deployed nine sonobuoys of which eight worked ﬁne and broadcasted data. In addition, we recorded
+                      multibeam and sediment echosounder data, gravity, and airborne magnetic data.
+                      The quality of the MCS data was limited because of the above mentioned limitations. Especially, seaﬂoor
+                      multiples and bubble signals from the source could not be removed completely and caused low-frequency
+                      horizontal events superimposed on the primary reﬂections. The processing sequence included designature,
+                      band-pass ﬁlter, surface related multiple elemination (SRME), ﬁlter, predictive deconvolution, velocity analy-
+                      sis, true amplitude recovery, normal moveout correction, stacking, and migration. Because of the limited
+                      streamer length, the velocity control was locally conﬁrmed by sonobuoy measurements and by the analysis
+                      of the refractions that were recorded with the streamer cable (Figure 2).
+                      For the analysis of the refractions in the streamer cable, the corresponding arrival times were picked on
+                      every ﬁfth shot gather and used to calculate the linear regression. All resulting velocities are imaged in
+
+
+EHRHARDT ET AL.                       IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                             7914
+                               Geophysical Research Letters                                                                    10.1002/2016GL069329
+
+
+
+
+Figure 2. Velocity (vp) information determined by ray tracing (sonobuoys) and linear regression (MCS shot gathers). (a, b) Selected shot gather with highlighted
+                             1                      1                                                                      1                                 1
+refractions (red ≈ 2500 ms and green ≈ 6000 ms ). (c) Selected sonobuoy highlighted refraction (green ≈ 6000 ms ) applied reduction velocity 6000 ms .
+(d, e) Accumulated refraction velocity information along the MCS lines. The black dots show the picked seaﬂoor TWT at each shot. The colored dots show the
+apparent refraction velocity and intercept time calculated by linear regression of the picked ﬁrst arrivals of the refracted wave. (f, g) Selected sonobuoys
+                                             1                              1                                         1
+with highlighted refractions (red ≈ 2500 ms and green ≈ 6000–7000 ms ) applied reduction velocity 6000 ms . (h) Shot record with highlighted refractions.
+
+
+                                        Figures 2d and 2e in order to give an overview; however, they are not corrected for the dip of the refractor.
+                                        Ray tracing was performed for line BGR10-217 on selected shot gathers (mean distance 1 km) to obtain
+                                        reliable velocity information. The ﬁrst arrivals of three sonobuoys were also part of the ray tracing. The result-
+                                        ing seismic images are shown in Figures 3 and 4 together with the results of the ray tracing. Gravity and
+                                        magnetic data were processed and plotted on top of the seismic data (Figures 3 and 4). Seismic data of the
+                                        PASSAGE2001 expedition (Nares01-21 and Nares01-21A) were reprocessed and plotted in Figure 3.
+
+
+                                        3. Results
+                                        3.1. Seismic Data
+                                        3.1.1. Lines Nares01-21, Nares01-21A, and BGR10-316
+                                        The combined seismic lines Nares01-21, Nares01-21A, and BGR10-316 represent a NW-SE cross section through
+                                        the Kane Basin from Cape Lawrence (Ellesmere Island) to Ingleﬁeld Land (Greenland) (Figures 1 and 3).
+                                        Starting in the NW, the lines Nares01-21 and Nares01-21A show a series of westward tilted horizons that
+                                        toplap at the seaﬂoor representing eroded sedimentary strata. The seaﬂoor displays three terrace-like levels
+                                        (Figure 3). Some isolated anticlinal structures at the seaﬂoor correlate with the area of erosional truncation at
+                                        the seaﬂoor. Farther to the SE line BGR10-316 starts with a seaﬂoor level of approximately 150 m shallower
+                                        and a second series of NW tilted sedimentary reﬂections, again, eroded at the seaﬂoor. A prominent anticline
+
+
+EHRHARDT ET AL.                                         IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                          7915
+                                 Geophysical Research Letters                                                                           10.1002/2016GL069329
+
+
+
+
+Figure 3. MCS lines BGR10-316, Nares01-21A, and Nares01-21. For the locations of the lines, please refer to Figure 1. (top) The free-air gravity and magnetic data
+acquired along the MCS line (solid line: free-air gravity, dashed line: magnetics). The vertical dotted line marks the tie point to line BGR10-317 (Figure 4). (bottom)
+A line drawing of the interpreted horizons and faults. The small inset ﬁgure shows the sediment echosounder data from a prominent extension structure.
+
+
+
+
+Figure 4. MCS line BGR10-317. For the location of the line, please refer to Figure 1. (top) The free-air gravity and magnetic data acquired along the MCS line (solid line:
+free-air gravity, dashed line: magnetics). The vertical dotted line marks the tie point to line BGR10-316 (Figure 3). (middle) A line drawing of the interpreted horizons
+and faults. Note the change of the seaﬂoor topography from the northern part of the line to the southern part. (bottom) The results of the ray tracing of sonobuoys
+data and selected shot gathers. Areas with low ray coverage are shaded.
+
+
+EHRHARDT ET AL.                                             IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                                 7916
+                  Geophysical Research Letters                                                           10.1002/2016GL069329
+
+
+
+                      structure at the seaﬂoor marks the transition to an area with almost no penetration of the seismic signal. In
+                      addition, the analysis of the seismic velocities shows a transition of the p wave velocity (vp) of approximately
+                      2500 ms 1 to very high 4800–6000 ms 1 at this point (shot point (SP) 1900, line BGR10-316) (Figure 2d).
+                      A small patch of slower velocities between SP200 and SP400 is related to slower apparent velocity due
+                      to a slope angle of 2°. These velocities and the depth of the refractor are conﬁrmed by ray tracing of the sono-
+                      buoy data (Figure 2c). The area of high velocities extends to the end of the line close to the Greenland
+                      coast (Figure 2). The seaﬂoor is intersected by some normal faults. At the SE end of the line, the seaﬂoor drops
+                      to approximately 500 m depth in good agreement with the trough that can be observed in the bathymetric
+                      map (Figure 1).
+                      3.1.2. Line BGR10-317
+                      Line BGR10-317 is a NNE-SSW line in the central Kane Basin extending from the entrance of the Kennedy
+                      Channel in the NNE to the coast of Ingleﬁeld Land in the SSE (Figures 1 and 4). Similar to the combined
+                      NW-SE line (Figure 3), we can observe a seaﬂoor with three terrace-like levels in the NNE (Figure 4). The area
+                      where sediment horizons can be observed correlates with the area where seismic velocities are in the range
+                      of 2400–2900 ms 1. SSW of SP2000 vp increase to 4800 ms 1 and SSW of SP2850 further to 5500 ms 1 similar
+                      as already observed in the eastern part of the line BGR10-316 (Figure 2d).
+                      The low-velocity seismic unit overlays to some extent the high-velocity seismic unit (Figure 4). The MCS data
+                      image the interface between both units only sporadically, but it is well imaged in the sonobuoys data and
+                      shot gather refractions between SP250 and 2000 (Figures 2e–2g). The ray tracing showed that this boundary
+                      is at depth of approximately 600 m near SP1000, while 20 km to the south (SP1800) it is as shallow as 400 m
+                      (Figure 4). In the southern part of the line it crops out at the seaﬂoor. The sediment echosounder data
+                      (dominant frequency 4 kHz) reveal another conspicuous difference between the eastern and western parts
+                      of the Kane Basin (see insets in Figures 3 and 4). The seaﬂoor topography is very rough on the western side,
+                      built by randomly distributed blocks or deep iceberg scours in the range of ±5 m. Farther to the east the
+                      seaﬂoor is smoother with some smaller boulders or scours.
+                      3.2. Magnetics and Gravimetry
+                      The airborne magnetic and shipborne gravity data are shown as composite plots on top of the MCS data
+                      (Figures 3 and 4). The magnetic data set shows, in general, higher-amplitude variations in the southeastern
+                      side of the Kane Basin. Toward the tilted sedimentary basin in the northwest, the amplitude variations decline
+                      continuously (Figure 3). Along the NNE-SSW line (BGR10-317, Figure 4), the magnetic amplitude variations are
+                      slightly increasing on a low level in SSW direction.
+                      The free-air gravity is negative all over the Kane Basin area. The maximum values of 75 mGal occur on the
+                      eastern slope of the bathymetric depression (SP1-200, line BGR10-316) near Ingleﬁeld Land (Figure 3). Toward
+                      the tilted sedimentary basin, the free-air gravity declines further to a level of 140 mGal. On line BGR10-317
+                      (Figure 4) the free-air gravity also decreases considerably to the northwest, similar to line BGR10-316 (Figure 3).
+
+                      4. Interpretation and Discussion
+                      Because of the unpredictable sea ice situation in the Kane Basin, only few MCS seismic data were published,
+                      mainly located at the coast of Ellesmere Island [Jackson et al., 2006, 2001]. The IBCAO bathymetric map
+                      [Jakobsson et al., 2012] shows a bathymetric depression at the coastline to Ingleﬁeld Land with water depths
+                      of approximately 500 m (Figure 1). Toward the central part of the Kane Basin the seaﬂoor rises to a plateau
+                      with an average water depth of approximately 200 m. Line BGR10-316 (Figure 3) crosses the Kane Basin from
+                      SE to NW. From SP1 to SP1700 no internal layers can be resolved, neither by MCS nor by sonobuoy data. Ray
+                      tracing shows a unit with very high vp of approximately 4800 to 6000 m s 1 directly below the seaﬂoor. High-
+                      resolution sediment echosounder data suggest that small kinks observed in the MCS data are caused by
+                      extensional normal faulting of the high-velocity unit (see inset in Figure 3), possibly a result of postglacial
+                      rebound. The transparent seismic appearance and vp between 4800 and 6000 m s 1 allow an interpretation
+                      as gneissic, marble, or granitic material that occurs in the Ingleﬁeld marble belt in the southern prolongation
+                      of the Kane Basin (Figure 1) [Dawes et al., 2000; Harrison et al., 2011]. vp of gneiss, granite, and marble start
+                      with 4500 to 5100 ms 1, ~5700 ms 1, and ~5100 ms 1, respectively, at 10 bars. At 1 kbar vp is as high as
+                      5900 to 6100 ms 1, ~6.210 ms 1, and 6600 ms 1 for gneiss, granite, and marble, respectively [Birch, 1960;
+                      Kearey et al., 2002]. As the material is exposed at the seaﬂoor, the vp is probably slightly lower because of
+
+
+EHRHARDT ET AL.                      IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                      7917
+                                Geophysical Research Letters                                                                        10.1002/2016GL069329
+
+
+
+
+Figure 5. W-E cross section of the Kane Basin from A′ (Judge Daly Promontory) to A (Ingleﬁeld Land; please note the central map for the location of the cross section).
+The westernmost part is deduced from seismic data from the Dobbin Bay [Jackson et al., 2006]. The easternmost part is derived from the Ingleﬁeld Land stratigraphy
+from Dawes et al. [2000]. The yellow colored part of the central map shows the extent of the Cretaceous-Cenozoic Franklin Pierce Basin (FPB) after Harrison et al.
+[2011]. The solid red line shows the proposed plate boundary between Greenland and North America within the Kane Basin. The dashed red lines show a potential
+continuation of the plate boundary. The purple ovals mark the positions imaged by the photographs. Ellesmere Island view to the north, Washington Land view to
+the east (photographs from Reid et al. [2006] (Greenland)), and courtesy of Karsten Piepjohn (Ellesmere Island).
+
+
+                                          weathering. Thus, the high-velocity unit could represent the offshore prolongation of the Paleoproterozoic
+                                          crust of the Greenland Ingleﬁeld Mobile Belt [Dawes et al., 2000; Harrison et al., 2011]. Toward the northwes-
+                                          tern part of Line BGR10-316 a sedimentary basin with NW tilted and eroded sedimentary strata is imaged.
+                                          This sedimentary basin is characterized by much lower vp of 2500 ms 1 to 3000 ms 1 a free-air gravity mini-
+                                          mum and very weak magnetic anomalies. At the transition between the sedimentary basin with low vp in the
+                                          west and the high-velocity unit in the east an anticlinal structure is imaged. The extent of the sedimentary
+                                          basin is in good agreement with the Cretaceous-Cenozoic Franklin Pierce Basin mapped by Harrison [2006]
+                                          and Harrison et al. [2011]. However, our data do not resolve a Mesoproterozoic to Jurassic unit within the
+                                          Kane Basin as suggested by Harrison et al. [2011]. The anticlinal structure that correlates with the termination
+                                          of the tilted sedimentary strata could be an expression of strike-slip faulting that is observed at the Judge
+                                          Daly Promontory left-lateral strike-slip fault system (Figures 1 and 5) [Saalmann et al., 2005]. Toward the
+                                          SSW of line BGR10-317 (Figure 4) we observe sedimentary strata with lower vp on top of the high-velocity unit
+                                          from SP1 to SP2150. The ray tracing of sonobuoy data images this high-velocity unit at depth between 400
+                                          and 600 m (Figure 4). The transition from the Cretaceous-Cenozoic unit to the Paleoproterozoic unit spreads
+                                          over a long distance because we cross the boundary obliquely. Line BGR10-317 is subparallel to the eastern
+                                          limit of the Franklin Pierce Basin (Figure 5). From SP2150 to the SSW end of line BGR10-317 only the
+                                          Paleoproterozoic high-velocity unit can be observed. On the northern extent of line BGR10-317 (north of
+                                          SP1200) the free-air gravity decreases similar to line BGR10-316, pointing to the presence of a deeper
+                                          Cretaceous to Cenozoic basin (please compare top frames of Figures 3 and 4). The combined interpretation
+                                          of lines BGR10-316 and Nares01-21 and Nares01-21A enables us to derive a model of a NW-SE cross section of
+                                          the Kane Basin, Nares Strait (Figure 5). Starting in the southeast we observe the Paleoproterozoic unit without
+                                          major internal structure but affected by extension. Whether or not the 350 m to 450 m deep bathymetric
+                                          depression is a result of extension or probably glacial erosion is not evident from our data. Toward the coast
+                                          of Ellesmere Island we ﬁnd a series of tilted reﬂections probably caused by the eroded Cretaceous to
+                                          Cenozoic sedimentary strata of the Franklin Pierce Basin [Harrison et al., 2011].
+
+
+EHRHARDT ET AL.                                           IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                               7918
+                                    Geophysical Research Letters                                                                                     10.1002/2016GL069329
+
+
+
+                                           At the transition to the Franklin Pierce Basin, anticlinal structures (SP400, 580 line Nares01-21A, and SP1900
+                                           line BGR10-316) point to transpression-like deformation between the almost undisturbed Paleoproterozoic
+                                           crust and the highly deformed Ellesmere Island crust which are probably the prolongation of the left-lateral
+                                           strike-slip faulting known from the nearby Judge Daly Promontory [Saalmann et al., 2005; Tessensohn et al.,
+                                           2008]. Although there are indications for strike-slip faulting, the positions of the faults do not support a
+                                           pull-apart development of the Kane Basin. However, we observe the contact between the tilted and
+                                           deformed sedimentary strata of the Eurekan fold belt with the regular and undeformed Paleoproterozoic unit
+                                           of Greenland within the Kane Basin. Thus, we can infer that this contact between the deformed (green colors
+                                           in Figure 5) and undeformed sedimentary strata (red colors in Figure 5) represents the Greenland-North
+                                           America plate boundary which was previously mapped at the western edge of the Franklin Pierce Basin
+                                           [Harrison, 2006].
+
+                                           The sharp transition of the deformed Cretaceous-Cenozoic sedimentary strata to undeformed Paleoproterozoic
+                                           crust along the plate boundary of Greenland and North America can be explained by a transform fault.
+                                           Following this approach, this fault and plate boundary can be considered as a relic of the Wegener Fault.
+                                           However, because of the Eurekan orogeny, this ancient strike-slip fault was overprinted by compression
+                                           and thrusting.
+
+
+                                           5. Conclusions
+                                           The geophysical data of the ARK-XXV/3 and the Nares01 expeditions give evidence that the Kane Basin did
+                                           not develop as a pull-apart basin. Moreover, the data show that the Kane Basin can be divided into two struc-
+                                           tural units. The eastern part is characterized by a single, mostly undeformed unit likely of Paleoproterozoic
+                                           age that is interpreted as the subsea prolongation of the Ingleﬁeld Mobile Belt. The western part of the
+                                           Kane Basin is dominated by westward tilted sedimentary strata of the Franklin Pierce Basin. Our data indicate
+                                           an abrupt transition between the Paleoproterozoic platform and the tilted sedimentary strata consistent with
+                                           the plate boundary between Greenland and North America. It can be interpreted as an ancient transpression
+                                           fault. The plate boundary between Greenland and North America can be considered as a relic of the Wegener
+                                           Fault, later overprinted by the Eurekan orogeny.
+
+Acknowledgments                            References
+The cruise BGR2010 was carried out in
+August to October 2010 with the            Birch, F. (1960), The velocity of compressional waves in rocks to 10 kilobars: Part I, J. Geophys. Res., 65(4), 1083–1102, doi:10.1029/
+German research vessel Polarstern. The        JZ065i004p01083.
+cruise PASSAGE2001 was carried out         Damm, V. (2010), The Expedition of the Research Vessel “Polarstern” to the Arctic in 2010 (ARK-XXV/3)Rep., 225 pp., AWI, Bremerhaven.
+with the Canadian Ice Breaker “CCGS        Dawes, P. R. (2009), Precambrian–Palaeozoic geology of Smith Sound, Canada and Greenland: Key constraint to palaeogeographic
+Louis S. St-Laurent” in 2001. We are          reconstructions of northern Laurentia and the North Atlantic region, Terra Nova, 21, 1–13.
+grateful to masters and crews of R/V       Dawes, P. R., and J. W. Kerr (1982), The case against major displacement along Nares Strait, Medd. Gronl. Geosci., 8, 18.
+Polarstern and CCGS Louis S. St-Laurent    Dawes, P. R., et al. (2000), Kane Basin 1999: Mapping, stratigraphic studies and economic assessment of Precambrian and lower Palaeozoic
+for their support. Geophysical data           provinces in north-western Greenland, Geol. Greenl. Surv. Bull., 186, 11–28.
+will be made available by the author       Frisch, T., and G. Dawes (2014), The rotations opening the Central and Northern Atlantic Ocean: Compilation, drift lines, and ﬂow lines, Int. J.
+upon request. Many thanks to Bernd            Earth Sci., 102, 20.
+Schreckenberger and Ingo Heyde for         Greiner, B., and J. Neugebauer (2013), The rotations opening the Central and Northern Atlantic Ocean: Compilation, drift lines, and ﬂow lines,
+their help and discussions. We are very       Int. J. Earth Sci., 102(5), 1357–1376, doi:10.1007/s00531-012-0860-6.
+grateful to Wolfram Geissler and two       Harrison, J. C. (2006), In search of the Wegener Fault: Re-evaluation of strike-slip displacements along and bordering Nares Strait,
+unknown reviewers who helped us with          Polarforschung, 74(1–3), 129–160.
+their comments to improve the manu-        Harrison, J. C., T. A. Brent, and G. N. Oakey (2011), Bafﬁn Fan and its inverted rift systems of Arctic eastern Canada: Stratigraphy, tectonics and
+script. All maps were prepared with GMT.      petroleum resource potential, Geol. Soc. London, 35, 595–626, doi:10.1144/M35,40.
+                                           Jackson, H. R., T. Hannon, S. Neben, K. Piepjohn, and T. Brent (2006), Seismic reﬂection proﬁles from Kane to Hall Basin, Nares Strait: Evidence
+                                              for faulting, Polarforschung, 74(1–3), 21–39.
+                                           Jackson, R., et al. (2001), Cruise Report PASSAGE 2001 Pathway to the Arctic, Geological Survey of Canada.
+                                           Jakobsson, M., et al. (2012), The International Bathymetric Chart of the Arctic Ocean (IBCAO) Version 3.0, Geophys. Res. Lett., 39, L12609,
+                                              doi:10.1029/2012GL052219.
+                                           Kearey, P., M. Brooks, and I. Hill (2002), An Introduction to Geophysical Exploration, vol. 3, Blackwell, Oxford.
+                                           Kristoffersen, Y., and M. Talwani (1977), Extinct triple junction south of Greenland and the Tertiary motion of Greenland relative to North
+                                              America, Geol. Soc. Am. Bull., 88, 13.
+                                           Le Pichon, X., J.-C. Sibuet, and J. Francheteau (1977), The ﬁt of the continents around the North Atlantic Ocean*, Tectonophysics, 38(3–4),
+                                              169–209, doi:10.1016/0040-1951(77)90210-4.
+                                           Mayr, U., and C. D. S. de Vries (1982), Reconnaissance of tertiary structures along Nares Strait, Ellesmere Island, Canadian Arctic Archipelago,
+                                              in Nares Strait and the Drift of Greenland: A Conﬂict in Plate Tectonics, Meddelelser Grønland, Geoscience, vol. 8, edited by P. R. Dawes and
+                                              J. W. Kerr, pp. 81–89, Nyt nordisk forlag-Arnold Busck, Copenhagen.
+                                           Oakey, G. N., and J. A. Chalmers (2012), A new model for the Paleogene motion of Greenland relative to North America: Plate reconstructions
+                                              of the Davis Strait and Nares Strait regions between Canada and Greenland, J. Geophys. Res., 117, B10401, doi:10.1029/2011JB008942.
+
+
+
+EHRHARDT ET AL.                                               IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                                                 7919
+                  Geophysical Research Letters                                                                                  10.1002/2016GL069329
+
+
+
+                      Peirce, J. W. (1982), The evolution of the Nares Strait lineament and its relation to the Eurekan orogeny, in Nares Strait and the Drift of
+                         Greenland: A Conﬂict in Plate Tectonics, Meddelelser om Grønland, Geoscience, vol. 8, edited by P. R. Dawes and J. W. Kerr, 16 pp., Nyt nordisk
+                         forlag-Arnold Busck, Copenhagen.
+                      Piepjohn, K., W. von Gosen, A. Läufer, W. C. McClelland, and S. Estrada (2013), Ellesmerian and Eurekan fault tectonis at the northern margin
+                         of Ellesmere Island (Canadian High Arctic), German J. Geosci., 164(25), 81–105.
+                      Pulvertaft, T. C. R., and P. R. Dawes (2011), North Atlantic spreading axes terminate in the continental cul-de-sacs of Bafﬁn Bay and the Laptev
+                         Sea, Can. J. Earth Sci., 48(3), 593–601, doi:10.1139/e11-004.
+                      Reid, I. D., R. H. Jackson, and F. Tessensohn (2006), The Nares 2001 geoscience project: An introduction, Polarforschung, 74(1–3), 1–7.
+                      Roest, W. R., and S. P. Srivastava (1989), Sea-ﬂoor spreading in the Labrador Sea: A new reconstruction, Geology, 17, 1000–1003.
+                      Saalmann, K., F. Tessensohn, K. Piepjohn, W. von Gosen, and U. Mayr (2005), Structure of Palaeogene sediments in east Ellesmere Island:
+                         Constraints on Eurekan tectonic evolution and implications for the Nares Strait problem, Tectonophysics, 406(1–2), 81–113, doi:10.1016/
+                         j.tecto.2005.06.005.
+                      Srivastava, S. P. (1978), Evolution of the Labrador Sea and its bearing on the early evolution of the North Atlantic, Geophys. J. R. Astron. Soc.,
+                         52(2), 313–357.
+                      Srivastava, S. P., and C. Tapscott (1986), Plate kinematics of the North Atlantic, in The Geology of North America, Vol. M: The Western Atlantic
+                         Region. (A Decade of North American Geology), edited by B. E. Tucholke and P. R. Vogt, pp. 379–404, Geol. Soc. of Am., Boulder, Colo.
+                      Suckro, S. K., K. Gohl, T. Funck, I. Heyde, A. Ehrhardt, B. Schreckenberger, J. Gerlings, V. Damm, and W. Jokat (2012), The crustal structure of
+                         southern Bafﬁn Bay: Implications from a seismic refraction experiment, Geophys. J. Int., 190(1), 37–58, doi:10.1111/j.1365-246X.2012.05477.x.
+                      Taylor, F. B. (1910), Bearing of the Tertiary mountain belt on the origin of the Earths plan, Geol. Soc. Am. Bull., 21, 48.
+                      Tessensohn, F., W. von Gosen, K. Piepjohn, K. Saalmann, and U. Mayr (2008), Narers transform motion and Eurekan compression along
+                         the northeast coast of Ellesmere Island, in Geology of Northeast Ellesmere Island Adjacent to Kane Basin and Kennedy Channel, vol. 592,
+                         pp. 227–243, Geol. Surv. of Can. Bull., Nunavut.
+                      von Gosen, W., K. Piepjohn, F. Tessensohn, and K. Saalmann (2008), Eurekan fault tectonics on Judge Daly Promontory and their implications
+                         for displacements along Nares Strait, in Geology of Northeast Ellesmere Island Adjacent to Kane Basin and Nares Strait, vol. 592, edited by
+                         U. Mayr, 22 pp., Geol. Surv. of Can. Bull., Nunavut.
+                      Wegener, A. (1912), Die Entstehung der Kontinente und Ozeane, Int. J. Earth Sci., 3, 17.
+                      Wilson, J. T. (1963), Hypothesis on the Earth’s behaviour, Nature, 198, 925–929.
+
+
+
+
+EHRHARDT ET AL.                          IMAGING THE PLATE BOUNDARY IN KANE BASIN                                                                                7920
+

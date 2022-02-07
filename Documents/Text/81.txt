@@ -1,0 +1,751 @@
+Facies control on seismites in an alluvial–aeolian system: The Pliocene
+duneﬁeld of the Teruel half-graben basin (eastern Spain)
+Carlos L. Liesa a, Juan Pedro Rodríguez-López b, Lope Ezquerro a, Pedro Alfaro c,
+Miguel Ángel Rodríguez-Pascua d, Paloma Lafuente a, Luis Arlegui a, José L. Simón a
+a
+  Grupo GEOTRANSFER, Área de Geodinámica Interna, Departamento de Ciencias de la Tierra, Facultad de Ciencias, Universidad de Zaragoza, C/ Pablo Cerbuna 12, 50009 Zaragoza, Spain
+b
+  School of Applied Sciences, Faculty of Computing, Engineering and Science, University of South Wales, CF37 1DL, Pontypridd, Wales, UK
+c
+  Departamento de Ciencias de la Tierra y del Medio Ambiente, Facultad de Ciencias, Universidad de Alicante, 03080 Alicante, Spain
+d
+  Instituto Geológico y Minero de España, C/ Ríos Rosas 23, 28003 Madrid, Spain
+
+
+
+
+a b s t r a c t
+
+
+
+The recognition of seismically induced soft-sediment deformation structures (SSDS) in sedimentary successions
+characterized by different facies, and hence by different rheology, is challenging. This is the case for high porosity
+and high permeability aeolian facies interbedded with muddy wet interdune deposits and alluvial conglomerates
+and sandstones. Several types of SSDS have been studied in two exposures of the Upper Pliocene (2.9–2.6 Ma)
+sediments of a fault-bounded intracontinental aeolian dune ﬁeld in the Teruel Basin (Iberian Chain, eastern
+Spain). Among SSDS, load and ﬂuid-escape structures, apart from several animal tracks, have been recognized.
+Those structures show an irregular distribution through the studied stratigraphic sections, being scarce in ho-
+mogenous aeolian sands and frequent in water-related facies. A detailed study of the distribution and geometry
+of SSDS and their relationships with respect to the stratigraphic architecture and facies has allowed a critical dis-
+crimination of trigger mechanisms, i.e. biological or physical overloading vs. earthquakes. The seismically in-
+duced structures are concentrated into seven deformed beds, showing an uneven lateral distribution and
+geometry closely controlled by the hosting sedimentary facies and their rheology. These seismites resulted
+from liquefaction during moderate earthquakes (estimated magnitude from 5.0 to 6.8). The most probable
+seismogenic source was the Sierra del Pobo normal fault zone, located 2 km to the East. Results show how an ap-
+propriate recognition of sedimentary facies is crucial to understand the lateral variability of seismites in sedimen-
+tary environments characterized by sharp facies changes.
+
+
+
+
+1. Introduction
+
+                                                                                                  The identiﬁcation of seismites (sensu Seilacher, 1969) is important
+                                                                                               because they have signiﬁcant implications for syntectonic sedimentary
+                                                                                               basins, especially in an area of moderate seismic activity such as the
+    The Teruel Basin is one of the main extensional features of the                            Teruel Basin. Although signiﬁcant progress has been made to under-
+Iberian Chain developed during the Neogene and the Quaternary. Its                             stand the processes that trigger soft-sediment deformation, the inter-
+tectonic activity is continuous at present, in a radial extensional stress                     pretation is not an easy task (see discussion in Owen et al., 2011) and
+ﬁeld (Simón, 1989; Liesa, 2000, 2011; Arlegui et al., 2005, 2006). Several                     their recognition and interpretation can be challenging due to quick lat-
+normal faults or fault zones accommodate this extension: Sierra del                            eral variability of sedimentary facies associated with a particular defor-
+Pobo, Concud or Sierra de Palomera faults, among others (Gutiérrez                             mation level (e.g. Rodríguez-López et al., 2007).
+et al., 2012; Simón et al., 2012).                                                                Two short stratigraphic sections of an Upper Pliocene dune ﬁeld
+    This tectonic activity results in a moderate seismicity (Lafuente et al.,                  (Escorihuela Formation) in the Teruel Basin (Iberian Chain, eastern
+2011, 2014). Evidences of signiﬁcant paleoearthquakes have been de-                            Spain) have been studied in detail. This succession is prolix in soft-
+scribed in detail in the Concud Fault (Gutiérrez et al., 2008; Lafuente                        sediment deformation structures (SSDS), and different triggers have
+et al., 2011, 2014). In addition, seismites in Pliocene and Pleistocene                        been proposed for them. Lafuente et al. (2008) only focused on seis-
+sediments of the Teruel Basin were analyzed by Lafuente et al. (2008).                         mically induced SSDS, while Rodríguez-López et al. (2012a) also
+                                                                                               recognized the occurrence of mammal footprints. This paper deals
+                                                                                               with a detailed description and analysis of SSDS, trying to identify
+
+E-mail address: carluis@unizar.es (C.L. Liesa).
+seismites and understand the relationship of SSDS geometry and                                   distribution of deformation structures and their morphological fea-
+distribution with the involved sedimentary facies. In order to                                   tures is also discussed.
+identify trigger mechanisms, we apply the three-stage approach
+proposed by Owen et al. (2011). As the understanding of the depo-                                2. Geological setting
+sitional palaeoenvironment is essential for trigger interpretation,
+this study also includes an exhaustive evaluation and analysis of                                   The Teruel Basin is located in the northeastern part of the Iberian
+the sedimentary facies involved during deformation. The control                                  Peninsula, in the central-eastern Iberian Chain (Fig. 1A and B). This
+of the sedimentary facies and palaeoenvironments on the lateral                                  NNE-SSW trending basin is transverse to the NW-SE structural trend
+
+
+
+
+Fig. 1. Geological location of the study area. (A) Location of the NNE-SSW Teruel Basin in central-eastern Iberian Chain (NE Spain). Note its transverse trend with respect to the main NW-SE
+structural trend of the Iberian Chain. Inset shows its location within Iberia. (B) Geological map of the northern part of the Teruel Basin with the location of the study area (modiﬁed from
+Rubio and Simón, 2007): 1—El Pobo Fault System, 2—Concud Fault, 3—Sierra de Palomera Fault, and 4—Teruel Fault. (C) Geological map of the studied area showing the location of studied
+sections near Escorihuela (NQ—North Quarry, SQ—South Quarry) and the Sierra del Pobo fault zone. (D) Simpliﬁed geological cross-section (see B for location) showing the half-graben
+structure of the Teruel Basin in the Escorihuela sector. (E) Scheme (without scale) with the Neogene–Quaternary lithological units cropping out at the Escorihuela sector (see location in
+B–C): Peral Formation (Vallesian, Late Miocene), Alfambra Fm. (Late Miocene–Early Pliocene), Escorihuela Fm (Middle–Late Pliocene), in which the aeolian-ﬂuvial deposits (E), and Late
+Pliocene–Quaternary (Pleistocene, Villafranchian) pediment (glacis) deposits (G) are indicated. (D) and (E) modiﬁed from Lafuente et al. (2008).
+of the mainly Palaeogene Iberian Chain (Capote et al., 2002; Liesa and       3. The Pliocene continental depositional system of the Teruel Basin
+Simón, 2009) (Fig. 1A and B). It developed during the Miocene–Pliocene
+rifting stage that affected the eastern margin of Iberia and formed the          Aeolian duneﬁelds constitute sensitive depositional systems in
+Valencia through (e.g., Álvaro et al., 1979; Vegas et al., 1979; Simón,      which allocyclic controls are normally well recorded if an effective pres-
+1982; Roca and Guimerà, 1992).                                               ervation of accumulated aeolian climbing system occurs (Rodríguez-
+    The Teruel Basin was ﬁlled by a rather complete Neogene succession       López et al., 2014). The Pliocene aeolian duneﬁeld of the Teruel Basin
+up to 500 m thick (Moissenet, 1983, 1989). At the northern sector,           constitutes an excellent example of a synrift aeolian system associated
+where the studied area is located (Fig. 1B), the inﬁll ranges from the       with a variable phreatic level and intermittently affected by ﬂoods.
+Late Miocene (Vallesian) to the Late Pliocene (Villafranchian) in age        The aeolian system recorded in the Escorihuela Formation is similar to
+(Alcalá et al., 2000; Alonso-Zarza and Calvo, 2000), and comprises four      other arid to semi-arid duneﬁelds developed in half-graben basins
+stratigraphic units (van de Weerd, 1976): the Peral, Alfambra, Tortajada,    where aeolian and water-laid sediments accumulate in association
+and Escorihuela Formations (Fig. 1E). They were covered by Pleistocene       with the activity of extensional border faults (Rodríguez-López et al.,
+(pediment) gravel deposits (Fig. 1E) sourced at the Sierra del Pobo high-    2012a and references therein).
+land. Then, three levels of stepped glacis-terrace systems developed             Pliocene palaeowinds blew from the west moving the dune ﬁeld
+during the Quaternary (Gutiérrez and Peña, 1976).                            perpendicular to the N-S trending border-fault, thus encroaching upon
+    The Escorihuela Formation (van de Weerd, 1976) is a 30- to 35-m-         the associated alluvial fan relief to the east. Flooding waters coming
+thick succession mainly formed by brown sands, grey clays, and white         from the alluvial fans met the encroaching aeolian duneﬁelds leading
+limestone beds. This unit correlates laterally with the unit ‘Rojo 3’ by     to the intense reworking of aeolian sands and generating an overall stra-
+Godoy et al. (1983), the unit V by Alcalá et al. (2000) and Alonso-Zarza     tigraphy characterized by interbedded alluvial and aeolian facies
+and Calvo (2000), and the megasequence 5 by Ezquerro et al. (2014). It       (Rodríguez-López et al., 2012a). The development and accumulation
+is Middle–Late Pliocene to Early Pleistocene in age, based on mammal         of the Escorihuela dune ﬁeld (2.9–2.6 Ma) correlates with the expansion
+faunas (van de Weerd, 1976; van Dam, 1997; Alcalá et al., 2000; van          of other aeolian dune ﬁelds worldwide (e.g., Atacama, Namib, and
+Dam et al., 2006) and magnetostratigraphy (Opdyke et al., 1997; Alcalá       Sahara deserts) during a strong and presumably regionally dry 400-
+et al., 2000; Garcés et al., 1999; van Dam et al., 2001; Ezquerro et al.,    kyr eccentricity minimum (2.8–2.7 Ma), and with the onset of the
+2012).                                                                       Northern-Hemisphere glaciation leading to stronger westerlies
+    This manuscript focuses on the soft-sediment deformation struc-          (Rodríguez-López et al., 2012a).
+tures recognized at the upper part of the Escorihuela Formation, which           The facies, facies associations, as well as the stratigraphic architec-
+is characterized by ﬁne-grained to coarse-grained and well-sorted sand-      ture of the Pliocene deposits, have been presented in detail by
+stones and interbedded conglomerates (Fig. 1E) (e.g. Gutiérrez and           Rodríguez-López et al. (2012a). This chapter displays a summary of
+Peña, 1976; Carrillo and Gisbert, 1979). These sediments have been re-       the main characteristics of the aeolian and alluvial depositional systems
+cently interpreted by Rodríguez-López et al. (2012a) as deposited within     in order to facilitate the understanding of the facies and their lateral and
+an aeolian duneﬁeld laterally interﬁngering with alluvial fans fed from      vertical relationships involved in the studied soft-sediment deformation
+the footwall highlands of the active El Pobo normal fault zone               structures. All the alluvial, ﬂuvial, and aeolian facies associations are
+(Figs. 1B, C, and D). The Escorihuela Formation also interﬁngers and         summarized in Table 1.
+shows a gradual transition with the overlying Villafranchian pediment
+unit (Ezquerro et al., 2012; Rodríguez-López et al., 2012a).                 3.1. Aeolian depositional system
+    The northern sector of the Teruel basin is a half-graben bounded by
+the N-S striking Sierra del Pobo fault zone (Fig. 1C). A gentle roll-over        Wind-related deposits in the Pliocene of the Teruel Basin include
+monocline linked to this fault zone is expressed as eastwards tilting of     aeolian dune (AD), aeolian sandsheets (ASS), low-angle aeolian
+most of the Neogene basin inﬁll (1–2°, in average), except for a fringe      (LA-A) deposits, and damp (DI) and wet interdune (WI) deposits (see
+at the eastern margin where westwards dipping is observed completing         Rodríguez-López et al., 2012a) (Table 1). Most of these aeolian facies
+a gentle asymmetric syncline (Fig. 1D). The eastwards tilting also affects   are constituted by pale to yellow, ﬁne- to coarse-grained sandstones
+a planation surface (Fundamental Erosion Surface, as deﬁned by Peña          with a variable occurrence of frosted dark granules normally accumulat-
+et al., 1984) correlative of the uppermost lacustrine deposits of the        ed at the aeolian dune bottomsets and deﬂation lags in both aeolian
+Alfambra Formation, which extends westwards truncating Mesozoic              sandsheets and low-angle aeolian facies associations (Rodríguez-
+and Palaeogene materials up to Sierra Palomera (Fig. 1C and D). Based        López et al., 2012a).
+on this composite, sedimentary, and geomorphological marker (Early               Aeolian dunes exhibit medium to large-scale trough cross-bedding
+Pliocene in age, latest Ruscinian: Godoy et al., 1983; Opdyke et al.,        contained in tabular and laterally continuous strata separated by aeolian
+1997; Alcalá et al., 2000), an offset of ~400 m has been inferred for the    superimposition surfaces (e.g. Mountney, 2006a). Foresets display
+Sierra del Pobo fault zone for the last 3.6 Ma, therefore an average ver-    concave-up and downwind dipping surfaces showing clear pinch outs
+tical slip rate of about 0.11 mm/a (Simón et al., 2012). These values        between grainﬂow deposits and toe-set wind ripple lamination
+allow characterizing this structure as a moderately active fault during      (cf. Hunter, 1977). Low-angle aeolian deposits are similar to those de-
+Late Pliocene–Quaternary times.                                              scribed by Kocurek (1986), with wind ripple lamination and granule-
+    The Sierra del Pobo fault zone depicts, at surface, a number of anas-    rich horizons, granule veneers or granule linings (cf. Rodríguez-López
+tomosing fault traces trending around N-S (Fig. 1C). All the individual      et al., 2010, 2012a). Aeolian sandsheet facies association is formed by
+fault surfaces probably coalesce at depth (Fig. 1D) into a single crustal    m-thick intervals of ﬁne-grained very well-sorted ﬁnely laminated
+fault that could attain the 11- to 14-km-deep detachment level pro-          sandstones showing subcritically climbing translatent strata with in-
+posed by Roca and Guimerà (1992) for the overall eastern Iberian ex-         verse grading and pin-stripe lamination (cf. Fryberger et al., 1983;
+tensional system. The minimum length of this active structure is             Fryberger and Schenk, 1988). It is also characterized by adhesion
+14.5 km (perhaps reaching 16 km), seeing at the nearly continuous            lamination, bimodal deposits, deﬂation lags and granule ripples
+trace of the western branch (Fig. 1C). Introducing this parameter into       (Rodríguez-López et al., 2012a). These aeolian sandsheets underwent
+empirical relationships proposed by Wells and Coppersmith (1994),            periods of accumulation, deﬂation, and stabilization, the last ones char-
+Stirling et al. (2002), and Pavlides and Caputo (2004), we estimate a        acterized by horizons showing calcitized roots. Damp interdunes are
+moment magnitude (Mw) for its potential earthquake in the range of           constituted by medium- to coarse-grained sands, with crinkly and
+6.4–6.8, similar to that assigned (6.5 ± 0.37) in the Quaternary Active      irregular lamination, that accumulated at the dune aprons, which
+Fault Database of the Iberian Peninsula (QAFI; IGME, 2012).                  were in direct contact with the phreatic level (e.g. Mountney and
+Table 1
+Main facies associations (FA) distinguished in the aeolian and alluvial sedimentary systems of the Pliocene Escorihuela duneﬁeld (modiﬁed from Rodríguez-López et al., 2012a).
+
+  FA and code        Lithology and geometry                                       Sedimentary structures                                        References
+
+  Aeolian system
+  Aeolian dune       Pale to yellow ﬁne- to coarse-grained sandstones. Tabular,   Large-scale trough cross-bedded sets; aeolian bounding        Kocurek (1996), Scherer (2000),
+  AD                 laterally continuous bodies.                                 surfaces (reactivation, superimposition surfaces).            Mountney (2006a, 2006b),
+                                                                                  Grainﬂow deposits and wind ripple lamination
+  Low-angle          Fine-grained to coarse-grained sandstones and granules.      Subcritically climbing translatent strata, wind ripples.      Kocurek (1986), Clemmensen and
+    aeolian          Laterally extensive sand bodies, layers dipping ≤15°.        Interbedded dipping ﬁne-grained and coarse-grained to         Abrahamsen (1983), Fryberger
+    deposit                                                                       granule layers. Granule pavements, granule linings            et al. (1992), Maxwell and Haynes
+  LA-A                                                                                                                                          (2001).
+  Aeolian            Flat-horizontal, tabular bodies formed by ﬁne-grained        Subcritically climbing translatent strata, granule ripples,   Hunter (1977), Kocurek and Fielder
+    sandsheet        yellowish sandstone organized in tabular m-thick             adhesion ripples, granule pavements, pin-stripe               (1982), Clemmensen and
+  ASS                intervals.                                                   lamination. Root traces                                       Abrahamsen (1983), Fryberger
+                                                                                                                                                et al. (1983).
+  Damp interdune Dark yellow to brown medium- to coarse-grained                   Wavy and disrupted lamination.                                Mountney and Thompson (2002),
+  DI             sandstones. Related with wet interdune and aeolian dune                                                                        Rodríguez-López et al. (2008).
+                 facies.
+  Wet interdune  Sandy mudstones and siltstones. Tabular meter-thick              Massive, laterally continuous lamination.                     Mountney and Thompson (2002),
+  WI             intervals merging laterally with aeolian dune toe-sets.                                                                        Stanistreet and Stollhofen (2002).
+
+  Alluvial system
+  Debris ﬂow         Tabular intervals of pebble-boulder, clast- to               Generally massive and disorganized; locally crude             Nemec and Steel (1984), Chamyal
+  DF                 matrix-supported disorganized to poorly organized            lamination, inverse grading; large protruding boulders at     et al. (1997), Enos (1977), Sohn
+                     conglomerates. Sharp-ﬂat to slightly erosive bases. Sandy    the top. Locally crudely imbricated clasts and parallel       (2000).
+                     tabular intervals with ﬂoating pebbles and cobbles.          alignment of clasts. Vertically oriented clasts.
+  Cobble-sand        Conglomerates with slightly erosive bases. Tabular and       Internal crude cross-bedding                                  Turner (1980).
+  sheetﬂood          laterally continuous intervals.
+  CS-SS
+  Sand-silt          Tabular meter- to decimeter-thick intervals of muddy         Structureless, mottling.                                      Collinson (1996), Jo et al. (1997).
+  sheetﬂood          sandstones and siltstones.
+  SS-SF
+  Boulder to sand    m-thick lenticular clast-supported channelized               Medium-scale cross-bedding. Foresets dip near 23°.            Ramos and Sopeña (1983),
+     bedload         conglomerates. Massive conglomerates inﬁlling                Large-scale planar cross-bedding sets with dips near 11°.     Chamyal et al. (1997), Jo et al.
+     stream          ribbon-like channels with overhanging walls. Matrix of                                                                     (1997), Bhiry and Occhietti (2004).
+  BS-BS              pebbly sand. Superimposed concave-up surfaces.
+  Pebbly sand        Fine- to medium-grained sandstones with basal cobble         Crude horizontal lamination, planar to tangential             Jo et al. (1997), Blair (1999)
+     bedload         lags. Lower sharp and erosive bases with vertical walls.     cross-bedded sets.
+     stream          Gravel pockets.
+     deposit
+  PS-SB
+  Intraformational   Sub-rounded to sub-angular ﬁnely laminated sandstone         No speciﬁc orientation of sandstone blocks                    Deynoux et al. (1989) Mountney
+     conglomerate    blocks forming disorganized conglomerates inﬁlling                                                                         and Howell (2000)
+  channel ﬁll        ribbon-like channeled bases. Sandy matrix and ﬂoating
+  IC                 extraformational pebbles.
+
+
+
+
+Thompson, 2002). This facies is spatially related and merged laterally to                    2012a; cf. Nemec and Steel, 1984). Cobble-sand sheetﬂood deposits
+the aeolian dune sands and to the clays of the interdunes (see                               are organized in tabular and laterally continuous levels of conglomer-
+Rodríguez-López et al., 2008) indicating that the phreatic level was                         ates with crude cross-bedding with sharp-ﬂat top surfaces locally
+high and intersecting the depositional surface while dune advanced cre-                      covered by deﬂation lags. Boulder to sand bedload stream deposits con-
+ating a climbing wet aeolian system. The aeolian deposition system also                      sist of clast-supported channelized conglomerates forming meter-thick
+contains ﬁne-grained (muddy) sediments accumulated in wet                                    lenticular bodies with deeply sharp and erosive bases sometimes show-
+interdunes depressions. Rodríguez-López et al. (2012a) reported the                          ing vertical to overhanging ribbon-like channel walls. Pebbly sand
+inter-tonguing of dune toe-set deposits with interdune strata reﬂecting                      bedload stream deposits consist of ﬁne- to coarse-grained sandstones
+aeolian dune advance contemporarily with interdune sedimentation                             with basal cobble lags, scattered ﬂoating pebbles, and pebble pockets,
+(e.g. Gradziński and Jerzykiewicz, 1974; Stanistreet and Stollhofen,                         showing crude lamination and planar and tangential cross-bedded
+2002).                                                                                       sets (Rodríguez-López et al., 2012a; cf. Blair, 1999). Sand-silt sheetﬂood
+                                                                                             deposits are formed by muddy sandstones and siltstones organized in
+3.2. Alluvial depositional system                                                            structureless tabular, decimeter- to meter-thick levels. They are inter-
+                                                                                             bedded with stream-ﬂow conglomerates and show mottling and well-
+    The El Pobo Range delivered carbonate clasts through alluvial fans                       deﬁned red and brown horizons (cf. Collinson, 1996; Jo et al., 1997).
+and associated distal ﬂuvial systems that interacted with encroaching                            During ﬂood events, the water ﬂows coming from the alluvial fans
+aeolian dune ﬁelds in the Teruel Basin (Rodríguez-López et al., 2012a).                      interacted and cross-throughout the aeolian dune ﬁeld leading to in-
+The alluvial depositional system displays typical facies associations re-                    tense erosion and reworking of aeolian sands forming intraformational
+lated with alluvial dynamic in such environments including proximal                          sandstone-conglomerate channel ﬁlls (cf. Mountney and Howell, 2000;
+to middle and distal fan facies associations (Table 1): debris ﬂow (DF)                      Deynoux et al., 1989; Rodríguez-López et al., 2012b). This facies associ-
+deposits, cobble-sand sheet ﬂood (CS-SF), boulder to sand bedload                            ation is formed by sub-rounded to sub-angular, cobble to boulder size
+stream deposits (BS-BS), pebbly sand bedload stream deposits (PS-                            (9–57 cm) sandstone intraclasts ﬁlling ribbon-like channel incisions in
+BS), and sand-silt sheet ﬂoods (SS-SF). Debris ﬂow deposits display                          aeolian sandsheet deposits. Aeolian intraclasts are mixed with carbon-
+pebble-boulder, clast- to matrix-supported, disorganized to poorly or-                       ate extraformational pebbles as those contained in the alluvial facies, in-
+ganized conglomerates with sharp-ﬂat base with inverse grading indi-                         dicating that the ﬂows that cross through the aeolian duneﬁeld come
+cating a basal shear zone during deposition (Rodríguez-López et al.,                         from the nearby highlands of the El Pobo Range.
+4. Soft-sediment deformation structures                                                         relationships. Six continuous deformed beds (levels 1–6) and other iso-
+                                                                                                lated SSDS have been recognized (see location in Fig. 2).
+4.1. Studied outcrops                                                                                The North Quarry remains inactive, at least, from the year 2000. The
+                                                                                                outcropping local stratigraphical series comprises a lower part
+    Walls of two quarries have been investigated in order to recognize                          consisting of yellow and white sands and silts and a level of red clayed
+and study soft-sediment deformation structures and to analyze the rela-                         silt and an upper part mainly consisting of carbonate breccias and con-
+tionships between SSDS geometry and the sedimentary facies in which                             glomerates belonging to the Villafranchian pediment unit (Fig. 3). In this
+they developed. These quarries are referred here as South Quarry (SQ)                           quarry wall, a discrete deformed level has been observed (see location
+and North Quarry (NQ) and are located at distances of 2.0 and 1.7 km,                           in Fig. 3).
+respectively, from the main active Sierra del Pobo fault trace (see loca-
+tion in Fig. 1C). Usually, the quarry walls make available high-quality,                        4.2. Deformed beds and involved facies associations
+and relative continuous (N 30 m) outcrops, although their lower parts
+are progressively covered by fallen debris due to wall degradation.                                 The six deformed beds in the South Quarry (see location in Fig. 2)
+    The South Quarry is discontinuously used for extracting aeolian                             affect both aeolian and alluvial facies. The three lower deformed beds
+sands as material for construction. The successive quarry walls offer                           (named 1, 2 and 3 in Fig. 2) are composed of an alternation of sand lam-
+good exposures where the sedimentary facies and their lateral and ver-                          inae of different grain size, from ﬁne to coarse, with ﬁne intercalations of
+tical relationships or the SSDS affecting them can be observed (Fig. 2).                        muddy silts. Sandy facies mainly corresponds to aeolian sandsheet
+One previous wall of the SQ was studied by Lafuente et al. (2008) and                           (ASS) and low-angle aeolian (LA-A) deposits, and the silts to wet
+Rodríguez-López et al. (2012a), who described different local SSDS as-                          interdune (WI) deposits (Table 1).
+cribed to seismic and animal tracking. The results presented here in-                               Deformed beds 1 and 2 have a lateral continuity of about 8–10 m and
+cluded the observations made in this quarry in two ﬁeld campaigns                               a thickness of 10–15 cm, while deformed bed 3 is 25–30 cm thick over a
+(July 2011 and November 2015). A part of this quarry wall displayed                             lateral continuity of N25 m (Figs. 2 and 4). Animal tracks affecting these
+in November 2015 is shown in Fig. 2, which shows the main facies                                aeolian sandstones have been also observed. Similarly, animal tracks af-
+associations recognized during ﬁeld survey and their lateral and vertical                       fecting aeolian sandsheet and dune deposits in a previous wall of this
+
+
+
+
+Fig. 2. (A) Photograph of the Late Pliocene aeolian yellow sandstones and the uppermost Villafranchian pediment conglomerates at the Escorihuela South Quarry (see location in Fig. 1C)
+and the location of the six studied deformed beds. (B) Line drawing on (A) showing the main alluvial and aeolian facies associations distinguished and their stratigraphical architecture.
+(C) Composite stratigraphic log (white lines in A) with the location of deformed beds.
+Fig. 3. (A) Photograph showing the southern part of the wall of the Escorihuela North Quarry (see location in Fig. 1C) and the location of deformed bed. (B) Line drawing on (A) showing
+the main alluvial and aeolian facies associations distinguished and their stratigraphical architecture. (C) Stratigraphic log (white line in A) with the location of the deformed bed.
+
+
+
+quarry have been described in detail and interpreted by Rodríguez-                            structures (b5 cm wide and 5–15 cm long; Fig. 6), are developed in
+López et al. (2012a, their Figs. 10 and 11). These authors show that                          three units composed, from bottom to top, of ﬁne to medium sand
+the animal tracks appear located and concentrated at discrete intervals                       (damp interdune facies), grey clayey silt (wet interdune FA), and over-
+or locally stacked vertically (but always in different discrete levels), and                  laying sand (aeolian dune apron facies). These aeolian dune aprons are
+always covered by non-deformed, ﬂat-lying aeolian deposits (Fig. 4D                           characterized by bimodal deposits consisting of granules and ﬁne-
+and E). They distinguished between simple structures (Fig. 4D) from                           grained sands organized in coarser grainﬂow wedges pinching out up-
+other bilobate structures (Fig. 4E) that they attributed to different ani-                    wards into ﬁnely laminated aeolian dune foresets, and downwards
+mals. Both types of structures show common features in cross-sections                         into wind ripple-laminated sands (see Rodríguez-López et al., 2012a).
+such us general concave-up geometry deﬁned by deformed pin-stripe                                 At the top of the Escorihuela Formation, located 1–2 m below the
+lamination, folded lamination, vertical walls, two marginal upfolds,                          sharp contact with the overlying Villafranchian pediment gravels, two
+the concavity of the structures dying out at a discrete level                                 deformed beds are located in the alluvial facies. Bed 5 crops out 20 m
+(Rodríguez-López et al., 2012a). These structures appear ﬁlled with a                         out of the photograph of Fig. 2 and it was walked for a distance of
+variety of sedimentary facies including ﬂoating granules and massive                          3 m, because it was truncated southwards by overlying channeled and
+texture, laminated sands arranged in cm-thick lamina preserving pin-                          gravely bedload stream deposits (facies BS-BS) (Fig. 7A). Bed 6 was in-
+stripe lamination, a chaotic inﬁll with parts cemented by carbonates,                         vestigated in the quarry wall during the July 2011 campaign and its
+or locally brecciated pin-stripe lamination.                                                  stratigraphic location is situated in the photograph. This level was
+    In the three deformed beds (1–3) of the South Quarry, load struc-                         continuous in the observable outcrop (N6 m) and involved sedimentary
+tures and some associated ﬂuid-escape structures have been identiﬁed                          facies and SSDS morphologies and dimensions (Fig 7B) were similar to
+in addition to animal tracks. These deformed beds show gentle defor-                          level 5 (Fig. 7A). Thus, two units constituted both deformed beds: coarse
+mation of the laminae, with small load casts (10–20 cm wide) and                              sand and dispersed pebbles (cobble-sand sheet ﬂoods) overlying medi-
+some dish and pillar structures (Fig. 4). Load casts are developed in                         um to ﬁne sand (sand-silt sheet ﬂoods). Sagging and irregular load casts
+sandy layers with slight differences in grain size. Dish and pillar                           (sensu Anketell et al., 1970; Alfaro et al., 1997, 1999) characterize these
+structures develop when ﬁne laminae of silt are intercalated in sandy                         deformed beds. Lamination and stratiﬁcation of the upper deformed
+sediments. In these three deformed beds, SSDS are spaced 0.3–1 m.                             bed are perfectly continuous and have a convex downward morpholo-
+    Higher in the stratigraphic record, a ~15-cm-thick, deformed bed is                       gy. Between two convex lobes, the lamination and/or stratiﬁcation
+observed over 6 m of lateral continuity (bed 4). Deformation is well                          forms an acute upward-directed angle (Fig. 7). The size of these struc-
+constrained to the presence of interdune facies (both damp and wet                            tures varies between 20 and 40 cm in width and 15–20 cm in height.
+interdune facies) encased in through cross-bedding dune sandstones                            In both cases, the deformation was fossilized by a deﬂation lag charac-
+(Fig. 5). Soft-sediment deformation structures, mainly small drop                             terized by laterally continuous accumulation of pebbles scattered
+Fig. 4. (A) Panoramic view of the deformed bed 3 (South Quarry) characterized by a multilayer of medium- to ﬁne-grained sands of aeolian sandsheet (ASS) (see location in Fig. 2A).
+(B) Detailed view of structures (see A for location) with slight deformation, characterized with load structures with large lateral spacing (from 30 cm to 1 m). (C) Fluid-escape
+structures, such as dish and pillars, are related to the presence of thin barriers of permeability. (D) and (E) SSDS with simple or bilobate geometry, respectively, associated to animal tracks.
+
+
+
+through the surface and sharply covered by ﬂat-laying and laminated                                present (Fig. 10). The deformed bed (10–25 cm in thickness) is com-
+yellow medium- to coarse-grained sands corresponding to aeolian                                    posed of four lithological units from bottom to top (sector 1 in Fig. 8):
+dune (AD) deposits. Deﬂation of sheet ﬂoods in aeolian dune ﬁelds gen-                             (i) unit A—ﬁne-grained yellow sands (aeolian dune or sandsheet depos-
+erates these kinds of architectures in the sedimentary record (see                                 it), (ii) unit B—medium- to coarse-grained sands (pebble-sand bedload
+Rodríguez-López et al., 2010). This deﬂation lag postdates deformation                             stream deposit), (iii) unit C—silt with dispersed sand grains (SS-SF and
+and formed just before a renewal period of dune migration and                                      CS-SF facies), and (iv) unit D—medium- to coarse-grained sands
+accumulation.                                                                                      (aeolian dune facies association). A relevant feature of this deformed
+    A very well-exposed deformed horizon is observed in the North                                  bed is that laterally, in a ~2-m-wide zone (sector 2 in Fig. 8), deforma-
+Quarry (Fig. 3). This deformed horizon is continuous and extends later-                            tion is limited to units B, C, and D, while unit A looks undeformed. In sec-
+ally for 20 m, allowing the observation of structures both in cross-                               tor 2, the morphology of SSDS is similar to sector 1, albeit smaller
+section (Fig. 8) and plan view (Fig. 9A). The SSDS can morphologically                             because their conﬁnement to a thinner bed.
+be described as load casts, drop structures, and pillows (sensu
+Anketell et al., 1970; Alfaro et al., 1997; Owen, 2003). Differential ero-                         5. Discussion
+sion offers some small outcrops in plan view where elliptical and circu-
+lar morphologies of load structures are observed (Fig. 9A), similar to                                In this chapter, the mechanisms of deformation and driving force, as
+those previously described in literature (e.g., Gibert et al., 2011). Locally,                     well as the trigger mechanisms of the studied SSDS are discussed. After
+only in 1.5 m of extent of the deformed bed, vergent load structures are                           that, the control of the sedimentary facies on the development, areal
+Fig. 5. (A) Panoramic view of the deformed bed 4 (load structures are highlighted) in the South Quarry (see location in Fig. 2A). Location of Fig. 6A and B are included. (B) Line drawing of
+Fig. 5A showing the involved facies associations and their stratigraphic architecture. Note as the soft-sediment deformations structures (mainly drop structures) are especially displayed by
+the grey silts of wet interdune (WI) deposits and they disappear when this facies pinches out southwards and only aeolian dune (AD) sands are present.
+
+
+                                                                                                 distribution and geometry of soft-sediment deformation structures is
+                                                                                                 considered and analyzed. Finally, the signiﬁcance of these seismically
+                                                                                                 induced SSDS is discussed in terms of palaeoseismicity. In particular,
+                                                                                                 we try to estimate the magnitude of the causative earthquakes and
+                                                                                                 the number of seismic events recorded in the depositional system.
+
+                                                                                                 5.1. The driving force: Variability of density gradient systems
+
+                                                                                                     The studied SSDS were produced by liquefaction of cohesionless
+                                                                                                 sediments, when their strength was temporarily reduced (sensu Allen,
+                                                                                                 1982; Owen, 1987). The sediment behaved like a viscous ﬂuid or a plas-
+                                                                                                 tic solid of reduced yield strength (sensu Allen, 1982; Owen, 1987). In
+                                                                                                 the particular case of water-escape structures, ﬂuidization was
+                                                                                                 necessary (sensu Lowe, 1975).
+                                                                                                     After analyzing different possible driving forces including gravity
+                                                                                                 acting on slopes, unequal loading, gravitational instabilities due to a re-
+                                                                                                 versed density gradient, shear by aqueous or other currents, and biolog-
+                                                                                                 ical and chemical agents, we consider the reversed density gradient
+                                                                                                 (sensu Anketell et al., 1970) as the main driving force of all deformed
+                                                                                                 beds based on the initial characteristics of the system in the study
+                                                                                                 area. Although the bulk density of involved sediments has not been de-
+Fig. 6. Details of the SSDS of deformed bed 4. (A) Wet interdune (WI) facies sinking into
+damp interdune (DI) facies and depicting drop structures. (B) Detail of the three
+                                                                                                 termined (the present-day values are surely different from those during
+sedimentary units (a, b, and c) involved during deformation (see text for explanation).          deformation), coarse-grained siliciclastic sediments are generally
+See Fig. 5A for location of Figs. 6A and 6B.                                                     denser than ﬁne-grained ones (e.g., Anketell et al., 1970; Allen, 1982,
+                                                                                              thicker and constitutes the lower part (less dense) of the system, and
+                                                                                              the upper part (denser) is constituted only by units C and D. As previ-
+                                                                                              ously mentioned, types of SSDS (drop and pillow structures) are similar
+                                                                                              in both sectors, only varying the size of structures. This is probably due
+                                                                                              to the lower contrast in density of the involved sedimentary facies in
+                                                                                              sector 2 (Fig. 8). A similar case was described by Owen and Moretti
+                                                                                              (2008) in Upper Carboniferous delta deposits of south-west Wales.
+                                                                                                  Both deformed beds with complex reversed density gradient sys-
+                                                                                              tems have a unit of ﬁner (less dense) sediment (silt and silty clay
+                                                                                              units) in the upper denser layer. In both cases, these silty units act as a
+                                                                                              secondary layer, as a part of a denser set with other units of coarser
+                                                                                              grain size. The silty units act as a passive layer and collapse together
+                                                                                              with the coarse sand unit into the underlying ﬁner sand layer.
+                                                                                                  Other relevant feature of the studied stratigraphic succession is the
+                                                                                              difference in style of deformation among beds. The slight deformation
+                                                                                              (gentle load cast and low pillar and dish structures) of the deformed
+                                                                                              beds 1, 2, and 3 (Fig. 4) is related to a low contrast of density in the re-
+                                                                                              versed density gradient system, which is characterized by thin sandy
+                                                                                              units with slight differences in grain size related to aeolian sandsheet
+                                                                                              (ASS) deposits and, laterally, to low-angle aeolian (LA-A) deposits. The
+                                                                                              low contrast in density is probably the cause of the great spacing
+                                                                                              (0.3–1 m) between these individual SSDS. In these deformed beds,
+                                                                                              dish and pillar structures are developed where thin silt layers act as bar-
+                                                                                              riers of permeability. In this particular case, deformation is formed
+                                                                                              when sediment is transported by the expulsion of pore water (sensu
+                                                                                              Lowe, 1975), related to shear by aqueous.
+                                                                                                  Finally, vergent load structures are only observed in a small part
+                                                                                              (walked through a distance of 2 m) of the deformed bed studied in
+                                                                                              the North Quarry. Therefore, gravity acting on slopes can be invoked
+Fig. 7. Sagging and irregular load casts of the deformed beds 5 (A) and 6 (B) in the South    as an additional driving force in this particular sector of the deformed
+Quarry (see Fig. 2 for location). In both cases, deformed deposits include cobbles and sand   bed. Albeit, the contribution of unequal loading cannot be discarded,
+(CS-SF facies), above, and sand and silt (SS-SF) associated to sheet ﬂood events. Soft-
+                                                                                              since it is expectable in an environment dominated by migrating
+sediment deformation structures are covered by aeolian dune (AD) deposits.
+                                                                                              dunes, and it can locally increase the magnitude of load structures
+                                                                                              (e.g. Horowitz, 1982; Bryant et al., 2013).
+
+Fig. 9.9). Denser sediment overlies less dense sediment in the studied                        5.2. Triggers of the studied soft-sediment deformation structures
+deformed beds; for instance, in beds 5 and 6 (Figs. 2 and 7), a denser
+unit (coarse sand and dispersed pebbles) of cobble-sand sheet ﬂood de-                            Many natural agents and process can act as triggers of deformation,
+posits sunk into a less dense sedimentary unit (medium to ﬁne sand of                         including waves, ﬂoods, rapid sedimentation, groundwater movements,
+sand-silt sheet ﬂood deposits). Deformation is driven by the gravitation-                     and earthquakes, among others (see Owen and Moretti, 2011). Unfortu-
+al forces associated with the reversed density system and is dominated                        nately, there is not a simple relationship between the type of soft-
+by vertical displacements (Fig. 7). Deformed bed 4 is another example of                      sediment deformation structure and the triggering agent (Owen et al.,
+the necessity of a driving force (e.g. a reversed density gradient system)                    2011). We apply the three-stage approach to trigger recognition by
+to produce deformation during liquefaction. These deformed interdune                          Owen et al. (2011), combining the assessment of facies, potential trig-
+facies (Fig. 5) merged laterally to homogeneous aeolian sands, where                          gers, and available criteria.
+apparent deformation disappears (aeolian sand below and above the                                 After the detailed facies analysis of alluvial and aeolian facies, both
+stratigraphic contact). Deformation recorded in these simple reversed                         sedimentary (ﬂood, rapid sedimentation) and seismic processes have
+density gradient systems (e.g. deformed beds 5 and 6 in the South Quar-                       been identiﬁed as potential triggers causing the studied SSDS. Some iso-
+ry) are pervasive in our sedimentary succession.                                              lated load structures appearing in coarse gravels above ﬁne sands, with
+    On the contrary, the deformed bed 4 of South Quarry and the de-                           no lateral continuity, are exclusively located in water-related facies of
+formed bed of North Quarry represent complex reversed density gradi-                          the study area. Probably, they result from overloading during rapid
+ent systems, where the upper denser layer is composed of several                              sedimentation (e.g. Rodríguez-López et al., 2010), although they are
+sedimentary units of different lithology and rheology. In bed 4 (Fig. 6),                     outside of the focus of this paper. By the same token, some biologically
+the denser layer is composed of two units; the wet interdune grey clay-                       induced SSDS mainly present in sandsheet aeolian facies, which were
+ey silts (unit b), below, and the aeolian dune medium- to coarse-grained                      interpreted as animal tracks by Rodríguez-López et al. (2012a), are
+sands (unit c), above, both overlying a unit of damp interdune facies                         also discarded in this study.
+formed by silty medium-grained sands (unit a). In this case, the upper                            The rest of observed SSDS, which are the subject of our study, are
+denser layer (aeolian dune) drag and sunk the underlying wet                                  grouped into a number of deformed beds within the sedimentary
+interdune silty facies, constituting together a set with higher density                       succession, and overlied by non-deformed and ﬂat-lying facies with
+over the underlying damp interdune silty sands (unit a), resulting in a                       undisturbed lamination (see Figs. 4 and 7), thus excluding overloading
+set of well developed drop structures.                                                        as a trigger mechanism. The combination of the following criteria points
+    In the deformed bed of the North Quarry (Fig. 8), the units B (PS-BS                      to the hypothesis of earthquakes as trigger mechanisms for these de-
+facies), C (mainly SS-SF facies), and D (AD facies) constitute an upper set                   formed beds: a) the SSDS are not isolated, appearing in laterally contin-
+of relatively higher density than unit A (AD facies). This bed offers a                       uous beds separated by undeformed sediment; b) within each
+curious lateral variation of the reversed density gradient system (see                        deformed bed, individual SSDS exhibit regular spacing, suggesting a
+sector 2 in Fig. 8). In this sector, unit A becomes undeformed, unit B is                     synchronous and instantaneous origin for the structures (Oliveira
+Fig. 8. Features of the deformed bed recognized at the North Quarry. (A) Photograph showing a part of the deformed bed recognized (see location in Fig. 3A) with load structures (mainly
+drop structures and some pillows). (B) and (C) Details of sector 1 showing how the aeolian dune sands (unit A) is the underlying layer of the reversed density gradient system (d1, d2:
+density). (D) Detail of a drop structure with a carbonate nodule in its nucleus. (E) and (F) Details of sector 2 (see location in Fig. 8A) where unit A shows no apparent deformation and
+unit B (pebble-sand bedload stream facies, PS-BS) is the underlying layer of the reversed density gradient system; pillows become the main deformation structure. Photographs of
+C) and F) are located outside the general photograph of A).
+
+
+
+                                                                                               et al., 2009); c) the studied SSDS are located in a tectonically active basin
+                                                                                               during the Late Pliocene, 2 km from the Sierra del Pobo active fault zone,
+                                                                                               and at a distance of b50 km from other active normal faults (Concud, Si-
+                                                                                               erra de Palomera, or Teruel faults; see location in Fig. 1B) (e.g., Gutiérrez
+                                                                                               et al., 2008, 2012; Lafuente et al., 2011; Liesa, 2011; Simón et al., 2012);
+                                                                                               d) in an ancient wall of the South Quarry, Lafuente et al. (2008) de-
+                                                                                               scribed and interpreted numerous cases of seismically induced SSDS,
+                                                                                               some of them controlled by either the local prevailing fracture set or
+                                                                                               the maximum horizontal stress (SHmax), therefore linking them to tec-
+                                                                                               tonic activity; and e) similar load structures have been described in re-
+                                                                                               cent earthquakes (e.g., Sims, 1975; Thakkar and Goyal, 2004).
+
+                                                                                               5.3. Facies control on the development of seismites
+
+                                                                                                   Lateral extent of deformed levels was considered by Sims (1975)
+                                                                                               and other authors (e.g., Obermeier et al., 1990; Hilbert-Wolf et al.,
+                                                                                               2009; Owen and Moretti, 2011) as a diagnostic criterion of seismically
+                                                                                               induced SSDS. This criterion is based on the threshold necessary for seis-
+                                                                                               mically induced liquefaction, which results in liquefaction affecting
+                                                                                               large areas (even N100 km from the epicenter for high-magnitude
+                                                                                               earthquakes, Obermeier, 1996; Galli, 2000). However, as previously in-
+                                                                                               dicated, sedimentary facies exert a main control on the development of
+                                                                                               seismites in most sedimentary environments (Moretti and van Loon,
+                                                                                               2014, and references therein). Therefore, the actual extent of the de-
+                                                                                               formed beds can be signiﬁcantly smaller than the potential one. First,
+                                                                                               vertical facies changes due to authigenic sedimentary processes provide
+Fig. 9. 3D view of structures of the North Quarry deformed bed (see location in Fig. 3).       the reversed density gradient necessary for bed deformation by
+(A) White dashed line separate section view (lower part of the photograph) and plan            gravitational forces after seismic instability, while bed thickness can
+view (the upper part) of structures. White arrows point to the elliptical shape in plan
+view of these load structures. A dot white line marks one of these elliptical structures.
+                                                                                               control the size of SSDS (Alfaro et al., 2010). Second, lateral facies chang-
+(B) 3D view of the base of one of the deformed levels. White arrows point to the lobate        es strictly determine the areal extension of the overall seismic liquefac-
+morphology of load structures.                                                                 tion effects, so the continuity of individual deformed beds is largely
+Fig. 10. (A) and (B) Vergent load structures in a sector of the North Quarry deformed bed (see location in Fig. 3). (C) Local gravitational shear stress produces asymmetric load structures
+(sketch modiﬁed from Moretti et al., 2001).
+
+
+
+
+controlled by the own lateral continuity of sedimentary environments                             silty sands of sheet ﬂood deposits (unit C), which are, as well, lying on
+(e.g., Rodríguez-López et al., 2007; Alfaro et al., 2010; Moretti and van                        previous aeolian ﬁne-grained sands (units A and B). In such a context,
+Loon, 2014; Ezquerro et al., 2015, 2016).                                                        when a near earthquake occurred the non-cohesive, lowermost aeolian
+    The development and areal extent of the studied deformed beds in                             sediments liqueﬁed and enabled ductile deformation of upper cohesive
+the Pliocene Escorihuela duneﬁeld seems to be clearly controlled by ver-                         muddy and silty sheetﬂood deposits, developing drop and, locally, ball-
+tical stacking and lateral changes of the alluvial and aeolian sedimentary                       and-pillow structures (see post-seismic stratigraphic architecture in
+facies. SSDS are mainly developed in speciﬁc successions of alluvial and                         Fig. 11). This deformed bed laterally correlates (30 m northwards)
+aeolian sedimentary facies, namely those including saturated sediments                           with the level with cm-scale SSDS (mainly load casts and pillow struc-
+(necessary for liquefaction to occur) composed of interbedded gravel,                            tures) described by Lafuente et al. (2008), which corresponds to
+sand, and silt (which provide the reversed density gradient).                                    thinner-bedded (cm-scale) ﬂat-lying sandsheet and damp interdune
+    Among the alluvial facies, the most favorable ones for seismic lique-                        deposits. This lateral change in the involved sedimentary facies is prob-
+faction are cobble-sand sheetﬂood (CS-SF) deposits laying on sand-silt                           ably responsible for the changing geometry of SSDS along the deformed
+sheetﬂood (SS-SF) facies, as occur in beds 5 and 6 all along their expo-                         bed.
+sure in the South Quarry wall (Fig. 7). Stacking of these saturated facies                           Among the aeolian facies, the wet interdune (WI) facies constitutes
+enables the reversed density gradient, which favors deformation. The                             the most favorable one for seismite development (Fig. 5). Bed 4 in the
+ﬂat-lying attitude and lateral extent of sheetﬂood deposits, which                               South Quarry is a good example of the facies control on the develop-
+should be present along the entire active fault scarp, suggest that                              ment of SSDS in aeolian systems. It is developed in wet interdune
+seismites could have indeed a large distribution along the basin. How-                           (WI) areas and laterally disappears where aeolian dune (AD) facies
+ever, the limited outcrop conditions of the studied sediments prevent                            are involved (Fig. 5). In detail, SSDS developed where different sedi-
+to conﬁrm this hypothesis. It is interesting to note that both seismites                         mentary facies are vertically stacked, and speciﬁcally where they
+were preserved by the superposition of aeolian dune deposits, which                              showed a stronger reversed density gradient, i.e., due to a high contrast
+could increase their potential of preservation.                                                  in grain size. In this case, drop structures developed where the vertical
+    In the alluvial–aeolian interacting facies, seismites seem to be mainly                      succession of aeolian dune (AD) or sandsheet (ASS), damp interdune
+associated to duneﬁelds affected by ﬂood events, as it occurs in the                             (DI), wet interdune (WI), and aeolian dune (AD) facies is recognized,
+deformed bed described in the North Quarry. The conceptual model at                              and deformation laterally disappears in a few meters where the upper-
+Fig. 11 shows this situation. Nevertheless, ﬂood by itself should be                             most AD facies is directly lying on the basal AD. This constitutes an ar-
+ruled out as the trigger for studied deformation. In this locality,                              chitectural control on the lateral continuity of seismites as interdune
+Rodríguez-López et al. (2012a) described erosional surfaces developed                            surfaces put in stratigraphic contact the underlying aeolian dunes
+above non-deformed aeolian sediments with an early slight cementa-                               with the apron deposits of the overlying climbing dune aprons. In this
+tion, as evidenced by the presence of intraclasts (blocks) in wadi chan-                         situation, no density gradient exists and no deformation is recorded.
+nel facies (see pre-seismic stratigraphic architecture in Fig. 11). This                         This example evidences the strong control of the lateral changes in
+demonstrates that these high-energy ﬂoods were not able to deform                                facies on the areal distribution of SSDS. The conceptual model at
+previously cemented underlying sediments.                                                        Fig. 12 shows the initial pre-seismic stratigraphic architecture of a
+    Indeed, in the North Quarry bed, deformation did not occur while                             duneﬁeld affected by a high water table, and its control on seismite de-
+the ﬁrst ﬂood event, but independently and after the ﬂood events.                                velopment. Seismites only form where the sedimentary succession de-
+There, the reversed density gradient was determined by the superposi-                            termined a reversed density gradient, i.e. where ﬁne-grained, wet, and
+tion of coarse- to ﬁne-grained sands of aeolian dunes (AD), low-angle                            damp interdune deposits are sandwiched between coarser aeolian
+aeolian (LA-A) or sandsheet (AS) deposits (unit D) over muddy and                                dune deposits.
+Fig. 11. Conceptual model explaining seismite development in a duneﬁeld affected by ﬂood events. Cartoons 1, 2, 3, and 4 show the succession of sedimentary processes deﬁning the pre-
+seismic stratigraphic architecture; the left photograph displays that ﬂooding did not produce deformation on basal aeolian sands. Cartoon 5 shows the development of a seismically
+induced deformed bed in local levels of the stratigraphic succession (right photograph, coming from the North Quarry deformed bed). See text for explanation.
+
+
+
+     In addition, aeolian sandsheet (ASS) facies are also favorable for                          Finally, according to our observations, aeolian sand dunes are less
+seismite development when they are associated to a relatively high                           prone for seismite development. Lafuente et al. (2008, ﬁg. 4) described
+water table, as it likely occurred in levels 1, 2, and 3 at South Quarry                     sand dikes in South Quarry probably located within this sedimentary fa-
+and in the deformed bed described by Lafuente et al. (2008) at North                         cies. Other SSDS have also been described in the literature (see Moretti,
+Quarry. The slight deformation of these beds has been related to the                         2000 and references therein). Nevertheless, no clear seismically in-
+small differences in grain size that show the aeolian sandsheet deposits.                    duced SSDS has been identiﬁed in our studied dunes. Usually, dune
+It is frequent to ﬁnd granule linings and coarser layers in these facies as-                 sands are not saturated, which prevents their liquefaction in spite of
+sociations (see Rodríguez-López et al., 2012a). The reduced thickness                        their favorable grain size and porosity. However, deformation processes
+(normally b 3 cm) of the sand levels with different grain sizes and the                      affecting aeolian dunes can occur in desert basins with a ﬂuctuating
+ﬂat-lying attitude of this aeolian facies probably are responsible for                       phreatic level as well as in coastal areas or due to water percolation dur-
+both the small dimensions of the load structures and their large,                            ing rainy periods leading to SSDS in the dune foreset (see Rodríguez-
+although regular lateral spacing. Fluid-escape structures only occur in                      López et al., 2008, and references therein). These kinds of deformation
+sectors where silty levels (with slight early cementation) acted as                          structures have not been recorded in the aeolian sandstones of the
+barriers of permeability.                                                                    Escorihuela duneﬁeld (Rodríguez-López et al., 2012a).
+Fig. 12. Conceptual model explaining seismite development in a duneﬁeld affected by a high water table. Pre-seismic stratigraphic architecture shows the limited lateral continuity of wet
+and damp interdune deposits, and hence the limited extension of the reversed density gradient system that ultimately controls the lateral continuity of the deformed bed. See text for
+explanation and Fig. 5A for comparison.
+
+
+
+
+5.4. Magnitude of paleoearthquakes                                                              del Pobo fault was able to produce earthquakes up to Mw = 6.8 (see
+                                                                                                Section 2), we can conclude that the studied SSDS were due to earth-
+    Liquefaction is one of the effects of near-ﬁeld earthquakes. Several                        quakes with magnitude in the range of 5.0–6.8. We should not discard
+authors (e.g. Atkinson, 1984; Audemard and De Santis, 2001;                                     other possible causative faults in the neighboring region (Concud, Te-
+Papathanassiou et al., 2005) establish Ms = 5.0 as the smallest                                 ruel, Palomera, or Calamocha faults; Simón et al., 2012), but this
+magnitude that have triggered liquefaction, although there exist some                           would not change that conclusion since none of them has an associated
+exceptions (Sims and Garvin, 1995, described re-liquefaction during                             maximum Mw higher than 6.8 (see QAFI database: IGME, 2012).
+an aftershock of magnitude 4.6 in Loma Prieta, California). Other                                  Within the stated magnitude range, it is probable that some of our
+works evidence that spread liquefaction requires magnitude over 5.5                             recorded shakes approached its upper limit. This assessment is based
+(e.g., Ambraseys, 1988). Nevertheless, more research is needed for full                         on the occurrence of drop and pillow structures, whose degree of defor-
+understanding the relationships between SSDS development and                                    mation probably required long-duration liquefaction, i.e. higher seismic
+seismic magnitude. Although the size of some SSDS increases with                                magnitude (Alfaro et al., 1997; Moretti et al., 1999; Owen, 2003).
+earthquake magnitude (see Obermeier, 1996; Castilla and Audemard,
+2007), and the occurrence of some types of seismites could also need
+exceeding some magnitude threshold (Rodríguez-Pascua et al., 2000),                             5.5. Number of recorded paleoearthquakes and recurrence interval
+other factors inﬂuence size and morphology (Owen et al., 2011). There-
+fore, we must be cautious when using size or morphology as an indica-                               Although alluvial–aeolian interacting deposits may not be as good as
+tor of earthquake magnitude (e.g., Alfaro et al., 2010).                                        lacustrine ones for earthquake recording (e.g., Rodríguez-Pascua et al.,
+    Based on the studied stratigraphic sections, we do not have any                             2000; Alfaro et al., 2010; Gibert et al., 2011; Moretti and van Loon,
+objective criteria to assign a precise magnitude to the earthquakes re-                         2014; Ezquerro et al., 2015), they have provided valuable information
+sponsible of the studied SSDS. We are only able to estimate the most                            for improving the knowledge on the tectonic activity of the northern
+probable interval of magnitude from indirect data. Since the studied                            Teruel Basin during Late Pliocene time. Our results show how continen-
+outcrops are located some 2 km from an active fault (Sierra del Pobo                            tal sedimentary systems with high lateral variability in facies can only
+fault), our interpretation of seismicity as the origin of the studied SSDS                      provide a discontinuous, and probably incomplete, paleoseismic record.
+is supported by the existence of the needed seismic source. Moreover,                           Therefore, the reconstructed event succession should be considered as a
+as these SSDS were the effect of near-ﬁeld earthquakes, the minimum                             bare minimum, hence the concept of apparent recurrence period (in the
+magnitude required would have been 5.0. Considering that the Sierra                             sense of Ezquerro et al., 2015) should be applied.
+    We have identiﬁed six deformed beds with irregular distribution in          Research has been ﬁnanced by projects CGL2012-35662 and CGL2011-
+the 15-m-thick succession at South Quarry, and one deformed bed in              30153-C02-02 of Spanish Ministerio de Economía y Competitividad-
+North Quarry, both in the upper part of the Escorihuela duneﬁeld.               FEDER, as well as by the Aragón regional government (“Geotransfer”
+Although we have not enough age control, the last deformed bed                  research group).
+could be correlated with either bed 5 or bed 6 at South Quarry seeing
+at their stratigraphic position immediately below the more expansive
+                                                                                References
+gravelly deposit of the Villafranchian pediment unit (Figs. 2 and 3).
+    According to the magnetostratigraphical results by Opdyke et al.            Alcalá, L., Alonso-Zarza, A., Álvarez, M.A., Azanza, B., Calvo, J.P., Cañaveras, J.C., van Dam,
+(1997) and the stratigraphical studies by Ezquerro et al. (2012) and                 J.A., Garcés, M., Krijgsman, W., van der Meulen, A.J., Morales, J., Peláez, P., Pérez-
+                                                                                     González, A., Sánchez, S., Sancho, R., Sanz, E., 2000. El registro sedimentario y
+Rodríguez-López et al. (2012a), the age of the studied duneﬁeld sedi-                faunístico de las cuencas de Calatayud-Daroca y Teruel. Evolución paleoambiental y
+ments ranges from 2.9–2.8 to 2.6 Ma (i.e, spanning ~ 200–300 ka). If                 paleoclimática durante el Neógeno. Revistas de la Sociedad Geológica de España 13,
+the six identiﬁed seismites were associated to activity of the Sierra del            323–343.
+                                                                                Alfaro, P., Estévez, A., Moretti, M., Soria, J.M., 1999. Sedimentary deformation structures
+Pobo fault, an apparent recurrence period about 33–50 ka can be calculat-
+                                                                                     interpreted as seismites in the Quaternary of the Low Segura basin (Eastern Betic
+ed for this fault system. This period is similar to that inferred (45 ka) by         Cordillera). Comptes Rendues de l'Academie de Sciences de Paris (II) 328, 17–22.
+Ezquerro et al. (2015) for the Late Pliocene–Early Pleistocene seismic          Alfaro, P., Gibert, L., Moretti, M., García-Tortosa, F.J., Sanz de Galdeano, C., Jesús Galindo-
+history of the near Concud Fault from the recognition of 21 seismic                  Zaldívar, J., López-Garrido, A.C., 2010. The signiﬁcance of giant seismites in the
+                                                                                     Plio-Pleistocene Baza palaeo-lake (S Spain). Terra Nova 22, 172–179.
+events (seismites) in palustrine sediments. Nevertheless, taking into ac-       Alfaro, P., Moretti, M., Soria, J.M., 1997. Soft-sediment deformation structures induced by
+count that the vertical slip rate (since 3.6 Ma) of the Sierra del Pobo fault        earthquakes (seismites) in Pliocene lacustrine deposits (Guadix–Baza Basin, Central
+is quite larger than that of the Concud Fault (0.11 vs. 0.07 mm/a), a                Betic Cordillera). Eclogae Geologica Helvetica 90 (3), 531–540.
+                                                                                Allen, J.R.L., 1982. Sedimentary Structures. Their Character and Physical Basis. Elsevier,
+lower apparent recurrence period was to be expected for the Sierra                   New York (663 pp.).
+del Pobo fault. This discrepancy can be likely attributed to a lower efﬁ-       Alonso-Zarza, A.M., Calvo, J.P., 2000. Palustrine sedimentation in an episodically subsiding
+ciency of alluvial–aeolian environments for seismite development                     basin: the Miocene of the northern Teruel Graben (Spain). Palaeogeography
+                                                                                     Palaeoclimatology Palaeoecology 160, 1–21.
+when compared with lacustrine ones.                                             Álvaro, M., Capote, R., Vegas, R., 1979. Un modelo de evolución geotectónica para la
+                                                                                     Cadena Celtibérica. Acta Geologica Hispánica 14, 172–177.
+6. Conclusions                                                                  Ambraseys, N.N., 1988. Engineering seismology. Earthquake Engineering and Structural
+                                                                                     Dynamics 17, 1–105.
+                                                                                Anketell, J.M., Cegla, J., Dzulynski, S., 1970. On the deformational structures in systems
+    Two exceptional exposures have been investigated in a Pliocene                   with reversed density gradients. Rocznik Polskiego Towarzystwa Geologicznego 41,
+duneﬁeld in order to recognize seismically deformed beds and their re-               3–30.
+                                                                                Arlegui, L.E., Simón, J.L., Lisle, R.J., Orife, T., 2005. Late Pliocene–Pleistocene stress ﬁeld in
+lationships with alluvial and aeolian sedimentary facies. Both outcrops
+                                                                                     the Teruel and Jiloca grabens (eastern Spain): contribution of a new method of stress
+correspond to quarry walls (North Quarry and South Quarry) located                   inversion. Journal of Structural Geology 27, 693–705.
+south of Escorihuela, at the northern part of the Teruel half-graben            Arlegui, L.E., Simón, J.L., Lisle, R.J., Orife, T., 2006. Analysis of non-striated faults in a recent
+(eastern Iberian Chain). Besides a number of isolated soft-sediment de-              extensional setting: the Plio–Pleistocene Concud fault (Jiloca graben, eastern Spain).
+                                                                                     Journal of Structural Geology 28, 1019–1027.
+formation structures, six levels with abundant SSDS were recognized in          Atkinson, G., 1984. Simple computation of liquefaction probability for seismic hazard
+South Quarry and one level in North Quarry.                                          applications. Earthquake Spectra 1, 107–123.
+    In addition to animal tracks, described previously in the studied suc-      Audemard, F.A., De Santis, F., 2001. Survey of liquefaction structures induced by recent
+                                                                                     moderate earthquakes. Bulletin of the International Association of Engineering
+cession, load structures are the most common SSDS. They are developed                Geology 44, 5–16.
+in beds made of two or more layers with a reversed density gradient. Ac-        Bhiry, N., Occhietti, S., 2004. Fluvial sedimentation in a semi-arid region: the fan and
+cording to the morphology of the interface between deformed layers,                  interfan system of the Middle Souss Valley, Morocco. Proceedings of the Geologists'
+                                                                                     Association 115, 313–324.
+sagging load casts, drop structures casts, and pillows were identiﬁed.          Blair, T.C., 1999. Sedimentary processes and facies of the waterlaid Anvil Spring Canyon
+    The distribution of deformed beds in the stratigraphic succession is             alluvial fan, Death Valley, California. Sedimentology 46, 913–940.
+irregular, showing a strong relationship with sedimentary facies, espe-         Bryant, G., Monegato, G., Miall, A., 2013. An example of liquefaction-induced interdune
+                                                                                     sedimentation from the early Jurassic Navajo Sandstone, USA. Sedimentary Geology
+cially with water-related facies. Aeolian sands show a lower number
+                                                                                     297, 50–62.
+of deformation structures, these being mainly developed in wet                  Capote, R., Muñoz, J.A., Simón, J.L., Liesa, C.L., Arlegui, L.E., 2002. Alpine Tectonics I: the
+interdune facies and, locally, aeolian sandsheets. Alternation of sand               Alpine System north of the Betic Cordillera. In: Gibbons, W., Moreno, T. (Eds.), The
+                                                                                     Geology of Spain. The Geological Society, London, pp. 368–400.
+and silt and their relative thickness control the development and size
+                                                                                Carrillo, L., Gisbert, J., 1979. Análisis sedimentológico de unos depósitos tipo ‘wadi’ en el
+of deformation structures. In the alluvial system, deformed beds are re-             Plio-Cuaternario de Escorihuela (Teruel). Boletín Geológico Y Minero IV, pp. 329–332.
+lated to sheet ﬂood deposits. Lateral changes in facies strongly control        Castilla, R.A., Audemard, F.A., 2007. Sand blows as a potential tool for magnitude
+the areal distribution and geometry of seismites. In summary, develop-               estimation of pre-instrumental earthquakes. Journal of Seismology 11, 473–487.
+                                                                                Chamyal, L.S., Khadkikar, A.S., Malik, J.N., Maurya, D.M., 1997. Sedimentology of the
+ment and distribution of seismites are controlled by the lateral and ver-            Narmada alluvial fan, western India. Sedimentary Geology 107, 263–279.
+tical distribution of favorable sedimentary facies, which is ultimately         Clemmensen, L.C., Abrahamsen, K., 1983. Aeolian stratiﬁcation and facies association in
+deﬁned by the own dynamics of the sedimentary system and its time                    desert sediments, Arran basin (Permian), Scotland. Sedimentology 30, 311–339.
+                                                                                Collinson, J.D., 1996. Alluvial sediments. In: Reading, H.G. (Ed.), Sedimentary Environ-
+evolution.                                                                           ments. Blackwell Science, pp. 37–82.
+    The deformed beds are interpreted as a result of earthquakes with a         Deynoux, M., Kocurek, G., Proust, J.N., 1989. Late Proterozoic periglacial aeolian deposits
+magnitude between 5.0 and 6.8. The existence of drop and pillow struc-               on the West African Platform, Taoudeni Basin, western Mali. Sedimentology 36,
+                                                                                     531–549.
+tures in some deformed beds suggests that the actual magnitude could            Enos, P., 1977. Flow regimes in debris ﬂow. Sedimentology 24, 133–142.
+be closer to upper value. Palaeoearthquakes are probably related to the         Ezquerro, L., Lafuente, P., Pesquero, M.D., Alcalá, L., Arlegui, L.E., Liesa, C.L., Luque, L.,
+activity of the near (2 km) Sierra del Pobo normal fault zone. The                   Rodríguez-Pascua, M.A., Simón, J.L., 2012. Una cubeta endorreica residual Plio-
+                                                                                     Pleistocena en la zona de relevo entre las fallas de Concud y Teruel: implicaciones
+succession of six deformed levels has allowed us to infer an apparent                paleogeográﬁcas. Revista de la Sociedad Geológica de España 25, 157–175.
+recurrence period of 33–50 ka for the characteristic palaeoearthquake           Ezquerro, L., Luzón, A., Navarro, M., Liesa, C.L., Simón, J.L., 2014. Climatic vs. tectonic
+of this fault during the 2.9–2.6 Ma interval, similar to other active faults         signals in a continental extensional basin (Teruel, NE Spain) from stable isotope
+                                                                                     (δ18O) and sequence stratigraphical evolution. Terra Nova 26, 337–346.
+in central-eastern Iberia.
+                                                                                Ezquerro, L., Moretti, M., Liesa, C.L., Luzón, A., Pueyo, E.L., Simón, J.L., 2016. Controls on
+                                                                                     space–time distribution of soft-sediment deformation structures: applying
+Acknowledgments                                                                      palaeomagnetic dating to approach the apparent recurrence period of paleoseisms at
+                                                                                     the Concud Fault (eastern Spain). Sedimentary Geology.
+                                                                                Ezquerro, L., Moretti, M., Liesa, C.L., Luzón, A., Simón, J.L., 2015. Seismites from a well core
+   The authors are grateful to Dr. Massimo Moretti and Dr. Carlos                    of palustrine deposits as a tool for reconstructing the palaeoseismic history of a fault.
+Oliveira for detailed reviews and useful comments and suggestions.                   Tectonophysics 655, 191–205.
+Fryberger, S.G., Schenk, C.J., 1988. Pin stripe lamination: a distinctive feature of modern         Mountney, N.P., 2006a. Eolian facies models. In: Walker, R.G., Posamentier, H. (Eds.),
+     and ancient eolian sediments. Sedimentary Geology 55, 1–15.                                        Facies Models Revisited. SEPM Mem Vol. 84, pp. 19–83.
+Fryberger, S.G., Al-Sari, A.M., Clisham, T.J., 1983. Eolian dune, interdune, sandsheet, and         Mountney, N.P., 2006b. Periodic accumulation and destruction of aeolian erg sequences in
+     siliciclastic sabkha sediments of an offshore prograding sand sea, Dhahran Area,                   the Permian Cedar Mesa Sandstone, White Canyon, southern Utah, USA. Sedimentol-
+     Saudi Arabia. American Association of Petroleum Geologists Bulletin 67, 280–312.                   ogy 53, 789–823.
+Fryberger, S.G., Hesp, P., Hastings, K., 1992. Aeolian granule ripple deposits, Namibia.            Mountney, N.P., Howell, J., 2000. Aeolian architecture, bedform climbing and preservation
+     Sedimentology 39, 319–331.                                                                         space in the Cretaceous Etjo Formation, NW Namibia. Sedimentology 47, 825–849.
+Galli, P., 2000. New empirical relationships between magnitude and distance for                     Mountney, N.P., Thompson, D.B., 2002. Stratigraphic evolution and preservation of aeolian
+     liquefaction. Tectonophysics 324, 169–187.                                                         dune and damp/wet interdune strata: an example from the Triassic Helsby sandstone
+Garcés, M., Krijgsman, W., van Dam, J., Calvo, J.P., Alcalá, L., Alonso, A.M., 1999. Late               formation, Cheshire Basin, UK. Sedimentology 49, 805–833.
+     Miocene alluvial sediments from the Teruel area: magnetostratigraphy, magnetic                 Nemec, W., Steel, R.J., 1984. Alluvial and coastal conglomerates: their signiﬁcant features
+     susceptivity, and facies organisation. Acta Geologica Hispánica 32, 171–184.                       and some comments on gravelly mass-ﬂow deposits. In: Koster, E.H., Steel, R.J. (Eds.),
+Gibert, L., Alfaro, P., García-Tortosa, F.J., Scott, G., 2011. Superposed deformed beds pro-            Sedimentology of Gravels and Conglomerates. Can. Soc. Petrol. Geol. Memoir Vol. 10,
+     duced by single earthquakes (Tecopa Basin, California): insights into                              pp. 1–31.
+     paleoseismology. Sedimentary Geology 235, 148–159.                                             Obermeier, S., 1996. Use of liquefaction-induced features for paleoseismic analysis. An
+Godoy, A., Moissenet, E., Ramírez, J.I., Olivé, A., Aznar, J.M., Jerez Mir, L., Aragonés, E.,           overview of how seismic liquefaction features can be distinguished from other fea-
+     Aguilar, M.J., RamírezdelPozo, J., Leal, M.C., Adrover, R., Alberdi, M.T., Giner, J.,              tures and how their regional distribution and properties of source sediment can be
+     GutiérrezElorza, M., Portero, J.M., Gabaldón, V., 1983. Mapa Geológico de España 1:                used to infer the location and strength of Holocene paleo-earthquakes. Engineering
+     50.000, hoja n° 542 (Alfambra). IGME, Madrid.                                                      Geology 44, 1–76.
+Gradziński, R., Jerzykiewicz, T., 1974. Dinosaur- and mammal-bearing aeolian and associ-            Obermeier, S.F., Jacobson, R.B., Smoot, J.P., Weems, R.E., Gohn, G.S., Monroe, J.E., Powars,
+     ated deposits of the Upper Cretaceous in the Gobi Desert (Mongolia). Sedimentary                   D.S., 1990. Earthquake-induced liquefaction features in the coastal setting of South
+     Geology 12, 249–278.                                                                               Carolina and in the ﬂuvial setting of the New Madrid Seismic Zone. United States
+Gutiérrez, F., Gutiérrez, M., Gracia, F.J., McCalpin, J.P., Lucha, P., Guerrero, J., 2008. Plio-        Geological Survey Professional Paper 1504 (44 pp.).
+     quaternary extensional seismotectonics and drainage network development in the                 Oliveira, C.M.M., Hodgson, D.M., Flint, S.S., 2009. Aseismic controls on in situ soft-sediment
+     central sector of the Iberian Range (NE Spain). Geomorphology 102, 21–42.                          deformation processes and products in submarine slope deposits of the Karoo Basin,
+Gutiérrez, F., Lucha, P., Guerrero, J., Carbonel, D., Galve, J.P., 2012. A review on Quaternary         South Africa. Sedimentology 56, 1205–1225.
+     tectonic and nontectonic faults in the central sector of the Iberian Chain, NE Spain.          Opdyke, N., Mein, P., Lindsay, E., Pérez-González, A., Moissenet, E., Norton, V.L., 1997. Con-
+     Journal of Iberian Geology 38, 145–160.                                                            tinental deposits, magnetostratigraphy and vertebrate paleontology, late Neogene of
+Gutiérrez, M., Peña, J.L., 1976. Glacis y terrazas en el curso medio del río Alfambra                   eastern Spain. Palaeogeography, Palaeoclimatology, Palaeoecology 133, 129–148.
+     (provincia de Teruel). Boletín Geológico y Minero 87, 561–570.                                 Owen, G., 1987. Deformation processes in unconsolidated sands. In: Jones, M.E., Preston,
+Hilbert-Wolf, H.L., Simpson, E.L., Simpson, W.S., Tindall, S.E., Wizevich, M.C., 2009. Insights         R.M.F. (Eds.), Deformation of Sediments and Sedimentary Rocks. Geological Society,
+     into syndepositional fault movement in a foreland basin; trends in seismites of upper              London, Special Publications Vol. 29, pp. 11–24.
+     cretaceous Wahweap Formation, Kaiparowits Basin, Utah, USA. Basin Research 21,                 Owen, G., 2003. Load structures: gravity driven sediment mobilization in the shallow sub-
+     856–871.                                                                                           surface. In: Rensebergen, P.V., Hillis, R.R., Maltman, A.J., Morley, C.K. (Eds.), Subsurface
+Horowitz, D.H., 1982. Geometry and origin of large-scale deformation structures in some                 Sediment Mobilization. Geological Society of London, Special Publication Vol. 216,
+     ancient wind-blown sand deposits. Sedimentology 29 (2), 155–180.                                   pp. 21–34.
+Hunter, R.E., 1977. Basic types of stratiﬁcation in small eolian dunes. Sedimentology 24,           Owen, G., Moretti, M., 2008. Determining the origin of soft-sediment deformation struc-
+     361–387.                                                                                           tures: a case study from Upper Carboniferous delta deposits in south-west Wales,
+IGME, 2012. QAFI: Quaternary Active Faults Database of Iberia. Accessed "DATE", from                    UK. Terra Nova 20, 237–245.
+     IGME web site: http://www.igme.es/infoigme/aplicaciones/QAFI/.                                 Owen, G., Moretti, M., 2011. Identifying triggers for liquefaction-induced soft-sediment
+Jo, H.R., Rhee, C.W., Chough, S.K., 1997. Distinctive characteristics of a streamﬂow-                   deformation in sands. Sedimentary Geology 235, 141–147.
+     dominated alluvial fan deposit: Sanghori area, Kyongsang Basin (Early Cretaceous),             Owen, G., Moretti, M., Alfaro, P., 2011. Recognising triggers for soft-sediment deforma-
+     southeastern Korea. Sedimentary Geology 110, 51–59.                                                tion: current understanding and future directions. Sedimentary Geology 235,
+Kocurek, G., 1986. Origins of low-angle stratiﬁcation in aeolian deposits. In: Nickling, W.G.           133–140.
+     (Ed.), Aeolian Geomorphology. Proceedings of the 17th Annual Binghamton Sympo-                 Papathanassiou, G., Pavlides, S., Christaras, B., Pitilakis, K., 2005. Liquefaction case histories
+     sium. Allen & Unwin, pp. 177–193.                                                                  and empirical relations of earthquake magnitude versus distance from the broader
+Kocurek, G., 1996. Desert Aeolian Systems. In: Reading, H.G. (Ed.), Sedimentary Environ-                Aegean region. Journal of Geodynamics 40, 257–278.
+     ments: Processes, Facies and Stratigraphy, third ed. Blackwell Science, Oxford,                Pavlides, S., Caputo, R., 2004. Magnitude versus faults' surface parameters: quantitative
+     pp. 125–153.                                                                                       relationships from the Aegean region. Tectonophysics 380, 159–188.
+Kocurek, G., Fielder, G., 1982. Adhesion structures. Journal of Sedimentary Research 52,            Peña, J.L., Gutiérrez, M., Ibáñez, M.J., Lozano, M.V., Rodríguez, J., Sánchez, M., Simón, J.L.,
+     1229–1241.                                                                                         Soriano, M.A., Yetano, L.M., 1984. Geomorfología de la Provincia de Teruel. Instituto
+Lafuente, P., Arlegui, L.E., Liesa, C., Simón, J.L., 2011. Paleoseismological analysis of an            de Estudios Turolenses, Teruel (149 p.).
+     intraplate extensional structure: the Concud fault (Iberian Chain, eastern Spain).             Ramos, A., Sopeña, A., 1983. Gravel bars in low sinuosity streams (Permian and Triassic,
+     International Journal of Earth Sciences 100 (7), 1713–1732.                                        Central Spain). In: Collinson, J.D., Lewin, J. (Eds.), Modern and Ancient Fluvial Sys-
+Lafuente, P., Arlegui, L.E., Liesa, C.L., Pueyo Anchuela, Ó., Simón, J.L., 2014. Spatial and tem-       tems. IAS Spec. Publ. Vol. 6, pp. 301–312.
+     poral variation of palaeoseismic activity at an intraplate, historically quiescent struc-      Roca, E., Guimerà, J., 1992. The Neogene structure of the eastern Iberian margin: structural
+     ture: the Concud fault (Iberian Chain, Spain). Tectonophysics 632, 167–187.                        constraints on the crustal evolution of the Valencia trough (western Mediterranean).
+Lafuente, P., Rodríguez-Pascua, M.A., Simón, J.L., Arlegui, L.E., Liesa, C.L., 2008. Sismitas en        Tectonophysics 203, 203–218.
+     depósitos pliocenos y pleistocenos de la fosa de Teruel. Revista de la Sociedad                Rodríguez-López, J.P., Clemmensen, L.B., Lancaster, N., Mountey, N., Veiga, G., 2014. Arche-
+     Geológica de España 21 (3–4), 133–149.                                                             an to recent aeolian sand systems and their sedimentary record: current understand-
+Liesa, C.L., 2000. Fracturación Y Campos De Esfuerzos Compresivos Alpinos en la Cordille-               ing and future prospects. Sedimentology 61, 1487–1534.
+     ra Ibérica Y El NE Peninsular Ph.D. Thesis University of Zaragoza (760 pp.).                   Rodríguez-López, J.P., Liesa, C.L., Van Dam, J., Lafuente, P., Arlegui, L., Ezquerro, L., De Boer,
+Liesa, C.L., 2011. Fracturación extensional cretácica en la sierra del Pobo (Cordillera                 P.L., 2012a. Aeolian construction and alluvial dismantling of a fault-bounded
+     Ibérica, España). Revista de la Sociedad Geológica de España 24, 31–48.                            intracontinental aeolian dune ﬁeld (Teruel Basin, Spain): a continental perspective
+Liesa, C.L., Simón, J.L., 2009. Evolution of intraplate stress ﬁelds under multiple remote              on Late Pliocene climate change and variability. Sedimentology 59, 1536–1567.
+     compressions: the case of the Iberian Chain (NE Spain). Tectonophysics 474,                    Rodríguez-López, J.P., Melendez, N., de Boer, P.L., Soria, A.R., 2008. Aeolian sand sea devel-
+     144–159.                                                                                           opment along the mid-Cretaceous western Tethyan margin (Spain): erg sedimentol-
+Lowe, D.R., 1975. Water escape structures in coarse-grained sediments. Sedimentology                    ogy and palaeoclimate implications. Sedimentology 55, 1253–1292.
+     22, 157–204.                                                                                   Rodríguez-López, J.P., Meléndez, N., de Boer, P.L., Soria, A.R., 2010. The action of wind and
+Maxwell, T.A., Haynes Jr., C.V., 2001. Sand sheet dynamics and Quaternary landscape evo-                water in a back erg margin system close to the Variscan Iberian Massif. Sedimentol-
+     lution of the Selima Sand Sheet, southern Egypt. Quaternary Science Reviews 20,                    ogy 57, 1315–1356.
+     1623–1647.                                                                                     Rodríguez-López, J.P., Meléndez, N., de Boer, P.L., Soria, A.R., 2012b. Controls on marine-
+Moissenet, E., 1983. Aspectos de la neotectónica en la Fosa de Teruel. In: Comba, J.A., Ríos,           erg margin cycle variability: aeolian-marine interaction in the mid-Cretaceous Iberi-
+     J.M. (Eds.), Geología de España, Libro Jubilar vol. II. IGME, Madrid, pp. 427–446.                 an Desert System, Spain. Sedimentology 59, 466–501.
+Moissenet, E., 1989. Les fosses néogenes de la Chaîne ibérique: leur evolution dans le              Rodríguez-López, J.P., Meléndez, N., Soria, A.R., Liesa, C.L., Van Loon, A.J., 2007. Lateral var-
+     temps. Bulletin de la Societe Geologique de France (Séries 8) 5, 919–926.                          iability of ancient seismites related to differences in sedimentary facies (the syn-rift
+Moretti, M., 2000. Soft-sediment deformation structures interpreted as seismites in                     Escucha Formation, mid-Cretaceous, Spain). Sedimentary Geology 201, 461–484.
+     Middle–Late Pleistocene aeolian deposits (Apulian foreland, southern Italy).                   Rodríguez-Pascua, M.A., Calvo, J.P., De Vicente, G., Gómez-Gras, D., 2000. Soft-sediment
+     Sedimentary Geology 135, 167–179.                                                                  deformation structures interpreted as seismites in lacustrine sediments of the
+Moretti, M., Van Loon, A.J., 2014. Restrictions to the application of ‘diagnostic’ criteria for         Prebetic Zone, SE Spain, and their potential use as indicators of earthquake
+     recognizing ancient seismites. Journal of Palaeogeography 3, 162–173.                              magnitudes during the Late Miocene. Sedimentary Geology 135, 117–135.
+Moretti, M., Alfaro, P., Caselles, O., Canas, J.A., 1999. Modelling seismites with a digital        Rubio, J.C., Simón, J.L., 2007. Tectonic subsidence vs. erosional lowering in a controversial
+     shaking table. Tectonophysics 304, 369–383.                                                        intramontane depression: the Jiloca basin (Iberian Chain, Spain). Geological
+Moretti, M., Soria, J.M., Alfaro, P., Walsh, N., 2001. Asymmetrical soft-sediment deforma-              Magazine 144, 1–15.
+     tion structures triggered by rapid sedimentation in turbiditic deposits (Late Miocene,         Scherer, C.M.S., 2000. Eolian dunes of the Botucatu Formation (Cretaceous) in southern-
+     Guadix Basin, Southern Spain). Facies 44, 283–294.                                                 most Brazil: morphology and origin. Sedimentary Geology 137, 63–84.
+Seilacher, A., 1969. Fault-graded beds interpreted as seismites. Sedimentology 13,              Turner, P., 1980. Continental red beds. Developments in Sedimentology 29. Elsevier,
+     15–159.                                                                                        Oxford (562 pp.).
+Simón, J.L., 1982. Compresión y distensión alpinas en la Cadena Ibérica Oriental Ph.D. The-     van Dam, J.A., 1997. The Small Mammals from the Upper Miocene of the Teruel–Alfambra
+     sis Universidad de Zaragoza. Publ. Instituto de Estudios Turolenses, Teruel (1984)             Region (Spain): Paleobiology and Paleoclimatic Reconstructions Ph.D. Thesis
+     (269 pp.).                                                                                     University of Utrecht (204 pp.).
+Simón, J.L., 1989. Late Cenozoic stress ﬁeld and fracturing in the Iberian Chain and Ebro       van Dam, J.A., Abdul Aziz, H., Álvarez Sierra, M.A., Hilgen, F.J., van den Hoek Ostende, L.W.,
+     Basin (Spain). Journal of Structural Geology 11, 285–294.                                      Lourens, L.J., Mein, P., van der Meulen, A.J., Pelaez-Campomanes, P., 2006. Long-
+Simón, J.L., Arlegui, L.E., Lafuente, P., Liesa, C.L., 2012. Active extensional faults in the       period astronomical forcing of mamal turnover. Nature 443, 687–691.
+     central-eastern Iberian Chain, Spain. Journal of Iberian Geology 38, 127–144.              van Dam, J.A., Alcalá, L., Alonso-Zaraza, A., Calvo, J.P., Garcés, M., Krijgsman, W., 2001. The
+Sims, J.D., 1975. Determining earthquake recurrence intervals from deformational struc-             upper Miocene mammal record from the Teruel–Alfambra region (Spain). The MN
+     tures in young lacustrine sediments. Tectonophysics 29, 141–152.                               system and continental stage/age concepts discussed. Journal of Vertebrate Paleon-
+Sims, J.D., Garvin, C.D., 1995. Recurrent liquefaction induced by the 1989 Loma Prieta              tology 21, 367–385.
+     earthquake and 1990 and 1991 aftershocks. Implications for paleoseismicity studies.        van de Weerd, A., 1976. Rodent faunas of the Mio-Pliocene continental sediments of the
+     Seismological Society of America Bulletin 85, 51–65.                                           Teruel–Alfambra region, Spain. Utrecht Micropaleontol. Bulletin, Special Publication 2
+Sohn, Y.K., 2000. Coarse-grained debris-ﬂow deposits in the Miocene fan deltas, SE Korea:           (217 pp.).
+     a scaling analysis. Sedimentary Geology 130, 45–64.                                        Vegas, R., Fontboté, J.M., Banda, E., 1979. Widespread neogene rifting superimposed on
+Stanistreet, I.G., Stollhofen, H., 2002. Hoanib River ﬂood deposits of Namib Desert                 alpine regions of the Iberian Peninsula. Proceedings symposium evolution and
+     interdunes as analogues for thin permeability barrier mudstone layers in aeolianite            tectonics of the western Mediterranean and surrounding areas, EGS, Viena. Instituto
+     reservoirs. Sedimentology 49, 719–736.                                                         Geográﬁco Nacional, Madrid, Special Publication 201, 109–128.
+Stirling, M., Rhoades, D., Berryman, K., 2002. Comparison of earthquake scaling relations       Wells, D.L., Coppersmith, K.J., 1994. New empirical relationships among magnitude,
+     derived from data of the instrumental and preinstrumental era. Bulletin of the                 rupture length, rupture width, rupture area, and surface displacement. Bulletin of
+     Seismological Society of America 92, 812–830.                                                  the Seismological Society of America 84, 974–1002.
+Thakkar, M.G., Goyal, B., 2004. On the relation between magnitude and liquefaction di-
+     mension at the epicentral zone of 2001 Bhuj earthquake. Current Science 87 (6),
+     811–817.
+

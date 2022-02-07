@@ -1,0 +1,1183 @@
+                                        TECTONICS, VOL. 28, TC6002, doi:10.1029/2009TC002447, 2009
+
+
+
+
+Interactions between continental breakup dynamics and large-scale
+delta system evolution: Insights from the Cretaceous Ceduna
+delta system, Bight Basin, Southern Australian margin
+Nicolas Espurt,1,2 Jean-Paul Callot,1 Jennifer Totterdell,3 Heike Struckmeyer,3
+and Roland Vially1
+Received 17 January 2009; revised 8 July 2009; accepted 20 August 2009; published 20 November 2009.
+[1] The interpretation of two regional seismic                            lower plate. Citation: Espurt, N., J.-P. Callot, J. Totterdell,
+reflection profiles and the construction of a balanced                    H. Struckmeyer, and R. Vially (2009), Interactions between
+cross section through the southern Australian margin                      continental breakup dynamics and large-scale delta system
+(Bight Basin) are designed to analyze the influence of                    evolution: Insights from the Cretaceous Ceduna delta system,
+the Australia-Antarctica continental breakup process on                   Bight Basin, Southern Australian margin, Tectonics, 28,
+the kinematic evolution of the Cretaceous Ceduna delta                    TC6002, doi:10.1029/2009TC002447.
+system. The data show that the structural architecture of
+this delta system consists of two stacked delta systems.                  1. Introduction
+The lower White Pointer delta system (Late Albian-
+Santonian) is an unstable tectonic wedge, regionally                         [2] Two main extensional models have been proposed to
+detached seaward above Late Albian ductile shales.                        explain the processes leading up to and controlling the
+                                                                          development of rifted continental margins.
+Sequential restoration suggests that the overall
+                                                                             [3] 1. The symmetric extensional model shows similar
+gravitational sliding behavior of the White Pointer                       structural evolution on both margins [McKenzie, 1978; Le
+delta wedge (45 km of seaward extension, i.e., 27%)                     Pichon and Sibuet, 1981; Brun and Beslier, 1996; Nagel
+is partially balanced by the tectonic denudation of the                   and Buck, 2004]. It is characterized by a symmetric necking
+subcontinental mantle. We are able to estimate the                        of the whole lithosphere (pure shear mechanism on the
+horizontal stretching rate of the mantle exhumation                       lithosphere scale) accommodated by upper crustal high-
+between 2 and 5 km Ma1. The associated uplift of                        angle fault system, and shear zones with a top-to-the-ocean
+the distal part of the margin and associated flexural                     sense of motion on both sides of the rift at depth. Such an
+subsidence in the proximal part of the basin are partially                evolution eventually leads to the exhumation of the sub-
+responsible for the decrease of the gravitational sliding                 continental mantle [Brun and Beslier, 1996].
+of the White Pointer delta system. Lithospheric failure                      [4] 2. The asymmetric extensional model is associated
+                                                                          with a low-angle detachment fault (simple shear mechanism)
+occurs at 84 Ma through the rapid exhumation of the
+                                                                          which cuts through the crust and lithospheric mantle [e.g.,
+mantle. The upper Hammerhead delta system (Late                           Wernicke, 1985; Lister et al., 1986, 1991; Huismans and
+Santonian-Maastrichtian) forms a stable tectonic wedge                    Beaumont, 2002]. This low-angle fault accommodates tens of
+developed during initial, slow seafloor spreading and                     kilometers of horizontal displacement, inducing asymmetri-
+sag basin evolution of the Australian side margin.                        cal geometries with distinct footwall and hanging wall
+Lateral variation of basin slope (related to the                          characteristics, and eventually leads to the exhumation of
+geometry of the underlying White Pointer delta                            the subcontinental mantle [e.g., Froitzheim and Manatschal,
+wedge) is associated with distal raft tectonic structures                 1996; Boillot and Froitzheim, 2001; Manatschal et al.,
+sustained by high sedimentation rates. Finally, we                        2007]. Low-angle detachment faults have been widely
+propose a conceptual low-angle detachment fault model                     described in several modern passive margins (e.g., Galicia-
+for the evolution of the Australian-Antarctic conjugate                   Iberia [Boillot et al., 1980, 1985, 1987; Manatschal and
+margins, in which the Antarctic margin corresponds                        Bernoulli, 1999; Boillot and Froitzheim, 2001; Abe, 2001;
+                                                                          Whitmarsh et al., 2001; Péron-Pinvidic et al., 2007; Sibuet
+to the upper plate and the Australian margin to the                       et al., 2007], Morocco [Maillard et al., 2006], Red Sea
+                                                                          [Voggenreiter et al., 1988]), or inverted margins (e.g., Alps
+                                                                          [Stampfli and Marthaler, 1990; Froitzheim and Manatschal,
+   1
+     Institut Français du Pétrole, Rueil-Malmaison, France.             1996; Manatschal et al., 2001, 2003, 2006, 2007], Oman
+   2
+     Now at CEREGE, UMR 6635, Aix-Marseille Université, Europôle de     [Pillevuit et al., 1997], Pyrenees [Duée et al., 1984;
+l’Arbois, Aix-en-Provence, France.                                        Lagabrielle and Bondinier, 2008]).
+   3
+     Petroleum and Marine Division, Geoscience Australia, Canberra ACT,
+Australia.                                                                   [5] The rifting and structural exhumation of subconti-
+                                                                          nental mantle precede the continental breakup and the
+Copyright 2009 by the American Geophysical Union.                         onset of the oceanic seafloor spreading [Manatschal and
+0278-7407/09/2009TC002447                                                 Bernoulli, 1999; Taylor et al., 1999]. The timing and
+
+                                                                   TC6002                                                        1 of 26
+TC6002                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                         TC6002
+
+location of continental breakup is relatively well recorded        by subsurface data and large-scale observations, the Ceduna
+in the sedimentary sequence by changes in both tectonic            delta system is formed by two massive, stacked, and inde-
+and thermal subsidence rates, and a related ‘‘breakup              pendent in terms of tectonics, prograding deltaic systems:
+unconformity’’ [Falvey, 1974; Boillot et al., 1995; Driscoll       (1) the Late Albian-Santonian White Pointer delta system,
+et al., 1995; Péron-Pinvidic et al., 2007].                       and (2) the Late Santonian-Maastrichtian Hammerhead delta
+  [6] Large-scale delta systems are widely distributed on          system [Totterdell et al., 2000; Totterdell and Krassay, 2003].
+modern continental passive margins, for example, the Niger         The atypical structural architecture of the Ceduna delta
+Delta [Cohen and McClay, 1996; Doust and Omatsola, 1989;           system suggests strong controls from tectonic processes
+Briggs et al., 2009], the Nile Delta [Sestini, 1989; Mascle et     related to continental breakup.
+al., 2001], the Baram Delta [Van Rensbergen et al., 1999;             [8] This paper aims to examine the structural architecture
+Schreurs, 1997; Koopman et al., 1996; James, 1984], the            and evolution, as well as the mechanism of deformation of
+Mississippi Delta [Lopez, 1990; Worrall and Snelson, 1989;         the Ceduna delta system from two regional seismic reflec-
+Winker and Edwards, 1983; Buffler et al., 1978], the Angolan       tion profiles. A structural balanced cross section was built
+margin [Anderson et al., 2000; Cramez and Jackson, 2000;           and sequentially restored to analyze, both geometrically and
+Marton et al., 2000], the Orange Delta [Muntingh and Brown,        quantitatively, the kinematic scenario, in order to understand
+1993] and the Amazon Fan [Cobbold et al., 2004]. They are          how the Ceduna delta system evolved during the continental
+of particular interest to the petroleum exploration industry,      breakup between Australia and Antarctica. This modeling,
+due to the frequent juxtaposition of hydrocarbon source rocks      coupled with the application of structural section restoration
+with reservoir and seal rocks, and the abundance of available      techniques at a margin scale, have been used to propose a
+traps. The overall geometry and kinematics of large-scale          low-angle detachment model for the tectonic development
+delta systems mimic classical models of critical taper wedges      of the southern Australian-Antarctic conjugate margin.
+[e.g., Davis et al., 1983; Dahlen et al., 1984; Boyer, 1995;
+Bilotti and Shaw, 2005]. The first-order geometry of these
+models is function of the internal strength of the wedge of
+                                                                   2. Geological Background
+deforming material and the strength of the basal décollement      2.1. Regional Setting
+on which the wedge slides. The structural architecture of
+                                                                      [9] The Bight Basin (Figure 1) is a large E – W to NW –
+the delta wedges comprises thin-skinned structures, with
+                                                                   SE trending, mainly offshore basin that extends about
+regional and counterregional extensional growth faults in
+                                                                   2100 km along the southern Australian margin (B. E.
+the upper part of the delta, and deep-water compressional
+                                                                   Bradshaw et al., A revised structural framework for frontier
+structures at the delta toe [Blickwede and Queffelec, 1988; Wu
+                                                                   basins on the southern and southwestern Australian conti-
+et al., 1990; Morley and Guerin, 1996; Cohen and Hardy,
+                                                                   nental margin, Geoscience Australia Record 2003/03, un-
+1996; McClay et al., 2003]. The geometry of these seaward
+                                                                   published report, 2003). It consists of a number of
+progradational wedges is mainly controlled by large-scale
+                                                                   Mesozoic to Cenozoic depocenters that developed during
+interactions between tectonics and sedimentation, in partic-
+                                                                   a period of rifting, continental breakup and passive margin
+ular the effects of differential sediment loading [Blickwede
+                                                                   evolution [Fraser and Tilbury, 1979; Bein and Taylor,
+and Queffelec, 1988; Wu et al., 1990; Morley and Guerin,
+                                                                   1981; Willcox and Stagg, 1990; Stagg et al., 1990; Hill,
+1996], the dip of the basal décollement level [Mauduit et al.,
+                                                                   1995; Totterdell et al., 2000; Norvick and Smith, 2001;
+1997], and basal pore fluid pressures [Davis et al., 1983;
+                                                                   Totterdell and Bradshaw, 2004; Direen et al., 2007]. In the
+Dahlen et al., 1984; Bilotti and Shaw, 2005]. Generally, the
+                                                                   central Great Australian Bight, the Bight Basin consists of
+basal décollement corresponds to incompetent levels related
+                                                                   the Eyre, Duntroon, Ceduna, and Recherche subbasins
+to overpressured shale or evaporite layers, which enhance the
+                                                                   (Figure 1). The Eyre and Duntroon subbasins are perched
+basinward propagation of deformation and growth of the
+                                                                   rift basins located in water depths of 100 to 2800 m and
+wedge [e.g., Cramez and Jackson, 2000; Marton et al., 2000;
+                                                                   consist of Middle Jurassic-Early Cretaceous half graben
+McClay et al., 2003]. Although the geometry and kinematics
+                                                                   overlain by comparatively thin sag phase sediments. The
+evolution of the large-scale delta systems are now well
+                                                                   west to northwest trending Ceduna subbasin is the major
+understood in context of stable margin, it is quite unknown
+                                                                   depocenter of the Bight Basin and contains a Late Jurassic
+in context of continental breakup. The precise knowledge of
+                                                                   to Cenozoic succession up to 15 km thick. The subbasin
+the structural architecture of a divergent continental margin is
+                                                                   forms a large deltaic lobe over an area of approximately
+important for defining the parameters controlling the geolog-
+                                                                   90,000 km2 and lies in water depths of less than 200 m to
+ical evolution of sedimentary basins in order to propose an
+                                                                   over 4000 m (Figure 1). The Recherche subbasin is a deep-
+extensional model of the lithosphere.
+                                                                   water (>3000 m) basin adjacent to the Eyre and Ceduna
+  [7] The Late Cretaceous Ceduna subbasin (Figure 1),
+                                                                   subbasins. It contains a Late Jurassic to Cenozoic sedimen-
+located in the eastern Bight Basin of the southern Australian
+                                                                   tary section in excess of 4000 m in thickness.
+margin, is an ideal region for the study of these topics because
+                                                                      [10] The timing of extension between the Australian and
+the evolution of the Cretaceous Ceduna delta system is
+                                                                   Antarctic plates is well constrained (Figure 2) [Norvick and
+synchronous with the continental breakup of Australia and
+                                                                   Smith, 2001; Totterdell and Bradshaw, 2004]. In relation to
+Antarctica [Fraser and Tilbury, 1979; Bein and Taylor, 1981;
+                                                                   tectonic events affecting the southern Australian margin, the
+Willcox and Stagg, 1990; Stagg et al., 1990; Hill, 1995;
+                                                                   sedimentary package can be subdivided into four distinct
+Totterdell et al., 2000; Norvick and Smith, 2001]. As revealed
+                                                                   depositional systems (Figure 3), according to the super-
+
+                                                              2 of 26
+TC6002                       ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                          TC6002
+
+
+
+
+         Figure 1. Geodynamic setting of the eastern Bight Basin (modified from Krassay and Totterdell [2003])
+         showing the location of seismic lines used for transects A-A0 and B-B0 (Figure 4). Locations of the
+         Potoroo-1 (Po-1) and Gnarlyknots-1A (Gn-1A) exploration wells are also shown. Black dashed lines show
+         major lineaments of both basement and sedimentary cover. White arrows indicate extension direction of the
+         Ceduna subbasin. Grey arrows indicate extension direction of the Jurassic-Early Cretaceous upper crustal
+         rifting and the Late Cretaceous breakup [Stagg et al., 1990; Willcox and Stagg, 1990; Totterdell et al., 2000;
+         Totterdell and Bradshaw, 2004; Reynolds et al., 2005].
+
+
+sequence framework of Totterdell et al. [2000] and Totterdell     and 2a). A strong E– W oriented basement lineament colinear
+and Bradshaw [2004], and described hereafter.                     with the Paleozoic Polda Basin seems to have controlled the
+                                                                  location of half graben in the Eyre and northern Ceduna
+2.2. Paleogeographic Evolution and Stratigraphy                   subbasins (Figure 1) [Totterdell and Krassay, 2003; Totterdell
+2.2.1. Middle-Late Jurassic to Early Cretaceous:                  and Bradshaw, 2004]. The rift-related sediments of the Sea
+Synrift and Postrift Supersequences                               Lion and Minke Supersequences (Figure 3) comprise up to
+  [11] The Bight Basin was initiated during a period of           3000 m of fluvio-lacustrine sandstone, claystone and mud-
+Middle-Late Jurassic to Early Cretaceous NW – SE upper            stone. They accumulated in the hanging walls of a set of
+crustal extension [Stagg et al., 1990; Willcox and Stagg,         predominantly seaward dipping extensional faults involving
+1990; Totterdell et al., 2000; Totterdell and Bradshaw, 2004]     Proterozoic basement. Overlying these rocks, the Berriasian
+and subsequent postrift thermal subsidence. Basement trends       Southern Right Supersequence and Valanginian to Early
+have had a profound influence on the structural development       Albian Bronze Whaler Supersequence (Figure 3) consist of
+of the Bight Basin, controlling the location and orientation of   an aggradational succession deposited during the postrift
+early basin-forming structures [Stagg et al., 1990; Totterdell    thermal subsidence period. This sedimentary succession is
+et al., 2000]. In the western part of the study area, NW – SE     over 1700 m thick and consists of fluvial channel and
+extension was oblique to the W – E trending basement fabric       floodplain deposits with some marine influence in the upper
+and produced a series of rift basins in the Eyre and Recherche    part of the section.
+subbasins (Figures 1 and 2a). In the easternmost Bight Basin,     2.2.2. Late Albian-Santonian: Prebreakup
+extension was highly oblique to the NNW – SSE trending            Supersequences
+edge of the Gawler Craton and produced a series of E –W en          [12] Postrift thermal subsidence was followed by a phase
+echelon half graben in the Duntroon subbasin (Figures 1           of accelerated subsidence, which began in the Late Albian
+
+
+                                                             3 of 26
+TC6002                                     ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                TC6002
+
+
+                                                Australia
+                                                                                         (Figures 2b and 3) [Totterdell et al., 2000; Brown et al.,
+                                                                                         2001]. Late Albian siltstone and shale of the Blue Whale
+                                           BB
+                                                                                         Supersequence (Figure 3) were deposited in nearshore or
+                                                                                         restricted environments and unconformably overlie the rift
+       Greater                                        V                                  and postrift strata. The unit is typically between 300 and
+        India
+                                                                                         more than 1000 m thick. At about 90– 100 Ma, subduction
+                                                                                         of the Pacific plate ceased along the eastern Australian
+                               Antarctica                                                margin, resulting in a dynamic uplift of the Australian
+                                                                                         craton (Figure 2b) [Waschbush et al., 1999; Brown et al.,
+                                                                                         2001; Gurnis and Mueller, 2003]. This uplift is likely to
+      (a) Early Tithonian 145 Ma                                                         have induced kilometer-scale denudation of the Australian
+                                                                                         continent [Raza et al., 1995]. Several authors have proposed
+                                                 Australia                               that siliciclastic sediments eroded from this area were
+                                           BB
+                                                                                         transported toward the Bight Basin [Veevers et al., 1991;
+                                                                                         Raza et al., 1995; Totterdell et al., 2000]. The Cenomanian
+                                                                                         White Pointer Supersequence consists of fluvial to deltaic
+                                                                                         clastic sediments and coal to marine siltstone and mudstone,
+                                                                                         and was deposited into a restricted marine seaway. In the
+                              Antarctica
+                                                                                         Ceduna subbasin, deposition of the White Pointer Super-
+      60 S
+
+
+
+
+                                                                                         sequence occurred with rapid southwesterly progradation of
+                       70 S
+
+
+
+
+                                    80 S
+
+
+
+
+                                                                                         deltaic sediments, resulting in gravity tectonics (Figure 1)
+                                                                                         [Totterdell et al., 2000; Totterdell and Bradshaw, 2004;
+      (b) Middle Cenomanian 95 Ma                                                        Reynolds et al., 2005] above marine shales of the Blue
+                                                                                         Whale Supersequence. Growth faults affecting the White
+                                                Australia                                Pointer Supersequence generally trend NW – SE. The thick-
+                                           BB                                            ness of the White Pointer Supersequence reaches 4000 m
+                                                                                         in the Ceduna subbasin. From the Turonian to Santonian,
+                                                              V
+                                                                                         deposition in the Ceduna subbasin occurred in a predomi-
+                                                                                         nantly restricted marine environment. During this period,
+                                                                                         fully marine and marginal marine mudstones of the Tiger
+                               Antarctica                                                Supersequence accumulated in the basin (Figure 3). The
+                                                                                         sedimentary sequence has an aggradational stratal geometry,
+                                                                                         up to 2800 m thick in the Ceduna subbasin. The Tiger
+                                                                                         Supersequence can be divided into two sequence sets: the
+      (c) Early Campanian 80 Ma
+                                                                                         lower, strongly faulted Tiger sequence set 1, and the
+                                                                                         uniformly thin upper Tiger sequence set 2.
+                                            Australia        50
+                                                                    S                    2.2.3. Late Santonian-Maastrichtian: Synbreakup and
+                                           BB                            V
+                                                                        V                Postbreakup Supersequences
+                                                               V
+                                                                                           [13] Continental breakup at 83 Ma [Sayers et al., 2001;
+                                                                                         Totterdell et al., 2000] (Figure 2c) was followed by the
+                                                                                         establishment of the Hammerhead deltaic depositional sys-
+                                                                                         tem after a major regression event (Figure 3). The Hammer-
+                                Antarctica                                               head Supersequence is latest Santonian-Maastrichtian in age,
+                                                                                         and consists of amalgamated sandstone, interbedded sand-
+                                                                                         stone and mudstone, and massive mudstone units deposited
+                                                                                         in delta plain to prodelta environments. The supersequence is
+                                                                             60 S
+                                                             70 S
+
+
+
+
+             (d) Middle Eocene 45 Ma
+                                                                                         marked by a basal erosion surface (breakup unconformity)
+                                                                    1000 km              with incised paleovalleys, particularly noticeable in the
+              Normal                   Thickened                    Thinned              proximal part of the basin [Totterdell and Krassay, 2003].
+              crust                    crust                        crust                The Hammerhead Supersequence is divided into three
+                                                                    Extensional          sequence sets (following terminology of Mitchum and
+             V Volcanics               Uplift
+                                                                    depocenters          Van Wagoner [1991]) (Figure 3). The basal Late Santonian
+                                                                                         to Early Campanian sequence set 1 exhibits a strongly
+                       Sea floor                  Spreading ridge                        progradational internal geometry with basinward stepping
+                       Fault                      Subduction zone                        depositional sequences, which accumulated under a high
+                                                                                         sediment supply regime from the continent [Krassay and
+Figure 2. Plate tectonics reconstructions for the Australia-                             Totterdell, 2003]. The intermediate Early Campanian to
+Antarctica conjugate margins (modified from Norvick and                                  Early Maastrichtian sequence set 2 also exhibits a strong
+Smith [2001]). Location of the Bight Basin (BB) is shown.                                progradational geometry. It thickens gradually (up to 3500 m)
+See details in text.
+
+                                                                                    4 of 26
+TC6002                      ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                   TC6002
+
+
+
+
+         Figure 3. Stratigraphy of the Ceduna subbasin (modified from Totterdell and Bradshaw [2004]).
+
+
+seaward, but more rapidly (5000 m) on the southeastern         with an aggradational-progradational stratal geometry. The
+edge of the Ceduna lobe [Krassay and Totterdell, 2003]. The     supersequence reaches a maximum thickness of approxi-
+upper Early to Late Maastrichtian sequence set 3 has dom-       mately 300 m in the Ceduna subbasin. To the south, the
+inantly aggradational stratal geometry, indicating a major      Cenozoic sediments onlap highly extended continental crust
+change in basin dynamics and a gradually decreasing rate of     and rocks of the continent-ocean transition zone.
+sediment supply from the continent [Krassay and Totterdell,
+2003].
+2.2.4. Cenozoic: Thermal Subsidence Supersequences
+                                                                3. Present-Day Geometry as Revealed
+  [14] The basal Wobbegong Supersequence (Figure 3)             by Seismic Reflection Data
+unconformably overlies Cretaceous clastics of the Hammer-       3.1. Data Set
+head Supersequence [Li et al., 2004]. It consists of marginal
+marine to fluvial sandstone and minor siltstone. The unit is      [15] This study of the geometry of the Bight Basin is
+typically between 100 and 280 m thick. Following a period       based on the interpretation of two approximately 400 km
+of very slow spreading until the Middle Eocene, spreading       long regional seismic transects (Figures 1 and 4). These
+rates increased noticeably from about 43 Ma (Figure 2d)         transects extend southwestward from the Madura Shelf,
+[Cande and Mutter, 1982; Veevers et al., 1991]. The upper-      across the Ceduna subbasin, and then SSW across the
+most Middle Eocene to Pleistocene Dugong Supersequence          deepwater Recherche subbasin onto the South Australian
+(Figure 3) unconformably overlies the Wobbegong Super-          Abyssal Plain. The western transect A-A0 is composed of
+sequence. It generally consists of basal coarse sandstone       seismic lines 1, 2 and 3 (seismic lines HRGAB-119,
+overlain by a monotonous carbonate succession, represent-       w00fdw0023 and GA199-05, respectively; Figures 1 and 4).
+ing deposition of predominantly cool water carbonate shelf      The eastern transect B-B0 is composed of seismic lines 4
+
+                                                           5 of 26
+                                                                                                                                     TC6002
+
+
+
+
+6 of 26
+          Figure 4. Structural interpretation of the two synthetic seismic transects across the Ceduna subbasin (see Figure 1 for
+                                                                                                                                     ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+          location). A-A0, western transect; B-B0, eastern transect. Potoroo-1 and Gnarlyknots-1A wells are projected. D1,
+          décollement level located at the base of the Late Albian shales of the Blue Whale Supersequence. D2, décollement level
+          located at the base of the Late Santonian-Early Campanian Hammerhead sequence set 1. COT, continent-ocean transition
+          zone.
+                                                                                                                                     TC6002
+TC6002                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                          TC6002
+
+Table 1. Interval Velocities Used for Time-Depth Conversions of     Late Albian shales of the Blue Whale Supersequence. To
+the Seismic Profiles                                                the north, the décollement D1 has a basinward dip of
+                                           Mean Interval Velocity   about 4.5° (Figures 4 and 5). In contrast, in the southwest,
+        Intervals            Age (Ma)            (m s1)            it dips landward at 2°. The underlying substratum of the
+                                                                    Ceduna sedimentary wedge is poorly imaged on seismic
+Water                       -                  1500                 lines 1 and 2 (Figure 5), and its geometry is not well
+Dugong-Wobbegong            57 – 0             2100
+Hammerhead 1-2-3            78 – 65            2700
+                                                                    defined. On seismic line 1 (Figure 5), we have interpreted
+Hammerhead 2                80 – 78            2700                 the substratum as half graben related to the Potoroo base-
+Hammerhead 1                84 – 80            2700                 ment-involved fault system. The Middle Jurassic-Early
+Tiger 2                     87 – 84            3000                 Cretaceous rift sediments broadly thicken into the faults.
+Tiger 1                     93.5 – 87          3000                 In the deepwater Recherche subbasin (Figures 1, 4 and 7),
+White Pointer               99.6 – 93.5        3000
+Blue Whale                  105.8 – 99.6       3000                 the Late Cretaceous Hammerhead Supersequence and the
+Bronze Whaler               135 – 105.8        3000                 Cenozoic Wobbegong and Dugong Supersequences onlap
+S. Right, Minke, Sea Lion   170(?) – 135       3000                 highly extended continental crust. Seismic line 3 (Figure 7)
+Continental crust           -                  4500 to 6000         reveals tilted fault blocks of continental crust forming an
+Mantle                      -                  8000 to 8500
+Oceanic crust               -                  6500 to 7500
+                                                                    isolated klippe above mantle rocks. The half graben fill is
+                                                                    interpreted as White Pointer Supersequence, but no growth
+                                                                    strata along the faults are observed. Seismic line 3 and
+                                                                    magnetic data also reveal a serpentinized mantle ridge [König
+and 5 (seismic lines w00fdw0053 and GA199-07, respec-               and Talwani, 1977; Sayers et al., 2001; Whittaker et al., 2007;
+tively; Figures 1 and 4). The direction of these seismic            Direen et al., 2007; H. M. J. Stagg, personal communication,
+profiles is N210°E (Figure 1). This direction parallels the        2008] sealed by Campanian strata of the Hammerhead
+transport direction of the gravity tectonics in the Ceduna          sequence set 2. Similar mantle rocks have been observed
+delta system, but is oblique to the NW – SE extension direc-        by Beslier et al. [2004] in the Diamantina Zone to the west of
+tion of the Jurassic-Early Cretaceous upper crustal rifting         the southern Australian margin. The South Australian Abys-
+and the Late Cretaceous breakup [Stagg et al., 1990; Willcox        sal Plain (Figures 1 and 7) is characterized by a zone of
+and Stagg, 1990; Totterdell et al., 2000; Totterdell and            relatively low basement relief draped by Cenozoic sediments
+Bradshaw, 2004; Reynolds et al., 2005].                             of the Wobbegong and Dugong Supersequences that we
+   [16] The interpretation of the two synthetic profiles            interpret as the oceanic crust. Locally, these sediments fill
+(Figure 1) was achieved by using the well data and inter-           small ‘‘half graben’’ above the oceanic crust (Figure 7).
+pretations provided by the supersequence framework of                  [19] The Ceduna sedimentary wedge is subdivided into
+Totterdell et al. [2000], as previously summarized in               two stacked delta systems as described by Totterdell and
+section 2 and Figure 3. The Potoroo-1 and Gnarlyknots-1A            Krassay [2003]. The lower, Late Albian-Santonian White
+exploration wells were used to calibrate stratigraphic hori-        Pointer delta system is formed by the Blue Whale Super-
+zons picks (Figure 1). Potoroo-1 is located on the southern         sequence, the strongly progradational White Pointer Super-
+edge of the Madura Shelf and reached granitic basement              sequence and the progradational to aggradational Tiger
+rocks of the Gawler Craton. Gnarlyknots-1A is located in the        Supersequence (Figures 5 and 6). Seismic lines 1 and 2
+center of the Ceduna subbasin and reached the upper part of         (Figures 5 and 6) show that the wedge of the White Pointer
+the Tiger Supersequence. Although the wells are located well        delta system extends about 300 km outboard of the Madura
+away from the modeled seismic lines, well data have been            Shelf and encompasses a sedimentary succession about
+projected onto the two transects at structurally similar loca-      5.4 km thick. From a structural point of view, the dominant
+tions, with respect to the orientation of the structures.           style of deformation of the White Pointer delta system
+   [17] A time-depth conversion of the regional seismic pro-        comprises thin-skinned listric growth faults of the Mulgara
+files was performed using seismic velocities of sedimentary         fault system [Totterdell and Bradshaw, 2004], which delimit
+supersequence intervals from Potoroo-1 and Gnarlyknots-1A           numerous tilted blocks. The growth faults dip regionally
+wells. The velocity values are summarized in Table 1.               basinward. Counterregional faults are relatively rare with
+                                                                    only a few being observed in the center of the wedge. The
+3.2. Western Transect A-A0
+                                                                    Mulgara growth faults branch downward onto the regional
+  [18] On the western transect A-A0 (Figures 1 and 4), the          décollement D1 (Figure 5) developed in the shales of the
+Ceduna subbasin consists of an approximately 300 km long            Blue Whale Supersequence [Totterdell and Krassay, 2003],
+sedimentary wedge thickening seaward to a maximum                   and are associated with some delta toe thrusts (Figure 6).
+thickness of 8 km. The sedimentary wedge is character-             Faulting in the overlying lower Tiger Supersequence is
+ized by a regional 0.5° seaward dipping surface slope and          widely spaced (Tiger sequence set 1) and consists of reac-
+by a 2.5° seaward facing bathymetric slope (Figure 4).             tivated Mulgara faults. Small reactivations of the fault set are
+Landward, the sedimentary wedge thins onto the Madura               Early Santonian in age (Tiger sequence set 2) and predates
+Shelf. Seaward, it pinches out onto highly extended conti-          deposition of the overlying Hammerhead Supersequence
+nental crust and rocks of the continent-ocean transition zone       [Totterdell et al., 2000]. Krassay and Totterdell [2003]
+(Figures 4, 5, 6, and 7). This wedge is regionally detached         concluded that, above the basal unconformity, Hammerhead
+(décollement D1) from the underlying substratum above              sequence sets 1 and 2 are strongly progradational, while
+
+
+                                                              7 of 26
+                                                                                                                                        TC6002
+
+
+
+
+8 of 26
+                                                                                                                                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+          Figure 5. Detail of seismic line 1 and northern part of seismic line 2 (transect A-A0) across the Madura Shelf and inner
+          Ceduna subbasin (see Figures 1 and 4 for location). Horizons were calibrated using projected (pjt.) data from the Potoroo-1
+          and Gnarlyknots-1A wells. Mulgara faults are indicated by medium black lines. These faults branch downward onto the
+          décollement D1 (thick black line) at the base of the shales of the Blue Whale Supersequence. Inferred half graben of the
+          Potoroo fault system (dashed black lines) underlies the delta system. Vertical exaggeration is 2.
+                                                                                                                                        TC6002
+                                                                                                                                    TC6002
+
+
+
+
+9 of 26
+                                                                                                                                    ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+          Figure 6. Detail of the southern part of seismic line 2 and northern part of seismic line 3 (transect A-A0) through the
+          Ceduna and Recherche subbasins (see Figures 1 and 4 for location). Mulgara faults are indicated by medium black lines.
+          These faults branch downward onto the décollement D1 (thick black line) at the base of the shales of the Blue Whale
+          Supersequence. Note the scarcity of compressional features at the delta toe. Vertical exaggeration is 2.
+                                                                                                                                    TC6002
+                                                                                                                                        TC6002
+
+
+
+
+10 of 26
+                                                                                                                                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+           Figure 7. Detail of the southern part of seismic line 3 (transect A-A0) across the Recherche subbasin and the South
+           Australian Abyssal Plain (see Figures 1 and 4 for location). In the Recherche subbasin, seismic data image highly extended
+           continental crust with zones of exhumed subcontinental mantle rocks. These features are sealed by the Early Campanian-
+           Early Maastrichtian Hammerhead sequence set 2. On the South Australian Abyssal Plain, the oceanic crust is draped by
+           Cenozoic strata of the Wobbegong and Dugong supersequences. COT, continent-ocean transition zone. Vertical
+           exaggeration is 2.
+                                                                                                                                        TC6002
+TC6002                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                     TC6002
+
+
+
+
+         Figure 8. Detail of northern part of seismic line 4 (transect B-B0) across the Madura Shelf and Ceduna
+         subbasin (see Figures 1 and 4 for location). Horizons were calibrated using projected data from the
+         Potoroo-1 and Gnarlyknots-1A wells. Mulgara faults are indicated by medium black lines. These faults
+         branch downward onto the shallow décollement D1 (thick black line) at the base of the Blue Whale
+         Supersequence. Seismic data show typical fault-related rollover anticlines within the White Pointer delta
+         system, sealed by strata of the Hammerhead sequence set 1. Half grabens of the Potoroo fault system
+         underlie the delta system. Vertical exaggeration is 2.
+
+
+Hammerhead sequence set 3 exhibits an aggradational ge-            3.3. Eastern Transect B-B0
+ometry (Figures 5 and 6). Seaward, Hammerhead sequence               [20] On the eastern transect B-B0 (Figures 1 and 4), the
+set 3 is truncated and eroded below the Cenozoic unconfor-         Ceduna subbasin consists of an approximately 170 km long,
+mity (Figure 6). Seismic profiles 1 and 2 (Figures 5 and 6)        seaward thickening wedge, comprising a 12 km thick
+show that the Hammerhead delta wedge develops 190 km              sedimentary succession. The surface slope of the wedge
+ahead of the Madura Shelf and reaches a maximum thickness          dips regionally at 0.4° seaward with a 4° seaward facing
+of about 3.2 km (Figure 6). In the northeast, the basal surface    bathymetric slope (Figure 4). This wedge is narrower but
+of the Hammerhead Supersequence dips about 1.3° seaward            thicker as compared with western transect A-A0. It is also
+and it is slightly affected by reactivated Mulgara faults          detached (décollement D1) from the underlying, highly
+(Figures 4 and 5). However, further seaward in the south-          extended substratum above ductile shales of the Blue Whale
+western part of the profile, the basal surface dips about 1.8°     Supersequence [Totterdell and Krassay, 2003]. In the north-
+landward (Figures 4 and 6). In this zone, the thickening of the    ern part of the transect, the regional décollement D1 is
+Hammerhead sedimentary succession was associated with              clearly imaged (Figure 8) and dips seaward at 7°. In the
+reactivation of the Mulgara faults [Totterdell et al., 2000] and   southern part (Figure 9), it dips landward at 3° above
+the development of regional faults within the Hammerhead           mantle rocks (Figure 4). Unlike western transect A-A0,
+Supersequence (Figure 6). Unlike the White Pointer delta           Middle-Late Jurassic half graben of the substratum are
+system, the Hammerhead delta system in this part of the basin      better imaged on seismic line 4 (Figures 4 and 8). Here,
+is not detached above any underlying weak décollement             thick-skinned Potoroo faults are modeled as branching onto
+level. Here, it simply prograded seaward and was only              a south dipping décollement level within the basement
+affected by few minor syndepositional faulting in the distal       (Figure 8) which may connect at depth, onto a deeper
+part of the basin (Figures 5 and 6).
+
+                                                             11 of 26
+TC6002                       ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                           TC6002
+
+
+
+
+         Figure 9. Detail of the southern part of seismic line 4 and the northern part of seismic line 5 (transect B-B0)
+         across the Ceduna and Recherche subbasin (see Figures 1 and 4 for location). Faults are indicated by
+         medium black lines. Sediments of the White Pointer delta system overlie subcontinental mantle rocks. The
+         Hammerhead delta system is associated with gravitational sliding of the Kowari fault system which
+         connects downward with the shallower décollement D2. Note the growth strata pattern within the
+         Hammerhead sequence set 2. Vertical exaggeration is 2.
+
+detachment developed at Moho(?) level. Farther seaward,           wavelength rollover folds with secondary faulting of the
+seismic line 5 reveals that the geometry is similar to that of    Mulgara fault system. The deepest and widest anticline
+the western transect A-A0 (Figure 10). The continent-ocean        (Figure 8) is characterized by a 40° – 50° landward dip-
+transition zone is located seaward of an isolated crustal         ping forelimb and a backlimb dipping 20°– 25° seaward
+klippe of highly extended continental crust and oceanic core      (Figure 4). This rollover anticline developed in the hang-
+complex (Figure 10). Structures are sealed by strata of the       ing wall of the shallow décollement D1 developed within
+Hammerhead Supersequence. The tilted fault blocks of the          the shales of the Blue Whale Supersequence. The sedi-
+klippe are filled likely by the White Pointer Supersequence.      mentary expression of the growing rollover anticline is
+In the South Australian Abyssal Plain, the relatively low         recorded in the Whiter Pointer deltaic Supersequence and
+basement relief of the oceanic crust is draped by Cenozoic        basal Tiger sequence set 1 (Figure 8). The contrast of
+sediments of the Wobbegong and Dugong Supersequences.             geometry in comparison to transect A-A0 is probably
+Locally, Hammerhead sequence set 3 and Wobbegong                  related to the stronger seaward dip of the décollement
+Supersequence fill small half graben (Figure 10).                 D1 near the margin (Figures 4, 5, and 8). In the outboard
+   [21] Like western transect A-A0, the sedimentary wedge         part, the structural style is close to that of the western
+of the Ceduna subbasin depicts two stacked progradational         transect A-A0, with closely spaced tilted blocks bounded
+delta systems [Totterdell and Krassay, 2003]. Here, the           by listric growth faults (Figure 9). The delta toe of the
+lower White Pointer delta system forms a 140 km long              White Pointer delta system (seismic line 5; Figure 9)
+sedimentary wedge. From a structural point of view, seismic       consists of small compressional features. In the center of
+line 4 (Figure 8) shows that the structural style of the White    the basin, seismic data show that the Tiger Supersequence
+Pointer delta system in the northern part of this transect is     accumulated in a major depocenter (Figures 4, 8, and 9),
+somewhat different from what is observed in transect A-A0.        where it reaches more than 2.7 km in thickness. The upper
+In transect B-B0, the structural style consists of two long-      Hammerhead delta system on transect B-B0 differs mark-
+
+                                                            12 of 26
+                                                                                                                                         TC6002
+
+
+
+
+13 of 26
+                                                                                                                                         ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+           Figure 10. Detail of the southern part of seismic line 5 (transect B-B0) across the Recherche subbasin and South
+           Australian Abyssal Plain (see Figures 1 and 4 for location). Seismic line 5 images highly extended continental crust (thick
+           black line) within a zone of exhumed mantle rocks in the Recherche subbasin. COT, continent-ocean transition zone.
+           Vertical exaggeration is 2.
+                                                                                                                                         TC6002
+TC6002                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                           TC6002
+
+edly from transect A-A0. On transect B-B0, it consists of          Ceduna delta system during the Australia-Antarctica break-
+a sedimentary wedge of about 170 km width, which is                up (Figure 11). In order to quantify the amount of defor-
+developed farther outboard than the lower White Pointer            mation for each step, four separate calculations of
+delta system (Figure 4). To the northern part of the transect,     deformation have been measured between local pin lines
+the Hammerhead delta system geometry simply consists of            for each state of the restoration (Figure 11); these results are
+a seaward progradational wedge which unconformably                 plotted in Figure 14: (1) gravity-driven extension within the
+overlies the White Pointer delta system (Figure 8). The            White Pointer delta system between pin lines P0 and P1 due
+propagation of the sedimentary wedge induced only small            to the displacement above the décollement D1 located at
+tectonic reactivation of the Mulgara fault system. Along the       the base of the shales of the Blue Whale Supersequence;
+paleoshelf margin, the thickness of the Hammerhead se-             (2) gravity-driven extension within the Hammerhead delta
+quence set 2 increases abruptly and reaches about 5 km in          system between pin lines P0 and P3 due to the displacement
+thickness (Figure 9). Gravitational raft tectonic instability      above the décollement D2 located at the base of the
+on the frontal paleoslope of the basin corresponds to the          Hammerhead sequence set 1; (3) shortening in the frontal
+Kowari fault system (Figure 9) [Totterdell and Bradshaw,           imbricate fans of the two delta systems; and (4) estimated
+2004]. These extensional listric growth faults branch down-        crustal extension through the southern Australian margin.
+ward onto the seaward dipping (2°) décollement D2
+which occurs in the basal part of the Hammerhead sequence          4.2. Description
+set 1 (Figure 4). Slip related to the Kowari fault system is         [24] The restored states of cross section B-B0 (Figure 11)
+linked downdip to a main imbricate thrust system involving         are described from the oldest to the youngest. Restoration
+the Hammerhead Supersequence. Seismic lines 4 and 5                states 1 to 4 (Figures 11a – 11d) illustrate the Late Albian-
+(Figure 9) reveal growth strata features in the Hammerhead         Santonian basin evolution during the postrift and thermal
+sequence set 2 on the northern flank of the imbricate fan. In      subsidence periods before the Australia-Antarctica breakup,
+summary, in the southeastern part of the Ceduna subbasin,          as well as the progradation of the White Pointer delta system.
+the upper Hammerhead delta system forms an independent             Restoration states 5 to 7 (Figures 11e – 11g) show the Late
+thin-skinned progradational wedge which slides on the              Santonian-Maastrichtian basin evolution after breakup, and
+frontal paleoslope of the underlying White Pointer sedi-           also reflect the progradation of the Hammerhead delta
+mentary wedge [Totterdell and Krassay, 2003].                      system. Finally, restoration state 8 (Figure 11g) shows the
+                                                                   Cenozoic evolution of the Ceduna delta system during
+4. Kinematic Evolution of the Ceduna Delta                         continuous seafloor spreading until present-day.
+System From Cross Section Balancing                                  [25] In initial state 1 (Figure 11a), Late Albian shales of
+                                                                   the Blue Whale Supersequence were deposited along the
+4.1. Methodology                                                   seaward dipping margin. This margin had been previously
+   [22] Well information and seismic reflection data were          deformed and structurally thinned during the Middle
+integrated to build a regional, balanced cross section along       Jurassic-Early Cretaceous.
+the most representative seismic transect B-B0 (Figures 1             [26] State 2 (Figure 11b) is associated with the sedimen-
+and 4). Cross section restoration was realized according to        tation and seaward sliding of the Cenomanian White Pointer
+classical compressional/extensional tectonic concepts              progradational clastic series above ductile shales of the Blue
+[Dahlstrom, 1969; Boyer and Elliott, 1982; Elliott, 1983;          Whale Supersequence. Extensional thin-skinned structures
+Woodward et al., 1985; Shaw et al., 2005]. The gravity-            of the White Pointer delta system (i.e., rollover anticlines
+driven extension direction being parallel to the cross section     related to listric growth faults of the Mulgara fault system)
+in the Ceduna delta system, the amounts of extension and           are linked to the décollement D1. This décollement is formed
+compression were properly balanced along the cross section.        in a weak substrate (shales of the Blue Whale Supersequence)
+However, crustal extension though the southern Australian          due to gravity tectonics (Figure 11b). The restored state 2
+margin may be only estimated because the direction of the          (Figure 11b) shows a seaward displacement of 30 km above
+cross section is oblique to the NW –SE crustal extension           the décollement D1. This high amount of slip only fed scarce
+direction (Figure 1). According to tectonic styles envisaged,      frontal compressional structures accommodating less than
+the cross section has been restored using the fault parallel       2 km of shortening (Figures 9 and 11b). In the outboard
+flow [Sanderson, 1982; Keetley and Hill, 2000] and flexural        region, the continental crust is highly thinned and stretched
+slip algorithms [Ramsay and Huber, 1987]. Bed area and             and rocks of the White Pointer delta system abnormally
+length are conserved. Sediment decompaction has not been           overlie mantle rocks. The construction of the cross section
+taken into account in the cross section restoration process [see   suggests that the décollement D1 may connect onto a deep
+Nunns, 1991]. During the restoration process, we considered        detachment fault. Although seismic data do not reveal clear
+that the sedimentary wedge kept a homogeneously seaward            evidence of a prominent shear zone in the outboard region,
+dipping top shape through time, with variable water depth          we suggest that deformation took place probably via a main
+through time. Paleowater depths are only indicative as             low-angle detachment fault (named D0). This detachment
+decompaction is not taken into account.                            fault would be responsible to the deformation of the crust and
+   [23] Eight sequential restoration states have been per-         the tectonic denudation of the subcontinental mantle. During
+formed in order to show the kinematic evolution of the             state 2, the total crustal extension of the margin is estimated at
+                                                                   40 km minimum, but is only an order of magnitude as the
+
+                                                             14 of 26
+                                                                                                                                     TC6002
+
+
+
+
+15 of 26
+                                                                                                                                     ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+                                                                                                                                     TC6002
+
+
+
+
+           Figure 11. Kinematic evolution of the Ceduna subbasin, based on a sequential restoration of cross section B-B0 from the
+           Late Albian to present-day. See text for further discussion.
+TC6002   ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM   TC6002
+
+
+
+
+                                                               Figure 11. (continued)
+
+
+
+
+                               16 of 26
+TC6002                        ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                         TC6002
+
+extension direction at this stage is oblique to the cross section   related to the Kowari fault system (i.e., 12 km) is entirely
+orientation. This crustal extension would be accommodated           accommodated within the frontal imbricate fan of the delta
+by the inferred low-angle detachment D0 (Figure 11b).               toe (Figure 12). This typical example of compressional
+   [27] During sedimentation of Tiger sequence set 1 (state 3;      features at a delta toe accommodating landward extensional
+Figure 11c), the active thin-skinned faults remained similar        deformation is well known from other comparable delta
+to those initiated during the deposition of the White Pointer       systems [e.g., Doust and Omatsola, 1989; McClay et al.,
+series. The distinctive ‘‘concave’’ geometry of this section is     1998; Cobbold et al., 2004; Bilotti and Shaw, 2005; Corredor
+likely due to progressive flexure and subsidence in the delta       et al., 2005; Brandes et al., 2007].
+system, but may be related partly to compactional processes           [31] During relatively stable Cenozoic tectonic environ-
+(Figure 11c). In order to model this flexure, state 3 has been      ments (state 8; Figure 11h), the Ceduna subbasin was not fed
+restored by flexural slip with local pin line (Pl) pinned           by a large drainage system and sediment influx decreased at
+vertically in the thickest part of the Tiger sequence set 1 (see    the end of the Maastrichtian, resulting in a hiatus in the
+Figure 11c). The calculated gravity tectonic extension along        inboard parts of the basin and the establishment of a shallow
+the décollement D1 during this period is about 12 km.              marine shelf across most of the Ceduna subbasin. The
+During state 3, the total crustal extension of the margin is        Ceduna delta system is sealed by platform rocks of the
+estimated at 12 km minimum.                                        Wobbegong and Dugong Supersequences and the weak
+   [28] During deposition of Tiger sequence set 2 (state 4;         apparent extension occurring during this time (<1 km),
+Figure 11d), extension within the delta system decreased            consisted essentially of compaction processes. Seaward,
+abruptly and only about 3 km of displacement has been               newly formed oceanic crust is draped by upper Cenozoic
+recorded along the décollement D1. The restoration shows           sediments.
+that the inferred deep low-angle detachment D0 divides in             [32] In summary, the cross section B-B0 shows that (1) the
+two parts: (1) the ‘‘inactive’’ landward part of the detach-        lower White Pointer delta system accommodated 45 km of
+ment beneath the southern Australian margin and (2) the             extension (i.e., 27%; Figure 11d), (2) the upper Hammer-
+seaward part of the detachment beneath the Recherche                head delta system accommodated 12 km of extension (i.e.,
+crustal klippe that remains ‘‘active’’ and accommodates             8%; Figure 11g), and (3) the crustal extension magnitude of
+the exhumation and denudation of the oceanic core complex           the southern Australian margin is estimated at 93 km
+(Figure 11d). During state 4, the total crustal extension of        minimum (i.e., 45%; Figure 11d).
+the margin is estimated at 42 km minimum.
+   [29] After the breakup event (state 5; Figure 11e), the
+displacement above the deep low-angle detachment D0
+                                                                    5. Discussion
+ceased and oceanic floor was emplaced in the incipient              5.1. From Unstable to Stable Deltaic System
+South Australia Abyssal Plain. State 5 illustrates the coarse
+                                                                       [33] A number of published regional geological studies
+clastic progradation of Hammerhead sequence 1 (Figure 11e).
+                                                                    coupled with analog modeling have shown that the temporal
+During state 5, Hammerhead sequence set 1 seals both the
+                                                                    and spatial stabilities of deltaic wedges are mainly controlled
+structures of the White Pointer delta system, and the exhumed
+                                                                    by large-scale interactions between tectonic and sedimenta-
+mantle core complex and crustal klippe in the Recherche
+                                                                    tion processes [e.g., Blickwede and Queffelec, 1988; Wu et
+subbasin. The restored state 5 shows that the Mulgara fault
+                                                                    al., 1990; Morley and Guerin, 1996; McClay et al., 2003;
+system was slightly reactivated (cumulative displacement <
+                                                                    Cobbold et al., 2004]. Nevertheless, the basal décollement
+1 km), probably due to compaction processes.
+                                                                    slope angle of the wedge also plays an important role for the
+   [30] Restored state 6 (Figure 11f) shows the progradation
+                                                                    seaward propagation of deformation [Mauduit et al., 1997;
+of the Hammerhead sequence set 2 across the shelf without
+                                                                    Mauduit and Brun, 1998].
+any syndepositional faulting like that observed along cross
+                                                                       [34] Figure 13 shows the analysis of fault slip rates versus
+section A-A0. However, in the frontal paleoslope (inherited
+                                                                    sedimentation rates though time for the two stacked delta
+from the lower White Pointer delta wedge), the thickening
+                                                                    systems. This analysis has been performed for three, approx-
+of the Hammerhead sequence set 2 is associated with the
+                                                                    imately 30 km apart, locations in the basin (proximal,
+formation of gravitational instability (see details in
+                                                                    intermediate and distal). Fault slip rates (Table 2) correspond
+Figure 12). The newly formed Kowari fault system
+                                                                    to cumulative slip on the major south dipping faults, during
+(Figure 11f) connects downward to the shallower décolle-
+                                                                    deposition of each Mesozoic supersequence. Sedimentation
+ment D2 which probably developed within fine-grained
+                                                                    rates (Table 2) have been extracted from virtual wells using
+facies, or prodelta shales, localized at the base of Hammer-
+                                                                    the one-dimensional basin modeling tool Genex 4.0.3 (IFP/
+head sequence set 1 [Totterdell and Krassay, 2003]. The total
+                                                                    Beicip). Sedimentation rates were obtained from Airy back-
+displacement accommodated during state 6 by the Kowari
+                                                                    stripping of the sedimentary succession, by calculating the
+fault system is about 10 km (Figures 11f and 12b). This
+                                                                    decompacted thickness of each lithology and age, and
+amount of slip related to this fault system decreases greatly
+                                                                    considering appropriate paleobathymetric and erosion val-
+(2 km) during deposition of the Hammerhead sequence set
+                                                                    ues, as well as the isostatic readjustment of each sedimentary
+3 as illustrated by restoration state 7 (Figures 11g and 12c). In
+                                                                    unit (see Husson and Moretti [2002] for additional informa-
+contrast to the lower White Pointer delta system, the restored
+                                                                    tion and details). Geochemical and thermal data from the two
+states 6 and 7 (Figures 11f and 11g) of the upper Hammerhead
+                                                                    exploration wells, Potoroo-1 and Gnarlyknots-1A (Figures 1
+delta system show that the total amount of displacement
+                                                                    and 13), were used for calibration, together with data from
+
+                                                              17 of 26
+TC6002                         ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                          TC6002
+
+
+
+
+         Figure 12. Evolution of the Hammerhead delta system front, showing the progressive emplacement of
+         the compressive structure at the delta front. These structures accommodate the extensional sliding (12 km)
+         at the rear along the Kowari growth fault system (raft tectonic).
+
+dredge samples. As the cross section restoration process does        intermediate and distal parts of the basin, we observe a rise in
+not take into account the decompaction of the sedimentary            sedimentation rates which clearly fits with high fault slip
+pile, sedimentation rates were only qualitatively compared           rates of the Mulgara fault system, particularly during depo-
+with fault slip rates. As the lithological data are quite scarce,    sition of the White Pointer Supersequence (Figure 13). This
+end-member type lithologies were chosen from the existing            correlation shows that (1) the wedge of the White Pointer
+database of Genex to assign properties to the various layers         delta system was tectonically unstable before continental
+(lithological poles proportions are listed in Table 3). Differ-      breakup and was subjected to gravity-driven deformation
+ences between the compaction curves obtained differ by less          and (2) the sediment supply balances with the creation of
+than 5% after more than 700 m of burial. The paleobathy-             accommodation space.
+metry is thus completely artificial, but the comparison is              [36] During deposition of the Hammerhead delta system,
+founded, as the fault slip rate are cumulative and thus mainly       the sedimentation rates and fault slip rates are also low in
+based on the offset of already compacted layers. It is thus          the proximal part of the basin (Figure 13). In the intermediate
+important to compare the overall trend of the slip and               part of the basin, no gravitational tectonic process accom-
+sedimentation rates curves through time.                             modated the high sedimentation rates of the Hammerhead
+   [35] During deposition of the White Pointer delta system,         delta system (Figure 13). Following the mantle exhumation
+the sedimentation rates as well as the fault slip rates are low in   and continental breakup, the wedge of the Hammerhead delta
+the proximal part of the basin (Figure 13). In contrast, in the      system remained relatively stable as a sag basin [Somerville,
+
+                                                               18 of 26
+                                                                                                                                          TC6002
+
+
+
+
+19 of 26
+                                                                                                                                          ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM
+
+
+
+
+           Figure 13. Sedimentation rates and fault slip rates versus time in three locations of the Ceduna delta system.
+           Sedimentation rates are calculated from the one-dimensional Genex 4.0.3 software. In each location, a virtual well has been
+           modeled using geochemical and thermal data from the Potoroo-1 and Gnarlyknots-1A exploration wells coupled with
+           dredged samples data (Geoscience Australia database). Fault slip rates are deduced from the sequential restoration of cross
+           section B-B0 around the virtual wells (see Figures 11 and 12). Values are given in Table 2. See text for further discussion.
+           WP, White Pointer supersequence; T1, Tiger sequence set 1; T2, Tiger sequence set 2; H1, Hammerhead sequence set 1;
+                                                                                                                                          TC6002
+
+
+
+
+           H2, Hammerhead sequence set 2; H3, Hammerhead sequence set 3.
+TC6002                           ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                          TC6002
+
+Table 2. Calculated Extension and Sedimentation Rates Using Genex 1D Well Modeling for Three Locations of the Ceduna Delta
+Systema
+                                           Proximal Part: Virtual Well 1       Intermediate Part: Virtual Well 2        Distal Part: Virtual Well 3
+
+Supersequence/Sequence         Age        Sedimentation Rate    Slip Rate      Sedimentation Rate      Slip Rate     Sedimentation Rate       Slip Rate
+          Set                  (Ma)           (m Ma1)          (m Ma1)           (m Ma1)            (m Ma1)          (m Ma1)             (m Ma1)
+
+      Dug.-Wobb.           0 – 57               6.3               0.0                 10.7              1.07               2.75                 7.7
+      Hammerhead 3         65 – 78              41.3              0.0                 110.9             0.0                201.0                99.9
+      Hammerhead 2         78 – 80              199.7             0.0                 679.2             0.0                1985.6               5926.5
+      Hammerhead 1         80 – 84              87.9              21.5                476.3             45.5               322.7                0.0
+
+      Tiger 2              84 – 87              155.8             47.3                373.8             14.7               0.0                  0.0
+      Tiger 1              87 – 93.5            156.6             0.0                 962.9             352.7              320.7                706.3
+      White Pointer        93.5 – 99.6          40.6              0.0                 740.7             1093.1             941.4                1413.9
+      Blue Whale           99.6 – 105.8         33.8              0.0                 477.8             0.0                398.9                0.0
+  a
+  Values are plotted in Figure 13.
+
+
+2001] in a passive margin setting (Figure 11). However, in the              above the décollement D1 has been tectonically coupled to
+distal part of the Hammerhead delta system (Figure 13), the                 the deeper detachment D0 (Figures 11b and 11c). The top-to-
+high sedimentation rate during deposition of the Hammer-                    the-south sense of movement above the inferred low-angle
+head sequence set 2 correlates with a strong fault slip rate of             detachment D0 would thus be balanced by the shallow
+the Kowari fault system (Figure 13): toward the paleoshelf                  décollement D1 at the front of the delta toe, preventing the
+margin, the wedge of the Hammerhead delta system became                     development of compressional features. Hypothesis 3 is
+unstable and slide seaward above the shallower décollement                 supported by the sequential restoration (Figure 11) showing
+D2 (Figure 11). Along western transect A-A0 (Figures 4 and                  that the displacement above detachment D0 generates a
+6), this classical example of gravity sliding is not observed as            thinning of the continental crust and a creation of space,
+the volume of the Hammerhead sequence set 2 was insuffi-                    compensated by the gravitational sliding of the White Pointer
+cient to develop ahead of the frontal paleoslope inherited                  delta system. In the following this explanation is favored and
+from the White Pointer wedge. Thus, this frontal paleoslope                 discussed as this process allows us to estimate the horizontal
+played a dominant role in the deformation of the Hammer-                    stretching velocity of the mantle during three periods:
+head delta system, in controlling the position of the deforma-                 [38] 1. Between 99.6 and 93.5 Ma (deposition of the
+tion and the creation of accommodation space. Meanwhile,                    White Pointer Supersequence; Figure 11b), the horizontal
+the increase in the sedimentation rate may have also increased              stretching of the crust was higher than the gravitational
+the downslope displacement rate, and favored the develop-                   sliding of the delta: the maximum horizontal stretching veloc-
+ment of frontal listric growth faults above the dipping shelf               ity of the mantle is estimated at 5 km Ma1 (Figure 14).
+margin [Mauduit et al., 1997; Mauduit and Brun, 1998].                         [39] 2. Between 93.5 and 87 Ma (deposition of Tiger
+                                                                            sequence set 1; Figure 11c), the relative motion between the
+5.2. Mantle Exhumation and Delta System Evolution                           sliding of the delta and the horizontal stretching of the
+  [37] Extension accommodated by low-angle detachment                       mantle was close to zero: the stretching of the mantle was
+faults can lead to the tectonic exhumation of the subconti-                 fully compensated by the seaward sliding of the delta and
+nental mantle and localized uplift as well as subsidence                    the estimated horizontal stretching velocity of the mantle
+[e.g., Voggenreiter et al., 1988; Lister et al., 1986; Froitzheim           was 2 km Ma1 (Figure 14). (Note that this gravitational
+and Manatschal, 1996]. On the southern Australian margin,                   sliding was restricted already to the frontal part of the deltaic
+these processes are recorded in the sedimentary sequences                   system.)
+and structural evolution of the Ceduna delta system. The
+prograding White Pointer delta system is characterized by                   Table 3. Lithological Parameters for the Genex 1D Well
+only rare compressional features accommodating less than                    Modelinga
+2 km of shortening (Figures 11b and 14). This contrasts
+with its large amount of seaward displacement of 45 km                           Intervals             Sand           Shale        Limestone      Silt
+(Figures 11b and 14), which is only partly explained by local
+                                                                            Dugong-Wobbegong         100%            0%             0%             0%
+compaction. Possible explanations for the lack of compres-                  Hammerhead 3             95%             5%             0%             0%
+sional features at the delta toe are (1) compressional features             Hammerhead 2             90%             10%            0%             0%
+have been removed by a dramatic erosional event caused by                   Hammerhead 1             70%             15%            0%             15%
+deep oceanic currents [Cresswell and Griffin, 2004] above                   Tiger 2                  60%             15%            0%             25%
+                                                                            Tiger 1                  40%             60%            0%             0%
+the oceanic core complex, (2) the compressional features                    White Pointer            60-60-30%       5-5-15%        5-5-25%        30%
+were formed during the growth of the delta in earlier, inner                Blue Whale               30%             15%            25%            30%
+position, and progressively dismembered during the progra-
+                                                                              a
+dation of the depocenter [McClay et al., 1998], as proposed                    Proportion of the end-members lithologies from left to right, i.e., from
+for the Niger Delta, for example, or (3) the displacement                   proximal to distal well.
+
+
+                                                                   20 of 26
+TC6002                      ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                       TC6002
+
+
+
+
+         Figure 14. Plots of cumulative total extension versus time above detachment D0, décollements D1 and
+         D2, and cumulative total compression versus time within frontal imbricate fans. Slip rates are also shown.
+         See text for further discussion. WP, White Pointer Supersequence; T1, Tiger sequence set 1; T2, Tiger
+         sequence set 2; H1, Hammerhead sequence set 1; H2, Hammerhead sequence set 2; H3, Hammerhead
+         sequence set 3.
+
+
+   [40] 3. Between 87 and 84 Ma (deposition of the Tiger        which resulted in deactivation of the gravitational sliding of
+sequence set 2; Figure 11d), extension increased rapidly to     the White Pointer delta system (Figures 11b and 11c). This
+14 km Ma1, whereas the sliding of the delta ceased:           rebound would be responsible for the landward subsidence,
+lithospheric failure occurred through the rapid exhumation      particularly during deposition of the Tiger Supersequence
+of the mantle which was now outcropping at the seabed           (Figures 11c and 11d). Consequently, the landward warping
+[Direen et al., 2007] (Figure 14).                              of the basal décollement of the White Pointer delta system
+   [41] These values are of the same order as those calcu-      could be one possible explanation why the Mulgara fault
+lated for the Iberia margin (see Manatschal et al. [2007] and   system remained inactive after the exhumation of the oceanic
+Sibuet et al. [2007] for more details).                         core complex, continental breakup and the propagation of
+   [42] The sequential restoration shows that the tectonic      the overlying Hammerhead delta system (Figures 11e, 11f,
+exhumation of the mantle induced a progressive upwarping        and 11g).
+
+                                                          21 of 26
+TC6002                       ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                       TC6002
+
+
+
+
+         Figure 15. Possible conceptual scenario for the Australian-Antarctic continental passive margins
+         evolution based on paleo-Alps margin geometries proposed by Froitzheim and Manatschal [1996]. The
+         geometry of the Antarctica margin (Adélie sector) is taken and modified from H. M. J. Stagg et al.
+         (Geological framework of the continental margin in the region of the Australian Antarctic territory,
+         Geosciences Australia record 2004/25, unpublished report, 2004), Colwell et al. [2006], and R. Vially
+         (Synthèse géologique de l’offshore de Terre Adélie (Antarctique), unpublished report, 2006). (a) Oceanic
+         present-day state with strongly asymmetrical shape of the Australian and Antarctic conjugate margins.
+         COT, continent-ocean transition zone. (b) Before the Late Santonian breakup event, a simple shear
+         mechanism results in the development of a low-angle detachment fault (D0 modeled). The top-to-the-
+         south sense of displacement accommodates exhumation of the continental mantle ahead the southern
+         Australian margin. The continental crust is highly stretched with formation of a crustal klippe.
+
+5.3. Implications for the Australia-Antarctica                   asymmetrical shape (Figure 15a). The stretched Australian
+Evolutionary Model                                               margin is characterized by a half graben system, crustal
+   [43] Geometric and kinematic results from the southern        klippe and oceanic core complex below thick Cretaceous
+Australian margin coupled with subsurface data from the          progradational deltaic successions [Totterdell and Krassay,
+conjugate Antarctic margin (Adélie sector; modified from        2003]. In contrast, the Antarctic margin is wide and char-
+H. M. J. Stagg et al. (Geological framework of the continental   acterized by localized inner shelf grabens and a seaward
+margin in the region of the Australian Antarctic territory,      crustal high below thick Miocene to Pleistocene glacial
+Geosciences Australia record 2004/25, unpublished report,        sediments overlying a thin Cretaceous succession [O’Brien
+2004), Colwell et al. [2006], and R. Vially (Synthèse           et al., 2006; Donda et al., 2007; Close et al., 2007]. This is
+géologique de l’offshore de Terre Adélie (Antarctique),        in apparent contradiction to the propose scenario of Colwell
+unpublished report, 2006)) were integrated to construct a        et al. [2006] and H. M. J. Stagg (personal communication,
+lithosphere-scale, balanced cross section (Figure 15). The       2008), although it has long been recognized that passive
+cross section was constructed using an area balance approach     margin along strike geometry can abruptly change in
+(see Wilkerson et al. [2007] for more details).                  relation to the underlying crustal properties, or rifting
+   [44] The present-day lithosphere-scale architecture of the    history, as shown by Corti et al. [2003]. They particularly
+Australian-Antarctic conjugate margins shows a highly            showed that minor perturbations of a few kilometers in the
+
+
+                                                           22 of 26
+TC6002                                 ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                                                   TC6002
+
+prerift depth to Moho over a lateral distance of several                                       [48] 2. The structural and sedimentary architecture of the
+hundred kilometers can have profound effects on the rift                                    Ceduna delta system which developed on the southern
+duration, melt production, and in the width and symmetry of                                 Australian margin comprises two stacked delta systems:
+the conjugate margin pair.                                                                  the Late Albian-Santonian White Pointer delta system
+  [45] The Cenomanian restored state (Figure 15b) also                                      formed during the tectonic denudation of the mantle; the
+shows an asymmetrical geometry of the conjugate margins.                                    Late Santonian-Maastrichtian Hammerhead delta system
+Preceding the continental breakup event, simple shear                                       formed during oceanic seafloor spreading and sag basin
+deformation is accommodated by top-to-the-south sense of                                    evolution of the southern Australian margin.
+displacement above a south dipping low-angle detachment                                        [49] 3. The White Pointer delta system formed an unstable
+fault (here D0) in sense of Wernicke [1985], Froitzheim and                                 tectonic wedge, regionally detached above Late Albian shales
+Manatschal [1996] and Lister et al. [1991]. The lower                                       of the Blue Whale Supersequence. The overall structural style
+ductile crust is therefore a detachment zone between the                                    of the White Pointer delta system consists of extensional
+continental crust and the mantle. Extreme crustal thinning                                  growth faults in the upper part of the delta coupled with a
+and stretching resulted in the formation of a crustal klippe                                narrow band of preserved deep-water compressional structures.
+and subsequent subcontinental mantle exhumation. During                                     The 45 km of extension (i.e., 27%), accommodated in the
+this period, gravitational sliding of the White Pointer delta                               White Pointer delta system, is partially matched by tectonic
+system is active. This kinematic evolution is similar to the                                denudation of the mantle. Thus we can estimate the horizontal
+one described by Voggenreiter et al. [1988] for the present-                                stretching of the mantle between 2 km Ma1 and 5 km
+day Red Sea margin, by Pillevuit et al. [1997] for the Arabian                              Ma1. Before breakup event, the horizontal stretching of the
+paleomargin (Oman), and by Froitzheim and Manatschal                                        mantle increases at 14 km Ma1 as a result of the failure of
+[1996] for the South Alpine paleomargin. Finally, Cenoma-                                   the lithosphere. Subsequent uplift of the distal part of the
+nian reconstruction (Figure 15b) offers a viable asymmetrical                               margin, flexural subsidence of the proximal part of the margin
+extensional model for the Australia-Antarctica breakup, in                                  and tectonic death of the White Pointer delta system is related to
+which, the Australia margin corresponds to the lower plate,                                 the seaward exhumation of the subcontinental mantle.
+and the Antarctica margin to the upper plate [Etheridge et al.,                                [50] 4. The Hammerhead delta system is a stable tectonic
+1989; Lister et al., 1991].                                                                 wedge. However, lateral variations of stability and tectonic
+                                                                                            style (classical raft tectonic structures sustained by high
+                                                                                            sedimentation rates) are observed in the southeastern part of
+6. Conclusions                                                                              the basin. They are related to the inherited slope of the
+   [46] Subsurface data and structural models were used to                                  underlying White Pointer wedge.
+geometrically and quantitatively analyze the kinematic                                         [51] 5. Finally, low-angle detachment model can be
+evolution of the Ceduna delta system during the period of                                   used to explain the present-day asymmetrical geometry of
+breakup between the Australian and Antarctic continental                                    the Australian-Antarctic conjugate margins. In this model,
+plates. The following points summarize our conclusions.                                     the Australia margin corresponds to the lower plate, and the
+   [47] 1. During Late Albian to Santonian, the extension on                                Antarctica margin to the upper plate.
+the southern Australian margin can be explained by the
+development of a low-angle detachment fault that resulted in                                  [52] Acknowledgments. This paper was prepared while N. Espurt
+                                                                                            was in postdoctoral research position at the Institut Français du Pétrole
+exhumation of the subcontinental mantle [Wernicke, 1985;                                    (2008). We thank F. Roure and P. Symonds for fruitful comments on an
+Lister et al., 1986; Boillot and Froitzheim, 2001; Lemoine et                               earlier version of the manuscript. We also thank H. M. J. Stagg for
+al., 1987; Froitzheim and Manatschal, 1996]. We estimated                                   providing you with prepublication access to his manuscript. We wish to
+from the balanced cross section that this low-angle detach-                                 acknowledge E. Carminati for a careful review as well as the Associate
+                                                                                            Editor O. Doglioni for useful comments and suggestions. J. Totterdell and
+ment accommodated a minimum of 93 km of extension                                          H. Struckmeyer publish with permission of the chief executive officer,
+(i.e., 45%).                                                                               Geoscience Australia.
+
+
+
+
+References
+Abe, N. (2001), Petrochemistry of serpentinized peri-     Beslier, M.-O., et al. (2004), Une large transition con-              in Non-volcanic Rifting of Continental Margins:
+   dotite from the Iberia Abyssal Plain (ODP Leg              tinent-océan en pied de marge sud-ouest australi-                A Comparison of Evidence From Land and Sea,
+   173), Its character intermediate between sub-oceanic       e nn e: Pr e m i er s r es ul t a t s d e l a ca m p a g n e      edited by R. C. L. Wilson et al., Geol. Soc. Spec. Publ.,
+   to sub-continental upper mantle, in Non-volcanic           MARGAU/MD110, Bull. Soc. Geol. Fr., 175(6),                       187, 9 – 30, doi:10.1144/GSL.SP.2001.187.01.02.
+   Rifting of Continental Margins: A Comparison of            629 – 641, doi:10.2113/175.6.629.                              Boillot, G., S. Grimaud, A. Mauffret, D. Mougenot,
+   Evidence From Land and Sea, edited by R. C. L.         Bilotti, F., and J. H. Shaw (2005), Deep-water Niger                  J. Kornprobst, J. Mergoil-Daniel, and G. Torrent
+   Wilson et al., Geol. Soc. Spec. Publ., 187, 143 –          Delta fold and thrust belt modeled as a critical-                 (1980), Ocean-continent boundary of the Iberian
+   159, doi:10.1144/GSL.SP.2001.187.01.08.                    taper wedge: The influence of elevated basal fluid                margin: A serpentinite diapir west of the Galicia
+Anderson, J. E., J. Cartwright, S. J. Drysdall, and           pressure on structural styles, AAPG Bull., 89,                    Bank, Earth Planet. Sci. Lett., 48, 23 – 34,
+   N. Vivian (2000), Controls of turbidite deposition         1475 – 1491.                                                      doi:10.1016/0012-821X(80)90166-1.
+   during gravity-driven extension of a passive margin:   Blickwede, J. J., and T. A. Queffelec (1988), Perdido              Boillot, G., et al. (1985), Résultats préliminaires de la
+   Examples from Miocene sediments in block 4,                foldbelt; A new deepwater frontier in the Gulf of                 campagne 103 du Joides Resolution (Ocean Dril-
+   Angola, Mar. Pet. Geol., 17, 1165 – 1203, doi:10.          Mexico, AAPG Bull., 72, 163.                                      ling Program) au large de la Galice (Espagne): Sé-
+   1016/S0264-8172(00)00059-3.                            Boillot, G., and N. Froitzheim (2001), Non-volcanic                   dimentation et distension pendant le ‘‘rifting’’ d’une
+Bein, J., and M. L. Taylor (1981), The Eyre sub-basin:        rifted margins, continental break-up and the onset                marge stable: Hypothèse d’une dénudation tectoni-
+   Recent exploration results, APEA J., 21, 91 – 98.          of sea-floor spreading: Some outstanding questions,
+
+
+                                                                                   23 of 26
+TC6002                                    ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                                             TC6002
+
+    que du manteau supérieur, C. R. Acad. Sci., 301,             Niger Delta, AAPG Bull., 89, 753 – 780, doi:10.               108, 1120 – 1133, doi:10.1130/0016-
+    627 – 632.                                                    1306/02170504074.                                             7606(1996)108<1120:KOJRME>2.3.CO;2.
+Boillot, G., et al. (1987), Tectonic denudation of the        Corti, G., J. Van Wijk, M. Bonini, D. Sokoutis, S.            Gurnis, M., and R. D. Mueller (2003), The Origin of
+    upper mantle along passive margins: A model based             Cloetingh, F. Innocenti, and P. Manetti (2003),               the Australian Antarctic Discordance from an an-
+    on drilling results (OPD Leg 103, western Galicia             Transition from continental break-up to punctiform            cient slab and mantle wedge, in The Evolution and
+    margin, Spain), Tectonophysics, 132, 335 – 342,               seafloor spreading: How fast, symmetric and mag-              Dynamics of the Australian Plate, edited by R. R.
+    doi:10.1016/0040-1951(87)90352-0.                             matic, Geophys. Res. Lett., 30(12), 1604, doi:10.             Hillis and R. D. Mueller, Spec. Pap. Geol. Soc. Am.,
+Boillot, G., M.-O. Beslier, and J. Girardeau (1995),              1029/2003GL017374.                                            372, 417 – 429.
+    Nature, structure and evolution of the ocean-continent    Cramez, C., and M. P. A. Jackson (2000), Superposed           Hill, A. J. (1995), Bight Basin, in The Geology of South
+    boundary: The lesson of the west Galicia margin               deformation straddling the continental-oceanic tran-          Australia, vol. 2, The Phanerozoic, edited by J. F.
+    (Spain), in Rifted Ocean-Continent Boundaries,                sition in deep-water Angola, Mar. Pet. Geol., 17,             Drexel and W. V. Preiss, Geol. Surv. South Aust.
+    NATO ASI Ser., Ser. C, vol. 463, edited by E. Banda,          1095 – 1109, doi:10.1016/S0264-8172(00)00053-2.               Bull., 54, 133 – 138.
+    M. Talwari, and M. Torne, pp. 219 – 229, Kluwer           Cresswell, G. R., and D. A. Griffin (2004), The Leewin        Huismans, R. S., and C. Beaumont (2002), Asymmetric
+    Acad., Dordrecht, Netherlands.                                Current, eddies and sub-Antarctic waters off south-           lithospheric extension: The role of frictional plastic
+Boyer, S. E. (1995), Sedimentary basin taper as a factor          western Australia, Mar. Freshwater Res., 55, 267 –            strain softening inferred from numerical experi-
+    controlling the geometry and advance of thrust                276, doi:10.1071/MF03115.                                     ments, Geology, 30, 211 – 214, doi:10.1130/0091-
+    belts, Am. J. Sci., 295, 1220 – 1254.                     Dahlen, F. A., J. Suppe, and D. Davis (1984),                     7613(2002)030<0211:ALETRO>2.0.CO;2.
+Boyer, S. E., and D. Elliott (1982), The geometry of              Mechanics of fold-and-thrust belts and accretionary       Husson, L., and I. Moretti (2002), Thermal regime of
+    thrust systems, AAPG Bull., 66, 1196 – 1230.                  wedges: A cohesive Coulomb theory, J. Geophys.                fold and thrust belts-an application to the Bolivian
+Brandes, C., A. Astorga, S. Back, R. Littke, and J.               Res., 89, 10,087 – 10,101, doi:10.1029/                       sub Andean zone, Tectonophysics, 345, 253 – 280,
+    Winsemann (2007), Deformation style and basin-                JB089iB12p10087.                                              doi:10.1016/S0040-1951(01)00216-5.
+    fill architecture of the offshore Limón back-arc ba-     Dahlstrom, C. D. A. (1969), Balanced cross sections,          James, D. M. D. (1984), The geology and hydrocarbon
+    sin (Costa Rica), Mar. Pet. Geol., 24, 277 – 287,             Can. J. Earth Sci., 6, 743 – 757.                             resources of Negara Brueni Dalussalam, Spec. Publ.
+    doi:10.1016/j.marpetgeo.2007.03.002.                      Davis, D., J. Suppe, and F. A. Dahlen (1983), Mechan-             8, pp. 2 – 21, Muzium Bmnei and Brunei Shell Pet.
+Briggs, S. E., J. Cartwright, and R. J. Davies (2009),            isms of fold-and-thrust belts and accretionary                Co. Berhad, Seria, Brunei.
+    Crustal structure of the Deepwater west Niger Delta           wedges, J. Geophys. Res., 88, 1153 – 1172, doi:10.        Keetley, J. T., and K. C. Hill (2000), 3D structural
+    passive margin from the interpretation of seismic             1029/JB088iB02p01153.                                         modeling of the Kutubu oil fields, PNG, paper
+    reflection data, Mar. Pet. Geol., 26(6), 936 – 950,       Direen, N. G., I. Borissova, H. M. J. Stagg, J. B. Colwell,       presented at AAPG International Conference and
+    doi:10.1016/j.marpetgeo.2008.07.003.                          and P. A. Symonds (2007), Nature of the continent –           Exhibition, Am. Assoc. of Pet. Geol., Bali.
+Brown, B. J., R. D. Müller, and H. I. M. Struckmeyer             ocean transition zone along the southern Australian       König, M., and M. Talwani (1977), A geophysical
+    (2001), Anomalous tectonic subsidence of the                  continental margin: A comparison of the Naturaliste           study of the southern continental margin of Austra-
+    southern Australian passive margin: Response to               Plateau, SW Australia, and the central Great Austra-          lia: Great Australian Bight and western sections,
+    Cretaceous dynamic topography or differential                 lian Bight sectors, in Imaging, Mapping and Model-            Geol. Soc. Am. Bull., 88, 1000 – 1014, doi:10.
+    lithospheric stretching?, in Eastern Australasian             ling Continental Lithosphere Extension and                    1130/0016-7606(1977)88<1000:AGSOTS>2.0.
+    Basin Symposium, A Refocused Energy Perspective               Breakup, edited by G. D. Karner, G. Manatschal,               CO;2.
+    for the Future, edited by K. C. Hill and T. Bernecker,        and L. M. Pinhiero, Geol. Soc. Spec. Publ., 282,          Koopman, A., J. Schreurs, and D. W. Ellenor (1996),
+    pp. 563 – 569, Pet. Explor. Soc. of Aust., West Perth,        235 – 261, doi:10.1144/SP282.12.                              The oil and gas resources of Brunei Darussalam—
+    West. Aust., Australia.                                   Donda, F., P. E. O’Brien, L. De Santis, M. Rebesco, and           The coastal and offshore oil and gas fields, in
+Brun, J. P., and M.-O. Beslier (1996), Mantle exhuma-             G. Brancolini (2007), Mega debris flow deposits on            Geology and Hydrocarbon Resources of Negara
+    tion at passive margins, Earth Planet. Sci. Lett., 142,       the Western Wilkes Land margin, East Antarctica,              Brunei Darussalam, edited by S. T. Sandal, chap. 5,
+    161 – 173, doi:10.1016/0012-821X(96)00080-5.                  in Antarctica: A Keystone in a Changing World—                pp. 155 – 192, Syabas, Bandar Seri Begawan.
+Buffler, R. T., F. J. Shaub, J. S. Watkins, and J. L.             Online Proceedings of the 10th ISAES, edited by           Krassay, A. A., and J. M. Totterdell (2003), Seismic
+    Worzel (1978), Anatomy of the Mexican Ridges,                 A. K. Cooper et al., U.S. Geol. Surv. Open File               stratigraphy of a large, Cretaceous shelf-margin delta
+    southwestern Gulf of Mexico, in Geological and                Rep. 2007-1047, Short Res. Pap. 040, 4 pp.,                   complex, offshore southern Australia, AAPG Bull.,
+    Geophysical Investigations of Continental Margins,            doi:10.3133/of2007-1047.srp040.                               87, 935 – 963.
+    edited by J. S. Watkins, L. Montadert, and P. W.          Doust, H., and E. Omatsola (1989), Niger Delta, in            Lagabrielle, Y., and J. Y. Bondinier (2008), Submarine
+    Dickerson, AAPG Mem., 29, 319 – 327.                          Divergent/Passive Margins, edited by J. D. Edwards            reworking of exhumed subcontinental mantle rocks:
+Cande, S. C., and J. C. Mutter (1982), A revised iden-            and P. A. Santogrossi, AAPG Mem., 48, 201 – 238.              Field evidence from the Lherz peridotites, French
+    tification of the oldest sea-floor spreading anoma-       Driscoll, N. W., J. R. Hogg, N. Christie-Blick, and G.            Pyrenees, Terra Nova, 20, 11 – 21, doi:10.1111/
+    lies between Australia and Antarctica, Earth                  Karner (1995), Extensional tectonics in the Jeanne            j.1365-3121.2007.00781.x.
+    Planet. Sci. Lett., 58, 151 – 160, doi:10.1016/0012-          d’Arc Basin, offshore Newfoundland: Implications          Lemoine, M., P. Tricart, and G. Boillot (1987), Ultra-
+    821X(82)90190-X.                                              for the timing of break-up between Grand Banks                mafic and gabbroic ocean floor of the Ligurian
+Close, D. I., H. M. J. Stagg, and P. E. O’Brien (2007),           and Iberia, in The Tectonics, Sedimentation and               Tethys (Alps, Corsica, Apennines): In search of a
+    Seismic stratigraphy and sediment distribution on             Paleoceanography of the North Atlantic Region,                genetic model, Geology, 15, 622 – 625, doi:10.1130/
+    the Wilkes Land and Terre Adélie margins, East               edited by R. A. Scrutton, G. B. Shimmield, and                0091-7613(1987)15<622:UAGOFO>2.0.CO;2.
+    Antarctica, Mar. Geol., 239, 33 – 37, doi:10.1016/            A. W. Tudhope, Geol. Soc. Spec. Publ., 90, 1 – 28,        Le Pichon, X., and J.-C. Sibuet (1981), Passive mar-
+    j.margeo.2006.12.010.                                         doi:10.1144/GSL.SP.1995.090.01.01.                            gins: A model of formation, J. Geophys. Res., 86,
+Cobbold, P. R., R. Mourgues, and K. Boyd (2004),              Duée, G., Y. Lagabrielle, A. Coutelle, and A. Fortané           3708 – 3720, doi:10.1029/JB086iB05p03708.
+    Mechanism of thin-skinned detachment in the Ama-              (1984), Les lherzolites associées aux chaı̂nons          Li, Q., J. A. Simo, B. McGowran, and A. Holbourn
+    zon Fan: Assessing the importance of fluid overpres-          béarnais (Pyrénées Occidentales): Mise à l’af-            (2004), The eustatic and tectonic origin of Neogene
+    sure and hydrocarbon generation, Mar. Pet. Geol.,             fleurement anté-dogger et resédimentation albo-             unconformities from the Great Australian Bight,
+    21, 1013 – 1025, doi:10.1016/j.marpetgeo.2004.05.             cénomanienne, C. R. Acad. Sci., 17, 1205 – 1209.             Mar. Geol., 203, 57 – 81, doi:10.1016/S0025-
+    003.                                                      Elliott, D. (1983), The construction of balanced cross            3227(03)00329-3.
+Cohen, H. A., and S. Hardy (1996), Numerical model-               sections, J. Struct. Geol., 5, 101, doi:10.1016/0191-     Lister, G. S., M. A. Etheridge, and P. A. Symonds
+    ling of stratal architectures resulting from the dif-         8141(83)90035-4.                                              (1986), Detachment faulting and the evolution of
+    ferential loading of a mobile substrate, in Salt          Etheridge, M. A., P. A. Symonds, and G. S. Lister                 passive continental margins, Geology, 14, 246 – 250,
+    Tectonics, edited by G. I. Alsop, D. J. Blundell,             (1989), Application of the detachment model to                doi:10.1130/0091-7613(1986)14<246:DFATEO>
+    and I. Davison, Geol. Soc. Spec. Publ., 100, 265 –            reconstruction of conjugate passive margins, in               2.0.CO;2.
+    273, doi:10.1144/GSL.SP.1996.100.01.17.                       Extensional Tectonics and Stratigraphy of the             Lister, G. S., M. A. Etheridge, and P. A. Symonds
+Cohen, H. A., and K. McClay (1996), Sedimentation                 North Atlantic Margins, edited by A. J. Tankard               (1991), Detachment models for the formation of
+    and shale tectonics of the northwestern Niger Delta           and H. R. Balkwill, AAPG Mem., 46, 23 – 40.                   passive continental margins, Tectonics, 10, 1038 –
+    front, Mar. Pet. Geol., 13, 313 – 328, doi:10.1016/       Falvey, D. A. (1974), The development of continental              1064, doi:10.1029/90TC01007.
+    0264-8172(95)00067-4.                                         margins in plate tectonic theory, APEA J., 14,            Lopez, J. A. (1990), Structural styles of growth faults in
+Colwell, J. B., H. M. J. Stagg, N. G. Direen, G. Bernardel,       95 – 106.                                                     the U.S. Gulf Coast Basin, in Classic Petroleum
+    and I. Borissova (2006), The structure of the conti-      Fraser, A. R., and L. A. Tilbury (1979), Structure and            Provinces, edited by J. Brooks, Geol. Soc. Spec.
+    nental margin off Wilkes Land and Terre Adelie                stratigraphy of the Ceduna Terrace region, Great              Publ., 50, 203 – 219, doi:10.1144/GSL.SP.1990.
+    coast, east Antarctica, in Antarctica: Contributions          Australian Bight, APEA J., 19, 53 – 65.                       050.01.10.
+    to Global Earth Sciences, edited by D. K. Futterer        Froitzheim, N., and G. Manatschal (1996), Kinematics          Maillard, A., J. Malod, E. Thiébot, F. Klingelhoefer,
+    et al., pp. 327 – 340, Springer, Berlin.                      of Jurassic rifting, mantle exhumation, and passive-          and J.-P. Réhault (2006), Imaging a lithospheric
+Corredor, F., J. H. Shaw, and F. Bilotti (2005), Structural       margin formation in the Austroalpine and Penninic             detachment at the continent – ocean crustal transi-
+    styles in the deep-water fold and thrust belts of the         nappes (eastern Switzerland), Geol. Soc. Am. Bull.,           tion off Morocco, Earth Planet. Sci. Lett., 241,
+                                                                                                                                686 – 698, doi:10.1016/j.epsl.2005.11.013.
+
+
+                                                                                     24 of 26
+TC6002                                    ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                                            TC6002
+
+Manatschal, G., and D. Bernoulli (1999), Architecture             velopments and Applications, edited by P. Weimer             Miner. Resour., Geol. and Geophys., Canberra,
+   and tectonic evolution of nonvolcanic margins:                 and H. W. Posamentier, AAPG Mem., 58, 71 – 97.               Australia.
+   Present-day Galicia and ancient Adria, Tectonics,          Nagel, T. J., and W. R. Buck (2004), Symmetric alter-        Stampfli, G. M., and M. Marthaler (1990), Divergent
+   18, 1099 – 1119, doi:10.1029/1999TC900041.                     native to asymmetric rifting models, Geology, 32,            and convergent margin in the north-western Alps:
+Manatschal, G., N. Froitzheim, M. Rubenach, and B. D.             937 – 940, doi:10.1130/G20785.1.                             Confrontation to actualistic models, Geodin. Acta, 4,
+   Turrin (2001), The role of detachment faulting in          Norvick, M. S., and M. A. Smith (2001), Mapping the              159 – 183.
+   the formation of an ocean-continent transition: In-            plate tectonic reconstruction of southern and south-     Taylor, B., A. M. Goodliffe, and F. Martinez (1999),
+   sights from the Iberia Abyssal Plain, in Non-volcanic          eastern Australia and implications for petroleum             How continent break up: Insight from Papua New
+   Rifting of Continental Margins: A Comparison of                systems, APPEA. J., 41, 15 – 36.                             Guinea, J. Geophys. Res., 104, 7497 – 7512, doi:10.
+   Evidence From Land and Sea, edited by R. C. L.             Nunns, A. (1991), Structural restoration of seismic and          1029/1998JB900115.
+   Wilson et al., Geol. Soc. Spec. Publ., 187, 405 –              geologic sections in extensional regimes, Am. Assoc.     Totterdell, J. M., and B. E. Bradshaw (2004), The struc-
+   428, doi:10.1144/GSL.SP.2001.187.01.20.                        Pet. Geol. Bull., 75, 278 – 297.                             tural framework and tectonic evolution of the Bight
+Manatschal, G., O. Müntener, L. Desmurs, and D.              O’Brien, P. E., S. Stanley, and R. Parums (2006), Post-          Basin, in Eastern Australasian Basins Symposium II,
+   Bernoulli (2003), An ancient ocean – continent                 rift continental slope and rise sediments from 38°E          edited by P. J. Boult, D. R. Johns, and S. C. Lang,
+   transition in the Alps: The Totalp, Err – Platta,              to 164°E, East Antarctica, in Antarctica: Contribu-          pp. 41 – 61, Pet. Explor. Soc. of Aust., West Perth,
+   and Malenco units in the eastern central Alps                  tions to Global Earth Sciences, edited by D. K.              West. Aust., Australia.
+   (Graubünden and northern Italy), Eclogae Geol.                Fuetterer et al., pp. 341 – 348, Springer, Berlin.       Totterdell, J. M., and A. A. Krassay (2003), The role of
+   Helv., 96, 131 – 146.                                      Péron-Pinvidic, G., G. Manatschal, T. A. Minshull, and          shale deformation and growth faulting in the Late
+Manatschal, G., A. Engström, L. Desmurs, U. Schaltegger,         D. S. Sawyer (2007), Tectonosedimentary evolution            Cretaceous evolution of the Bight Basin, offshore
+   M. Cosca, O. Müntener, and D. Bernoulli (2006),               of the deep Iberia-Newfoundland margins: Evi-                southern Australia, in Subsurface Sediment Mobili-
+   What is the tectono-metamorphic evolution of conti-            dence for a complex breakup history, Tectonics,              zation, edited by P. Van Rensbergen et al., Geol.
+   nental break-up: The example of the Tasna Ocean-               26, TC2011, doi:10.1029/2006TC001970.                        Soc. Spec. Publ., 41, 99 – 127, 216, 429 – 442.
+   Continent Transition, J. Struct. Geol., 28, 1849 –         Pillevuit, A., J. Marcoux, G. M. Stamplı̈, and A. Baud       Totterdell, J. M., J. E. Blevin, H. I. M. Struckmeyer,
+   1869, doi:10.1016/j.jsg.2006.07.014.                           (1997), The Oman exotics: A key to the understand-           B. E. Bradshaw, J. B. Colwell, and J. M. Kennard
+Manatschal, G., O. Müntener, L. L. Lavier, T. A. Minshull,       ing of the Neotethyan geodynamic evolution, Geodin.          (2000), A new sequence framework for the Great
+   and G. Péron-Pinvidic (2007), Observations from               Acta, 10, 209 – 238.                                         Australian Bight: Starting with a clean slate,
+   the Alpine Tethys and Iberia – Newfoundland mar-           Ramsay, J. G., and M. Huber (1987), The Techniques of            APPEA J., 40, 95 – 117.
+   gins pertinent to the interpretation of continental            Modern Structural Geology, vol. 2, Folds and             Van Rensbergen, P., C. K. Morley, D. W. Ang, T. Q.
+   breakup, in Imaging, Mapping and Modelling Con-                Fractures, Academic, London.                                 Hoan, and N. T. Lam (1999), Structural evolution
+   tinental Lithosphere Extension and Breakup, edited         Raza, A., K. C. Hill, and R. J. Korsch (1995), Mid-              of shale diapirs from reactive rise to mud volcan-
+   by G. D. Karner, G. Manatschal, and L. M. Pinheiro,            Cretaceous regional uplift and denudation of the             ism: 3D seismic data from the Baram delta, offshore
+   Geol. Soc. Spec. Publ., 282, 291 – 324, doi:10.1144/           Bowen-Surat basins, Queensland and its relation              Brunei Darussalam, J. Geol. Soc., 156, 633 – 650,
+   SP282.14.                                                      to Tasman Sea rifting, in Bowen Basin Symposium              doi:10.1144/gsjgs.156.3.0633.
+Marton, L. G., G. C. Tari, and C. T. Lehmann (2000),              1995 – 150 years on, edited by I. L. Follington, J. W.   Veevers, J. J., C. Mc, A. Powell, and S. R. Roots
+   Evolution of the Angolan passive margin, West                  Beeston, and L. H. Hamilton, Geol. Soc. of Aust.,            (1991), Review of sea-floor spreading around
+   Africa, with emphasis on post-salt structural styles,          Sydney, N. S. W., Australia.                                 Australia: I. Synthesis of the patterns of spreading,
+   in Atlantic Rifts and Continental Margins, Geophys.        Reynolds, S. D., E. Paraschivoiu, R. R. Hillis, and              Aust. J. Earth Sci., 38, 373 – 389, doi:10.1080/
+   Monogr. Ser., vol. 115, edited by W. Mohriak and               G. W. O’Brien (2005), A regional analysis of fault           08120099108727979.
+   M. Talwani, pp. 129 – 149, AGU, Washington,                    reactivation and seal integrity based on geomecha-       Voggenreiter, W., H. Hötzl, and J. Mecchie (1988),
+   D. C.                                                          nical modeling: An example from the Bight Basin,             Low-angle detachment origin for the Red Sea rift
+Mascle, J., T. Zitter, G. Bellaiche, L. Droz, V. Gaullier,        Australia, in Evaluating Fault and Cap Rock                  system?, Tectonophysics, 150, 51 – 57, doi:10.1016/
+   L. Loncke, and the Prismed Scientific Party (2001),            Seals, Hedberg Ser., vol. 2, edited by P. Boult              0040-1951(88)90295-8.
+   The Nile deep sea fan: Preliminary results from a              and J. Kaldi, pp. 57 – 71, Am. Assoc. of Pet. Geol.,     Waschbush, E., C. Beaumont, and R. J. Korsch (1999),
+   swath bathymetry survey, Mar. Pet. Geol., 18,                  Tulsa, Okla.                                                 Geodynamic modelling of aspects of the New
+   471 – 477, doi:10.1016/S0264-8172(00)00072-6.              Sanderson, D. J. (1982), Models of strain variation in           England Orogen and adjacent Bowen, Gunnedah
+Mauduit, T., and J. P. Brun (1998), Growth fault/                 nappes and thrust sheets; a review, Tectonophysics,          and Surat basins, in New England Orogen: Regional
+   rollover systems: Birth, growth, and decay, J.                 88, 201 – 233, doi:10.1016/0040-1951(82)90237-2.             Geology, Tectonics and Metallogenesis, edited by
+   Geophys. Res., 103, 18,119 – 18,136, doi:10.               Sayers, J., P. Symonds, N. G. Direen, and G. Bernardel           R. G. Flood, pp. 203 – 210, Earth Sci., Univ. of
+   1029/97JB02484.                                                (2001), Nature of the continent-ocean transition on          New Engl., Armidale, N. S. W., Australia.
+Mauduit, T., G. Guerin, J.-P. Brun, and H. Lecanu                 the non-volcanic rifted margin of the central Great      Wernicke, B. P. (1985), Uniform-sense normal simple
+   (1997), Raft tectonics: The effects of basal slope             Australian Bight, in Non-volcanic Rifting of Conti-          shear of the continental lithosphere, Can. J. Earth
+   angle and sedimentation rate on progressive exten-             nental Margins: A Comparison of Evidence From                Sci., 22, 108 – 125.
+   sion, J. Struct. Geol., 19, 1219 – 1230, doi:10.1016/          Land and Sea, edited by R. C. L. Wilson et al.,          Whitmarsh, R. B., G. Manatschal, and T. A. Minshull
+   S0191-8141(97)00037-0.                                         Geol. Soc. Spec. Publ., 187, 51 – 77, doi:10.1144/           (2001), Evolution of magma-poor continental mar-
+McClay, K. R., T. Dooley, and G. Lewis (1998), Analog             GSL.SP.2001.187.01.04.                                       gins from rifting to seafloor spreading, Nature, 413,
+   modeling of progradational delta systems, Geology,         Schreurs, G. (1997), The petroleum geology of Negara             150 – 154, doi:10.1038/35093085.
+   26, 771 – 774, doi:10.1130/0091-7613(1998)026<                 Brunei Darussalem; an update, in Proceedings of          Whittaker, J. M., R. D. Müller, G. Leitchenkov, H. Stagg,
+   0771:AMOPDS>2.3.CO;2.                                          the IPA Petroleum Systems of SE Asia and Austra-             M. Sdrolias, C. Gaina, and A. Goncharov (2007),
+McClay, K., T. Dooley, and G. Zamora (2003), Analo-               lasia Conference, Jakarta, Indonesia, May, 1997,             Major Australian-Antarctic plate reorganization at
+   gue models of delta systems above ductile sub-                 edited by J. V. C. Howes and R. A. Noble, pp.                Hawaiian-Emperor bend time, Science, 318, 83 –
+   strates, in Subsurface Sediment Mobilization,                  751 – 766, Indonesian Pet. Assoc., Jakarta.                  86, doi:10.1126/science.1143769.
+   edited by P. Van Rensbergen et al., Geol. Soc. Spec.       Sestini, G. (1989), Nile Delta: A review of depositional     Wilkerson, M. S., S. M. Smaltz, D. R. Bowman, M. P.
+   Publ., 216, 411 – 428, doi:10.1144/GSL.SP.                     environments and geological history, in Deltas:              Fischer, and I. C. Higuera-Diaz (2007), 2-D and
+   2003.216.01.27.                                                Sites and Traps for Fossil Fuels, edited by M. K.            3-D modeling of detachment folds with hinterland
+McKenzie, D. P. (1978), Some remarks on the devel-                G. Whately and K. T. Pickering, Geol. Soc. Spec.             inflation: A natural example from the Monterrey
+   opment of sedimentary basins, Earth Planet. Sci.               Publ., 41, 99 – 127, doi:10.1144/GSL.SP.1989.                Salient, northeastern Mexico, J. Struct. Geol., 29,
+   Lett., 40, 25 – 32, doi:10.1016/0012-821X(78)                  041.01.09.                                                   73 – 85, doi:10.1016/j.jsg.2006.07.010.
+   90071-7.                                                   Shaw, J., C. Connors, and J. Suppe (2005), Seismic           Willcox, J. B., and H. M. J. Stagg (1990), Australia’s
+Mitchum, R. M., Jr., and J. C. Van Wagoner (1991),                interpretation of contractional fault-related folds,         southern margin: A product of oblique extension,
+   High-frequency sequences and their stacking pat-               in Seismic Atlas, AAPG Stud. Geol., 53, 1 – 156.             Tectonophysics, 173, 269 – 281, doi:10.1016/0040-
+   terns: Sequence-stratigraphic evidence of high-            Sibuet, J.-C., S. Srivastava, and G. Manatschal (2007),          1951(90)90223-U.
+   frequency eustatic cycles, Sediment. Geol., 70,                Exhumed mantle-forming transitional crust in the         Winker, C. D., and M. B. Edwards (1983), Unstable
+   131 – 160, doi:10.1016/0037-0738(91)90139-5.                   Newfoundland-Iberia rift and associated magnetic             progradational clastic shelf margins, in The Shelf-
+Morley, C. K., and G. Guerin (1996), Comparison of                anomalies, J. Geophys. Res., 112, B06105, doi:10.            break: Critical Interface on Continental Margins,
+   gravity-driven deformation styles and behaviour                1029/2005JB003856.                                           edited by D. J. Stanley and G. T. Moore, Spec.
+   associated with mobile shales and salt, Tectonics,         Somerville, R. (2001), The Ceduna sub-basin – a snap-            Publ. Soc. Econ. Paleontol. Mineral., 33, 139 – 157.
+   15, 1154 – 1170, doi:10.1029/96TC01416.                        shot of prospectivity, APPEA J., 41, 321 – 346.          Woodward, N. B., S. E. Boyer, and J. Suppe (1985), An
+Muntingh, A., and L. F. Brown (1993), Sequence stra-          Stagg, H. M. J., C. D. Cockshell, J. B. Willcox, A. J.           outline of balanced cross sections, 2nd ed., Stud.
+   tigraphy of petroleum plays, post-rift Cretaceous              Hill, D. V. C. Needham, B. Thomas, G. W. O’Brien,            Geol., vol. 11, Dep. of Geol. Sci., Univ. of Tenn.,
+   rocks (lower Aptian to upper Maastrichtian), Or-               and L. P. Hough (1990), Basins of the Great Aus-             Knoxville.
+   ange Basin, western offshore, South Africa, in                 tralian Bight region—Geology and petroleum po-           Worrall, D. M., and S. Snelson (1989), Evolution of the
+   Siliciclastic Sequence Stratigraphy—Recent De-                 tential, Folio 5, Cont. Margins Program, Bur. of             northern Gulf of Mexico, with emphasis on Ceno-
+
+
+                                                                                     25 of 26
+TC6002                                  ESPURT ET AL.: CONTINENTAL BREAKUP AND DELTA SYSTEM                                                                              TC6002
+
+   zoic growth faulting and the role of salt, in Geology       Pet. Geol., 7, 334 – 370, doi:10.1016/0264-                        N. Espurt, CEREGE, UMR 6635, Aix-Marseille
+   of North America, vol. A., The Geology of North             8172(90)90014-8.                                               Université, Europôle de l’Arbois, BP80, F-13545 Aix-
+   America—An Overview, edited by A. W. Bally and                                                                             en-Provence CEDEX 04, France. (espurt@cerege.fr)
+   A. R. Palmers, pp. 97 – 138, Geol. Soc. of Am.,                                                                                H. Struckmeyer and J. Totterdell, Petroleum and
+   Boulder, Colo.                                                                                                     Marine Division, Geoscience Australia, GPO Box 378,
+                                                                J.-P. Callot and R. Vially, Institut Français du Pétrole,
+Wu, S., A. W. Bally, and C. Cramez (1990), Allochtho-      1 et 4 Av. de Bois-Préau, F-92852 Rueil-Malmaison                 Canberra ACT 2601, Australia. (heike.struckmeyer@
+   nous salt, structures and stratigraphy of the north-    CEDEX, France. (j-paul.callot@ifp.fr; roland.vially@               ga.gov.au; jennifer.totterdell@ga.gov.au)
+   eastern Gulf of Mexico, Part II, structure, Mar.        ifp.fr)
+
+
+
+
+                                                                                    26 of 26
+

@@ -1,0 +1,389 @@
+0 Acadbmie des sciences / Elsevier, Paris
+Oceanography   / Oc&nographie
+(Marine Geology / Gbologie marine)
+
+
+
+
+Pervasive dextral strike-slip faulting within the
+backstop of the eastern Nankai wedge confirmed
+by deep-towed seismic data (KAIKO-TOKAV96
+cruise)
+Le cisaillement dextre distribue au sein du butoir du prisme de
+Nankai oriental confirm& par des donnties sismiques prh du
+fond (campagne KAIKO-TOKA1’96)
+Philippe HUCHON’* Hidekazu TOKUYAMA*, Siegfried J. LALLEIUNT’, Asahiko TAIRA~, Pierre HE~XRY~,
+Stephane MAZZOTT?,Xavier LE PICHON’ and the KAIKO TOKAI’96 on board scientific party**
+’ Laboratoiredeg@ologie,&Colenormale sup&ieure, CNRS   URA1.316,24, rue Lbomond, 75231Pariscedex05,France
+’ OceanResearch Institute,University of Tokyo,1-15-I Minami Dai. Tokyo164,Japan
+
+
+ABSTRACT
+New deep-towed (PASISAR) seismic data of the KAIKO-TOKA1’96 cruise UUVL’Atalante), combined
+with SAR side-scan sonar, multibeam bathymetric data and previously available data, confirm that the
+backstop of the eastern Nankai wedge, close to the Izu collision zone, is affected by pervasive
+right-lateral strike-slip faulting. We interpret this tectonic pattern as the result of the combination of
+shear partitioning due to oblique subduction with the effect of the Izu collision. 0 Acadi%ie des
+sciences / Elsevier, Paris.
+
+Keywords: Accre tionary wedge, Shear partitioning, Deep-towed                  seismics, Nankai   trough
+
+
+RBSUMB
+De nouvelles don&es de sismique pr& du fond (PASISAR)acquises durant la campagne KAIKO-
+TOMI’      (N/O L’Atalante), combinees avec les donnies d’imagerie sonar (SAR), les don&es
+bathymetriques multifaisceaux et les donnkes ant&ewes, coqjirment que le butoir de la partie
+orientale du p&me de AVankai,pr& de la zone de collision dLzu, est affect6par une s&e de
+dt?rochementsdextresparalleles d lafosse.Nous intelprktons ce disposittftectonique commer&ltant
+de la combination du partitionement de la convergence oblique avec l’effet de la collision d’lzu.
+0 Acadkmie dessciences/ Elsevier,Paris.
+blots cl&   : Prisme d’occrbtion.    Partitionnement.    Sismique pr& du fond, Fosse de Nankai
+
+** Frank APPELL, Juichiro ASHI, Anke Bleyer, Jean-Paul CADET, Pierre COCHONAT, Fransois FARCY, Jean-
+Paul FOUCHER, Toru Fujii, Franlois HARMEGNIES, Kenji HIRATA, Laurent JOLIVET, Yukihiro KATO, Masataka
+KINOSHITA, Kazuo KOBAYASHI, Jean-Yves LAP~DLJRE,Peter LINKE, Koichi NAKAMURA, Vincent RENARD,
+Catherine SATRA, Won SOH, Erwin SUESS, Tomochika TOKUNAGA
+
+Version     abrCg6e (voir p. 874)
+
+Note prksentke par Xavier Le Pichon.
+Note remix le 16Mwier 1998,accept&e  apresrevisionle 4 mai 1998
+
+* E-mail: huchon@geologie.ens.fr
+
+C. R. Acad. Sci. Paris, Sciences de la terre et des plan&es       / farfh & Planetary   Soences
+1998.326.869-875
+P. Huchon et al.
+
+
+1. Introduction                                                        strike-slip faults and thrusts resulting from high coupling
+                                                                       between the two plates (figure 1). Kanaori et al. (1992)
+                                                                       interpreted the domino-like      pattern of dominantly strike-
+The Nankai accretionary wedge results from the offscrap-               slip faults as the result of the Izu collision, and Pollitz and
+ing of the upper part of the sediments of the Shikoku basin            Sacks (1994) evaluated the shortening rate at about
+(Philippine Sea Plate) as it subducts beneath southwest                10 mm.yrr’. Therefore, only about one half of the relative
+Japan (e.g. Ando, 1975; Le Pichon et al., 1987; Moore et               plate motion is absorbed by subduction in the Nankai
+al., 1990). The eastern Nankai area has two interesting                trough.
+peculiarities. First, the corresponding segment of the inter-
+plate seismic plane has not suffered a major rupture since                 The Median Tectonic Line (MTL) of southwest Japan,
+1854 whereas the other parts of the Nankai trough rup-                 north of the central part of the Nankai trough (figure 1), is
+tured in 1944 and 1946 during the Nankaido and Tonan-                  a right-lateral fault that accommodates     the obliquity of
+kai earthquakes (magnitude > 8) (Ishibashi, 1981). Sec-                subduction toward the northwest. When approaching the
+ond, recent works have shown that a significant part of the            Izu collision zone (Huchon and Kitazato, 1984; Naka-
+convergence motion is absorbed not only in the trough but              mura et al., 1984), the MTL is inactivated and the strike-
+also landward as well as oceanward (Le Pichon et al.,                  slip motion is taken up by the domino system.
+199613). In this area, the Philippine Sea-Eurasia instanta-                Recently, it has been suggested, on the basis of bathy-
+neous relative motion is about 50 mm.yr-’ toward azi-                  metric data and submersible observations (Le Pichon et
+muth 308” (Seno et al., 1993). To the south, the Zenisu                al., 1994; Thoue et al., 1995), that the backstop of the
+Ridge (figure 1) is an incipient        intra-oceanic  thrust          wledge is also affected by strike-slip faulting. In this paper,
+(Chamot-Rooke and Le Pichon, 1989), which absorbs 10                   wre present new data from the KAIKO-TOKAl’96          cruise of
+to 25 mm,yr-’ of convergence (Lallemant et al., 1989; Le               the R/V L’Atalante, conducted from March 14 to April 12,
+Pichon et al., 1996a). Landward, the western part of                   1996 in the framework of the French-Japanese            KAIKO-
+central Japan is characterized by the occurrence of several            TOKAI cooperative program.
+
+
+
+
+  36”
+
+
+
+
+  34”
+
+
+
+
+                                                                                               Figure 1. Kinematic     and tectonic       frame-
+                                                                                               work of the eastern    Nankai trough.
+
+  32”                                                                                          Confexfe  cinhnafique      et tectonique    de /a
+        136”                              138”                                      140”       fosse de Nankai orientale.
+
+
+870                                              C. R. Acad. Sci. Pans. Sciences de la terre et des plan&es    / Earth & Plonetmy      Sciences
+                                                                                                                            1998. 326, am-875
+                                                                                  Strike-slip faults within the eastern Nankai wedge     backstop
+
+
+2. Data acquisition              and processing                             cessed PASISAR profile is given in figure 3. Seismic data
+                                                                            were also recorded with a surface streamer, as well as
+The detailed bathymetric map obtained during the cruise                     underway geophysics (gravity, magnetics).
+using the Simrad EM12 dual multibeam echosounder is
+shown in figure 2. The main part of the cruise was devoted
+to mapping of the main structural elements (the deforma-                    3. Results
+tion front, the accretionary wedge, the backthrust and the
+backstop area), using the SAR side-scan sonar and the                       The eastern Nankai deformation          area can broadly be
+PASISAR deep-towed seismic reflection system (Savoye et                     divided in three zones (figure 2): 1) the Zenisu ridge,
+al., 1995). This system consists of a single trace streamer                 which shows clear southward propagation of a northward
+towed behind the SAR while shooting is done behind the                      dipping frontal thrust within the turbidites deposited south
+ship. This geometry decreases the width of the Fresnel                      of the ridge (Chamot-Rooke and Le Pichon, 1989); 2) the
+zone by a factor of about 5 and thus increases the resolu-                  accretionary wedge whose deformation front also shows a
+tion of the seismic section compared to a surface streamer.                 southward propagation of the thrusts (Chamot-Rooke et
+During processing (Nouze et al., in press), a correction is                 al., 1992; Lallemant et al., 1998); the wedge is limited to
+applied to account for the particular geometry of the                       the north by a backthrust zone (Lallemant et al., 1995);
+source-receiver system: a constant velocity of 1 500 m.ss                   and 3) the middle and upper slopes, which correspond to
+is assumed as well as subhorizontal    reflectors. Although                 the backstop of the wedge, where the expression of defor-
+approximate,    this correction is acceptable for a water                   mation is fairly different from that in the wedge. The whole
+depth of less than 2 000 m. An example of such a pro-                       area is crossed by the Tenryu canyon, which runs south-
+
+
+
+
+Figure 2. Structural map of the area sur-
+veyed during the KAIKO-TOKAl’96    cruise.
+
+Cafe sfructurale de /a zone   d’btude   de /a
+campagne KAIKO-TOKA1’96.                                  137’ 00’                                        138’ 00’                     138’ 30’
+
+C. R. Acad. Sci. Paris, Sciences de la terre et des planetes   / E&h & Planetary Sciences                                                   871
+1998. 326. am-875
+P. Huchon et al.
+
+
+westward           up to 34Ol O’N then turns toward the south. The                           mfetrical, with the steepest flank facing south. This suggests
+canyon         is presently      active, as shown by the EM12 back-                          the existence of blind thrusts dipping north, controlling                      the
+scattering         images.                                                                   formation      of the folds. However,         in the sector of the Enshu
+     The middle           and upper slopes are characterized                        by a     fault, immediately          west of the Tenryu canyon,               the pres-
+quite regular succession               of folds with axis trending               N50”E       ently active        blind thrust dips to the south (Profile 25,
+on average (figure 2). These folds are generally                           associated        figure 4). This change of vergence                along-strike      is charac-
+with       linear      bathymetric       trends evocative              of strike-slip        teristic of a transpressional         structure.
+faults. For instance, a strike-slip               component         can be inferred               Sigmoidal      en &he/on      folds are observed           between        the
+on the N55”E trending Kodaiba fault from the very straight,                                  Kodaiba and Enshu faults, and are the most expressed west
+linear scarp that can be followed                    from 137”20’E to 138”E,                 of the Tenryu canyon. They indicate that the entire zone is
+where it joins a small depression                      oriented      N20”E. A pre-           subjected to dextral strike-slip          motion. The floor of Tenryu
+liminary         interpretation      as a pull-apart         basin led Le Pichon             canyon,      a major turbidite        channel       in the Quaternary,           is
+et al. (1994) to conclude                 that there existed a left-lateral                   itself folded (Profile 25, figure 4), leaving no doubt that the
+sense of movement               on the Kodaiba fault. However,                  further      deformation        is active.
+submersible            observations       (Thoue et al., 1995) suggested                          Whereas       most of the folds within               the accretionary
+rather the presence of thrusts bounding the depression,                               and    wedge are curved, the backthrust                 is characterized        on the
+therefore         interpreted     as a push-down            basin.                           bathymetry        and backscattering         images by a single, very
+      PASISAR profiles           image the tilted sedimentary                  infill of      linear ridge called the Yukie ridge (Lallemant                 et al., 1995),
+the depression             and confirm        the likely occurrence             of two       which evolves          into a more complex            system of highs and
+thrust faults on its western                     flank     (figure 3). The SAR                lows east of 137”50’E.          Some en echelon             and sigmoidal
+3.5 kHz profiles also show on either side of the depression                                  scarps visible on the SAR images indicate                      a right-lateral
+a series of N1O”E trending,                 low amplitude          folds that affect         component         on the backthrust.        This is consistent        with the
+the seafloor and a subsurface                   unconformity          interpreted       as    linear aspect of the ridge, which extends from 137”22’E to
+an erosional            surface.     However,        there is no fault on the                 137”55’E      over nearly 60 km, and with the shear motion
+eastern flank of the depression,                       suggesting        that it was         previously      described     upslope.
+ initially      an erosional        feature.      Buried sedimentary              struc-
+tures are indeed evocative                     of a turbidite         channel        with    4. Discussion                  and conclusion
+ lateral levees. Recent compressive                      deformation         probably
+obstructed           the channel to the south and caused the depo-                           A dextral    strike-slip   component      is observed     on some
+sition of the present infill.                                                                prominent   faults such as the backthrust,       the Kodaiba fault,
+      North of the Kodaiba fault, several linear scarps are also                             the Enshu fault, and some less well-expressed          shear zones
+associated          with N50”E to N60”E trending folds. The spac-                            within the backstop      of the Nankai wedge. The strike-slip
+ ing of the folds is quite regular, but is considerably                           larger     component      is likely minor, though no observations             can
+than in the lower slope accretionary                       wedge. As shown on                constrain the respective      rates of shortening    and strike-slip
+the seismic line drawings                (figure 4), these folds are asym-                   motions.
+
+
+                                                              200 km
+       W                                         l                                  B                                 E
+              _      ERODED       FOLD
+
+                                 ,
+                                                       KODAIBA     BASIN
+
+
+
+
+                                                                                                                          Figure 3. Processed deep-towed seismic (PA-
+                                                                                                                          WAR) profile KT7. location on figure 2.
+                                                                                                                            7sn;.:
+                                                                                                                          Profil    sismique   pr& du fond (PASISAR) KT7
+                                                                                                                          apr&     traitement.   Localisation sur la figure 2.
+  km
+872                                                                   C. R. Acod. Sci. Paris, Sciences de la terre et des plan&es            / Eurth & Planetary    Sciences
+                                                                                                                                                          1998. 326,869.875
+                                                                                                 Strike-slip faults within the eastern Nankai wedge                  backstop
+
+
+                                                                        SSE                                                                                            NNW
+                                                                                                                 30 km
+                                                                           I                                                                                             -I
+
+
+
+
+Figure 4. Interpretation of surface seismic
+profiles across the Enshu fault. location on
+figure 2.
+.a 9’@$3:
+lnterprhtation     de profils sismiques    conven-                                   T O.
+tionnels (f/&e en surface), perpendiculaires       2
+                                                                                     L     1 seclwt
+/a fail/e d’fnshu.   Localisation sur /a figure 2.
+
+
+    Recent kinematic          analysis    shows that the subduction                      backstop.      If paleo-Zenisu        is still attached to the subducting
+vector is about 20 mm.yr-’             toward      azimuth        285’ across             Philippine       Sea-plate,      the resulting           deformation          of the
+the Suruga trough (between             central Japan and Izu penin-                      backstop comprises             both shortening          and dextral strike slip.
+sula), and about 35 mm.yrr’               toward      295” in the survey                     The hypothesis            that relates the deformation                     of the
+area (Le Pichon et al., 1996a). This more westerly                      motion,          wedge backstop           in the Tokai region to the subduction                       of a
+compared        with the N310”E          Philippine      Sea-Eurasia         mo-         paleo-Zenisu         ridge has also the advantage                   of explaining
+tion,    is due to the south-southeastward                       intraoceanic            the limited       extension       of the deformed              zone toward            the
+thrusting of the Zenisu ridge (figure 1). GPS geodetic                     mea-          west. According            to Japanese seismic reflection                   surveys,
+surements        in izu Peninsula         and in the islands of the                      there is evidence             of minor        activity      along the western
+ Izu-Bonin      arc confirm     this change in convergence                direc-         prolongation        of the Enshu fault in the Kumano basin (west
+tion. Consequently,         the motion is nearly perpendicular                  to       of our survey area), but the fold system identified                              in the
+the Suruga trough and cannot produce                      left-lateral     shear         present study abruptly              ends at the edge of the Kumano
+there, as would          be expected        from the Philippine              Sea-        basin. Although           the nature of the motion                 accomodated
+Eurasia motion. This is confirmed              by the disappearance             of       along the edge of the Kumano basin (either compressive                                  or
+the strike-slip     faults east of longitude            138”E, where the                 strike slip) is still unclear,            there is little doubt that the
+tectonics     of the wedge and its backstop               is dominated         by         Kumano basin is not subjected                 to the same deformation                  as
+folding and thrusting.                                                                   the wedge backstop off Tokai.
+    We may thus consider the system of N60”E dextral faults                                  In this interpretation,          no transfer of motion is required
+as due to shear partitioning,          as does the MTL further west.                     between      the MTL and the deformation                     zone described             in
+The shear partitioning          model supposes the existence                 of a        this study. Both are the consequence                    of the obliquity          of the
+fore-arc    sliver partially      decoupled       from mainland           Japan           Philippine      Sea-plate subduction.             Strike-slip     faulting along
+and migrating          southwestward          parallel      to the Nankai                the MTL extends             over the whole             width of the Shikoku
+trough.    Here the sliver is formed of the backstop                      of the         basin, whereas the Enshu and Kodaiba faults merely acco-
+wedge and the wedge itself. Based on gravimetric                             and         modate the additional              subduction          obliquity     and asperity
+magnetic       modelling,      Le Pichon et al. (1996a) proposed                         caused by the Zenisu-paleo-Zenisu                          system.
+that a paleo-Zenisu         ridge exists below the wedge, now in                             The occurrence           of several offshore strike-slip              faults has
+contact     with the backstop.           Its subduction           since about            important        consequences          for the seismic            hazard        in the
+2 Ma should then have controlled                    the tectonics        of the          area, because           a subduction            earthquake         could       trigger
+
+C. R. Acad. Sci. Paris, Sciences de la terre et des plan&es
+1990. 326,869-a75
+                                                                         / E&h & Hcmefary Sciences                                                                            873
+P. Huchon et al.
+
+strike-slip motion in the same way as proposed by Lalle-                   backstop may be rooted in the seismogenic subduction
+mant et al. (1996) and Poll&z et al. (1996) for the Great                  plane which is only 10 to 15 km deep below the Kodaiba
+Kanto earthquake of 1923. Some of the faults that affect the               and Enshu faults, respectively.
+
+
+
+
+VERSION ABRBGBE
+
+Introduction                                                               La pente moyenne et superieure est caracterisee par une
+                                                                           succession de plis orient& N60°E, generalement associes a des
+La par-tie orientale de la fosse de Nankai, oti le bassin de               escarpements rectilignes evoquant des decrochements, tels
+Shikoku (plaque Philippine) est subduit sous le Japon du                   que la faille de Kodaiba, qui peut &tre suivie de 137”20’E a
+Sud-Ouest (e.g. Ando, 1975 ; Le Pichon et al., 1987 ; Moore et             I38OE: od elle rejoint une depression orientee N20°E, initiale-
+al., 1990), possede deux particularites. D’une part, cette zone            ment interpretee comme un bassin extensif (Le Pichon et al.,
+n’a pas connu de rupture sismique majeure depuis 1854                      1994). Des observations en submersible (Thou6 et al., 1995)
+(Ishibashi, 1981). D’autre part, des travaux recents (Le Pichon            ant montre l’existence, sur le flaw ouest, de chevauchements
+et al., 1996b) ont montre qu’une part signiiicative de la                  confirmes par les profils PASISAR (figure 3). La nature en
+convergence est absorbee plus au sud, le long du chevauche-                pwh-down de cette depression implique une composante
+ment intra-oceanique de la ride de Zenisu (Chamot-Rooke et                 dextre sur la faille de Kodaiba, en accord avec la disposition
+Le Pichon, 1989) et plus au nerd, sous la forme d’un systeme               des plis en echelons sigmoi’des situ& a l’ouest du canyon de
+de decrochements et de chevauchements lies a la collision                  Tenryu.
+d’Izu (Kanaori et al., 1992) (figure 1). A l’ouest de cette region,        Au nord de la faille de Kodaiba, une serie d’escarpements
+la Ligne tectonique mediane est un decrochement dextre                     rectilignes est associee a des plis asymetriques a vergence sud
+interpret6 comme resultant de la subduction oblique de la                  (figure 4): suggerant l’existence de chevauchements aveugles P
+plaque Philippines sous le Japon. Des observations recentes                plongement vers le nord. Cependant, la par-tie orientale de la
+(Le Pichon et al., 1994 ; Thoue et al., 1995) ont montre que le            fallle d’Enshu presente un pli a vergence nord (profil 25,
+butoir du prisme de Nankai est egalement affect6 de decroche-              figure 4), formant ainsi une structure en fleur positive, symp-
+ments paralleles a la fosse. Nous presentons dans cette note               tonatique d’un accident a composante decrochante. Cette
+des donnees nouvelles acquises lors de la campagne KAIKO-                  deformation est active, car les plis affectent les sediments
+TOKAI’96 du N/O L’Atalante, menee du 14 mars au 12 avril                   recents du canyon de Tenryu.
+1996 darts le cadre du programme franco-japonais KAIKO-
+                                                                           Enfin, le retrochevauchement limitant le prisme d’accretion
+TOKAI.
+                                                                           semble egalement posseder une composante decrochante dex-
+                                                                           tre, comme l’attestent les escarpements sigmoi’des en echelon,
+                                                                           visibles sur les images SAR le long du flanc nord de la ride de
+Acquisition        et traitement     des donni?es
+                                                                           Yukie, une structure rectiligne s’etendant de 137”22’E a
+L’objectif principal de la campagne etait l’etude de la partie             137’55’E.
+orientale de la fosse de Nankai (figure 2) P l’aide du sonar
+lateral remorque SAR et de la flute sismique pres du fonds
+PASISAR (Savoye et al., 1995). La geometric du systeme d’ac-               Discussion
+quisition permet une meilleure resolution, mais necessite un
+traitement approprie (IXouze et al.. sous presse). La figure 3 est         Deux explications peuvent &tre donnees P la presence de
+un exemple de profil PASISAR trait& Une carte bathymetrique                chevauchements P composante dextre affectant le butoir du
+detaillee a Cgalement ete obtenue (figure 2) ainsi clue des                prisme de Nankai. Leur espacement regulier suggere une
+don&es sismiques conventionnelles (flute en surface) et des                geometric en dominos dans une zone de cisaillement senestre
+don&es magnetiques et gravimetriques.                                      nerd-sud, limitee par la fosse de Suruga a l’est et le bassin de
+                                                                           Kumano I l’ouest. Cependant. un modele cinematique recent
+                                                                           su,ggere que le vecteur subduction est d’environ 20 rnm,an-’
+R&ultats                                                                   vers l’azimut 285” dans la fosse de Suruga, et d’environ
+                                                                           35 mm.an-’ vers l’azimut 295” plus au sud-ouest (Le Pichon et
+La zone d’etude peut &tre divisee en trois ensembles (figure 2) :          al.. I996a). Ce mouvement, orientC plus vers l’ouest que le
+(1) la ride de Zenisu et ses chevauchements frontaux a pen-                mouvement Philippine-Eurasie (308’) est du au chevauche-
+dage nord (Chamot-Rooke et Le Pichon, 1989) ; (2) le prisme                merit intra-oceanique de la ride de Zenisu vers le SSE. Par
+d’accretion limit6 par un front de deformation se propageant               consequent, le mouvement perpendiculaire a la fosse de
+vers le sud (Chamot-Rooke et al., 1992) ; (3) la partie moyenne            Suruga ne peut produire de cisaillement senestre, ce qui est
+et superieure de la marge, qui constitue le butoir du prisme. Le           confirm6 par la disparition des decrochements a l’est de 138O~.
+canyon actif de Tenryu traverse la zone d’etude du nord-est                NCUS considerons done le systeme de decrochements dextres
+vers le sud-ouest.                                                         N6O”E comme dfi au partitionnement de la deformation, a
+                                                    C. R. Acad. Sci. Paris, Sciences de la terre et des plan&es   / Earth & Plonetafy Sciences
+                                                                                                                             1998. 326.069475
+                                                                                         Strike-slip faults within the eastern Nankai wedge   backstop
+
+
+cause de la subduction oblique. Le butoir, ainsi que peut-etre le                 (35 mm.an-‘) qu’a Pest (20 mm.an-‘I, expliquant ainsi la defor-
+prisme, est done partiellement decouple du Japon et se deplace                    mation dextre distribuee.
+vers le sud-ouest. Sur la base de modelisations gravimetrique et                  La presence de ces failles actives a des consequences impor-
+magnetique, Le Pichon et al. (1996a) ont propose qu’une                           tantes pour le risque sismique, un seisme de subduction
+pal&ride de Zenisu se trouve actuellement sous le prisme, en                      pouvant activer leur rejeu, comme ce fut le cas plus a l’est lors
+contact avec le butoir. Si cette paleo-ride est attachee a la                     du s&me du Kanto en 1923 (Lallemant et al., 1996 ; Pollitz et
+plaque en subduction, son mouvement depuis environ 2 Ma a                         al.. 1996). Dans la mesure oti ces failles semblent s’enraciner
+control6 la deformation du butoir. Celui-ci non seulement se                      dans le plan sismogenique, situ6 a lo-15 km de profondeur,
+raccourcit, comme le montrent les chevauchements et les plis.                     leur etude en termes de circulation de fluides pourrait apporter
+mais egalement s’allonge parallelement a la fosse de Nankai,                      des informations precises sur la relation entre les seismes
+puisque le mouvement relatif est plus eleve a l’ouest                             interplaques et les fluides.
+
+
+Acknowledgements.      The cruise was conducted    in the framework     of the French-Japanese     KAIKO-TOKAI program,  with the
+support   of IFREMER, CNRS-INSU and French Foreign Affairs Ministry This is a contribution of CNRS URA 1316 and IFREMER URM 8.
+
+
+
+REFERENCES                                                                        trough: results of box 5 and box 7 KAIKO survey, Earth Planet. Sci.
+                                                                                  Leffers, 83, 199213
+                                                                                  Le Pichon X , Lallemant S , Fournier M , Cadet J.-P. and Kobayashi
+Ando M. 1975. Source mechanisms and tectonic significance of                      K. 1994. Shear partitioning      in the eastern Nankai trough: evi-
+historical earthquakes along the Nankai Trough, Japan, Tecfono-                   dence from submersible dives, Earth Planet. Sci. Letters, 128.
+physics, 27, 119-140                                                              77-83
+Chamot-Rooke        N. and Le Pichon X. 1989. Zenisu Ridge: a me-                 Le Pichon X., Lollemant S., Tokuyama H.. Thoue F., Huchon P. and
+chanical model of formation, Tectonophysics, 160. 175-193                         Henry P. 1996a. Structure and evolution of the backstop in the
+Chomot-Rooke        N., Lallemant S.J., Le Pichon X. et al. 1992. Tec-            eastern Nankoi Trough (Japan): implications for the soon-to-
+tonic context of fluid venting at the toe of the eastern Nankai                   come Tokai earthquake. /slandsArcs. 5.440-454
+occretionary     prism: evidence for a shallow detachment            fault,       Le Pichon X.. Pollitz F., Fournier M.. Cadet J.-P.. Lallemant S. and
+f&h Planet. Sci. Leffers. 109,3 19-332                                            Chamot-Rooke        N. 1996b. Distribution of shortening landward
+Huchon P. and Kitazato H. 1984. Collision of the Izu block with                   and oceanword         of the eastern Nankai Trough due to the
+central Japan and geological         evolution of Ashigara area. Tec-             Izu-Ogasawara       Ridge collision, Forth Planet. Sci. Metiers, 137.
+fonophysics, 110,20 l-2 10                                                         145-1.56
+lshrbashi K. 1981. Specifications of the soon-to-occur       seismic foult-       Moore G.F., Shipley T.H., Stoffa L , Karig D.E., Tairo A., Kuramoto S.,
+ing in the Tokai district, central Japan, based upon seismotecton-                Tokuyama H. and Suyehiro K. 1990. Structure of the Nankai trough
+its, in: Simpson D.W. and Richards G. (Eds.), Earthquake Predic-                  accretionary     zone from multichannel seismic reflection data, J.
+tion: An lnfernational Review, Amer. Geophys. Union, 297-332                       Geophys. Res.. 95,8753-8766
+Konaori Y., Kawakami S. and Yairi K. 1992 The block structure and                 Nakamura K.. Shimazaki K. and Yonekura N. 1984. Subduction,
+Quaternary strike-slip block rotation of central Japan, Tectonics.                bending and eduction. Present and Quaternary tectonics of the
+ 11,47-56                                                                         northern border of the Philippine Sea plate, Bull. Sot. geol.
+Lallemant S., Chamot-Rooke          N., Le Pichon X. and Rangin C.                France, 26,22 l-243
+ 1989. Zenisu ridge: a deep intraoceanic       thrust related to subduc-          Nouze H., Marsset B., Savoye 8.. Sibuet J.-C. and Thomas Y. 1998.
+tion off Southwest Japan, Jectonophysics, 160, 151-174                            PASISAR performances       of a high and very high resolution deep-
+Lallemant S J., Lallemand SE., Cadet J., Chamot-Rooke                   N.,       towed seismics device, Mar. Geophys. Res. (in press)
+liyama J.T., von Huene R.. Tokuyama H. and Glacon G. 1995. First
+                                                                                  Polliti F F. and Sacks IS 1994. Fault model of the 1891 Nobi
+in-situ observation     at a major backthrust system of an active
+                                                                                  earthquake      from historic triangulation   and levelling, J. Phys.
+accretionary     prism (Eastern Nankai Trough, Japan), Bull. Sot.
+                                                                                  Earth, 42, l-43
+gkol. France. 166.823-834
+Lallemant S., Le Pichon X.. Thoue F., Henry P. and Saito S. 1996.                 Pollitz F.. Le Pichon X. and Lallemant S. 1996. Shear partitioning
+Shear partitioning near the Central Japan Triple Junction: the                    near the Central Japan triple junction: the great 1923 Kanto
+ 1923 Great Kanto earthquake         revisited; part I, Geophys. J. Int..         earthquake revisited. Part II, Geophys. J. Int., 126,882-892
+ 126.871881                                                                       Savoye B., Leon Y., De Roeck H., Marsset B., Lopes L. and Herveou
+Lallemant S.J.. Taira A., Huchon P., Tokuyama H., Henry P., Maz-                  J. 1995 PASISAR: a new tool for near-bottom very high-resolution
+zott S., Le Pichon X. and O.B.S. party 1998. Shallow detachment                   profiling in deep water. First Break, 13.253-258
+at the toe of the Eastern Nonkai accretionary           wedge revisited,          Seno T., Stein S. and Gripp A.E. 1993. A model for the motion of
+new insights from a deep-tow SAR/PASISAR survey (KAIKO-TOKAI                      the Phi ippine Sea Plate consistent with Nuvel 1 and geological
+ 1996 cruise). C. R. Acad. Sci. Paris, 326, Series la, 877-884                    data, J. Geophys. Res., 98. 17941-17948
+Le Pichon X.. liyama J.T., Charnley H., Charvet J., Faure M.,                     Thoue F.. Huchon P. and Kobayashi K. 1995. Structural sQle of the
+Fujimoto H.. Furuta T., Ida Y., Kagami H., Lallemant S., Leggeti J.,              34’15’N. 138”lO’E depression on the middle slope of the eastern
+Murata A., Okada H.. Rangin C, Renard V., Taira A. and                            Nankai trough (October 1994, Shinkai 2000 dives): JAMSTEC, J.
+Tokuyama H. 1987. The eastern and western ends of Nankai                          Deep Sea Res., 11,197-204
+
+
+
+
+C. R. Acad. Sci. Paris, Sciences de la terre et des plan&es        / Earth & Planetary   Sciences
+1998. 326,869-875
+

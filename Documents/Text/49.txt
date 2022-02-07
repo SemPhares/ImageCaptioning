@@ -1,0 +1,1339 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/260578401
+
+
+
+PERSPECTIVES ON THE UPPER PLEISTOCENE LANDSCAPE DYNAMICS OF
+LUBERON AND LOWER PROVENCE (MIS-3 AND MIS-2, SOUTHERN FRANCE)
+
+Article in Quaternaire · January 2014
+
+CITATION                                                                                               READS
+
+1                                                                                                      401
+
+4 authors, including:
+
+             Ollivier Vincent                                                                                     Frederic Magnin
+             French National Centre for Scientific Research                                                       Aix-Marseille Université
+             142 PUBLICATIONS 568 CITATIONS                                                                       87 PUBLICATIONS 1,046 CITATIONS
+
+                SEE PROFILE                                                                                          SEE PROFILE
+
+
+
+             Cécile Miramont
+             Aix-Marseille Université
+             74 PUBLICATIONS 700 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                           European Pleistocene terrestrial mollusks: paleobiology, paleoecology, paleoclimatology View project
+
+
+                           Programme ECCOREV SoCCER: : Sociétés, Changements Climatiques et Environnementaux Rapides : des volcans aux rives du lac Sevan (Arménie), vers une approche
+                           eurasiatique View project
+
+
+
+
+ All content following this page was uploaded by Ollivier Vincent on 14 February 2017.
+
+ The user has requested enhancement of the downloaded file.
+                  Quaternaire, 25, (2), 2014, p. 91-111
+
+
+
+
+                                     REGARDS SUR LES DYNAMIQUES PAYSAGÈRES
+                                     DU PLÉISTOCÈNE SUPÉRIEUR (SIM 3 ET SIM 2)
+                                     DU LUBERON ET DE BASSE PROVENCE (FRANCE)
+
+                                     n
+
+                                     Vincent OLLIVIER1,2, Frédéric MAGNIN3, Jean-Louis GUENDON2
+                                     & Cécile MIRAMONT3
+
+
+
+                                                                                                    RÉSUMÉ
+
+                                            Par l’importance et la diversité des formations sédimentaires quaternaires qui le composent, le piémont méridional du Grand
+                                     Luberon est un véritable laboratoire des mutations paysagères pléistocènes et postglaciaires en domaine méditerranéen. La présence
+                                     d’horizons pédogénétiques dans les glacis à gélifracts du Pléistocène supérieur signe l’impact des différents interstades tempérés du
+                                     dernier pléniglaciaire et constitue un témoignage morphoclimatique unique en Provence. Sur la base des datations radiométriques,
+                                     de la géométrie des dépôts et des analyses paléoécologiques réalisées sur ces formations atypiques, les rythmes locaux de la morpho-
+                                     genèse sont définis pour le Pléistocène supérieur. Ces résultats sont ensuite intégrés dans une synthèse régionale originale incluant la
+                                     Provence et une partie des Alpes du Sud. Horizons pédologiques, loess, formations éoliennes, séquences alluviales et travertineuses,
+                                     de même que différents enregistrements paléoécologiques, nous réinvitent à réfléchir sur l’histoire, souvent avare de données, des
+                                     paysages et des paléoenvironnements à la veille de la terminaison I dans le sud-est de la France.
+
+                                     Mots-clés : Provence, Alpes du Sud, Pléistocène supérieur, morphogenèse, paléoécologie
+
+
+
+                                                                                                  ABSTRACT
+
+                                     PERSPECTIVES ON THE UPPER PLEISTOCENE (MIS 3 AND MIS 2) LANDSCAPE DYNAMICS OF LUBERON AND
+                                     LOWER PROVENCE (SOUTHERN FRANCE)
+                                            By the importance and diversity of its Quaternary sedimentary formations, the southern piedmont of the Grand Luberon is a
+                                     laboratory for both Pleistocene and Postglacial landscape mutations in the Mediterranean area. The presence of pedogenic horizons
+                                     in the Upper Pleistocene cryoclastic formations signs the impact of the different temperate interstadials of the last Pleniglacial and is
+                                     a unique morphoclimatic testimony in Provence. On the basis of radiometric datings, geometry of the deposits and palaeoecological
+                                     analyses performed on these peculiar formations, local morphogenetic rhythmicity are defined for the Upper Pleistocene. These
+                                     results are then integrated into an original regional synthesis including Provence and a part of the Southern Alps. Soil horizons, loess,
+                                     aeolian formations, alluvial terraces and travertines, as well as different paleoecological proxies, reinvite us to think about landscapes
+                                     and palaeoenvironmental history of Southeastern France on the eve of Termination I.
+
+                                     Keywords: Provence, Southern Alps, Upper Pleistocene, morphogenesis, palaeoecology
+
+
+
+
+                                      1 - INTRODUCTION                                              terrasses alluviales étagées en Durance (Dubar, 1979a)
+                                                                                                    ou dans la vallée de l’Arc (Jorda, 1993), placages loes-
+                    Du point de vue des dynamiques paysagères, le                                   siques (Ambert, 1973 ; Magnin, 1991, 1992), niveaux
+                  Pléistocène supérieur du sud-est de la France, et plus                            de sols soulignant des discontinuités sédimentaires
+                  encore celui du domaine provençal stricto sensu, est                              (Magnin, 1991 ; Jorda et al., 1993), lambeaux de glacis
+                  mal connu. Les données concernant cette période char-                             à faciès cryoclastiques (Jorda et al., 1993), séquences
+                  nière au niveau bioclimatique et culturel sont encore                             travertineuses (Magnin et al., 1990). Mais ces enregis-
+                  trop peu nombreuses. Différentes formations sédimen-                              trements sont souvent discontinus, aussi bien sur le plan
+                  taires marquant des changements environnementaux                                  chronologique que spatial. Il convient alors de proposer
+                  majeurs au cours du Pléistocène ont été identifiés dans                           des synthèses ou des résultats composites lorsque l’on
+                  les recherches de ces dernières décennies : lambeaux de                           souhaite établir un cadre paléoenvironnemental plus
+
+                  1
+                    Collège de France, Institut du Proche-Orient Ancien, CNRS, PrOCauLAC UMR 7192, FR-75005 PARIS.
+                  Courriel : vincent.ollivier@college-de-france.fr
+                  2
+                    Aix-Marseille Université, CNRS, Ministère de la Culture et de la Communication, LAMPEA UMR 7269, FR-13094 AIX-EN-PROVENCE.
+                  Courriels : ollivier@mmsh.univ-aix.fr, guendon@mmsh.univ-aix.fr
+                  3
+                    Aix-Marseille Université, CNRS, IMBE UMR 7263, Europôle Méditerranéen de l’Arbois, FR-13545, AIX-EN-PROVENCE cedex 4.
+                  Courriels : frederic.magnin@imbe.fr, cecile.miramont@imbe.fr
+
+                                                                                                                       Manuscrit reçu le 27/12/2013, accepté le 14/02/2014
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 91                                                                                                                                                27/05/14 13:34
+                                                                                    92
+
+            précis. Cette discontinuité des enregistrements semble                        paysagères méridionales au Pléistocène, et d’apporter
+            refléter l’image du caractère tourmenté des dynamiques                        des éléments aux recherches sur les environnements
+            environnementales méditerranéennes.                                           des sociétés de transition dans l’aire méditerranéenne
+               Le piémont méridional du Grand Luberon fournit un                          (Slimak et al., 2008).
+            contexte très favorable à la conservation des archives
+            sédimentaires et les nouvelles données obtenues ces
+            dernières années (Ollivier, 2006, 2011) constituent un                        2 - LE LUBERON : UN ESPACE GÉOGRAPHIQUE
+            nouveau point de départ solide. Les résultats recouvrent                          DE TRANSITION, UNE RÉFÉRENCE POUR
+            pour le Pléistocène les stades isotopiques marins 3 et 2                              LE QUATERNAIRE MÉRIDIONAL
+            (SIM 3 et SIM 2) et démontrent un important potentiel
+            d’analyses paléoenvironnementales. Celui-ci s’exprime                           Localisé dans le sud-est de la France, à l’interface entre
+            notamment au travers de puissants glacis d’accumulation                       basse Provence et Alpes du Sud (fig. 1), le Luberon est un
+            comprenant des sols rouges à leur base. L’objectif de cet                     espace géographique privilégié offrant par son altitude,
+            article est de présenter et d’intégrer les derniers résultats                 son climat et sa flore, un mélange de caractères alpins
+            du Luberon dans une trame synthétique « actualisée » de                       et méditerranéens. Cette moyenne montagne calcaire de
+            l’évolution paysagère pléistocène de Provence, afin de                        direction est-ouest se déploie sur environ 70 km entre
+            contribuer à compléter notre connaissance des mutations                       Volx et Cavaillon et borde la rive droite du cours infé-
+
+
+
+
+            Fig. 1 : Carte de localisation du massif du Grand Luberon et des sites de Terre Rouge et du Mirail.
+            Fig. 1: Location map of the Grand Luberon massif and of the studied sites of Terre Rouge and le Mirail.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 92                                                                                                                       27/05/14 13:34
+                                                                                          93
+
+                  rieur de la Durance. La rivière de l’Aiguebrun entaille                       et des principaux organismes alluviaux qui drainent le
+                  profondément le massif selon un axe nord-sud en sépa-                         piémont sud et rejoignent la Durance.
+                  rant un Petit Luberon peu élevé (culminant à 727 m)                              On note de très nettes disparités dans le nombre et
+                  prenant des allures de plateau, d’un Grand Luberon aux                        l’importance des formations quaternaires entre le sud
+                  altitudes plus généreuses (jusqu’à 1 125 m au Mourre                          et le nord du Grand Luberon. Celles-ci sont à rattacher
+                  Nègre). Ce dernier est flanqué, sur son versant méri-                         à l’organisation morphostructurale particulière de son
+                  dional, d’un piémont bien développé (12 km) séparé de                         piémont méridional. Tout d’abord, celui-ci connaît un
+                  la Durance par un ensemble de collines qui forment la                         développement important en occupant l’espace intermé-
+                  limite sud du pays d’Aigues.                                                  diaire entre la montagne et la rivière de la Durance ce qui
+                     Massif provençal aux aspects de mont jurassien, le                         en fait une zone d’atterrissement privilégiée marquée par
+                  Grand Luberon se structure sous la forme d’un anticlinal                      la faiblesse des pentes (fig. 1). Ensuite, deux systèmes
+                  à enveloppe calcaire crétacé déjeté vers le sud et affecté                    de reliefs méridiens ralentissent singulièrement le transit
+                  à la base par une faille inverse chevauchante (fig. 2).                       des sédiments vers l’aval en direction de la Durance
+                  Le cœur du pli, constitué majoritairement de roches                           en offrant une zone de stockage en doubles paliers qui
+                  marneuses et marno-calcaires, est aujourd’hui évidé en                        rompent la régularité de la déclivité entre le haut piémont
+                  combe de flanc par l’érosion des bassins de réception                         en glacis d’érosion et le niveau de base durancien (fig. 3).
+
+
+
+
+                  Fig. 2 : Coupe géologique du Grand Luberon du Mourre Nègre à la Durance.
+                  Fig. 2: Geological cross-section of the Grand Luberon from the Mourre Nègre to the Durance River. 1/ Thrust fault, 2/ Clayey limestones (Lower Creta-
+                  ceous), 3/ Valanginian marls, 4/ Neocomian limestones and calcareous marls, 5/ Undifferentiated marine Miocene, 6/ Miocene lacustrine limestones,
+                  7/ Red silt of Cabrières, 8/ Upper Miocene continental conglomerate (Valensole 1).
+
+
+
+
+                  Fig. 3 : Modèle Numérique de Terrain du Grand Luberon comprenant les stocks sédimentaires du Pléistocène supérieur (1) et du Postglaciaire
+                  (2) et les sites du Mirail, de Terre Rouge et de la Déboulière.
+                  Fig. 3: Digital Terrain Model of Grand Luberon including Upper Pleistocene (1) and Postglacial (2) sedimentary stocks, and le Mirail, Terre Rouge and
+                  la Déboulière sites.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 93                                                                                                                                        27/05/14 13:34
+                                                                             94
+
+            La première série de collines résulte de la présence du               fiés de sols brun-rouge. Les données quantitatives sur les
+            front de chevauchement. La seconde, qui ceinture effi-                volumes érodés et accumulés concernant les glacis ont
+            cacement le massif, provient de la puissante incision                 été réalisées à partir de prospections de terrains et carto-
+            linéaire en cluse des niveaux supérieurs miocènes consti-             graphies géomorphologiques (Ollivier, 2006). Une rela-
+            tuant les synclinaux de Cadenet, de Cucuron (en inver-                tion entre surface à l’affleurement et puissance des dépôts
+            sion de relief) et l’anticlinal de la Déboulière. Seules de           a ensuite été établie afin de calculer les volumes à partir
+            puissantes formations pléistocènes sont en partie piégées             d’une numérisation polygonale des cartes géomorpholo-
+            et conservées au niveau du premier palier. La deuxième                giques et Top 25 IGN (sous MapInfo professional v. 9.0)
+            zone de stockage récolte l’ensemble des sédiments en                  permettant de chiffrer l’étendue spatiale des formations
+            transit vers la partie basse du piémont (fig. 3). Cette               en km2 et d’estimer leur volume en m3. Le calcul de la
+            constatation relève probablement de la différence entre               vitesse d’érosion est ensuite obtenu selon l’approche
+            la pente vigoureuse du versant, sujette au ravinement, et             ou M est la masse volumique totale des formations, h la
+            la douce inclinaison de la basse plaine, zone de transfert            hauteur de la formation, d la densité et t le temps (Corbel,
+            et de stockage.                                                       1959 ; Holland, 1978 ; Cojan & Renard, 2000, notam-
+                                                                                  ment). La masse volumique est calculée sur la superficie
+                                                                                  érodée accumulée, selon le principe de conservation
+                         3 - MATÉRIELS ET MÉTHODES                                des masses (toute la masse érodée se retrouve dans les
+                                                                                  sédiments des formations). Ceci induit une part rela-
+               Du point de vue des recherches portant sur le Quater-              tive car l’altération chimique n’est pas présente dans le
+            naire lato sensu, le secteur du Grand Luberon était assez             calcul. Toutefois, dans notre cas, les processus d’éro-
+            mal connu. Seules quelques rares études étaient consa-                sion mécanique peuvent être considérés comme domi-
+            crées aux reconstitutions paléoenvironnementales de ce                nants (notamment la gélifraction). La masse volumique
+            territoire (Bonifay, 1961 ; Gabert, 1964 ; Luminet &                  réelle retenue pour le calcul des vitesses d’érosion est
+            Ramade, 1970 ; Brundu & Crauchet, 1990 ; Ollivier,                    de 2 600 kg/m3 (Neville, 2000). Le Luberon a également
+            2001). La plupart d’entre elles concernaient principa-                fait l’objet de plusieurs travaux de recherche sur l’éco-
+            lement la période postglaciaire. Depuis 2006 (Ollivier,               logie des mollusques terrestres actuels en relation avec le
+            2006, 2009), l’intégralité des ravins a été prospectée                climat (Labaune & Magnin, 2001), ou avec le pâturage et
+            d’aval en amont, du piémont sud au piémont nord,                      d’autres modes de gestion du paysage. On dispose donc
+            jusque sur les versants et les crêtes du Grand Luberon.               pour cette région d’un remarquable référentiel actuel
+            Cette approche systématique inscrite au préalable dans                pouvant permettre des reconstitutions fines des paléoen-
+            le cadre du programme de recherche pluridisciplinaire                 vironnements. Une séquence de référence comprenant
+            « 10 000 ans de présence humaine sur le piémont méri-                 plusieurs horizons pédogénétiques a pu être échantil-
+            dional du Grand Luberon » dirigé par André Muller, a                  lonnée et analysée dans le vallon du Mirail. Celle-ci
+            permis la découverte de formations pléistocènes à hori-               complète le peu de données disponibles sur le Pléisto-
+            zons pédologiques, objet de nos actuelles analyses.                   cène supérieur de Provence dans ce domaine où seule une
+               Un ensemble de huit datations 14C AMS a été réalisé                autre séquence a pu bénéficier d’une analyse approfondie
+            sur des coupes naturelles représentatives des dynamiques              (Magnin, 1992). La plupart des charbons envoyés pour
+            environnementales pléistocènes. Afin de pouvoir établir               datation 14C ont été déterminés afin d’obtenir une image
+            nettement une définition des successions sédimento-                   plus précise de la végétation des fonds de vallons pléis-
+            stratigraphiques et morphosédimentaires au sein d’une                 tocènes mais également d’estimer la qualité de l’échan-
+            chronologie événementielle la plus précise possible. De               tillonnage. L’analyse des caractères anatomiques a été
+            nombreux sondages ont été réalisés pour atteindre la                  effectué au Centre de Bioarchéologie et d’Ecologie de
+            base des coupes (parfois jusqu’au substratum) ou mettre               Montpellier (CBAE, UMR CNRS 5059) par Adam Ali.
+            au jour d’éventuelles transitions latérales de faciès.
+            Certaines formations ont pu être datées de la semelle
+            des remblaiements jusqu’à leur toit et plusieurs ruptures                                 4 - RÉSULTATS
+            séquentielles ont pu être chronologiquement encadrées.
+            Ces datations ont principalement été réalisées par accé-              4.1 - LES FORMES ET FORMATIONS PLÉISTO­
+            lérateur couplé à une spectrométrie de masse (AMS)                    CÈNES DU GRAND LUBERON
+            au Poznan Radiocarbon Laboratory (Adam Mickiewicz
+            University, Poznan, Pologne). Des tests préliminaires                   Les héritages pléistocènes prédominants sont repré-
+            de susceptibilité magnétique ont été entrepris sur le sol             sentés par des glacis d’accumulation et de vastes cônes
+            rouge de la formation du Mirail par Michel Dubar sur la               torrentiels coalescents qui régularisent une grande partie
+            plateforme technique du CEPAM (UMR 7274, Nice). La                    du piémont sud (de Lourmarin à Peypin d’Aigues) et dans
+            détermination des couleurs des horizons pédologiques a                une moindre mesure, du piémont nord (principalement de
+            été effectuée à l’aide du code des couleurs des sols (Cail-           Castellet à Céreste). D’importants éboulis périglaciaires
+            leux, 1981). Dans ce domaine, la limite caractéristique               à matériel calcaire drapent l’essentiel des versants. La
+            entre sols rouges et sols bruns est fixée en Europe occi-             plupart de ces formes d’accumulation, et notamment les
+            dentale à 7,5 YR (Vaudour, 1968). Les sols du Luberon                 glacis du piémont sud, ont été attribués en âge relatif à
+            s’inscrivent juste dans cette limite et pourraient être quali-        un ultime stade du Pléistocène supérieur (Würm selon la
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 94                                                                                                               27/05/14 13:34
+                                                                                      95
+
+                  chronologie alpine) et semblent, au cours de leur élabora-                  tivement anguleux et l’ensemble de leurs horizons est
+                  tion, avoir gommé la plupart des formations antérieures.                    largement rubéfié. Leur couleur caractéristique ne peut
+                  Toutefois, d’autres héritages détritiques plus anciens                      en aucun cas être d’origine lithochrome dans le sens où
+                  peuvent se retrouver sous une forme très relictuelle                        ces sols rouges se retrouvent dans plusieurs vallons aux
+                  à l’état de lambeaux caillouteux torrentiels, souvent                       contextes lithologiques variés peu propices à ce type de
+                  cimentés en brèches et assez bien conservés à l’amont                       phénomènes. Les datations obtenues entre 51 000 BP
+                  et aux débouchés des talwegs. Au niveau des formations                      et 26 400 BP (tab. 1) rangeraient leur développement
+                  anciennes composant le piémont, il ne faut pas oublier                      dans des phases plus clémentes du SIM 3 correspondant
+                  le lambeau de terrasse alluviale rissienne (SIM 6) de                       aux contextes de formations qui leurs sont habituelle-
+                  la Durance, qui domine en rive droite le lit majeur de                      ment attribués (climats plus humides et tempérés). Les
+                  la rivière de Pertuis à Lauris (puissance relative d’une                    premières analyses paléoécologiques sur certains profils,
+                  dizaine de mètres) ni celui du Marderic qui s’engouffre                     indiquent qu’ils correspondent à des périodes de déve-
+                  dans le passage du torrent jusqu’à l’aval d’Ansouis. Il est                 loppement marqué de la couverture végétale dans un
+                  également fréquent de rencontrer au niveau des gorges,                      contexte climatique tempéré. Enfin, les premiers tests de
+                  combes et cluses les plus encaissées, des baumes ou                         susceptibilité magnétique donnent des valeurs en adéqua-
+                  « abris sous roche », formes d’érosion témoignant de la                     tion avec celles obtenus sur d’autres sols du même type
+                  vigueur des processus périglaciaires pléistocènes.                          dans le sud-est de la France (Michel Dubar, communica-
+                                                                                              tion orale).
+                  4.2 - LE CAS SINGULIER DES HORIZONS DE SOLS
+                  ROUGES DE TYPE INTERSTADIAIRE                                               4.3 - LES GLACIS D’ACCUMULATION DU
+                                                                                              GRAND LUBERON : DES FORMATIONS TÉMOINS
+                    On retrouve assez fréquemment des horizons de sols                        DE L’INTENSITÉ DES ÉROSIONS ET DES
+                  rouges à la base des puissants glacis d’accumulation de                     TRANSFERTS SÉDIMENTAIRES EN VERSANT SUD
+                  gélifracts remaniés (transport de type « torrentiel ») du                   MÉDITERRANÉEN AU PLÉISTOCÈNE SUPÉRIEUR
+                  piémont méridional du Grand Luberon. Ces horizons
+                  mériteraient des analyses pédologiques et minéralo-                            Deux formations majeures de glacis d’accumulation
+                  giques approfondies afin d’en éclaircir toutes les carac-                   à sols rouges basaux ont été étudiées sur le piémont sud
+                  téristiques. Toutefois, un nombre significatif de critères                  du Luberon (fig. 1 et 3) : la formation de Terre Rouge
+                  issus d’analyses paléoécologiques, géochronologiques                        (Cucuron) et celle du Mirail (Peypin d’Aigues). Ce type
+                  et sédimentologiques ne laissent guère de doutes sur                        d’exposition méridionale permet, au travers d’observa-
+                  leur origine pédologique. D’une manière synthétique,                        tions faciologiques des sédiments, de mesurer la nature
+                  les horizons ou esquisses de sols rouges du Luberon                         et l’ampleur des processus d’érosion/transport (géli-
+                  reposent sur des sables ou des gélifracts calcaires. Sols                   fraction et torrentialité de piémont) dans des contextes
+                  évolués à profil ABC, ils disposent d’un horizon textural                   d’insolation optimale en phase climatique froide médi-
+                  « argilique », de structures polyédriques et de prismes                     terranéenne. D’une puissance dépassant les 30 m, les
+                  individualisés. Leurs éléments structuraux sont rela-                       glacis étudiés moulent des paléotopographies de vallons
+
+
+                         Lab Code       Echantillon      Date 14C uncal.       Date 14C cal.        Anthracologie      G.P.S.          Auteur
+                                         (Sample)              BP                  BP              (Anthracology)                     (Author)
+                                                              (1 sigma)           (2 sigma)
+                         Poz-12432     Terre Rouge        51000 ± 3000        Date out of range        Pinus t.     N 43°47.580     Ollivier, 2006
+                                           (n4)                                                       sylvestris    E 005°28.070
+
+                         Poz-12430     Terre Rouge        46600 ± 1600         50155 ± 2520            Pinus t.     N 43°47.580     Ollivier, 2006
+                                           (n6)                                                       sylvestris    E 005°28.070
+
+                          MAMS-        La Déboulière       41415 ± 415          44938 ± 712            Pinus t.     N 43°45.525       Miramont,
+                          11037         (Deb 18100)                                                   sylvestris    E 005°24.059        2008
+                                                                                                                                    inédit/unpublished
+                         Poz-12387     MIR 11 (n4b)        38900 ± 600          43310 ± 592          Quercus t.     N 43°47.580     Ollivier, 2006
+                                                                                                     pubescens      E 005°32.220
+
+                          Poz-7800     MIR 11 (n1b)        37000 ± 700          42227 ± 376            Pinus t.     N 43°47.580     Ollivier, 2006
+                                                                                                      sylvestris    E 005°32.220
+
+                         Poz-12429     Terre Rouge         32700 ± 300          38016 ± 697            Pinus t.     N 43°47.580     Ollivier, 2006
+                                          (n10)                                                       sylvestris    E 005°28.070
+
+                         Poz-17627    Terre Rouge II       26400 ± 600          31145 ± 527            Pinus t.     N 43°47.543     Ollivier, 2007
+                                                                                                      sylvestris    E 005°27.746    inédit/unpublished
+
+
+                         Poz-17284     Mirabeau 11         11420 ± 140          13323 ± 180               -         N 43°41.410      Ollivier 2006
+                                                                                                                    E 005°40.741
+                  Tab. 1 : Datations radiocarbone et déterminations anthracologiques réalisées dans le Luberon.
+                  Tab. 1: Radiocarbon datings and anthracological determinations performed in the Luberon.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 95                                                                                                                        27/05/14 13:34
+                                                                          96
+
+            préalablement incisés. Ces formations pléistocènes sont            intégrant également l’évolution de la tectonique active
+            les plus volumineuses connues dans l’ensemble des                  (Siame et al., 2004 ; Molliex et al., 2013).
+            massifs provençaux. Les séries géologiques à l’affleure-
+            ment, alternant majoritairement entre marno-calcaires et           4.4 - LE GLACIS D’ACCUMULATION DE TERRE
+            molasses sableuses, y sont plus tendres que les calcaires          ROUGE
+            denses constituant les reliefs de la Sainte-Victoire, de
+            la Sainte-Baume ou encore des Alpilles. Disposant                     Incisé de manière importante sur 25 à 30 m d’épaisseur
+            d’un fort développement amont-aval sur environ 6 km,               par le torrent des Canaux, le glacis de Terre Rouge (fig. 1, 3
+            ils couvrent une surface approximative de 10 km2.                  et 4) offre de nombreuses coupes stratigraphiques lisibles
+            Leur volume de dépôt, représentant environ 100 Mm3,                sur 15 m de puissance relative. La section étudiée corres-
+            esquisse remarquablement bien la vigueur de l’érosion et           pond à la marge latérale d’un paléovallon positionné
+            des transferts sédimentaires ayant affecté la combe anti-          une dizaine de mètres en contre haut du ravin actuel.
+            clinale du Grand Luberon. Les taux d’érosion moyens                Cette position marginale par rapport à l’axe d’écoule-
+            du versant pour les SIM 3 et SIM 2, périodes d’aggra-              ment lors de la phase de dépôt a probablement permis le
+            dation des formations de glacis (en fonction des bassins           développement de plusieurs niveaux de « sols rouges »
+            les concernant), sont estimés autour de 0,2 à 1,2 mm/              (berges ?) entre 51 000 ± 3 000 BP et 46 600 ± 1 600 BP.
+            an. En considérant l’état globalement clairsemé de la              Avant 32 000 ± 300 BP, un puissant cailloutis torrentiel
+            couverture végétale méditerranéenne sur la durée des               composé de gélifracts remaniés recouvre en contact
+            deux stades, dominée par les taxons steppiques et arbus-           ravinant ces niveaux de sols. Ces deux phases majeures
+            tifs ainsi que quelques pins de type sylvestris (Cattani &         de sédimentation sont vraisemblablement associées au
+            Renault-Miskovsky, 1989 ; Magnin, 1991 ; López-Sáez                passage de condition climatiques plus tempérées (déve-
+            et al., 1998 ; Théry, 1998), ces valeurs ne sont pas consi-        loppement de la pédogenèse) à un ou des contextes plus
+            dérablement éloignées de celles obtenues en rhexistasie            froids de type périglaciaire où la cryoclastie s’exprime
+            sur des lithologies marno-calcaires et topographies                largement (fournissant en abondance un matériel calcaire
+            voisines du Luberon (Delannoy & Rovéra, 1996 ; Hallet              gélifracté sub-anguleux à anguleux). Le transit des maté-
+            et al., 1996 ; Lecompte et al., 1998 ; Rovéra et al.,              riaux d’origine périglaciaire semble assuré par des condi-
+            1999). Ces vitesses d’érosion, sans être exceptionnelles,          tions de type torrentiel évoquant l’existence de phases
+            sont aussi très comparables à celles obtenues en basse             climatiques contrastées (variabilité des régimes de préci-
+            Provence sur de plus longues durées, dans des travaux              pitations) dans une ambiance à dominante froide.
+
+
+
+
+            Fig. 4 : Coupe stratigraphique de Terre Rouge.
+            Fig. 4: Stratigraphic section of Terre Rouge.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 96                                                                                                              27/05/14 13:34
+                                                                                 97
+
+                   4.4.1 - Profil stratigraphique de la section de Terre                 L’analyse morphosédimentaire des formations pléis-
+                  Rouge                                                               tocènes de Terre Rouge permet de dégager un premier
+                                                                                      schéma local d’évolution en six étapes : I) conditions
+                     De la base au sommet (fig. 4), on distingue les unités           édaphiques relativement stables, climat de type intersta-
+                  stratigraphiques suivantes :                                        diaire, développement de la pédogenèse, constitution de
+                     – 1/ esquisse de sol rouge (rose, 7,5 YR 8/4) à tendance         sols rouges ; II) contact érosif ravinant, installation d’un
+                  limono-sableuse. Quelques éléments du substratum (ici               pôle sédimentaire de plus haute énergie (renforcement des
+                  constitué de molasse miocène) sont présents sous la                 caractéristiques alluviales et fortes accumulations de géli-
+                  forme de petits cailloutis sub-anguleux à anguleux de 1             fracts remaniés) inféodé à un changement des conditions
+                  à 3 cm de grand axe. Quelques phénomènes d’altérations              climatiques ; III) mise en place d’une incision majeure se
+                  et de carbonatation secondaire (agrégats) sont à signaler ;         développant entre 32 700 ± 300 BP et 26 400 ± 600 BP
+                     – 2/ niveau quasiment identique à pédogenèse plus                (38 016 ± 697 et 31 145 ± 527 ans cal. BP) ; IV) nouvelle
+                  marquée (rose, 7,5 YR 7/4) et cailloutis épars sub-angu-            phase de pédogenèse signant le retour de condition
+                  leux à sub- émoussé ;                                               tempérées autour de 26 400 ± 600 BP (38 016 ± 697 et
+                     – 3/ ensemble limono-sableux rose (7,5 YR 8/4) à cail-           31 145 ± 527 ans cal. BP) ; V) retour de conditions péri-
+                  loutis épars (sub-anguleux à sub-émoussé et de 1 à 5 cm             glaciaires à production et accumulation de gélifracts au
+                  de grand axe) ;                                                     sein de dynamiques torrentielles ; VI) incision/dissection
+                                                                                      du glacis jusqu’au niveau du talweg actuel entre la fin du
+                     – 4/ « sol rouge » (brun clair, 7,5 YR 6/4) assez déve-
+                                                                                      Dernier Maximum Glaciaire et le début du Tardiglaciaire.
+                  loppé à tendance argilo-limoneuse contenant d’impor-
+                  tants et nombreux charbons de Pinus type sylvestris (date
+                                                                                      4.5 - LE GLACIS D’ACCUMULATION DU MIRAIL
+                  obtenue : 51 000 ± 3 000 BP) ;
+                     – 5/ niveau rose (7,5 YR 8/4) assez sableux à cailloutis            Offrant des caractéristiques morphosédimentaires relati-
+                  épars (sub-anguleux à sub-émoussé de 1 à 3 cm de grand              vement similaires à la formation de Terre Rouge, le glacis
+                  axe) et phénomènes de carbonatation secondaire ;                    d’accumulation du Mirail (fig. 1, 3 et 5) est également
+                     – 6/ « sol rouge » (jaune rouge, 5 YR 6/6) à tendance            profondément entaillé sur plus de 30 m par une branche
+                  argilo-limoneuse. Quelques cailloutis épars (sub-anguleux           latérale gauche du ravin. Une imposante section en rive
+                  et de 1 à 3 cm de grand axe) et de nombreux charbons de             gauche a pu être étudiée en détail. Le remplissage repose sur
+                  Pinus type sylvestris (date obtenue : 46 600 ± 1 600 BP)            le substratum marno-calcaire et correspond à une bordure
+                  sont à remarquer ;                                                  de paléotalweg dont une partie seulement de la sédimenta-
+                     – 7/ nappe caillouteuse en contact ravinant sur le « sol         tion du chenal est préservée. La séquence montre successi-
+                  rouge » du niveau 6, composée d’un cailloutis calcaire              vement de la base au sommet des niveaux sablo-limoneux
+                  (matériel lithologique d’amont) sub-anguleux à angu-                à traces de rubéfaction (liserés charbonneux) et nombreux
+                  leux, de 5 à 40 cm de grand axe, emballé dans une matrice           charbons dont des éléments de sol rouge antérieurs ont
+                  sableuse (blanche, 10 YR 9/2) fortement carbonatée ;                probablement été remaniés. Des horizons de sol rouge bien
+                     – 8/ ensemble limono-sableux blanc (5 Y 8/1) ;                   développé succèdent ensuite et sont recouvert en contact
+                     – 9a-d/ alternance de niveaux à gélifracts (cailloutis           légèrement ravinant par un épais cailloutis de gélifracts
+                  calcaire) sub-anguleux de 5 à 40 cm de grand axe emballés           remaniés sur plus d’une vingtaine de mètres de puissance.
+                  dans une matrice sableuse blanche (5 Y 8/1) fortement
+                  carbonatée ;                                                          4.5.1 - Profil stratigraphique de la section du Mirail
+                     – 10/ niveau caillouteux (cailloutis calcaire sub-angu-
+                                                                                        Située N 43°47’580’’ et E 05°32’220’’, la section du
+                  leux de 1 à 10 cm de grand axe) à lentilles limono-sableuses
+                                                                                      Mirail (fig. 5) montre de la base au sommet :
+                  blanches (5 Y 8/1) très carbonatées et macro-charbons
+                  (branche carbonisée provenant de Pinus type sylvestris                – 1a/ niveau sablo-limoneux brun très pâle (10 YR 7/4,
+                  datée à 32 000 ± 300 BP).                                           à charbons diffus) ;
+                     Une centaine de mètres en aval de cette première                   – 1b/ niveau limono-sableux brun très pâle (10 YR 7/4)
+                  coupe, une seconde section présente un sol rouge relati-            à charbons épars et traces de rubéfaction. Une date à
+                  vement bien développé (brun, 7,5 YR 5/2) et recouvert en            37 000 ± 700 BP a été obtenue sur charbon de Pinus type
+                  contact ravinant par de puissantes nappes caillouteuses             sylvestris ;
+                  à gélifracts remaniés. Dans la coupe amont, les niveaux               – 2/ niveau limono-sableux jaune rouille (7,5 YR 7/8)
+                  pédogénéisés sont positionnés environ 10 m en contre                à charbons diffus et lentilles caillouteuses aux éléments
+                  haut du chenal actuel, ici le « sol » repose directement            calcaires hétérométriques émoussés à sub-émoussés de
+                  sur le substrat du fond de vallon. La relation géométrique          0,5 à 30 cm de grand axe (fig. 5) ;
+                  entre ces différents horizons de sols rouges est rompue.              – 3/ ensemble à cailloutis hétérométriques émoussés
+                  Une datation de ce niveau très riche en charbons a donné            de 0,3 à 10 cm de grand axe. L’interphase avec le niveau
+                  26 400 ± 600 BP (31 145 ± 527 ans cal. BP). Cette                   supérieur présente un liseré charbonneux (fig. 5), parfois
+                  seconde formation emboîtée dans la précédente implique              rubéfié à charbons abondants (rose, 5 YR 7/4) ;
+                  une phase d’incision postérieure à 32 700 ± 300 BP                    – 4a/ niveau sablo-limoneux rose (5 YR 8/4) à char-
+                  (38 016 ± 697 ans cal. BP) à laquelle succède une ultime            bons diffus de taille importante et lentilles caillouteuses
+                  période de pédogenèse pléistocène.                                  dont les éléments font entre 0,3 et 5 cm ;
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 97                                                                                                                    27/05/14 13:34
+                                                                                 98
+
+
+
+
+            Fig. 5 : Coupe stratigraphique du Mirail et détail sur la zone de prélèvements malacologiques et de susceptibilité magnétique dans les horizons
+            pédologiques.
+            Fig. 5: Stratigraphic section of le Mirail and detail of the area sampled for molluscs and magnetic susceptibility in soil horizons.
+
+               – 4b/ horizons de « sol rouge » (cf. description addi-                    – 18/ nappe alluviale récente à cailloutis calcaire sub-
+            tionnelle) brun vif (7,5 YR 5/8) daté à 38 900 ± 600 BP                    émoussé et hétérométrique emballé dans une matrice
+            sur charbon de Quercus type pubescens (fig. 5) ;                           sablo-limoneuse brune (brun pâle, 10 YR 6/3).
+               – 4c/ niveau sablo-limoneux rose (5 YR 8/4) à char-
+            bons diffus de taille importante et lentilles caillouteuses                  4.5.2 - Détail des niveaux concernant les horizons de
+            dont les éléments font entre 0,3 et 5 cm. En sommet de                     sol rouge de la section du Mirail
+            niveau un ensemble limoneux rubéfié contenant quelques
+            charbons peut être observé ;                                                 – 4b1/ nappe alluviale à petit cailloutis émoussé de 0,5
+               – 5/ alternance de blocs calcaires volumineux sub-                      à 2 cm de grand axe, sables et argiles (brun très pâle,
+            anguleux à sub-émoussés jusqu’à 20 cm de grand axe                         10 YR 8/3) ;
+            et de cailloutis au granoclassement positif de 0,5 à 5 cm                    – 4b2/ niveau correspondant probablement à un horizon
+            de diamètre sub-émoussés et emballés dans une matrice                      pédologique C (?) à argiles et sables roses (7,5 YR 7/4).
+            sableuse brun très pâle (10 YR 8/3) ;                                      Un bloc marno-calcaire du substrat est présent ;
+               – 6/ niveau caillouteux plus fin dont les éléments ne                     – 4b3/ horizon C à argiles bruns très pâles (10 YR 7/4),
+            dépassent pas 4 cm de grand axe et sont quasiment sans                     sables, agrégats et nodules de carbonatation (0,5 cm de
+            matrice sédimentaire fine ;                                                diamètre maximum) et charbons. Test de susceptibilité
+               – 7-16/ niveaux caillouteux à lentilles sablo-limoneuses                magnétique : 86 u CGS ;
+            (fig. 5). Quelques altérations, carbonatations et cimenta-                   – 4b4/ probable horizon B à argiles brunes
+            tions interviennent dans un ensemble relativement homo-                    (7,5 YR 5/2) au débit polyèdrique. Quelques rares
+            gène blanc (10 YR 9/2) ;                                                   agrégats et nodules de carbonatation (0,3 cm de
+               – 17/ ensemble limono-sableux jaune (2,5 Y 9/6) très                    diamètre maximum) sont présents. Un charbon de
+            altéré et carbonaté surmonté d’un petit cailloutis et de                   Quercus type pubescens a été daté à 38 900 ± 600 BP
+            blocs calcaires épars ;                                                    dans ce niveau ;
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 98                                                                                                                            27/05/14 13:34
+                                                                                    99
+
+                    – 4b5/ probable horizon B à argiles (brun vif,                       des taxons sont communs aux deux groupes de niveaux.
+                  7,5 YR 5/6) et sables grossiers. Test de susceptibilité                Les niveaux 1 à 3 ont en propre les espèces suivantes :
+                  magnétique : 326 u CGS ;                                               Lauria cylindracea, Granopupa granum, Vallonia
+                    – 4b6/ probable horizon C d’un niveau de sol supérieur               costata, Truncatellina callicratis, Vitrea narbonensis,
+                  érodé, composé d’argiles roses (7,5 YR 7/4), sables et                 Euomphalia strigella, Xerosecta cespitum, Urticicola sp.
+                  passée caillouteuse basale aux éléments hétérométriques                G. granum et V. costata sont particulièrement repré-
+                  (3 cm de grand axe) et relativement anguleux.                          sentatives ; relativement abondantes et constantes dans
+                    Les tests de susceptibilité magnétique montrent des                  ces niveaux, elles disparaissent soudainement dans le
+                  résultats significatifs (4b5 : 326 u CGS ; 4b3 : 86 u CGS)             niveau 4. En revanche, les taxons suivants sont propres
+                  qui entrent dans les mêmes valeurs que celles obtenues                 au niveau 4 : Sphyradium doliolum, Abida polyodon,
+                  pour des « sols rouges » de ce type en domaine durancien               Testacella haliotidea, Clausiliidae sp. indét., Xerocrassa
+                  (Michel Dubar, communication orale) pour le niveau                     geyeri, Monacha cantiana, Candidula unifasciata et
+                  4b5. Des analyses approfondies devront être effectuées                 Cernuella sp. Ici c’est l’apparition soudaine d’espèces
+                  pour définir ce qui relève de l’altération pédologique et/             comme T. haliotidea et C. unifasciata qui est surprenante.
+                  ou d’un hypothétique incendie.                                            Il est difficile d’établir avec certitude la signification
+                    Trois étapes de l’évolution de la morphogenèse du Pléis-             paléoenvironnementale de ces différences. L’abondance
+                  tocène supérieur peuvent être dégagées de l’analyse de la              de G. granum, V. costata, T. callicratis, P. pygmaeum,
+                  formation du Mirail : I) accumulation alluviale et déve-               V. contracta et Oxychilus sp. semble indiquer, pour les
+                  loppement d’une pédogenèse dans un contexte climatique                 niveaux 1 à 3, des milieux plus fermé avec un recou-
+                  de type interstadiaire ; II) incision modeste/recoupement              vrement important du sol par la litière. Au contraire,
+                  du chenal principal et accumulation caillouteuse au sein               la présence de C. unifasciata, de Cernuella sp. et de
+                  de conditions climatiques de type périglaciaire ; III) inci-           X. geyeri pourrait traduire une meilleure représentation
+                  sion majeure probablement de la fin du Dernier Maximum                 de la strate herbacée dans le niveau 4.
+                  Glaciaire, petite accumulation emboîtée récente et dernière               Les assemblages des niveaux 1 à 3 sont très comparables
+                  incision atteignant le substratum.                                     et ne permettent pas de mettre en évidence des change-
+                                                                                         ments significatifs du climat ou de l’environnement. Il
+                  4.6 - EXPRESSION PALÉOCLIMATIQUE ET PALÉO­                             en est de même pour le niveau 4. Seule la présence de
+                  ENVIRONNEMENTALE DU SOL ROUGE DU                                       X. geyeri dans l’échantillon 4b6 pourrait éventuellement
+                  MIRAIL : LES DONNÉES MALACOLOGIQUES                                    correspondre aux prémices d’un refroidissement clima-
+                                                                                         tique. Dans le Luberon, cette espèce ne vit aujourd’hui
+                     Seule la base de la section du Mirail (niveaux 1 à 4,               qu’à des altitudes supérieures à 775 m. Cet éventuel chan-
+                  fig. 5) a fait l’objet de prélèvements pour analyses mala-             gement climatique doit être vérifié. Pour cela, il faudra
+                  cologiques. La faune malacologique est plus abondante                  rechercher dans le reste de la séquence, constituée essen-
+                  et diversifiée que les observations de terrain le laissaient           tiellement d’éléments grossiers, des lentilles de sédiment
+                  espérer : 3 473 individus et 33 taxons identifiés. La plus             fin susceptibles d’être étudiées, à condition toutefois, que
+                  grande pauvreté de certains échantillons est due à la frag-            le niveau 5 soit bien en continuité avec le niveau 4.
+                  mentation (3b), à la pédogénèse (4b5) ou à la conjugaison
+                  des deux phénomènes (4b6).
+                     Dans son ensemble, la malacofaune recueillie indique                          5 - RYTHMES ET BILANS
+                  des milieux forestiers ouverts et un climat tempéré,                       DE LA MORPHOGENÈSE PLÉISTOCÈNE
+                  probablement au moins aussi chaud que l’actuel. Poma-                                DANS LE LUBERON
+                  tias elegans est une espèce relativement thermophile, qui
+                  craint les hivers rigoureux, et qui ne se trouve pas, actuel-             La morphogenèse de la fin du Pléistocène est remar-
+                  lement, à des altitudes supérieures à 1 100 m. On la trouve            quablement bien représentée dans les formations
+                  ici dans tous les prélèvements. Rumina decollata est une               du Luberon (fig. 6 et 7). De l’étude de ces héritages
+                  espèce strictement méditerranéenne, plus thermophile que               morphogéniques plusieurs points se dégagent. En dehors
+                  la précédente, et qui ne vit plus aujourd’hui sur le site. Elle        des hautes terrasses de l’Eze, de la Durance et d’une
+                  a été trouvée dans six des quatorze prélèvements analysés.             ancienne surface d’abandon à croûte calcaire bien obser-
+                  D’autres espèces méditerranéennes plus ou moins thermo-                vable dans les secteurs des villages de Peypin d’Aigues
+                  philes sont présentes dans différents échantillons.                    et de la Motte d’Aigues (dont l’âge relatif doit remonter à
+                     On peut noter quelques différences entre les niveaux 1              minima au SIM 6 ; Ollivier, 2006), il n’y a pas de forma-
+                  à 3 et le niveau 4. Ces différences, soulignées par l’ab-              tions antérieures au SIM 3 sur le piémont méridional du
+                  sence d’assemblages de transition, pourraient être un                  Grand Luberon. La plupart des talwegs et vallons, sièges
+                  argument en faveur d’une discordance entre ces niveaux,                d’une intense morphodynamique jusqu’à l’actuel, ont
+                  discordance déjà envisagée parce que le contact entre                  été incisés et vidangés jusqu’au substratum antérieure-
+                  les niveaux 1 à 3 et le niveau 4 n’est pas visible sur le              ment à 55 000 BP. Par la suite, de nombreux et puissants
+                  terrain, et parce que ce dernier niveau, quoique plus haut,            glacis d’accumulation s’y sont développés. Ces glacis
+                  a fourni un âge 14C plus ancien. Cependant, l’absence                  comprennent à la base des horizons pédologiques syno-
+                  même d’assemblages de transition peut expliquer la                     nymes d’épisodes tempérés, recouverts lors des phases
+                  perception de ces différences. Quarante-huit pour cent                 plus froides par plusieurs nappes caillouteuses. L’en-
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 99                                                                                                                       27/05/14 13:34
+                                                                                     100
+
+
+
+
+            Fig. 6 : Synthèse de l’évolution morphogénique du Pléistocène supérieur dans le Grand Luberon.
+            A/ Organisation des formations, B/ Analyse séquentielle synthétique des successions stratigraphiques, C/ Photo des paléosols à la base des glacis à Terre
+            Rouge et dans le Mirail.
+            Fig. 6: Summary of the Upper Pleistocene morphogenic evolution in the Grand Luberon. A/ Formation organisation, B/ Synthetic sequential analysis
+            of stratigraphic successions, C/ Picture of paleosols at the basis of the glacis at Terre Rouge and le Mirail sites.
+
+
+            semble de ces dépôts s’exprime largement à partir des                            les premiers résultats des analyses malacologiques du
+            versants avant de mourir à proximité de la plaine duran-                         Luberon (présence de Rumina decollata L., espèce à
+            cienne. Leur analyse permet d’établir une trame détaillée                        distribution méditerranéenne) soutiennent cet état de fait.
+            de l’évolution paysagère du Luberon pour la seconde                                Une série répétée de trois épisodes de pédogenèses plus
+            moitié du Pléistocène supérieur.                                                 ou moins développées se distingue au cours de l’inters-
+                                                                                             tade de Moershoofd-Pile. Deux d’entre eux sont identifiés
+            5.1 - SIM 3                                                                      à Terre Rouge respectivement vers 51 000 ± 3 000 BP et
+               Dès 51 000 ± 3 000 BP plusieurs sols rouges se déve-                          50 155 ± 2 520 ans cal. BP (46 600 ± 1 600 BP). Un troisième
+            loppent dans des vallons déjà largement surcreusés                               épisode entre 43 310 ± 592 ans cal. BP (38 900 ± 600 BP)
+            (fig. 6 et 7). Ces sols ou horizons de sols se sont majo-                        et 42 227 ± 376 ans cal. BP (37 000 ± 700 BP) est égale-
+            ritairement développés au cours des interstades intra-                           ment enregistré dans la formation de glacis du Mirail.
+            pléniglaciaire de Moershoofd-Pile, Hengelo-Charbon et                            Entre 45 443 ± 882 ans cal. BP (42 000 ± 600 BP) et
+            Denekamp-Grand Bois (Van der Hammen et al., 1967 ;                               42 227 ± 376 ans cal. BP (37 000 ± 700 BP), une impor-
+            Zagwijn, 1974, Van Huissteden, 1999). Ces anomalies                              tante incision est mise en évidence. Celle-ci pourrait
+            climatiques (au regard du contexte glaciaire dominant)                           correspondre à une augmentation des précipitations
+            affichent des températures proches de l’actuel d’après                           soulignée par des phases d’érosion/incisions autour de
+            les études paléoclimatiques globales. Pour la Provence,                          ca. 43 000/40 000 ans cal. BP dans des séquences fluvia-
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 100                                                                                                                                     27/05/14 13:34
+                                                                                     101
+
+
+
+
+                  Fig. 7 : Organisation longitudinale des dépôts du Pléistocène supérieur et du Postglaciaire sur le piémont sud du Grand Luberon.
+                  Fig. 7: Longitudinal organisation of Upper Pleistocene and Postglacial deposits on the southern piedmont of the Grand Luberon.
+
+                  tiles ouest européennes (Van Huissteden et al., 2001 ;                    transferts longitudinaux inhérentes au contexte biocli-
+                  Van Huissteden & Pollard, 2003). La présence de nappes                    matique froid. Les volumes des glacis du SIM 3 sont en
+                  torrentielles limono-argileuses et charbonneuses datées                   revanche comparables ou supérieurs à ceux du SIM 2 car
+                  autour de 44 938 ± 712 ans cal. BP (41 415 ± 415 BP) et                   ils recouvrent une importante surface sur le piémont en
+                  emboitées dans la partie aval du glacis de Terre Rouge                    rapport avec des conditions climatiques plus fluctuantes
+                  (site de la Déboulière dans la gravière de Vaugines),                     et de plus forts transits longitudinaux.
+                  pourrait témoigner de ces épisodes d’érosion et de recru-                    Ceci se traduit dans les paysages par l’absence de
+                  descence des précipitations.                                              formations caractéristiques du SIM 2 sur la partie basse
+                     Les nombreux sols rouges, qui expriment individuel-                    du piémont (fig. 7) où ne résident que la prolongation des
+                  lement des périodes de stases morphogéniques, sont                        glacis d’accumulation du SIM 3, sous la forme de cônes
+                  ensuite recouverts d’un puissant cailloutis torrentiel qui                de déjections massifs et coalescents ou de remplissages
+                  se dépose au moins jusqu’à 38 016 ± 697 ans cal. BP                       de larges alvéoles et dépressions structurales (carrière
+                  (32 700 ± 300 BP). Les formations de glacis d’accu-                       de Vaugines par exemple). D’ailleurs, la couverture de
+                  mulation comprenant les sols rouges et les nappes                         surface des glacis, semble avoir été débitée in situ par
+                  caillouteuses torrentielles dépassent alors les 30 m de                   le gel (donc sans remobilisation ni transport importants)
+                  puissance. L’énergie de transit semble forte, au regard des               et porte des marques d’éolisations sur la face supérieure
+                  faciès caillouteux souvent de diamètre important et des                   des cailloutis superficiels (confirmation des observations
+                  volumes accumulés, mais discontinue car les émoussés                      effectuées par Gabert, 1964) dont la matrice sableuse
+                  sont faibles, évoquant des précipitations contrastées et/                 contient des grains de quartz piquetés par déflation
+                  ou épisodiques.                                                           (Gabert, 1964). Ces observations témoignent du carac-
+                                                                                            tère sec du climat du Dernier Maximum Glaciaire en
+                  5.2 - SIM 2                                                               Luberon et tranchent avec les propositions de Prentice et
+                                                                                            al. (1992) et Peyron et al. (1998) sur une augmentation
+                    Une nouvelle incision de grande ampleur intervient                      des précipitations en région méditerranéenne pour cette
+                  ensuite postérieurement à 38 016 ± 697 ans cal. BP                        période.
+                  (32 700 ± 300 BP) en atteignant le substratum (fig. 6 et 7).
+                  Une dernière phase de pédogenèse se développe ensuite                     5.3 - TRANSITION SIM 2 / TARDIGLACIAIRE
+                  autour de 31 145 ± 527 ans cal. BP (26 400 ± 600 BP)
+                  juste avant l’avènement du Dernier Maximum Glaciaire                         Postérieurement au DMG dont l’apogée se situe autour
+                  (DMG) dont l’expression se traduit ici par le retour                      de 20 000 ans cal. BP en moyenne Durance (Jorda et al.,
+                  rapide, en contact ravinant sur ce sol, des nappes de géli-               2000) des conditions plus humides et moins froides, qui
+                  fracts remaniés.                                                          préfigurent l’entrée dans le Postglaciaire, réalimentent
+                    Lors du DMG, les phases de dépôts sont plus fréquem-                    les bassins torrentiels et relancent le transit longitudinal
+                  ment représentées par des formations d’éboulis cryo-                      des sédiments. Ces flux hydriques, encore probablement
+                  clastiques et de glacis d’accumulation à faible extension                 diffus et superficiels, engendrent en amont l’emboîte-
+                  aval (fig. 7), retranchés à proximité des versants et aux                 ment pelliculaire de lanières torrentielles dans les glacis
+                  cailloutis intensément et finement gélifractés à l’orga-                  du SIM 3. En aval, cette dynamique se traduit par le
+                  nisation proche des grèzes litées. Les remblaiements,                     dépôt en contact ravinant, sur les escarpements miocènes
+                  bloqués sur les amonts, ont une puissance supérieure à                    qui dominent la plupart des vallons, de nappes torren-
+                  ceux du SIM 3 (fig. 6 et 7), en corrélation avec l’exacer-                tielles caillouteuses (fig. 7) dont l’émoussé des éléments
+                  bation de la production sédimentaire et la modestie des                   et la puissance des accumulations soulignent le carac-
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 101                                                                                                                        27/05/14 13:34
+                                                                             102
+
+            tère hydrodynamique renforcé des écoulements par                       découvert dans le bassin de la Durance, qui plus est en
+            rapport à l’amont (secteur de la Stèle vers Saint-Martin-              pleine tendance tempérée au niveau régional.
+            de-la-Brasque, d’Ansouis, etc.). La pérennité de cette                    Dans le vallon de la Vautubière (Ambert et al., 1974),
+            nouvelle tendance morphogénique associée ou corréla-                   entre Berre et Salon (fig. 8 et 9), un horizon lithochrome
+            tive de changements environnementaux majeurs autour                    séparant deux séries de dépôts éoliens à structure dunaire a
+            de 18 000 ans cal. BP (Schoeneich, 2003) engendre                      été daté à 37 398 ± 1 957 ans cal. BP (31 900 ± 1 700 BP).
+            l’établissement d’une puissante phase d’incision (entre                A Terre Rouge (Cucuron), sur le piémont méridional du
+            17 000-18 000 ans cal. BP, Greenland Stadial-2b / transi-              Grand Luberon, un niveau à traces de rubéfaction et à
+            tion Pléniglaciaire supérieur-Tardiglaciaire) qui entaille             charbons volumineux et abondants (Pinus type sylves-
+            profondément les formations de glacis du dernier Pléni-                tris) intercalé entre plusieurs nappes caillouteuses torren-
+            glaciaire sur plus de 30 m en débutant par les amonts                  tielles à gélifracts est daté à 38 016 ± 697 ans cal. BP
+            (cf. coupes de Terre Rouge et du Mirail) où s’ouvrent à                (32 700 ± 300 BP). Enfin, à la Tuilière de Saint-Saturnin
+            nouveaux les bassins de réception.                                     (commune de Villeneuve), une colluvion argileuse
+                                                                                   rouge caillouteuse (Dubar, 1979b) est datée < 37 000 BP
+                                                                                   et > 30 000 BP. Ces trois ensembles appartiennent à la
+               6 - SYNTHÈSE RÉGIONALE ET DISCUSSION                                période interstadiaire d’Hengelo-Charbon qui succède,
+                                                                                   après un « bref » retour des conditions glaciaires, à celle
+               Les héritages morphosédimentaires du dernier Pléni-                 de Moershoofd-Pile. Une augmentation de la couverture
+            glaciaire sont largement visibles lorsqu’on observe                    végétale lors de cette pulsation tempérée pourrait expli-
+            dans le détail les paysages alpins et provençaux. Cepen-               quer la présence de charbons dans les différents niveaux
+            dant, compte tenu des problèmes de conservation des                    datés de cette période entre Luberon et basse Provence.
+            données liés à l’âge et aux faciès souvent caillouteux                 Il est possible que la plus « courte durée » d’Hengelo-
+            des formations, inhibiteurs de la préservation des maté-               Charbon, associée à un réchauffement climatique proba-
+            riaux organiques datables, encore trop peu de datations                blement moins important que celui de Moershoofd-Pile,
+            radiocarbone sont disponibles pour cette période dans                  soient responsables de l’apparente absence de sol dans
+            le sud-est de la France (tab. 2). Les nouveaux résultats               les formations étudiées.
+            obtenus dans le sud Luberon fournissent des indica-                       L’évolution de la morphogenèse provençale lors du
+            tions de première importance qui élargissent les possi-                Dernier Maximum Glaciaire semble globalement suivre
+            bilités d’analyses et de comparaisons des modalités de                 celle des Alpes du Sud. Cette apparente similarité
+            la morphogenèse du dernier glaciaire. Différents indi-                 provient peut être du manque de données chronologiques
+            cateurs géomorphologiques régionaux datés peuvent                      radiométriques qui pourraient préciser cette évolution
+            être confrontés aux données du Luberon afin de préciser                dans le détail et mettre en évidence quelques différences.
+            les rythmes et les moteurs des réponses paysagères aux                 Les formations périglaciaires d’éboulis cryoclastiques,
+            variations climatiques au cours du Pléistocène supérieur               de cônes détritiques ou de petits glacis d’accumulation
+            en Provence (fig. 8 et 9, tab. 2 et 3). Parmi ces différents           près des versants de même que les placages loessiques
+            marqueurs, les horizons de sols, formations loessiques                 ou de sables éoliens dans les vallées principales sont
+            ou éoliennes, terrasses alluviales et édifices travertineux            nombreux. Toutefois, le dernier épisode de sol rouge
+            sont à privilégier de par leurs caractéristiques et significa-         du vallon de Terre Rouge (31 145 ± 527 ans cal. BP ;
+            tions morphoclimatiques. Les vestiges paléoécologiques                 26 400 ± 600 BP) et les données du sol rouge collu-
+            qu’ils contiennent renforcent le détail des reconstitutions            vial de la séquence de Mirabeau (niveau 4) daté à
+            climatiques affectant la dynamique paysagère.                          29 396 ± 694 ans cal. BP (24 600 ± 500 BP, Magnin, 1992),
+                                                                                   soulignent la persistance de caractéristiques clima-
+            6.1 - HORIZONS PÉDOLOGIQUES                                            tiques tempérées jus­qu’autour de 30 000 ans cal. BP.
+                                                                                   Cette indication se retrouve également dans la région
+              Dans le Luberon, les horizons de sols rouges datés entre             périalpine avec le développement de « sols bruns »
+            51 000 ± 3 000 BP et 42 227 ± 376 ans cal. BP corres-                  (7,5 YR 5/6) à la malacofaune forestière au cours de l’in-
+            pondent au complexe interstadiaire de Moershoofd-Pile                  terstade de la Bléone (Jorda & Delibrias, 1981 ; Dubar,
+            (SIM 3). Nos premières analyses malacologiques confir-                 1983 ; Jorda, 1988) autour de 29 399 ± 369 ans cal. BP
+            ment une augmentation des températures (relativement                   (24 600 ± 450 BP). Enfin, le « petit paléosol » du Puy-
+            proches ou équivalentes de l’actuel) lors de cet inters-               Saint-Pierre (commune de Gaubert, Dubar, 1979), daté
+            tade en Provence. La découverte d’un paléosol noir                     à 28 461 ± 1 227 ans cal. BP (23 800 ± 1 000 BP) bien
+            par Michel Dubar à Forcalquier en 1982 rejoindrait ce                  que constitué dans une ambiance de froid modéré et
+            constat (fig. 8 et 9). Celui-ci, inscrit dans une formation            sec (d’après les assemblages de malacofaunes), traduit
+            alluviale, contenait plusieurs fragments d’os de grands                toutefois les prémisses d’un climat plus clément (Dubar,
+            mammifères dont la partie distale d’un cubitus humain.                 1979b). Ces données (tab. 2, fig. 8 et 9) ne plaident
+            La datation 14C AMS de charbons contenus dans le même                  pas en la faveur d’un retour sérieux du refroidissement
+            niveau, réalisée beaucoup plus récemment (2005), donna                 antérieur en Provence et confortent l’idée d’un Dernier
+            45 000 ± 4 000 BP (Dubar, 2008). Ce résultat confère à la              Maximum Glaciaire s’instaurant graduellement à partir
+            découverte un caractère exceptionnel puisqu’il s’agirait               de 29 000 ans cal. BP des Alpes du Sud à la Méditer-
+            en toute vraisemblance du reste humain le plus ancien                  ranée.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 102                                                                                                               27/05/14 13:34
+                                                                                                103
+
+
+
+
+                   Principales formations sédimentaires du Pléistocène supérieur
+                   bénéficiant de datations radiométriques en Provence et Alpes du Sud
+
+
+
+
+                  Fig. 8 : Principales formations sédimentaires du Pléistocène supérieur disposant de datations radiométriques en Provence et dans les Alpes du
+                  Sud.
+                  S : sol ; Tr : travertin ; T : terrasses et dépôts alluviaux ; EC : formations éoliennes et colluviales ; L : loess ; MFg : moraines and dépôts fluvioglaciaires ;
+                  C : banc de sable hérité ; A : dépôts d’abris sous roche.
+                  1/ La Peyrerie (Rosique, 2004), 2/ Bléone-Baquin (Jorda & Delibrias, 1981), 3/ Puy St Pierre (Dubar, 1979b), 4/ La Tuilière de St Saturnin (Dubar,
+                  1979b), 5/ Forcalquier (Dubar, 2008), 6/ La Combette-Bonnieux (López-Sáez et al., 1998), 7/ Terre Rouge-Luberon (Ollivier, 2006), 8/ Mirail-Luberon
+                  (Ollivier, 2006) et Déboulière-Luberon (Miramont, inédit), 9/ Charleval (Magnin, inédit), 10/ Meyrargues (Magnin et al., 1990), 11/ Mirabeau (Magnin,
+                  1992 ; Ollivier, 2006), 12/ Vinon-Cadarache (Guendon, inédit), 13/ Crau (Evin et al., 1983), 14/ La Vautubière (Ambert, 1973, 2013), 15/ Mignet-Aix
+                  en Provence (Magnin, 2014), 16/ Martigues (Jorda, 1993), 17/ Berre-Bourrely (Ambert, 1973), 18/ Roquevaire (d’Anna et al., 1988), 19/ Gémenos
+                  (Magnin, 2014).
+                  Fig. 8: Main sedimentary formations of the Upper Pleistocene with radiometric datings in Provence and Southern Alps. S: soil; Tr: travertine; T: terraces
+                  and alluvial deposits; EC: eolian and colluvial formations; L: loess; MFg: moraines and fluvioglacial deposits; C: inherited sandbar; A: rock shelters
+                  deposits.
+
+
+
+                  6.2 - LOESS ET FORMATIONS ÉOLIENNES                                                  de refroidissements en Provence (Ambert, 1973, 1980 ;
+                                                                                                       Dubar, 1979b ; Bazile-Robert, 1981 ; Magnin, 1991,
+                    La découverte de gisements de loess en basse Durance                               1992, notamment). Assez abondants au voisinage des
+                  remonte aux années 1950 (Bonifay, 1952 ; Tricart, 1952 ;                             principales vallées alluviales (dans notre cas Durance,
+                  Bourdier, 1940, notamment). Les premières analyses                                   Arc et Huveaune, Bonifay, 1965), ils trouvent le plus
+                  malacologiques les concernant sont dues à Mazenot                                    souvent leur origine dans les sédiments de fleuves ayant
+                  (1956). Depuis, une série de travaux se sont concen-                                 eu des appareils glaciaires dans la partie supérieure
+                  trés sur ce type de formation et leur contenu paléoé-                                de leur cours (Bonifay, 1965). Les placages limono-
+                  cologique, a priori témoins clés des phases majeures                                 sableux s’organisent sur les versants exposés à des
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 103                                                                                                                                                    27/05/14 13:34
+1404-069- Mep 2-2014 okDer.indd 104
+                                                                                                                                                                                                                                                        104
+
+
+
+
+                                      Fig. 9 : Évolution des tendances morphogéniques du Luberon, héritages sédimentaires morphoclimatiques datés dans le sud-est de la France, et courbe paléoclimatique isotopique de GRIP (Svensson et al., 2008).
+                                      Fig. 9: Evolution of Luberon morphogenic trends, sedimentary morphoclimatic heritages dated in the south-east of France, and GRIP paleoclimatic isotopic curve (Svensson et al., 2008).
+
+
+
+
+27/05/14 13:34
+                                                                                       105
+
+                                         Site           Age 14C BP          Age 14C années               Matériel                            Auteur
+                                                          (1 σ)              cal. BP (2 σ)              (Material)                          (Author)
+                           Luberon                      51 000 ± 3 000       Out of range                 Charbon                Ollivier, 2006
+                                                                                                         (Charcoal)
+                           Roquevaire                     ≥ 50 000                 -                      Charbon                Guendon, 2008, inédit
+                                                                                                         (Charcoal)              (unpublished)
+                           Aix-Mignet                   50 000 ± 5 000       54 778 ± 5 938      Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                                (Terrestrial gastropod shell)
+                           Aix-Mignet                   48 000 ± 3 000       52 809 ± 4 422      Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                               (Terrestrial gastropod shell )
+                           Roquevaire                     ≥ 47 000                 -                      Charbon                Guendon, 2008, inédit
+                                                                                                         (Charcoal)              (unpublished)
+                           Luberon                      46 600 ± 1 600       50 155 ± 2 520               Charbon                Ollivier, 2006
+                                                                                                         (Charcoal)
+                           Forcalquier                  45 000 ± 4 000       49 855 ± 4 637               Charbon                Dubar, 2008
+                                                                                                         (Charcoal)
+                           Aix-Mignet                   45 000 ± 2 000       48 706 ± 2 574      Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                               ( Terrestrial gastropod shell )
+                           Aix-Mignet                   44 000 ± 4 000       48 768 ± 4 410      Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                               (Terrestrial gastropod shell )
+                           Luberon                      41 415 ± 415          44 938 ± 712                Charbon                Miramont inédit (unpublished)
+                                                                                                         (Charcoal)
+                           Aix-Mignet                   40 000 ± 2 000       44 059 ± 1 552      Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                               (Terrestrial gastropod shell )
+                           Luberon                      38 900 ± 600          43 310 ± 592                Charbon                Ollivier, 2006
+                                                                                                         (Charcoal)
+                           Gemenos                      38 690 ± 790          43 085 ± 734                Charbon                Magnin et al., ce numéro (this
+                                                                                                         (Charcoal)              issue)
+                           Aix-Mignet                   38 273 ± 400          42 725 ± 507       Coquille de gastéropode         Magnin et al., ce numéro (this
+                                                                                                          terrestre              issue)
+                                                                                               (Terrestrial gastropod shell )
+                           Charleval                      ≥ 38 000                 -                      Charbon                Magnin, 1994, inédit
+                                                                                                         (Charcoal)              (unpublished)
+                           Luberon                      37 000 ± 700          42 227 ± 376                Charbon                Ollivier, 2006
+                                                                                                         (Charcoal)
+                           Tuilière- St Saturnin     < 37 000 ; > 30 000           -                      Charbon                Dubar, 1979
+                                                                                                         (Charcoal)
+                           Berre-Bourrely                 ≥ 35 000                 -             Coquille de gastéropode         Ambert, 1973
+                                                                                                          terrestre
+                                                                                               (Terrestrial gastropod shell )
+                           Luberon                      32 700 ± 300          38 016 ± 697                Charbon                Ollivier, 2006
+                                                                                                         (Charcoal)
+                           Gemenos                      32 230 ± 490          36 737 ± 933                Charbon                Magnin et al., ce numéro (this
+                                                                                                         (Charcoal)              issue)
+                           La Vautubière                31 900 ± 1 700       37 398 ± 1957                Charbon                Ambert et al, 1974
+                                                                                                         (Charcoal)
+                           Martigues                    31 500 ± 2 700       36 481 ± 2 913                  Bois                Jorda, 1993
+                                                                                                           (Wood)
+                           La Vautubière             30 100 +3 400/-2 600          -                      Charbon                Ambert, 2013
+                                                                                                         (Charcoal)
+                           Crau-Miramas                 28 200 ± 460          32 718 ± 489       Coquille de gastéropode         Evin et al., 1983
+                                                                                                          terrestre
+                                                                                               (Terrestrial gastropod shell )
+                           Mirabeau                  26 550 +5 000/-3 000          -                      Charbon                Ambert, 1980
+                                                                                                         (Charcoal)
+                           Luberon                      26 400 ± 600          31 145 ± 527                Charbon                Ollivier, inédit (unpublished)
+                                                                                                         (Charcoal)
+                           Mirabeau                     24 600 ± 500          29 396 ± 694                Charbon                Magnin, 1992
+                                                                                                         (Charcoal)
+                           Bléone-Baquin                24 600 ± 450          29 399 ± 369                Charbon                Jorda & Delibrias, 1981
+                                                                                                         (Charcoal)
+                           Puy St Pierre                23 800 ± 1 000       28 461 ± 1227                Charbon                Jorda in Dubar, 1979
+                                                                                                         (Charcoal)
+                           Baume Rainaude               20 300 ± 400          24 216 ± 514                Charbon                Bazile-Robert, 1981
+                                                                                                         (Charcoal)
+                           Bléone-Baquin                20 200 ± 600          24 124 ± 712                Charbon                Jorda, 1988
+                                                                                                         (Charcoal)
+                           Bléone-Baquin                19 600 ± 250          23 410 ± 424                Charbon                Jorda, 1988
+                                                                                                         (Charcoal)
+                           La Peyrerie                   18 600 ±200          22 221 ± 392                Charbon                Rosique, 2004
+                                                                                                         (Charcoal)
+                           La Peyrerie                  17 680 ± 180          21 096 ± 371                Charbon                Rosique, 2004
+                                                                                                         (Charcoal)
+                           Les Vaugreniers-Le Muy       16 510 ± 100          19 823 ± 313                Charbon                Montoya et al., ce numéro (this
+                                                                                                         (Charcoal)              issue)
+                           Les Vaugreniers-Le Muy        16 320 ± 90          19 536 ± 290                Charbon                Montoya et al., ce numéro (this
+                                                                                                         (Charcoal)              issue)
+
+                  Tab. 2 : Datations radiocarbone réalisées pour le Pléistocène supérieur entre Provence et Alpes du Sud.
+                  Les âges calibrés ont été calculés à l’aide du logiciel en ligne CalPal (http://www.calpal-online.de/; Danzeglock et al., 2013).
+                  Tab. 2: Radiocarbon datings performed for the Upper Pleistocene between Provence and Southern Alps.Calibrated age have been calculated using
+                  online software CalPal (http://www.calpal-online.de/; Danzeglock et al., 2013).
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 105                                                                                                                                27/05/14 13:34
+                                                                               106
+
+                                   Site                   Age               Méthodologie            Matériel              Auteur
+                                  (Site)                 (Age)              (Methodology)          (Material)            (Author)
+                            Meyrargues           172 900 +2 000/-1 700          U/Th               Travertin         Magnin et al., 1990
+                                                                                                  (Travertine)
+                            Meyrargues           167 500 +3 300/-2 600           U/Th              Travertin         Magnin et al., 1990
+                                                                                                  (Travertine)
+                            Meyrargues           144 700 +6 600/-4 200           U/Th              Travertin         Magnin et al., 1990
+                                                                                                  (Travertine)
+                            Roquevaire            91 000 +6 200/-5 800           U/Th              Travertin         Guendon, 1994,
+                                                                                                  (Travertine)       inédit (unpublished)
+                            Roquevaire            91 000 +4 500/-4 200           U/Th              Travertin         Guendon, 1994,
+                                                                                                  (Travertine)       inédit (unpublished)
+                            Roquevaire            49 200 ± 1 700                 U/Th              Travertin         Guendon, 1994,
+                                                                                                  (Travertine)       inédit (unpublished)
+                            La Combette           57 400 +4 000/-3 000        Thermo-          Matière organique     López-Sáez et al.,
+                            Bonnieux                                        luminescence         du sédiment         1998
+                                                                                               (Sediment organic
+                                                                                                    material)
+                            Vinon sur Verdon /   23 400 (+8 500/-7 800)          U/Th              Travertin         Guendon, 1996
+                            Cadarache                                                             (Travertine)
+            Tab. 3 : Datations U/Th et par thermoluminescence réalisées pour le Pléistocène supérieur en Provence.
+            Tab. 3: U/Th and thermoluminescence dating performed for the Upper Pleistocene in Provence.
+
+
+
+            vents de nord / nord-ouest le plus souvent, compte tenu                   supérieur au Pléniglaciaire du SIM 2. De nouvelles data-
+            de l’organisation des réseaux hydrographiques régio-                      tions et analyses semblent nécessaires pour clarifier ce
+            naux, en rive gauche des rivières (cf. Durance). Toute-                   point.
+            fois, certains placages éoliens peuvent se retrouver                         On ne saurait évoquer les formations éoliennes de
+            au niveau de dépression, cuvettes ou versants plus                        Provence sans signaler l’importance de la déflation/
+            ou moins éloignés des grands organismes alluviaux                         corrasion responsable à la fois de morphologies spéci-
+            (région de Salon, de Jouques ou de Meyrargues). A                         fiques en alvéoles/dépressions ovoïdes ou allongées selon
+            Gémenos, deux datations radiocarbone ont permis de                        la direction du vent dominant, mais également de leur
+            contraindre chronologiquement l’une de ces forma-                         charge sédimentaire arrachée aux substrats molassiques
+            tions éoliennes autour de 43 085 ± 734 ans cal. BP                        miocènes environnant (Ambert, 1974, 2013, notam-
+            - 36 737 ± 933 ans cal. BP (38 690 ± 790 BP                               ment). Au niveau de l’étang de Berre, la coalescence de
+            - 32 230 ± 490 BP, Magnin, 2014). Cet encadrement chro-                   plusieurs de ces dépressions joue un rôle important dans
+            nologique s’accorderait bien, par exemple, avec la phase                  les mutations paysagères (sur les littoraux, l’organisa-
+            de développement en contexte « périglaciaire/torren-                      tion des réseaux hydrographiques, et l’occurrence d’in-
+            tiel » vers 38 016 ± 697 ans cal. BP (32 700 ± 300 BP),                   gressions marines, Ambert, 1973, 1994, 2013). Ainsi,
+            ≥ 38 000 BP et 32 718 ± 489 ans cal. BP (28 200 ± 460 BP)                 par corrélation avec la chronostratigraphie des dépôts
+            des nappes de gélifracts constituant respectivement les                   éoliens des versants nord du massif de la Fare (coupes
+            glacis d’accumulation du Luberon (Ollivier, 2006) et                      de la Vautubière, tab. 2, fig. 8 et 9), le creusement des
+            de Charleval (analyses réalisées par Magnin, inédit) de                   cuvettes endoréiques de la bordure ouest de l’étang de
+            même que les cônes alluviaux du secteur de Miramas                        Berre est attribué à deux phases périglaciaires appar-
+            (Evin et al., 1983, tab. 1 et fig. 9).                                    tenant respectivement au SIM 4 et au SIM 2 (autour
+               Une nouvelle datation de l’ensemble « loessique »                      de 37 398 ± 1 957 ans cal. BP, soit 31 900 ± 1 700 BP,
+            supérieur de la séquence pléistocène de Mirabeau (Olli-                   Ambert, 2013, notamment). Le caractère asséché de
+            vier, 2006, tab. 2, fig. 8 et 9) devait nous préciser le calage           l’étang de Berre, et donc les possibilités d’expression des
+            chronologique régional précis du DMG aux températures                     processus éoliens sur sa « plaine », est d’ailleurs souligné
+            inférieures de 8 °C à la valeur actuelle (Magnin, 1992). La               par l’approfondissement par érosion régressive du paléo-
+            date 14C (AMS) que nous avons obtenue à la base de ces                    talweg de la rivière de l’Arc dans la passe de Caronte
+            « loess » ou placages éoliens (niveau 11) nous a donné un                 (découverte à -18 m dans le talweg de Martigues de débris
+            résultat à 13 039-13 617 ans cal. BP (11 420 ± 140 BP).                   de troncs d’arbres datés de 36 481 ± 2 913 ans cal. BP /
+            Cette surprenante donnée correspond à une étape réputée                   31 500 ± 2 700 BP, Jorda, 1993, tab. 2, fig. 8 et 9).
+            plus « tempérée » du Tardiglaciaire (GI-1c ou GI-1b,                         Cependant, la chronologie précise des différentes
+            Allerød). Des limons loessiques éoliens postglaciaires                    phases pléistocènes de mise en eau de l’étang reste diffi-
+            auraient été identifiés dans la partie méridionale de la                  cile à évaluer. La présence de deux cordons littoraux
+            Durance (Bonifay, 1965). Dans ce cas, des possibilités                    (au cordon inférieur daté à > 35 000 BP, Ambert, 1973,
+            d’accumulation de telles séquences en dehors de tout                      tab. 1, fig. 8 et 9) associée à d’autres formation littorales
+            contexte excessivement plus froid que l’actuel seraient                   témoins, permettent de proposer un paléo-niveau général
+            envisageable. Les analyses malacologiques de Magnin                       de l’étang de Berre autour de 12 m, vraisemblablement
+            (1992) et les paléotempératures obtenues sont pourtant                    indépendant du niveau marin de même époque (Ambert,
+            compatibles avec l’attribution de l’ensemble loessique                    1973, tab. 2, fig. 8 et 9).
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 106                                                                                                                   27/05/14 13:34
+                                                                                 107
+
+                  6.3 - FORMATIONS ALLUVIALES                                             Enfin, une des mutations paysagères des plus remar-
+                                                                                       quables en Provence réside dans le spectaculaire (mais
+                     A l’échelle du Pléistocène supérieur, les terrasses allu-         progressif) changement du cours quaternaire de la
+                  viales sont d’intéressants marqueurs des fluctuations                Durance (fig. 9). Il s’illustre notamment dans le paysage
+                  paléoclimatiques et de leur influence sur les régimes paléo-         par la juxtaposition successive des cônes de déjection
+                  hydrologiques. Dans certains cas, ce sont des jalons perti-          (cailloutis de la Crau) depuis le retrait de la mer plio-
+                  nents de l’évolution néotectonique provençale (Terrier &             cène jusqu’à l’ultime détournement de cette rivière vers
+                  Lenotre, 1989 ; Peulvast et al., 1999 ; Siame et al., 2004 ;         sa confluence avec le Rhône en Avignon et l’abandon
+                  Molliex et al., 2013, notamment). Les dispositifs étagés             du seuil de Lamanon (Colomb et al., 1969 ; Colomb &
+                  du réseau d’hydrosystèmes subalpin et provençal nous
+                                                                                       Roux, 1978, 1986 ; Clauzon et al., 1990). La chronologie
+                  renseignent surtout sur l’ampleur et les rythmes des prin-
+                                                                                       de cet évènement est estimée autour de 74-35 ka par les
+                  cipales dynamiques morphosédimentaires sous contrôle
+                                                                                       données obtenues sur les terrasses/cônes du secteur de
+                  climatique. Pour la basse Provence, certaines morpho-
+                                                                                       Miramas (Evin et al., 1983 ; Molliex et al., 2013, tab. 2,
+                  logies fluviales évoluent sous la double influence des
+                                                                                       fig. 8 et 9).
+                  paramètres bioclimatiques subalpins et méditerranéens.
+                  Cette configuration concerne plus particulièrement le cas               Outre une intervention de la tectonique et des façon-
+                  de la Durance et du Var qui comprennent respectivement               nements nivéo-éoliens proposés par plusieurs auteurs, il
+                  quatre et trois niveaux inférieurs de terrasses élaborés             n’est pas improbable d’envisager un lien avec la vidange
+                  entre les SIM 6 et SIM 2 (Dubar, 1984). Les cours d’eau              des vallons du Luberon, antérieure à 55 000 BP. Une
+                  dont l’origine est uniquement méridionale, sans aucun                augmentation de la production sédimentaire des massifs
+                  lien avec un domaine glaciaire amont sédimentogène                   et de son transit longitudinal aurait pu renforcer singuliè-
+                  (moraines, décharges fluvioglaciaires, etc.), possèdent              rement le débit solide de la Durance et, par effet cumu-
+                  des dispositifs moins développés que leurs analogues                 latif avec la tectonique (antérieure et/ou contemporaine
+                  sud alpins. L’Argens, l’Huveaune, l’Arc, le Bayon, la                de l’évènement), favoriser le détournement de son cours.
+                  Naïsse, l’Eze ou le Mardaric, par exemple, ne présentent             Ce phénomène, qui ne saurait être exclusif au massif du
+                  que un à deux niveaux de terrasses attribuables au Pléis-            Luberon (et pourrait également s’exprimer en amont dans
+                  tocène supérieur (SIM 6 à SIM 2, Dubar, 1984 ; Jorda                 la zone sud alpine), prend fin vers 50 000 ans cal. BP
+                  & Provansal, 1992 ; Jorda, 1993 ; Ollivier, 2001, 2006).             (Ollivier, 2006) avec une reprise de l’accumulation sédi-
+                  Dans le Luberon, tout comme sur le piémont sud de la                 mentaire sur les piémonts et un ralentissement du transit
+                  Sainte-Victoire, ce sont surtout les glacis torrentiels qui          des matériaux dans la zone de transfert alimentant la
+                  dominent pour cette période. Alimentés au Pléistocène                Durance en charge solide. Bien que de nombreux travaux
+                  par des organismes alluviaux non pérennes, de faible                 soient encore nécessaires sur un tel sujet, cette hypothèse
+                  rang et aux petits bassins versants, ceux-ci s’organisent            morphotectonique et morphosédimentaire exprimée de
+                  souvent en deux unités étagées ou emboitées à l’instar               longue date (Colomb & Roux, 1986 ; Clauzon et al.,
+                  des hydrosystèmes les mieux développés. A Aix-en-                    1990, notamment) pourrait trouver un encadrement chro-
+                  Provence (site de Mignet) et dans le secteur du Muy (les             nologique absolu un peu plus précis à la lumière des
+                  Vaugreniers), les remblaiements alluviaux de la Torse et             dernières recherches.
+                  de la Nartuby, ont récemment fait l’objet de datations 14C.
+                  A Mignet (Magnin & Bonnet, 2014), les dépôts sédimen-                6.4 - FORMATIONS TRAVERTINEUSES
+                  taires datés entre 55 000 et 42 000 ans cal. BP (50 000 et
+                  38 000 BP) affichent des faciès et une malacofaune de                   La richesse des accumulations sédimentaires du Pléis-
+                  milieux palustres succédant à une ou plusieurs périodes              tocène supérieur du Luberon ne doit pas faire oublier
+                  de sédimentation fluviatile. Ces données reflètent des               l’existence de nombreux autres marqueurs morpho-
+                  caractéristiques climatiques locales tempérées / humides             géniques des mutations paysagères et climatiques de
+                  dans des contextes de drainage incertain. Aux Vaugre-                Provence. Les formations travertineuses, par exemple,
+                  niers (Montoya et al., 2007, 2014), les nappes sédimen-              nous renseignent sur les phases les plus tempérées du
+                  taires estimées autour de 20 000 - 19 500 ans cal. BP                Pléistocène régional. La relation entre tendances clima-
+                  (16 500 BP / 16 300 BP) traduisent plutôt de faibles taux            tiques tempérées (interstadiaires ou interglaciaires) et
+                  de sédimentation de composantes colluvio-alluviales                  développement des travertins est largement avérée (Weis-
+                  à éoliennes. Pour chacune de ces deux formations, les                rock, 1986 ; Pedley et al., 1996 ; Dramis et al., 1999 ;
+                  faciès exprimés concordent avec les conditions morpho-               Frank et al., 2000 ; Horvatinčić et al., 2000 ; Zák et al.,
+                  climatiques généralement évoquées pour les stades isoto-             2002 ; Ordóñez et al., 2005, notamment). Les méca-
+                  piques auxquels ils sont attribués : ambiance climatique             nismes de la carbonatogenèse s’accordent en effet parti-
+                  d’interstade plus tempérée et humide pour le SIM 3                   culièrement bien avec des conditions climatiques où les
+                  (Mignet), et contexte environnemental plus sec et plus               températures clémentes, la répartition, les régimes et
+                  froid à faible transit longitudinal pour le SIM 2 (Les               l’intensité (modérée) des précipitations favorisent, entre
+                  Vaugreniers). Ces deux séquences sédimentaires ont en                autres facteurs, le développement des cyanobactéries, de
+                  outre délivrées des artéfacts du Paléolithique assez rares           la ripisylve (microenvironnement propice à la biolithoge-
+                  pour notre région (Montoya et al., 2007, 2014 ; Magnin               nèse), d’une couverture pédologique (richesse en CO2)
+                  & Bonnet, 2014).                                                     préservée de l’érosion et des écoulements abondants et
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 107                                                                                                                   27/05/14 13:34
+                                                                          108
+
+            réguliers aux eaux fraîches homothermes (autour de 14               des données portant sur le Pléistocène de Provence
+            à 15 °C).                                                           convergent sur la nature de la couverture végétale
+               Malheureusement, les formations travertineuses pléis-            et l’existence de phases interstadiaires tempérées au
+            tocènes ne sont pas très nombreuses dans le sud-est de la           cours du Pléistocène supérieur. Dans le Luberon, les
+            France. Celles-ci sont d’ailleurs souvent assez anciennes           résultats anthracologiques (tab. 1) montrent une forte
+            et ne concernent que très rarement le SIM 3 (tab. 2 et 3)           présence de Pinus type sylvestris dans les sols de
+            alors que c’est dans cet intervalle que s’expriment l’en-           phases tempérées (52 000, 51 000, 43 000 / 42 000 et
+            semble des horizons de sols les plus riches. La formation           31 000 ans cal. BP, ca. 51 000, 46 000, 39 000 / 37 000
+            de Meyrargues, datée entre 172 900 BP et 144 700 BP                 et 26 000 BP) et les dépôts caractéristiques de phases
+            (Magnin et al., 1990), et la séquence de Roquevaire, datée          froides (32 000 BP / 38 000 ans cal. BP notamment)
+            entre 91 000 et 47 000 BP (d’Anna et al., 1988 et analyses          soulignant une évidente capacité d’adaptation de cette
+            réalisées par Jean-Louis Guendon, inédit) sont les mieux            espèce à des conditions climatiques difficiles et/ou des
+            connues. Le travertin de Meyrargues souligne deux                   contextes pédologiques indigents (contextes marno-
+            épisodes climatiques tempérés à végétation forestière               calcaires et sols pauvres). Cette même constatation
+            au sein du SIM 6 d’après les analyses paléoécologiques.             peut s’effectuer pour d’autres secteurs de Provence
+            La formation travertineuse de Roquevaire fournit quant              depuis 57 000 BP (tab. 3, López-Sáez et al., 1998) et
+            à elle un état de l’environnement dans un cycle essen-              jusqu’autour de 24 000 ans cal. BP (ca. 20 500 BP,
+            tiellement climato-sédimentaire passant d’une période               Bazile-Robert, 1981). Cette dominance depuis le
+            « tempérée » (niveaux travertineux construits) à un climat          Pléistocène et jusqu’à l’actuel dans des environne-
+            plus « frais » (présence de niveaux « loessiques ») entre           ments de fond de vallon frais et humides des Alpes
+            les SIM 4 et SIM 3.                                                 (Archambault, 1967 ; Delibrias et al., 1984 ; Gautier,
+               Une ultime formation travertineuse provençale                    1992 ; Rosique, 1994 ; Miramont, 1998 ; Sivan, 2002)
+            raccordée aux stades isotopiques SIM 3 / SIM 2 et                   de basse Provence (d’Anna et al., 1988) et du Luberon
+            dont l’existence reste inédite se trouve aux alentours              (Ollivier, 2006), confirme le caractère « durablement
+            de Vinon-sur-Verdon/Cadarache. Celle-ci a été datée à               pionnier » des peuplements (Tessier, 1984), vraisem-
+            23 400+8 500 / -7 800 BP (rapport U/Th moyen de 6,5,                blablement présents depuis le Tertiaire en domaine
+            analyses réalisées par Jean-Louis Guendon dans le cadre             méditerranéen (Gaussen, 1960). Dans le Luberon,
+            du programme GEO TER, tab. 3, fig. 8 et 9). Cet édifice             les phases les plus tempérées sont caractérisées par
+            travertineux repose sur des dépôts alluviaux attribuables           la présence de peuplements de Quercus pubescens
+            au Riss (SIM 6) ou au tout début du Würm (SIM 4 à                   et d’une malacofaune comprenant Pomatias elegans
+            SIM 2) par leur altitude relative et les relations géomé-           et Rumina decollata autour de 37 000 / 39 000 BP
+            triques possibles avec les ensembles sédimentaires                  (43 000 / 42 000 ans cal. BP). En basse Durance, l’iden-
+            duranciens proches. De nouvelles datations demeurent                tification de Pinus pinea (Bazile-Robert, 1981) et de
+            nécessaires compte tenu des imprécisions constatées et              gastéropodes relativement thermophiles comme Poma-
+            de l’originalité du contexte climatique représenté si cette         tias elegans (Magnin, 1993), complète les données
+            séquence carbonatée était plutôt attribuable au SIM 2. Il           concernant les épisodes plus tempérés du SIM 3, défi-
+            est également utile de signaler la présence d’une remar-            nissant un ultime contexte climatique clément vers
+            quable formation travertineuse en rive droite de la Torse           25 000 BP / 29 000 ans cal. BP (avec toutefois des
+            à Aix-en-Provence (Ollivier, 2006), dont les matériaux              températures moyennes inférieure de 2 °C par rapport
+            ont servis à la construction de la Tour d’Aygosi (Tour              à l’actuel ; Magnin, 1992). Les épisodes les plus froids
+            de guet médiévale datant du xve siècle). Un âge relatif             du dernier cycle climatique sont généralement carac-
+            ante-würmien est mentionné dans la carte géologique                 térisés en Provence par une végétation steppique et/ou
+            d’Aix-en-Provence (Rouire et al., 1969). La séquence                arbustive. La végétation méditerranéenne disparaît en
+            travertineuse, composée de faciès crayeux, de niveaux               temps qu’étage en basse Provence calcaire (Dougue-
+            détritiques fins et grossiers et de niveaux construits              droit, 1976). Celle-ci se composait essentiellement de
+            cascadant, contient un nombre important d’empreintes                Juniperus, Artemisia, Chenopodiaceae, Ephedra, et
+            foliaires au sein des faciès stromatholitiques. Leur déter-         Helianthemum (Triat-Laval, 1978, 1979). Quelques
+            mination, ajoutée à une nécessaire datation de la forma-            rares pins rompaient la monotonie de ces étendues
+            tion par U/Th, pourrait alimenter les discours sur les              steppiques. Des secteurs de basse altitude auraient
+            contextes bioclimatiques de la fin du Pléistocène.                  toutefois permis la survivance d’une couverture fores-
+                                                                                tière fragmentaire notamment composée de Fagus,
+            6.5 - PALÉOÉCOLOGIE : MALACOLOGIE ET                                Abies, Quercus pubescens, Corylus, Tilia, Fraxinus,
+            ANTHRACOLOGIE                                                       Ulmus et Quercus ilex (Triat-Laval, 1979), sur une
+                                                                                frange littorale qui, par glacio-eustatisme, était un peu
+               L’évolution de la végétation est déterminante dans               plus méridionale que l’actuelle (10 km plus loin en
+            les dynamiques morphogéniques. Notamment pour les                   basse Provence pour un niveau marin global autour de
+            situations d’extrêmes climatiques rencontrées lors des              -120 m NGF, Brosolo et al., 2012). Lors de ces mêmes
+            phases froides et des pulsations plus tempérées qui les             épisodes froids, les malacofaunes du Luberon se carac-
+            ponctuent. Cette variabilité joue sur la vulnérabilité des          térisent surtout par la classique présence de Xerocrasa
+            massifs calcaires aux processus érosifs. L’ensemble                 geyeri. Plus généralement en basse Durance, ce sont
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 108                                                                                                         27/05/14 13:35
+                                                                             109
+
+                  Oligolimax annularis (espèce alpine d’altitude), Abida           nement du réchauffement Postglaciaire. Mais cette
+                  secale, Pupilla triplicata, Vallonia costata, Clausilia          histoire reste très certainement incomplète. Afin d’at-
+                  rugosa parvula et Urticicola glabellus qui dominent              teindre plus de précision, la nécessité du développe-
+                  des assemblages caractérisant aujourd’hui des envi-              ment de recherches impliquant de nouvelles techniques
+                  ronnements subalpins ouverts (Magnin, 1993).                     parait indispensable. Un premier jalon dans cette direc-
+                                                                                   tion semble posé par l’intermédiaire du Programme de
+                                                                                   recherche ECCOREV « dénudation moyen/court terme
+                                      7 - CONCLUSION                               du Luberon » porté par Aix Marseille Université et les
+                                                                                   laboratoires CNRS du CEREGE (UMR 7730) et de
+                     La présence d’horizons pédogénétiques soulignant              l’IMBE (UMR 7263).
+                  l’influence des interstades du SIM 3 dans la morpho-
+                  genèse du Luberon a permis d’en définir les rythmes
+                  et les composantes morphoclimatiques. Sur cette base,                                 REMERCIEMENTS
+                  en appui avec un ensemble de formations superficielles
+                  caractéristiques des stades SIM 3 et SIM 2 en région                Nous tenons à remercier Michel Dubar (Univer-
+                  méditerranéenne, une traduction composite des dyna-              sité de Nice Sophia-Antipolis, CEPAM UMR CNRS
+                  miques sédimentaires soutenue par une quarantaine de             7264) et Adam Ali (Université de Montpellier 2, CBAE
+                  datations radiométriques (publiées ou inédites) a pu             UMR CNRS 5059) pour leur participation tant théo-
+                  être établie. Une estimation des volumes et vitesses             rique qu’analytique dans ce travail. Nous remercions
+                  d’érosion, fournit un ordre de grandeur relatif de               également M. Bernd Kromer (Heidelberg Academy
+                  l’impact des processus érosifs sur les versants et des           of Sciences) pour la datation radiocarbone réalisée sur
+                  capacités de transport solide dans certains vallons du           le site de la Déboulière dans le Luberon. Cette étude a
+                  Grand Luberon, massif provençal emblématique. Une                également bénéficié du soutien du Parc Naturel Régional
+                  histoire des paysages du Pléistocène supérieur de                du Luberon et de la réserve de biosphère Luberon-Lure.
+                  Provence se dessine (fig. 9). Les phases de développe-           Un grand merci doit également être adressé aux relec-
+                  ment des paléosols du Grand Luberon, toutes inscrites            teurs pour leur conseils et remarques pertinentes.
+                  dans le MIS-3 et ses interstades (Moershoofd-Pile,
+                  Hengelo et Denekamp-Grand Bois), rejoignent celles
+                  de moyenne et basse Durance (Forcalquier, Mirabeau                       RÉFÉRENCES BIBLIOGRAPHIQUES
+                  et petit paléosol du Puy-Saint-Pierre). La présence de
+                  charbons dans des niveaux sans pédogenèse de forma-              AMBERT P., 1973 - Géomorphologie de l’Etang de Berre et de ses
+                  tions attribuables à Moershoofd-Pile et Hengelo (Terre             Bordures. Thèse de Doctorat, Université d’Aix-Marseille 2, Aix-en-
+                                                                                     Provence, 460 p.
+                  Rouge, la Déboulière, la Vautubière et la Tuilière de
+                                                                                   AMBERT P., 1974 - Les dépressions nivéo-éoliennes de Basse
+                  Saint-Saturnin), et leur absence dans les séquences                Provence. Comptes Rendus Hebdomadaires des Séances de l’Aca-
+                  reflétant des ambiances climatiques plus froides,                  démie des Sciences. Série D, Sciences Naturelles, 279 (7-8), 727-729.
+                  souligne également la discrète densification de la               AMBERT P., 1980 - Les formations quaternaires de l’étang de Berre.
+                                                                                     In J. Chaline (ed.), Problèmes de stratigraphie quaternaire en France
+                  couverture végétale lors de ces phases plus tempérées.             et dans les pays limitrophes. Supplément au Bulletin de l’Associa-
+                  Dans le même intervalle, le développement des traver-              tion Française pour l’Etude du Quaternaire, N.S. n° 1. Association
+                                                                                     Française pour l’Etude du Quaternaire, Dijon, 321-323.
+                  tins de Roquevaire se poursuit. Partout, l’empreinte des
+                                                                                   AMBERT P., 2013 - Formes et formations périglaciaires du Pléisto-
+                  processus d’érosion/dépôt de type périglaciaire s’ex-              cène supérieur dans le Midi méditerranéen français : l’exemple de
+                  prime entre les interstades du SIM 3 (Miramas-Char-                l’étang de Berre. Quaternaire, 24 (3), 293-301.
+                  leval, la Vautubière, Gémenos) et tout au long du SIM 2          AMBERT P., ÉVIN J. & GABERT P., 1974 - Datation 14C d’un
+                                                                                     horizon lithochrome würmien en Basse Provence occidentale.
+                  (massifs provençaux et moyenne Durance) confirmant                 Comptes Rendus Hebdomadaires des Séances de l’Académie des
+                  dans la morphogenèse, les caractéristiques froides                 Sciences. Série D, Sciences Naturelles, 278 (1), 33-35.
+                  et sèches imputées depuis longtemps au climat des                ARCHAMBAULT M., 1967 - Découverte des restes d’une forma-
+                                                                                     tion forestière fossile entre deux nappes colluviales quaternaires.
+                  périodes glaciaires en Provence. La plus grande varia-             Comptes Rendus Hebdomadaires des Séances de l’Académie des
+                  bilité climatique du SIM 3 renforce celle des rythmes              Sciences. Série D, Sciences Naturelles, 265 (7), 104-107.
+                  de sédimentation enregistrés dans le Luberon, par des            BAZILE-ROBERT E., 1981 - Le Pin pignon (Pinus pinea L.) dans le
+                                                                                     Würm récent de Provence. Geobios, 14 (3), 395-397.
+                  phases de remblaiements entrecoupées de puissantes               BONIFAY E., 1952 - Les limons lœssiques de la région de Marseille
+                  incisions (ca. 45 ka et ca. 32 ka). Au SIM 2, période où           (Bouches du Rhône). Bulletin de la Société Géologique de France,
+                  le froid s’accentue sensiblement de manière continue,              Série 6, 2 (7-9), 461-466.
+                  la morphogenèse semble plus régulière et offre de                BONIFAY E., 1961 - Présence de sédiments interglaciaires (Riss-
+                                                                                     Würm) dans la vallée méridionale de la Durance. Comptes Rendus
+                  plus importantes puissances de dépôts en amont et                  Hebdomadaires des Séances de l’Académie des Sciences, 252 (3-4),
+                  de plus faibles transits sédimentaires longitudinaux.              1489-1491.
+                  C’est uniquement lors de la transition entre le Dernier          BONIFAY E., 1965 - Stratigraphie des loess anciens et récents dans
+                                                                                     le sud-est de la France. Bulletin de l’Association Française pour
+                  Maximum Glaciaire et le Tardiglaciaire, que la plus                l’Etude du Quaternaire, 2 (1), 21-34.
+                  importante incision linéaire des talwegs reconnue en             BOURDIER F., 1940 - Les dépôts quaternaires et le problème du lœss
+                  Provence (par endroits > 30 m) prend place (ca. 17 ka              dans la vallée de la Durance méridionale. Comptes Rendus Hebdo-
+                                                                                     madaires des Séances de l’Académie des Sciences, 210, 405-408.
+                  dans le Luberon). Cette dernière est à l’image du chan-          BROSOLO L., MASCLE J. & LOUBRIEU B., 2012 - Morpho-
+                  gement environnemental conséquent imposé par l’avè-                Bathymetry of the Mediterranean Sea. Commission for the Geolo-
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 109                                                                                                                          27/05/14 13:35
+                                                                                       110
+
+              gical Map of the World & United Nations Educational, Scientific and            GAUTIER E., 1992 - Recherches sur la morphologie et la dynamique
+              Cultural Organization, Paris.                                                    fluviales dans le bassin du Buëch (Alpes du Sud). Thèse de Doctorat,
+            BRUNDU E. & CRAUCHET L., 1990 - Le piémont du sud Luberon                          Université Paris 10 - Nanterre, Nanterre, 439 p.
+              évolution holocène de l’environnement géomorphologique (para-                  HALLET B., HUNTER L. & BOGEN J., 1996 - Rates of erosion
+              mètres naturels et anthropiques). Mémoire de Maîtrise, Université                and sediment evacuation by glaciers: A review of field data and their
+              de Provence, Aix-en-Provence, 55 p.                                              implications. Global and Planetary Change, 12 (1-4), 213-235.
+            CAILLEUX A., 1981 - Code des couleurs des sols & Notice sur le                   HOLLAND H.D., 1978 - The chemistry of the atmosphere and oceans.
+              code des couleurs des sols. Boubée, Paris, 15 p.                                 Wiley, New York, 351 p.
+            CATTANI L. & RENAULT-MISKOVSKY J., 1989 - La réponse des                         HORVATINČIĆ N., ČALIĆ R. & GEYH M.A., 2000 - Interglacial
+              végétations aux variations climatiques quaternaires autour des sites             growth of tufa in Croatia. Quaternary Research, 53 (2), 185-195.
+              archéologiques du sud de la France et nord-est de l’Italie. Il Quater-         JORDA M., 1988 - Modalités paléoclimatiques et chronologiques de
+              nario, 2 (2), 147-170.                                                           la déglaciation würmienne dans les Alpes françaises du Sud (Bassin
+            CLAUZON G., AMBERT P. & VAUDOUR J., 1990 - Cartographie                            durancien et Alpes de Haute-Provence). Bulletin de l’Association
+              géomorphologique de la Basse-Provence rhodanienne. Méditer-                      Française pour l’Etude du Quaternaire, 25 (2-3), 111-122.
+              ranée, 71 (3-4), 75-82.                                                        JORDA M., 1993 - Les terrasses alluviales de l’Arc à l’aval de Roque-
+            COJAN I. & RENARD M., 2000 - Sédimentologie. Dunod, Paris,                         favour : étude géomorphologique et chronostratigraphique. In P.
+              418 p.                                                                           Leveau & M. Provansal (dir.), Archéologie et environnement : de la
+            COLOMB E., GERVAIS J., PUISSÉGUR J.-J. & ROUX R.-M.,                               Sainte Victoire aux Alpilles. Travaux du Centre Camille Jullian, 14.
+              1969 - Présence de niveaux à faune d’âge rissien sous le cailloutis de           Publications de l’Université de Provence, Aix-en-Provence, 235-248.
+              la Crau de Miramas. Comptes Rendus Hebdomadaires des Séances                   JORDA M. & DELIBRIAS G., 1981 - Données nouvelles sur le Pléis-
+              de l’Académie des Sciences. Série D, Sciences Naturelles, 268 (3),               tocène supérieur des Alpes Françaises du Sud : le Würm récent du
+              1683-1685.                                                                       bassin de la Bléone (Alpes de Haute Provence). Bulletin de l’Asso-
+            COLOMB E. & ROUX, R.-M., 1978 - La Crau. Données nouvelles et                      ciation Française pour l’Etude du Quaternaire. 18 (3-4), 173-182.
+              interprétations. Géologie Méditerranéenne, 5 (3), 303-324.                     JORDA M., PARRON C., PROVANSAL M. & ROUX M.R.,
+            COLOMB E. & ROUX R.-M., 1986 - La Crau, histoire Plio-Pléisto-                     1993 - Erosion et détritisme holocène en Basse Provence calcaire.
+              cène. Méditerranée, 58 (3), 31-42.                                               L’impact de l’anthropisation. In P. Leveau & M. Provansal (dir.),
+            CORBEL J., 1959 - Erosion en terrain calcaire (vitesse d’érosion et                Archéologie et environnement : de la Sainte-Victoire aux Alpilles.
+              morphologie). Annales de Géographie, 68 (366), 97-120.                           Travaux du Centre Camille Jullian, 14. Publications de l’Université
+                                                                                               de Provence, Aix-en-Provence, 65-74.
+            D’ANNA A., ÉVIN J., GUENDON J.-L., JAUBERT J., MAGNIN F.,
+              OTTO T., QUINIF Y., ROIRON P., THINON M., VERNET J.-L.                         JORDA M. & PROVANSAL M., 1992 - La montagne Sainte-Victoire.
+              & VAUDOUR J., 1988 - Les édifices travertineux d’Auriol (Pont-                   Structure, relief, et morphogenèse antérieure au Postglaciaire. Médi-
+              de-Joux) et de Roquevaire (Saint-Vincent). Révision stratigraphique.             terranée, 75 (1-2), 17-28.
+              Contribution à l’histoire de l’environnement dans la vallée de l’Hu-           JORDA M., ROSIQUE T. & ÉVIN J., 2000 - Données nouvelles sur
+              veaune (B-du-R) depuis 50 000 ans. Travaux - Centre national de la               l’âge du dernier maximum glaciaire dans les Alpes méridionales
+              recherche scientifique, Unité associée n° 903, 17, 17-36.                        françaises. Comptes Rendus de l’Académie des Sciences. Série 2,
+            DANZEGLOCKE U., JÖRIS O. & WENINGER B., 2013 - CalPal-                             Sciences de la Terre et des Planètes, 331 (3), 187-193.
+              2007online. http://www.calpal-online.de/, accessed 2013-02-05.                 LABAUNE C. & MAGNIN F., 2001 - Land snail communities in
+                                                                                               Mediterranean upland grasslands: the relative importance of four
+            DELANNOY J.J. & ROVÉRA G., 1996 - L’érosion dans les Alpes
+                                                                                               sets of environmental and spatial variables. Journal of Molluscan
+              occidentales : contribution à un bilan des mesures et des méthodes.
+                                                                                               Studies, 67 (4), 463-474.
+              Revue de Géographie Alpine, 84 (2), 87-101.
+                                                                                             LECOMPTE M., LHÉNAFF R. & MARRE A., 1998 - Huit ans de
+            DELIBRIAS G., GABERT, J. & JORDA M., 1984 - Données
+                                                                                               mesures du ravinement des marnes dans les Baronnies méridionales
+              nouvelles sur la chronostratigraphie et l’évolution paléomorpholo-
+                                                                                               (Préalpes françaises du sud). Géomorphologie : Relief, Processus,
+              gique postglaciaire des Alpes du Sud (Moyenne Durance). Comptes
+                                                                                               Environnement, 4 (4), 351-373.
+              Rendus de l’Académie des Sciences. Série 2, Mécanique-Physique,
+              Chimie, Sciences de l’Univers, Sciences de la Terre, 299 (6), 263-266.         LÓPEZ-SÁEZ J.A., TEXIER P.-J. & BUI-THI-MAI, 1998 - Paléoen-
+                                                                                               vironnement durant le Pléistocène Supérieur en Vaucluse : analyse
+            DOUGUEDROIT A., 1976 - La notion de climax appliquée à la Basse
+                                                                                               palynologique des couches inférieures de l’Abri de la Combette
+              Provence calcaire. Méditerranée, 25 (2), 55-71.
+                                                                                               (Bonnieux, Vaucluse, France). Trabajos de Prehistoria, 55 (2),
+            DRAMIS F., MATERAZZI M. & CILLA G., 1999 - Influence                               151-162.
+              of climatic changes on freshwater travertine deposition: a new
+                                                                                             LUMINET R. & RAMADE J., 1970 - Le massif du Petit Luberon
+              hypothesis. Physics and Chemistry of the Earth. Part A, Solid Earth
+                                                                                               et ses bordures : étude géomorphologique. Mémoire de Maîtrise,
+              and Geodesy, 24 (10), 893-897.
+                                                                                               Université Aix-Marseille, Aix-en-Provence, 112 p.
+            DUBAR M., 1979a - Sédimentologie : I. - Les caractères sédimento-
+                                                                                             MAGNIN F., 1991 - Mollusques continentaux et histoire quaternaire
+              logiques des terrasses fluviatiles et de leur couverture limoneuse en
+                                                                                               des milieux méditerranéens (Sud-Est de la France, Catalogne). Thèse
+              Moyenne Durance. Bulletin de l’Association Française pour l’Etude                de Doctorat, Université Aix-Marseille 2, Aix-en-Provence, 340 p.
+              du Quaternaire, 16 (3), 109-120.
+                                                                                             MAGNIN F., 1992 - Variations de température en Provence pendant
+            DUBAR M., 1979b - Malacofaunes terrestres de couches datées par la                 le Pléistocène supérieur (stades isotopiques 2 et 3) estimées d’après
+              méthode du carbone 14 en Provence. Bulletin du Musée d’Anthropo-                 l’analyse d’associations de gastéropodes terrestres. Comptes Rendus
+              logie Préhistorique de Monaco, 23, 19-36.                                        de l’Académie des Sciences. Série 2, Mécanique, Physique, Chimie,
+            DUBAR M., 1983 - Stratigraphie des dépôts du Néogène supérieur et                  Sciences de l’Univers, Sciences de la Terre, 315 (2), 231-237.
+              du Pléistocène du bassin de la moyenne Durance ; interprétations               MAGNIN F., 1993 - Quaternary non-marine Mollusca and palaeocli-
+              géodynamiques et paléogéographiques. Thèse de Doctorat, Univer-                  mates in Mediterranean France. Scripta Geologica. Special Issues,
+              sité de Provence Aix-Marseille 1, Marseille, 428 p.                              2, 275-289.
+            DUBAR M., 1984 - Les terrasses fluviatiles au sud des Alpes. Bulletin            MAGNIN F., 2014 - Middle Pleniglacial to Holocene molluscan
+              de l’Association Française pour l’Etude du Quaternaire, 21 (1-3),                assemblages in the Marseille-Aubagne basin (Provence, France).
+              134-138.                                                                         Quaternaire, 25 (2), 113-125.
+            DUBAR M., 2008 - Découverte d’un fragment osseux de Néandertha-                  MAGNIN F., GUENDON J-L., QUINIF Y., ROIRON P. &
+              lien en 1982 à Forcalquier. Patrimoine du Pays de Forcalquier, 11,               THINON M., 1990 - Datations isotopiques et études des paléoen-
+              18-19.                                                                           vironnements de la formation à travertins de la Papeterie Vasino
+            ÉVIN J., MARECHAL J. & MARIEN G., 1983 - Lyon natural radio-                       (Meyrargues, Bouches-du-Rhône, France). Mise en évidence de
+              carbon measurements IX. Radiocarbon, 25 (1), 59-128.                             deux périodes de réchauffement durant le Riss. Comptes Rendus
+            FRANK N., BRAUM M., HAMBACH U., MANGINI A. &                                       de l’Académie des Sciences. Série 2. Sciences de la Terre et des
+              WAGNER G., 2000 - Warm period growth of travertine during the                    Planètes, 310 (9), 1285-1292.
+              last interglaciation in Southern Germany. Quaternary Research, 54              MAGNIN F. & BONNET S., 2014 - Une succession malacologique
+              (1), 38-48.                                                                      du Pléniglaciaire moyen et du Postglaciaire à Aix-en-Provence
+            GABERT J., 1964 - Le piémont du Luberon central. Méditerranée, 5                   (France) : éléments de datation, taphonomie des assemblages et
+              (2), 109-131.                                                                    paléoenvironnements. Quaternaire, 25 (2), 163-185.
+            GAUSSEN H., 1960 - Les Gymnospermes actuelles et fossiles. Fasci-                MAZENOT G., 1956 - Recherches sur les faunes malacologiques du
+              cule VI. Chapitre XI. Généralités, genre Pinus. Travaux du Labora-               loess récent würmien et de divers limons terrestres holocènes dans
+              toire Forestier de Toulouse, 6 (11). Faculté des Sciences, Toulouse,             le Sud-Est de la France. Bulletin Mensuel de la Société Linéenne de
+              272 p.                                                                           Lyon, 25 (1), 9-24, 25 (2), 41-56 & 25 (3), 73-88.
+
+
+
+
+1404-069- Mep 2-2014 okDer.indd 110                                                                                                                                    27/05/14 13:35
+                                                                                                 111
+
+                      MIRAMONT C., 1998 - Morphogenèse, activité érosive et détritisme                 ROVÉRA G., ROBERT Y., COUBAT M. & NEDJAI R.,
+                        alluvial holocènes dans le bassin de la moyenne Durance. Thèse de                1999 - Erosion et stades biorhexistasiques dans les ravines du
+                        Doctorat, Université Aix-Marseille I, Aix-en Provence, 286 p.                    Saignon (Alpes de Provence). Essai de modélisation statistique des
+                      MOLLIEX S., SIAME L., BOURLÈS D., BELLIER O., BRAU-                                vitesses d’érosion sur marnes. Etude de Géographie Physique, 28,
+                        CHER R. & CLAUZON G., 2013 - Quaternary evolution of a                           109-115.
+                        large alluvial fan in a periglacial setting (Crau Plain, SE France)            SCHOENEICH P., 2003 - Que s’est-il passé pendant la première partie
+                        constrained by terrestrial cosmogenic nuclide (10Be). Geomorpho-                 du Tardiglaciaire? Indices d’un changement écologique majeur dès
+                        logy, 195, 45-52.                                                                17-18 000 cal BP. Preistoria Alpina, 39, 9-17.
+                      MONTOYA C., GUENDON J.-L., BOUQUET L., DE STEFANI                                SIAME L., BELLIER O., BRAUCHER R., SEBRIER M.,
+                        M., FABRE M., LAROCHE M., LOPINET P., PORTALIER                                  CUSHING M., BOURLES D., HAMELIN B., BAROUX E., DE
+                        N. & RILLARDON M., 2007 - Le gisement paléolithique des                          VOOGD B., RAISBECK G. & YIOU F., 2004 - Local erosion rate
+                        Vaugreniers (Le Muy, 83) : Document final de synthèse de fouille                 versus active tectonics: cosmic ray exposure modelling in Provence
+                        préventive 16 janvier 2006 - 31 mars 2006. ESEP (UMR 6636),                      (south-east France). Earth and Planetary Science Letters, 220 (3-4),
+                        Aix-en-Provence & Service Régional de l’Archéologie de Provence-                 345-364.
+                        Alpes-Côte-d’Azur, Aix-en-Provence, 65 p.                                      SIVAN O., 2002 - Activité érosive et évolution des paléoenvironne-
+                      MONTOYA C., GUENDON J.-L., BOUDIAS J-B, BOUQUET L.,                                ments alpins postglaciaires. Etude dendrogéomorphologique des
+                        DE STEFANI M., FABRE M., LAROCHE M., LOPINET P.,                                 gisements de troncs subfossiles dans les Alpes du Sud. Thèse de
+                        PORTALIER N. & RILLARDON M., 2014 - Le site paléolithique                        Doctorat, Université Aix-Marseille I, Aix-en-Provence, 241 p.
+                        des Vaugreniers (Le Muy, Var) : un nouveau faciès épigravettien                SLIMAK L., AMBERT P., BAZILE F., BON F., BRESSY C.,
+                        ancien dans le sud-est de la France ? Quaternaire, 25 (2), 127-146.              BRUGAL J.-P., CHZRAZVEZ J., EIZENBERG L., D’ER-
+                      NEVILLE A.M., 2000 - Propriétés des bétons. Editions Eyrolles,                     RICO F., FABRE M., GERBE M., GIRAUD Y., OLLIVIER
+                        Paris, 806 p.                                                                    V., GUENDON J.-L., HIGHAM T., JEANNET M., LAROU-
+                      OLLIVIER V., 2001 - Evolution géomorphologique postglaciaire du                    LANDIE V., LOMPRÉ A., PESESSE D., MAGNIN F., MALLOL
+                        piémont méridional du Grand Luberon en relation avec l’occupa-                   C., ROIRON P., TALON B. & WOERZ P., 2008 – Projet collectif
+                        tion humaine. Courrier Scientifique du Parc Naturel Régional du                  de recherche interrégional « Diversité biologique, diversité culturelle
+                        Luberon, 5, 32-46.                                                               entre le 45e et 35e millénaire BP, Problématique, contexte ». Bilan
+                      OLLIVIER V., 2006 - Continuités, instabilités et ruptures morpho-                  Scientifique - Direction Régionale des Affaires Culturelles Provence-
+                        géniques en Provence depuis la dernière glaciation. Travertinisa-                Alpes-Côte-d’Azur, Service Régional de l’Archéologie, 2008, 35-36.
+                        tion, détritisme et incisions sur le piémont sud du Grand Luberon              SVENSSON A., ANDERSEN K.K., BIGLER M., CLAUSEN
+                        (Vaucluse, France). Relations avec les changements climatiques et                H.B., DAHL-JENSEN D., DAVIES S.M., JOHNSEN S.J.,
+                        l’anthropisation. Thèse de Doctorat, Université de Provence Aix-                 MUSCHELER R., PARRENIN F., RASMUSSEN S.O.,
+                        Marseille 1, Aix-en-Provence, 357 p.                                             RÖTHLISBERGER R., SEIERSTAD I., STEFFENSEN J.P.,
+                      OLLIVIER V., 2009 - Continuités, instabilités et ruptures morpho-                  VINTHER B.M., 2008 - A 60 000 year Greenland stratigraphic ice
+                        géniques en Provence depuis la dernière glaciation. Travertinisa-                core chronology. Climate of the Past, 45 (1), 47-57.
+                        tion, détritisme et incisions sur le piémont sud du Grand Luberon              TERRIER M. & LENOTRE N., 1989 - Reconnaissance néotecto-
+                        (Vaucluse, France). Relations avec les changements climatiques                   nique d’un accident majeur en Provence (France). Utilisation de la
+                        et l’anthropisation. Sans Papier French Studies Program, Cornell                 comparaison des nivellements et de l’analyse morphostructurale.
+                        University, New York, 360 p.                                                     Bulletin de l’Association Française pour l’Etude du Quaternaire, 26
+                      OLLIVIER V., 2011 - Les formations travertineuses et détritiques                   (3), 161-170.
+                        pléistocènes à postglaciaires du piémont sud du Grand Luberon. In              TESSIER L., 1984 - Dendroclimatologie et écologie de Pinus sylves-
+                        V. Ollivier & J.-L. Guendon (dir.), Livret guide : Excursion de l’As-            tris L. et Quercus pubescens Willd. dans le sud-est de la France.
+                        sociation Française pour l’Etude du Quaternaire (AFEQ) : 21 au                   Thèse de Doctorat d’État, Université Aix-Marseille 3, Aix-en-
+                        23 juin 2011 : Paysages, travertins et paléoenvironnements quater-               Provence, 275 p.
+                        naires entre Provence et Alpes occidentales. Stéphane Renault,                 THÉRY I., 1998 - Economie du combustible et paléoécologie en contexte
+                        LAMPEA, Aix-en-Provence, 14-33.                                                  glaciaire et périglaciaire : Paléolithique moyen et supérieur du sud
+                      ORDÓÑEZ S., GONZÁLEZ MARTÍN J.A., GARCÍA DEL CURA                                  de la France (anthracologie, expérimentation, taphonomie). Thèse de
+                        M.A. & PEDLEY H.M., 2005 - Temperate and semi-arid tufas in                      Doctorat, Université Paris 1 Panthéon-Sorbonne, Paris, 545 p.
+                        the Pleistocene to Recent fluvial barrage system in the Mediterra-             TRIAT-LAVAL H., 1978 - Contribution pollenanalytique à l’his-
+                        nean area: The Ruidera Lakes Natural Park (Central Spain). Geomor-               toire tardi- et postglaciaire de la végétation de la basse vallée du
+                        phology, 69 (1-4), 332-350.                                                      Rhône. Thèse de Doctorat d’État, Université Aix-Marseille 3, Aix-
+                      PEDLEY M., ANDREWS J., ORDÓÑEZ S., GARCÍA DEL CURA                                 en-Provence, 343 p.
+                        M-A., GONZÁLES MARTÍN J-A. & TAYLOR D., 1996 - Does                            TRIAT-LAVAL H., 1979 - Histoire de la forêt provençale depuis 15 000
+                        climate control the morphological fabric of freshwater carbonates?               ans d’après l’analyse pollinique. Forêt Méditerranéenne, 1, 19-24.
+                        A comparative study of Holocene barrage tufas from Spain and                   TRICART J., 1952 - Paléoclimats quaternaires et morphologie clima-
+                        Britain. Palaeogeography, Palaeoclimatology, Palaeoecology, 121                  tique dans le Midi méditerranéen. Eiszeitalter und Gegenwart, 2 (1),
+                        (3-4), 239-257.                                                                  172-188.
+                      PEULVAST J.-P., BAROUX E. BELLIER O. & SEBRIER M.,                               VAN DER HAMMEN T., MAARLEVELD G.C., VOGEL J-C.
+                        1999 - Le problème de l’activité des failles de Nîmes, de Salon-                 & ZAGWIJN W.H., 1967 - Stratigraphy, climatic succession and
+                        Cavaillon et de la Moyenne Durance (SE de la France) : apports de                radiocarbon dating of the last glacial in the Netherlands. Geologie en
+                        la géomorphologie structurale. Géomorphologie : Relief, Processus,               Mijnbouw, 46 (3), 79-95.
+                        Environnement, 5 (4), 327-358.                                                 VAN HUISSTEDEN J., GIBBARD P.L. & BRIANT R.M.,
+                      PEYRON O., GUIOT J., CHEDDADI R., TARASOV P., REILLE                               2001 - Periglacial fluvial systems in Northwest Europe during marine
+                        M., DE BEAULIEU J.-L., BOTTEMA S. & ANDRIEU V.,                                  isotope stages 4 and 3. Quaternary International, 79 (1), 75-88.
+                        1998 - Climatic reconstruction in Europe for 18,000 yr B.P. from               VAN HUISSTEDEN K. & POLLARD D., 2003 - Oxygen isotope
+                        pollen data. Quaternary Research, 49 (2), 183-196.                               stage 3 fluvial and eolian successions in Europe compared with
+                      PRENTICE I.C., GUIOT J. & HARRISON S.P., 1992 - Mediterra-                         climate model results. Quaternary Research, 59 (2), 223-233.
+                        nean vegetation, lake levels and palaeoclimate at the Last Glacial             VAUDOUR J., 1968 - A propos d’une conférence… Notes sur les sols
+                        Maximum. Nature, 360 (6405), 658-660.                                            méditerranéens. Annales de Géographie, 77 (422), 483-488.
+                      ROSIQUE T., 1994 - Les gisements de bois fossiles conservés dans                 WEISROCK A., 1986 - Variations climatiques et périodes de sédimen-
+                        les formations détritiques tardi- et postglaciaires du bassin du Buëch           tation carbonatée à l’Holocène - L’âge des dépôts. Méditerranée, 57
+                        (Hautes Alpes) : interprétation géodynamique et paléoécologique.                 (1-2), 165-167.
+                        Comptes Rendus de l’Académie des Sciences. Série 2, Sciences de la
+                        Terre et des Planètes, 319 (3), 373-380.                                       ZAGWIJN W.H., 1974 - Vegetation, climate and radiocarbon datings
+                                                                                                         in the late Pleistocene of the Netherlands. Part II: Middle Weische-
+                      ROSIQUE T., 2004 - La dernière phase glaciaire de la moyenne                       lian. Mededelingen Rijks Geologische Dienst. Nieuwe Serie, 25 (3),
+                        Durance (région de Gap à Sisteron) : bilan des recherches, dernières             101-111.
+                        conclusions chronologiques. Méditerranée, 1 (2), 25-36.
+                                                                                                       ŽÁK K., LOŽEK V., KADLEC J., HLADÍKOVÁ J. & CÍLEK V.,
+                      ROUIRE J. (coord.), CATZIGRAS F., COLOMB E., DURAND J.-P.,                         2002 - Climate-induced changes in Holocene calcareous tufa forma-
+                        GUIEU G., ROUSSET C., TEMPIER C., NURY D., DAMIANI L.                            tions, Bohemian karst, Czech Republic. Quaternary International,
+                        & DUROZOY G, 1969 - Carte géologique de la France au 1/50 000                    91 (1), 137-152.
+                        (n° 1021), Aix-en-Provence (XXXII-44), 2e édition. Notice explicative.
+                        Bureau de Recherches Géologiques et Minières, Orléans, 19 p.
+
+
+
+
+1404-069-  Mep 2-2014
+      View publication stats okDer.indd 111                                                                                                                                    27/05/14 13:35
+

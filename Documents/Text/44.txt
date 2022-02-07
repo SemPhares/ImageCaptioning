@@ -1,0 +1,792 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/258516593
+
+
+
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en
+Midi toulousain : Bel-Soleil à Cornebarrieu (Haute-Garonne, France)
+
+Article in Bulletin de la Société préhistorique française · January 2009
+
+CITATION                                                                                               READS
+
+1                                                                                                      212
+
+3 authors, including:
+
+            Laurent Bruxelles                                                                                     Marc Jarry
+            Institut national de recherches archéologiques préventives                                            Institut national de recherches archéologiques préventives
+            231 PUBLICATIONS 842 CITATIONS                                                                        65 PUBLICATIONS 285 CITATIONS
+
+                SEE PROFILE                                                                                          SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                           Diffusion and transmission of ceramics techniques and style in Ethiopian Rift: Ethnoarchaeological studies of Oromo, Woloyta and Wataa potter communities (Arsi,
+                           Oromoiya)” View project
+
+
+                           Karst, chemical elements and speleology View project
+
+
+
+
+ All content following this page was uploaded by Laurent Bruxelles on 05 June 2014.
+
+ The user has requested enhancement of the downloaded file.
+                                Un nouveau jalon
+                                pour l’approche contextuelle
+                                du Paléolithique moyen
+                                en Midi toulousain :
+    Laurent BRUXELLES,          Bel-Soleil à Cornebarrieu
+             Marc JARRY
+et Roberta BEVILACQUA           (Haute-Garonne, France)
+
+                                    Résumé
+                                    Ces dernières années, le Midi toulousain a connu un renouvellement
+                                conséquent de sa documentation concernant les périodes anciennes de la
+                                Préhistoire et tout particulièrement pour le Paléolithique inférieur. Le
+                                Paléolithique moyen, bien que moins favorisé, a cependant bénéﬁcié lui
+                                aussi de cette dynamique. Le développement de l’archéologie préventive,
+                                permettant l’exploration systématique de vastes territoires, apparaît donc
+                                comme un instrument d’exploration privilégié, dans un domaine pourtant
+                                réputé défavorable pour la préservation des vestiges anciens. Le site de
+                                Bel-Soleil revêt, dans cette situation, un caractère exceptionnel à plus d’un
+                                titre. L’état de conservation de la série conﬁrme l’intérêt du contexte des
+                                talus entre les niveaux de terrasses. De même, le matériel, piégé dans la
+                                partie concave d’un versant, a subi un faible remaniement et ne montre pas
+                                les stigmates d’une longue exposition à l’air libre. Un mouvement en masse
+                                de la partie supérieure des colluvions a formé une série de dépressions
+                                dans lesquelles le matériel a été piégé. Puis, il a bénéﬁcié d’un recouvre-
+                                ment certainement assez rapide par la poursuite du colluvionnement.
+                                Étonnamment fraîche et avec un taux de remontage inaccoutumé dans la
+                                région, cette série apparaît d’ores et déjà comme un nouveau référentiel
+                                pour l’approche technologique des industries du Paléolithique moyen entre
+                                Massif Central et Pyrénées.
+                                    Mots-clefs : Paléolithique moyen, quartzites, géoarchéologie, terrasses
+                                de la Garonne, Midi toulousain, Haute-Garonne.
+
+                                   Abstract
+                                   In recent years, the archaeological record in the Toulouse region for the
+                                earliest periods of prehistory, in particular the Lower Palaeolithic, has been
+                                signiﬁcantly renewed. The Middle Palaeolithic has also beneﬁted from this
+                                trend. The development of preventive archaeology, which facilitates the
+                                systematic exploration of vast territories, has thus become an effective
+                                instrument of study in a domain known for its unfavourable conservation
+                                conditions. In this context, the site of Bel-Soleil is exceptional. The good
+                                conservation of its lithic assemblage conﬁrms the interest of taluses between
+                                terrace levels. The lithic assemblage, contained in the concave part of a
+                                hillside, was only slightly disturbed and does not show the stigmata of
+
+                          Mémoire XLVII de la Société préhistorique française
+174                                                                 Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+                                              extended exposure to open-air conditions. A landslide at the top of colluvial
+                                              deposits formed a series of depressions in which the lithic material was
+                                              trapped. It was then rapidly covered by the succession of colluvial move-
+                                              ments. This surprisingly well-preserved assemblage, with a reﬁtting rate
+                                              much higher than usual in the region, already appears as a new reference
+                                              base for technological studies of Middle Palaeolithic industries between
+                                              the Massif Central and the Pyrenees.
+                                                 Key-words : Quartzite, Geoarchaeology, Garonne terraces, Midi-Tou-
+                                              lousain, Haute-Garonne.
+
+
+
+                   INTRODUCTION                                      de la Préhistoire en Midi toulousain (Bruxelles et al.,
+                                                                     2004). Ces travaux révélaient alors l’existence d’une
+                                                                     documentation archéologique ouvrant des perspectives
+   Les cartes du bassin supérieur de la Garonne publiées             plus prometteuses. Pour le Paléolithique moyen, la
+en 1953 par L. Méroc faisaient apparaître, pour les                  découverte du site stratiﬁé de Bichou à Montaigut-sur-
+phases anciennes du Paléolithique, une relative richesse             Save, apporte un nouveau témoin documentant avan-
+en sites (Méroc, 1953 : 38). Il est vrai que depuis long-            tageusement ces industries aux caractères si spéciﬁques
+temps (Noulet, 1851 [1860] ; Breuil, 1937…), une                     (Jarry et al., 2004).
+documentation abondante avait pu y être collectée, au                   En parallèle, le suivi géomorphologique de ces
+point que les espaces constitués par les larges terrasses            opérations (notamment en phase de diagnostic) a
+alluviales du Midi toulousain étaient parfois considérés             permis de mieux connaître l’évolution de ce système
+comme un seul et immense gisement. Mais cette appa-                  de terrasses (Bruxelles et al., 2004). Ces nouveaux
+rente abondance camouﬂait assez difﬁcilement la réa-                 résultats permettent, notamment, de répondre à une
+lité d’une documentation très lacunaire, issue de                    question restée en suspend depuis plus de trente ans :
+« contextes de récoltes décevants ne permettant pas de               celle de l’origine des couvertures limoneuses qui
+proposer un tableau chrono-stratigraphique précis »                  surmontent le corps alluvial graveleux. Parmi les
+(Jaubert, 2002 : 52). Cette indigence était encore plus              hypothèses émises, J. Hubschman (1975) considérait
+ﬂagrante pour le Paléolithique moyen. En effet, hormis               qu’il s’agissait de limons de débordement de ﬁn de
+quelques séries de surface, avec notamment celles                    cycle alluvial propres à chaque niveau de terrasse.
+prospectées dans le secteur de Cambernard en Haute-                  H. Enjalbert (1960) proposait plutôt une origine essen-
+Garonne (Pinos, 1999) ou plus au nord dans le bassin                 tiellement éolienne de ces limons mis en place par
+du Tarn (Tavoso, 1986), les seules fouilles dans un                  saupoudrage sur les terrasses. Enﬁn M. Icole (1973)
+périmètre raisonnable étaient celles du gisement de                  voit une origine locale due essentiellement au rema-
+l’Infernet à Clermont-le-Fort (Méroc, Paloumé, 1958).                niement des matériaux les plus ﬁns, prélevés au toit
+Pour ce dernier site, faunes et industries étaient certes            des terrasses.
+associées, mais nettement remaniées dans les alluvions                  Les travaux conjoints entre archéologues et géo-
+d’un ruisseau. A. Tavoso évoquait déjà cette « pauvreté              morphologues ont permis de répondre à cette question
+(…) d’autant plus surprenante que la région considérée               et conﬁrment les conclusions de M. Icole. Nous avons
+est entourée de zones où les industries moustériennes                ainsi montré que les couvertures de ces terrasses sont
+sont fréquentes et il faut peut-être l’imputer à une dé-             largement diachrones par rapport au substrat graveleux
+ﬁcience des recherches entreprises dans cette région »               qu’elles surmontent (Icole et Rieucau, 1982 ; Capde-
+(Tavoso, 1976).                                                      ville et al., 1997 ; Bruxelles et al., 2004). Elles se
+   Finalement, la seule référence véritablement ﬁable                mettent en place après l’érosion quasi-complète des
+du couloir garonnais était (et restera encore longtemps)             limons d’inondation de ﬁn de cycle alluvial et l’altéra-
+le site de Mauran, implanté à 60 km au sud de Tou-                   tion de la formation graveleuse. De même, les obser-
+louse, au niveau de la cluse de Boussens et fouillé entre            vations réalisées sur le site de Bichou conﬁrment que
+1974 et 1981 par C. Farizy (Farizy, David, Jaubert, dir.,            ces couvertures sont polygéniques et montrent plu-
+1994). Ensuite, pour trouver de nouveaux repères, il                 sieurs alternances de phases de pédogenèse et de cycles
+faut pénétrer franchement le milieu montagnard pyré-                 d’érosion.
+néen (par exemple Le Portel en Ariège ou Le Noisetier                   Si ces observations dressent un portrait assez sombre
+à Fréchet-Aure dans les Hautes-Pyrénées), ou remonter                des potentialités archéologiques de ce domaine concer-
+la vallée de la Save et de la Seygouade pour rencontrer              nant les périodes anciennes, il permet toutefois de
+le groupe de Montmaurin (Coupe-Gorge ou Esclignac                    comprendre pourquoi une grande partie du matériel
+en Haute-Garonne), ou encore la vallée de l’Aveyron,                 archéologique était récoltée à la base de la couverture
+puis la vallée de la Vère (Puycelsi, Tarn) ouvrant sur               limoneuse, juste avant la grave. Il se trouvait en réalité
+les riches espaces des Causses.                                      en position résiduelle et formait un pavage suite à
+   C’est dans ce contexte peu engageant que, ces der-                l’érosion des limons de la terrasse. Vraisemblablement,
+nières années, une série d’opérations de diagnostics                 plusieurs industries peuvent même se retrouver mélan-
+archéologiques et de fouilles a permis un renouvelle-                gées après la disparition successive de la couverture
+ment conséquent des données pour les phases anciennes                limoneuse.
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                       175
+
+
+
+   Néanmoins, ces observations nous ont également                      2006). Il a été identiﬁé au sein d’un sondage par la
+permis de percevoir l’intérêt des bordures des terrasses.              découverte d’une concentration de vestiges lithiques
+Les exemples des sites de Labadie à Mondonville                        dans un niveau plus riche en cailloutis (cf. infra). La
+(Bruxelles et al., 2005) et de La Rominguière à Corne-                 densité du niveau archéologique a motivé la réalisation
+barrieu (Lelouvier et al., 2005) montrent que ces sec-                 de tranchées complémentaires aﬁn d’en estimer l’ex-
+teurs peuvent constituer des pièges sédimentaires ca-                  tension latérale. Notons ici que tous les sondages
+pables de conserver, dans de meilleures conditions, des                voisins se sont révélés parfaitement stériles. Le site
+vestiges archéologiques anciens.                                       apparaissait donc comme circonscrit dans un périmètre
+   Le site de Bel-Soleil conﬁrme et complète ces pre-                  très restreint (ﬁg. 3 et 4). Il a fait l’objet d’une fouille
+mières constatations. Il est localisé sur la commune de                mécanisée par passes très ﬁnes, avec contrôle systéma-
+Cornebarrieu, à une dizaine de kilomètres à l’ouest de                 tique des déblais et repérage des vestiges par secteurs.
+Toulouse (ﬁg. 1 et 2). Il a été mis au jour et fouillé en              Ainsi, l’intégralité du site a été reconnue au sein d’un
+été 2005 dans le cadre de l’opération de diagnostic                    sondage et de ses extensions, avec une concentration
+archéologique de la ZAC des Monges – Croix du Sud,                     principale de moins de 50 m2, riche en vestiges de
+dirigée par Jérôme Briand (INRAP/GSO) (Briand,                         petites dimensions.
+
+
+
+
+                                             Fig. 1 – Carte générale du système de terrasses
+                                     de la Garonne en Midi toulousain (dessin L. Bruxelles/INRAP).
+
+                                      Mémoire XLVII de la Société préhistorique française
+176                                                                      Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+                LE CONTEXTE                                               versant entaille la formation alluviale ainsi que la mo-
+            MORPHO-SÉDIMENTAIRE                                           lasse tertiaire sous-jacente. Vers la base du versant, la
+                                                                          molasse disparaît rapidement sous les formations col-
+                                                                          luviales qui s’épaississent pour dépasser plusieurs
+              Le cadre géomorphologique                                   mètres au cœur de la partie concave du versant. On
+              de la vallée de l’Aussonnelle                               retrouve dans ces dépôts des poupées calcaires arra-
+                                                                          chées à la molasse ainsi que des niveaux de galets et
+   L’Aussonnelle prend sa source dans les coteaux                         de graviers qui proviennent de l’érosion de la moyenne
+molassiques et les hauts niveaux de terrasses de la                       terrasse.
+bordure occidentale de la vallée de la Garonne (ﬁg. 1).                      La basse terrasse de l’Aussonnelle ne forme pas
+Elle traverse la moyenne terrasse garonnaise dans                         toujours un replat bien visible dans le paysage, du fait
+laquelle elle s’inscrit de plusieurs dizaines de mètres.                  de son étroitesse et de l’importance des colluvions qui
+À partir de la Salvetat et de Cornebarrieu, la vallée                     la recouvrent. Le corps graveleux de la terrasse est
+s’élargit pour atteindre 1,5 km de large. Elle conserve                   constitué de galets, parfois grossiers, tous remaniés à
+en rive gauche plusieurs lambeaux de basse terrasse                       partir des alluvions garonnaises de la moyenne terrasse.
+qui dominent la basse plaine d’une dizaine de mètres                      En effet, l’Aussonnelle ne possède pas d’amont rocheux
+(ﬁg. 2).                                                                  susceptible de fournir ce type de matériaux. La cou-
+   La moyenne terrasse de la Garonne se remarque                          verture limoneuse passe de quelques décimètres
+dans le paysage par sa continuité et son ampleur. Large                   d’épaisseur à l’est, au dessus de la basse plaine, à plu-
+de plusieurs kilomètres, son altitude varie entre 50 et                   sieurs mètres au pied du talus de la moyenne ter-
+80 mètres au-dessus du lit actuel du ﬂeuve. Dans le                       rasse.
+détail, sa surface est accidentée de petits ressauts topo-
+graphiques qui montrent la juxtaposition de plusieurs
+corps sédimentaires emboîtés. Les alluvions grave-                                       Observations topographiques
+leuses, épaisses de 6 à 15 mètres en moyenne, sont                                        et relevés stratigraphiques
+recouvertes par une couverture limoneuse de puissance
+variable, au gré des irrégularités du toit de la grave.                      Bel-Soleil se situe au cœur de la partie concave du
+   Le rebord de la moyenne terrasse de la Garonne                         versant entre la moyenne terrasse de la Garonne et la
+domine la basse terrasse de l’Aussonnelle d’une tren-                     basse terrasse de l’Aussonnelle. À ce niveau, on ob-
+taine de mètres (ﬁg. 3). Le talus de raccordement a un                    serve une diminution rapide de la pente qui passe de
+proﬁl convexo-concave classique. La partie haute du                       7 % dans la partie supérieure à 4 % jusqu’au toit de la
+
+
+
+
+                   Fig. 2 – Contexte géomorphologique et archéologique du site de Bel-Soleil (dessin L. Bruxelles/INRAP).
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                       177
+
+
+
+
+                                  Fig. 3 – Coupe géologique perpendiculaire à la vallée de l’Aussonnelle
+                                   passant au niveau du site de Bel-Soleil (dessin L. Bruxelles/INRAP).
+
+
+
+
+basse terrasse. Dans le détail, on observe au niveau du                  majorité des pièces provient du secteur NO où la den-
+site une légère éminence qui perturbe quelque peu le                     sité de vestiges atteint 5,57 pièces/m2 alors qu’elle est
+proﬁl régulier du versant. À l’image d’autres irrégula-                  de 2,89 pièces/m2 dans le reste de la nappe de ves-
+rités relativement fréquentes dans ces formations col-                   tiges.
+luviales, nous avons assimilé cette perturbation à un
+ancien mouvement de masse largement regradé depuis                           Le niveau archéologique, épais de 10 à 20 cm, avait
+par l’érosion.                                                           une pente générale de 4 %, globalement parallèle à la
+   La séquence stratigraphique relevée concerne la                       pente du versant dans ce secteur. Néanmoins, dans le
+partie supérieure des colluvions (ﬁg. 4). À la base, et                  détail, le proﬁl de ce niveau montre plusieurs irrégula-
+sur plusieurs mètres d’épaisseur, on recoupe des limons                  rités (ﬁg. 4):
+argileux beiges parcourus localement par des passées                     - dans la partie nord-ouest du décapage, la pente du
+plus grossières. Au-dessus, le matériel archéologique                       toit des limons jaunes est très redressée. La formation
+était pris dans un niveau épais d’une vingtaine de cen-                     à graviers y est peu épaisse et elle est tronquée dans
+timètres constitué d’argile limoneuse beige brun à                          sa partie supérieure par le niveau de labour ;
+graviers et à petits galets. Il était surmonté par 20 cm                 - à quelques mètres de là, plus en aval, le pendage
+d’argile limoneuse plus brune, compacte, assez homo-                        diminue rapidement et tend même à s’inverser légè-
+gène et à cassure prismatique. On passe ensuite dans                        rement au niveau d’un petit bourrelet. Il souligne
+15 à 20 cm de limons argileux lessivés de couleur beige                     donc une dépression dans laquelle le niveau archéo-
+clair. Ce niveau est clairement tronqué par la formation                    logique s’épaissit et atteint 20 cm de puissance ;
+supérieure qui forme le labour actuel. Épais de 30 à                     - la remontée des limons jaunes forme donc un petit
+35 cm, il est composé de limon argileux brun à galets                       seuil. Le niveau de graviers n’excède pas une dizaine
+et fragments de terre cuite.                                                de centimètres d’épaisseur et la concentration de
+   Ce proﬁl de sol correspond à un sol lessivé sur                          matériel lithique est déjà beaucoup moins impor-
+colluvions. Le matériel archéologique est localisé à la                     tante ;
+base des limons bruns, juste au-dessus de l’épaisse                      - une nouvelle dépression du toit des limons jaunes
+formation limoneuse jaunâtre. Il souligne la discor-                        permet de recouper près de 20 cm de limons à gra-
+dance entre ces deux formations que l’on observe de                         viers. Le matériel archéologique est toujours présent
+manière générale sur toute la basse terrasse de l’Aus-                      mais beaucoup moins abondant que dans la première
+sonnelle.                                                                   dépression.
+
+                                                                            La topographie du niveau archéologique souligne
+        Répartition du matériel archéologique                            l’existence d’ondulations du toit des limons jaunes. On
+                                                                         relève même la présence d’une dépression fermée par
+   Les décapages successifs ont permis de relever les                    une remontée de ces limons. Ce dispositif ne peut être
+limites spatiales du site ainsi que la topographie du                    uniquement expliqué par des phénomènes de ruissel-
+niveau dans lequel se trouvait l’industrie lithique. Le                  lement. Comme cela avait été suspecté à l’examen de
+matériel était contenu dans une nappe graveleuse de                      la topographie du versant, il semble qu’un mouvement
+faible extension qui tendait à disparaître en bordure de                 en masse des colluvions soit à l’origine de la structu-
+la zone décapée et qui n’a pas été retrouvée dans les                    ration secondaire de ces dépôts.
+autres sondages. Allongée dans le sens de la pente, elle                    La répartition de la granulométrie par secteur a pu
+mesurait 32 m de long pour 9 m de largeur (ﬁg. 4). La                    être réalisée au cours du décapage mécanique. Les
+
+                                       Mémoire XLVII de la Société préhistorique française
+178                                                                     Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+
+                                    Fig. 4 – Coupe stratigraphique relevée dans l’axe du sondage 05-188,
+                           à travers l’ensemble du secteur décapé (dessin R. Bevilacqua et L. Bruxelles/INRAP).
+
+
+
+
+petits éléments sont sous représentés, voire absents,
+car difﬁciles à distinguer sur le terrain. Cependant, on
+remarque que la plus grande quantité de grosses pièces
+se trouve dans le secteur N et NNO alors que les
+classes intermédiaires sont plus nombreuses vers
+l’aval, en particulier dans les secteurs SE et SO. Cette
+distribution peut être expliquée par la position du
+matériel dans la pente et à son remaniement par le
+ruissellement.
+
+
+       ANALYSES DES PERTURBATIONS
+         POST-DÉPOSITIONNELLES
+
+   Aﬁn de pouvoir préciser le degré d’intégrité du site,
+un test de tamisage a été réalisé dans le secteur de plus
+forte densité du matériel archéologique (NO). Le dia-
+gramme des classes granulométriques, basé toutefois                            Fig. 5 – Diagramme des classes granulométriques obtenu
+sur un petit nombre de pièces (34), met en évidence                         à partir d’un test de tamisage réalisé dans le secteur nord-ouest.
+une certaine troncature de la série (ﬁg. 5). En effet, la
+classe des éléments compris entre 2 et 5 mm est peu
+développée alors qu’elle est bien exprimée dans le
+sédiment encaissant. Cette troncature correspond à                          Les résultats du test de tamisage ont également été
+l’érosion d’une partie du matériel archéologique et à                    intégrés dans un triangle des classes dimensionnelles
+l’enlèvement des éléments les plus petits. Ce test                       (ﬁg. 6). Il permet, par comparaison avec d’autres sites
+montre donc que le gisement est resté à l’air libre un                   archéologiques et avec les résultats de débitages expé-
+certain temps avant d’être enfoui sous les argiles limo-                 rimentaux, d’identiﬁer l’état d’altération de la série
+neuses brunes.                                                           (Lenoble, 2003 ; Bertran in Jarry et al., 2007). Ce
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                          179
+
+
+
+graphique permet en outre de déterminer le type de                        être assimilé à un ancien phénomène de pavage. Les
+perturbation qu’a pu connaître le matériel lithique. Le                   hommes se sont vraisemblablement installés sur cet
+positionnement du site de Bel-Soleil sur ce graphique                     ancien niveau de surface. Après son abandon, le site a
+conﬁrme qu’il n’a pas été épargné par les agents d’éro-                   été soumis au ruissellement. Le matériel archéologique
+sion et qu’il a subit un certain tri granulométrique. Le                  a été légèrement remanié et les éléments les plus ﬁns
+site a donc manifestement été déplacé tout en conser-                     ont été exportés vers l’aval. Puis, comme le montre la
+vant des caractéristiques assez proches d’une concen-                     géométrie ondulée du niveau limoneux à graviers, un
+tration résiduelle en zone amont.                                         mouvement de masse a affecté une partie des collu-
+   Enfin, l’étude du matériel lithique confirme ces                       vions. Dans la partie haute du site, la formation d’une
+constatations (cf. infra). Le taux de remontage est                       dépression a permis le piégeage du matériel. Au niveau
+important puisqu’il atteint 15,33 %. La quasi-totalité                    du bourrelet et plus en aval, le matériel n’a pas béné-
+de ces pièces provient d’ailleurs du secteur nord-ouest.                  ﬁcié de la même protection et l’érosion a poursuivi
+De même, l’examen de la patine montre que 90 % des                        l’évacuation des éléments les plus petits. Autour de ces
+pièces contenues dans la zone de forte concentration                      dépressions, l’érosion postérieure a fait disparaître la
+(secteur NO) sont fraîches et seulement 5% présentent                     totalité du matériel qui pouvait s’y trouver. Enﬁn, une
+un lustré. En revanche, dans les secteurs périphériques,                  formation colluviale brune a recouvert l’ensemble des
+le taux de pièces lustrées devient plus important et                      vestiges. Elle repose en discordance à la fois sur le
+atteint 20 %.                                                             niveau limoneux à graviers et sur les limons jaunes plus
+   L’ensemble de ces résultats couplés aux données                        anciens. Il reste néanmoins difficile pour l’instant
+géomorphologiques et stratigraphiques permet de pré-                      d’évaluer la diachronie entre ces différentes forma-
+senter les principales étapes de l’évolution post-                        tions.
+dépositionnelle de ce gisement. Ainsi, le niveau limo-
+neux à graviers dans lequel est pris le matériel
+archéologique, à l’interface entre les limons jaunes et                                 L’INDUSTRIE LITHIQUE
+les limons bruns, matérialise une rupture nette entre les
+deux formations. Il souligne une discordance et peut                         La série lithique de Bel-Soleil est composée de
+                                                                          652 pièces. La fouille mécanique nous prive de la
+                                                                          fraction ﬁne alors que nous savons qu’elle était pré-
+                                                                          sente (cf. supra). Cependant, l’évaluation des pertes
+                                                                          occasionnées par le mode de prélèvement a montré que,
+                                                                          pour ces industries anciennes, avec ces matières pre-
+                                                                          mières et ce type d’encaissant, la proportion de vestiges
+                                                                          recueillis est à peu près équivalente à celle d’une fouille
+                                                                          manuelle sans tamisage (Colonge et al., à paraître ;
+                                                                          Colonge et al., ce volume). Nous pouvons donc consi-
+                                                                          dérer que l’essentiel du matériel a été récolté ici. Ce
+                                                                          point, allié à des états de surfaces étonnamment frais
+                                                                          (cf. supra) et un taux de remontage qui, hors apparie-
+                                                                          ments, atteint 15 %, argue en faveur d’une bonne homo-
+                                                                          généité de la série.
+
+
+                                                                                       Matières premières exploitées
+                                                                             La ﬁgure 7 livre le décompte général des divers maté-
+                                                                          riaux lithiques utilisés. Ceux-ci y sont classés pas grands
+                                                                          types (MP1, MP2, MP3…) complétés par des sous-types
+                                                                          (a, b, c…). Cette codiﬁcation étant conçue pour être
+                                                                          généralisée aux industries de la vallée de la Garonne
+                                                                          (Jarry et al., en cours) les hiatus dans les suites de codes
+                                                                          correspondent à des roches absentes à Bel-Soleil.
+                                                                             Les silex et apparentés (MP1) sont rares à Bel-Soleil.
+                                                                          La catégorie MP1a (n = 8) est un silex tertiaire dont
+                                                                          l’origine primaire est à rechercher dans les Petites Pyré-
+                                                                          nées. De bonne qualité, à grain assez ﬁn, plus ou moins
+                                                                          bleuté, il prend une teinte beige claire à orangée en
+                                                                          s’altérant. Les siliciﬁcations daniennes présentes au
+                                                                          niveau de la cluse de Boussens alimentent les alluvions
+                                                                          de la Garonne en produits siliceux de ce type (Simon-
+                                                                          net, 1981 et 2002). La présence de plages de néocortex
+  Fig. 6 – Triangle des classes dimensionnelles du matériel prélevé       sur certaines pièces laisse penser que les tailleurs ont
+  dans le secteur nord-ouest (d’après Bertran in Jarry et al., 2007)      prélevé ces matières premières au sein des terrasses
+
+                                             Mémoire XLVII de la Société préhistorique française
+180                                                                         Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+
+       Fig. 7 – Matières premières lithiques mises en œuvre dans la série de Bel-Soleil et comparaisons avec des séries géographiquement
+       proches (codes explicités dans le texte) (données complémentaires Lelouvier et al., 2005 ; Bruxelles et al., 2005 ; Colonge et al., à
+       paraître ; Jarry et al., en cours).
+
+
+
+
+alluviales proches du site. Notons qu’un silex contient                      parfois un litage (MP2f) (n = 23). Enﬁn, pour les quartz,
+des fossiles de gastéropode dulçaquicole. L’autre caté-                      ici assez nombreux (n = 66), ils sont soit blancs opaques,
+gorie (MP1c) ne comprend qu’une pièce. Il s’agit d’une                       soit bleutés translucides.
+matière première de mauvaise qualité apparentée à du                             Nous avons classé ensuite une série de matériaux
+silex se singularisant par sa texture grenue et de nom-                      plus rares, souvent recherchés pour leurs qualités par-
+breuses recristallisations. Sa couleur va du brun orangé                     ticulières. MP4 rassemble les roches éruptives. Outre
+au beige. La présence de néocortex indiquerait qu’il a                       une bonne aptitude à la taille, elles sont souvent très
+aussi été prélevé dans les formations alluviales.                            denses (n = 1). MP5 est une lydienne (n = 3). Bien que
+   Les quartzites (MP2) et les quartz (MP3) sont omni-                       très ﬁne (surtout dans son sous-type a), cette matière
+présents dans la série. Si leur origine primaire est à                       apparaît souvent peu apte au débitage (litage et nom-
+rechercher au sein de la chaîne axiale pyrénéenne, elles                     breux plans de diaclases). MP6b est un schiste tacheté,
+ont toutes été exploitées par les artisans paléolithiques                    au grain ﬁn et d’assez bonne qualité (n = 6). Enﬁn MP7
+sous forme de galets dans les alluvions des terrasses                        présente aussi un grain très ﬁn, parfois lité, d’origine
+garonnaises. Les distinctions en sous-classes pour les                       vraisemblablement volcano-sédimentaire. Cette roche
+quartzites ont été faites en fonction de la taille des                       offre une très bonne aptitude à la taille (n = 13).
+grains constituant la roche, de la couleur et de l’homo-                         Ainsi, à Bel-Soleil, se dégage d’abord une relative
+généité de la structure. Le groupe le plus important est                     variété des matières premières lithiques exploitées par
+le quartzite gris bleuté, largement mis à proﬁt dans                         les tailleurs. De plus, la totalité des matériaux employés
+toutes les séries garonnaises. Il présente généralement                      sont issus de galets provenant des alluvions des terras-
+de bonnes aptitudes à la taille, même s’il est parfois                       ses du couloir garonnais. La source d’approvisionne-
+parcouru par des joints de diaclases pouvant provoquer                       ment est donc locale, soit issue du talus de la moyenne
+des accidents au débitage. MP2a est à grain ﬁn (n = 26),                     terrasse, soit en contrebas du site où la basse terrasse
+MP2c est le plus classique à grain moyen (n = 443).                          de l’Aussonnelle afﬂeure.
+L’autre grand classique est le sous-groupe des quartzites
+à teinte blanche, d’aspect généralement saccharoïde.
+MP2b en est une version à grain ﬁn et néocortex orangé,                                          Une industrie dominée
+présentant une bonne aptitude à la taille (n = 13), contrai-                                    par la production d’éclats
+rement à la version à grain moyen classique (MP2d)
+(n = 38) ou à gros grain (MP2h) (n = 5). À ces maté-                            Nous présentons dans le tableau 1 le décompte gé-
+riaux habituels s’ajoutent un quartzite de teinte claire                     néral de l’industrie de Bel-Soleil. Nous n’individua-
+et néocortex roux, à grain ﬁn ou moyen assez homogène                        liserons pas dans la présentation qui suit la totalité des
+(MP2e) (n = 6) et un quartzite gris bleuté à grain moyen                     classes pétrographiques décrites ci-dessus car les
+d’assez bonne qualité, un peu translucide, présentant                        schémas d’exploitation mis en œuvre n’apparaissent
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                            181
+
+
+
+                                                         Silex     Quartzites       Quartz        Autres        Totaux
+                         Galet/bloc brut                               13                                          13
+                         Fragment de galet                 1           25               2             1            29
+                         Galet à enlèvements                            8                                           8
+                         Percuteur                                      1                                           1
+                         Nucléus                                       42               1             2            45
+                         Fragment de nucléus                           10                             3            13
+                         Éclat                             5         212               23            10          250
+                         Fragment d’éclat                  1         117               14                        132
+                         Débris/casson                     2         123               26             6          157
+                         Outil sur galet                                3                             1             4
+                         Totaux                            9         554               66            23          652
+
+                                            Tabl. 1 – Décompte général de l’industrie de Bel-Soleil.
+
+
+
+
+                    Fig. 8 – Bel-Soleil, 1 à 9 = éclats bruts en quartzite (type C) ; 10 et 11 = éclats bruts en silex (type A) ;
+                                        12 = denticulé en quartzite (type C) (dessins M. Jarry/INRAP).
+
+                                          Mémoire XLVII de la Société préhistorique française
+182                                                                   Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+pas ou peu différenciés. En effet, si ce panel nous a                  La ﬁgure 9 montre un ensemble assez ramassé et homo-
+permis d’illustrer une certaine variété des matériaux                  gène, avec un rapport L/l moyen proche de 1. En outre,
+sélectionnés, l’incidence de ces classes sur l’industrie               les grands éclats (L ou l supérieur à 150 mm), carac-
+se résume à un meilleur aboutissement du débitage sur                  téristiques des ensembles acheuléens (Mourre, 2003 ;
+les matériaux ﬁns. Sans minorer la valeur de cette in-                 Mourre et Colonge, à paraître), ne sont pas présents
+formation, la présentation qui suit sera donc globale.                 ici. Les produits sont donc assez courts, épais, souvent
+                                                                       triangulaires (quelques pointes pseudo-Levallois ont
+   • Les éléments pas ou peu modiﬁés : Le sédiment                     été décomptées) et présentant fréquemment un dos
+encaissant et le substrat du site ne contenant pas de                  néocortical abrupt.
+galets exploitables, ils ont été récoltés. Bien que n’étant                La courbe cumulative (ﬁg. 10) obtenue à partir de
+porteurs d’aucun stigmate dénonçant une intervention                   la liste type d’A. Tavoso (1986), offre un proﬁl « cassé ».
+anthropique, 13 pièces forment cette composante. Ils                   Ainsi, près de 80 % des talons sont néocorticaux, signe
+sont tous en quartzite. Les dimensions ne sont pas très                d’un débitage majoritairement unifacial (les talons
+conséquentes puisque la moyenne des longueurs est de                   lisses, dièdres ou facettés sont cependant présents). Les
+134 mm, mais l’ensemble des valeurs est assez dis-                     faces supérieures des éclats sont quant à elles majori-
+persé. À ces éléments bruts s’ajoutent huit galets por-                tairement dépourvues de néocortex. Lorsqu’une plage
+tant des enlèvements non contigus. Si l’interprétation                 est présente, c’est souvent sous la forme d’un dos
+de ces objets est encore obscure (tests, manuports…)                   abrupt. Le débitage est donc assez développé, mais
+cette proportion est ici très faible. Pour comparaison,                reste souvent partiel par rapport au pourtour du galet.
+notons qu’ils représentent 22,4 % de la série acheu-                       L’angle d’éclatement des talons a pu être mesuré
+léenne de La Rominguière (Lelouvier et al., 2005 : 28).                pour de nombreux éclats (ﬁg. 11). Curieusement den-
+Leurs dimensions moyennes sont équivalentes à celles                   telée, la courbe présente trois pics : un premier vers
+des galets bruts. En outre, les fragments de galets,                   90-94°, un second, le plus important vers 100-104° et
+comme les débris et les cassons, représentent une forte                un dernier vers 110-114°. Il conviendra de revoir cela
+composante. Ce point est assez classique dans les séries               en détail, aﬁn de rechercher une explication satisfai-
+garonnaises. Notons que certains de ces objets sont des                sante à ces variations (pour cette problématique cf.
+galets éclatés par l’action thermique. Enﬁn, un per-                   Jarry et al., 2007 ; Mourre, 2004).
+cuteur en quartzite complète cette liste. Assez aplati, il                 L’analyse des 45 nucléus et 13 fragments de nucléus
+porte une petite plage de percussion sur une extrémité                 conﬁrme les observations effectuées sur les produits.
+(125 x 102 x 45 mm, 823 g).                                            En effet, si le débitage Discoïde a largement été mis à
+                                                                       contribution avec plusieurs variantes dans la méthode
+  • La production : Le site de Bel-Soleil a livré                      (tabl. 2), le débitage reste très largement unifacial et
+250 éclats et 132 fragments d’éclats (ﬁg. 8). Les di-                  partiel (ﬁg. 12). À cet ensemble viennent s’ajouter
+mensions moyennes des pièces entières sont assez                       quelques nucléus débités selon d’autres méthodes, ici
+basses (en mm : 51,14 ± 20 x 49,63 ± 20 x 17,15 ± 7).                  plus annexes.
+
+
+
+
+                                                 Fig. 9 – Modules des éclats entiers.
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                       183
+
+
+
+
+                        Fig. 10 – Courbes cumulatives des éclats (hors silex) selon la liste de types d’A. Tavoso (1986)
+                     (données complémentaires in : Tavoso, 1986 ; Jaubert, 1993 et 1994 ; Jarry, 1994 ; Jarry et al., 2007).
+
+
+
+
+                                          Fig. 11 – Distribution par classes des angles d’éclatements
+                                                  mesurables des éclats (sauf silex, n = 295).
+
+                                         Mémoire XLVII de la Société préhistorique française
+184                                                                                 Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+   Enﬁn, les dimensions moyennes des nucléus sont :                                  et une dernière pièce porte une retouche continue ter-
+100,4 x 83,27 x 57,95 mm d’épaisseur. Si ces dimen-                                  minant en « bec ». Les supports sont des éclats ou des
+sions ne sont pas très importantes, le nuage de points                               débris. Cette indigence en outillage retouché est à
+est cependant assez dispersé. L’état d’avancement du                                 mettre en relation avec la nature des matières premières
+débitage est très varié, allant de pièces évoquant les                               utilisées. En effet, la retouche n’apporte rien à la qualité
+galets à enlèvements jusqu’à des états d’exhaustion                                  des tranchants, voire même en altère l’efﬁcacité, d’où
+maximum. Les matières premières de meilleure qualité                                 une utilisation probablement directe des produits qu’il
+sont par ailleurs, nous l’avons déjà évoqué, celles ayant                            restera ici à démontrer.
+reçu un débitage plus abouti et plus « soigné ».
+   Les remontages concernent 100 pièces dans
+41 groupes comprenant parfois 5 éléments, soit un taux                                                     Éléments de discussion
+de remontage de 15,33 % sur l’ensemble de la série,
+ce qui est très exceptionnel dans notre contexte (ﬁg. 13).                               Les caractères de l’industrie récoltée à Bel-Soleil
+Notons qu’à cela, une cinquantaine de pièces, sans                                   sont dominés par la nature même des matières pre-
+avoir pu être remontées, sont des appariements évi-                                  mières exploitées, toutes d’origine locale, mais que
+dents. Ces remontages, en plus de leur contribution à                                nous ne qualiﬁerons pas de limitantes et encore moins
+la compréhension de l’évolution post-dépositionnelle                                 de substitutives.
+du niveau archéologique (cf. supra), permettent de                                       Le panel de matières premières exploité à Bel-Soleil
+décrire plus ﬁnement les schémas mis en œuvre pas les                                est maintenant classiquement décrit dans les industries
+tailleurs. L’analyse des remontages corrobore d’ailleurs                             lithiques du Paléolithique inférieur et moyen du bassin
+logiquement les observations effectuées sur les produits                             Garonnais (Capdeville et al., 1997 et 1999 ; Colonge
+et matrices. Les schémas sont certes classiques sur ces                              et al., à paraître ; Bruxelles et al., 2005 ; Lelouvier et
+matières premières et apparaissent «simpliﬁés». Ils sont                             al., 2005 ; Jarry et al., en prép.). S’ils sont très large-
+cependant assez souples dans leurs variantes pour ré-                                ment majoritaires, nous avons pu noter une certaine
+pondre au mieux et avec une grande « efﬁcacité » aux                                 variété dans la sélection des quartzites et un apport en
+contraintes des matières premières exploitées (utilisa-                              matériaux complémentaires. Ces proportions, dans le
+tion des arêtes corticales, rentabilité du débitage,                                 bassin garonnais, ne sont pas très habituelles pour les
+« fonctionnalité » et standardisation des produits…).                                industries acheuléennes (Capdeville et al., 1997 et
+                                                                                     1999 ; Colonge et al., 2002, Bruxelles et al., 2005 ;
+   • L’outillage : Onze pièces composent l’outillage.                                Lelouvier et al., 2005 ; Jarry et al., en prép.), par con-
+Parmi celles-ci, trois sont des outils sur galet. Ces                                tre, elles sont parfaitement superposables à celles ob-
+derniers sont deux petits choppers distaux (un est en                                servées pour le niveau paléolithique moyen du site de
+roche éruptive) et un petit galet allongé plat retouché                              Bichou (Jarry et al., en prép.) (ﬁg. 7).
+sur les bords.                                                                           Le débitage est marqué par l’expression préféren-
+   Les outils retouchés sont assez atypiques. Trois sont                             tielle de la méthode Discoïde. Si plusieurs modalités
+des denticulés (ﬁg. 8, n° 12), deux sont des amincisse-                              de ce type d’exploitation ont été mises en œuvre, c’est
+ments sur face inférieure d’éclats, deux sont des racloirs                           toutefois celles proﬁtant de plans de frappe néocorticaux
+
+
+                                                      Matières premières Silex Quartzites Quartz Autres Totaux
+                                                Types                      nb     nb       nb     nb      nb
+                                                Discoïde unifacial                 8                       8
+                                                Discoïde unifacial partiel        13        1      1      15
+                                                Discoïde bifacial                  1                       1
+                            Nucléus
+
+
+
+
+                                                Discoïde bifacial partiel          7                       7
+                                                Débitage sur enclume               3                       3
+                                                Polyédrique                        1                       1
+                                                Unipolaire                         2                       2
+                                                Indéterminé                        7               1       8
+                                                S/Totaux nucléus            0     42        1      2      45
+                                                Discoïde unifacial                 1                       1
+                                                Discoïde unifacial partiel                                 0
+                            Fragments nucléus
+
+
+
+
+                                                Discoïde bifacial                  1               2       3
+                                                Discoïde bifacial partiel          2               1       3
+                                                Débitage sur enclume                                       0
+                                                Polyédrique                                                0
+                                                Unipolaire                                                 0
+                                                Indéterminé                        6                       6
+                                                S/Totaux fragments          0     10               3      13
+                                                Totaux                      0     52        1      5      58
+
+                                                           Tabl. 2 – Décompte des nucléus de Bel-Soleil.
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                         185
+
+
+
+
+                        Fig. 12 – Bel-Soleil, nucléus Discoïdes en quartzite (types A et C) (dessins M. Jarry/INRAP).
+
+
+
+
+qui ont été privilégiées (unifacial). De même, cette                      développement du débitage Discoïde, complété par des
+exploitation ne concerne souvent que partiellement le                     méthodes annexes, aboutissant à une production
+pourtour du galet initial. Les caractéristiques des nom-                  « d’éclats-outils » assez « standards », sont des critères
+breux éclats de la série conﬁrment par ailleurs les ob-                   rapportables à l’expression du Moustérien garonnais.
+servations déductibles de l’analyse des matrices. Quel-                   L’indigence des termes de comparaisons ﬁables dans
+ques méthodes complémentaires de débitage viennent                        ce contexte (la série A de Bichou en est un des rares
+enrichir ce lot (débitage sur enclume, unipolaire…). Le                   mais l’étude est encore en cours) nous inciterait à ne
+débitage Levallois n’est pas présent.                                     pas aller, pour l’instant, au-delà de cette attribution. En
+   L’outillage retouché est rare et atypique. Il est main-                effet, entre les sites de Mauran (Jaubert, 1993 ; Farizy
+tenant admis que l’outillage n’est pas réduit aux seules                  et al. dir., 1994) ou d’Esclignac (Jarry, 1994) il est bien
+pièces retouchées et que la production a souvent été                      difﬁcile de situer l’industrie de Bel-Soleil sans risquer
+utilisée brute (cf. par exemple Mourre, 1994 ; Bracco,                    d’exploiter des éléments qui ne seraient que conjectu-
+Morel, 1998 ; Jarry et al., 2007 ; Mourre et al., à pa-                   raux. Ils sont éloignés géographiquement, ils sont
+raître). La fraîcheur visible de l’industrie inciterait à                 implantés dans des contextes assez différents de celui
+faire un test d’analyse fonctionnelle. L’outillage fa-                    qui nous concerne et représentent les deux extrémités
+çonné est lui aussi très peu marqué puisqu’il se limite                   de la chronologie.
+à trois petits galets aménagés.
+   L’attribution chronoculturelle de ce petit ensemble,
+même si les points de comparaisons sont rares, est                                                 CONCLUSION
+cependant possible. Par élimination tout d’abord :
+aucun élément caractéristique de l’Acheuléen n’est                           Le Midi Toulousain, ces dernières années, a connu
+présent ici (pas de biface, panel de matières premières                   un renouvellement conséquent de sa documentation,
+« diversiﬁé »…). En outre, cette industrie n’est compa-                   grâce notamment à l’outil de l’archéologie préventive.
+rable à aucune de celles de la Préhistoire récente ré-                    En effet, par la reconnaissance systématique de grands
+gionale. Par contre, elle porte les traits du Paléolithique               territoires, elle apparaît comme un instrument d’explo-
+moyen. En effet, sans pousser bien loin le jeu des rap-                   ration privilégié. Les apports concernent bien sûr
+prochements, qui par ailleurs seraient difﬁciles en                       l’archéologie, mais aussi l’étude des contextes géo-
+l’absence de séries aussi typées dans la vallée de la                     morphologiques de cette large vallée. Si le Paléolithique
+Garonne, il est en effet possible de retenir cette attri-                 inférieur a été largement favorisé par ces découvertes
+bution. Le choix des matières premières, le plein                         récentes, le Paléolithique moyen bénéﬁcie aussi de
+
+                                        Mémoire XLVII de la Société préhistorique française
+186                                                                    Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+
+                                 Fig. 13 – Bel-Soleil, exemples de remontages (dessins M. Jarry/INRAP).
+
+  Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+Un nouveau jalon pour l’approche contextuelle du Paléolithique moyen en Midi toulousain…                                                         187
+
+
+
+cette dynamique, dans laquelle le site de Bel-Soleil                          nécessitent quasiment pas de retouche, ce qui confère
+revêt un caractère important.                                                 à ces séries leur caractère faussement frustre. Les res-
+   Au sein du domaine des terrasses de la Garonne, le                         sources locales ne sont nullement limitantes, mais
+contexte des talus entre les différents paliers alluviaux                     permettent simplement l’expression d’ensembles ori-
+se révèle de plus en plus comme l’un des rares ensem-                         ginaux peu marqués typologiquement. La présence de
+bles géomorphologiques susceptible de préserver, dans                         pièces brûlées permettra sûrement, par la datation par
+de bonnes conditions, les vestiges archéologiques an-                         thermoluminescence, de mieux déﬁnir la place de ces
+ciens.                                                                        ensembles dans la chronologie du Paléolithique moyen.
+   Le site de Bel-Soleil, dont l’état de conservation                         La fraîcheur des tranchants nous incite de même à
+était presque inespéré, est à ce titre assez démonstratif.                    pratiquer des tests tracéologiques aﬁn de conﬁrmer la
+En effet, il offre une série lithique dont l’étude peut                       « fonctionnalité » des tranchants bruts.
+être entreprise en toute conﬁance. Celle-ci conﬁrme                              Ainsi, le site de Bel-Soleil révèle un nouvel aspect
+par ailleurs, une fois de plus, le caractère si particulier                   de la potentialité du vaste domaine que constitue le
+des industries garonnaises, lié notamment aux res-                            couloir Garonnais et incite à une exploration attentive
+sources spéciﬁques recelées par le substrat graveleux.                        de ces contextes, en particulier au cours des diagnostics
+Bel-Soleil réafﬁrme pleinement l’adaptation des ma-                           archéologiques. La question de la datation de ces col-
+tières premières disponibles aux méthodes utilisées par                       luvions et des industries paléolithiques qu’elles renfer-
+les artisans du Paléolithique moyen. Ces derniers ont                         ment reste cependant d’actualité. Gageons que la pour-
+sélectionné un panel diversiﬁé de matériaux et ont mis                        suite de nos travaux et que la collaboration entre
+en œuvre les modalités du débitage Discoïde, notam-                           archéologues et géomorphologues nous fournira, à
+ment dans sa variante unifaciale partielle, à l’apparence                     l’occasion de la découverte de nouveaux sites, les
+simpliﬁée, mais offrant en fait une bonne « rentabilité ».                    premiers calages chronologiques désormais essentiels
+Les produits aux tranchants efﬁcaces et robustes ne                           pour la poursuite de cette réﬂexion.
+
+
+
+                                                        RÉFÉRENCES BIBLIOGRAPHIQUES
+
+BRACCO J.-P., MOREL P. (1998) – Outillage en quartz et boucherie au           COLONGE D., JARRY M., DELFOUR G., FONDEVILLE C.,
+  Paléolithique supérieur : quelques observations expérimentales. In :         ARNOUX T. (coll.), BERTHET A.-L. (coll.) (à paraître) – De la
+  Économie préhistorique : les comportements de subsistance au Paléo-          transition Paléolithique inférieur – Paléolithique moyen dans la vallée
+  lithique, J.-Ph. Brugal, L. Meignen, M. Patou-Mathis (Éd.), XVIIIes          de la Garonne : l’Acheuléen supérieur de Raspide 2 (Blagnac, Haute-
+  Rencontres Internationales d’Archéologie et d’Histoire d’Antibes,            Garonne).
+  Sophia-Antipolis, Éd. ADPCA, p. 387-395.
+                                                                              ENJALBERT H. (1960) – Les pays aquitains. Le modelé et les sols.
+BREUL H. (1937) – Terrasses et quartzites taillés de la haute vallée de         Thèse, imp. Bière, Bordeaux, 618 p.
+  la Garonne. Bulletin de la Société Préhistorique Française, t. 34, n° 2,
+  p. 104-130.                                                                 FARIZY C., DAVID F., JAUBERT J. dir. (1994) – Hommes et bisons du
+                                                                                Paléolithique moyen à Mauran (Haute-Garonne). Paris, CNRS, XXXe
+BRIAND J. (dir.) (2006) – ZAC des Monges/Croix du sud, commune de               suppl. à Gallia Préhistoire, 267 p.
+  Cornebarrieu (Haute-Garonne, Midi-Pyrénées), Rapport de diagnos-
+  tic, INRAP dir. GSO, 2006, 110 p.                                           HUBSCHMAN J. (1975) – L’évolution de nappes alluviales antérissien-
+                                                                               nes de la Garonne, dans l’avant-pays molassique. In : Le piémont
+BRUXELLES L., BERTHET A.-L., CHALARD P., COLONGE D.,                           quaternaire de la Garonne (sud-est du bassin Aquitain, piémont
+  DELFOUR G., JARRY M., LELOUVIER L.-A., ARNOUX T., ONÉ-                       central nord-pyrénéen. Bulletin de l’association française pour l’étude
+  ZIME O. (2004) – Le Paléolithique inférieur et moyen dans le midi            du Quaternaire, n° 44-45, Paris : Université Pierre et Marie Curie,
+  toulousain : nouvelles données géomorphologiques et archéologiques.          Laboratoire de Géologie I, p. 148-160.
+  Paléo, n° 15, décembre 2003, p. 7-28.
+                                                                              ICOLE M. (1973) – Géochimie des altérations dans les nappes d’allu-
+BRUXELLES L., BERTHET A.-L., CHALARD P., COLONGE D.,                            vions du piémont occidental nord-pyrénéen. Essai de paléopédologie
+  DELFOUR G., JARRY M., LELOUVIER L.-A., ARNOUX T., ONÉ-                        quaternaire. Thèse ès Sciences, Paris, 348 p.
+  ZIME O. (2005) – Le site de Labadie à Mondonville (Haute-Garonne,
+  France) : nouvelles données géomorphologiques et archéologiques             ICOLE M., RIEUCAU L. (1976) – Les limons quaternaires et les dépôts
+  sur le Paléolithique inférieur dans le Midi toulousain. In : Les Premiers     de pente dans le bassin de la Garonne et ses afﬂuents. In H. De
+  peuplements en Europe. N. Molines, M.-H. Moncel, J.-L. Monnier                Lumley dir., La Préhistoire Française, Éd. du CNRS, 1976, p. 144-
+  (dir.), Actes du colloque : « Données récentes sur les modalités de           147 : ill.
+  peuplement en Europe au Paléolithique inférieur et moyen », Rennes,
+  22-25 septembre 2003, John and Erica Hedges Ltd, Oxford, British            JARRY M. (1994) – Étude techno-typologique du site d’Esclignac à
+  Archaeological Reports, International Series / S1364, p. 149-158.             Montmaurin (Haute-Garonne), Université de Toulouse – Le Mirail,
+                                                                                E.H.E.S.S., Mémoire de DEA, 1994, 113 p., ill.
+CAPDEVILLE J.-P., CHALARD P., JARRY M., MILLET D., O’YL W.
+  (1997) – Le gisement acheuléen d’En Jacca – La Sauvegarde à Colo-           JARRY M. (dir.), COLONGE D. (dir.), LELOUVIER L.-A. (dir.),
+  miers (Haute-Garonne) : nouvelles données. Paléo, n° 9. p. 69-99.             MOURRE V. (dir.) (2007) – Les Bosses (Lamagdelaine, Lot, France) :
+                                                                                un gisement paléolithique moyen antérieur à l’avant-dernier Inter-
+CAPDEVILLE J.-P., CHALARD P., COLONGE D., JARRY M. (1999) –                     glaciaire sur la moyenne terrasse du Lot. Paris, Société Préhistorique
+  La station acheuléenne du Lotissement du Château à Fonsorbes                  Française, Travaux, n° 7, 159 p., 118 ﬁg., 38 tab.
+  (Haute-Garonne). Bulletin Préhistoire du Sud-Ouest, n° 6/1999/2.
+  1999, p. 105-124.                                                           JARRY M., LELOUVIER L.-A., ARNOUX T., BERTHET A.-L.,
+                                                                                BRUXELLES L., CHALARD P. (2004) – Montaigut-sur-Save,
+COLONGE D., BRUXELLES L., JAMOIS M.-H., CHEVREUSE F. (ce                        Bichou. Bilan Scientiﬁque de la Région Midi-Pyrénées, 2003, Minis-
+  volume) – Périché (Verneuil-sur-Vienne, Haute-Vienne), un gisement            tère de la Culture et de la Communication, D.R.A.C, S.R.A. de Midi-
+  paléolithique moyen en Limousin cristallin.                                   Pyrénées, p. 66-69.
+
+                                                Mémoire XLVII de la Société préhistorique française
+   188                                                                        Laurent BRUXELLES, Marc JARRY et Roberta BEVILACQUA
+
+
+
+   JARRY M., LELOUVIER L.-A., ARNOUX T., BERTHET A.-L.,                         lithique de Coudoulous I, couche 4. In M. Jarry, J.-Ph. Brugal et
+     BRUXELLES L., CHALARD P. (en prép.) – Acheuléen et Moustérien              C. Ferrier (dir.), Actes du colloque : « Modalités d’occupations et
+     en Midi toulousain : le gisement stratiﬁé de Bichou à Montaigut-sur-       exploitation des milieux au Paléolithique dans le Sud-Ouest de la
+     Save (Haute-Garonne, France). Rapport Final d’Opération, INRAP             France : l’exemple du Quercy », Lisbonne 4 sept. 2006, XVIe Congrès
+     G.S.O.                                                                     de l’UISPP.
+
+   JAUBERT J., (1993) – Le gisement paléolithique moyen de Mauran             NOULET J.-B. (1860) – Sur un dépôt alluvien renferment des restes
+     (Haute-Garonne) : techno-économie des industries lithiques. Bull. de      d’animaux éteints, mêlés à des cailloux façonnés de main d’homme,
+     la Soc. Préhist. Française, t. 90, n° 5, p. 328-335.                      découverts à Clermont près de Toulouse. Mém. Acad. Sc. Inscrip. B.
+                                                                               Lett. Toulouse, 5e série, t. IV, 1860, p. 265-284.
+   JAUBERT J. (2002) – Le Paléolithique dans le Midi toulousain. In
+     J.-M. Pailler (dir.), Tolosa, Nouvelles recherches sur Toulouse et son   PINOS A. (1999) – L’Homme de Neandertal dans le Midi toulousain :
+     histoire dans l’Antiquité. Coll. de l’École Française de Rome, n° 281,     approche typologique et technologique de deux séries lithiques issues
+     2002, p. 43-52.                                                            de stations de plein air. Archéo en Savès : Archéologie, Histoire et
+                                                                                Ethnographie en Gascogne orientale, H.S. n° 3, 101 p.
+   LELOUVIER L.-A., BRUXELLES L., JARRY M., MOURRE V., ONÉ-
+     ZIME O., CHALARD P. (coll.), MAGNIN F. (coll.) (2005) – La               SIMONNET R. (1981) – Carte des gîtes à silex des Pré-Pyrénées. Con-
+     Rominguière (Cornebarrieu, Haute-Garonne). Rapport ﬁnal d’opé-             grès Préhistorique de France, XXIe session, Montauban-Cahors, sept.
+     ration, INRAP dir. GSO, Saint-Orens-de-Gameville, 70 p., ill.              1979, vol. 1, p. 308-323.
+
+   LENOBLE A. (2003) – Le rôle du ruissellement dans la formation des         SIMONNET R. (2002) – Le silex dans le bassin sous-pyrénéen de la
+     sites préhistoriques : approche expérimentale. Thèse, Université de        Garonne. Compléments. Bulletin de la Société Préhistorique Ariège-
+     Bordeaux 1, 306 p.                                                         Pyrénées, t. 57, Tarascon-sur-Ariège. 2002, p. 113-170.
+
+   MÉROC L. (1953) – La conquête des Pyrénées par l’Homme et le rôle          TAVOSO A. (1976) – Les civilisations du Paléolithique moyen des
+    de la frontière pyrénéenne au cours des temps préhistoriques. In :          Pyrénées et du bassin de la Garonne. In H. de Lumley (dir.), La Pré-
+    Premier Congrès International de Spéléologie, t. IV, section 4, Paris,      histoire Française, Éd. du CNRS, 1976, Paris, t. 1, vol. 2, p. 1041-
+    p. 33-41.                                                                   1043.
+
+   MÉROC L., PALOUMÉ J. (1958) – Nouvelles fouilles à l’Infernet,             TAVOSO A. (1986) – Le Paléolithique inférieur et moyen du Haut-Lan-
+    commune de Clermont-le-Fort (Haute-Garonne). Bulletin de la Société         guedoc. Gisements des terrasses alluviales du Tarn, du Dadou, de
+    Méridionale de Spéléologie et de Préhistoire, années 1954-1955,             l’Agout, du Sor et du Fresquel, Université de Provence, Ed. du Labo-
+    p. 305-328.                                                                 ratoire de Paléontologie Humaine et de Préhistoire, Études Quater-
+                                                                                naires, 5 (1978), 1986, 404 p.
+   MOURRE V. (1994) – Les industries en quartz au Paléolithique moyen.
+    Approche technologique de séries du Sud-Ouest de la France. Uni-
+    versité de Paris X-Nanterre, Mémoire de maîtrise, 111 p.
+                                                                                                           Laurent BRUXELLES
+   MOURRE V. (2003) – Implications culturelles de la technologie des
+    hachereaux, Université de Paris X-Nanterre, Thèse de Doctorat, 3 vol.,                                           Marc JARRY
+    880 p.                                                                                  INRAP et TRACES UMR 5608 du CNRS
+                                                                                                           ZA des Champs Pinsons
+   MOURRE V. (2004) – Le débitage sur enclume au Paléolithique moyen
+    dans le Sud-Ouest de la France. In : Session 5 : Paléolithique moyen,                                        13, rue du Négoce
+    Ph. Van Peer, D. Bonjean et P. Semal (Eds.), BAR S1239 – Actes du                            F-31650 Saint-Orens-de-Gameville
+    XIVe Congrès de l’UISPP, Liège, 2-8 sept. 2001, p. 29-38.                                            laurent.bruxelles@inrap.fr
+   MOURRE V., COLONGE D. (à paraître) – La question du débitage de                                             marc.jarry@inrap.fr
+    grands éclats à l’Acheuléen. In Mourre V. et Jarry M. « Entre le mar-
+    teau et l’enclume…, Table-Ronde sur la percussion directe au per-                                          Roberta BEVILACQUA
+    cuteur dur et la diversité de ses modalités d’application », Université
+    de Toulouse-le Mirail, 15-17 mars 2004.                                                             INRAP, ZA des Champs Pinsons
+                                                                                                                       13, rue du Négoce
+   MOURRE V., LEMORINI C., JAUBERT J. (à paraître) – De l’impor-                                      F-31650 Saint-Orens-de-Gameville
+    tance des matériaux réputés médiocres dans le Paléolithique moyen
+    du Quercy – Analyse technologique et fonctionnelle de l’industrie                                  roberta.bevilacqua-lebar@inrap.fr
+
+
+
+
+         Les sociétés du Paléolithique dans un Grand Sud-Ouest de la France : nouveaux gisements, nouveaux résultats, nouvelles méthodes
+
+
+
+View publication stats
+

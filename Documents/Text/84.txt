@@ -1,0 +1,502 @@
+                                                        Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+
+                                                             Contents lists available at ScienceDirect
+
+
+                                       Journal of Petroleum Science and Engineering
+                                                     journal homepage: www.elsevier.com/locate/petrol
+
+
+
+
+Lithofacies and organic geochemistry of the Middle Permian Lucaogou
+Formation in the Jimusar Sag of the Junggar Basin, NW China
+Zhen Qiu a, Huifei Tao b,n, Caineng Zou a,c, Hongyan Wang c, Hongjie Ji b, Shixin Zhou b
+a
+  PetroChina Research Institute of Petroleum Exploration & Development, Beijing 100083, China
+b
+  Key Laboratory of Petroleum Resources, Gansu Province/Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese
+Academy of Sciences, Lanzhou 730000, China
+c
+  Lang fang Branch, PetroChina Research Institute of Petroleum Exploration and Development, Langfang 065007, China
+
+
+
+
+art ic l e i nf o                                      a b s t r a c t
+
+Article history:                                       The Middle Permian Lucaogou Formation in the Jimusar Sag, Eastern Junggar Basin, is one of the high-
+Received 28 March 2015                                 lights for unconventional petroleum exploration and development in China. Approximately 580 m-long
+Received in revised form                               cores from 18 wells in the Sag were carefully examined, and 500 core samples were collected. These
+6 January 2016
+                                                       samples were analysed by combined methods including X-Ray diffraction (XRD), thin-section observa-
+Accepted 12 January 2016
+Available online 13 January 2016
+                                                       tion and organic geochemical analyses.
+                                                           Based on texture, fabric and mineralogy, the Lucaogou Formation is mainly classiﬁed into three li-
+Keywords:                                              thofacies: (1) shale; (2) siltstone; and (3) dolostone. They are further grouped into three lithofacies as-
+Lithofacies                                            sociations (LFA): (1) shale LFA; (2) shale interbedded with siltstone LFA; and (3) siltstone intercalated
+Transgressive–regressive (T–R) sequences
+                                                       with shale LFA. Compared with North American Barnett shale, the XRD data of the Lucaogou Formation
+Lacustrine source rock
+                                                       reﬂects that the concentrations of the plagioclase minerals are generally high. In addition, these rocks
+Tight oil
+Lucaogou Formation                                     commonly contain high contents of brittle minerals (quartz þfeldspar þcarbonate þpyrite) (avg. 88%)
+Junggar Basin                                          and low contents of clay minerals (avg. 10.97%). The poorly sorted and subangular mineral grains reﬂect
+                                                       low textural maturity. The organic geochemical data of the shales reﬂect that the shales have high
+                                                       contents of total organic carbon (TOC), mainly sapropel type (II1) kerogen and matured organic matter.
+                                                       Thus, the shales are expected to be good-quality source rock. The transgressive–regressive (T–R) se-
+                                                       quences analysis shows that the Lucaogou Formation can be divided into three transgressive intervals
+                                                       and two regressive intervals. These transgressive intervals are in favour of the formation of excellent
+                                                       source rocks for their low-energy, deep to semi-deep lacustrine environments. In contrast, the regressive
+                                                       intervals contain more rocks with brittle minerals for their relatively high energy of the sedimentation
+                                                       hydrodynamic conditions. The regressive intervals of the Lucaogou Formation as a petroleum reservoir
+                                                       are favourable for fracturing and the production of tight oil.
+                                                                                                                          & 2016 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                              The Junggar Basin is located in north-western China and is
+                                                                                         surrounded by the Palaeozoic Mountains of Zhayier to the north-
+   The great success of unconventional oil and gas exploration and                       west, Tianshan-Bogeda to the south and Qinggedili-Kelameili to
+development in the United States has attracted increasing atten-                         the northeast (Wu et al., 2014) (Fig. 1a and b). The basement of the
+tion worldwide (Zou et al., 2010; Tang et al., 2014). Regarding this                     Junggar basin is probably the Early Palaeozoic island arcs and the
+trend, a great deal of money and effort have been devoted to this                        Late Palaeozoic to the Cenozoic strata deposited on the basement
+new realm in China (Zou, 2011; Jia et al., 2012; Zhao and Du, 2012;                      rock (Xiao et al., 2008). Millions of tonnes of conventional oil and
+Zou et al., 2013). Compared to the marine unconventional oil and                         gas have been discovered in the Carboniferous to Quaternary rocks
+                                                                                         in the Junggar Basin in the past 60 years (Hao et al., 2011).
+gas in the United States, the Chinese cases are mainly focused on
+                                                                                         Meanwhile, the unconventional oil and gas resources in this area,
+lacustrine unconventional oil and gas, e.g. the Upper Triassic
+                                                                                         such as shale oil and tight oil, also attract the attention of the
+Yanchang Formation in the Ordos Basin and the Middle Permian
+                                                                                         researchers (Carroll et al., 1992; Tao et al., 2012). Recently, the tight
+Lucaogou Formation in the Junggar Basin.                                                 oil exploration has made a breakthrough in the Jimusar Sag of the
+                                                                                         Junggar Basin, and the tight oil resources of the Lucaogou For-
+    n
+        Corresponding author.                                                            mation are estimated to be 370 million tonnes (Kuang et al., 2013;
+        E-mail address: tophic3@yeah.net (H. Tao).                                       Wang et al., 2014). However, the exploration and development of
+
+http://dx.doi.org/10.1016/j.petrol.2016.01.014
+0920-4105/& 2016 Elsevier B.V. All rights reserved.
+98                                             Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+
+
+Fig. 1. Location and sketch geological map of the Junggar basin and Jimusar Sag. a: the Junggar basin located in north-western China; b: the primary uplifts and sags of the
+Junggar basin; c: the contour map of the Permian Lucaogou Formation of the Jimusar Sag.
+
+
+
+tight oil are challenging (Kuang et al., 2013). There are many                           scientiﬁc issues regarding the Lucaogou Formation are still unclear
+previous studies on the depositional environments, hydrocarbon                           (e.g., lithology, stratigraphy and organic enrichment factors).
+potential and organic types of the source rocks of the Lucaogou                              In this paper, we aim to delineate the lithofacies, sequence
+formation (Carroll et al., 1992; Carroll and Bohacs, 2001; Miao                          stratigraphy and organic geochemistry of the Lucaogou Formation
+et al., 2004; Jiao et al., 2007; Xiang et al., 2013; Kuang et al., 2014).                in the Jimusar Sag in the Junggar Basin via careful core observation
+Organic geochemistry studies reveal that the source rocks have                           and experimental analyses.
+high total organic carbon (TOC) values, mainly sapropel (II1) type
+kerogen, and mature-stage organic matter (Carroll, 1998; Xu et al.,
+2007; Tao et al., 2012). They also show that the source rocks are                        2. Geological setting
+deposited in a deep to semi-deep lacustrine and the ﬁne clastic
+rocks experience reducing water conditions (Zhang, 1993; Carroll                             The Jimusar Sag is located in the east of the Junggar Basin and is
+et al., 1992; Zhang et al., 2004; Peng et al., 2012a, 2012b). Most of                    surrounded by several faults and highlands (Fig. 1b and c). This sag
+these studies suggest that the source rocks of the Lucaogou For-                         was initially formed in the Late Palaeozoic, and rapidly subsided
+mation are outstanding source rocks in the Junggar Basin. How-                           during the early Middle Permian due to the regional tectonic ex-
+ever, few studies exist concerning the ﬁne-grained rocks of the                          tension (Allen and Natal'in, 1995; Fang et al., 2006, 2007; Wang
+Lucaogou Formation as the tight oil reservoirs in Jimusar Sag                            et al., 2007; Xiao et al., 2004, 2008; Qi et al., 2013). The Jimusar Sag
+(Kuang et al., 2013). Therefore, it is necessary to study the geolo-                     was ﬁlled by sedimentary rocks from the Middle Permian to
+gical features of these ﬁne-grained rocks. Many fundamental                              Cenozoic and its maximum thickness was more than 5000 m in
+                                        Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107                              99
+
+
+
+
+                                              Fig. 2. Geological cross-section of the Jimusar Sag (East–West).
+
+
+the west (Fig. 2). The thickness of the Permian to Cretaceous                     section (LSS), the lower reservoir section (LRS), the Middle shale
+showed an eastward-thinning trend.                                                section (MSS), the upper reservoir section (URS), and the upper
+    Three stratigraphic formations from bottom to top have been                   shale section (USS) (Kuang et al., 2013). Among the cored wells,
+proposed within the Permian strata: the Middle Permian Jiang-                     well Ji 174 had the longest and most complete cores (250 m) of the
+junmiao, Lucaogou, and Upper Permian Wutonggou Formations.                        Lucaogou Formation (Fig. 3). Approximately 500 core samples
+The Lucaogou Formation is stratigraphically sited at the upper part               were collected from these wells, which were made into thin sec-
+of the Middle Permian and mainly consists of dark grey, brown                     tions and powdered. The petrology and mineralogy of the samples
+grey and black shale, siltstone and dolostone with a few sand-                    were studied by thin-section and X-Ray diffraction (XRD) analyses.
+stones. The formation also contains burrows and fossils, such as                      To evaluate the quality of the source rocks, the organic geo-
+ﬁsh (Chichia sp., Turfania sp., Tianshacircus sp., and amphibians                 chemical parameters of 276 shale samples were analysed (Table 1).
+Urumgia sp.), bivalves, and ostracodes (Jiao et al., 2007; Wang                   The organic geochemical parameters included TOC, petroleum
+et al., 2007). The sedimentary environment of the Lucaogou For-                   generation potential (S1 þS2), pyrolysis temperature (Tmax), vi-
+mation is deep to semi-deep lacustrine (Carroll et al., 1992; Carroll,            trinite reﬂectance (Ro), macerals of kerogen, and carbon isotopes of
+1998; Zhang et al., 2004; Wang et al., 2007; Gao et al., 2011; Peng               kerogen. The hydrogen index (HI) was calculated via the following
+et al., 2012a). The water of the Lucaogou lake is characterised by                formula: (S2/TOC)  100%. All these experiments were conducted
+intermittent salinization (Wang et al., 2008), which makes the lake               at the laboratory of the Research Institute of Petroleum Explora-
+water stratiﬁed salinity. This is beneﬁcial for the preservation of               tion and Development, China National Petroleum Corporation.
+organic matter (Carroll and Bohacs, 2001).
+    The depocenters of the Lucaogou Formation are distributed at
+the south of the Jimusar Sag, and the maximum thickness of this                   4. Lithofacies
+formation is over 300 m (Fig. 2). The shales of the Lucaogou For-
+mation contain high contents of organic matter (avg. 4.41% TOC,                      Detailed core observations showed that the Lucaogou Forma-
+Carroll and Bohacs, 2001) and are considered one of the most                      tion consisted of variable lithofacies such as shale, siltstone, ﬁne-
+important source rocks in the Junggar Basin (Carroll et al., 1992;                grained sandstone and dolomite. Based on mineralogy, fabric and
+Carroll, 1998; Carroll and Bohacs, 2001; Jiao et al., 2007; Xu et al.,            texture, the cores were divided into three general lithofacies:
+2007; Tao et al., 2012; Xiang et al., 2013; Kuang et al., 2014; Wang              shale, siltstone and dolomite.
+et al., 2014). The source rocks of the Lucaogou Formation started to
+generate oil after the Late Triassic and experienced two stages of                4.1. Shale
+oil generation and expulsion during the Jurassic and Cretaceous
+(Fang et al., 2007). The ﬁne-grained dolomitic siltstones, muddy                      Shale was the most common lithofacies in the Lucaogou For-
+siltstones and thin-bedded carbonates and sandstones are the                      mation. It is usually dark-grey to black, poorly- to well-laminated
+dominant reservoirs of tight oil (Zhao and Du, 2012; Kuang et al.,                and organic rich (Fig. 4a and d). The cumulative thickness of the
+2012, 2013; Si et al., 2013).                                                     shales in well Ji 174 was 211 m, accounting for 84.4% of the total
+                                                                                  core thickness (250 m). The shale fabric varied from non- to well-
+                                                                                  laminated. In general, the majority of the shale was laminated. The
+3. Materials and methods                                                          laminas were commonly reﬂected by organic matter, dolomites and
+                                                                                  silty grains. A few burrows were also developed in the shale (Jiao
+   The eighteen-well cores of the Middle Permian Lucaogou For-                    et al., 2007). The texture components of the shale showed that the
+mation from the Jimusar Sag were investigated in detail. The total                shape of quartz, feldspar and pyrite were irregular. The most
+cumulative thickness of the cores was 580 m. Based on detailed                    common sedimentary structure was horizontal bedding (Fig. 4a),
+core observations and seismic data in the Jimusar Sag, the Lu-                    and a few deformation structures, gypsum pseudomorphic, ﬁsh
+caogou Formation was divided into ﬁve sections: the lower shale                   fossils, small shells and phytoclasts also occurred (Fig. 4g).
+100               Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+
+
+      Fig. 3. Sedimentary facies and sequence stratigraphy comprehensive analysis diagram of well Ji 174.
+                                                Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107                                            101
+
+
+
+
+Fig. 4. Pictures of cores and thin sections. a, d: shale, developed organic matter and dolomitic horizontal beddings; b, e, h, i: siltstone, developed wavy bedding and normal
+graded bedding; c, f: dolarenite, consists of micritic dolomite rock debris with grain sizes of 100–250 mm; g: gypsum pseudomorphic in the shale, ﬁlled by calcite.
+
+
+
+    The shale was further divided into three types, i.e. siliciclastic,
+dolomitic and silty shale based on the mineralogy compositions
+and grain sizes (Fig. 5). The siliciclastic shale mainly consisted of
+quartz, plagioclase and clay minerals with a few carbonates and
+pyrites. The average percentages of quartz, plagioclase, clay mi-
+nerals and carbonates were 32.3%, 30.2%, 17.4% and 12.3% for sili-
+ciclastic shale. The dolomitic shale contained dolomites that ac-
+counted for 32% of the compositions. The concentrations of quartz,
+plagioclase and clay minerals in the dolomitic shale were reduced
+to 25%, 25.6% and 9.8%, respectively. The silty shale had consistent
+mineral compositions and contents generally with the siliciclastic
+shale. However, the detrital grain (quartz and feldspar) sizes of the                                    Fig. 5. Mineral percentages of the main lithologies.
+silty shale (20–50 μm) were coarser than siliciclastic and dolomitic
+shale (o10 μm).                                                                           single layer was 57 cm. The sedimentary structure of wavy bed-
+                                                                                          ding was well developed, and normal bedding was seen occa-
+4.2. Siltstone                                                                            sionally (Fig. 4h and i). The major textural components were silty
+                                                                                          grains, dolomicrite and clay minerals. The silty grains (quartz and
+   Siltstone was another of the most commonly observed rocks in                           feldspar) accounted for 50–80% of the components in siltstone.
+the Lucaogou Formation. It was usually grey (Fig. 4b) and mainly                          The grains sizes of these silty components were usually 25–75 mm
+occurred in the lower and URSs of the Lucaogou Formation, and                             (Fig. 4e).
+secondarily in the shale intervals as thin, interbedded layers. The                           The results of the XRD analysis showed that the siltstone
+cumulative thickness of the siltstone in well Ji 174 was 31.4 m,                          mainly consisted of quartz, plagioclase, dolomite, clay minerals
+accounting for 13.6% of the total thickness of the cores. Although                        and calcite (Fig. 5). The content of dolomite was largely variable.
+this proportion was not very high, the siltstone was very common                          Accordingly, the siltstone was classiﬁed into muddy siltstone and
+throughout the entire Lucaogou Formation. A single layer of silt-                         dolomitic siltstone based on the content of dolomite. The former
+stone was usually less than 150 cm, and the average thickness of a                        had higher concentrations of quartz (avg. 28.5%), plagioclase
+102                                   Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+
+
+                                            Fig. 6. Sedimentary facies analysis diagram of four cored wells.
+
+
+(37.0%) and clay minerals (10.6%) than those of the latter (corre-              (avg. 3.3%) and calcite (5.2%) (Fig. 5). The mineral composition of
+sponding concentrations, avg. 22.2%, 30.5% and 5.1%). In contrast,              the dolarenite was generally consistent with the dolomicrite. The
+the content of dolomite was lower in the muddy siltstone (11.4%)                primary textural component of dolarenite was dolomicrite debris,
+than in the dolomitic siltstone (31.0%).                                        which was well-sorted and rounded, and generally 100–250 mm in
+   Fine-grained sandstone was rare in the Lucaogou Formation of                 grain size (Fig. 4c and f).
+well Ji 174. The cumulative thickness of the ﬁne-grained sandstone
+was 1.86 m, accounting for 0.7% of the total thickness of the cores.
+The primary components of the ﬁne-grained sandstones were                       5. Lithofacies associations (LFA) and depositional environment
+detrital fragments (quartz and feldspar) with a few volcanic clasts.
+                                                                                    The lithofacies of the Lucaogou Formation presented above
+4.3. Dolostone                                                                  were grouped into three LFA: shale LFA, siltstone interbedded with
+                                                                                shale LFA and siltstone intercalated with shale LFA. The dolomi-
+   Although dolostone was a common rock type in the Lucaogou                    crite and dolarenite were regarded as dolomitic shale and dolo-
+Formation, it was usually displayed as thin layers or bands of                  mitic siltstone in the LFA, as the dolomicrite and dolarenite had
+several to tens of centimeters. According to the grain size, it was             low thickness proportions and similar mineral compositions to the
+mainly divided into dolomicrite and dolarenite. Dolomicrites were               dolomitic shale and dolomitic siltstone.
+usually intercalated in shales as very thin layers or bands, and the
+accumulative thickness of this rock was 12.2 m in well Ji 174 (ac-              5.1. Shale LFA
+counting for 4.88% of the 250 m core). The dolarenites were also
+presented as thin layers, and the cumulative thickness of dolar-                    The shale LFA mainly consisted of dark-grey to black siliciclastic
+enites was ca. 7.6 m in well Ji 174 (accounting for 3.04% of the                shale, dolomitic shale and silty shale. This LFA mostly occurred in
+250 m core).                                                                    the LSS, MSS and USS of the Lucaogou Formation (Figs. 3 and 5). In
+   The mineral composition of dolomicrite was dolomite (avg.                    the LSS, shale LFA comprised siliciclastic shale intercalated with
+59%), quartz (avg. 16.1%), plagioclase (avg. 17.6%), clay minerals              silty shale. The data from boreholes showed that the thickness of
+                                        Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107                              103
+
+
+the LSS varied from 12–79 m (Fig. 7), with the thickest locations                 the Lucaogou Formation (Figs. 3 and 7). The lower part of the LRS
+being wells Ji 30, Ji 34, Ji 251 and Ji 36 in the southern part of the            and upper part of the URS are classiﬁed into siltstone interbedded
+sag.                                                                              with shale LFA, whereas the upper part of the LRS and lower part
+   In the MSS, shale LFA was composed of dolomitic shale inter-                   of the URS are siltstone intercalated with shale LFA.
+calated with siliciclastic shale and silty shale. A few thin-layer                    The siltstone interbedded with shale LFA was displayed by grey
+dolarenites and dolomicrites occurred in this section. The thick-                 muddy siltstone and dolomitic siltstone interbedded with dark
+ness of the MSS was generally 44–117 m, and the thickness of                      grey to black dolomitic shale, sometimes intercalated with a few
+wells Ji 32, Ji 251 and Ji 174 were over 100 m.                                   thin layers of siliciclastic shale and dolarenite (Figs. 3 and 6). The
+   In the USS, shale LFA consisted of dolomitic shale and silici-                 thickness of the siltstone interbedded with shale LFA was generally
+clastic shale. The thickness of this section was relatively thin: from            20–50 m in most areas, but was 35–50 m in wells Ji 32, Ji 251 and Ji
+10–50 m. The thickest deposition of this section was in the area of               174. The sedimentary structures in the siltstone interbedded with
+wells Ji 30, Ji 251 and Ji 36, which displayed a thickness of 38–                 shale LFA in wells Ji 251, Ji 30, Ji 31 and Ji 32 were rhythmic and
+50 m.                                                                             wavy bedding. Rhythmic bedding caused by siltstone interbedded
+   The predominance of thin beds with horizontal lamination in                    with shale was associated with lacustrine sediments (Talbot and
+this LFA indicated a relatively quiet depositional setting with a low             Allen, 1996). These sedimentary characteristics reﬂected a shal-
+sedimentation rate. Turbidites characterised by normal bedding in                 low-water lacustrine environment.
+the single bedded muddy siltstone and dolomitic siltstone, and
+slump structures in the LFA also suggested a deep-water deposi-                   5.3. Siltstone intercalated with shale LFA
+tional setting (Fig. 4i). Some well-preserved fossils of ﬁsh and
+small shells in this LFA further suggested a semi-deep to deep                        The siltstone intercalated with shale LFA mainly consisted of
+lacustrine environment.                                                           grey dolomitic siltstone, dolarenite and muddy siltstone inter-
+                                                                                  calated with dark grey to black dolomitic shale and siliciclastic
+5.2. Siltstone interbedded with shale LFA                                         shale (Figs. 3 and 7). In this LFA, a few thin layers of dolomitic
+                                                                                  sandstone and silty shale were also presented. The thickness of
+   The siltstone interbedded with shale LFA and siltstone inter-                  siltstone intercalated with shale LFA was generally 18–34 m, while
+calated with shale LFA mainly appeared in the lower and URSs of                   the wells Ji 32, Ji 251 and Ji 174 showed a range of 28–34 m.
+
+
+
+
+                                    Fig. 7. Cross section diagram of ﬁve cored wells of the Permian Lucaogou Formation.
+104                                           Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+    Compared with the siltstone interbedded with shale LFA, the                         6. Organic geochemical features of the shales
+proportion of siltstones in the siltstone intercalated with shale LFA
+was higher. Moreover, the sedimentary structures in this LFA                            6.1. TOC and rock-eval pyrolysis
+showed horizontal, wavy and some cross-bedding. The sedimen-
+tary features of the siltstone intercalated with shale LFA indicated                       The values of TOC and the potential for generating hydrocarbon
+                                                                                        (S1þS2) in the Lucaogou shale varied from 0.20–9.9% (avg. 4.62%)
+that the water depth was shallower and hydrodynamic conditions
+                                                                                        and from 0.14–161.5 mg/g (avg. 31.4 mg/g), respectively. The con-
+were becoming stronger. The sedimentary facies of the upper part
+                                                                                        tents of TOC and S1þS2 were greatly variable in siliciclastic shale
+of the LRS were considered a delta front and the lower part of the
+                                                                                        (avg. 6.43% and 41.77 mg/g), dolomitic shale (avg. 5.06% and
+URS was classiﬁed as shallow-lake, beach bar microfacies.                               35.06 mg/g) and silty shale (avg. 1.21% and 7.3 mg/g) (Fig. 9a and b).
+                                                                                           The HIs were also highly variable (20.65–839.86 mg/g TOC, avg.
+                                                                                        504.64 mg/g TOC) (Fig. 10). The mean values of HI for these shales
+5.4. Sequence stratigraphy and depositional environment                                 were 554.89 mg/g TOC (siliciclastic shale), 554.55 mg/g TOC (do-
+                                                                                        lomitic shale) and 261.12 mg/g TOC (silty shale).
+    The data of the cores and well logs showed that the Lucaogou
+Formation was composed of two complete lacustrine transgressive–                        6.2. Organic matter type and maturity
+regressive (T–R) sequences and one transgressive sequence
+(Figs. 3 and 7). Three sequence boundaries (SB) and three maximum                           The maceral analysis of the kerogen revealed that the sapro-
+ﬂooding surfaces (MFSs) were identiﬁed according to the T–R se-                         pelic group occupied more than 70% of the maceral compositions.
+quence analysis method (Johnson et al., 1985; Samuelsberg and                           Vitrinite and inertinite were only minor components and ac-
+Pickard, 1999; Mancini and Puckett, 2002; Duarte et al., 2010). The                     counted for no more than 20% of the total maceral compositions.
+SB were the maximum regressive surfaces of T–R sequences, and                           Data on carbon isotopes of the kerogen were between  29‰ and
+the transitional surface of transgressive to regressive in the T–R                       24‰, whereas the values of  28‰ to  25‰ (type II kerogen)
+                                                                                        accounted for more than 70% of the total data points (Wang et al.,
+sequence was the MFS (Embry, 2002; Mancini and Puckett, 2002;
+                                                                                        2014). The crossplot of HI vs. Tmax illustrated that the siliciclastic
+Catuneanu et al., 2012). The sedimentary characteristics of the shale
+                                                                                        shale and dolomitic shale were mainly located in the range of type
+LFA reﬂected lacustrine transgressive processes, whereas the silt-                      I–II1 kerogen, and the silty shale was mainly distributed in the
+stone interbedded with shale LFA and siltstone intercalated with                        range of type II1–II2 kerogen with a few data points falling in the
+shale LFA corresponded to regressive sequences (Figs. 3 and 7).                         area of type III kerogen (Fig. 10). These organic geochemical
+    The sequences indicated that the water depth of the lake ex-                        characteristics suggested that the organic matter of the Lucaogou
+perienced two full cycles of increasing to decreasing during the                        shale was principally sapropel-type kerogen and probably mixed
+deposition of the Lucaogou Formation. Three sedimentary sub-                            with some humic (III) type kerogen.
+facies of deep to semi-deep lacustrine, shallow lake and delta front                        The results of vitrinite reﬂectance measurements showed that
+were identiﬁed through the investigation of the cores (Fig. 6). The                     the Ro values of the samples were 0.6–1.2%, with an average of
+typical sedimentary microfacies were deep to semi-deep water                            0.82%, suggesting a stage of slightly mature to mature. This was
+lacustrine shale, shallow lacustrine beach bar, shallow lacustrine                      supported by the pyrolysis temperature Tmax ranging from 430–
+                                                                                        450 °C (avg. 440 °C) (Fig. 10).
+interbeds of shale and siltstone, and delta front distal bar (Fig. 7).
+According to the analysis above, the transgressive sequences (shale
+LFA) were all deep to semi-deep water environments in the Ji-
+                                                                                        7. Discussion
+musar Sag. However, the regressive sequences that occurred in
+nearly half of the entire area of this sag were overlain by shallow                     7.1. Mineral composition and signiﬁcance
+lacustrine and delta front environments (Fig. 8a and b), which
+were mainly distributed in the south and south-eastern areas of                            The XRD data revealed two important characteristics of the
+this sag.                                                                               rocks: a high concentration of feldspar (especially plagioclase) and
+
+
+
+
+Fig. 8. Sedimentary facies maps of the two regressive sequences of the Lucaogou Formation. a: sedimentary facies map of the ﬁrst regressive sequence (R1, lower reservoir
+section); b: sedimentary facies map of the second regressive sequence (R2, upper reservoir section).
+                                               Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107                             105
+
+
+                                                                                         models of dolostone included chemical deposition, hydrothermal
+                                                                                         sedimentation and mixed water origins, Ca, Mg and Fe, as believed
+                                                                                         by some researchers, originated from volcanic materials (Zhang,
+                                                                                         1993; Liu et al., 2011; Zhu et al., 2014).
+                                                                                            Compared with the North American Barnett shale, the dolomite
+                                                                                         and feldspar minerals showed markedly high (avg. 88%) brittle
+                                                                                         mineral contents (quartz þfeldspar þ carbonateþ pyrite) in the
+                                                                                         Lucaogou Formation (Zou, 2011). This feature of the mineral
+                                                                                         composition is favourable for the rock fracturing, which is an
+                                                                                         important factor in the production of tight oil (Curtis, 2002; Zou
+                                                                                         et al., 2010; Tang et al., 2014).
+
+                                                                                         7.2. Controlling factors of organic carbon enrichment
+
+                                                                                             The organic geochemistry data of the shales suggested that
+                                                                                         they were excellent source rocks for petroleum in the Jimusar Sag.
+                                                                                         The controlling factors of the organic enrichment were commonly
+                                                                                         regarded as well-preserved conditions of oxygen free environ-
+                                                                                         ments, which were caused by the salinity stratiﬁcation (Zhang,
+                                                                                         1993; Carroll, 1998; Carroll and Bohacs, 2001). However, the high
+                                                                                         contents of phosphorus and algae in the shales indicated an
+                                                                                         abundance of nutrient importation, which resulted in prosperous
+                                                                                         organisms (Carroll and Bohacs, 2001; Li, 2009; Peng et al., 2012b;
+                                                                                         Jiang, 2014). Therefore, the high productivity was also an im-
+                                                                                         portant factor for organic enrichment.
+
+                                                                                         7.3. Implications for tight oil exploration
+
+                                                                                             Previous studies indicated that the muddy siltstone, dolomitic
+                                                                                         siltstone, dolomicrite and dolarenite held the highest oil contents
+                                                                                         among all types of rocks (Si et al., 2013). Meanwhile, the siltstones
+                                                                                         and dolomites had the highest brittle mineral contents, which was
+                                                                                         favourable for fracturing. Therefore, the best tight oil reservoirs
+Fig. 9. Diagrams of the organic geochemical parameters of the Lucaogou Formation         were siltstones and dolomites. From the lithofacies and deposi-
+source rocks. a: TOC content; b: potential of generating hydrocarbon (S1 þ S2).
+                                                                                         tional environment analysis above, the siltstones and dolomites
+                                                                                         were mainly distributed in the siltstone interbedded with shale
+                                                                                         LFA and the siltstone intercalated with shale LFA, which corre-
+                                                                                         sponded to regressive sequences (R1 and R2). Therefore, the re-
+                                                                                         gressive sequences (R1 and R2) were the promising targets for
+                                                                                         tight oil.
+
+
+                                                                                         8. Conclusions
+
+                                                                                            The ﬁne-grained rocks of the Middle Permian Lucaogou For-
+                                                                                         mation in the Jimusar Sag, Junggar Basin are not only excellent
+                                                                                         hydrocarbon source rocks, but are also an important tight oil re-
+                                                                                         servoir in China. Through detailed study in this paper, the litho-
+                                                                                         facies and depositional environments of the Lucaogou Formation
+                                                                                         can be summarised:
+
+                                                                                         (1) Three general lithofacies of shale, siltstone and dolomite are
+                                                                                             identiﬁed and further grouped into three LFA: shale LFA, silt-
+Fig. 10. Diagram of hydrogen index vs. pyrolytic parameter Tmax for kerogen types.
+                                                                                             stone interbedded with shale LFA and siltstone intercalated
+                                                                                             with shale LFA.
+abundant dolomitic rocks. Thin-section observations reﬂected that                        (2) The shale LFA is considered an experienced transgressive
+the fragments of siltstone and ﬁne-grained sandstone were mainly                             process, whereas the siltstone interbedded with shale LFA and
+quartz and plagioclase grains, which were poorly sorted and                                  siltstone intercalated with shale LFA are regressive sequences.
+rounded. The variation of lithologies and assemblages of the rocks                           The depositional environments of the transgressive sequences
+were associated with the evolution of the sequences. Meanwhile,                              are primarily deep to semi-deep lacustrine. However, the re-
+some debris (e.g., shells, and volcanic fragments) showed external                           gressive sequences are widely distributed shallow lacustrine
+source traits. These aspects indicated that the Lucaogou Formation                           and delta front sediments.
+was probably formed by the mixture of volcanic ash and some                              (3) The organic geochemical data indicate that the shales of the
+terrigenous clasts. However, the inﬂuence of sublacustrine volcano                           Lucaogou Formation are excellent hydrocarbon source rocks.
+hydrothermal eruptions might have been present in some local                                 The well-preserved conditions and high plaeoproductivity are
+areas (Jiao et al., 2013; Liu et al., 2013). Although the original                           important for organic carbon enrichment in shales.
+106                                                Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107
+
+
+    The available data suggest that the two regressive sequences of                          Kuang, L., Gao, G., Xiang, B., Wang, X., Wang, C., Liu, G., 2014. Lowest limit of organic
+the Lucaogou Formation are the favourable targets for tight oil.                                   carbon content in effective source rocks from Lucaogou Formation in Jimusar
+                                                                                                   sag. Pet. Geol. Exp. 36 (2), 224–229 (in Chinese).
+However, there are still many unclear aspects regarding the re-                              Kuang, L., Hu, W., Wang, X., Wang, X., Wu, H., Wang, X., 2013. Research of the
+servoirs, such as petrophysics, distribution, scales, etc.; the re-                                tight oil reservoir in the Lucaogou Formation in Jimusar Sag: Analysis of li-
+lationship between organic matter enrichment and volcanic ac-                                      thology and porosity characteristics. Geol. J. China Univ. 19 (3), 529–535 (in
+                                                                                                   Chinese).
+tivity is also an important scientiﬁc problem.                                               Kuang, L., Tang, Y., Lei, D., Chang, Q., Ouyang, M., Hou, L., Liu, D., 2012. Formation
+                                                                                                   conditions and exploration potential of tight oil in the Permian saline lacustrine
+                                                                                                   dolomitic rock, Junggar Basin, NW China. Pet. Explor. Dev. 39 (6), 657–667 (in
+                                                                                                   Chinese).
+Acknowledgements                                                                             Li, J., 2009. Study on the Oil Shale Geochemistry of Permian Lucaogou Formation in
+                                                                                                   the Northern Bogeda Mountain (Doctoral Dissertation). China University of
+   This research was supported by the Special Fund for strategic                                   Geosciences, Beijing, pp. 1–189 (in Chinese).
+                                                                                             Liu, Y., Zhou, D., Jiao, X., Nan, Y., Yang, W., Li, H., Zhou, X., 2013. A new type of
+pilot technology Chinese Academy of Sciences (XDB10010103),                                        sedimentary rocks: Mantle-originated hydroclastites and hydrothermal ex-
+Western Action Plan Project of Chinese Academy of Sciences                                         halites, Santanghu area, Xinjiang, NW China. Acta Sedimentol. Sin. 31 (5),
+(Grant no. KZCX2-XB3-12), National Key Basic Research Develop-                                     773–781 (in Chinese).
+                                                                                             Liu, Y., Jiao, X., Li, H., Yuan, M., Yang, W., Zhou, X., Liang, H., Zhou, D., Zheng, C., Sun,
+ment Plan (973) Project (2013CB228001) and Key Laboratory                                          Q., Wang, S., 2011. Primary dolostone formation related to mantle-originated
+Project of Gansu Province (Grant no.1309RTSA041). We highly                                        exhalative hydrothermal activities, Permian Yuejingou section, Santanghu area,
+thank the anonymous reviewers for their constructive comments.                                     Xinjiang, NW China. Sci. China Earth Sci. 41 (12), 1862–1871.
+                                                                                             Mancini, E.A., Puckett, T.M., 2002. Transgressive–regressive cycles in Lower Cre-
+                                                                                                   taceous strata, Mississippi Interior Salt Basin area of the northeastern Gulf of
+                                                                                                   Mexico, USA. Cretac. Res. 23, 409–438.
+Appendix A. Supplementary material                                                           Miao, J., Zhou, L., Deng, K., Li, J., Han, Z., Bu, Z., 2004. Organic matters from Middle
+                                                                                                   Permian source rocks of northern Xinjiang and their relationships with sedi-
+                                                                                                   mentary environments. Geochimica 33 (6), 551–560 (in Chinese).
+   Supplementary data associated with this article can be found in                           Peng, X., Wang, L., Jiang, L., 2012a. Analysis of sedimentary environment of the
+the online version at http://dx.doi.org/10.1016/j.petrol.2016.01.014.                              Permian Lucaogou Formation in southeastern margin of the Junggar Basin. J.
+                                                                                                   Xinjiang Univ. (Nat. Sci. Ed.) 28 (4), 395–400 (in Chinese).
+                                                                                             Peng, X., Wang, L., Jiang, L., 2012b. Geochemical characteristics of the Lucaogou
+                                                                                                   Formation oil shale in the southeastern margin of the Junggar Basin and its
+References                                                                                         environmental implications. Bull. Miner. Pet. Geochem. 31 (2), 121–127 (in
+                                                                                                   Chinese).
+                                                                                             Qi, X., Wu, X., Tang, Y., Zhao, L., 2013. Minerogenetic characteristics and resources
+Allen, M., Natal'in, B., 1995. Junggar, Turfan and Alakol basins as Late Permian to?               potential of Permian oil shale in the northern slope of Bogda Mountain in
+     Early Triassic extensional structures in a sinistral shear zone in the Altaid                 Xinjiang. Chin. J. Geol. 48 (4), 1271–1285 (in Chinese).
+     orogenic collage, Central Asia. J. Geol. Soc. 152 (2), 327–338.                         Samuelsberg, T.J., Pickard, N.A.H., 1999. Upper Carboniferous to Lower Permian
+Carroll, A.R., Bohacs, K.M., 2001. Lake-type controls on petroleum source rock po-                 transgressive–regressive sequences of central Spitsbergen, Arctic Norway. Geol.
+     tential in nonmarine basins. AAPG Bull. 85 (6), 1033–1053.                                    J. 34, 393–411.
+Carroll, A.R., 1998. Upper Permian lacustrine organic facies evolution, southern             Si, C., Chen, N., Yu, C., Li, Y., Meng, X., 2013. Sedimentary characteristics of tight oil
+     Junggar Basin, NW China. Org. Geochem. 28 (11), 649–667.                                      reservoir in Permian Lucaogou Formation, Jimsar Sag. Pet. Geol. Exp. 35 (5),
+Carroll, A.R., Brassell, S.C., Graham, S.A., 1992. Upper Permian Lacustrine oil shales,            528–533 (in Chinese).
+     Southern Junggar Basin, Northwest China (1). AAPG Bull. 76 (12), 1874–1902.             Talbot, M.R., Allen, P.A., 1996. Lakes. In: Reading, H.G. (Ed.), Sedimentary Environ-
+Catuneanu, O., Martins-Neto, M.A., Eriksson, P.G., 2012. Sequence stratigraphic                    ments: Processes, Facies, and Stratigraphy. Blackwell Science, Oxford,
+     framework and application to the Precambrian. Mar. Pet. Geol. 33 (1),                         pp. 83–124.
+     26–33.                                                                                  Tang, X., Zhang, J., Wang, X., Yu, B., Ding, W., Xiong, J., Yang, Y., Wang, L., Yang, C.,
+Curtis, J.B., 2002. Fractured shale-gas systems. AAPG Bull. 86 (11), 1921–1938.                    2014. Shale characteristics in the southeastern Ordos Basin, China: Implications
+Duarte, L.V., Silva, R.L., Oliveira, L., Rengifo, M.J.C., 2010. Organic-rich facies in the         for hydrocarbon accumulation conditions and the potential of continental
+     Sinemurian and Pliensbachian of the Lusitanian Basin, Portugal: Total organic                 shales. Int. J. Coal Geol. 128–129, 32–46.
+     carbon distribution and relation to transgressive–regressive facies cycles. Geol.       Tao, S., Wang, Y., Tang, D., Wu, D., Xu, H., He, W., 2012. Organic petrology of Fukang
+     Acta: Int. Earth Sci. J. 8 (3), 325–340.                                                      Permian Lucaogou Formation oil shales at the northern foot of Bogda Mountain,
+Embry, A.F., 2002. Transgressive–regressive (T–R) sequence stratigraphy. In: Ar-                   Junggar Basin, China. Int. J. Coal Geol. 99, 27–34.
+     mentrout, J.M., Rosen, N.C. (Eds.), Sequence Stratigraphic Models for Explora-          Wang, C., Kuang, L., Gao, G., Cui, W., Kong, Y., Xiang, B., Liu, G., 2014. Difference in
+     tion and Production: Evolving Methodology, Emerging Models and Application                    hydrocarbon generation potential of the shaly source rocks in Jimusar Sag,
+     Histories. Proceedings of the 22nd Annual Gulf Coast Section SEPM Foundation,                 Permian Lucaogou Formation. Acta Sedimentol. Sin. 32 (2), 385–390 (in
+     Bob F. Perkins Research Conference. pp. 151-172.                                              Chinese).
+Fang, S., Jia, C., Guo, Z., Song, Y., Xu, H., Liu, L., 2006. New view on the Permian         Wang, D., Tang, D., Gou, M., Wang, F., Tao, S., Gao, G., 2008. Oil-shale geology of
+     evolution of the Junggar basin and its implications for tectonic evolution. Earth             Lucaogou Formation in Fukang area on southern margin of Junggar Basin. China
+     Sci. Front. 13 (3), 108–121 (in Chinese).                                                     Pet. Explor. 12 (6), 18–22 (in Chinese).
+Fang, S., Song, Y., Xu, H., Fan, R., Liu, L., Xu, X., 2007. Relationship between tectonic    Wang, X., Wang, X., Ma, Y., 2007. The tectonic evolution of Bogda Mountain, Xin-
+     evolution and petroleum system formation-Taking the Jimusar sag of Eastern                    jiang, northwest China and its relationship to oil and gas accumulation.
+     Junggar Basin as an example. Pet. Geol. Exp. 29 (2), 149–154 (in Chinese).                    Geoscience 21 (1), 116–124 (in Chinese).
+Gao, Z., Kang, Y., Liu, R., Bai, W., 2011. Geological features and developmental             Wu, M., Cao, J., Wang, X., Tang, Y., Wang, B., Xiang, B., Kang, S., Lan, W., 2014. Hy-
+     controlling factors of Lucaogou oil shale in the Southern margin of Junggar                   drocarbon generation potential of Triassic mudstones in the Junggar Basin,
+     Basin. Xinjiang. Geology 29 (2), 189–193 (in Chinese).                                        northwest China. AAPG Bull. 98 (9), 1885–1906.
+Hao, F., Zhang, Z.H., Zou, H.Y., Zhang, Y.C., Yang, Y.Y., 2011. Origin and mechanism of      Xiang, B., Liao, J., Zhou, N., Yu, Q., Ma, W., Gao, X., Wang, M., 2013. Organic geo-
+     the formation of the low-oil-saturation Moxizhuang ﬁeld, Junggar basin, China:                chemical features of Permian source rock from Lucaogou Formation in Ji 174
+     implication for petroleum exploration in basins having complex histories. AAPG                well of Jimsar Depression. Sci. Technol. Eng. 13 (32), 9636–9640 (in Chinese).
+     Bull. 95 (6), 983–1008.                                                                 Xiao, W., Windley, B.F., Badarch, G., Sun, S., Li, J., Qin, K., Wang, Z., 2004. Palaeozoic
+Jia, C., Zheng, M., Zhang, Y., 2012. Unconventional hydrocarbon resources in China                 accretionary and convergent tectonics of the southern Altaids: implications for
+     and the prospect of exploration and development. Pet. Explor. Dev. 39 (2),                    the lateral growth of Central Asia. J. Geol. Soc. Lond. 161, 339–342.
+     129–136 (in Chinese).                                                                   Xiao, W., Han, C., Yuan, C., Sun, M., Lin, S., Chen, H., Li, Z., Li, J., Sun, S., 2008. Middle
+Jiang, K., 2014. Analysis About Geochemistry and Sedimentary Environment of the                    Cambrian to Permian subduction-related accretionary orogenesis of northern
+     Oil Shale in the Northern Xinjiang Bogda Moutain (Master's Dissertation).                     Xinjiang, NW China: Implications for the tectonic evolution of central Asia. J.
+     China University of Geosciences, Beijing, pp. 1–113 (in Chinese).                             Asian Earth Sci. 32 (2–4), 102–117.
+Jiao, X., Liu, Y., Zhou, D., Wang, S., Nan, Y., Zhou, N., Yang, Y., 2013. Progress of        Xu, Y., Wen, Z., Tang, Y., 2007. Evaluation on Upper Permian hydrocarbon source
+     research on “white smoke type” exhalative hydrothermal rocks. Adv. Earth Sci.                 rock in the Southern margin of Junggar Basin. J. Oil Gas Technol. 29 (3), 20–22
+     28 (2), 221–232 (in Chinese).                                                                 (in Chinese).
+Jiao, Y., Wu, L., He, M., Roger, M., Wang, M., Xu, Z., 2007. Occurrence, thermal             Zhang, J., Liu, L., Huang, Y., Wang, J., Hu, B., 2004. Sedimentary characteristics of
+     evolution and primary migration processes derived from studies of organic                     Middle-Upper Permian in Jimusar Sag of Junggar Basin. Xinjiang Geol. 21 (4),
+     matter in the Lucaogou source rock at the southern margin of the Junggar                      412–414 (in Chinese).
+     Basin, NW China. Sci. China Ser. D: Earth Sci. 50 (2), 114–123 (in Chinese).            Zhang, X., 1993. Study on the origin of the dolostone intercalcated in the black
+Johnson, J.G., Klapper, G., Sandberg, C.A., 1985. Devonian eustatic ﬂuctuations in                 shales in Middle Permian Lucaogou Formation, eastern part of southern margin
+     Euramerica. Geol. Soc. Am. Bull. 96, 567–587.                                                 of Junggar Basin. Acta Sedimentol. Sin. 11 (2), 133–140 (in Chinese).
+                                                 Z. Qiu et al. / Journal of Petroleum Science and Engineering 140 (2016) 97–107                                                       107
+
+
+Zhao, Z., Du, J., 2012. Tight Oil and Gas. Petroleum Industry Press, Beijing, pp. 1–199    Zou, C., Yang, Z., Cui, J., Zhu, R., Hou, L., Tao, S., Yuan, X., Wu, S., Lin, S., Wang, L., Bai,
+   (in Chinese).                                                                              B., Yao, J., 2013. Formation mechanism, geological characteristics and devel-
+Zhu, G., Zhang, J., Yao, G., Li, Y., Wang, X., Yu, C., 2014. Sedimentary volcanic dust        opment strategy of nonmarine shale oil in China. Pet. Explor. Dev. 40 (1), 14–26
+   tuff, an important kind of rock storing hydrocarbon resources: discussion on               (in Chinese).
+   the lithology of Middle Permian Lucaogou oil-bearing rocks in the North of              Zou, C., Dong, D., Wang, S., Li, J., Li, X., Wang, Y., Li, D., Cheng, K., 2010. Geological
+   Xinjiang. Mar. Orig. Pet. Geol. 19 (1), 1–7 (in Chinese).                                  characteristics and resource potential of shale gas in China. Pet. Explor. Dev. 37
+Zou, C., 2011. Unconventional Hydrocarbon Resources Geology. Geological Pub-                  (6), 641–653 (in Chinese).
+   lishing House, Beijing, pp. 1–310 (in Chinese).
+

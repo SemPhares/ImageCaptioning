@@ -1,0 +1,1478 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/318600128
+
+
+
+Brittle Shear Tectonics in a Narrow Continental Rift: Asymmetric Nonvolcanic
+Barmer Basin (Rajasthan, India)
+
+Article in The Journal of Geology · September 2017
+DOI: 10.1086/693095
+
+
+
+CITATIONS                                                                                              READS
+
+39                                                                                                     816
+
+2 authors, including:
+
+            Soumyajit Mukherjee
+            Indian Institute of Technology Bombay
+            238 PUBLICATIONS 3,047 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+              Structural Geology & Tectonics Book Writing View project
+
+
+
+              Series Editor: "Developments in Structural Geology & Tectonics" (Elsevier) View project
+
+
+
+
+ All content following this page was uploaded by Swagato Dasgupta on 12 July 2018.
+
+ The user has requested enhancement of the downloaded file.
+           Brittle Shear Tectonics in a Narrow Continental Rift:
+          Asymmetric Nonvolcanic Barmer Basin (Rajasthan, India)
+
+
+                            Swagato Dasgupta1 and Soumyajit Mukherjee2,*
+  1. Reliance Industries Limited, Ghansoli, Navi Mumbai 400 701, Maharashtra, India; 2. Department of Earth
+         Sciences, Indian Institute of Technology Bombay, Powai, Mumbai 400 076, Maharashtra, India
+
+
+
+
+                                                            ABSTRACT
+Our ﬁeld studies emphasizing brittle shear P- and Y-planes along the margins of the Barmer basin (Rajasthan, India)
+support its two-phase (NW-SE, followed by NE-SW) extension during Early Cretaceous and Late Cretaceous–Paleocene
+periods. We also document nearly NE-trending megascale transfer zones along the northern margin of the Barmer basin.
+Preexisting brittle planes in the Malani basement rocks guided the relay structures here. Structures at the western basin
+shoulder margin indicate NE-SW extension, and the crosscut relation connotes the relative timing of the two extension
+phases. The crosscutting conjugate fault sets are non-Andersonian. The NW-trending faults produced by the second-phase
+extension and the inherited NNW-trending brittle features are dominantly dip-slip. Prior fractures of the Malani rocks
+at ≥457 to the NE-SW principal extension direction extended the Barmer basin obliquely during the Late Cretaceous–
+Paleocene period. The asymmetric nature of the rift, too, connotes its oblique rifting. The extension direction of the ﬁrst
+phase probably rotated clockwise. This is derived mainly from WSW-trending faults cutting NE-trending faults. Brittle
+planes of shear and fracture signiﬁcantly promoted ﬂuid ﬂow, as understood from secondary hydrothermal mineral
+deposits (Barmer hill area) and pre-Deccan basalts (Sarnoo area). Reverse slip detected along subvertical faults on the
+western and eastern rift shoulders are probably due to isostatic ﬂexure–related contraction or might be related to the far-
+ﬁeld effect of ridge-push forces. The Mesozoic subsurface stratigraphy there and elsewhere within the Barmer basin re-
+quires more study to substantiate the potential for structural entrapment of hydrocarbon.
+
+Online enhancements: appendix.
+
+
+
+
+                      Introduction
+Rifting of continental crust is one of the key geo-                       case, crustal thinning may cause passive rising of
+dynamic processes that evolve continental litho-                          mantle that underplates lithospheric magma and may
+sphere and generate oceanic basins. Extension and                         lead to eruption of ﬂood basalts, inducing a strong
+crustal thinning can develop by upwelling of a man-                       thermal gradient (Corti et al. 2003).
+tle plume (active rifting; Luhr et al. 1985; Wright et al.                  Effects of lithospheric ﬂexure and its relations with
+2016) or by regional stresses originating presumably                      other dynamic processes (Buck 1988) are observed in
+from distant plate boundary–related forces (passive                       both volcanic and sedimentary rift basins, both along
+rifting; Ruppel 1995; Corti et al. 2003; Koptev et al.                    continental plate margins and in the interior (Watts
+2015). In active rifts associated with a rising mantle                    2001; Ziegler and Cloetingh 2004). A continental rift
+plume, the crust arches over the upwelling mantle.                        ﬂank may be uplifted by mechanical unloading of the
+This is followed by voluminous surﬁcial volcanism.                        footwall block by normal faulting associated with
+In passive rifting, tensional regional stress dominantly                  erosion and sedimentation (Weissel and Karner 1989;
+thins the crust, producing a rift basin. In the second                    as reviewed in Watts 2001). Crustal heat ﬂow plays a
+                                                                          major role in rift tectonics. In low- to moderate-heat-
+                                                                          ﬂow areas within continental crust, brittle upper and
+   Manuscript received December 28, 2016; accepted May 26,
+                                                                          ductile lower crusts couple strongly. In such cases, the
+2017; electronically published August 3, 2017.                            lower crust will thin homogeneously (Whitney et al.
+   * Author for correspondence; e-mail: soumyajitm@gmail.com.             2013) and a number of normal faults will generate
+                      [The Journal of Geology, 2017, volume 125, p. 561–591] q 2017 by The University of Chicago.
+                              All rights reserved. 0022-1376/2017/12505-0006$15.00. DOI: 10.1086/693095
+
+                                                                    561
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+562                                    S. DASGUPTA AND S. MUKHERJEE
+
+
+half- to full grabens in the brittle upper crust, with                more than 1000 km (Corti et al. 2003). The lateral
+younger faults crosscutting older ones (Brady et al.                  variation of crustal thickness is relatively small, pro-
+2000). On the other hand, comparatively hot brittle                   duced by a uniform crustal and lithospheric mantle
+upper crust decouples mechanically from the duc-                      thinning (Corti et al. 2003). Wide rifts are thus asso-
+tile lower crust (Ricketts et al. 2015), and strain lo-               ciated with strong continental crust (Buck 1991).
+calizes along a single steep normal fault with large                     Many continental rift margins undergo strike-slip
+throw that temporally gets gentler with isostatic re-                 controlled deformation associated with transtention
+bound (Wdowinski and Axen 1992; Ricketts et al.                       and/or transpression basins (e.g., Nemčok 2016). Such
+2015). Such high-angle normal faults get younger to-                  strike-slip regimes uplift basement ridges as well as
+ward the basin axis (Ricketts et al. 2015). With an                   create new accommodation space by transfer faults.
+increase in isostatic rebound, the ductile lower crust                Thus, in many cases, strike-slip systems develop com-
+may be exhumed to the surface as a core complex                       pressional features associated with reverse faulting:
+(Ricketts et al. 2015).                                               basins in the equatorial Atlantic region, the Fundy
+   The modes of continental rift segmentation and                     rift basin of SE Canada, and the East Africa rift sys-
+discontinuous propagation are guided by preexist-                     tem (Gibbs 1984; McClay 1990; Ring et al. 1992;
+ing basement structures, and this process is called                   Withjack et al. 1995, 1998, 2002; McClay and Bonora
+“tectonic inheritance” (Fossen 2013; recent reviews                   2001; Lezzar et al. 2002; Nemčok et al. 2012; Nemčok
+in Misra and Mukherjee 2015 and Robertson et al.                      2016). Besides the strike-slip component, reverse faults
+2016). Inherited structures develop from preexist-                    in extensional basin margins can also form by basin
+ing fabrics such as foliation, lineation, and fractures               inversion due to extension followed by compression
+(Swanson 1986). Weaker zones having preexisting                       (Schlische 1995), as in eastern North America, the
+fabrics, such as the underlying Archean-Proterozoic                   Missour basin in Morocco, the Rio Grande rift of
+mobile belts, govern how rift faults propagate. The                   central New Mexico, the Kutch rift basin of west-
+geometry of the fault planes originating from pre-                    ern India, the Sierras Pampeanas of Córdoba in Ar-
+existing structures in anisotropic rocks does not nec-                gentina, and the Faeroe-Shetland Basin in the north-
+essarily follow Coulomb’s failure criterion and An-                   ern offshore part of United Kingdom (Chamberlin
+dersonian faulting. These are termed non-Andersonian                  1983; Chung and Gao 1995; Beauchamp et al. 1996;
+faults (Brune and Autin 2013). The basement anisot-                   Withjack et al. 1998; Davies et al. 2004; Biswas 2005;
+ropies and/or discontinuity surfaces affect the rock                  Ricketts et al. 2015; Martino et al. 2016). It is not
+strength and rheology (Morley et al. 2004; Misra and                  necessary that only compressive forces related to
+Mukherjee 2015). Rift faults splay out in the vicinity                strike-slip and collision/subduction would result in
+of the preexisting structures/shear zones. Thus, ac-                  reverse faulting and/or inversion in an extensional
+commodation zones/transfer zones (Gawthorpe and                       setting. Extensional stress associated with far-ﬁeld
+Hurst 1993; Morley 1995, 1999) are created where                      ridge-push forces along seaﬂoor spreading margins
+the rift-related faults intersect the preexisting zone                also produces reverse faulting along the continen-
+of weakness. Such transfer zones, in many cases, are                  tal rift margins, for example, the Fundy rift basin
+hard-linked and associated with a strike-slip compo-                  (Canada; Withjack et al. 1995). Other than this, iso-
+nent along the preexisting structures. Experiments                    static ﬂexture–related contraction in uplifted foot-
+show that coupled systems are more likely to con-                     wall can also result in reverse faulting (e.g., the Rio
+nect the younger rift-related faults to preexisting,                  Grande rift margin; Lewis and Baldridge 1994).
+reactivated basement-related faults, whereas in the                      Three sedimentary basins—Jaisalmer, Barmer, and
+decoupled systems the younger faults develop and                      Bikaner-Nagaur—outcrop in western Rajasthan, In-
+reactivate preexisting basement faults but do not                     dia (ﬁg. 1; Dasgupta 1975; Pandey and Bhadu 2010;
+necessarily connect them (Richard and Krantz 1991).                   Arora et al. 2011; Singh and Tewari 2011). The for-
+   Continental extension can be in the form of nar-                   mer two basins consist of thick Mesozoic and Ter-
+row or wide rifts. Narrow rifts can be a maximum                      tiary sediments (Biswas 2012; Dwivedi 2016). The
+of 100–150 km wide, categorized by thinning of crustal                Barmer failed narrow-rift basin is ∼200 km long along
+and lithospheric mantle and intense steeply dipping                   the NNW and is ∼50 km wide (ﬁg 1A); it is separated
+normal faults (Buck 1991; Corti et al. 2003). Such                    from the Jaisalmer basin on the north by the NE-
+narrow rift zones generally have distinct lateral vari-               trending Devikot-Fatehgarh/Barmer-Devikot-Nachana
+ation of crustal thickness associated with heat ﬂow                   ridge/structural high (Misra et al. 1993; Compton
+higher than that in the rift shoulders. Transfer zones                2009; Bladon et al. 2015; Dolson et al. 2015). Distinct
+signiﬁcantly accommodate differential displacement                    Bouguer anomaly gravity lows along the Cambay
+along the rift axes. On the other hand, wide rifts con-               basin extend into the Barmer rift basin, accompa-
+sist of several disconnected basins extending across                  nied by high-amplitude gravity highs along the rift
+
+
+
+
+                                  This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                  All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Figure 1. A, Geological map of western Rajasthan, depicting the Barmer/Barmer-Sanchor basin (see inset for location
+in India) along with different fault trends: subsurface faults mapped in seismic data, neotectonic and other lineaments,
+and the rift fracture trend of the Malani Igneous Suite (MIS) and other major tectonic elements (compiled and modiﬁed
+from Misra et al. 1993; Bhushan 2000; Dasgupta et al. 2000; Sharma 2005; Roy 2006; Kilaru et al. 2013; Sinha-Roy et al.
+2013; Bladon et al. 2014, 2015). Field outcrop locations are marked on the map along the periphery of the Barmer basin.
+Locations L1–L4 are at the western margin, L5 at the eastern margin, and L6 and L7 at the northern margin. RF p rift
+fractures of the MIS. Recent earthquakes occurred in 1985 and 1991 (Joshi et al. 1997) in surrounding areas (coordinates
+obtained from www.earthquaketract.com). B, Schematic sketch depicting the interaction of rift-related faults and pre-
+existing shear/fracture with respect to the extension direction (blue arrows). The angle (v) between preexisting shear/
+fracture and extension direction is 907 (i), 07 (ii), and 07 ! v ! 907 (iii; modiﬁed from Morley et al. 2004; also see Misra and
+Mukherjee 2015). C, An elevation proﬁle from NW to SE (L1–L5) across the Barmer basin rift shoulders, extracted from
+Google Earth Pro, depicts the rift basin to be asymmetric.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+564                                    S. DASGUPTA AND S. MUKHERJEE
+
+
+shoulders on either side. The gravity low at the Jai-                 ing in relation to Deccan volcanism, and (4) whether
+salmer basin is separated by a prominent gravity                      the brittle planes (fractures and faults) around the
+high in the Barmer basin. The residual magnetic                       rift shoulder and margin indicate the effect of tec-
+anomaly maps also depict this (Mishra 2011). The                      tonic inheritance from the Malani rocks. Three pos-
+NE-trending gravity and magnetic anomalies in the                     sibilities exist regarding fault-plane orientation to
+Barmer region indicate low-amplitude basement highs                   stress direction in rift tectonics (ﬁg. 1B); we discuss
+and lows. The magnetic anomalies associated with                      which possibility is more likely. In addition, we ad-
+the Barmer rift basin shoulders have high ampli-                      dress (5) the presence of any reverse faulting and its
+tudes that diminish in the residual anomaly map.                      probable cause.
+This indicates that the rift basin is coeval with maﬁc                   Tectonics and stratigraphy of the NW segment of
+intrusion (Mishra 2011). The Mesozoic Barmer rift                     India range from the Precambrian to the Cenozoic.
+basin was reactivated during the early Tertiary by                    Some of the distinct Phanerozoic rift basins of west-
+Deccan volcanism (Mishra 2011). A modeled NE-SW                       ern Rajasthan (Biswas 1999) developed over the Ma-
+cross section from the Bouguer anomaly map across                     lani igneous province/rhyolites linked with the sep-
+the Barmer basin identiﬁes a maﬁc basement with                       aration of the Indian plate from Gondwanaland during
+voluminous intrusion and Moho upwelling up to 27–                     the Mesozoic (review in Valdiya 2010, p. 363–365).
+28 km beneath the basin—typically a rift basin setup                  The Barmer rift, also known as the Barmer-Sanchor
+(Mishra 2011).                                                        rift, extends southward up to the locality Sanchor
+   A subsurface fault map from seismic data indi-                     (ﬁg. 1A), beyond which it merges with the NNW/
+cates transfer zones mainly in the northern and east-                 north-trending Cambay rift system. The basin deepens
+ern parts of the Barmer basin (Bladon et al. 2014,                    toward the south/SE. This basin was much less ex-
+2015). Transfer zone and relay structures play key                    plored earlier; however, during the past decade it turned
+roles in rift faulting and sedimentation. The Meso-                   out to be one of the major prospective petroleum
+zoic succession of the Barmer basin outcrops at the                   basins (Farrimond et al. 2015; Kothari et al. 2015),
+eastern rift shoulder near Sarnoo village. This Early                 with reserves of more than 1 billion barrels. There-
+Cretaceous sedimentary unit was deposited as a re-                    fore, from both academic tectonic and petroleum geo-
+sult of transtensional extension during the Madagas-                  logical viewpoints, we picked the Barmer basin to
+car separation (Bladon et al. 2014). This resulted in                 study.
+NE- and nearly east-trending faults, which were
+later superimposed by NW-trending faults during the
+                                                                                                    Geology
+main Barmer rift episode in the Late Cretaceous to
+Paleocene. Thus, it is observed that the Barmer ba-                      Stratigraphy. The Barmer basin consists of a thick
+sin involves preexisting rift fractures/faults trend-                 Jurassic to Eocene accumulation of shallow marine
+ing to the NE related to Mesozoic extension and also                  to ﬂuvial sedimentary sequences (table A1, available
+older Malani-equivalent rift fractures trending nearly                online). The Late Proterozoic Malani igneous suite/
+north to NNE. Figure 1B presents the interaction of                   rhyolites (MIS) constitute its basement, which is ex-
+rift-related faults and preexisting shears/fractures                  posed around the western rift shoulder of the Barmer
+with respect to the main Barmer rift extension di-                    basin. The Fatehgarh and Barmer Hill Formations are
+rection.                                                              the major hydrocarbon reservoirs of the Barmer ba-
+                                                                      sin. The Mangala and Aishwarya/Aishwariya oil
+                                                                      ﬁelds have been producing hydrocarbons from the
+                                                                      Barmer Hill Formation (Shiju et al. 2008; Lobo et al.
+      Motivation for Studying Barmer Basin
+                                                                      2015). Figure 2 presents a Wheeler diagram of a chro-
+Rift kinematic analysis is of great interest in pe-                   nostratigraphic section, taking into account the avail-
+troleum geosciences (e.g., Misra et al. 2014; Misra                   able stratigraphic information from current literature
+and Mukherjee 2015). It explains the timing and pat-                  (Sisodia and Singh 2000; Mathur 2003; Mathur et al.
+tern of faults and the possible nature and timing of                  2005; Sisodia et al. 2005; Compton 2009; Beaumont
+fault reactivation (Bellahsen and Daniel 2005). These                 et al. 2015; Dolson et al. 2015; Kothari et al. 2015).
+are also the governing elements for pore ﬂuid ﬂow                        Tectonics. The sedimentary basins of Rajasthan
+(Caine and Forster 1999) and reservoir development.                   (India), west of the Aravalli axial trend, used to be the
+We study structures along the rift margin of the Bar-                 shelf part of the paleo-Tethys during the Gondwana
+mer basin from the ﬁeld and address (1) whether the                   period. The Jaisalmer basin, with a NW structural
+rift shoulder (ﬁg. 1A, 1C) trends match with the main                 trend, had been a part of this broad, stable shelf, which
+Barmer rift, (2) whether extension affected the rift                  extends and deepens toward the NW into the Indus
+shoulder, (3) the nature and relative timing of rift-                 shelf in Pakistan. Toward the south, the Barmer basin
+
+
+
+
+                                  This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                  All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  565
+
+
+
+
+Figure 2. Chronostratigraphic NW-SE section across the Barmer basin (compiled from Sisodia and Singh 2000; Mathur
+2003; Mathur et al. 2005; Sisodia et al. 2005; Compton 2009; Dolson et al. 2015; Kothari et al. 2015; John et al. 2017). Major
+depositional units with respect to geological time associated with prominent erosional events and hiatuses are presented.
+Deccan Eqv. p Deccan equivalent.
+
+
+rifted in two distinct phases: (1) NW-SE extension by                   with relay ramps and transfer zones identiﬁed from
+the east-west Gondwana separation in the Mesozoic                       seismic fault mapping has been documented from the
+and (2) NE-SW extension from the K-T boundary                           eastern part of the basin (Bladon et al. 2014), whereas
+until the Paleocene, as the Seychelles microconti-                      the western margin, though fault bound, is affected
+nent separated from India (Sharma 2007; Collier et al.                  by ﬂexural uplift due to isostasy. The northern mar-
+2008; Mishra 2011; Torsvik et al. 2013; Bladon et al.                   gin is deﬁned by the Devikot-Fatehgarh Fault, which
+2014, 2015). Bladon et al. (2014, 2015) described the                   slipped, possibly during the late Tertiary, as a result
+rift fault geometry from ﬁeld and subsurface seismic                    of Himalayan collisional tectonics (Compton 2009;
+mapping. The dominant fault system in the Sarnu/                        Mukherjee and Koyi 2010a, 2010b; van Hinsber-
+Sarnoo hill area at the eastern rift shoulder strikes                   gen et al. 2012; Mukherjee 2013a, 2015a; Mukherjee
+NE and nearly east, along with cross-trend NW frac-                     et al. 2013, 2015; Kelly et al. 2014). The Fatehgarh
+tures (Bladon et al. 2014). The lower Cretaceous sed-                   Formation—the main reservoir system of the Bar-
+imentary sequence of the Sarnoo hill area was prob-                     mer basin—was exposed along this ENE fault trend.
+ably deposited during transtension linked to the                        Deccan-related volcanism at a few locations close to
+Madagascar separation from the Indian plate (Bladon                     Sarnoo and Tavidar/Tavider (Bhushan 2000; Sharma
+et al. 2014). On the other hand, the dominant rift-                     2007; Sheth 2007; Vijayan et al. 2015) relates to re-
+related faults strike NW at the western rift shoulder,                  activation of older crustal fractures within the MIS.
+the Barmer hill area. Older, nearly north-south-trending                   Please note that the appendix, available online,
+Proterozoic rift fractures have also been reported                      presents structural and tectonic studies by Cairn En-
+from the Malani basement (Sharma 2005). The eastern                     ergy employees. The sites are from undisclosed GPS
+margin of the basin is bounded by steep-dipping nor-                    locations within the Barmer basin.
+mal faults that accommodated a thick pile of sedi-                         Regional Aspects. The Malani Basement Rock.
+ment. Inheritance of preexisting structures associated                  The MIS is a heterogeneous group of three-phased ig-
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+566                                     S. DASGUPTA AND S. MUKHERJEE
+
+
+neous rocks consisting of acid plutonic to volcanic                    stone occurs as the lowermost unit of the uplifted
+ﬂows along with basic groups and is associated with                    section.
+nearly north-south linear trends of basal conglomer-
+ate as well as volcanic ﬂows. This indicates that the
+                                                                                     Analysis from Remote-Sensing
+Malani volcanism was controlled by lineaments re-
+                                                                                        and Field-Based Study
+lated to intracratonic rift zones (Sharma 2005). As
+previously suggested, this igneous suite is unmeta-                       Remote-Sensing Studies. Google Earth Pro images
+morphosed and undeformed (Sharma 2005; review in                       of the year 2016 were used to identify the exposures
+Sisodia 2011). The MIS initiated by extensional tec-                   in and around the Barmer basin. Most of the rocks
+tonics (Axen and Bartley 1997) indicated by north-                     crop out at the periphery of the rift basin. Seven ex-
+south subparallel crustal fractures (ﬁg. 1A) suggests                  posures were studied (ﬁg. 1A) at the basin margin:
+an intracratonic rifted setting. A few rift fractures                  L1 and L2, a set of exposures surrounding the Bar-
+in the eastern to SE part of the Barmer basin reac-                    mer town and Gehnoo village area toward the west;
+tivated during the early Tertiary and/or at the K-T                    L3, in and around the Jasai village area farther west;
+boundary (Torsvik et al. 2001; Sharma 2005), namely,                   L4, near Dhorimana village, at the western margin
+the Sarnu-Dandali and Tavider magmatism (Sen et al.                    toward the south; L5, near Sarnoo village in the east-
+2012; ﬁg. 1A).                                                         ern rift margin; and L6 and L7, the Devikot-Fatehgarh
+   The basement gneiss and granitoids of the MIS                       ridge, toward the north.
+are intruded by felsic rocks (Pandit et al. 1999). The                    Several lineaments were identiﬁed in these loca-
+dikes within the Sankra pluton (Rao et al. 2003) near                  tions. The major trends are (1) NE, ENE to nearly east,
+the Jaisalmer area have a noticeable NNW trend,                        and a few NW in Sarnoo hill area (ﬁg. 3a); (2) mainly
+along with a less prominent NE one. The pole posi-                     NW and WNW, along with some NE lineaments, in
+tion and magnetic orientation of the Malani rhyolite                   the MIS outcrop surrounding the Barmer, Jasai, and
+connote that it is related to Rodinia fragmentation                    Dhorimana areas (ﬁg. 3b, 3c); and (3) a NE-trending,
+by anorogenic rifting on the NW greater Indian cra-                    near-linear fault zone extending ∼20–23 km along
+ton (Torsvik et al. 2001; Sharma 2005).                                the Devikot-Fatehgarh ridge toward the north (ﬁg. 3d).
+   Sarnoo Hill Area. The Barmer rift basin evolved                     No lineaments could be identiﬁed conﬁdently on
+during the Late Cretaceous to Paleocene by NE exten-                   the possible maﬁc igneous exposures near the Sar-
+sion related to separation of the Seychelles microcon-                 noo village.
+tinent from the NW Indian plate margin. However,                          Brittle Shear Features. See ﬁgure A1 (ﬁgs. A1–A13
+the presence of Early Cretaceous ﬂuvial sandstones                     available online) for brittle shear feature nomencla-
+in the Sarnoo hill area, at the central eastern rift mar-              ture.
+gin, indicates an older rift phase in the Barmer basin                    Western Margin. The basement rock of Barmer
+(Bladon et al. 2014; Dolson et al. 2015). The Early                    basin, equivalent to the MIS, is exposed in three
+Cretaceous sedimentary succession exposed in the                       places.
+Sarnoo hill area belongs to the Ghaggar-Hakra For-                        1. Barmer hill area near Ratanada Temple (ﬁg. 1A).
+mation (Baksi and Naskar 1981; Sisodia and Singh                       The sedimentary unit, consisting of basal conglomer-
+2000). It lies unconformably over a weakly alkaline                    ate overlain by sandstones, truncates onto the lower
+Aptian intrusive igneous rock (Sharma 2007; Sisodia                    part of these rhyolite hills (ﬁg. 4). The majority of
+and Singh 2000). Some igneous intrusions within the                    the primary brittle shear Y-planes (previously called
+sedimentary succession are observed in the Sarnoo                      “D-planes”; reviewed in Ghosh 1993; also see Mu-
+hill area, presumably fed by pre-Deccan volcanism                      kherjee 2011, 2012, 2013b, 2015b; Babar et al. 2017;
+(Basu et al. 1993; Roy and Jakhar 2002; Roy 2003). No                  Kaplay et al. 2017) are subvertical and trend NW
+synkinematic growth sedimentary sequence is ob-                        (ﬁgs. 5, A2; pole plots in ﬁg. 4), subparallel to the
+served in the Sarnoo hill area (Bladon et al. 2014).                   Barmer basin trend. Sigmoid brittle P-planes merge
+   Devikot-Fatehgarh Ridge. Sedimentary layers of                      with these Y-planes, indicating a consistent sinistral
+the Barmer basin thin toward the north and are up-                     shear. Thus, even though slickensides are not prom-
+lifted locally (Compton 2009) along the NE-trending                    inent on the Y-planes, it was possible to identify
+Devikot-Fatehgarh Fault ∼100 km north of Barmer.                       Y- and P-planes simultaneously and decipher slip
+The probable cause of this uplift is the Himalayan                     sense (as in Mukherjee and Koyi 2010a, 2010b; Mu-
+orogeny related to the ongoing compression during                      kherjee 2013c; Misra et al. 2014; Misra and Mukherjee
+the late Tertiary (Compton 2009; Kelly et al. 2014).                   2017). White secondary mineralizations of carbonates
+Subsequent erosion of the Late Cretaceous to early                     and kaolinites up to ∼1.3–2 cm thick occur within
+Tertiary section developed a fault scarp (Compton                      both Y- and P-planes (ﬁg. 5). The mineralizations,
+2009) along this NE/ENE trend. The Fatehgarh Sand-                     themselves devoid of Y- and P-planes, seem to have
+
+
+
+
+                                   This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                   All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Figure 3. Satellite imagery from Google Earth Pro, showing major lineaments along the western and eastern rift mar-
+gins. a, Sarnu/Sarnoo outcrop area. b, Barmer town, Jasai and Gehnoo villages. c, Dhorimana area. d, Uplifted ridges along
+the Fatehgarh Fault. A color version of this ﬁgure is available online.
+
+
+
+
+Figure 4. Landscape view of the basement rock—the Malani Igneous Suite (MIS)—exposed west of Barmer town,
+with synrift succession of basal conglomerates and sandstones truncating against the MIS in the lower part toward the
+east. Inset: Stereoplot of poles of Y- (ﬁlled points) and P- (open points) planes of NW- and NE-trending brittle shear
+faults, as identiﬁed along the western rift shoulder (from the Barmer hill area, Gehnoo village, near Jasai and Dhorimana
+villages) of the Barmer basin. NE-trending faults are less numerous than those trending NW. A color version of this
+ﬁgure is available online.
+
+
+
+
+                                    This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                    All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+568                                      S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 5. Uninterpreted (a) and interpreted (a0) outcrop examples of sinistral brittle shear with distinct Y- and P-planes
+within Malani rhyolites, observed on a subhorizontal surface. The Y-plane trends NW (attitude: 1647 strike, 747 dip, 747 dip
+direction). Mineralization along Y- and P-planes consists mainly of calcite, secondary quartz, and kaolinite. Part of a pen
+(∼12 cm) is shown for scale. Inset: stereoplot of the Y-plane. Location: SW of Ratanada Temple in the Barmer hill area,
+Barmer town; near L1 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+been deposited after brittle shear. Neither gouge nor                   827. Secondary quartz mineralization as slickensides
+breccia developed along the Y- and P-planes. Faulting                   (Means 1987) on a few Y-planes deﬁnes the slip sense.
+within the overlying sandstone layer is much less                       Asymmetric/knobby elevations (type AE-3 in ﬁg. 1
+abundant and is smaller in scale; only fractures are                    of Doblas 1998) developed on the Y-planes (Doblas
+observed at places.                                                     1998) reveal sinistral shear. Slopes of steep surfaces
+  Nearly orthogonal to this, a second set of mostly                     of such elevations indicate the movement direction
+sinistral brittle strike-slip shear with another set                    of the missing block (ﬁg. 7). A less prominent slick-
+of Y-planes trends NE, and these were also iden-                        enside is observed on a fault plane that trends 2437
+tiﬁed in the ﬁeld on the basis of association with                      and dips 237 toward the NW (ﬁg. A3). Southwest-
+sigmoidal curved P-planes that merge tangentially                       trending (∼2207) striations are observed from a part
+with the Y-planes (ﬁgs. 4, 6). These Y-planes dip 237–                  of this fault plane. The striations indicate nearly strike-
+
+
+
+
+Figure 6. Uninterpreted (a) and interpreted (a0) outcrop examples of dextral brittle shear with distinct Y- and P-planes
+within Malani rhyolite observed on subhorizontal surface. The Y-plane trends NE (attitude: 2057 strike, 807 dip, 1157 dip
+direction). Subparallel extensional fractures (T-fractures) nearly orthogonal to the Y-planes are seen. A pen ∼15 cm long is
+shown for scale. Inset: stereoplot of the Y-plane. Location: NW of Ratanada Temple in the Barmer hill area, Barmer town;
+near L1 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+
+
+                                    This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                    All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology       BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  569
+
+
+
+
+Figure 7. Uninterpreted (a) and interpreted (a0) outcrop examples of prominent slickensides. Asymmetric elevation
+connotes sinistral strike-slip movement on subhorizontal surface (Y-plane attitude: 2107 strike, 847 dip, 3007 dip di-
+rection). Inset: asymmetric elevation (AE; no. 3) taken from ﬁgure 1 of Doblas (1998). Part of a pen (∼13 cm) is shown for
+scale. Location: west of Ratanada Temple in the Barmer hill area, Barmer town; near L1 in ﬁgure 1A. A color version of
+this ﬁgure is available online.
+
+
+slip movement; however, the sense of shear, whether                      A2) and (2) as exposed fault planes with local but
+dextral or sinistral, is indeterminate.                                  prominent striations (ﬁgs. 7, A3).
+   Other than slickenside features, extensional frac-                      Around Gehnoo village (ﬁg. 1A), ∼30 km NW of
+tures are also seen on subhorizontal outcrops asso-                      Barmer town, a number of brecciated fault gouge
+ciated with a second set of a few NE-trending faults                     zones (ﬁg. 8) exist, resembling those described by
+(ﬁg. 6). These fractures are nearly orthogonal to the                    Taylor (2009) from different terrains. The brittle
+shear Y-plane having subparallel strike and are nearly                   shear faults usually trend NW (ﬁgs. 4,8, A4), ob-
+equidistant. They are also referred to as “tensional                     served on a subvertical plane. Some of these NW-
+fractures” (T-fractures; not “transgranular fractures”),                 trending faults crosscut the NE-trending top-to-SW
+as they indicate tension perpendicular to their strike.                  (up) orthogonal brittle shears (ﬁg. 8). At places, the
+In this area, faults are observed in two ways: (1) as Y-                 NW-trending fault and/or fracture planes were seen
+and P-planes exposed as lines in plan views (ﬁgs. 5, 6,                  in a subvertical plane at two locations, which di-
+
+
+
+
+Figure 8. Uninterpreted (a) and interpreted (a0) photographs of brittle shear features observed on a subvertical surface. A
+NW-trending fault (attitude: 1287 strike, 587 dip, 2187 dip direction) with a 10–12-cm-thick fault gouge cuts NE-trending
+brittle shears with well-developed P-plane (attitude: 1687 strike, 747 dip, 2587 dip direction) and Y-plane (attitude: 2257 strike,
+497 dip, 3157 dip direction) having top-to-south (up) sense of movement. A pen ∼15 cm long and a clinometer ∼8 cm in
+diameter are shown for scale. Inset: stereoplot of the NW-trending fault and the Y- and P-planes of the NE-trending fault.
+Location: roadside exposure toward Genhoo village; near L2 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+
+
+                                      This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                      All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+570                                       S. DASGUPTA AND S. MUKHERJEE
+
+
+verge toward the top: a possible appearance of ﬂower                     set trends nearly north-south, with top-to-NW (up)
+structure (ﬁg. A5; e.g., Dewey et al. 1998; Chetty and                   shear, as seen on a subvertical plane (ﬁg. A6b, A6b0).
+Rao 2006). These are cross-section views of a strike-                    Two examples of ∼1157-trending dikes of melano-
+slip brittle shear fault associated with Y- and P-planes                 cratic rock (dolerite?) with xenoliths of sedimentary
+(Naylor et al. 1986).                                                    rocks intrude along the nearly east-trending Y-plane.
+   2. Jasai hill area (ﬁg. 1A). The outcrop is located                   These might be Late Proterozoic dikes intruded
+∼15 km west of the Barmer rift margin. Malani ig-                        within the MIS (ﬁgures available from authors).
+neous suite rhyolites occur, along with some mela-                          3. Near Dhorimana (ﬁg. 1A). This area is ∼10–
+nocratic intrusions. Brittle shear planes/fault planes                   15 km west of the Barmer rift margin. The major
+with usually NW trend are seen on horizontal sur-                        fault subparallels the Barmer rift margin. Pink MIS
+faces with dextral shear (ﬁg. 9). Also, there are some                   granite consists of coarse grains of dominantly k-
+orthogonal faults trending SW (ﬁg. 9), with sinistral                    feldspar, quartz, and biotite. Two prominent sets
+shear observed on subhorizontal planes. Such orthog-                     of brittle fault planes are documented. The NW-
+onal faults are also observed on the subvertical sur-                    trending Y-planes are more numerous (ﬁgs. 10, 11,
+face. These faults trend nearly east or ESE (ﬁg. A6a,                    A7). Two intersecting near-orthogonal fault planes
+A6a0), with top-to-south (up) shear. Its conjugate                       are observed on a subhorizontal outcrop (ﬁg. 10). The
+
+
+
+
+Figure 9. Top, uninterpreted (a) and interpreted (a0) photographs of NE-trending sinistral brittle shear with a P-plane
+(attitude: 1367 strike, 687 dip, 2267 dip direction) and a Y-plane (attitude: 2557 strike, 787 dip, 3457 dip direction) observed
+on a subhorizontal surface. A 3–5-cm-thick fault gouge is seen along the Y-plane. Bottom, uninterpreted (b) and in-
+terpreted (b0) images of NW-trending dextral brittle shear with a P-plane (attitude: 1007 strike, 667 dip, 107 dip direction)
+and a Y-plane (attitude: 1467 strike, 847 dip, 2367 dip direction) observed on a subhorizontal surface. A pencil ∼18 cm long
+is shown for scale. Insets: stereoplots of Y- and P-planes. Location: outcrop section in Jasai village area, north of the Jasai
+railway station; near L3 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  571
+
+
+
+
+Figure 10. Uninterpreted (a) and interpreted (a0) photographs of crosscutting brittle shear trending NW and NE, with
+well-developed P-plane (attitude: 1057 strike, 647 dip, 1957 dip direction), PE-plane (attitude: 2557 strike, 807 dip, 1657 dip
+direction), Y-plane (attitude: 3387 strike, 767 dip, 2487 dip direction), and YE-plane (attitude: 2357 strike, 857 dip, 1457 dip
+direction), observed on a subhorizontal surface of Malani granite terrain. The NW-trending brittle shear, the P- and
+the Y-planes, cut across the NE-trending brittle shear planes, PE and YE. The angle between the Y- and YE-planes is
+82.97, as shown in stereonet plot (inset). A pen ∼16 cm long is shown for scale. Location: granitic outcrop of the
+Malani Igneous Suite, NW of Dhorimana village; near L4 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+
+major NW-trending Y-plane (dextral shear) crosscuts                     the Sarnoo hill area (L5). In the northern part of the
+the orthogonal YE-plane (sinistral shear), observed                     Sarnoo hill area, the lowermost unit of the Ghaggar-
+in two outcrops. Hence, the NW-trending Y-plane                         Hakra Formation unconformably overlies (ﬁgs. 13,
+is younger. A ∼10–15-cm-thick melanocratic dike in-                     A8) or, at places, cuts/truncates (ﬁg. 13) older basal-
+trudes the NW-trending Y-plane (ﬁg. A7). The NW-                        tic rock. The lower unit of the Ghaggar-Hakra For-
+trending brittle top-to-SW (up) shear is also seen on                   mation, exposed along the unconformity, consists of
+a nearly vertical section (ﬁg. 11). A number of slick-                  basal conglomerates overlain by reddish sandstones.
+ensides are identiﬁed along this fault, indicat-                           A set of SW-/WSW-trending listric normal faults
+ing that it is reverse-dip-slip (ﬁgs. 11, 12b). Most of the             (ﬁg. 14) are seen in the lowermost sandstone and
+slickensides/mineral lineation on different fault planes                siltstone unit in NW-SE outcrop cross section (atti-
+has 757–907 rake, which indicates dominantly dip-                       tude: 2557 strike, 357 dip, 1657 dip direction). Sand-
+slip movement. A few slickensides with 27–187 rake                      stone beds that dip 117–157 toward the south/SE are
+indicate almost strike-slip movement (ﬁg. 12c, 12d).                    slipped across these listric faults, depicting synthetic
+Normal dip-slip movement is also observed on some                       relay, with a ∼1-dm throw. These listric faults might
+587–787-dipping fault planes, based on slickenside peaks/               originate from NW-SE extension during the Mesozoic,
+asymmetric elevation trends (ﬁg. 12a). The Y- and P-                    and their presence in the lower siltstone-sandstone
+planes of the brittle shears are often mineralized.                     unit possibly indicates synsedimentary deformation
+   Along the western rift margin of the Barmer basin,                   within the Ghaggar-Hakra Formation. Such a small
+the majority of the brittle shear faults (Y-planes) trend               throw indicates prevalence of low strain during de-
+nearly NW to NNW, nearly subparallel to, or at a                        position of the Ghaggar-Hakra Formation. It also in-
+low acute angle with, the older fractures of the MIS.                   dicates that this siltstone-sandstone unit possesses
+The dip of the normal faults varies, and sometimes                      the competency contrast required for the listricity
+the dip directions of the Y-planes are almost oppo-                     of the normal faults (Bally et al. 1981; Shelton 1984).
+site. Also, the majority of the dikes in the western                       Sandstones of the Early Cretaceous Ghaggar-Hakra
+segment of the MIS trend nearly NNW (Pandit et al.                      Formation reveal that minerals altered and Fe oxide
+1999; Rao et al. 2003), following the Proterozoic rift                  cemented at many places. Y- and P- brittle shear
+fracture trends.                                                        planes are observed within both the sandstone and
+   Eastern Margin. The Early Cretaceous ﬂuvial                          the basaltic rock body (ﬁg. 15). The majority of the
+sandstone- and siltstone-dominated succession of the                    faults trend NE; however, there are a considerable
+Ghaggar-Hakra Formation is exposed throughout                           proportion of orthogonal faults as well (pole plots in
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+572                                       S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 11. NW-trending large brittle shear feature observed on a subvertical section associated with a Y-plane (attitude:
+3167 strike, 747 dip, 467 dip direction) and a P-plane (attitude: 957 strike, 867 dip, 1857 dip direction). S. Dasgupta (height:
+173 cm) is shown for scale. Right inset: uninterpreted (top) and interpreted (bottom) close-ups of the NW-trending
+brittle shear, with a top-to-SW (up) slip; part of a pencil (∼13 cm) is shown for scale; subinset: stereoplot of Y- and P-planes.
+Left inset: slickenside associated with stepped feature indicating upward movement (rake: 787) of the hanging wall; right
+subinset: examples of step slickensides from ﬁgure 1 of Doblas (1998); left subinset: stereoplot of the fault plane and
+slickenside. Both of these feature (Y- and P-planes and slickenside) conﬁrm a reverse slip. Location: granitic outcrop of
+the Malani Igneous Suite NW of Dhorimana village; near L4 in ﬁgure 1A. A color version of this ﬁgure is available
+online.
+
+
+ﬁg. 13). Two sets of fractures, trending NW and NE,                      plane attitude: 2407 strike, 647 dip, 3307 dip direction)
+are also seen at many places in the sandstone body,                      are identiﬁed within basalt, along with a ∼20–40-cm-
+especially in the eastern part of the hill area.                         thick fault gouge in a subvertical section (ﬁg. 15). Such
+  South-southwest (1957–2007)-trending Y-planes                          a fault can be called a “gouge fault” (Fossen 2016).
+with top-to-south/SSW shear are identiﬁed within                         In the lower part of this reverse fault, a slickenside
+the older basalt body underlying the Ghaggar-Hakra                       with 827 pitch connotes dip-slip movement. Such SW-
+Formation (ﬁg. A8). A dike trending ∼2407–2507                           trending reverse faults with nearly top-to-south shear
+obliquely crosscuts the Y-plane (ﬁg. A8). Here a dike                    are also observed in the adjacent/overlying lower Cre-
+truncates a set of P-planes. The dike terminates                         taceous Sarnoo sandstones. At many places in the
+abruptly against the overlying unconformity (ﬁg. A8).                    western part of the Sarnoo hill area, brittle shear sense
+No brittle shear features are seen within the dike.                      is obscured, since these faults/fault zones are char-
+Cross fractures, possibly cooling joints, do exist.                      acterized by breccias consisting of a knobbly texture
+  Dextral brittle shear Y-planes trending SW (Y-plane                    associated with clay mineralization and alteration, as
+attitude: 2207 strike, 577 dip, 3107 dip direction; P-                   described by Taylor (2009) from another terrain.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  573
+
+
+
+
+Figure 12. Slickenside features observed on NW- and NE-trending fault surfaces. a, Fault surface with slickensides
+having step-like elevations (rake: ∼767), depicting normal dip-slip movement (attitude: 1687 strike, 757 dip, 2587 dip
+direction). A clinometer 8 cm in diameter is shown for scale. b, Fault surface with slickensides having step-like
+elevations (rake: ∼807), depicting reverse-dip-slip movement (attitude: 1657 strike, 557 dip, 757 dip direction). Part of a
+pen cap (∼2.7 cm) is shown for scale. Inset between a and b: examples of step slickensides from ﬁgure 1 of Doblas
+(1998). c, d, SE-trending (1187) vertical fault surface with slickenside striations (rake: ∼27–87), depicting a strike-slip
+movement. Stereoplots of the fault planes and slickenside features are shown in the insets of the respective panels.
+Location: granitic outcrop of the Malani Igneous Suite NW of Dhorimana village; near L4 in ﬁgure 1A. A color version
+of this ﬁgure is available online.
+
+
+   West-southwest-trending faults truncate the SW-                      P-planes within the fault gouge of same attitude as
+trending reverse faults at places (ﬁg. 16). At the eastern              the fault zone have previously been reported from
+part of the hill section, a prominent synsedimentary                    elsewhere (Mukherjee 2013b).
+growth section is observed along the WSW-trending                         At places, the Nosar Sandstone and the under-
+normal fault in the uppermost sandstone unit: the                       lying siltstone unit are brittle-sheared, as revealed
+Nosar Sandstone. The Nosar Sandstone thickens ad-                       by Y- and P-planes. The Y-planes trend SW (2257–2507).
+jacent to the WSW-trending normal fault, indicat-                       These are reverse faults with top-to-south shear.
+ing synsedimentary growth of the sandstone unit                         Basaltic intrusions occupy these Y- and P-planes
+associated with fault movement (ﬁg. 16). This WSW-                      within sandstones and siltstones (ﬁg. 17). The basalt
+trending normal fault consists of a ∼70–100-cm-thick                    veins, at places, also occur as sills and possibly link
+fault gouge. Brittle shear Y- and P-planes of similar                   genetically with the precursor-of-Deccan volcanism.
+trend are also seen within the fault gouge. Y-and                       Basalt intruded along Y- and P-planes, presumably
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+574                                     S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 13. Schematic geological cross section (not to scale) trending SE across the Sarnu/Sarnoo hill area outcrop.
+Key deformational events in the Sarnu/Sarnoo hill area: large fault gouge section (a); reverse fault often associated
+with fault gouge and truncation of Ghaggar-Hakra sedimentary strata against older Early Cretaceous volcanics (b; ﬁg. 15);
+listric normal faults within the lower sandstone-siltstone unit of the Ghaggar-Hakra Formation (c; ﬁg. 14); Deccan-
+equivalent basaltic ﬂow intruding along the older brittle shears (d; ﬁg. 17); prominent synsedimentary growth feature
+of the younger sandstone body of the Ghaggar-Hakra Formation along the ENE-trending normal fault (e; ﬁg. 16); and
+Deccan-equivalent basalt intruding the Ghaggar-Hakra Formation as a sill (f; ﬁgs. 19, A10, the latter available online).
+Inset, stereoplot of Y- (solid points) and P- (open points) planes of NE- and NW-trending brittle shear faults identiﬁed
+along the eastern rift shoulder (Barmer basin) in outcrops around the Sarnu/Sarnoo village area. Several orthogonal
+NW-trending faults are present. A color version of this ﬁgure is available online.
+
+
+after those two sets of planes developed. Some of                        We also studied an exposure ∼500–600 m NE of
+the WSW-trending faults show dip-slip movement, as                     the Sarnoo hill area (L5) beside State Highway 16/
+deduced from the slickenside stepped elevation de-                     National Highway 115, where the lower part of the
+veloped on the fault-plane surface with 787 pitch                      Ghaggar-Hakra Formation is exposed (Bladon et al.
+(ﬁg. 18).                                                              2014) with basalts as sills. In the lower part of the
+   At places in the Sarnoo hill area, ∼1–2-m-long                      exposure, sandstones and siltstones are reddish and
+SE/SSE-trending brittle shear Y-planes of mostly re-                   are baked at many places by intrusion. A number
+verse faults (ﬁg. A9) are observed on subvertical rock                 of normal and reverse faults presumably dissected
+sections within the Ghaggar-Hakra Formation sand-                      the NW-facing side of the NE/ENE-trending hillock.
+stone. The sense of shear is dominantly top to nearly                  The SSE-trending reverse faults are present below
+east (up), with a few showing top to nearly west                       the basalt sill layer and consist of brittle shear Y- and
+(down) shear sense. In two cases, SE-trending normal                   P-planes. These reverse faults occur as conjugate sets
+faults ≥3 m long were also documented (ﬁg. A9),                        with opposite vergence (ﬁg. A10), without cutting
+which could possibly indicate the main phase of                        each other. The basalt sill body, at places, is partially
+rifting of the Barmer basin.                                           displaced in the form of a drape fold by the under-
+
+
+
+
+                                   This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                   All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  575
+
+
+
+
+Figure 14. Uninterpreted (a) and interpreted (a0) photographs of listric normal faults (attitude: 2557 strike, 357 and
+varying dip, 1657 dip direction) trending SW to WSW in sandstone-siltstone unit of the lower Ghaggar-Hakra Formation,
+observed on a subvertical section. Throw ranges from a few to 20–30 cm. A ﬁeld notebook ∼14 cm long is shown for scale.
+Inset, stereoplot of the fault plane. Location: NW part of the Sarnu/Sarnoo hill area; near L5 in ﬁgure 1A. A color version
+of this ﬁgure is available online.
+
+lying fault, resulting in a small-scale monocline                       dated basalt intrusion, probably during the main
+(ﬁg. 19a, 19a0). At places, the overlying sill, too, is                 phase of Barmer rifting in the early Tertiary or at the
+brittle-sheared. At one outcrop, SE-trending conju-                     K-T boundary.
+gate normal faults slipped the basalt sill, giving a                      Outcrops farther east and SE of the Sarnoo hill area,
+small-scale full graben (ﬁg. 19b, 19b0). At some places,                ∼800 m–1.2 km from Sarnoo village (L5), consist of
+these normal faults are slightly listric. The listricity                massive basalts. They consist of well-developed pla-
+probably arises because of the competency contrast                      gioclase laths depicting near-linear lava ﬂow (ﬁg. A11a).
+across the layered lithology of the rock body. These                    No major shear developed in these basalt outcrops.
+observations indicate that the SE-trending faults post-                 At one location, near the base of a basalt hill, two
+
+
+
+
+Figure 15. Uninterpreted (a) and interpreted (a0) photographs of the lower Ghaggar-Hakra Formation, depicting a top-
+to-SSE brittle shear feature associated with a Y-plane (attitude: 2207 strike, 577 dip, 3107 dip direction) and a P-plane
+(attitude: 2407 strike, 647 dip, 3307 dip direction) in a lower (older) basalt unit; there is a 20–40-cm-thick fault gouge
+along the Y-plane. Top inset, stereoplot of Y- and P-planes. Bottom inset, slickenside striations (rake: 827) on exposed
+Y-planes indicate reverse dip-slip movement. Part of a pen (∼4 cm) is shown for scale. Subinset, stereoplot of the Y-plane
+associated with the slickenside feature. Location: NW part of the Sarnu/Sarnoo hill area; near L5 in ﬁgure 1A. A color
+version of this ﬁgure is available online.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+576                                      S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 16. Uninterpreted (a) and interpreted (a0) photographs of upper part of the Ghaggar-Hakra Formation, depicting
+that the WSW-trending normal fault, associated with a Y-plane (attitude: 2507 strike, 387 dip, 3407 dip direction) and a
+P-plane (not measurable), has cut across the older SW-trending brittle shear faults with a YE-plane (attitude: 2157 strike,
+797 dip, 3057 dip direction) and a PE-plane (attitude: 2327 strike, 537 dip, 1427 dip direction). Distinct synsedimentary
+growth of the sandstone body is observed along the normal fault in the vertical section. This WSW-trending normal
+fault is also associated with a ∼50–120-cm-thick fault gouge, which also consists of P-planes. Inset: Stereoplot of Y-, YE-,
+and PE-planes. Location: eastern part of the Sarnu/Sarnoo hill area; near L5 in ﬁgure 1A. A color version of this ﬁgure is
+available online.
+
+sets of fractures are identiﬁed. The dominant one                       way 15 (NH-15) and (2) the ridge section on the
+trends SE (∼1307–1507) and the other SW (∼2287;                         western side of this highway. The main rock types
+ﬁg. A11b).                                                              are cross-bedded sandstones, overlain by a discrete
+   Devikot-Fatehgarh Ridge. We studied (1) the                          thin layer of calcrete (ﬁg. 20), followed by a volcanic
+uplifted ridge on the eastern side of National High-                    ash bed and ﬁnally silty mudstone at the top. The
+
+
+
+
+                                    This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                    All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Figure 17. Uninterpreted (a) and interpreted (a0) images of the upper portion of the Ghaggar-Hakra Formation, depicting
+a SW-trending brittle shear fault within sandstone and underlying siltstone units, from a near-vertical section. A thin
+basaltic ﬂow occupied the Y-plane (attitude: 2257 strike, 247 dip, 3157 dip direction) and the P-plane (attitude: 927 strike,
+447 dip, 027 dip direction) within the siltstone and partly the sandstone unit. A ﬁeld notebook ∼14 cm long is shown for
+scale. Right insets, close-ups depicting the basaltic ﬂow occupying Y- and P-planes. A pen ∼16 cm long is shown for scale.
+Left inset, stereoplot of Y- and P-planes. Location: eastern part of the Sarnu/Sarnoo hill area; near L5 in ﬁgure 1A. A color
+version of this ﬁgure is available online.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+578                                     S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 18. Slickenside feature along the WSW-trending fault (attitude: 2557 strike, 597 dip, 3457 dip direction),
+depicting step-like elevations (pitch: 787) indicating a normal dip-slip movement with the hanging-wall block going
+down. Bottom right, examples of step slickensides from ﬁgure 1 of Doblas (1998). Top right, stereonet plot of the fault
+plane along with the slickenside feature. Location: eastern part of the Sarnu/Sarnoo hill area; near L5 in ﬁgure 1A.
+A color version of this ﬁgure is available online.
+
+
+purple-brown volcanic ash bed is ∼15–30 cm thick                       fault (inset i of ﬁg. 21). It can be better deﬁned as
+variably and occasionally is associated with dark, ﬁne-                segmented fault system (Fossen 2016) that is linked
+grained porcellanite. The sandstone unit is domi-                      by relay structures (Peacock and Sanderson 1991;
+nantly cross bedded. This is evidently a ﬂuvial chan-                  Fossen and Rotevatn 2016). This is also evident from
+nel deposit, as suggested by the erosive concave-up                    the Google Earth Pro satellite imagery (ﬁg. 21). At
+lower-bound surface (ﬁg. 20a). The sandstone body                      some places (ﬁg. 21a, 21b), mainly on the eastern
+was later cut by tectonic fractures, and these often                   side of NH-15, these relay features can be explained
+contain carbonate precipitates (ﬁg. 20b). At places                    as “synthetic approaching transfer zone,” as in Mor-
+above the cross-bedded sandstone unit, a parallel                      ley et al. (1990). In such areas, the vertical displace-
+laminated ﬁner sandstone body is present, with oc-                     ment along two adjacent ridges, sloping in same di-
+casional thin calcrete layers (ﬁg. 20c, 20d).                          rection, reduces as they approach each other. This
+   The Devikot-Fatehgarh Ridge extends up to 20–                       is observed in the ﬁeld as well as through the Google
+30 km, with an uplifted sedimentary sequence that                      imagery (ﬁg. 21a, 21b).
+dips 207–457 toward the south or SE. No brittle shear                     All along the linear extent of the uplifted ridges,
+features exist. This entire uplifted fault scarp sec-                  the relay structures are mostly soft-linked by relay
+tion manifests itself as nearly NE-trending discon-                    ramps (reviewed in Fossen and Rotevatn 2016). A few
+nected hillocks. This indicates that this reactivated                  hard-linked relay structures associated with a set of
+high is not the result of a well-established full-length               tectonic fractures exist in the outcrops. These tec-
+
+
+
+
+                                   This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                   All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  579
+
+
+
+
+Figure 19. Uninterpreted (a, b) and interpreted (a0, b0) images from near a vertical section of the lower Ghaggar-Hakra
+Formation show brittle deformation within the basalt sill body. a, a0, Listric brittle plane associated with fractures (attitude:
+1737 strike, 737 dip, 837 dip direction) below the basalt sill has deformed the sill body, thereby forming a drape fold or
+monocline. b, b0, A set of normal faults (attitude: 1607 strike, 647 dip, 707 dip direction) displaced the basalt sill layer,
+producing a small-scale full graben. A pen ∼16 cm long is shown for scale. Location: west-facing outcrop hillock, 600 m NE
+of Sarnu/Sarnoo village; near L5 plotted in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+tonic fractures normally have higher dip (1457) and                     and Koyi 2009) trending south, as observed in a
+trend nearly SE/WSW (inset ii of ﬁg. 21). The SW/                       subhorizontal section (ﬁg. A12). This fracture could
+WSW-trending fracture sets may be linked to the                         be associated with a transfer fault or a breached relay
+main reactivated fault associated with linearly dis-                    structure having a sinistral slip. Subsurface evidence
+persed ridges, while their nearly orthogonal sets are                   through geophysical study can conﬁrm the presence
+likely to be related to the breached relay ramps                        of a fault.
+(Fossen and Rotevatn 2016) or transfer fault geom-                        Weathering-related fracture planes in granites
+etries. These orthogonal sets of tectonic fracture are                  and volcanic ash resembled P-planes. These were not
+observed in the lower sandstone unit as well as in                      considered to have brittle shear sense, since such
+the volcanic ash bed. However, discrete calcrete layers                 curved planes were not found to be bound by another
+are unfractured. At many places, the fracture surfaces                  set of planes supposed to be Y-planes (ﬁg. A13a, A13b).
+within the sandstone body are coated with calcrete,
+indicating ﬂuid ﬂow (ﬁg. 20b; Caine et al. 1996).
+                                                                                                    Discussion
+West of NH-15, the volcanic ash beds are slipped by
+brittle faults(?) showing n-type drag (review in Mu-                    Stereoplots of poles of planes measured in the ﬁeld
+kherjee 2014; also see Mukherjee 2011; Mukherjee                        from the eastern (Sarnoo hill area; ﬁg. 13) and west-
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+580                                     S. DASGUPTA AND S. MUKHERJEE
+
+
+
+
+Figure 20. Different types of depositional systems of the sandstone body in the Fatehgarh Formation exposed near
+Bariyada along the Devikot-Fatehgarh ridge. a, Co-set of planar cross-bedded sandstone. These sets were truncated by
+the overlying ones. The lower boundary is sharp, erosive, and concave-up. The set thins upward. Channel deposition
+is indicated (Elliott 1978; Collinson and Thompson 1984). b, Fracturing after sandstone lithiﬁed. Later, percolating
+water precipitated carbonates and probably kaolinites within these fractures. c, Plane-parallel laminated ﬁne sandstone,
+deposited under either an upper or a lower ﬂow regime. d, Few-centimeters-thick calcrete horizon within sandstone
+units, possibly representing a hiatus in sedimentation. The hiatus was after the sandy bar formed. The calcrete horizon
+formed meanwhile. A pen ∼16 cm long and a camera lens cover ∼6 cm in diameter are shown for scale. Location: near
+L6 in ﬁgure 1A. A color version of this ﬁgure is available online.
+
+
+ern (Barmer area, Dhorimana, and Jasai; ﬁg. 4) mar-                    during the Early Cretaceous (Bladon et al. 2015).
+gins show distinct variation of the fault trends. In                   This transtension is due to initiation of strike-slip
+the western margin of the rift shoulder, the major-                    movement between India and Madagascar (Misra
+ity of the faults strike NW and dip nearly SW. The                     et al. 2014, 2015; Gaina et al. 2015; Misra and Mu-
+NE-striking orthogonal faults are fewer. Most of                       kherjee 2015, 2017). However, unlike the western mar-
+these orthogonal faults are dominantly strike-slip,                    gin, this area has several antithetic faults.
+as identiﬁed from ﬁeld study. Hence, these orthog-                        The NE-trending faults vary considerably in strike,
+onal faults mainly act as stress transfer faults. Be-                  from SSW to WSW. At one location, a WSW-trending
+cause of continuous extension during the main phase                    normal fault truncates the SW-trending faults (Y-
+of Barmer rifting, strain localized at the rift shoulders              planes). Moreover, synsedimentary deformation of
+located ∼10–15 km farther west of rift margin (ﬁg. 1A).                the Early Cretaceous sandstone, having low strain, is
+   In the Sarnoo hill area of the eastern-margin rift                  seen along the SW- to WSW-trending normal faults
+shoulder, most of the faults trend NE and dip toward                   at two locations. This was missed by Bladon et al.
+the SE. These are probably related to transtension                     (2014). Whether this indicates a clockwise rotation
+
+
+
+
+                                   This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                   All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  581
+
+
+
+
+Figure 21. Segmented fault system associated with relay structures along the NE-trending Devikot-Fatehgarh ridge,
+as observed from Google Earth Pro satellite imagery. Inset i, segmented fault systems may link up in the advanced
+stage, inﬂuenced by preexisting basement structures (ﬁg. 4c in Fossen and Rotevatn 2016). Inset ii, pole positions
+of fracture trends along the Devikot-Fatehgarh ridge. Location: ∼115 km NNE of Barmer town, east of National High-
+way 15; near L6 in ﬁgure 1A. a, b, Relay structures, observed from Google Earth Pro satellite imagery. a, Relay structure
+associated with synthetic overlapping fault system at right and possibly hard-linked relay ramp at left. b, Set of relay
+structures, central part: synthetic overlapping relay ramp and left-breached or hard-linked synthetic approaching relay
+structure. Inset, examples of synthetic transfer zones in ﬁgure 4a, 4b of Morley et al. (1990). Location: ∼115 km NNE
+of Barmer town, 10–15 km east of National Highway 15; near L6 in ﬁgure 1A. A color version of this ﬁgure is available
+online.
+
+of the stress axes during the Early Cretaceous NW-SE                    rifting, which initiated in the Late Cretaceous and
+extension can be addressed by paleostress analyses.                     continued though the Paleocene, affected consid-
+   Northwest-striking orthogonal faults are more                        erably the fault morphology on either side of the rift
+abundant in the Sarnoo hill area, in the eastern mar-                   margin. This is also evident from (1) the usual SE
+gin. This indicates that the main phase of Barmer                       trend of the tectonic fractures observed in the basalt
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+582                                     S. DASGUPTA AND S. MUKHERJEE
+
+
+hill outcrop, about 1 km SE of the Sarnoo hill area,                   inantly dip-slip. On the other hand, the WNW- and
+and (2) the SE-trending normal faults that have                        NE-tending faults are mainly strike-slip (ﬁg. 12).
+displaced basalt sills in the NE Sarnoo hill area. This                The Proterozoic rift fractures of the MIS probably
+also indicates that the precursor magmatism of the                     favored the main Barmer rifting. These rift frac-
+Deccan event intruded the eastern margin of Barmer                     tures, trending nearly north, are at a high acute
+rift basin. Evidence of the Deccan Trap precursor has                  angle to the NE-SW extension (ﬁg. 1Biii). In some
+been reported by some authors from the Sarnoo-                         cases, they tend to be nearly perpendicular to the
+Travidar-Dandali areas (Roy 2003; Vijayan et al.                       extension direction (ﬁg. 1Bi). Thus, we postulate that
+2015).                                                                 the preexisting anisotropy (discrete) related to the
+   Conjugate brittle faults were documented from                       MIS rift fractures, as well as the NE-trending Early
+the Dhorimana, Jasai, Genhoo, and NE Sarnoo out-                       Cretaceous faults, favored the main phase of Barmer
+crops (ﬁgs. 8, 10, A6, A10). Of these, a crosscutting                  rifting.
+relation is seen only in the Genhoo and Dhori-                            The northern margin of the Barmer basin is bounded
+mana areas (ﬁgs. 8, 10). The acute angles between                      by the NE/ENE-trending Devikot-Fatehgarh Fault/fault
+these conjugate sets of faults range 647–837. Al-                      scarp. It consists of a chain of uplifted ridges all along
+though in most cases these conjugate faults are                        this trend. The isolated ridges interlink by relay/
+linked to separate extensional events—NW exten-                        transfer structures (as in Fossen and Rotevatn 2016),
+sion in the Early Cretaceous and NE extension dur-                     along which slip propagated. The gravity anomaly
+ing the Late Cretaceous to Paleocene—whether they                      data suggest that the Malani igneous basement is
+developed simultaneously would be interesting to                       shallow in this area and thus has thin sedimentary
+investigate.                                                           cover (Mishra 2011). This initiates the reactivation
+   Classical Andersonian fault systems follow the                      of preexisting rift fractures, trending NE, under the
+Mohr-Coulomb fracture criterion and form by co-                        new NE-SW stress regime.
+axial pure shear (Anderson 1905; Healy et al. 2015),                      Toward the easternmost side (ﬁg. 21) and also
+leading to coeval conjugate faulting. The maximum                      in the westernmost limit, to some extent, in the
+principal stress (j1) is the acute bisector of the angle               northern portion of the Barmer basin, the relay ramps
+between the conjugate faults. The j1 makes a 307 an-                   breach, that is, the faults connect as fault tips prop-
+gle to both the fault planes, whereas the minimum                      agate. This process can be deﬁned as a single-tip
+principal stress axis (j3) is the obtuse bisector of the               breach (Fossen and Rotevatn 2016), which actually
+conjugate faults. The intermediate principal stress                    describes transfer faults connecting synthetic fault
+(j2) is the line of intersection between the conju-                    systems (as in Morley et al. 1990; Morley 2002).
+gate faults, which is horizontal. A deviation from                     Interestingly, such relay structures and/or transfer
+such conditions is a non-Andersonian faulting. In                      zones are also seen in subsurface fault maps of the
+such a case, j2 is not parallel to the intersection of                 Barmer basin (Bladon et al. 2015). Relay structures
+the fault sets but rather lies obliquely. An example                   play a key role in rift fault propagation and thus in
+of non-Andersonian faulting is that produced by                        synrift sediment distribution and hydrocarbon and
+brittle shear in a simple shear regime under non-                      hydrothermal ﬂuid migration (Caine and Forster
+coaxial deformation (Yin and Taylor 2008). Such                        1999), as well as in entrapment of hydrocarbon. The
+shears produce R1 and R2 Riedel shears and subse-                      transfer zones have a close connection with the pre-
+quently the primary P-shear. The conjugate brit-                       existing basement fractures/weak planes (Morley
+tle shear faults observed in the granite hill in the                   1999; Morley et al. 2007). Wider and longer relay
+Dhorimana area and that from the Sarnoo hill area                      structures are easily formed under the inﬂuence of
+exemplify non-Andersonian faulting. This is because                    preexisting basement fractures. This has been re-
+the acute angle between the two conjugate faults                       ported from various continental rift basins world-
+exceeds considerably the Andersonian 607. The Bar-                     wide (Peacock and Sanderson 1991; Baudon and Cart-
+mer rift being ﬁlled up by layer sedimentary rocks,                    wright 2008; Misra and Mukherjee 2015; Fossen and
+the applied tectonic stress varied, presumably through                 Rotevatn 2016).
+those layers (e.g., Roche and van der Baan 2017).                         A number of reverse slips along subvertical faults
+This possibly produced non-Andersonian faulting                        are observed from ﬁeld study of the Barmer rift ba-
+within the basin. Anisotropy within a rock body also                   sin: in the Gehnoo, Jasai, and Dhorimana areas
+leads to non-Andersonian faulting (Sibson et al.                       (ﬁgs. 11, A4, A6) along the western margin, trending
+1988; Yin and Ranalli 1992).                                           NW to NNW, and in the Sarnoo hill area (ﬁgs. 15,
+   A number of slickenside features identiﬁed from                     16, A10) along the eastern margin, trending NE.
+the different outcrops in the western margin indi-                     The most likely cause of this reverse faulting, as
+cate that the NW- to NNW-trending faults are dom-                      observed from the Barmer rift margin, is isostatic
+
+
+
+
+                                   This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                   All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  583
+
+
+ﬂexture–related contraction (as in Lewis and Bal-                       an acute angle to the P-axis trend. In addition, there
+dridge 1994) along the weak zones in the MIS. The                       is no uplift of sedimentary cover seen in areas sur-
+preexisting rift fracture zones within the MIS can                      rounding the granite/rhyolite outcrops. Thus, it seems
+be reactivated. The Réunion plume–related alka-                         that these reverse faults in the MIS along the western
+line igneous complex present in the Sarnoo hill area                    rift margin of the Barmer basin are independent of
+and Tavidar along the eastern rift margin is associ-                    Himalayan (neo)tectonics. The Jaisalmer-Barwani
+ated with these weak zones (Basu et al. 1993; Raval                     lineament (Bakliwal and Wadhawan 2003; Roy 2006)
+and Veeraswamy 2000; Roy 2003; Sharma 2007).                            runs along the western rift margin of the Barmer ba-
+Another possible cause of reverse faulting in the                       sin (ﬁg. 1A). Although no major neotectonic displace-
+western margin could be related to far-ﬁeld ridge-                      ment has been reported along the western margin of
+push-related compression (Withjack et al. 1995)                         the Barmer rift basin, a possibility of local stress
+during separation of the Seychelles microcontinent                      buildup along this rift margin cannot be ruled out.
+from India.                                                                Bladon et al. (2014) referred the structural inheri-
+   Several neotectonic lineaments in western Ra-                        tance of the Barmer basin from nearly west/SW-
+jasthan, India, trend NW to NNW (ﬁg. 1A). Some                          trending faults related to NW extension in the Me-
+smaller, unnamed ones also trend NE (ﬁg. 1A).                           sozoic, as identiﬁed from the eastern and NE part of
+Some of these lineaments govern recent geomor-                          the basin and also from the Sarnoo hill area outcrop.
+phic features, such as changing a river course; for                     We postulate inheritance from both the western and
+example, the Luni River (Bajpai 2004) runs parallel                     eastern margins from the preexisting (discrete) Prote-
+to the NE-trending Luni-Sukri lineament after taking                    rozoic, nearly north-trending rift fractures of the MIS.
+a high-acute-angle turn from its nearly north/NNE-                         Fault network topology can be used on a subsur-
+trending course, toward the south of the Barmer                         face fault map to understand the relative connec-
+basin (ﬁg. 1A; ﬁg. 5 of Bakliwal and Wadhawan                           tivity and to quantify various spatial relations be-
+2003). Two moderate-intensity earthquakes were                          tween faults and/or fractures (Sanderson and Nixon
+reported in 1985 and 1991 about 16 km NW of                             2015; Duffy et al. 2017). The fault geometry evolves
+Barmer town and 50 km SE of Jaisalmer town, re-                         temporally, with increasing strain during rifting
+spectively (www.earthquaketrack.com; Bakliwal and                       phases. This changes the topological parameters
+Wadhawan 2003; Roy 2006). These quakes might                            (nodes and branches between the nodes; Duffy et al.
+be genetically related to one of these lineaments.                      2017). The measure of connectivity per branch (CB),
+Reactivation of the NW-trending Konoi/Kanoi fault                       a function of counts of different nodes, varies be-
+in the Jaisalmer area was reported in the 1991 earth-                   tween 0 (no connecting branches) and 2 (maximum
+quake (Joshi et al. 1997; Laul 2000; Bakliwal and                       connection) for single-phase (low strain) to multi-
+Wadhawan 2003). The question arises whether any of                      phase extension events (Duffy et al. 2017). Thus,
+these neotectonic lineaments are related to these re-                   topology can help in the analysis of the different
+verse faults. Study of the fault-plane solution (Mc-                    phases of extension, the rotation of stress axes with
+Kenzie 1969) from earthquake data of the Kutch basin                    time, the impact of preexisting structural features,
+(Chandra 1977; Chung and Gao 1995) depicts a nearly                     and also ﬂuid migration pathways (Morley and
+north-trending P-axis. The SHmax (j1 in Andersonian                     Nixon 2016; Duffy et al. 2017). Since the Barmer rift
+notation) trends nearly north to NNE (Chandra                           basin underwent two noncoaxial extension events
+1977; Rajendran et al. 1992). Speciﬁcally, Abdelaziz                    and is guided by the preexisting structures of the
+et al. (2016) found 257N to be the direction of the                     MIS, we presumed that the CB value may range from
+SHmax from an undisclosed location in the Raag                          ∼0.8 to 1.3. Detailed topological analysis on a sub-
+(Raageshwari) Deep oil ﬁeld in the Barmer basin, on                     surface seismic data–derived fault map can validate
+the basis of image and sonic logs. The P-axis trend                     this.
+obtained from the Kutch earthquake study is nearly                         Gombos et al. (1995), Biswas (1987), Pandey and
+perpendicular to the reactivated, nearly ENE trending                   Agrawal (2000), Reeves (2013), and Gaina et al.
+basin margin faults acting as one of the nodal planes                   (2015) reviewed tectonics of western Indian basins.
+(Chung and Gao 1995). This type of similarity could                     Our work leads to the following synthesis (ﬁg. 22).
+be drawn for the Fatehgarh-Devikot ridge/Fatehgarh                      The Gondwana fragmentation during the Jurassic
+fault in the northern margin of the Barmer basin,                       developed two major Mesozoic basins in western
+which trends NE and has reverse displacement pos-                       India. These are the Jaisalmer basin of Rajasthan
+sibly due to the Himalayan orogeny. However, the re-                    and the Kutch basin of Gujarat. The opening of the
+verse slip along faults seen within the granite/rhyolite                Somali basin during the Jurassic produced a shelf-
+rock bodies in the Dhorimana, Jasai, and Gehnoo                         slope system in western Rajasthan, the Jaisalmer
+hill areas trend NW to NNW and thus would be at                         basin being a part of this broad shelf. The Lathi
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+584                                      S. DASGUPTA AND S. MUKHERJEE
+
+
+                                                                        Formation, reported from Jaisalmer and parts of the
+                                                                        Barmer basin, was deposited during this period.
+                                                                        This early phase of extension might have resulted in
+                                                                        the low-strain present-day NE-trending faults in the
+                                                                        Barmer basin that acted as a sweet spot for initiation
+                                                                        of transtentional activity in consequence of Mad-
+                                                                        agascar’s separation from the Indian plate during
+                                                                        the Cretaceous (∼88–84 Ma; Storey et al. 1995;
+                                                                        Reeves 2013). However, the amount of strain was
+                                                                        not intense enough to develop a mature rift basin.
+                                                                        This condition was fulﬁlled during separation of the
+                                                                        Seychelles microcontinent in the Maastrichtian,
+                                                                        followed by Réunion plume activity that ﬁnally
+                                                                        separated the Seychelles microcontinent at ∼63.4 Ma
+                                                                        (Collier et al. 2008; Torsvik et al. 2013; review in
+                                                                        Misra et al. 2014). By this time, during the Maas-
+                                                                        trichtian to Paleocene, the Barmer basin had ma-
+                                                                        tured into a long, narrow continental rift basin
+                                                                        possibly guided by preexisting, nearly north/NNW-
+                                                                        trending fractures of the Proterozoic MIS at ≥457 to
+                                                                        the nearly NE-trending extension direction. This
+                                                                        points to rifting of a more oblique nature (Bonini
+                                                                        et al. 1997; Chattopadhyay and Chakra 2013) in the
+                                                                        Barmer basin than the orthogonal rifting suggested
+                                                                        by Bladon et al. (2015). Extension related to this
+                                                                        oblique rifting between the West Indian margin and
+                                                                        the Seychelles microcontinent (Misra et al. 2014)
+                                                                        initiated much earlier in the Barmer basin and prop-
+                                                                        agated south/SE into the Cambay basin and farther
+                                                                        south. The Barmer basin deepens toward the south to
+                                                                        SE, and the eastern margin accommodates sediments
+                                                                        thicker than those at the western margin (ﬁg. 1e in
+                                                                        Bladon et al. 2014; ﬁg. 6 in Dolson et al. 2015), making
+                                                                        rifting more asymmetric (Huismans and Beaumont
+                                                                        2002). Also, the western margin is more uplifted than
+                                                                        the eastern margin (ﬁg. 1C). Oblique extension asso-
+                                                                        ciated with preexisting structures can also rift asym-
+                                                                        metrically (Withjack and Jamison 1986; Bonini et al.
+                                                                        1997, 2016; van Wijk 2005).
+
+                                                                                                   Conclusions
+                                                                        The Barmer basin is a narrow, failed continental, non-
+                                                                        volcanic rift region. Passive rifting was coeval with
+                                                                        upwelling of magma under high crustal straining.
+                                                                        Key conclusions are as follows.
+                                                                          1. Bladon et al. (2015) referred to two phases of
+Figure 22. Plate tectonic model (schematic diagram):
+greater India, Seychelles, and Madagascar with respect to
+                                                                        extension: (1) Early Cretaceous NW-SE extension
+East and NE Africa at different times (after Gibbons et al.
+2013; Reeves 2013; Misra et al. 2014; Gaina et al. 2015).
+A, The Somali basin formed at the end of the Jurassic                   dashed and solid lines, respectively. Ant p Antarctica;
+(145 Ma). B, Madagascar separated from India-Seychelles                 BB p Barmer basin; Mdg p Madagascar; Se p Seychelles
+in the Late Cretaceous (∼84 Ma). C, Cretaceous-Paleocene                micocontinent. Arrows indicate the direction of maximum
+rifting between India and the Seychelles microcontinent.                extension/j1/SHmax. A color version of this ﬁgure is avail-
+Probable transform fault and spreading centers shown in                 able online.
+
+
+
+
+                                    This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                    All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  585
+
+
+and (2) Late Cretaceous to Paleocene NE-SW ex-                          Deccan volcanism, during oblique rifting of the
+tension, which we support from ﬁeld structural evi-                     Seychelles microcontinent from India.
+dence. Bladon et al. (2015) also identiﬁed relay ramps                     8. Relay structures play an important role in
+from seismic sections in the northern and eastern                       fault propagation, guided by the preexisting rift
+parts of the Barmer basin. We present for the ﬁrst time                 fractures (ﬁg. 1Bii, 1Biii). This is also observed in
+from the ﬁeld such transfer zones in megascale from                     the Barmer rift basin.
+remote-sensing images (ﬁgs. 3d, 21) and document                           9. Bladon et al. (2015) documented two non-
+fractures that connect those ramps (ﬁgs. 20b, 21, A12).                 coaxial phases of extension from the Barmer basin
+   2. The second-phase extension is manifested at                       solely on the basis of seismic fault interpretation.
+both the western and eastern rift shoulder margins of                   They suggested that the second phase of NE exten-
+the Barmer basin. Strain localized in the western                       sion was an orthogonal rifting. However, we conclude
+shoulder in outboard areas farther from the rift mar-                   that the main rifting during the Late Cretaceous–
+gin. Northeast-trending faults of probably the ﬁrst                     Paleocene was oblique in nature.
+phase cut by NW-trending faults of the second phase                        10. Bladon et al. (2015) neither documented de-
+observed near the Gehnoo and Dhorimana outcrops                         formation in the Malani rocks nor linked it with the
+decode their relative timing.                                           subsequent Barmer basin genesis. In contrast, we
+   3. Slip sense along fault planes is identiﬁed from                   decipher that the Proterozoic rift fractures in the
+the morphologies of slickensides and the angular                        Malani rocks controlled evolution of the Barmer
+relations between the Y and the P brittle planes.                       basin, a kind of structural inheritance.
+The NW/NNW-trending faults are dominantly dip-                             11. Synsedimentary growth within Early Creta-
+slip. Paleostress analysis (Zalohar and Vrabec 2007)                    ceous sandstones increases the chances of ﬁnding
+could further interpret the relative timing among the                   good Mesozoic structural reservoirs within the Barmer
+NE- and nearly east-trending faults (results of ﬁrst-                   basin. The presence of a fault gouge (ﬁg. 16 in the
+phase extension) and the WNW- and NNW-trending                          Sarnoo hill area (and elsewhere) also indicates the
+faults (produced by second-phase extension) ﬁrst docu-                  likelihood of ﬁnding fault-bound traps, controlled by
+mented in this study.                                                   dip-sealing faults in subsurface Mesozoic stratigraphy.
+   4. The preexisting Late Proterozoic rift fractures,
+trending nearly north to NNW, in the Malani Ig-
+neous Suite have plausibly favored the NE-SW main
+Barmer rift extension (ﬁg. 1A, 1Bi, 1Biii).                                               ACKNOWLEDGMENTS
+   5. The SSW- to WSW-trending faults in the Sarnoo
+hill area at the eastern margin possibly indicate a                     S. Dasgupta thanks his wife, Troyee Dasgupta, for
+clockwise rotation of the ﬁrst phase of extension                       assisting in his ﬁrst ﬁeldwork in Barmer. S. Mukherjee
+during the Early Cretaceous. Paleostress analysis can                   thanks his wife, Payel Mukherjee, for taking care
+conﬁrm this. Synsedimentary growth observed along                       of household activities and providing free time to
+some of the SW- to WSW-trending faults, having                          do ﬁeldwork with S. Dasgupta and to partially write
+small slip, indicate low strain. Only where distinct                    this article. Both the authors conducted ﬁeldwork
+markers slipped did we estimate throw magnitude                         with their own money. A research sabbatical provided
+(Sarnoo hill area: ﬁg. 14; NE of Sarnoo hill area: ﬁg. 19).             by the Indian Institute of Technology Bombay to S.
+   6. Basalt intrusions along the Y and P brittle shear                 Mukherjee for the year 2017 has been quite beneﬁcial
+planes trending SW in the eastern Sarnoo hill area are                  in ﬁnishing this article. S. Dasgupta is thankful to his
+clearly from pre-Deccan/precursor-of-Deccan volca-                      colleagues at Reliance Industries for some valuable
+nism at ∼68 Ma.                                                         discussions that were beneﬁcial while writing the
+   7. Displacement of the pre-Deccan/precursor-of-                      manuscript. V. Gahalaut clariﬁed the fault-plane so-
+Deccan basaltic sill and the overlying Early Cre-                       lution, and that helped us to understand the tec-
+taceous lower Ghaggar-Hakra sandstone by the                            tonics and structures of the Barmer basin. We thank
+NW-trending faults indicates that the main Barmer                       the anonymous reviewer for a constructive review
+rift extension occurred probably during the late                        and D. Rowley and B. J. Sivertsen for punctual edi-
+Maastrichtian to Paleocene period, after the pre-                       torial support.
+
+
+                                                     REFERENCES CITED
+
+Abdelaziz, S.; Leem, J.; Praptono, A. S.; Shankar, P.; Mund,                reservoirs development north of India: case study. In-
+  B.; Gupta, A. K.; Goyal, R.; and Sidharth, P. 2016. An                    ternational Association of Drilling Contractors/Society
+  integrated workﬂow to the success of complex tight-gas                    of Petroleum Engineers Asia Paciﬁc Drilling Technology
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+586                                      S. DASGUPTA AND S. MUKHERJEE
+
+
+   Conference, 11th (Singapore, 2016). Accessed Decem-                  ———. 1999. A review of the evolution of rift basins
+   ber 12, 2016. https://www.onepetro.org/conference-paper                 in India during Gondwana with special reference to
+   /SPE-180586-MS.                                                         western Indian basins and their hydrocarbon pros-
+Anderson, E. M. 1905. The dynamics of faulting. Trans.                     pects. Proc. Indian Natl. Sci. Acad. 65:261–283.
+   Edinb. Geol. Soc. 8:387–402.                                         ———. 2005. A review of structure and tectonics of
+Arora, K.; Suman, K.; Dixit, M. M.; and Sarkar, D. 2011.                   Kutch basin, western India, with special reference
+   Jaisalmer basin of western Rajasthan: a gravity per-                    to earthquakes. Curr. Sci. 88:1592–1600.
+   spective. Geo India: South Asian Geoscience Confer-                  ———. 2012. Status of petroleum exploration in In-
+   ence and Exhibition, 2nd (Greater Noida, New Delhi,                     dia. In Banerjee, D. M., and Singhvi, A. K., eds.
+   India, 2011). http://www.apgindia.org/pdf/475.pdf.                      Glimpses of geoscience research in India: Indian report
+Axen, G. J., and Bartley, J. M. 1997. Field tests of rolling               to the IUGS: 2008–2012. Proc. Indian Natl. Sci. Acad.
+   hinges: existence, mechanical types, and implications                   Spec. Issue 78:475–494.
+   for extensional tectonics. J. Geophys. Res. Solid Earth              Bladon, A. J.; Burley, S. D.; Clarke, S. M.; and Beaumont,
+   102:20,515–20,537.                                                      H. 2014. Geology and regional signiﬁcance of the
+Babar, M. D.; Kaplay, R. D.; Mukherjee, S.; and Kulkarni,                  Sarnoo Hills, eastern rift margin of Barmer Basin, NW
+   P. S. 2017. Evidence of the deformation of dykes from                   India. Basin Res. 27:636–655.
+   the Central Deccan Volcanic Province, Aurangabad, Ma-                Bladon, A. J.; Clarke, S. M.; and Burley, S. D. 2015.
+   harashtra, India. In Mukherjee, S.; Misra, A. A.; Calvès,               Complex rift geometries resulting from inheritance of
+   G.; and Nemčok, M., eds. Tectonics of the Deccan Large                  pre-existing structures: insights and regional implica-
+   Igneous Province. Geol. Soc. Lond. Spec. Publ. 445:337–                 tions from the Barmer Basin rift. J. Struct. Geol. 71:
+   353.                                                                    136–154.
+Bajpai, V. N. 2004. Hydrogeological evolution of the Luni               Bonini, L.; Basili, R.; Toscani, G.; Burrato, P.; Seno, S.; and
+   River basin, Rajasthan, western India: a review. Proc.                  Valensise, G. 2016. The effects of pre-existing discon-
+   Indian Acad. Sci. Earth Planet. Sci. 113:427–451.                       tinuities on the surface expression of normal faults:
+Bakliwal, P. C., and Wadhawan, S. K. 2003. Geological                      insights from wet-clay analogue modeling. Tectonophys-
+   evolution of Thar Desert in India—issues and pros-                      ics 684:157–175.
+   pects. Proc. Indian Natl. Sci. Acad. 69A:151–165.                    Bonini, M.; Souriot, T.; Boccaletti, M.; and Brun, J.-P. 1997.
+Baksi, S. K., and Naskar, P. 1981. Fossil plants from the                  Successive orthogonal and oblique extension episodes
+   Sarnu Hill Formation, Barmer Basin, Rajasthan. Palaeo-                  in a rift zone: laboratory experiments with application
+   botanist 27:107–111.                                                    to the Ethiopian rift. Tectonics 16:347–362.
+Bally, A. W.; Bernoulli, D.; Davis, G. A.; and Montadert, L.            Brady, R.; Wernicke, B.; and Fryxell, J. 2000. Kinematic
+   1981. Listric normal faults. In Oceanologica acta: Geol-                evolution of a large-offset continental normal fault
+   ogy of Continental Margins Symposium. Int. Geol.                        system, South Virgin Mountains, Nevada. Geol. Soc.
+   Cong., 26th (Paris, 1980), Proc. p. 87–101.                             Am. Bull. 112:1375–1397.
+Basu, A. R.; Renne, P. R.; Dasgupta, D. K.; Teichmann, F.;              Brune, S., and Autin, J. 2013. The rift to break-up evolu-
+   and Poreda, R. J. 1993. Early and late alkali igneous                   tion of the Gulf of Aden: insights from 3D numerical
+   pulses and a high 3He plume origin for the Deccan                       lithospheric-scale modelling. Tectonophysics 607:65–
+   ﬂood basalts. Science 261:902–906.                                      79.
+Baudon, C., and Cartwright, J. 2008. The kinematics of                  Buck, W. R. 1988. Flexural rotation of normal faults.
+   reactivation of normal faults using high resolution                     Tectonics 7:959–973.
+   throw mapping. J. Struct. Geol. 30:1072–1084.                        ———. 1991. Modes of continental lithospheric exten-
+Beauchamp, W.; Barazangi, M.; Demnati, A.; and El Alji, M.                 sion. J. Geophys. Res. Solid Earth 96:20,161–20,178.
+   1996. Intra-continental rifting and inversion: Missour               Caine, J. S.; Evans, J. P.; and Forster, C. B. 1996. Fault zone
+   Basin and Atlas Mountains, Morocco. Am. Assoc. Pet.                     architecture and permeability structure. Geology 24:
+   Geol. Bull. 80:1459–1482.                                               1025–1028.
+Beaumont, H.; Clarke, S. M.; Burley, S. D.; Taylor, A.;                 Caine, J. S., and Forster, C. B. 1999. Fault zone architec-
+   Gould, T.; and Mohapatra, P. 2015. Deciphering tec-                     ture and ﬂuid ﬂow: insights from ﬁeld data and nu-
+   tonic controls on ﬂuvial sedimentation within the                       merical modeling. Am. Geophys. Union 113:101–127.
+   Barmer Basin, India: the lower Cretaceous Ghaggar-                   Chamberlin, R. M. 1983. Cenozoic domino-style crustal
+   Hakra Formation. Search Discov. 2015:51100. http://                     extension in the Lemitar Mountains, New Mexico: a
+   www.searchanddiscovery.com/pdfz/documents/2015                          summary. In Chapin, C. E., and Callender, J. F., eds.
+   /51100beaumont/ndx_beaumont.pdf.html.                                   New Mexico Geological Society, 34th Field Confer-
+Bellahsen, N., and Daniel, J. M. 2005. Fault reactivation                  ence, Socorro Region II. Guidebook. Socorro, N. M. Geol.
+   control on normal fault growth: an experimental study.                  Soc., p. 111–118.
+   J. Struct. Geol. 27:769–780.                                         Chandra, U. 1977. Earthquakes of peninsular India—a seis-
+Bhushan, S. K. 2000. Malani rhyolites—a review. Gond-                      motectonic study. Bull. Seismol. Soc. Am. 67:1387–1413.
+   wana Res. 3:65–77.                                                   Chattopadhyay, A., and Chakra, M. 2013. Inﬂuence of
+Biswas, S. K. 1987. Regional tectonic framework, struc-                    pre-existing pervasive fabrics on fault patterns during
+   ture and evolution of the western marginal basins of                    orthogonal and oblique rifting: an experimental ap-
+   India. Tectonophysics 135:307–327.                                      proach. Mar. Pet. Geol. 39:74–91.
+
+
+
+
+                                    This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                    All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  587
+
+
+Chetty, T. R. K., and Rao, Y. J. B. 2006. The Cauvery Shear                acterization of oils and their source rocks in the Barmer
+   Zone, Southern Granulite Terrain, India: a crustal-                     Basin, Rajasthan, India. Pet. Geosci. 21:301–321.
+   scale ﬂower structure. Gondwana Res. 10:77–85.                       Fossen, H. 2013. The role of pre-existing structures dur-
+Chung, W. Y., and Gao, H. 1995. Source parameters of the                   ing extension of Caledonian crust and formation of the
+   Anjar earthquake of July 21, 1956, India, and its                       northern North Sea rift. Geol. Soc. Am. Abstr. Pro-
+   seismotectonic implications for the Kutch rift basin.                   gram 45:522.
+   Tectonophysics 242:281–292.                                          ———. 2016. Structural geology (2nd ed.). Cambridge,
+Collier, J. S.; Sansom, V.; Ishizuka, O.; Taylor, R. N.;                   Cambridge University Press.
+   Minshull, T. N.; and Whitmarsh, R. B. 2008. Age of                   Fossen, H., and Rotevatn, A. 2016. Fault linkage and relay
+   Seychelles-India break-up. Earth Planet. Sci. Lett. 272:                structures in extensional settings—a review. Earth-
+   264–277.                                                                Sci. Rev. 154:14–28.
+Collinson, J. D., and Thompson, D. B. 1984. Sedimentary                 Gaina, C.; van Hinsbergen, D. J. J.; and Spakman, W. 2015.
+   structures. London, Allen & Unwin.                                      Tectonic interactions between India and Arabia since
+Compton, P. M. 2009. The geology of the Barmer Basin,                      the Jurassic reconstructed from marine geophysics,
+   Rajasthan, India, and the origins of its major oil reser-               ophiolite geology, and seismic tomography. Tectonics
+   voir, the Fatehgarh Formation. Pet. Geosci. 15:117–130.                 34:875–906.
+Corti, G.; Bonini, M.; Conticelli, S.; Innocenti, F.; Manetti,          Gawthorpe, R. L., and Hurst, J. M. 1993. Transfer zones in
+   P.; and Sokoutis, D. 2003. Analogue modelling of con-                   extensional basins: their structural style and inﬂuence
+   tinental extension: a review focused on the relations                   on drainage development and stratigraphy. J. Geol.
+   between the patterns of deformation and the presence                    Soc. Lond. 150:1137–1152.
+   of magma. Earth-Sci. Rev. 63:169–247.                                Ghosh, S. K. 1993. Structural geology: fundamentals and
+Dasgupta, S.; Pande, P.; Ganguli, D.; Iqbal, Z.; Sanyal, K.;               modern development. Oxford, Pergamon.
+   Venkatraman, N. V.; Dasgupta, S.; et al. 2000. Thar                  Gibbons, A. D.; Whittaker, J. M.; and Müller, R. D. 2013.
+   Desert and plains of Jaisalmer-Barmer area. In Narula,                  The breakup of East Gondwana: assimilating con-
+   P. L.; Acharyya, S. K.; and Banerjee, J., eds. Seismo-                  straints from Cretaceous ocean basins around India
+   tectonic atlas of India and its environs. Calcutta, Geol.               into a best-ﬁt tectonic model. J. Geophys. Res. Solid
+   Surv. India, p. 17.                                                     Earth 118:808–822.
+Dasgupta, S. K. 1975. A revision of the Mesozoic-Tertiary               Gibbs, A. D. 1984. Structural evolution of extensional
+   stratigraphy of the Jaisalmer Basin, Rajasthan. Indian J.               basin margins. J. Geol. Soc. Lond. 141:609–620.
+   Earth Sci. 2:77–94.                                                  Gombos, A. M., Jr.; Powell, W. G.; and Norton, I. O. 1995.
+Davies, R.; Cloke, I.; Cartwright, J.; Robinson, A.; and                   The tectonic evolution of western India and its impact
+   Ferrero, C. 2004. Post-breakup compression of a pas-                    on hydrocarbon occurrences: an overview. Tectono-
+   sive margin and its impact on hydrocarbon prospec-                      physics 96:119–129.
+   tivity: an example from the Tertiary of the Faeroe-                  Healy, D.; Blenkinsop, T. G.; Timms, N. E.; Meredith,
+   Shetland Basin, United Kingdom. Am. Assoc. Pet.                         P. G.; Mitchell, T. M.; and Cooke, M. L. 2015. Poly-
+   Geol. Bull. 88:1–20.                                                    modal faulting: time for a new angle on shear failure.
+Dewey, J. F.; Holdsworth, R. E.; and Strachan, R. A. 1998.                 J. Struct. Geol. 80:57–71.
+   Transpression and transtension zones. In Holdsworth,                 Huismans, R. S., and Beaumont, C. 2002. Asymmetric
+   R. E.; Strachan, R. A.; and Dewey, J. F., eds. Conti-                   lithospheric extension: the role of frictional plastic
+   nental transpressional and transtensional tectonics.                    strain softening inferred from numerical experiments.
+   Geol. Soc. Lond. Spec. Publ. 135:1–14.                                  Geology 30:211–214.
+Doblas, M. 1998. Slickenside kinematic indicators. Tecto-               John, A.; Agarwal, A.; Gaur, M.; and Kothari, V. 2017.
+   nophysics 295:87–197.                                                   Challenges and opportunities of wireline formation
+Dolson, J.; Burley, S. D.; Sunder, V. R.; Kothari, V.; Naidu,              testing in tight reservoirs: a case study from Barmer
+   B.; Whiteley, N. P.; Farrimond, P.; Taylor, A.; Direen, N.;             Basin, India. J. Pet. Explor. Prod. Technol. 7:33–42.
+   and Ananthakrishnan, B. 2015. The discovery of the                   Joshi, D. D.; Dharman, R.; Saxena, A. K.; and Mulkraj.
+   Barmer Basin, Rajasthan, India, and its petroleum geol-                 1997. Jaisalmer earthquake of 1991; its effects and
+   ogy. Am. Assoc. Pet. Geol. Bull. 99:433–465.                            tectonic implications. J. Geol. Soc. India 49:433–436.
+Duffy, O. B.; Nixon, C. W.; Bell, R. E.; Jackson, C. A.-L.;             Kaplay, R. D.; Babar, M. D.; Mukherjee, S.; and Kumar,
+   Gawthorpe, R. L.; Sanderson, D. J.; and Whipp, P. S. 2017.              T. V. 2017. Morphotectonic expression of geological
+   The topology of evolving rift fault networks: single-                   structures in eastern part of south east Deccan volca-
+   phase vs multi-phase rifts. J. Struct. Geol. 96:192–202.                nic province (around Nanded, Maharashtra, India). In
+Dwivedi, A. K. 2016. Petroleum exploration in India—a                      Mukherjee, S.; Misra, A. A.; Calvès, G.; and Nemčok,
+   perspective and endeavours. Proc. Indian Natl. Sci.                     M., eds. Tectonics of the Deccan Large Igneous Prov-
+   Acad. 82:881–903.                                                       ince. Geol. Soc. Lond. Spec. Publ. 445:317–335.
+Elliott, T. 1978. Siliciclastic shorelines. In Reading, H. G.,          Kelly, M. J.; Najman, Y.; Mishra, P.; Copley, A.; and
+   ed. Sedimentary environments and facies. Oxford, Black-                 Clarke, S. 2014. The potential record of far-ﬁeld effects
+   well Scientiﬁc, p. 155–188.                                             of the India-Asia collision: Barmer Basin, Rajasthan,
+Farrimond, P.; Naidu, B. S.; Burley, S. D.; Dolson, J.;                    India. In Montomoli, C.; Iaccarino, S.; Groppo, C.;
+   Whiteley, N.; and Kothari, V. 2015. Geochemical char-                   Mosca, P.; Rolfo, F.; and Carosi, R., eds. Himalaya-
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+588                                       S. DASGUPTA AND S. MUKHERJEE
+
+
+   Karakoram-Tibet Workshop, 29th (Lucca, Italy, 2014),                    the principal stresses. Seismol. Soc. Am. Bull. 50:595–
+   Proc. J. Himal. Earth Sci. Spec. Vol., p. 80–81.                        601.
+Kilaru, S.; Goud, B. K.; and Rao, V. K. 2013. Crustal                    Means, W. D. 1987. A newly recognized type of slicken-
+   structure of the western Indian shield: model based on                  side striation. J. Struct. Geol. 9:585–590.
+   regional gravity and magnetic data. Geosci. Front. 4:                 Mishra, D. C. 2011. Gravity and magnetic methods for
+   717–728.                                                                geological studies: principles, integrated explorations
+Koptev, A.; Calais, E.; Burov, E.; Leroy, S.; and Gerya, T.                and plate tectonics. Hyderabad, BS, p. 672–675.
+   2015. Dual continental rift systems generated by                      Misra, A. A.; Bhattacharya, G.; Mukherjee, S.; and Bose, N.
+   plume-lithosphere interaction. Nat. Geosci. 8:388–392.                  2014. Near N-S paleo-extension in the western Deccan
+Kothari, V.; Naidu, B.; Sunder, V. R.; Dolson, J.; Burley,                 region, India: does it link strike-slip tectonics with India-
+   S. D.; Whiteley, N. P.; Mohapatra, P.; and Anantha-                     Seychelles rifting? Int. J. Earth Sci. 103:1645–1680.
+   krishnan. B. 2015. Discovery and petroleum system of                  Misra, A. A., and Mukherjee, S. 2015. Tectonic inheritance
+   Barmer Basin, India. Search Discov. 2015:110202. http://                in continental rifts and passive margins. Cham, Swit-
+   www.searchanddiscovery.com/pdfz/documents/2015                          zerland, Springer.
+   /110202kothari/ndx_kothari.pdf.html.                                  ———. 2017. Dyke–brittle shear relationships in the
+Laul, V. 2000. Kanoi fault and its possible relation to                    western Deccan strike-slip zone around Mumbai (Ma-
+   Jaisalmer earthquakes. J. Geol. Soc. India 55:681.                      harashtra, India). In Mukherjee, S.; Misra, A. A.; Calvès,
+Lewis, C. J., and Baldridge, W. S. 1994. Crustal extension                 G.; and Nemčok, M., eds. Tectonics of the Deccan Large
+   in the Rio Grande rift, New Mexico: half-grabens, ac-                   Igneous Province. Geol. Soc. Lond. Spec. Publ. 445:269–
+   commodation zones, and shoulder uplifts in the Ladron                   295.
+   Peak-Sierra Lucero area. In Keller, G. R., and Cather,                Misra, A. A.; Sinha, N.; and Mukherjee, S. 2015. Repeat
+   S. M., eds. Basins of the Rio Grande rift: structure,                   ridge jumps and microcontinent separation: insights
+   stratigraphy, and tectonic setting. Geol. Soc. Am. Spec.                from NE Arabian Sea. Mar. Pet. Geol. 59:406–428.
+   Pap. 291:135–155.                                                     Misra, P. C.; Singh, N. P.; Sharma, D. C.; Upadhyay, H.;
+Lezzar, K. E.; Tiercelin, J. J.; Le Turdu, C.; Cohen, A. S.;               Kakroo, A. K.; and Saini, M. L. 1993. Lithostratigraphy of
+   Reynolds, D. J.; Le Gall, B.; and Scholz, C. A. 2002.                   west Rajasthan basins. Oil and Natural Gas Commis-
+   Control of normal fault interaction on the distribution                 sion report. Dehradun, Keshava Deva Malaviya Insti-
+   of major Neogene sedimentary depocentres, Lake                          tute of Petroleum Exploration.
+   Tanganyika, East African rift. Am. Assoc. Pet. Geol.                  Morley, C. K. 1995. Developments in the structural geology
+   Bull. 86:1027–1059.                                                     of rifts over the last decade and their implications on
+Lobo, M.; Kolay, J.; Sinha, P.; Varghese, R.; Lang, C.; Kant,              hydrocarbon exploration. In Lambiase, J. J., ed. Hydro-
+   R.; Doodraj, S.; et al. 2015. Managing multidimensional                 carbon habitat in rift basins. Geol. Soc. Lond. Spec. Publ.
+   constraints to drill ERD wells in Rajasthan with high                   80:1–32.
+   directional difﬁculty index (DDI). Oil & Gas India Con-               ———. 1999. How successful are analogue models in ad-
+   ference and Exhibition. Mumbai, Society of Petroleum                    dressing the inﬂuence of pre-existing fabrics on rift
+   Engineers. Accessed December 12, 2016. doi:10.2118                      structure? J. Struct. Geol. 21:1267–1274.
+   /178073-MS.                                                           ———. 2002. Evolution of large normal faults: evidence
+Luhr, J. F.; Nelson, S. A.; Allan, J. F.; and Carmichael, I. S.            from seismic reﬂection data. Am. Assoc. Pet. Geol. Bull.
+   1985. Active rifting in southwestern Mexico: manifes-                   86:961–978.
+   tations of an incipient eastward spreading-ridge jump.                Morley, C. K.; Gabdi, S.; and Seusutthiya, K. 2007. Fault
+   Geology 13:54–57.                                                       superimposition and linkage resulting from stress
+Martino, R. D.; Guereschi, A. B.; and Montero, A. C. 2016.                 changes during rifting: examples from 3D seismic data,
+   Reactivation, inversion and basement faulting and thrust-               Phitsanulok Basin, Thailand. J. Struct. Geol. 29:646–663.
+   ing in the Sierras Pampeanas of Córdoba (Argentina)                   Morley, C. K.; Haranya, C.; Phoosongsee, W.; Pongwappe,
+   during Andean ﬂat-slab deformation. Geol. Mag. 153(5–                   S.; Kornsawan, A.; and Wonganan, N. 2004. Activation
+   6):962–991.                                                             of rift oblique and rift parallel pre-existing fabrics during
+Mathur, S. C. 2003. Sedimentation in Barmer Basin,                         extension and their effect on deformation style: exam-
+   Rajasthan. J. Geol. Soc. India 61:368–369.                              ples from the rifts of Thailand. J. Struct. Geol. 26:1803–
+Mathur, S. C.; Gaur, S. D.; Loyal, R. S.; Tripathi, A.; and                1829.
+   Sisodia, M. S. 2005. Spherules from the Late Creta-                   Morley, C. K.; Nelson, R. A.; Patton, T. L.; and Munn, S. G.
+   ceous phosphorite of the Fatehgarh Formation, Barmer                    1990. Transfer zones in the East African rift system and
+   Basin, India. Gondwana Res. 8:579–584.                                  their relevance to hydrocarbon exploration in rifts. Am.
+McClay, K., and Bonora, M. 2001. Analog models of re-                      Assoc. Pet. Geol. Bull. 74:1234–1253.
+   straining stepovers in strike-slip fault systems. Am. Assoc.          Morley, C. K., and Nixon, C. 2016. Topological char-
+   Pet. Geol. Bull. 85:233–260.                                            acteristics of simple and complex normal fault net-
+McClay, K. R. 1990. Extensional fault systems in sedi-                     works. J. Struct. Geol. 84:68–84.
+   mentary basins: a review of analogue model studies.                   Mukherjee, S. 2011. Flanking microstructures from the Zan-
+   Mar. Pet. Geol. 7:206–233.                                              skar Shear Zone, NW Indian Himalaya. YES Bull. 1:21–29.
+McKenzie, D. P. 1969. The relation between fault                         ———. 2012. Tectonic implications and morphology of
+   plane solutions for earthquakes and the directions of                   trapezoidal mica grains from the Sutlej section of the
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+Journal of Geology       BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  589
+
+
+  Higher Himalayan Shear Zone, Indian Himalaya. J.                          the western margin of India since late Cretaceous. J.
+  Geol. 120:575–590.                                                        Geodyn. 30:439–459.
+———. 2013a. Channel ﬂow extrusion model to constrain                     Pandit, M. K.; Shekhawat, L. S.; Ferreira, V. P.; Sial, A. N.;
+  dynamic viscosity and Prandtl number of the Higher                        and Bohra, S. K. 1999. Trondhjemite and granodiorite
+  Himalayan Shear Zone. Int. J. Earth Sci. 102:1811–1835.                   assemblage from west of Barmer: probable basement
+———. 2013b. Deformation microstructures in rocks.                           from Malani magmatism in western India. J. Geol. Soc.
+  Berlin, Springer, 111 p.                                                  India 53:89–96.
+———. 2013c. Higher Himalaya in the Bhagirathi section                    Peacock, D. C. P., and Sanderson, D. J. 1991. Displace-
+  (NW Himalaya, India): its structures, backthrusts and                     ments, segment linkage and relay ramps in normal fault
+  extrusion mechanism by both channel ﬂow and criti-                        zones. J. Struct. Geol. 13:721–733.
+  cal taper mechanisms. Int. J. Earth Sci. 102:1851–1870.                Rajendran, K.; Talwani, P.; and Gupta, H. K. 1992. State of
+———. 2014. Review of ﬂanking structures in meso- and                        stress in the Indian sub-continent: a review. Curr. Sci.
+  micro-scales. Geol. Mag. 151:957–974.                                     62:86–93.
+———. 2015a. A review on out-of-sequence deformation                      Rao, G. V. S. P.; Singh, S. B.; and Lakshmi, K. J. P. 2003.
+  in the Himalaya. In Mukherjee, S.; Carosi, R.; van der                    Palaeomagnetic dating of Saankra dyke swarm in the
+  Beek, P.; Mukherjee, B. K.; and Robinson, D., eds.                        Malani Igneous Suite, western Rajasthan, India. Curr.
+  Tectonics of the Himalaya. Geol. Soc. Lond. Spec.                         Sci. 85:1486–1492.
+  Publ. 412:67–109.                                                      Raval, U., and Veeraswamy, K. 2000. The radial and linear
+———. 2015b. Atlas of structural geology. Amsterdam,                         modes of interaction between mantle plume and con-
+  Elsevier.                                                                 tinental lithosphere: a case study from western India.
+Mukherjee, S.; Carosi, R.; van der Beek, P. A.; Mukherjee,                  J. Geol. Soc. India 56:525–536.
+  B. K.; and Robinson, D. M. 2015. Tectonics of the Hi-                  Reeves, C. V. 2013. The global tectonics of the Indian
+  malaya: an introduction. In Mukherjee, S.; Carosi, R.;                    Ocean and its relevance to India’s western margin. J.
+  van der Beek, P.; Mukherjee, B. K.; and Robinson, D.,                     Geophys. 34:87–94.
+  eds. Tectonics of the Himalaya. Geol. Soc. Lond. Spec.                 Richard, P., and Krantz, R. W. 1991. Experiments on fault
+  Publ. 412:1–3.                                                            reactivation in strike-slip mode. Tectonophysics 188:
+Mukherjee, S., and Koyi, H. A. 2009. Flanking micro-                        117–131.
+  structures. Geol. Mag. 146:517–526.                                    Ricketts, J. W.; Karlstrom, K. E.; and Kelley, S. A. 2015. Em-
+———. 2010a. Higher Himalayan Shear Zone, Sutlej                             bryonic core complexes in narrow continental rifts: the
+  Section: structural geology and extrusion mechanism                       importance of low-angle normal faults in the Rio Grande
+  by various combinations of simple shear, pure shear                       rift of central New Mexico. Geosphere 11:425–444.
+  and channel ﬂow in shifting modes. Int. J. Earth Sci.                  Ring, U.; Betzler, C.; and Delvaux, D. 1992. Normal vs.
+  99:1267–1303.                                                             strike-slip faulting during rift development in East
+———. 2010b. Higher Himalayan Shear Zone, Zanskar                            Africa: the Malawi rift. Geology 20:1015–1018.
+  Indian Himalaya: microstructural studies and extru-                    Robertson, E. A. M.; Biggs, J.; Cashman, K. V.; Floyd,
+  sion mechanism by a combination of simple shear and                       M. A.; and Vye-Brown, C. 2016. Inﬂuence of re-
+  channel ﬂow. Int. J. Earth Sci. 99:1083–1110.                             gional tectonics and pre-existing structures on the
+Mukherjee, S.; Mukherjee, B.; and Thiede, R. 2013. Geo-                     formation of elliptical calderas in the Kenyan Rift.
+  sciences of the Himalaya-Karakoram-Tibet Orogen. Int.                     In Wright, T. J.; Ayele, A.; Ferguson, D. J.; Kidane,
+  J. Earth Sci. 102:1757–1758.                                              T.; and Vye-Brown, C., eds. Magmatic rifting and active
+Naylor, M. A.; Mandl, G.; and Sijpesteijn, C. H. K. 1986. Fault             volcanism. Geol. Soc. Lond. Spec. Publ. 420:43–67.
+  geometries in basement-induced wrench faulting under                   Roche, V., and van der Baan, M. 2017. Modeling of the in
+  different initial stress states. J. Struct. Geol. 8:737–752.              situ state of stress in elastic layered rock subject to
+Nemčok, M. 2016. Rift and passive margins. New York,                        stress and strain-driven tectonic forces. Solid Earth
+  Cambridge University Press.                                               8:479–498. doi:10.5194/se-8-479-2017.
+Nemčok, M.; Henk, A.; Allen, R.; Sikora, P. J.; and Stuart,              Roy, A. B. 2003. Geological and geophysical manifes-
+  C. 2012. Continental break-up along strike-slip fault                     tations of the Réunion Plume–Indian lithosphere in-
+  zones; observations from the equatorial Atlantic. In                      teractions—evidence from northwest India. Gondwana
+  Mohriak, W. U.; Danforth, A.; Post, P. J.; Brown, D. E.;                  Res. 6:487–500.
+  Tari, G. C.; Nemčok, M.; and Sinha, S. T., eds. Con-                   ———. 2006. Seismicity in the Peninsular Indian Shield:
+  jugate divergent margins. Geol. Soc. Lond. Spec. Publ.                    some geological considerations. Curr. Sci. 91:456–463.
+  369:537–556.                                                           Roy, A. B., and Jakhar, S. R. 2002. Geology of Rajasthan
+Pandey, D. K., and Bhadu, B. 2010. Inter-basinal correla-                   (northwest India): Precambrian to recent. Jodhpur,
+  tion of Paleogene sediments of Jaisalmer and Barmer                       Scientiﬁc, 421 p.
+  Basins, western India: an approach by sequence stra-                   Ruppel, C. 1995. Extensional processes in continental
+  tigraphy. Biennial International Conference and Ex-                       lithosphere. J. Geophys. Res. Solid Earth 100:24,187–
+  hibition on Petroleum Geophysics, 8th. Hyderabad,                         24,215.
+  Society of Petroleum Geophysicists.                                    Sanderson, D. J., and Nixon, C. W. 2015. The use of to-
+Pandey, O. P., and Agrawal, P. K. 2000. Thermal regime,                     pology in fracture network characterisation. J. Struct.
+  hydrocarbon maturation and geodynamic events along                        Geol. 72:55–66.
+
+
+
+
+                                      This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                      All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+590                                       S. DASGUPTA AND S. MUKHERJEE
+
+
+Schlische, R. W. 1995. Geometry and origin of fault-                     Taylor, R. 2009. Ore textures: recognition and inter-
+   related folds in extensional settings. Am. Assoc. Pet.                   pretation. Dordrecht, Springer, 288 p.
+   Geol. Bull. 79:1661–1678.                                             Torsvik, T. H.; Amundsen, H.; Hartz, E. H.; Corfu, F.;
+Sen, A.; Pande, K.; Hegner, E.; Sharma, K. K.; Dayal, A. M.;                Kusznir, N.; Gaina, C.; Doubrovine, P. V.; Steinberger,
+   Sheth, H. C.; and Mistry, H. 2012. Deccan volcanism                      B.; Ashwal, L. D.; and Jamtveit, B. 2013. A Precambrian
+   in Rajasthan: 40Ar-39Ar geochronology and geochem-                       microcontinent in the Indian Ocean. Nat. Geosci.
+   istry of the Tavidar volcanic suite. J. Asian Earth Sci.                 6:223–227.
+   59:127–140.                                                           Torsvik, T. H.; Carter, L. M.; Ashwal, L. D.; Bhushan, S. K.;
+Sharma, K. K. 2005. Malani magmatism: an extensional lith-                  Pandit, M. K.; and Jamtveit, B. 2001. Rodinia redeﬁned
+   ospheric tectonic origin. In Foulger, G. R.; Natland, J. H.;             or obscured: palaeomagnetism of the Malani Igneous
+   Presnall, D. C.; and Anderson, D. L., eds. Plates, plumes,               Suite (NW India). Precambrian Res. 108:319–333.
+   and paradigms. Geol. Soc. Am. Spec. Pap. 388:463–476.                 Valdiya, K. S. 2010. The making of India: geodynamic
+———. 2007. K-T magmatism and basin tectonism in                             evolution. Delhi, MacMillan.
+   western Rajasthan, India: results from extensional tec-               van Hinsbergen, D. J. J.; Lippert, P. C.; Dupont-Nivet, G.;
+   tonics and not from Reunion plume activity. In Foulger,                  McQuarrie, N.; Doubrovine, P. V.; Spakman, W.; and
+   G. R., and Jurdy, D. M., eds. Plates, plumes, and plane-                 Torsvik, T. H. 2012. Greater India Basin hypothesis and
+   tary processes. Geol. Soc. Am. Spec. Pap. 430:775–784.                   a two-stage Cenozoic collision between India and Asia.
+Shelton, J. W. 1984. Listric normal faults: an illustrated                  Proc. Natl. Acad. Sci. USA 109:7659–7664.
+   summary. Am. Assoc. Pet. Geol. Bull. 68:801–815.                      van Wijk, J. W. 2005. Role of weak zone orientation
+Sheth, H. C. 2007. Plume-related regional prevolcanic                       in continental lithosphere extension. Geophys. Res.
+   uplift in the Deccan Traps: absence of evidence, evi-                    Lett. 32:L02303. doi:10.1029/2004GL022192.
+   dence of absence. In Foulger, G. R., and Jurdy, D. M.,                Vijayan, A.; Sheth, H.; and Sharma, K. K. 2015. Tectonic
+   eds. Plates, plumes, and planetary processes. Geol. Soc.                 signiﬁcance of dykes in the Sarnu-Dandali alkaline
+   Am. Spec. Pap. 430:785–813.                                              complex, Rajasthan, northwestern Deccan Traps. Geo-
+Shiju, J.; Bowyer, G.; and Micenko, M. 2008. Mangala                        sci. Front. 7:783–791.
+   Field high density 3D seismic. Biennial International                 Watts, A. B. 2001. Isostasy and the origin of geological
+   Conference and Exhibition on Petroleum Geophysics,                       features in the continents and oceans. In Isostasy and
+   7th. Hyderabad, Society of Petroleum Geophysicists.                      ﬂexure of the lithosphere. New York, Cambridge Uni-
+   https://www.spgindia.org/2008/607.pdf.                                   versity Press, p. 285–300.
+Sibson, R. H.; Robert, F.; and Poulsen, K. H. 1988. High-                Wdowinski, S., and Axen, G. J. 1992. Isostatic rebound due
+   angle reverse faults, ﬂuid-pressure cycling, and meso-                   to tectonic denudation: a viscous ﬂow model of a layered
+   thermal gold-quartz deposits. Geology 16:551–555.                        lithosphere. Tectonics 11:303–315.
+Singh, A. K., and Tewari, P. K. 2011. Infracambrian hydro-               Weissel, J. K., and Karner, G. D. 1989. Flexural uplift of rift
+   carbon systems and emerging hydrocarbon potential in                     ﬂanks due to mechanical unloading of the lithosphere
+   Bikaner-Nagaur and Jaisalmer basins (Miajlar subbasin),                  during extension. J. Geophys. Res. Solid Earth 94:13,
+   Rajasthan, India. Geo India: South Asian Geoscience                      919–13,950.
+   Conference and Exhibition, 2nd (Greater Noida, New                    Whitney, D. L.; Teyssier, C.; Rey, P.; and Buck, W. R. 2013.
+   Delhi, India, 2011). Search Discov. 2011:10324. http://                  Continental and oceanic core complexes. Geol. Soc.
+   www.searchanddiscovery.com/pdfz/documents/2011                           Am. Bull. 125:273–298.
+   /10324singh/ndx_singh.pdf.html.                                       Withjack, M. O., and Jamison, W. R. 1986. Deformation
+Sinha-Roy, S.; Malhotra, G.; and Mohanty, M. 2013. Ge-                      produced by oblique rifting. Tectonophysics 126:99–
+   ology of Rajasthan. Bangalore, Geol. Soc. India, 273 p.                  124.
+Sisodia, M. S. 2011. Malani rhyolite: highly eroded complex              Withjack, M. O.; Olsen, P. E.; and Schlische, R. W. 1995.
+   crater. Curr. Sci. 101:946–951.                                          Tectonic evolution of the Fundy rift basin, Canada: ev-
+Sisodia, M. S., and Singh, U. K. 2000. Depositional envi-                   idence of extension and shortening during passive mar-
+   ronment and hydrocarbon prospects of the Barmer Ba-                      gin development. Tectonics 14:390–405.
+   sin, Rajasthan, India. Nafta (Zagreb) 51:309–326.                     Withjack, M. O.; Schlische, R. W.; and Olsen, P. E. 1998.
+Sisodia, M. S.; Singh, U. K.; Lashkari, G.; Shukla, P. N.;                  Diachronous rifting, drifting, and inversion on the pas-
+   Shukla, A. D.; and Bhandari, N. 2005. Mineralogy and                     sive margin of central eastern North America: an analog
+   trace element chemistry of the siliceous earth of Barmer                 for other passive margins. Am. Assoc. Pet. Geol. Bull.
+   Basin, Rajasthan: evidence for a volcanic origin. J. Earth               82:817–835.
+   Syst. Sci. 114:111–124.                                               ———. 2002. Rift-basin structure and its inﬂuence on
+Storey, M.; Mahoney, J. J.; Saunders, A. D.; Duncan, R. A.;                 sedimentary systems. In Renaut, R. W., and Ashley,
+   Kelley, S. P.; and Cofﬁn, M. F. 1995. Timing of hot-spot                 G. M., eds. Sedimentation of continental rifts. SEPM
+   related volcanism and the breakup of Madagascar and                      Spec. Publ. 73:57–81.
+   India. Science 267:852–855.                                           Wright, T. J.; Ayele, A.; Ferguson, D.; Kidane, T.; and
+Swanson, M. T. 1986. Preexisting fault control for Meso-                    Vye-Brown, C. 2016. Magmatic rifting and active vol-
+   zoic basin formation in eastern North America. Geology                   canism: introduction. In Wright, T. J.; Ayele, A.;
+   14:419–422.                                                              Ferguson, D. J.; Kidane, T.; and Vye-Brown, C., eds.
+
+
+
+
+                                     This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+                     All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+                  Journal of Geology      BRITTLE SHEAR TECTONICS IN A CONTINENTAL RIFT                                                                  591
+
+
+                     Magmatic rifting and active volcanism. Geol. Soc.                       under non-Andersonian stress systems. J. Struct. Geol.
+                     Lond. Spec. Publ. 420:1–9.                                              14:237–24?.
+                  Yin, A., and Taylor, M. H. 2008. Non-Andersonian conju-                 Zalohar, J., and Vrabec, M. 2007. Paleostress analysis of
+                     gate strike-slip faults: observations, theory, and tec-                 heterogeneous fault-slip data; the Gauss method. J.
+                     tonic implications. IOP Conf. Ser. Earth Environ. Sci.                  Struct. Geol. 29:1798–1810.
+                     2:012026. doi:10.1088/1755-1307/2/1/012026.                          Ziegler, P. A., and Cloetingh, S. 2004. Dynamic processes
+                  Yin, Z. M., and Ranalli, G. 1992. Critical stress difference,              controlling evolution of rifted basins. Earth-Sci. Rev. 64:
+                     fault orientation and slip direction in anisotropic rocks               1–50.
+
+
+
+
+                                                       This content downloaded from 128.036.007.191 on August 26, 2017 04:44:25 AM
+View publication stats                 All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+

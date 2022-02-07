@@ -1,0 +1,780 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/328671624
+
+
+
+Application of horizontal wells in three-dimensional shale reservoir
+modeling: A case study of Longmaxi–Wufeng shale in Fuling gas ﬁeld,
+Sichuan Basin
+
+Article in AAPG Bulletin · November 2018
+DOI: 10.1306/05111817144
+
+
+
+CITATIONS                                                                                           READS
+
+4                                                                                                   176
+
+5 authors, including:
+
+            Guochang Wang                                                                                      Cheng Huang
+            Saint Francis University                                                                           Ravensbourne College of Design and Communication
+            45 PUBLICATIONS 630 CITATIONS                                                                      231 PUBLICATIONS 5,616 CITATIONS
+
+               SEE PROFILE                                                                                        SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+             Non onroad vehicle View project
+
+
+
+             dissertation View project
+
+
+
+
+ All content following this page was uploaded by Guochang Wang on 07 November 2018.
+
+ The user has requested enhancement of the downloaded file.
+Application of horizontal wells                                                                                 AUTHORS
+
+in three-dimensional shale                                                                                      Guochang Wang ~ School of Science,
+                                                                                                                Saint Francis University, 117 Evergreen
+                                                                                                                Drive, Loretto, Pennsylvania 15940;
+reservoir modeling: A case study                                                                                gwang@francis.edu
+
+of Longmaxi–Wufeng shale in                                                                                     Guochang Wang is currently an assistant
+                                                                                                                professor at Saint Francis University. He
+
+Fuling gas ﬁeld, Sichuan Basin
+                                                                                                                received his Ph.D. in geology from West
+                                                                                                                Virginia University in 2012. Then, as
+                                                                                                                a postdoctoral fellow, he worked at the
+Guochang Wang, Shengxiang Long, Yiwen Ju,                                                                       University of Chinese Academy of Sciences
+Cheng Huang, and Yongmin Peng                                                                                   in Beijing. Recent interests include shale
+                                                                                                                lithofacies modeling, organic matter–hosted
+                                                                                                                pore characterization, logging analysis, and
+                                                                                                                seismic interpretation.
+ABSTRACT                                                                                                        Shengxiang Long ~ State Key Laboratory
+Three-dimensional reservoir modeling is an important aspect to                                                  of Shale Oil and Gas Enrichment Mechanisms
+determine the heterogeneity of organic-rich shale reservoirs, an                                                and Effective Development, No. 31 Xueyuan
+area of study that continues to be explored and reﬁned. A large                                                 Road, Beijing 100083, China; lsx.syky@
+                                                                                                                sinopec.com
+proportion of data acquired from horizontal wells causes issues
+in the structural and property modeling for shale reservoirs. Since                                             Shengxiang Long obtained his Ph.D. in
+horizontal wells are designed to drill into a speciﬁc, narrow zone,                                             petroleum geology and exploration from China
+                                                                                                                University of Geoscience, Beijing, in 1996. He is
+their horizontal section tends to parallel or nearly parallel for-
+                                                                                                                currently a professor and chief scientist at the
+mation surfaces. As a result, formation surfaces have a much more                                               Petroleum Exploration & Production Research
+complex spatial location relationship with horizontal wellbores                                                 Institute, Sinopec. He is working on exploration
+than with vertical wellbores. The existing algorithms are not good                                              and production of unconventional oil and gas,
+at addressing this issue during structural modeling. The major                                                  especially shale gas and coalbed methane. He
+problem of using horizontal well data in property modeling is the                                               has published over 60 papers and 5 books.
+biased data set because their horizontal section tends to stay within                                           Yiwen Ju ~ School of Earth Science,
+a narrow zone. The property distribution feature estimated from                                                 University of Chinese Academy of Sciences,
+this biased data set, as a signiﬁcant, default input of geostatistical                                          No. 19A Yuquan Road, Beijing 100049 China;
+simulation algorithms, causes the constructed property models                                                   Key Laboratory of Computational
+to deviate away from the real case in the subsurface. A method to                                               Geodynamics, Chinese Academy of Sciences,
+infer more formation tops in pseudovertical wells according to a                                                No. 19A Yuquan Road, Beijing 10049 China;
+series of assumptions was developed to provide more constraint                                                  juyw03@163.com
+points for structural modeling within the areas of the horizontal                                               Yiwen Ju is a professor of geology at the
+well section. To use the biased database from horizontal wells,                                                 University of Chinese Academy of Sciences. He
+distribution function and trend model methods were developed                                                    obtained his Ph.D. at China University of Mining
+                                                                                                                and Technology in 2003. Currently, he serves as
+for continuous property modeling, and percentage and probability
+                                                                                                                the director of the Nanogeology Specialized
+trend models were developed for discrete property modeling. The
+                                                                                                                Committee of the Geological Society of China.
+                                                                                                                His main interests include structural geology,
+                                                                                                                energy basin geology, unconventional energy
+                                                                                                                geology, coal geology, and nanogeology.
+Copyright ©2018. The American Association of Petroleum Geologists. All rights reserved.
+Manuscript received March 8, 2017; provisional acceptance April 19, 2017; revised manuscript received June 1,   Cheng Huang ~ School of Earth Science,
+2017; revised manuscript provisional acceptance July 19, 2017; 2nd revised manuscript received August 11,       University of Chinese Academy of Sciences,
+2017; 2nd revised manuscript provisional acceptance November 14, 2017; 3rd revised manuscript received          No. 19A Yuquan Road, Beijing 100049 China;
+November 16, 2017; 3rd revised manuscript provisional acceptance January 10, 2018; 4th revised manuscript       Key Laboratory of Computational
+received January 15, 2018; ﬁnal acceptance May 11, 2018.
+DOI:10.1306/05111817144
+
+
+AAPG Bulletin, v. 102, no. 11 (November 2018), pp. 2333–2354                            2333
+  Geodynamics, Chinese Academy of Sciences,            Longmaxi–Wufeng shale in the Fuling gas ﬁeld of Sichuan Basin
+  No. 19A Yuquan Road, Beijing 10049 China;            was used as an example to express and verify these methods.
+  huangcheng150@126.com
+  Cheng Huang is currently studying for
+  a doctoral degree of structural geology in
+                                                       INTRODUCTION
+  a group at the University of Chinese Academy of
+  Sciences in Beijing. His recent interests            Reservoir characterization has a long history in oil and gas ex-
+  include reservoir assessment and structural
+                                                       ploration and production (Deutsch, 2002), and considerable
+  deformation characteristics analysis of shale
+  gas reservoirs.                                      progress has been made in the last decade, such as stratigraphic
+                                                       forward modeling (Bosence and Waltham, 1990; Burgess et al.,
+  Yongmin Peng ~ State Key Laboratory of               2006; Yin et al., 2016). Shale oil and gas reservoir characterization
+  Shale Oil and Gas Enrichment Mechanisms              is a relatively new practice. The boom of the modern shale gas
+  and Effective Development, No. 31
+                                                       industry in which gas can only be produced commercially using
+  Xueyuan Road, Beijing 100083, China;
+  pengyongmin2005@qq.com
+                                                       horizontal wells and hydraulic fracturing has happened during
+                                                       the last two decades. Before this, limited research was conducted
+  Yongmin Peng received hisPh.D. from Chengdu
+                                                       concerning these ﬁne-grained, seemingly homogeneous rocks
+  University of Technology in 1999. His recent
+  interests are in the study of sedimentology,         (Wang and Carr, 2012). Moreover, the properties for estimating
+  petroleum geology, and shale gas.                    shale reservoir quality are distinct from conventional reservoirs
+                                                       (Kundert and Mullen, 2009; Sondergeld et al., 2010). Organic
+                                                       matter richness, shale mechanical property, pore structure, and
+  ACKNOWLEDGMENTS
+                                                       natural fractures are the critical properties for shale reservoirs
+  This study has been supported by the                 (Bowker, 2007; Loucks et al., 2009; King, 2010; Passey et al.,
+  Foundation of State Key Laboratory of Shale          2010; Curtis et al., 2011, 2012; Wang and Carr, 2012; Milliken
+  Oil and Gas Enrichment Mechanisms Effective          et al., 2013; Löhr et al., 2015; Ko et al., 2016), whereas porosity,
+  Development (GSYKY-B09-33), which
+                                                       permeability, and water saturation are the more important prop-
+  provided both funding and data for this study.
+  AAPG Editor Barry J. Katz provided thoughtful
+                                                       erties for conventional reservoirs. In addition, the available data for
+  comments that improved the clarity of this           shale reservoir characterization are also different from conven-
+  paper.                                               tional reservoirs. In shale reservoir characterization, not only are
+                                                       new types of data (e.g., x-ray diffraction data, total organic carbon
+                                                       [TOC], Young’s modulus, and Poisson’s ratio) used, but also large
+                                                       volumes of data come from horizontal wells (Figure 1). This paper
+                                                       focuses on the discussion of the application of horizontal well data
+                                                       in shale reservoir characterization and three-dimensional (3-D)
+                                                       modeling.
+                                                            The features of a data set having a large proportion of hor-
+                                                       izontal wells are different from a data set that only has vertical
+                                                       wells, and consequently, the evaluation methods to use them
+                                                       should be modiﬁed. In the core area of shale oil and gas reservoirs,
+                                                       more and more horizontal wells have been drilled (Figure 1). For
+                                                       example, horizontal wells drilled in the last 6 yr account for more
+                                                       than 80% of wells drilled in major shale plays in Figure 1. This
+                                                       percentage is up to 95% in the Mississippian Fayetteville Shale
+                                                       in the Arkoma Basin (Arkansas) and Jurassic Haynesville Shale
+                                                       in Louisiana and Texas (Baker Hughes Inc., 2017). Horizontal
+                                                       drilling in shale oil and gas reservoirs will continue to pose new
+                                                       challenges for petroleum geologists and reservoir engineers.
+                                                       Therefore, it is necessary to study how to effectively use the data
+                                                       collected from or related to horizontal wells for shale reservoir
+                                                       characterization and modeling.
+
+2334           Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+                                                                    pyrolysis, wire-line logs, well surface location, and
+                                                                    trajectory in nine wells (Table 1). These data are
+                                                                    signiﬁcant for evaluating the quality of a shale res-
+                                                                    ervoir and for constructing its 3-D structural and
+                                                                    property model. In addition, formation surfaces, such
+                                                                    as Longmaxi Long1 top, Wufeng top, Jiancaogou
+                                                                    top, and Jiancaogou base, were picked on the basis
+                                                                    of wire-line logs and drilling information (Figure 3).
+                                                                    Within the Longmaxi Long1 member, several sur-
+Figure 1. The proportion of horizontal, vertical, and directional   faces (e.g., Long11 and Long12) were picked to pro-
+wells drilled in the last 6 yr (January 2011 through December       vide more stratigraphic control for 3-D structural
+2016) in six shale plays in the United States (Baker Hughes Inc.,   modeling (Figure 3). In addition, one structure con-
+2017). PtPl = Point Pleasant.                                       tour map of the Wufeng base was interpreted from
+                                                                    the 3-D seismic cube aided by wire-line logs (Figure 2)
+    In this research, we examined the ﬁrst com-
+                                                                    and was used for the 3-D structural modeling.
+mercial shale gas play in China, the Fuling gas ﬁeld, to
+discuss the 3-D modeling of shale reservoirs on the
+basis of data primarily from horizontal wells. First, we
+discuss the effects of data from horizontal wells on                STRUCTURAL MODELING BY HORIZONTAL
+structural and property modeling. Then, methods are                 WELL DATA
+developed to solve the issues raised in both. Finally,
+                                                                    Construction of the structural model is the ﬁrst step
+we estimate the effectiveness of these methods.
+                                                                    of 3-D reservoir modeling, providing the frame and
+                                                                    cells for subsequent property modeling (Deutsch,
+GEOLOGICAL SETTING AND DATA SET                                     2002). Multiple key formation surfaces are constructed
+                                                                    within the structural model on the basis of forma-
+Our study area is located in the northern Fuling gas                tion top data and structural maps (including contour
+ﬁeld of the Sichuan Basin, China (Figure 2). It was                 lines and faults). It is common to have one or more
+operated by Sinopec Corporation, and the ﬁrst shale                 structure maps made from various data, such as
+gas well JY1HF was drilled in 2012 (Guo and Liu,                    two-dimensional (2-D) or 3-D seismic, well logs,
+2013). According to the production data of Sinopec,                 and drilling data. For example, in the Fuling gas
+the cumulative gas production to June 2017 reached                  ﬁeld, a structure map of Jiancaogou top (Wufeng
+approximately 1.18 · 1010 m3 (~416.71 bcf).                         base) made from seismic and well data was available
+Structurally, the Fuling gas ﬁeld was discovered in                 (Figure 2). The formation top data become much
+one of the fault blocks of the Baoluan–Jiaoshibao                   more complex, and it is more challenging to construct
+anticline (Wei et al., 2016). It is bounded by multiple             a structural model if the data are derived largely from
+deep and steep faults in both the northeastern and                  horizontal wells. The main reason is that horizontal
+northwestern directions, and the structure of the                   wells have a much more complex spatial position
+core area of this ﬁeld was gentle with a dip angle of               relationship with formation surfaces. Vertical wells are
+approximately 2° (Figure 2) (Guo and Liu, 2013;                     commonly perpendicular or close to perpendicular to
+Wang, 2015). The shale gas was primarily produced                   the formation surfaces, whereas horizontal wells try
+from the lower part of the lower Silurian Longmaxi                  to follow the target zone in their horizontal section
+shale (Long1 Member) and Upper Ordovician                           (Figure 4). Thus, the horizontal section of these wells
+Wufeng shale (Figure 3) (Guo and Liu, 2013). The                    could be parallel or close to parallel to formation
+thickness of producing layers ranged from 70 to                     surfaces or intersect with a formation surface multiple
+160 m (230 to 525 ft). The upper part of Longmaxi                   times. One or several formation tops will repeat in
+shale (Long2 Member) lacks organic matter and serves                horizontal wells (e.g., Wufeng top in Figure 4). How
+as a sealing layer.                                                 to effectively use the formation top data in horizontal
+     The available data for this research included                  wells to reveal the spatial position relationship of
+mineralogy derived from x-ray diffraction, Rock-Eval                formation surfaces and horizontal wells is the key of
+
+                                                                                                     WANG ET AL.      2335
+Figure 2. Structural features of the Fuling gas ﬁeld in the eastern Sichuan Basin: (A) the location of Fuling gas ﬁeld with tectonic
+features of Sichuan Basin (modiﬁed from Meng et al., 2005) and (B) the structural map of Wufeng base (modiﬁed from Wang, 2015).
+BT = Bikou terrane; Elev. = elevation; EQTS = East Qinling thrust system; FTB = fold-thrust belt; HD = Hannan Dome.
+
+
+
+
+2336           Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+                                                                with approximately 11,000 ft (~3400 m) lateral, the
+                                                                average error of bottomhole location from 138 wells
+                                                                was 78 ft (~24 m) with a maximum error of 269 ft
+                                                                (~82 m). Therefore, the relative error had an average
+                                                                of 0.7% and a maximum value of 2.4%. Compared
+                                                                with the other errors during 3-D modeling, the errors
+                                                                in trajectory data are commonly insigniﬁcant. In ad-
+                                                                dition, there is commonly a lack of supplementary
+                                                                data to analyze the errors in trajectory during 3-D
+                                                                reservoir modeling. Thus, we assume there is no error
+                                                                in trajectory data.
+                                                                     Assumptions 2 and 3 together aid in determining
+                                                                formation thickness based on formation tops. With
+                                                                a different formation dip angle, the formation top
+                                                                data (location and elevation) could generate differ-
+                                                                ent value of the true thickness of the formation
+                                                                (Figure 5). In individual vertical wells, formation
+                                                                top data can only be used to determine apparent
+                                                                thickness of a formation (a2 in Figure 5A) and not
+                                                                the true thickness (a3 in Figure 5A). With a larger
+                                                                dip angle, the interpreted true thickness of for-
+                                                                mation becomes smaller. In the horizontal section of
+                                                                a well (Figure 5B), it becomes more complex to de-
+                                                                termine the true thickness of formation, which de-
+                                                                pends on formation top data, formation dip angle, and
+                                                                the trajectory data. Thus, the true thickness can be
+Figure 3. The gamma-ray logs and total organic carbon (TOC)     adjusted by changing formation surface dip angle
+data showing the location of the major formation tops in the    (Figure 5). In other words, no or slight change of
+Fuling gas ﬁeld.                                                formation thickness can be achieved by smoothly
+                                                                changing dip angle. This makes sense geologically
+structural modeling based on horizontal well data.              for shale formation but may not work for other types
+Assumptions are made to start this discussion.                  of formations (e.g., sandstone, which commonly has
+                                                                a large change in thickness).
+Assumptions
+                                                                Common Errors and Their Identiﬁcation
+Three assumptions were made for structural mod-
+eling using horizontal well data: (1) well trajectory           When using formation tops from only vertical wells,
+data are accurate, (2) formation thickness rarely               structural modeling primarily focuses on the areas
+changes within a small area covering a horizontal               among wells that lack controlling data. A good ex-
+well section, and (3) the dip angle of the formation            trapolation from well data is necessary to interpret or
+surface could vary smoothly over a large range within           predict the structural features among wells. For the
+a small area.                                                   cases having abundant formation tops from horizontal
+     Assumption 1 indicates no or only negligible errors        wells, however, it is equally important to study the
+in the trajectory data. In fact, errors always exist in these   areas close to their horizontal sections. Currently,
+data, causing a certain degree of uncertainty (Ekseth           most computer algorithms can assure that surface
+et al., 2006). DeVerse and Maus (2016) studied the              intersects within the wellbores are at the proper lo-
+effect of trajectory data errors on well locations in the       cation of formation tops (Figures 4, 6). The errors
+Upper Cretaceous Eagle Ford Shale in the Permian                commonly occur in the areas close to the horizontal
+Basin of Texas. They reported that for horizontal wells         wells but without formation tops. In some cases, the
+
+                                                                                                WANG ET AL.      2337
+Table 1. Summary of the Available Core Testing Data and Well Trajectory Data in the Fuling Gas Field, Sichuan Basin
+
+                                                                                          Wells
+Data Type                     JY1       JY1HF         JY1-2HF            JY1-3HF   JY1-4HF        JY8-3HF   JY9-1HF     JY12-2HF      JY12-4HF
+
+X-ray diffraction              X
+Rock-Eval pyrolysis            X
+Conventional log
+   Gamma ray                   X           X              X                X          X             X          X            X             X
+   U/Th/K                      X           X              X                X          X             X          X            X             X
+   Bulk density                X           X              X                X          X             X          X            X             X
+   Neutron porosity            X           X              X                X          X             X          X            X             X
+   Acoustic                    X           X              X                X          X             X          X            X             X
+   PE factor                   X           X              X                X          X             X          X            X             X
+   Deep resistivity            X                                                                               X                          X
+ECS                            X
+X-ray ﬂuorescence                                                          X                                                X
+Surface location               X           X              X                X          X             X          X            X             X
+Wellbore trajectory            X           X              X                X          X             X          X            X             X
+Abbreviations: ECS = element capture spectroscopy; PE = photoelectric.
+
+
+structure map(s) of key formations may be provided.                                is the best way to clearly check location and number of
+However, regardless of whether the seismic data are                                intersections. In the 3-D view, a pseudolog technique
+used or not, the provided formation structure map(s)                               could be used to (1) generate a pseudolog where each
+have a certain degree of uncertainty, especially in the                            formation has a special value, (2) show this pseudolog
+areas without formation top data from wells (e.g.,                                 along the wellbore in 3-D view where different values
+Jiancaogou top surface in Figure 1). Effectively using                             are displayed using different colors, and (3) examine
+the formation tops in both vertical and horizontal                                 the formation surface in the 3-D view to check its
+wells is key to the construction of a high-quality                                 relationship with horizontal wells. A 2-D map view
+structure map of formation surfaces for shale reser-                               is not very helpful for this checking.
+voirs. Because of the complex relationship between                                      The second error type (type II) is that the in-
+horizontal wells and formation surfaces, two com-                                  terpreted formation surface is too far from the well-
+mon types of errors could occur in areas close to                                  bore, resulting in remarkable thickness change of
+horizontal wells (Figure 6), which is hard to overcome                             formations above and below the surface (type II in
+using existing algorithms.                                                         Figure 6). In this case, there is no extra intersection with
+    The ﬁrst error type (type I) is that extra in-                                 the wellbore. Compared with errors of type I, type II
+tersections between the interpreted formation sur-                                 errors are more difﬁcult to establish because thickness
+face and horizontal wells are made because they                                    change either reﬂects the real geological condition or
+incorrectly intersect with each other at the location                              is caused by the incorrect interpretation of formation
+they should not. As shown in Figure 6, Wufeng top                                  tops. Assumption 2 was made to be a guide for dealing
+surface incorrectly intersects with wellbore JY12-4HF                              with thickness changes of shale formations. A remark-
+in the right side (type I). However, no Wufeng top                                 able thickness change (e.g., thickness increased or de-
+was indicated at the intersection points according to                              creased by >50%) is considered as an indicator of
+the well logs and drilling data. Therefore, it is inferred                         incorrectly interpreted formation surfaces, for example,
+that the Wufeng top surface is incorrect within this                               the surface of the top of Jiancaogou Formation in
+area because it intersects the wellbore at the wrong                               Figure 6. Again, a cross section through horizontal well
+location. This type of error can be avoided through a                              is the most effective way to check all the wells one by
+careful and thorough examination within all the wells.                             one (Figures 4, 6). In addition, an isopach map in 2-D
+A cross section along the horizontal wells (Figures 4, 6)                          view is helpful to quickly screen the entire study area.
+
+2338               Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 4. An example of complex spatial position relationship between formation surfaces and horizontal wells. The horizontal well JY 12-
+4HF has an angle of 0°–90° with formation surfaces and intersects formation surfaces Wufeng top and Jiancaogou top multiple times.
+
+
+Solution                                                               uncertainty of formation surfaces. This approach can
+                                                                       effectively avoid the two types of errors illustrated in
+We have developed a method to overcome the two                         Figure 6. In well JY12-4, for instance, we generated
+types of errors (Figure 7). First, use the well logs and               another seven data points for the Jiancaogou top
+drilling data to pick more formation tops (e.g., Long11                inferred from other formation tops, whereas only
+top, Long12 top, and Long13 top) whose surfaces may                    two data points of Jiancaogou top picked from well
+intersect the horizontal wells along their horizontal                  logs existed (Figure 7). Clearly, it becomes easier to
+sections; second, build pseudovertical wells (PVW)                     make the formation surfaces geologically acceptable
+that vertically cross through the horizontal well                      (Figures 4, 6, 7). Therefore, picking more formation
+section at formation tops (e.g., PVW12-4-1 in                          tops whose surfaces intersect with the horizontal
+Figure 7) or the middle of two adjacent formation                      well section can aid in improving the accuracy of the
+tops (e.g., PVW12-4-4 in Figure 7); third, infer for-                  constructed structural model, especially in the areas
+mation tops in the PVWs according to assumptions 2                     around horizontal wells (Figure 7).
+and 3; and fourth, construct formation surfaces ac-
+cording to the picked and inferred formation tops. To                  Uncertainty Analysis
+construct a PVW that intersects with a horizontal well
+section, take the location of the intersection point                   Of course, this method is not perfect. Assumptions 2
+(either a formation top or the middle of two for-                      and 3 can help to avoid the major errors in structural
+mation tops in the horizontal well section) as the                     modeling (Figure 6), but there is still a certain degree of
+surface location of the PVW and set the trajectory of                  uncertainty of formation surface distribution (Figure 8).
+the PVW as a vertical straight line (no change in X and                The uncertainty comes from how to interpret the for-
+Y directions). The picking of more formation tops                      mation thicknesses. Taking well JY8-3HF as an exam-
+in the real wells and inferring formation tops in the                  ple, thicknesses of formations Long12 and Long13 can
+PVWs provides more controlling points to reduce the                    be interpreted differently with different dip angles
+
+                                                                                                              WANG ET AL.         2339
+Figure 5. Relationships among formation tops, formation surface dip angle, and formation thickness (a1–a3; b1–b5) in (A) vertical wells
+and (B) horizontal wells.
+
+(Figure 8). In area C of the cross section along well JY8-             with little uncertainty. The Long12 top and Long13 top
+3, the Wufeng top and Jiancaogou top have three and                    do not have any data in area C and only have one data
+four data points, respectively. Therefore, it is possible              point in area B. Therefore, both of their dip angles and
+to assess their formation dip angles and formation                     thicknesses have relatively high uncertainty in area B.
+thicknesses with little uncertainty, causing potential                 With the thicknesses of Long12 and Long13 assessed in
+interpretations to be similar (Figure 8). According to                 area B, surfaces Long12 top and Long13 top in area C
+assumption 2, the other formation surfaces (Long11 top,                can be determined but with higher uncertainty than
+Long12 top, and Long13 top) should have similar dip                    formation surfaces Long11 top, Wufeng top, and
+angle to formation surfaces Wufeng top and Jiancaogou                  Jiancaogou top. In addition, in area B the formation dip
+top. The Long11 top also has three data points in this                 angles of Long11, Wufeng, and Jiancaogou also have
+area, so the thickness of Long11 can also be assessed                  relatively high uncertainty. In area A, which is far away
+
+
+
+
+Figure 6. An example of type I and type II errors that could commonly occur in structural modeling using horizontal well data. Type I
+errors are incorrect intersection points; type II errors are incorrect distance between horizontal well section and formation surface.
+
+2340           Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 7. The way to reduce the uncertainty of formation surfaces by picking more surfaces that intersect horizontal wells at their
+horizontal section.
+from any formation top data, the formation dip angle                JY8-3HF (Figure 8) and also has higher uncertainty
+and thickness are determined according to the for-                  than Long12 top within the area of well JY12-4HF
+mation top data in all the surrounding wells and the                (Figure 6).
+available structural contour maps. Thus, the uncertainty
+in area A is similar to the uncertainty of structural model
+constructed using only vertical wells. Commonly, more               PROPERTY MODELING BY HORIZONTAL
+formation top and surface data result in less uncertainty           WELL DATA
+of formation thicknesses and dip angles. For example,
+Long12 top within the area of well JY8-3HF has higher               Two signiﬁcant aspects of property modeling include
+uncertainty than Wufeng top within the area of well                 geostatistical data analysis and geostatistical simulation
+
+                                                                                                         WANG ET AL.        2341
+Figure 8. Uncertainty analysis of formation dip angle and thickness in cross section of well JY8-3HF.
+
+algorithms (Deutsch, 2002). Because of the distinct                    was used as an example of continuous properties to
+features of data from horizontal wells and vertical                    discuss the effect of horizontal wells on petrophysi-
+wells, several new issues appear in the shale reservoir                cal modeling. Methods have been developed to in-
+modeling when horizontal wells constitute the main                     terpret the TOC from gamma ray or uranium logs
+body of a data set.                                                    (Schmoker, 1981), density logs (Schmoker, 1979),
+     The properties of reservoirs can be divided into                  porosity and resistivity logs (Mendelson and
+two groups: continuous and discrete properties. As for                 Toksoz, 1985; Passey et al., 1990), and geochemical
+the shale reservoirs, the primary continuous properties                spectroscopy logs (Herron, 1987). In the Fuling gas
+include TOC, porosity, permeability, Young’s modu-                     ﬁeld, the core-measured TOC data in well JY1 were
+lus, and Poisson’s ratio, and the discrete properties                  used to estimate the performance of different wire-
+include sedimentary facies, lithology, and lithofacies.                line logs, including gamma-ray, bulk density, sonic,
+In this research, both petrophysical modeling (model-                  and neutron porosity logs, on predicting TOC, and
+ing of continuous properties) and facies modeling                      ﬁnally, the bulk density log was selected to build
+(modeling of discrete properties) were applied to                      a linear relationship with TOC.
+evaluate issues of property modeling, which uses                            In conventional reservoirs with only vertical
+data sets primarily from horizontal wells, resulting                   wells, the frequency distribution of a certain reservoir
+in the identiﬁcation of methods to address those                       property can be estimated by data from sufﬁcient
+issues.                                                                vertical wells and then be used as a default input
+                                                                       to construct its property model (Deutsch, 2002). In
+                                                                       shale reservoirs, horizontal wells have been drilled
+Petrophysical Modeling                                                 primarily to improve the shale oil and gas production
+                                                                       rate. Since the horizontal section of a horizontal well
+The TOC is one of the most important properties of                     is placed in the target zone with a small variation
+shale oil and gas reservoirs (Schmoker, 1981; Bowker,                  vertically (Figures 4, 7, 8), the horizontal well sec-
+2007; Wang and Carr, 2012, 2013a, b; Bhattacharya                      tion provides a large number of data points from
+et al., 2015; Shi et al., 2016). In this research, it                  this narrow zone. When the frequency distribution
+
+2342           Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 9. The histogram of the total organic carbon (TOC) of Longmaxi–Wufeng shale in Fuling gas ﬁeld.
+
+feature of a property is estimated using data primarily           represent the real case of TOC of Longmaxi–Wufeng
+from horizontal wells, a serious overestimation will              shale in the Fuling gas ﬁeld. To address this problem,
+happen for the property values from this vertically               we developed two methods. In one method, instead of
+narrow zone. Therefore, the frequency distribution                using the default frequency distribution function from
+generated by the data set from horizontal wells is                all vertical and horizontal wells, a frequency dis-
+biased by the zones penetrated by the horizontal                  tribution function is used that better represents the
+well section. Given that TOC from only vertical wells             real frequency distribution of the study area. Many
+represents its true frequency distribution (Figure 9),            ways exist to build this frequency distribution func-
+the percentage of shale with TOC of 2.6–3.8 wt. %                 tion. In this study, the frequency distribution of TOC
+was overestimated for the Longmaxi–Wufeng shale in                in vertical wells (Figure 9) was used to make the
+the Fuling gas ﬁeld, while the percentage of shale with           frequency distribution functions for the Longmaxi
+TOC of 1.6–2.2 wt. % was seriously underestimated.                shale Long1 member and Wufeng shale (Figure 11).
+Therefore, if the frequency distribution generated                This is an easy way to control the property frequency
+from all the horizontal and vertical wells is used as the         distribution in the 3-D model. The constructed TOC
+input by default, a large error cannot be avoided in              model is shown in Figure 10B, which had a similar
+the property model. This is the biggest difference                TOC distribution to that of the vertical wells. The
+between data sets from horizontal wells and vertical              second method is to use a 3-D trend model as
+wells.                                                            the input to geostatistical simulation algorithms
+     The TOC model shown in Figure 10A was an                     to control the property distribution in the 3-D
+example of a sequential Gaussian simulation algo-                 property model. The general process to build a
+rithm that used the frequency distribution data                   3-D trend model is to compile the input data that
+generated by the data set from all horizontal and                 represent the property distribution of the study
+vertical wells (Figure 9). This caused the frequency              area, generate the spatial distribution feature of
+distribution of the 3-D TOC model to be different                 the input data, and establish the deterministic
+from its real frequency distribution (Figure 9).                  simulation algorithm (e.g., kriging and cokriging).
+Therefore, the 3-D model cannot successfully                      In this research, a 3-D trend model of TOC was
+
+                                                                                                     WANG ET AL.   2343
+Figure 10. The three-dimensional total organic carbon (TOC) models constructed using different inputs for the sequential Gaussian
+simulation algorithm: (A) using the default input of histogram generated by all the horizontal and vertical wells, (B) using the distribution
+function generated by only vertical wells, and (C) using the trend model generated by only vertical wells. The histogram within the color bar
+represents the distribution of TOC. Unit for TOC is wt. %.
+
+
+2344            Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 11. The frequency distribution functions for total organic carbon (TOC) on the basis of data from vertical wells: (A) Longmaxi
+shale Long1 member and (B) Wufeng shale.
+
+constructed using the TOC data from only vertical                    Facies Modeling
+wells as the input for geostatistical analysis to deﬁne
+the variogram of TOC data and using kriging algo-                    The shale lithofacies deﬁned by mineral composition
+rithm to assign values to all the cells (Figure 12). The             and organic matter richness has been shown to be
+TOC model in Figure 10C was generated using the                      a successful method to characterize the heteroge-
+3-D trend model in Figure 12. The two 3-D TOC                        neity of a shale reservoir and to identify the pro-
+models by distribution function and trend model                      ductive zone of shale gas play (Jonk et al., 2012;
+methods are similar, and their frequency distri-                     Wang and Carr, 2012, 2013a, b; Bhattacharya et al.,
+bution features were close to the one generated                      2015). Deﬁnitions of shale lithofacies are strongly
+from vertical wells (Figures 9–11).                                  related to gas content and shale brittleness, which are
+
+                                                                                                           WANG ET AL.        2345
+Figure 12. The trend model constructed using only vertical wells for the total organic carbon (TOC) of the Longmaxi–Wufeng shale in
+Fuling gas ﬁeld. The histogram within the color bar represents the distribution of TOC. Unit for TOC is wt. %.
+
+the two key parameters of a shale gas reservoir                                       the biased percentage of discrete properties (e.g.,
+(Bowker, 2007; Wang and Carr, 2012). Because log                                      shale lithofacies). As shown in Table 3, the percentage
+responses are sensitive to mineral composition and                                    based on all the horizontal and vertical wells was
+TOC, shale lithofacies can be reliably predicted by                                   distinct from that based on only vertical wells. Since
+conventional logs, making its 3-D modeling possible                                   the percentage of discrete property is a signiﬁcant
+(Wang and Carr, 2012). This study used shale lith-                                    input of geostatistical simulation algorithms for fa-
+ofacies to study the effect of horizontal wells on facies                             cies modeling, the biased percentage will result in
+modeling. The sequence indicator simulation algo-                                     a clear deviation of the constructed discrete prop-
+rithm has been veriﬁed as an effective algorithm for                                  erty model from the real case (Figure 13A). Two
+shale lithofacies modeling (Wang and Carr, 2013a)                                     methods were developed to address this issue, which
+and was used in this study. Table 2 shows the criteria to                             are similar to the two methods of petrophysical
+deﬁne shale lithofacies of the Longmaxi–Wufeng shale                                  modeling. In the ﬁrst method, a real percentage of
+in the Fuling gas ﬁeld. A total of 10 shale lithofacies                               discrete property (e.g., shale lithofacies), which
+were recognized using hierarchical decomposition                                      can be evaluated from vertical wells, is used as the
+algorithm and neural network (Wang et al., 2015).                                     input of the geostatistical simulation algorithm for
+    Similar to the petrophysical modeling, one im-                                    facies modeling. For example, the shale lithofacies
+portant feature of the data set from horizontal wells is                              percentage from vertical wells (Table 3) was assumed
+
+Table 2. Comparison of Shale Lithofacies Percentage Generated from Vertical Wells and Horizontal Wells for the Longmaxi–Wufeng
+Shale, Fuling Gas Field
+
+                                                                                           Mineral Composition
+
+                                                                                                                   Clay £ 40%
+OM Richness                                       Clay > 40%                          RSC ‡ 3                     1/3 < RSC < 3       RSC £ 1/3
+
+TOC £ 1.5 wt. %                            Gray argillaceous shale             Gray siliceous shale           Gray mixed shale    Carbonate interlayer
+1.5 wt. % < TOC < 3.5 wt. %                Dark argillaceous shale             Dark siliceous shale           Dark mixed shale
+TOC ‡ 3.5 wt. %                            Black argillaceous shale            Black siliceous shale          Black mixed shale
+
+Abbreviations: OM = organic matter; RSC = ratio of siliceous to carbonate minerals; TOC = total organic carbon.
+
+
+2346               Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Table 3. Comparison of Shale Lithofacies Percentage Generated from Vertical Wells and Horizontal Wells for the Longmaxi–Wufeng
+Shale, Fuling Gas Field
+
+                                       Longmaxi Shale                                        Wufeng Shale
+
+                     Percentage Generated from   Percentage Generated    Percentage Generated from     Percentage Generated
+ Shale Lithofacies          Vertical Well            from All Wells             Vertical Well              from All Wells
+
+Gray argillaceous              40.19                     14.42                       2.33                           0.25
+ shale
+Gary mixed shale                1.27                      0.28                                                      0.07
+Gary siliceous                  0.14                      8.11                                                      1.12
+ shale
+Dark argillaceous              26.60                     18.05                       2.33                           4.42
+ shale
+Dark mixed shale                1.56                     27.03                                                     13.74
+Dark siliceous                  6.51                      5.96                                                      1.92
+ shale
+Black argillaceous              2.12                      4.85                                                      2.56
+ shale
+Black mixed shale               1.27                      1.48                       9.30                           3.83
+Black siliceous                15.57                     19.31                      86.05                          72.07
+ shale
+Carbonate                       4.76                      0.51                                                      0.02
+ interlayer
+
+
+
+as the real percentage of Longmaxi–Wufeng shale                   percentage method and probability trend model have
+lithofacies in the Fuling gas ﬁeld. Minor adjustment              made the shale lithofacies percentage in the 3-D models
+of this percentage is necessary in some cases if the              closer to the real case of the subsurface formations.
+property data from the vertical well fails to represent
+their real distribution. The percentage of each shale
+lithofacies combined with the upscaled well data and              DISCUSSION
+the derived variogram can determine the shale litho-
+facies in the cells that were not penetrated by wells             Stronger Effect of Structural Model on Property
+(Figure 13B). The second method is to use the                     Modeling
+probability trend model as the input of geostatistical
+simulation algorithms for facies modeling. Input data             A signiﬁcant part of the production of structural mod-
+upscaled from only vertical wells and gridding algo-              eling is the development of a cell system, which is
+rithm were used to generate the probability trend                 made by dividing the model into millions of cells. The
+model. Different from the trend model used for petro-             essential process of property modeling is to assign
+physical modeling, the probability trend model                    values to each cell according to the data upscaled
+should be built for each value (or type) of dis-                  from wells. Therefore, generating a high-quality cell-
+crete properties. For example, 10 probability trend               system is critical for property modeling. Cell size, cell
+models were built for the 10 shale lithofacies of the             height, and formation surfaces in the structural model
+Longmaxi–Wufeng shale in the Fuling gas ﬁeld, with 2              are the primary factors that control the cell system. In the
+of them shown in Figure 14 as an example. The 3-D                 Fuling gas ﬁeld, the cell system for Longmaxi–Wufeng
+TOC model in Figure 13C was constructed using the                 shale that was created has a cell size of approximately
+probability trend models instead of the default input             20 m · 20 m (~66 ft · 66 ft) and cell height of
+of shale lithofacies from all wells. Comparison of                approximately 0.4–0.6 m (~1.3–2.0 ft), with 176
+the three models in Figure 13 indicates that the                  vertical layers (Figure 15A). This research focused
+
+                                                                                                     WANG ET AL.           2347
+Figure 13. The three-dimensional shale lithofacies models constructed using different inputs for the sequential indicator simulation
+algorithm: (A) using the default input of shale lithofacies percentage generated by all the horizontal and vertical wells, (B) using the
+estimated real percentage based on only vertical wells, and (C) using the probability trend model based on only vertical wells.
+
+
+
+2348            Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 14. Two examples of the 10 probability trend models of the Longmaxi–Wufeng shale lithofacies, Fuling gas ﬁeld: (A) the
+probability trend model of gray argillaceous shale lithofacies and (B) the probability trend model of black siliceous shale
+lithofacies.
+
+
+on how formation surfaces inﬂuence cell system and               11 layers (the 140th to 150th layers) in the incorrect
+consequently the property modeling.                              model (Figure 15C). This has a signiﬁcant effect on
+    Given the formation surface is not at its correct            the property modeling. To assign values to cells in 3-D
+position, the thicknesses of formations just below               space, both the value and location of data are re-
+and above this surface are incorrect. Consequently,              quired. The location here means not just the absolute
+a different cell system will be generated for these              location (e.g., latitude, longitude, and elevation) but
+formations (Figure 15B, C), and cells penetrated by              also the relative location (e.g., the ith cell, jth cell, and
+wells will be different in the correct and incorrect cell        kth cell in the three directions). With assumption 1,
+systems. For example, well JY12-4HF penetrated                   the absolute location of well-penetrated cells is
+the cells across the lowest 17 layers (the 134th to              the same or similar, but the relative location can be
+150th layers from Long1 top) in the correct model                quite different in different cell systems (Figure 15).
+(Figure 15B), whereas it only penetrated the lowest              Therefore, the spatial distribution feature of input
+
+                                                                                                     WANG ET AL.        2349
+Figure 15. A cross section along the horizontal well JY12-4HF to show the generated cells: (A) the entire cross section of the generated
+cells in a correct structural model, (B) a close-up view of the cells highlighted by the red dashed rectangle in (A), and (C) the generated cells
+in an incorrect structural model at the same location as that in (B).
+
+
+data for property modeling will be different. This will                     Frequency Distribution Function versus Trend
+signiﬁcantly inﬂuence the property modeling. In                             Model for Petrophysical Modeling
+addition, the relationships of well-penetrated cells
+with cells not penetrated by wells are different in the                     In this study, we proposed the frequency distribution
+two cases in Figure 15B, C. For example, the lowest                         function (Figure 11) and trend model (Figure 12) to
+17 layers close to well JY12-4HF have different                             address the issue of the biased frequency distribution
+amounts of input data at different relative locations                       of continuous properties for petrophysical modeling
+in the two cases, resulting in the values assigned to                       (Figures 9). According to the comparison of the three
+these cells being different. If there are only vertical                     constructed models of TOC (Figure 10), both dis-
+wells, these issues are commonly not serious. There-                        tribution function and trend model methods work
+fore, the structural model has a stronger effect on                         well. The distribution function method needs to
+property modeling if there are many horizontal wells in                     evaluate the real distribution of continuous properties
+the study area. It becomes more important to construct                      (e.g., TOC), which is not a trivial task. In general, this
+a high-quality structural model, especially within the                      requires large amounts of data to support the anal-
+area close to horizontal wells. The method proposed                         ysis. Compared with distribution function, the trend
+in Figure 7 to pick more formation tops in the PVWs                         model does not need to infer the real frequency dis-
+according to assumptions 2 and 3 can aid in structural                      tribution of the continuous properties, so it can avoid
+modeling with reducing uncertainty.                                         the effect of subjective factors (e.g., misunderstanding
+
+2350             Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+Figure 16. A cross section through well JY1 to show the total organic carbon (TOC) model for Longmaxi–Wufeng shale in the Fuling gas
+ﬁeld: (A) a result using the frequency distribution function method and (B) a result using the trend model method. Unit for TOC is wt. %.
+
+
+of the property frequency distribution and personal                    are proposed as input for the sequential indicator
+preference of some special frequency distribution                      simulation algorithm instead of the percentage eval-
+model). Furthermore, the trend model provides con-                     uated from all wells. The principle of the percentage
+straints for all the cells in the model, whereas the dis-              method is very similar to that of the distribution
+tribution function only provides one constraint for the                function for petrophysical modeling. The estimation
+whole frequency distribution of the 3-D model. In                      of the real percentage of a discrete property (e.g., shale
+addition, the TOC model constructed by the trend                       lithofacies) is not easy. One way is to use the data from
+model method was a little more continuous and closer                   vertical wells that penetrate through the whole target
+to the vertical distribution pattern of TOC in well JY1                formations (Table 3). The probability trend model
+than that constructed by the distribution function                     indicates the possibility of a value to be assigned
+method (Figure 16). Therefore, we prefer the trend model               to the cells (Figure 14). Compared with the per-
+for petrophysical modeling, but it is too early to conclude            centage method, the probability trend model does
+that the trend model method is better than the distri-                 not need to estimate the real percentage of discrete
+bution function. More research is necessary in the future.             properties. Taking the shale lithofacies model as an
+                                                                       example, the model constructed by the probability
+Percentage versus Probability Trend Model for                          trend model method was closer to the real case of
+Facies Modeling                                                        subsurface formations (Figures 13, 17). Because the
+                                                                       percentage method controls the percentage of dis-
+As for facies modeling, the estimated real percentage                  crete property, the probability trend model pro-
+and probability trend model of the discrete property                   vides the 3-D trend for the entire study volume.
+
+                                                                                                              WANG ET AL.         2351
+Figure 17. A cross section through well JY1 to show the shale lithofacies model for Longmaxi–Wufeng shale in the Fuling gas ﬁeld: (A)
+a result using the percentage method and (B) a result using the probability trend model method.
+
+This may be the reason that the probability trend                      are made or so far from the horizontal section that
+model works better than the percentage method                          they suggest abnormal thickness of formations above
+for facies modeling.                                                   or below the surface (Figure 6). A method has been
+                                                                       developed to successfully address this issue (Figure 7):
+                                                                       (1) pick more formation tops whose surfaces intersect
+CONCLUSIONS                                                            with horizontal wells at their horizontal section, (2)
+                                                                       make multiple PVWs that intersect with horizontal
+Organic-rich shale reservoir characterization and
+                                                                       section at the formation tops, (3) infer formation tops
+modeling is distinct from conventional reservoirs in
+                                                                       in these PVWs according to assumptions 2 and 3,
+multiple aspects, including the properties signiﬁcant
+                                                                       and (4) use all the picked and inferred formation tops
+for shale oil and gas production, the data needed,
+                                                                       to construct the formation surfaces. This method
+and the features of the data. Because horizontal
+wells are primarily used in the core area of a shale                   can effectively reduce the uncertainty of structural
+reservoir, it is essential to effectively use the data                 models.
+from horizontal wells in both structural and prop-                          For property modeling, the major problem in
+erty modeling.                                                         using horizontal well data is the development of
+    For structural modeling, horizontal wells bring                    frequency distribution from the biased data set as
+more data but also make the relationships between                      the input of geostatistical simulation algorithms (e.g.,
+horizontal wells and formation surfaces much more                      sequential Gaussian simulation and sequential indi-
+complex. The formation surfaces may be either so                       cator simulation). It is rarely possible to construct
+close to the horizontal wells that more intersections                  a 3-D property model that can successfully represent
+
+2352           Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+the reservoir if the biased data set is used as the default              related to directional survey data: IAD/SPE Asia Paciﬁc
+input. Therefore, a distribution function and a trend                    Drilling Technology Conference and Exhibition, Bangkok,
+                                                                         Thailand, November 13–15, 2006, SPE-103734-MS,
+model method were developed for petrophysical                            18 p., https://doi.org/10.2118/103734-MS.
+modeling of continuous properties (e.g., TOC) and                   Herron, S. L., 1987, A total organic carbon log for source rock
+percentage and probability trend model methods                           evaluation: The Log Analyst, v. 28, p. 520–527.
+for facies modeling for discrete properties (e.g.,                  Guo, T., and R. Liu, 2013, Implications from marine shale gas
+shale lithofacies). These methods can successfully                       exploration breakthrough in complicated structural area
+                                                                         at high thermal stage: Taking Longmaxi Formation in well
+overcome the problem caused by the biased data                           JY1 as an example: Natural Gas Geoscience, v. 24, no. 4,
+set from horizontal wells (Figures 10, 13).                              p. 643–651.
+                                                                    Jonk, R., K. Potma, M. Davie, and N. Austin, 2012, Mudstone
+                                                                         lithofacies within a sequence stratigraphic framework:
+                                                                         Key to mapping shale-gas rock properties in the Horn
+REFERENCES CITED                                                         River basin, Canada (abs.): AAPG Annual Convention
+                                                                         and Exhibition, Long Beach, California, April 22–25,
+Baker Hughes Inc., 2017, North America rig count, accessed               2012, accessed June 5, 2018, http://www.searchanddiscovery
+    January 15, 2018, http://phx.corporate-ir.net/phoenix.               .com/abstracts/html/2012/90142ace/abstracts/jonk.htm?q=
+    zhtml?c=79687&p=irol-reportsother.                                   %2BtextStrip%3Ajonk.
+Bhattacharya, J., T. R. Carr, and G. Wang, 2015, Shale              King, G. E., 2010, Thirty years of gas shale fracturing: What
+    lithofacies classiﬁcation and modeling: Case studies from            have we learned? SPE Annual Technical Conference
+    the Bakken and Marcellus Formations, North America:                  and Exhibition, Florence, Italy, September 19–22, 2010,
+    AAPG Annual Conference and Exhibition, Denver, Colorado,             SPE-133456-MS, 50 p., doi:10.2118/133456-MS.
+    May 31–June 3, 2015, accessed June 3, 2018, http://             Ko, L. T., R. G. Loucks, T. Zhang, S. C. Ruppel, and D. Shao,
+    www.searchanddiscovery.com/abstracts/html/2015/                      2016, Pore and pore network evolution of Upper Creta-
+    90216ace/abstracts/2100057.html.                                     ceous Baquillas (Eagle Fold-equivalent) mudrocks: Results
+Bosence, D., and D. Waltham, 1990, Computer modeling the                 from gold-tube pyrolysis experiments: AAPG Bulletin,
+    internal architecture of carbonate platforms: Geology,               v. 100, no. 11, p. 1693–1722, doi:10.1306/04151615092.
+    v. 18, no. 1, p. 26–30, doi:10.1130/0091-7613(1990)             Kundert, D. P., and M. J. Mullen, 2009, Proper evaluation of
+    018<0026:CMTIAO>2.3.CO;2.                                            shale gas reservoirs leads to a more effective hydraulic-
+Bowker, K. A., 2007, Barnett Shale gas production, Fort                  fracture stimulation: SPE Rocky Mountain Petroleum
+    Worth Basin: Issues and discussion: AAPG Bulletin, v. 91,            Technology Conference, Denver, Colorado, April 14–16,
+    no. 4, p. 523–533, doi:10.1306/06190606018.                          2009, SPE-123586-MS, 11 p., doi:10.2118/123586-MS.
+Burgess, P. M., H. Lammers, C. van Oosterhout, and                  Löhr, S. C., E. T. Baruch, P. A. Hall, and M. J. Kennedy, 2015,
+    D. Granjeon, 2006, Multivariate sequence stratigraphy:               Is organic pore development in gas shales inﬂuenced by
+    Tackling complexity and uncertainty with stratigraphic               the primary porosity and structure of thermal imma-
+    forward modeling, multiple scenarios and conditional                 ture organic matter?: Organic Geochemistry, v. 87,
+    frequency maps: AAPG Bulletin, v. 90, no. 12, p. 1883–1901,          p. 119–132, doi:10.1016/j.orggeochem.2015.07.010.
+    doi:10.1306/06260605081.                                        Loucks, R. G., R. M. Reed, S. C. Ruppel, and D. M. Jarvie,
+Curtis, M. E., R. Ambrose, C. H. Sondergeld, and C. Rai,                 2009, Morphology, genesis, and distribution of nanometer-
+    2011, Transmission and scanning electron microscopy                  scale pores in mudstones of the Mississippian Barnett
+    investigation of pore connectivity of gas shales on                  Shale: Journal of Sedimentary Research, v. 79, no. 12,
+    the nanoscale: North American Unconventional Gas                     p. 848–861, doi:10.2110/jsr.2009.092.
+    Conference and Exhibition, The Woodlands, Texas,                Mendelson, J. D., and M. N. Toksoz, 1985, Source rock
+    June 14–16, 2011, SPE-144391-MS, 10 p., doi:                         characterization using multivariate analysis of log data:
+    10.2118/144391-MS.                                                   Society of Petrophysicists and Well Log Analysts 26th
+Curtis, M. E., B. J. Cardott, C. H. Sondergeld, and C. Rai,              Annual Logging Symposium, Dallas, Texas, June 17–20,
+    2012, Development of organic porosity in the Woodford                1985, 21 p.
+    Shale with increasing thermal maturity: International           Meng, Q., E. Wang, and J. Hu, 2005, Mesozoic sedimentary
+    Journal of Coal Geology, v. 103, p. 26–31, doi:10.1016               evolution of the northwestern Sichuan Basin: Implication
+    /j.coal.2012.08.004.                                                 for continued clockwise rotation of the South China
+Deutsch, C. V., 2002, Geostatistical reservoir modeling: New             block: Geological Society of America Bulletin, v. 117,
+    York, Oxford University Press, 376 p.                                no. 3–4, p. 396–410, doi:10.1130/B25407.1.
+DeVerse, S., and S. Maus, 2016, Optimizing lateral well spacing     Milliken, K. L., M. Rudnicki, D. N. Awwiller, and T. Zhang,
+    by improving directional survey accuracy: SPE Liquids-Rich           2013, Organic matter-hosted pore system, Marcellus
+    Basins Conference, Midland, Texas, September 21–22, 2016,            Formation (Devonian), Pennsylvania: AAPG Bulletin,
+    SPE-181772-MS, 10 p., doi:10.2118/181772-MS.                         v. 97, no. 2, p. 177–200, doi:10.1306/07231212048.
+Ekseth, R., K. Kovalenko, J. L. Weston, T. Torkildsen, E. Nyrnes,   Passey, Q. R., K. M. Bohacs, W. L. Esch, R. Kimentidis, and
+    A. Brooks, and H. Wilson, 2006, The reliability problem              S. Sinha, 2010, From oil-prone source rock to gas-producing
+
+
+                                                                                                          WANG ET AL.        2353
+     shale reservoir: Geologic and petrophysical characterization                     Wang, G., and T. R. Carr, 2013a, Organic-rich Marcellus
+     in unconventional shale-gas reservoirs: International Oil and                         Shale lithofacies modeling and distribution pattern
+     Gas Conference and Exhibition, Beijing, China, June 8–10,                             analysis in the Appalachian Basin: AAPG Bulletin, v. 97,
+     2010, SPE-121250-MS, 29 p., doi:10.2118/131350-MS.                                    no. 12, p. 2173–2205, doi:10.1306/05141312135.
+Passey, Q. R., S. Creaney, J. B. Kulla, F. J. Moretti, and                            Wang, G., and T. R. Carr, 2013b, Prediction and distribution
+     J. D. Stroud, 1990, A practical model for organic richness                            analysis of Marcellus Shale productive facies in the
+     from porosity and resistivity log: AAPG Bulletin, v. 74,                              Appalachian Basin, USA: AAPG Annual Conference
+     no. 12, p. 1777–1794.                                                                 and Exhibition, Pittsburgh, Pennsylvania, May 19–22,
+Schmoker, J. W., 1979, Determination of organic content of                                 2013, accessed June 3, 2018, http://www.search-
+     Appalachian Devonian shales from formation-density                                    anddiscovery.com/abstracts/html/2013/90163ace/abstracts
+     logs: AAPG Bulletin, v. 63, no. 9, p. 1504–1537.                                      /wang.htm.
+Schmoker, J. W., 1981, Determination of organic-matter                                Wang, G., Y. Ju, T. R. Carr, and F. Tan, 2015, The hier-
+     content of Appalachian Devonian shales from gamma-                                    archical decomposition method and its application in
+     ray logs: AAPG Bulletin, v. 65, no. 7, p. 1285–1298.                                  recognizing Marcellus Shale lithofacies through com-
+Shi, X., J. Wang, G. Liu, L. Yang, X. Ge, and S. Jiang, 2016,                              bining with neural network: Journal of Petroleum
+     Application of extreme learning machine and neural                                    Science Engineering, v. 127, p. 469–481, doi:10.1016
+     networks in total organic carbon content prediction in                                /j.petrol.2015.02.006.
+     organic shale with wire-line logs: Journal of Natural Gas                        Wang, Z., 2015, Breakthrough of Fuling shale gas exploration
+     Science and Engineering, v. 33, p. 687–702, doi:10.1016                               and development and its inspiration: Oil & Gas Geology,
+     /j.jngse.2016.05.060.                                                                 v. 36, no. 1, p. 1–6, doi:10.11743/ogg20150101.
+Sondergeld, C. H., K. E. Newsham, J. T. Comisky, M. C. Rice,                          Wei, X., T. Guo, and R. Liu, 2016, Geochemical features
+     and C. S. Rai, 2010, Petrophysical considerations in                                  and genesis of shale gas in the Jiaoshiba Block of Fuling
+     evaluating and producing shale gas resources: SPE Un-                                 Shale gas ﬁeld, Chongqing, China: Journal of Natural
+     conventional Gas Conference, Pittsburgh, Pennsylvania,                                Gas Geoscience, v. 1, no. 5, p. 361–371, doi:10.1016
+     February 23–25, 2010, SPE-131768-MS, 34 p., doi:                                      /j.jnggs.2016.11.005.
+     10.2118/131768-MS.                                                               Yin, X., W. Huang, S. Lu, P. Wang, W. Wang, L. Xia, and
+Wang, G., and T. R. Carr, 2012, Methodology of organic-rich                                T. Yao, 2016, The connectivity of reservoir sand bodies in
+     shale lithofacies identiﬁcation and prediction: A case                                the Liaoxi sag, Bohai Bay basin: Insights from three-
+     study from Marcellus Shale in the Appalachian basin:                                  dimensional stratigraphic forward modeling: Marine and
+     Computers & Geosciences, v. 49, p. 151–163, doi:                                      Petroleum Geology, v. 77, p. 1081–1094, doi:10.1016
+     10.1016/j.cageo.2012.07.011.                                                          /j.marpetgeo.2016.08.009.
+
+
+
+
+2354                          Application of Horizontal Wells in Three-Dimensional Shale Reservoir Modeling
+     View publication stats
+

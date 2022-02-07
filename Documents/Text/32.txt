@@ -1,0 +1,1521 @@
+                                                                                                                  Dossier
+La carte géologique
+La carte géologique, instrument indispensable à toute approche du terrain, est une interprétation personnelle d’observations dis-
+persées. Le géologue projette, sur le papier ou sur l’écran, sa culture scientifique, c’est-à-dire qu’il considère les objets après des opé-
+rations mentales et pas seulement avec des observations. Bref, la carte est une publication scientifique réalisée à partir d’observa-
+tions isolées, réunies en une hypothèse cohérente, conduite à partir des concepts personnels inscrits dans la culture de son temps.
+Elle est une étape dans l’histoire des sciences. Cette caractéristique fondamentale n’est que rarement mise en avant par les auteurs.
+Il s’en suit une immense incompréhension entre eux et les utilisateurs non géologues, financeurs de la carte géologique et scienti-
+fiques d’autres disciplines.
+Dans ce numéro, on trouve l’expression de besoins. Tous convergent en soulignant l’ambiguïté de la carte où ne sont pas distinguées
+les observations analysées et les interprétations. Des tentatives de différenciation ont été proposées dans le passé, elles ont toutes
+abouti à des documents peu lisibles. Il est évident qu’actuellement les moyens techniques permettent de prendre en considération
+l’exigence scientifique qui impose de scinder le fait observé et analysé de son extension sur des surfaces parfois très vastes.
+Selon l’objectif recherché, il est possible, désormais, sur une carte classique, c’est-à-dire sur un document subjectif, de localiser par
+leurs coordonnées les sites observés ; chacun d’eux correspond à l’étude d’un affleurement, par exemple. La carte géologique, docu-
+ment synthétique, donne une image qui comprend, d’une part, ces données, d’autre part, de très vastes étendues interprétées avec
+les concepts en vigueur pour l’essentiel, originaux pour quelques uns. Les lecteurs et les utilisateurs doivent pouvoir évaluer le degré
+de fiabilité du document selon leurs besoins.
+Compte tenu des référentiels géographiques, il est possible d’intégrer les données non affleurantes et leurs variations temporelles
+(débit et qualité de l’eau, variations des caractéristiques du sol, etc.).
+La carte est à la convergence des efforts de toutes les disciplines des sciences de la Terre ; si elle doit rester un document esthétique,
+elle doit devenir un réceptacle du savoir des différents spécialistes. Toute donnée n’a qu’une valeur éphémère qui évolue et se pré-
+cise avec les progrès des techniques et des concepts. Parmi les bases de données, certaines peuvent être exprimées à la demande,
+en complément du cadre général.
+Une nouvelle cartographie est en train de naître de manière anarchique : un spécialiste publie des informations sur des affleure-
+ments, des forages, des observations obtenues par différentes techniques de télédétection, mais ne peut, ne veut ou ne sait les inté-
+grer dans un document collectif. Cette œuvre de regroupement élaboré d’informations, qui fait évoluer les informations recueillies,
+ne peut relever que d’un service public scientifique oeuvrant dans la durée et qui en assure la cohérence.
+La démarche, évidente pour des cartes à 1/50 000, peut s’appliquer aux différentes échelles. Sans carte générale, l’utilisateur trou-
+ve une tour de Babel, chacun parle, écrit, expose sans que l’autre sache démêler ce qui est fondé spatialement et temporellement et
+ce qui est hypothèse. La carte est un document sans cesse retouché. Ces multiples retouches, de temps à autre, conduisent à une
+réédition regroupant de manière cohérente les informations les plus solides. La lecture d’une carte, comme son lever, est une étape
+indispensable à la formation de tout géologue. Elle évolue grâce aux techniques d’analyse et de communication. Ce dossier le montre
+à l’évidence.
+                                                                                                                              Jean DERCOURT
+                                                                                                                     Université Pierre et Marie
+                                                                                        Curie Secrétaire perpétuel de l’Académie des Sciences
+
+
+
+
+                                        Géologues d’hier et d’aujourd’hui.
+                                        Le dessin est signé de Ramond (1832).
+                                        Il représente le naturaliste auvergnat Jean-
+                                        Baptiste Bouillet en tournée géologique
+                                        dans la chaîne des Puys. Bouillet était
+                                        lourdement chargé car, comme
+                                        il l’a raconté avec humour dans ses
+                                        mémoires, il aimait servir de «sherpa»
+                                        à son ami le pharmacien Henri Lecoq,
+                                        moins athlétique mais passionné et
+                                        toujours soucieux de ramener le maximum
+                                        d’échantillons à étudier (document ©
+                                        du Musée Lecoq à Clermont-Ferrand,
+                                        reproduit avec l’aimable autorisation
+                                        de la Ville de Clermont-Ferrand et l’aide
+                                        de Pierre Pénicaud, conservateur).
+
+Géochronique n°96, 2005                                                                                                                    13
+Dossier
+De la carte d’hier à celle d’aujourd’hui
+     La carte géologique                            1867, Élie de Beaumont avec de                      liaires, notamment universitaires. C’est depuis
+   de la France, historique                         Chancourtois ainsi que E. Fuchs, A. Potier et       1878 que des géologues n’appartenant pas
+                                                    A. de Lapparent préparèrent, à partir de ces        au cadre du Service de la carte géologique
+L’École des mines de Paris, dès 1816, a été         cartes, 62 maquettes de feuilles à 1/80 000         ont été associés aux opérations de lever car-
+chargée de dresser des cartes géologiques en        du quart nord-est de la France qui furent expo-     tographique. Le principe de cette collabora-
+France. Alors que simultanément étaient             sées au Champ-de-Mars.                              tion, qui perdure jusqu’à aujourd’hui, est
+publiés en 1822, « l’Essai de Carte géolo-          À la suite de l’exposition universelle, le          fondé sur l’existence d’une complémentarité
+gique de la France, des Pays-Bas et des             « Service de la carte géologique de la France       entre les besoins de la carte géologique et les
+contrées voisines » de d’Omalius d’Halloy           et des topographies souterraines » (« topogra-      travaux des chercheurs dans le domaine des
+ainsi que la carte d’Angleterre de Greenough,       phies souterraines » = étude géologique             Sciences de la Terre. L’idée de base étant de
+fut décidé le principe de l’exécution d’une         détaillée des gîtes minéraux) fut institué par le   faire bénéficier la carte de cette motivation de
+carte géologique générale de la France. Ce          décret de Napoléon III en date du 1er octobre       chercheur, pour demander au collaborateur
+projet fut placé sous la direction de A.            1868. Ce même décret précisait que la carte         d’effectuer simultanément deux catégories
+Brochant de Villiers. Après un voyage de            géologique serait exécutée aux frais de l’État.     d’observations : celles qui ont trait à l’établis-
+reconnaissance en Angleterre en 1823,               La nécessité de centraliser la cartographie         sement de la cartographie, et celles qui sont
+Léonce Élie-de-Beaumont (Nord et Est) et            géologique de la France, au moins au niveau
+Armand Dufrénoy (Sud et Ouest) commencè-            de la coordination des levers et de l’édition,
+rent en 1825 leur travail, à raison de 6 mois       était ainsi entérinée. De 1868 à1874, Élie
+par an sur le terrain. À partir de 1826, de Billy   de Beaumont fut le premier directeur du
+fut adjoint à Dufrénoy et Fénéon à Élie de          Service organisé, de 1880 à 1886, par
+Beaumont. Les opérateurs firent séparément          son adjoint Alexandre Béguyer de
+cinq campagnes d’été entre 1825 et 1829 ;           Chancourtois. Le Service comprenait en
+de 1830 à 1834, ils consacrèrent cinq cam-          outre A. Potier, F. Cléraut, E. Fuchs, A. de
+pagnes à des tournées communes de coordi-           Lapparent et H. Douvillé. Au bout de six
+nation. Ils parcoururent à pied pendant tout ce     ans, à la mort d’Élie de Beaumont,
+temps, plus de 80 000 km. Brochant de               12 feuilles avaient été imprimées. On avait
+Villiers présenta un exemplaire colorié le 30       prévu en 1868 que les 268 feuilles à
+novembre 1835 à l’Académie des Sciences.            1/80 000 du territoire national seraient
+Cinq années, de 1836 à 1841, furent ensuite         levées en 10 ans pour une somme de 1 mil-
+consacrées à la rédaction du mémoire expli-         lion de francs par les ingénieurs du Corps
+catif de la carte qui ne fut définitivement         des mines. Une commission nommée pour
+publiée à 1/500 000 qu’en 1842.                     réorganiser le Service de la carte géolo-
+À la même époque, les ingénieurs des mines          gique devait constater la disproportion
+avaient été invités (30 août 1835) à établir        manifeste entre le plan suivi pour l’exécution
+des cartes géologiques par département, par-        de ce travail et les moyens dont le Service
+tout où elles pourraient être cofinancées par       disposait pour le réaliser. Le décret du
+les autorités locales. Au total 59 de ces cartes    21 janvier 1875 réorganisa donc le
+départementales, de qualité très inégale,           Service de la carte géologique qui s’assura         Extrait d’une carte géologique à 1/80 000 en
+furent publiées. Pour l’exposition universelle de   alors du concours de collaborateurs auxi-                           hachures (Le Buis, Hautes-Alpes)
+
+  Ce dossier est le fruit d’une collaboration pluridisciplinaire et du concours de différents organismes et notamment de :
+  - Guy Menant (GM) de l’Inspection Générale de l’Education nationale, Frédéric Mouthereau (FM) de l’Université Pierre
+  et Marie Curie, François Guillocheau (FG) de l’Université de Rennes I, Patrick De Wever (PdW) du Museum national
+  d’Histoire naturelle, Frédéric Tona (FT) de AREVA/COGEMA, Pascal Elion (PE) de l’ANDRA, Nicole Santarelli (NS) de
+  l’Université Denis Diderot, Daniel Raymond (DR) de l’Université Pierre et Marie Curie ;
+  - au BRGM, de Denis Bonnefoy (DB), Pol Guennoc (PG), Franck Hannot (FH), Dominique Janjou (DJ), Pierre Laville (PL),
+  Pierre Nehlig (PN), Jean-Michel Pellé (JMP), Philippe Rossi (PR), Frédéric Simien, Bernard Sauret (BS) et D. Vaslet (DV) ;
+  - et des membres du comité de rédaction de Géochronique notamment Maurice Jacqué (MJ), Raymonde André-Jehan
+  (RAJ), Liliane Laville (LL), Jacqueline Lorenz (JL), Philippe Lagny, Michel Millet, Jean Féraud (JF).
+
+  Il a été coordonné par Denis Vaslet, Daniel Raymond et Jean Féraud.
+
+  Les références bibliographiques sont disponibles sur le site Internet de la Société Géologique de France
+  http://www.sgfr.com
+
+
+14                                                                                                                         Géochronique n°96, 2005
+                                                                                                                       Dossier
+à la base de sa recherche (en réalité, ces         nale et donne lieu à des monographies sou-
+démarches sont le plus souvent intimement          vent rédigées dans le cadre de thèses. De
+liées.) C’est en fonction de cet arrangement       nombreux étudiants ont alors une solide for-
+forfaitaire que ses frais de déplacement sont      mation de cartographe ;
+pris en charge par le programme de la carte        - au cours des années 1980, la popularisa-
+géologique, alors que sa rémunération de           tion de la tectonique des plaques, le dévelop-
+chercheur est assurée par son organisme de         pement des méthodes et des outils géochi-
+rattachement. La grande aventure scientifique      mique et géophysique, réorientent la
+de l’établissement de la carte à 1/80 000          recherche vers la géologie thématique, le plus
+s’est poursuivie sous la direction des ingé-       souvent hors de France et ceci entraîne ipso
+nieurs du Corps des mines : Eugène Jacquot         facto une diminution du nombre de thèses
+(de 1874 à 1887), Auguste Michel Lévy (de          ayant pour support la cartographie du terri-
+1887 à 1911), Pierre Termier (de 1911 à            toire lui-même ;
+1930), Louis de Launay (de 1931 à 1938),           - la « révolution » de la tectonique des plaques
+Eugène Raguin (de 1940 à 1953) et enfin            n’a pas une influence directe sur la carte elle-
+Jean Goguel de 1953 à 1987. Tous les direc-        même, l’échelle du 1/50 000 n’étant pas
+teurs du Service furent eux-mêmes des géo-         adéquate pour rendre compte des phéno-
+logues. « Mente et malleo » (« par l’esprit et     mènes d’échelle terrestre. C’est en revanche,
+par le marteau »), A. Michel-Lévy signa lui-       la disponibilité de nouveaux modèles concep-
+même onze feuilles de la carte géologique à        tuels (contextes orogéniques, dynamique des
+1/80 000. Le lever de la carte géologique à        bassins sédimentaires, trajectoires PT du
+1/80 000 se déroula sur un siècle, avec une        métamorphisme, etc.) qui sont venus aider à         mosaïque est toutefois bien hétérogène.
+contribution majeure des ingénieurs du Corps       l’interprétation des faits de terrain. La sophis-   Le Comité de la Carte Géologique de
+des mines.                                         tication des nouvelles techniques analytiques       France, après examen critique des cartes
+Dès 1924 est mis en chantier le lever des          sont elles aussi venues renforcer l’arsenal du      publiées, a identifié environ 400 cartes
+cartes à 1/50 000 sur le fond topographique        géologue. Ce sont notamment les progrès             qui nécessiteront une révision en tout ou
+détaillé, en courbes de niveaux, de la carte       dans les analyses en minéralogie (microson-         partie (substratum et/ou formations
+d’état-major. C’est toutefois seulement à partir   de électronique), en géochimie (analyses            superficielles). Pour le moment, les
+des années 1950 que ce programme va                ICP), en géochronologie, ainsi qu’en micro-         secondes éditions ne représentent qu’en-
+prendre son essor. À partir du 1er Janvier         paléontologie qui ont permis de mieux docu-         viron 10 % de la production cartogra-
+1968 (décret du 22 décembre 1967), le              menter la carte ;                                   phique annuelle.
+Service de la carte géologique et le BRGM
+sont regroupés. À ce moment, 148 cartes
+géologiques à 1/50 000 (sur les 1060 du
+découpage national) sont éditées et de nom-
+breuses maquettes sont déjà prêtes. De 1968
+à 1987, la direction du programme est pla-
+cée sous la responsabilité de Jean Goguel,
+inspecteur général de la carte géologique de
+la France. Créé en 1986, le Comité de la
+Carte Géologique de la France (CCGF) a un
+rôle normatif et de garant de la qualité des
+cartes et de leur notice explicative. Son action
+a abouti à la reconnaissance, par les ins-
+tances CNRS et universitaires, de la carte
+géologique comme publication scientifique
+de premier rang, entérinant ainsi son carac-
+tère de publication scientifique. Le program-
+me de la carte à 1/50 000, aujourd’hui qua-
+siment achevé, aura, pour sa plus grande           - depuis les années 90, la baisse d’intérêt         Production de la carte géologique
+part sous la maîtrise d’œuvre du BRGM, été         pour la géologie régionale et de terrain            à 1/50 000 de la France.
+mené à bien grâce à l’implication massive          devient critique. Il devient difficile de trouver
+d’une grande partie des géologues français,        des collaborateurs pour contribuer au lever
+en grande partie universitaires (ou issus de       de la carte, le manque de géologues fran-           Les programmes de cartographie géolo-
+l’université). Trois grandes périodes peuvent      çais compétents en matière d’acquisition de         gique, par leur continuité dans le temps, par
+être distinguées dans l’établissement de la        données sur le terrain et de cartographie           leur permanente actualisation des connais-
+carte géologique de la France à 1/50 000 :         géologique devient alarmant ;                       sances figurent certainement parmi les plus
+- 1950 à 1980 : c’est une période d’activité       - la couverture le Carte géologique de la           grands programmes scientifiques des pays
+majeure où le lever des cartes géologiques est     France, en première édition, sera ache-             développés.
+l’occasion de recherches en géologie régio-        vée pour la fin de la décennie. Cette                                                        P.R.
+
+Géochronique n°96, 2005                                                                                                                         15
+Dossier
+       La carte géologique                           graphique des affleurement rencontrés, (2) la          compréhension de la géologie. Une meilleu-
+           aujourd’hui                               nature lithologique des formations à l’affleu-         re solution serait de réaliser deux cartes de la
+                                                     rement, (3) les contacts visibles à l’affleurement     même région : une avec toutes les formations
+                                                     entre formations différentes, (4) les indications      superficielles dont la connaissance est indis-
+Bien que beaucoup de lecteurs de Géochro-
+                                                     structurales (pendage des couches, axes de             pensable, en particulier pour l’hydrogéologie,
+nique soient familiers des cartes géologiques,
+                                                     plis etc...), (5) les points de collecte d’échan-      l’agriculture et la géologie du génie civil, une
+il nous a paru cependant utile de rappeler ci-
+                                                     tillons. Par ailleurs, les géologues consignent        autre correspondant à l’écorché géologique,
+dessous ce qu’est une carte géologique et les
+                                                     sur leur « carnet de terrain » toutes les obser-       pour la compréhension du sous-sol. Cette solu-
+méthodes utilisées pour son élaboration.
+                                                     vations notables, les dessins de coupes géo-           tion a d’ailleurs été adoptée dans certains pays
+Une carte géologique est la représentation conven-
+                                                     logiques, de paysages etc... On dit souvent            (Royaume-Uni, Pays-Bas, etc…). En France il
+tionnelle, sur un fond topographique, des ter-
+                                                     que c’est à son carnet de terrain qu’on recon-         y a eu une tentative (St Bonnet-de-Joux,
+rains visibles à l’affleurement ou masqués par
+                                                     naît le bon géologue !                                 Saône-et-Loire, n°601), mais qui n’a pas eu
+des formations superficielles, dont on ne tient
+                                                     Au laboratoire, divers spécialistes vont procéder      de suite.
+pas compte quand leur épaisseur est trop faible.
+                                                     au traitement des échantillons récoltés (lames         La représentation des terrains (formations
+                                                     minces de roches, extraction et détermination          superficielles comprises) obéit aux règles sui-
+Le lever de la carte                                 de microfaunes, analyses minéralogiques et             vantes. Un terrain est limité par un contour géo-
+                                                     géochimiques). Ces études conduisent à pré-            logique (trait fin), éventuellement par un
+Pendant longtemps le géologue a travaillé en         ciser les faciès et les microfaciès des forma-         contact tectonique (trait gras) ; les traits sont
+solitaire ; véritable homme-orchestre, il assu-      tions rencontrées. Un élément essentiel est la         continus si la limite est observée, en pointillé
+rait à la fois le lever de la carte, l’étude des     datation de ces dernières par l’attribution d’un       si la limite est supposée. Il est identifié à l’ai-
+échantillons récoltés et des fossiles… Actuel-       âge stratigraphique. On peut également, en             de d’une couleur et d’une notation constituée
+lement, le lever est un travail d’équipe. Le ter-    utilisant la radiochronologie, dater des événements    de lettres et de chiffres. Pour un terrain sédi-
+rain est fréquemment découpé en secteurs sui-        régionaux (par ex. la mise en place d’un gra-          mentaire, le couple couleur-notation fait réfé-
+vant les compétences de chacun ; par exemple         nite ou un épisode de métamorphisme). Il est           rence à son âge stratigraphique ; pour tout autre
+un pétrologiste et un stratigraphe collaboreront     alors temps de procéder aux dernières véri-            terrain, ce couple fait référence à son lithofaciès.
+au lever d’une carte comportant un socle her-        fications et corrections, de résoudre les pro-         Les couleurs et les notations sont en principe
+cynien et une couverture sédimentaire méso-          blèmes éventuels posés par les résultats de labo-      conventionnelles, mais il existe d’assez nom-
+zoïque. Il n’en reste pas moins que dans sa          ratoire grâce à des investigations complémentaires     breuses exceptions, justifiées par les particu-
+zone, chaque géologue est en général un hom-         sur les points délicats ou importants. Si néces-       larités locales. La nomenclature des terrains pré-
+me seul...                                           saire, il faudra exécuter de petits sondages.          sents sur une carte donnée est effectuée dans
+La réalisation de la carte nécessite de dispo-                                                              la légende des terrains, disposée dans les marges
+                                                     Le dessin de la carte                                  droite et gauche de la carte. Cette légende
+ser d’un fond topographique précis à gran-
+                                                                                                            est constituée de caissons où sont rappelées
+de échelle ; pour la France, on utilise la car-
+                                                     On dispose maintenant de suffisamment d’in-            la couleur et la notation de chaque terrain. Elle
+te topographique à 1/25 000 de l’Institut            formations pour le dessin de la carte définiti-        se lit de bas en haut et de droite à gauche,
+Géographique National (I.G.N), éventuelle-           ve, par interpolation des contours entre les affleu-   avec dans l’ordre les terrains cristallins et méta-
+ment des plans directeurs à 1/10 000 dans            rements. La coordination des contours fournis          morphiques, puis les terrains sédimentaires et
+les secteurs complexes. On commence par pro-         par les divers participants est confiée à un res-      éventuellement volcaniques du plus ancien au
+céder à une étude bibliographique régiona-           ponsable de la carte, généralement le géologue         plus récent, enfin les formations superficielles.
+le et au recensement de toutes les données exis-     qui a assuré la plus grande partie du lever.           Par ailleurs on indique de quelle façon sont
+tantes, à commencer bien entendu par les cartes      Un problème délicat est celui de la représen-          figurés les contours géologiques et les contacts
+géologiques antérieures, mais également les          tation des formations superficielles ; sous ce         anormaux.
+sondages dont l’archivage, organisé par la           terme, on regroupe toutes les formations               Divers symboles spécifiques décrivent les élé-
+Banque de données du sous-sol du BRGM, est           continentales récentes de diverses origines. En        ments structuraux. Le plus important d’entre eux
+accessible à tous. Ensuite, on analyse les pho-      principe, les formations superficielles doivent        est le signe de pendage, en forme de T, repré-
+tos aériennes et les images satellitaires de la      être figurées sur la carte si leur épaisseur et        sentant l’inclinaison des surfaces géologiques
+zone à cartographier, ce qui permet une pre-         leur extension sont suffisantes pour une repré-        (surfaces de stratification, de schistosité ou de
+mière approche : repérage d’affleurements,           sentation à l’échelle de la carte définitive. Mais     foliation). D’autres symboles décrivent les linéa-
+de contacts, d’accidents tectoniques, de cer-        dans certaines régions de France où le sou-            tions, axes de plis, etc… L’ensemble des sym-
+taines formations superficielles facilement          bassement est masqué par un épais manteau              boles utilisés est rappelé dans la rubrique « élé-
+reconnaissables (alluvions, éboulis...). L’étude     de dépôts superficiels, l’application de cette         ments structuraux » de la légende. Les gîtes
+de ces images permet également parfois l’éla-        règle aboutirait à une carte ne représentant           fossilifères sont indiqués par un symbole spé-
+boration d’hypothèses de travail sur la struc-       pratiquement que ces derniers, et donc sans            cifique. D’autres signes conventionnels indiquent
+ture de la région, avant même le premier contact     intérêt pour l’étude du sous-sol. Il y a donc fré-     les carrières et exploitations souterraines en
+avec le terrain.                                     quemment conflit entre la représentation des           activité ou abandonnées, ainsi que les sondages.
+Le lever proprement dit consiste en l’explora-       formations superficielles et celle des terrains        Ces derniers sont identifiés par un numéro d’ar-
+tion systématique, km2 par km2, de la région         sous-jacents. Aussi, dans la pratique, l’initia-       chivage du Service Géologique National (banque
+à cartographier. Toutes les observations sont        tive est-elle laissée aux auteurs ; en général ces     de données du sous-sol du BRGM).
+reportées sur la carte topographique, qui devient    derniers représentent les formations superficielles    Sur les cartes récentes d’autres indications impor-
+alors une « minute ». Sur cette dernière, sont       quand leur épaisseur ne permet pas de                  tantes sont incorporées à la légende. La colon-
+indiqués par des traits, des couleurs ou des         connaître avec certitude la nature du sous-sol,        ne lithostratigraphique permet d’avoir une vue
+signes conventionnels : (1) la position topo-        et quand leur figuration ne nuit pas trop à la         détaillée de l’épaisseur et de la lithologie des
+
+16                                                                                                                             Géochronique n°96, 2005
+                                                                                                                                  Dossier
+terrains répertoriés dans la légende des terrains     - documentation complémentaire (sites classiques          raître à l’occasion de travaux, de nouveaux son-
+ou d’une partie de ces derniers. Ces informations        et itinéraires, bibliographie, documents et            dages peuvent être effectués, apportant des infor-
+proviennent des travaux de terrain ou d’un ou            collections consultables) ;                            mations conduisant parfois à de nouvelles inter-
+plusieurs sondages. La colonne est située en          - liste des auteurs de la notice (qui peut être           prétations à l’échelle régionale. Par conséquent,
+regard des caissons des terrains. Le schéma              en partie différente de celle des auteurs des          on a adopté le principe d’éditions successives
+structural, représentation simplifiée des grandes        levers) ;                                              ; à titre d’exemple, on pourra comparer les extra-
+unités stratigraphiques et structurales de la car-    - annexes (inventaire et description sommai-              its des deux éditions de la feuille Montpellier à
+te, est situé dans sa marge inférieure. En géné-         re des gîtes minéraux et des principaux son-           1/50 000.
+ral, il recouvre une région plus grande que cel-         dages).                                                - le contact entre deux formations peut être défi-
+le de la carte ; ainsi cette dernière est replacée                                                              ni de façon précise si leur lithologie est très dif-
+dans son contexte régional. Les coupes géo-           Ceci amène, surtout pour les cartes récentes,             férente (par ex. des calcaires massifs sur des
+logiques correspondent à la section des terrains      à des notices volumineuses (parfois plus de               marnes). Mais souvent le passage d’une for-
+par un plan vertical ou plan de coupe. Les inter-     100 pages), véritables ouvrages de référen-               mation à une autre est graduel (par ex. bancs
+sections du plan des coupes et de la topographie      ce sur la géologie régionale.                             calcaires de plus en plus fréquents lorsqu’on
+ou « traits de coupe » sont indiquées sur le sché-                                                              s’élève dans une série marneuse) ; dans ce cas
+ma structural, ce qui permet leur repérage sur        Utilisations de la carte géologique                       la position du contact entre les deux formations
+la carte elle-même. L’observation des coupes                                                                    dépend de l’appréciation du géologue.
+permet d’avoir rapidement une idée de la struc-       La carte géologique est l’objet d’utilisations variées,   - Le progrès des méthodes d’analyse ou l’uti-
+ture générale. Elles sont situées au centre de        comme on le verra dans la suite du dossier. Mais          lisation de nouveaux outils fournissent conti-
+la marge inférieure de la carte. Enfin on indique     soulignons d’emblée qu’un des grands intérêts             nuellement de nouvelles informations ; par
+dans un cartouche les zones de lever de chaque        de ce document est qu’il permet de construire             exemple l’âge d’une formation peut être pré-
+contributeur dont le nom est indiqué, ainsi que       des coupes géologiques. Mais il faut garder à             cisé, voire changé.
+le nom du coordonnateur de l’ensemble..               l’esprit qu’une coupe géologique est nécessairement       - dans les régions de structure complexe, les
+                                                      interprétative, la part d’interprétation pouvant          hypothèses de travail de l’auteur de la carte
+La carte est toujours accompagnée d’une noti-         être diminuée si on dispose de renseignements             peuvent elles-mêmes influencer son lever. En
+ce explicative, en général organisée de la façon      provenant de sondages, ou, plus rarement, de              effet le terrain offrant une quantité de données
+suivante :                                            profils sismiques. La carte géologique présen-            incommensurable, les enregistrer toutes est humai-
+- introduction géographique et géologique ;           te également un deuxième intérêt ; la recons-             nement impossible et n’offrirait d’ailleurs
+- description des terrains, du plus ancien au         titution de l’histoire géologique régionale.              aucun intérêt, car seules certaines sont signi-
+   plus récent (à chaque caisson de la légen-                                                                   ficatives dans le cadre des hypothèses posées.
+   de correspond une rubrique). Cette description     La carte géologique est-elle un document                  Le géologue sépare donc les « signaux » du
+   comporte les caractères lithologiques du ter-      objectif ?                                                « bruit de fond » grâce au filtre de ses hypo-
+   rain reconnaissables à l’affleurement et en                                                                  thèses, quitte à modifier ces dernières si les
+   lame mince, accompagnés parfois d’analyses         La réponse est non ; le seul document objectif
+                                                                                                                faits d’observation les infirment.
+   géochimiques. Pour les terrains sédimentaires      est la minute. Une carte géologique est néces-
+                                                                                                                Ceci explique entre autres que les contours de
+                                                      sairement le résultat d’un mélange entre des obser-
+   s’y ajoutent leurs caractères sédimentologiques                                                              deux cartes géologiques adjacentes levées par
+                                                      vations et des interprétations à une date donnée.
+   et paléontologiques, avec les noms des fos-                                                                  des équipes différentes, généralement à plu-
+                                                      Cela est du à de nombreuses raisons. Nous indi-
+   siles qu’ils ont livrés ;                                                                                    sieurs années de distance, ne se raccordent
+                                                      quons ci-dessous les principales :
+- tectonique et métamorphisme régionaux, his-                                                                   pas toujours parfaitement, ou que l’âge d’un
+                                                      - en raison de l’existence des formations super-
+   toire géologique ;                                                                                           terrain change d’une carte à l’autre...L’utilisateur
+                                                      ficielles, les contours correspondent en général
+- ressources du sous-sol (hydrogéologie, gîtes                                                                  peut être surpris, mais il doit se souvenir qu’une
+                                                      à des interpolations entre points d’observation.
+   métallifères, matériaux de construction et d’em-                                                             carte géologique, avec ses qualités mais aus-
+                                                      Par ailleurs, il n’est pas possible au géologue de
+   pierrement) ;                                                                                                si ses imperfections, est avant tout l’œuvre d’au-
+                                                      visiter un secteur de façon complète; certains affleu-
+                                                                                                                teurs qui y ont consacré beaucoup de temps
+- éventuellement, végétation et cultures,             rements importants peuvent donc lui échapper.
+                                                                                                                et d’énergie, tant physique qu’intellectuelle.
+   archéologie ;                                      De plus, de nouveaux affleurements peuvent appa-
+                                                                                                                                                               D.R.
+
+
+
+
+                              Exemple de deux éditions successives d’une carte géologique à 1/50 000 : Montpellier n° 990.
+                                  1 : chevauchements. 2 : klippe (éléments structuraux non représentés sur la 1ère édition).
+Géochronique n°96, 2005                                                                                                                                        17
+Dossier
+La numérisation de la carte                         qui permirent la transposition de leurs techniques     set et à un archivage durable. En outre, la numé-
+  géologique : nécessité                            au dessin manuel et à l’art graphique. Si cet-         risation de la carte géologique a permis ses
+     et conséquences                                te évolution a été plus précoce de quelques            thématisations immédiates et son couplage aisé
+                                                    années dans le domaine de la carte topo-               à d’autres données numérisées. Grâce à cet
+En France, la numérisation des cartes a été syn-    graphique et de la télédétection, elle s’est implan-   investissement et à la formation des équipes
+chrone de l’acquisition des images satellitaires,   tée au BRGM dès 1984 pour la numérisation              de dessinateurs du BRGM, la productivité du
+de la banalisation de l’informatique dans le        des éléments de la carte à 1/50 000. Elle en           service a pu quadrupler en moins de cinq ans
+dessin industriel et des perfectionnements du       a réduit les délais d’impression grâce à la rapi-      et ouvrir aux concepteurs comme aux utilisa-
+traitement des signaux géophysiques (sis-           dité des corrections et des mises à jour, à la         teurs de la carte des perspectives jusqu’alors
+mique, gravimétrie, etc.). Ce sont ces domaines     confection simplifiée des films d’impression off-      refoulées.
+
+                                                                                                           Cependant, il y a près d’une quinzaine d’an-
+                                LA DIMENSION DES NOTICES
+                                                                                                           nées, la masse et le coût des ordinateurs néces-
+  Parallèlement aux progrès dans la réalisation de la carte à tous les niveaux, la notice a -              saires à cette cartographie numérique s’opposaient
+  elle aussi- bien changé. Sans retourner jusqu’à la « préhistoire » avec celles qui occupaient            à leur dissémination sur le terrain. Durant cet-
+  les bordures de la carte elle-même, depuis les années 1970-80, leur évolution est specta-                te période et en dépit de nombreuses tenta-
+  culaire. Les exemples sont faciles à trouver. La notice de la belle carte Fréjus - Cannes 1e             tives de «carnets électroniques» portables, le
+  éd. (1966) ne comportait que 16 pages, bien réparties entre une courte introduction, la                  dessin de la carte est resté confiné aux
+  description des terrains affleurants et (déjà) celle des dépôts marins actuels, 3 pages pré-             bureaux bien équipés en tables à digitaliser
+  sentant la tectonique, et une courte bibliographie. Trois auteurs seulement s’étaient parta-             et en écrans permettant d’afficher toutes les don-
+  gé le travail.                                                                                           nées nécessaires à la conception d’un contour.
+  Les 12 auteurs de l’édition 1994 proposent plus de 10 pages de bibliographie, dans un                    Au début des années 1990, c’est l’apparition
+  livret de 187 pages bien denses. L’avant-propos signale les « nouveautés » : les contours                d’ordinateurs portables et puissants qui a per-
+  géologiques n’ont (relativement) pas trop évolué, mais leur attribution, leur interprétation             mis la numérisation sur le terrain, même si elle
+  sont parfois nouvelles. La description des terrains s’est étoffée, quelques diagrammes pétro-            s’effectuait encore dans la voiture, sous la ten-
+  logiques y apparaissent, avec des dessins d’affleurements, cartes, coupes, schémas : en                  te ou dans la chambre. Mais cela ne durera
+  tout 26 figures. Les résultats de la radiochronologie bousculent parfois les idées reçues :              guère avec l’apparition de nouvelles générations
+  l’estérellite, permienne depuis 60 ans, rajeunit en retrouvant l’âge tertiaire proposé en 1912           d’ordinateurs de poche couplés au GPS.
+  par A. Michel-Lévy. Des rubriques nouvelles apparaissent : le chapitre « Ressources du sol
+  et exploitations », quelques itinéraires d’excursions géologiques actualisés, des annexes                Faut-il pour autant regretter le temps des car-
+  géochronologiques, paléontologiques, une rubrique sismicité, des analyses chimiques, gîtes               nets de terrain constellés de dessins et de coupes ?
+  et indices minéraux... L’ «histoire géologique simplifiée», en 3 pages, est une aide appré-              Cette tendance au « tout numérique » n’est-
+  ciable aux étudiants pressés par le temps qui leur est imparti pour interpréter la carte.                elle seulement qu’un effet de mode ? Il serait
+  La carte Laruns-Somport vient d’être publiée en 2004. Le résumé est traduit en anglais, et               vain de cultiver cette soit disant opposition. En
+  en espagnol (frontière oblige), la dynamique des dépôts sédimentaires donne un éclaira-                  effet, avec un portable, le géologue dispose
+  ge moderne aux descriptions de terrains, 40 pages techniques présentent les synthèses géo-               aujourd’hui sur le terrain de toutes les données
+  dynamiques, tectonométamorphiques, volcanologiques (Ossau). Les préoccupations                           et de tous les outils auxquels il ne pouvait accé-
+  modernes apparaissent avec des éléments de géotechnique, géologie de l’environnement,                    der qu’au bureau et dans un contexte de cloi-
+  risques naturels. Vingt huit figures (cartes, dessins, coupes dont une planche en couleurs,              sonnement préjudiciable à son efficacité. En
+  diagrammes...) étayent le texte. Les 198 pages de cette notice constituent un outil de tra-              outre, en terrain difficile d’accès, seul le car-
+  vail et une source de renseignements sans pareils pour randonneurs curieux (un peu ini-                  net permet de consigner ses observations. Les
+  tiés), étudiants en géologie, professeurs des lycées et collèges locaux, professionnels de la            méthodes sont complémentaires.
+  géologie (hydrogéologie, travaux publics ...).
+  Les notices des superbes cartes au 1/250 000 ne sont pas en reste : elles couvrent des                   Évidemment, l’usage de ces outils suppose une
+  domaines plus vastes, nécessitant des synthèses à une autre échelle. En 1980, la carte de                maîtrise des logiciels et un souci de l’archivage
+  Marseille, avec ses 88 pages, son résumé de l’histoire géologique, et ses 9 figures consti-              qui ne s’imposaient pas nécessairement au géo-
+  tuait un excellent document de travail, une aide précieuse pour étudiants et enseignants.                logue seulement doté de sa mémoire, de ses
+  Avec la notice de Montpellier au 1/250 000, publiée en fin 2003, c’est une petite ency-                  crayons et de son carnet. En effet, en lieu et
+  clopédie régionale de 164 pages, que l’on découvre. Il est vrai que la carte couvre une                  place de quelques objets (une carte, sa
+  région particulièrement passionnante et complexe qui montre la quasi-totalité de l’échelle               légende et sa notice), la numérisation a pour
+  stratigraphique et une large gamme de formations métamorphiques et magmatiques. La                       effet premier la création d’une pléthore de fichiers
+  lecture est grandement facilitée par les 49 figures hors-texte, rassemblées dans un volume               (plusieurs dizaines) qui doivent être nommés
+  annexe en couleurs. Et le tout est encore facilement transportable, et utilisable à la ville et          et gérés dans des dossiers pour permettre leur
+  sur le terrain.                                                                                          utilisation ultérieure. Cependant, en cartographie
+  Les notices des cartes géologiques, surtout celles des cartes au 1/250 000, sont devenues                géologique, les avantages procurés par l’or-
+  des monographies complètes, incontournables, et passionnantes. Certes, le temps néces-                   dinateur compensent largement ces contraintes
+  saire à la lecture a aussi augmenté considérablement, mais il est probable qu’une notice                 d’utilisation. En effet, le raisonnement géométrique
+  plus brève ne pourrait pas rendre compte des progrès liés à la qualité du dessin de la car-              du cartographe est facilité, amplifié par ces
+  te et à la diversité des renseignements intégrés.                                                        outils numériques et pour peu que son exigence
+                                                                                                           critique soit poussée, ses propositions struc-
+                                                                                               N.S.        turales et paléogéographiques sont mieux argu-
+
+18                                                                                                                            Géochronique n°96, 2005
+                                                                                                                               Dossier
+mentées. À ce titre, les avantages les plus signi-    et les plus adaptés aux différents types de don-        et leur partage sur Internet, la diffusion des
+ficatifs sont rapidement recensés :                   nées). Hélas, les utilisateurs ont dû subir et subis-   connaissance est favorisée à tel point que cer-
+                                                      sent encore cette étape qui ne pouvait être évi-        taines cartothèques proposent aujourd’hui un
+- combinaison visuelle instantanée des don-           tée. Heureusement, cette tension préjudiciable          accès à leurs fonds grâce à la gestion des
+nées par superposition de calques en nombre           s’amenuise car les concepteurs de logiciels             emprises de cartes qu’elles soient régulières
+illimité ;                                            les plus avisés offrent systématiquement des            ou locales quand ce n’est pas à la carte elle-
+élévation de la carte en 3D ;                         convertisseurs de formats et les utilisateurs s’or-     même (Infoterre).
+- modélisation rapide sur des coupes des effets       ganisent au plan international pour mettre au
+de certaines hypothèses géométriques conçues          point des normes que les industriels du logi-                                                        P.L.
+sur la carte ;                                        ciel prennent en compte. Cependant, cette évo-
+- production de maquettes soignées (étique-           lution est lente et ne peut être améliorée que
+                                                                                                                  Objectif harmonisation
+tage, couleurs, figurés, etc.) ;                      par une coopération renforcée entre les pro-
+                                                                                                                       géologique
+- positionnement et interactions (union, inter-       tagonistes pour définir des modèles de don-
+section, etc.) des objets dans la rédaction de        nées «interopérables» comme le propose l’OGC            Pour être exploitables, les données d’un pro-
+la carte par l’auteur ;                               (Open Gis Consortium). Si on se réfère à l’ex-          gramme de cartographie doivent être har-
+- introduction aisée de la donnée quantitati-         périence française en la matière, la norme EDI-         monisées et partager un même « référentiel »
+ve par la gestion de grilles de variables (MNT,       GEO née il y a une vingtaine d’années est               géologique (légende commune, lexiques, base
+isopaques, etc.) ;                                    encore loin d’être appliquée bien qu’elle soit          géographique etc.).
+- interactions entre ces grilles et les objets de     en cours de transposition au sein de l’Euro-
+la carte (polygones, lignes et points).               pe. L’optimisme en la matière doit donc être            Les 1 060 cartes du programme de la carte
+                                                      mesuré et les conversions entre formats seront          géologique de la France à 1/50 000 sont
+Il est manifeste que la maîtrise d’une puissance      encore, pour quelques années, une contrain-             autant de « cartes d’auteur » réalisées depuis
+décuplée offerte par la numérisation engendre         te nécessaire avec toutes leurs conséquences            des décennies par des géologues très diffé-
+des contreparties parfois inattendues pour le         dans la mise à jour des archives et surtout la          rents en formation, culture, âge et sensibili-
+géologue qui entend se l’approprier. En confiant      fluidité des échanges de données.                       té, utilisant des concepts qui ont évolué au cours
+au disque d’un ordinateur une grande par-                                                                     de cette longue période d’acquisition. La gran-
+tie de ses connaissances, il expose ses               L’enseignement de ces techniques aux géo-               de disparité de ces cartes, dont les contacts
+acquis à une perte accidentelle qu’il doit pré-       logues ne s’est imposé qu’avec un certain retard        ne se rejoignent pas toujours d’une carte à
+venir par un archivage méticuleux des sau-            et le plus souvent en fin de cycle supérieur,           l’autre, traduit des divergences scientifiques
+vegardes de ses données. Nous avons tous              voire dans les entreprises pendant les premières        (portant par exemple sur la définition d’une
+subi les conséquences désolantes d’un ordi-           années du métier. Il faut remarquer que ce              formation). Elle reflète aussi des choix de repré-
+nateur, volé, en panne ou privé de courant.           sont les géographes utilisateurs de l’image-            sentation cartographique différents (regrou-
+S’ils ne sont pas prévus, la répétition de ces        rie satellitaire qui ont été les pionniers en la        pement d’unités géologiques ou au contrai-
+avatars peut conduire certains collègues à un         matière et que, de ce fait, ils en ont supporté         re cartographie de plusieurs membres au sein
+stress durable, voire à des dépressions. Heu-         les efforts didactiques. La communauté géo-             d’une même formation).
+reusement, tout géologue sait bien que le report      logique a donc bénéficié de cet acquis et a
+de ses carnets dans des archives fait partie          pu ainsi se focaliser davantage sur les                 L’objectif est d’établir des cartes cohérentes
+du métier et qu’il est inévitable d’en effectuer      méthodes d’utilisation. Dans cette évolution            présentant une information cartographique conti-
+la transposition au domaine numérique.                et compte tenu des masses d’information quan-           nue à l’échelle du territoire, à partir des don-
+                                                      titative qu’ils manipulent, il n’est pas surprenant     nées validées utilisant des terminologies com-
+Bien que nous manquions de recul pour en              qu’au sein du Service Géologique National,              munes (lexiques). Cette réévaluation scientifique,
+percevoir l’éventuelle perversité, le transfert       ce soient les géophysiciens, les géochi-                actuellement effectuée suivant un découpage
+de ses connaissances sur un disque pourrait           mistes et les géologues télédétecteurs qui aient        départemental (une dizaine de feuilles à chaque
+nuire à la synthèse du géologue cartographe           popularisé ces techniques auprès des géo-               fois), est conduite en parallèle à la réalisation
+par amoindrissement de son imagination libé-          logues cartographes qui n’exerçaient leurs              de synthèses cartographiques à l’échelle du
+rée via le dessin sur un carnet. A supposer           dons de dessinateur qu’en aval de leur pro-             1/250 000 (échelle des régions naturelles).
+qu’elle soit avérée, cette supputation pessimiste     duction.                                                Ce travail considérable d’analyse et de syn-
+serait heureusement compensée par la libé-                                                                    thèse intègre, bien entendu, l’état actuel de
+ration de son sens critique : celui-ci peut s’exer-   Aujourd’hui, l’élan numérique est donné et              la connaissance géologique (concepts scien-
+cer sur les multiples variantes de ses hypothèses     les matériels en progression constante. Les             tifiques, connaissances issues de projets
+que l’ordinateur lui offre par de simples chan-       anciens géologues assimilent tant bien que              appliqués et finalisés) et les apports les plus
+gements de variables en fonction des argu-            mal la pratique de ces outils notamment la              récents des techniques numériques (base de
+ments avancés par ses contradicteurs.                 prise en compte des systèmes de projection              données, numérisation des cartes...). Cette har-
+                                                      dont l’ignorance est la première source                 monisation des cartes géologiques intègre éga-
+La dynamique de ce développement informatique         d’erreur de positionnement de leurs observations.       lement les informations fournies par les
+a engendré une pléthore de logiciels dénom-           Parfois, grâce à la puissance des SIG, leurs            forages de la Banque de données du sous-
+més SIG (système d’information géogra-                jeunes virtuoses tirent plus rapidement par-            sol (BSS) et les données sismiques disponibles
+phique) et de structures de données (modèles          tie des connaissances accumulées et peu uti-            dans le domaine public. Dans cette optique
+conceptuels) ainsi qu’une véritable guerre com-       lisées par leurs prédécesseurs pendant plu-             les forages de la BSS font aussi l’objet d’une
+merciale des formats (chaque vendeur de SIG           sieurs décennies de travaux . Ainsi par la              validation, accompagnée d’une harmonisation
+prétend disposer des formats les plus compacts        numérisation des références bibliographiques            des méthodes de description et d’interprétation.
+
+Géochronique n°96, 2005                                                                                                                                    19
+Dossier
+                                                                                                            banque de données géographique qui per-
+                                                                                                            met ensuite par des requêtes la sélection de
+                                                                                                            cartes géologiques entières ou d’éléments
+                                                                                                            cartographiques répartis sur un ensemble de
+                                                                                                            cartes correspondant à une aire géographique
+                                                                                                            donnée.
+                                                                                                            Dans un deuxième temps, il est prévu de numé-
+                                                                                                            riser le contenu des notices des cartes géo-
+                                                                                                            logiques pour ensuite « attacher » la description
+                                                                                                            géologique aux différents objets figurés sur
+                                                                                                            la carte.
+
+                                                                                                            L’information sur mesure :
+                                                                                                            « la carte à la carte »
+
+                                                                                                            Il y a une demande croissante des collecti-
+                                                                                                            vités territoriales ou des services déconcen-
+                                                                                                            trés de l’État, qui utilisent les cartes harmo-
+                                                                                                            nisées comme supports de Systèmes
+                                                                                                            d’information Géographique (SIG), dans leurs
+Ces travaux d’harmonisation sont analysés            Aujourd’hui le transfert en numérique de l’en-         politiques d’aménagement du territoire ou de
+puis entérinés par le Comité de la carte géo-        semble de l’information géologique capitalisée         gestion de l’environnement. Les possibilités
+logique de France, instance réunissant des           sur les cartes géologiques à 1/50 000 déjà             d’exploitation de la carte géologique numé-
+représentants des services de l’État, des uni-       publiées est entièrement achevé. Dans un pre-          rique sont multiples.
+versités, et des établissements publics scien-       mier temps, il s’agit d’une reproduction à l’iden-     Il n’est pas exagéré de parler de « carte à
+tifiques.                                            tique des cartes géologiques à 1/50 000.               la carte », l’utilisateur pouvant en effet l’ex-
+                                                     Les fichiers informatiques contiennent la des-         ploiter strictement en fonction de ses besoins
+                                                     cription de l’ensemble des « objets » figu-            : en définissant lui-même la zone considé-
+La numérisation des données                                                                                 rée, en procédant à la sélection et à l’ex-
+                                                     rés sur la carte géologique répartis dans
+                                                     5 « couches » numériques : formations géo-             traction des données spécifiques qui l’in-
+Si le papier demeure un support privilégié
+                                                     logiques (auxquelles est associé le descrip-           téressent. Cette exploitation personnalisée
+de diffusion, la numérisation puis l’harmonisation
+                                                     tif de la légende), contours géologiques, élé-         des données, par leur croisement, leur com-
+des données de la carte géologique de Fran-
+                                                     ments structuraux linéaires (failles,                  binaison - et avec de logiciels spécialisés -
+ce et de la BSS rassemblées au sein d’un réfé-
+                                                     chevauchements...), éléments ponctuels                 permet à l’opérateur de produire lui-même
+rentiel unique de la géologie de la France
+                                                     divers (carrières, site fossilifères...) et éléments   de l’information nouvelle adaptée à ses besoins.
+ouvrent aujourd’hui des perspectives très larges
+                                                     ponctuels structuraux (indications de pendages,
+d’utilisation pour les élus, les aménageurs,
+                                                     de schistosité, linéations...). L’ensemble de
+les bureaux d’étude, les enseignants, et les                                                                                    D.J., F.H., P.N., D.V., D.B.
+                                                     l’information collectée est stocké dans une
+particuliers.
+
+
+
+La vectorisation et l’harmonisation
+des cartes géologiques ; les bases
+de données associées. Le tableau
+montre comment, aux données
+ponctuelles de la carte-papier
+(polygones des différents terrains,
+lignes des contacts normaux et
+anormaux, points des gisements
+fossilifères, des carrières etc.)
+la carte vectorisée associe
+des données complémentaires
+(les «attributs») codifiées ou rédigées
+(sur tableur) par le géologue et
+classées dans différentes tables.
+Les trois cartes montrent comment
+on passe ensuite de la carte
+vectorisée à la carte harmonisée,
+avec l’exemple de l’harmonisation
+entre deux feuilles à 1/50 000
+de la Côte-d’Or.
+
+20                                                                                                                            Géochronique n°96, 2005
+                                                                                                                               Dossier
+La fabrication
+            Les techniques                            Depuis les années 2000, la gamme couleur               « à plat » de couleur). En plus d’une qua-
+             d’impression                             a été ramenée à 4 couleurs avec 20 pour-               lité visuelle meilleure pour les cartes nouvelles,
+                                                      centages différents, permettant une impres-            cette technique permet de réimprimer les cartes
+L’impression de la carte géologique doit tenir        sion en seulement 5 passages. Auparavant               anciennes épuisées avec un rendu extra-
+compte des souhaits de l’auteur et de ceux            l’association de deux couleurs (jaune+magen-           ordinaire.
+des utilisateurs tout en respectant les règles        ta) offrait 25 nuances, aujourd’hui cette même         Données techniques fondamentales pour l’im-
+de la rédaction cartographique.                       association permet 400 nuances diffé-                  pression des cartes géologiques :
+                                                      rentes.                                                - papier : utilisation d’un papier spécial ren-
+Depuis les années 1970, l’évolution des tech-
+                                                      De plus, aujourd’hui, le transfert des don-            forcé de fibres textiles durables et biodé-
+niques d’impression s’effectue à une vites-
+                                                      nées cartographiques numériques est effec-             gradables ;
+se prodigieuse. Elle apparaît sans limite. Par
+                                                      tué en format EPS (Encapsuled Postscript) sécu-        - encres : emploi d’encres minérales à hau-
+exemple, les presses d’impression sont
+                                                      risé et, après traitement, copié directement           te résistance à la lumière ;
+passées de la monocouleur à une capaci-
+                                                      sur plaque offset par procédé CtP (Computer            - gamme couleur : création d’une gamme
+té de 5 à 10 couleurs en un seul passage
+                                                      to Plate) en garantissant la conformité des            couleur spéciale (4 couleurs, 400 nuances)
+papier.
+                                                      données d’origine. Autrement dit, entre 2003           - impression : presses d’impression de der-
+Les cartes géologiques sont imprimées sur
+                                                      et 2005, on a assisté à la disparition com-            nière génération avec deux formats standards
+des presses 5 couleurs (cyan, jaune, magen-
+                                                      plète de la phase photomécanique (films trans-         de papier (70 x 100) et (120 x 60 cm) et
+ta, noir et nuance au choix), plus faciles à
+                                                      parents pour chaque couleur). De la même               équipées de 5 groupes (cylindres d’im-
+calibrer que les presses dix couleurs. Le choix
+                                                      façon, les épreuves d’essai couleur numé-              pression) ;
+des supports (papiers plastifiés indéchirables),
+                                                      rique sont réalisées dans la journée...                - logiciels Pré-Press : logiciels permettant de
+des encres et le contrôle qualité de toutes
+                                                      En 2004, la grande nouveauté fut l’intro-              traiter les données cartographiques et sur-
+les phases d’impression sont des facteurs impor-
+                                                      duction de la « trame aléatoire ». En                  tout intégrant l’utilisation de la trame aléa-
+tants de garantie du produit final.
+                                                      impression offset, la densité des couleurs est         toire ;
+Jusqu’à la fin des années 1990, la gamme              produite par des densités de trames (lignes            - contrôle qualité : toutes les phases d’impression
+couleur utilisée pour l’impression des cartes         ou points) différentes. En trame aléatoire,            sont sous contrôle qualité ; le BRGM et toutes
+géologiques comprenait 12 couleurs avec               la trame est gérée numériquement pour chaque           les sociétés associées à l’impression sont cer-
+5 pourcentages possibles, obligeant à 13              nuance. Cette évolution permet de donner               tifiées ISO 9001.
+ou 14 passages pour imprimer une carte.               la sensation d’un ton direct (voisin d’un                                                           J.-M.P
+
+
+
+
+Points de vue d’acteurs et d’utilisateurs
+      La carté géologique                             Cette base de données répond également aux             elle est datée et signée. En effet, des choix sont
+      pour quels besoins ?                            besoins exprimés par tous les acteurs (scien-          faits par les auteurs de la carte pour interpréter
+                                                      tifiques, industriels, décideurs publics ou pri-       des affleurements discontinus et des lacunes
+La caractérisation de la nature, de l’âge, de         vés) impliqués dans la gestion, l’aménagement          d’information, pour hiérarchiser la représen-
+la structure et de l’histoire des roches affleu-      et la protection des milieux et des ressources         tation de l’information géologique ou bien pour
+rant à la surface de la Terre est un objectif fon-    naturels. La connaissance de la nature, de l’âge       mettre en lumière une donnée, ponctuelle à
+damental de la connaissance de notre envi-            et de l’architecture des terrains affleurant à la      l’échelle du volume cartographié, mais lour-
+ronnement naturel. C’est à ce besoin que répond,      surface de la Terre est en effet un préalable          de de sens du point de vue scientifique. Ces
+au premier ordre, la carte géologique, et ce          indispensable à :                                      choix expriment, d’une part, le degré de connais-
+quelle que soit son échelle. C’est le système         - la découverte et la gestion des ressources natu-     sance et, d’autre part, les concepts scientifiques
+le plus abouti de représentation de l’information     relles et énergétiques (eau, hydrocarbures, gaz,       prédominants à une époque donnée. La car-
+géologique en tout point de la surface (et/ou         géothermie, métaux de base et métaux pré-              te géologique, dans la mesure où elle est un
+de la sub-surface) terrestre. La carte géologique     cieux, gemmes ...) ;                                   modèle de représentation des données géo-
+est en effet une base de données, validée scien-      - la gestion et la prévention des aléas et risques     logiques de surface et où elle reflète l’état de
+tifiquement, mise à la disposition de toute la        géologiques (aléas gravitaires, sismiques,             la connaissance sur les processus géolo-
+communauté scientifique s’intéressant, d’une          volcaniques, tsunamis, cavités géologiques ...) ;      giques, est alors un instrument indispensable
+part, à la planète Terre et, d’autre part, à l’évo-   - l’aménagement et la gestion du territoire (réseaux   aux enseignants et formateurs en Sciences de
+lution de l’environnement terrestre. Ainsi, la qua-   routiers, plans d’occupation des sols, grands          la Terre. Elle est un des meilleurs vecteurs de
+lité des modèles tridimensionnels de l’exten-         ouvrages ...) ;                                        la transmission de la connaissance géologique
+sion en profondeur des objets et des structures       - la protection des environnements dans le cadre       et de la formation aux géosciences.
+géologiques dépend, pour une part significative,      d’un développement durable.
+de la qualité de l’information acquise en sur-        Au delà de la base de données, la carte géo-           Enfin et de la même façon qu’une base de don-
+face du modèle géologique 3-D, c’est-à-dire           logique est également un modèle de la                  nées est toujours évolutive tant du point de vue
+de la qualité de la carte géologique.                 connaissance géologique. C’est pourquoi                quantitatif (ajout de nouvelles informations) que
+
+Géochronique n°96, 2005                                                                                                                                    21
+Dossier
+qualitatif (réflexion et discussion sur la quali-      des surfaces géologiques et de la topographie,           fines rondelles du corpus des connaissances en
+té et la signification de la donnée acquise),          qui apporte également des informations sur               espérant que chacun, enseignant ou enseigné,
+la carte géologique n’est pas un produit fini,         la géométrie de ces surfaces (limites de couches,        y trouvera son compte est une illusion. Le sau-
+mais au contraire un outil de représentation           contacts tectoniques) et sur les valeurs des pen-        poudrage n’étant pas une solution, alors que faut-
+évolutif. Ce produit doit en permanence être           dages. Un deuxième exercice était l’analyse              il faire?
+réactualisé sous peine d’offrir aux différents         de la carte par le biais du schéma structural.
+utilisateurs (scientifiques, industriels, ensei-       Ce dernier, qui est une représentation simplifiée        Des solutions pour l’avenir ?
+gnants, politiques ...) des données obsolètes          de la carte géologique grâce à des regrou-
+et donc particulièrement dangereuses pour tou-         pements judicieux de terrains, n’était d’ailleurs        Si on continue à penser, et c’est notre cas, que
+te prise de décision concernant les environnements     pas régi par des règles codifiées.                       la maîtrise de la carte géologique est une com-
+naturels.                                              Tout cela nécessitait évidemment un long appren-         pétence indispensable pour tout futur géologue,
+                                                       tissage ! A l’époque, cela ne posait guère de pro-       alors il faut consacrer à son étude le temps
+                      Jean-Marc LARDEAUX               blème puisqu’un temps considérable était consa-          nécessaire. Cependant, la situation se présente
+                        Président du Comité            cré aux TP de cartographie à chaque niveau des           de façon différente suivant qu’on s’adresse
+        de la Carte Géologique de la France            divers cursus, avec d’ailleurs souvent des répéti-       à des étudiants engagés dans les filières qui
+                                                       tions... On imagine sans peine qu’après avoir réa-       les conduiront au métier de géologue au sens
+                                                       lisé au bas mot une cinquantaine de coupes géo-          large (recherche fondamentale ou appli-
+     Place de la carte dans                                                                                     quée) ou aux futurs Maîtres :
+                                                       logiques l’étudiant en fin de parcours avait
+        l’enseignement                                                                                          - pour les premiers, l’étude approfondie de
+                                                       acquis une compétence certaine ; pour jouer du
+         universitaire :                                                                                        la cartographie sous toutes ses formes est indis-
+                                                       piano, il faut commencer par étudier le solfège !
+      quelques réflexions                                                                                       pensable ; topographie, techniques de base
+L’étude de la carte géologique a été longtemps         Le présent                                               de la réalisation des coupes géologiques, équi-
+considérée, et l’est encore par beaucoup, com-                                                                  librage des coupes. Pour réaliser cette dernière
+me une des composantes essentielles de l’en-           La situation actuelle est complètement diffé-            opération, il faut également savoir utiliser les
+seignement des Sciences de la Terre. Hélas, la         rente. En effet, à partir des années soixante-           données de forage et de géophysique. Si on
+majorité des enseignants déplore le faible             dix, le corpus à acquérir en Sciences de la              ajoute à cela l’analyse de la carte grâce au
+niveau des étudiants en cartographie qui se tra-       Terre a littéralement explosé. Chaque disci-             schéma structural et la représentation de lignes
+duit par leur incapacité à dessiner une coupe          pline s’est considérablement diversifiée, des            ou de plans à l’aide des projections stéréo-
+géologique simple de façon réaliste. La peur qu’ins-   domaines nouveaux sont apparus, d’autres,                graphiques, on conçoit aisément que la car-
+pire la carte géologique aux étudiants s’expri-        peu enseignés auparavant, comme par                      tographie à elle seule nécessite un enseignement
+me entre autres par le fait qu’elle est très peu       exemple la géochimie, ont pris une place très            spécifique avec un volume horaire conséquent.
+utilisée lors des épreuves orales des concours         importante dans l’enseignement. Les horaires             - pour les seconds, si on est en droit d’attendre
+d’enseignement, sinon à usage disons...déco-           n’étant pas extensibles, cette expansion s’est           d’un futur professeur qu’il soit en mesure d’uti-
+ratif. Ayant tous deux enseigné la cartographie        faite évidemment au détriment des matières               liser une carte géologique, en revanche il ne
+pendant de nombreuses années, nous allons essayer      déjà présentes, comme la pétrologie, la                  nous paraît pas possible de dégager au cours
+de montrer ce qui, à notre avis, explique une          paléontologie, et bien entendu la cartogra-              de sa formation le volume horaire nécessai-
+telle crainte et nous interroger sur la place que      phie. De plus dans la filière de formation des           re pour l’apprentissage de la coupe. On pour-
+doit occuper la carte géologique dans les divers       Maîtres, compte tenu de l’inflation parallèle            rait penser pouvoir se contenter d’une initia-
+enseignements des Sciences de la Terre.                des connaissances en Sciences de la Vie, il              tion au dessin des coupes dites « à main levée » ;
+                                                       s’est instauré une compétition entre biologistes         c’est une erreur. En effet, pour exécuter une
+                                                       et géologues pour récupérer le maximum de                bonne coupe à main levée, il faut d’abord être
+Le passé                                               temps d’enseignement, compétition dont les               capable de réaliser correctement une coupe
+                                                       géologues ne sont pas sortis victorieux...               classique ! Pour l’utilisation qu’il fera de la car-
+Dans les années soixante, l’enseignement des                                                                    te géologique (en particulier la préparation d’ex-
+Sciences de la Terre accordait une très large          Or, si nous nous limitons au domaine de la car-          cursions géologiques pour ses élèves), le futur
+place à la carte géologique. D’abord on étu-           tographie, il est évident qu’en dessous d’un cer-        maître doit d’abord être en mesure de recons-
+diait de façon détaillée la carte topographique        tain volume horaire, il n’est pas possible à l’étu-      tituer l’histoire qu’elle raconte. Dans ce but
+(les hachures de triste mémoire de la carte au         diant de maîtriser les techniques de base. Et ce         apprendre à réaliser un schéma structural doit
+1/80 000, remplacées heureusement rapi-                d’autant plus que l’étude des cartes topographiques,     être une priorité. En effet, l’élaboration d’un
+dement par les courbes de niveau à                     avec son corollaire, la réalisation de profils topo-     schéma structural impose un « démontage »
+1/50 000...), ce qui sensibilisait aux formes          graphiques a été sacrifiée en premier par manque         de la carte suivant des règles précises, à la
+du relief. Puis on abordait la réalisation des         de temps ; or c’est un préalable incontournable,         fois géométriques et chronologiques ; cet exer-
+coupes géologiques par une méthode qu’on               permettant aux étudiants d’acquérir une perception       cice est à notre avis la meilleure initiation qui
+peut résumer de la façon suivante : toute sur-         du relief qui leur fait en général cruellement défaut.   soit à la compréhension de la carte géologique.
+face plissée devrait être représentée par une          Il ne faut donc pas s’étonner du faible niveau           Quant à la place qu’on peut accorder à la cou-
+courbe dans le plan de coupe, mais il est plus         des étudiants en cartographie ! Remarquons que           pe géologique, notre expérience nous a
+simple dans un premier temps de construire             si nous interrogeons nos collègues enseignant            montré qu’il était plus profitable de faire rai-
+à la place de cette courbe une succession de           d’autres disciplines, quelles qu’elles soient (géo-      sonner l’étudiant sur une coupe existante (calen-
+segments de droite. Ceci permet en particu-            physique, géochimie, sédimentologie, etc...) nous        drier des phases tectoniques, style de la défor-
+lier une analyse fine des variations de pen-           entendons la même antienne ; tous se plaignent           mation, passages de faciès, etc…), que de
+dage au sein des couches. On y associe étroi-          de ne pas disposer d’un temps d’enseignement             l’obliger à construire une coupe avec un résul-
+tement l’analyse géométrique de l’intersection         suffisant ! Il est évident que le saucissonnage en       tat qui en général le décourage.
+
+22                                                                                                                                 Géochronique n°96, 2005
+                                                                                                                            Dossier
+Donc, qu’il s’agisse des étudiants spéciali-          pour leurs cours et leurs travaux pratiques.          naturelles) recensent les principales curiosités
+sés ou des futurs maîtres, on retrouvera l’ac-        Les amateurs, les associations et même le grand       géologiques du territoire métropolitain que
+quisition d’une compétence commune, la réa-           public se montrent de plus en plus friands de         l’on peut découvrir lors de voyages automobiles
+lisation du schéma structural. Les cartes             guides pratiques pour mieux profiter de leurs         ou au cours de randonnées. Au verso, est
+géologiques françaises à 1/50 000 offrent             excursions et d’explications scientifiques sur        imprimée la carte géologique de la France
+des possibilités très variées dans ce domai-          les paysages géologiques qui soient intelli-          à 1/1 000 000 sous une forme simplifiée.
+ne. Il faut à ce sujet saluer l’initiative du BRGM,   gibles au plus grand nombre. Pour répondre            Des encarts pédagogiques précisent la
+qui a sélectionné et mis en valeur certaines          à cette demande, le BRGM pour sa part réa-            répartition des grands types de roches
+cartes présentant un grand intérêt pédago-            lise cinq types de produits.                          (magmatiques, sédimentaires, métamor-
+gique (voir Géochronique n° 90, Juin                                                                        phiques) ou rendent accessibles des données
+2004). Mais nous émettons cependant une               Les pages « Cartes géologiques à intérêt péda-        moins connues (gravimétrie, magnétisme).
+réserve à propos de la publication des nou-           gogique » du site institutionnel du BRGM
+velles cartes à 1/50 000 : l’augmentation             (http://www.brgm.fr/carte50pedago/default.ht).        La carte géologique du département du Loi-
+constante du volume des notices (parfois plus         Ces pages permettent de guider les enseignants        ret à 1/125 000. Cette carte dérivée de la
+de cent pages), certes justifiée par l’abon-          du Secondaire dans leur choix des cartes géo-         carte géologique harmonisée à l’échelle du
+dance des données recueillies sur le terrain          logiques à 1/50 000 et à 1/250 000, elles             département du Loiret constitue une carte sim-
+et en laboratoire, rend malheureusement dif-          tiennent compte des nouveaux programmes               plifiée. La carte géologique du Loiret est la
+ficile leur exploitation rapide pour l’élabo-         SVT (Première et Terminale).                          première carte de ce type à avoir été édi-
+ration d’un schéma structural. L’étude des cartes                                                           tée, elle est accompagnée d’une notice des-
+à 1/250 000 est également très fructueu-              Une sélection de 192 cartes géologiques à
+                                                      1/50 000 à intérêt pédagogique a été éta-             criptive simplifiée des formations géologiques.
+se ; pour ces dernières, nous souhaitons vive-                                                              Commandée par le Conseil Général du Loi-
+ment que la couverture actuelle soit complétée        blie sur 3 critères : présence de formations géo-
+                                                      logiques variées (carte esthétique), d’une            ret, elle a été distribuée dans tous les collèges
+rapidement (la publication récente de la très                                                               du département. Au fur et à mesure de l’avan-
+belle feuille de Montpellier est de bon               coupe géologique en couleur sur sa marge infé-
+                                                                                                            cement du programme d’harmonisation
+augure). Quant à la carte au millionième,             rieure (approche du 3D), et de plusieurs objets
+                                                                                                            des cartes géologiques à 1/50 000 de Fran-
+tous ceux qui l’ont pratiquée savent qu’il s’agit     géologiques pédagogiques bien représentés.
+                                                      Grâce au concours de l’Inspection générale            ce (programme Référentiel Géologique de
+d’un document de premier ordre pour bâtir                                                                   la France), des cartes départementales
+des raisonnements chronologiques.                     de l’Éducation nationale, la sélection initiale
+                                                      des cartes a bénéficié de l’avis des professeurs.     papier pourront ainsi être produites à la deman-
+Un dernier point nous paraît capital ; la com-
+                                                      Leurs commentaires sur les caractéristiques péda-     de. Les kits pédagogiques. Un kit pédago-
+préhension de la carte géologique exige le                                                                  gique est constitué d’une mallette compre-
+contact avec le terrain. En effet, c’est en pra-      gogiques sont repris dans chacune des fiches
+                                                      descriptives téléchargeables établie pour             nant des échantillons, des fiches, des lames
+tiquant soi-même le lever qu’on acquiert rapi-                                                              minces et un CD-Rom présentant la géolo-
+dement la faculté de se représenter en trois          chaque carte de la sélection. Un moteur de
+                                                      recherche permet de sélectionner des cartes           gie d’une région. Ce type de produit est réa-
+dimensions les structures géologiques des-                                                                  lisé par le géologue régional du BRGM avec
+sinées sur la carte. Pour les étudiants spé-          géologiques, par région administrative, et/ou
+                                                      à partir de un ou plusieurs objets géologiques        la collaboration des professeurs de collèges
+cialisés, en principe le problème ne se pose                                                                et de lycées. Le premier kit actuellement dis-
+pas, puisqu’ils participent à des stages de           pédagogiques. Ceux-ci se référent à la géo-
+                                                      logie de base (calcaire, granitoïde, pli,             ponible est celui de la Guyane, il compor-
+terrain. Mais nous pensons qu’il serait très                                                                te la seconde édition de la carte géologique
+utile que les futurs professeurs pratiquent éga-      faille…), à la stratigraphie (principes de la chro-
+                                                      nologie relative, discordance) mais aussi aux         de Guyane (1/500 000) avec possibilités de
+lement cette activité de lever, ne serait-ce qu’une                                                         zooms et d’interrogations. Deux autres kits sont
+                                                      thématiques plus ciblées des nouveaux pro-
+journée dans des structures simples ; ils appren-                                                           en préparation (Réunion, Poitou-Charentes).
+                                                      grammes ou d’exemples associés (transgres-
+draient ainsi à se repérer sur une carte topo-
+                                                      sion du Crétacé supérieur, littoral, glaciation
+graphique, à visualiser le rapport entre le
+                                                      et périglaciaire…).                                                                   B.S., D.J., P.N.
+relief et sa représentation cartographique,
+à comprendre la signification du dessin d’un          Le site spécialisé EDUTERRE (http://eduter-
+contour, à saisir l’importance de la repré-           re.brgm.fr), réalisé en partenariat avec l’INRP              La carte dans
+sentation des formations superficielles. Cet-         (Institut National de Recherche Pédagogique)          l’enseignement secondaire
+te initiation devrait à notre avis être un préa-      permet d’accéder à des bases de données (bases
+lable à tout enseignement de cartographie.                                                                  Pour comprendre les phénomènes géolo-
+                                                      BRGM et bases externes IGN, NASA ...). Il             giques, une représentation des relations spa-
+                                                      permet aussi d’ajouter des sources d’informations     tiales et temporelles des objets est nécessai-
+                                       D.R., N.S
+                                                      complémentaires depuis de fichiers constitués         re : la carte géologique est indispensable à
+                                                      par l’utilisateur et de disposer d’outils simples     l’enseignement des sciences de la Terre.
+    Des cartes géologiques                            de mise en forme et d’analyses de ces                 Selon le niveau, du début du collège à la fin
+      de France à usage                               sources d’information (outils de production de        du lycée, les études s’intéressent à des échelles
+         pédagogique                                  cartes et d’analyses thématiques). Ce site est        différentes, du local au global : toute la pano-
+                                                      en cours de construction.                             plie des documents cartographiques est sus-
+Parmi la demande publique, on constate le                                                                   ceptible de fournir des supports de réflexion.
+besoin croissant d’une information plus               La carte des Curiosités géologiques de Fran-          Mais la carte géologique est un document com-
+pédagogique. Les enseignants sont toujours            ce à 1/1 000 000 (IGN/BRGM). Au rec-                  plexe, qui traduit à la fois les observations de
+à la recherche de supports didactiques                to, des pictogrammes classés en 5 thèmes              terrain et les modèles explicatifs du moment.
+                                                      (géosites, musées, eau, énergies, réserves            Son exploitation est de ce fait délicate, et ren-
+Géochronique n°96, 2005                                                                                                                                 23
+Dossier
+contre des obstacles nombreux : passage du            aujourd’hui qu’une pile de terrains est pleine            témoigne aussi de l’activité des hommes, en
+paysage observé à sa représentation en                de « trous » temporels). Il n’en reste pas moins          indiquant l’emplacement des mines et carrières.
+plan, de la description de surface à une com-         qu’ils conservent une valeur historique indé-
+préhension en trois dimensions, multiplicité et       niable. C’est ce qui explique qu’une collection                                                 P. De W.
+abstraction des symboles ...                          de livres va leur être consacrée, intitulée Patri-
+                                                      moine géologique national : les stratotypes.
+L’identification des cartes au 1/50 000e les          Chaque stratotype sera traité dans un volume,               Comment cartographier
+plus utilisables a été un pas important dans          destiné au public, afin que celui-ci puisse prendre       les bassins sédimentaires ?
+l’aide que l’on peut apporter aux ensei-              conscience de son patrimoine et soit conduit              Les cartes géologiques sont dans la majorité
+gnants. Une réflexion sur l’intérêt pédagogique       à avoir envie de se le réapproprier, de le pro-           des pays des cartes lithologiques, c’est-à-dire
+des autres échelles disponibles, notamment le         téger.                                                    cartographiant des unités ayant les mêmes carac-
+millionième et le 1/250 000e, serait égale-           Le patrimoine géologique se niche aussi au                téristiques physico-chimiques. En géologie sédi-
+ment justifiée. Mais au-delà, la mise à dispo-        coeur des cités car, outre les magnifiques bor-           mentaire, cela se traduit par la cartographie
+sition progressive des versions numérisées ouvre      dures de trottoirs, bien des monuments revê-              de sédiments ayant été déposés dans un même
+des perspectives nouvelles : superposition de         tent des qualités architecturales, artistiques. Leur      milieu de sédimentation, c’est-à-dire ayant le
+données géoréférencées, visualisation en 3D,          vieillissement nécessite un entretien ; aussi convient-   même faciès sédimentaire. En France, mal-
+traitement quantitatif… L’équipement des éta-         il de pouvoir les réparer, si possible avec la            heureusement, nous avons connu un chemin
+blissements scolaires en connexions Internet à        même pierre que celle d’origine. Et c’est là que          différent, cartographiant non des lithologies
+haut-débit se généralise rapidement et, à ter-        l’historien et le géologue se tournent vers la            mais des âges, des intervalles de temps. Ceci
+me, l’accès aux ressources en ligne deviendra         carte géologique pour trouver réponse à leur              est imputable à la culture de notre communauté
+dominant.                                             quête. Témoin du passé de la Terre, la carte              géologique qui fut très fortement dominée par
+                                          G.M.
+                                                                                                    ET LE 80 000e ?
+            La patrimoine
+             géologique                                 Les premières éditions de la carte géo-
+                                                        logique furent réalisées sur le support
+La première carte géologique est née d’une
+                                                        topographique de la carte d’État major.
+volonté d’effectuer un inventaire des richesses
+                                                        Ce fond topographique, en hachures,
+minéralogiques (= relevant du monde miné-
+                                                        est parfois difficile à lire mais il met
+ral) de la France. Elle est due à Jean-Etienne
+                                                        bien en évidence le relief grâce au
+Guettard qui a présenté une feuille en 1746
+                                                        contraste entre les zones à relief faible,
+et qui entreprend ensuite, aidé par le jeune
+                                                        aux hachures espacées, et les zones
+Lavoisier, un projet pour toute la France. Seules
+                                                        à relief accentué, aux hachures plus
+quelques feuilles ont été publiées, notamment
+                                                        ou moins serrées.
+la «carte minéralogique des environs de Fon-
+                                                        Les premières éditions de la carte géo-
+tainebleau, Estampes et Dourdan» gravée en
+                                                        logique datent de la fin du XIXe siècle.
+1767.
+                                                        Elles constituent des documents pré-
+Deux siècles et demi plus tard, on parle enco-          cieux, en particulier pour les archéo-
+re d’inventaire national et il s’agit cette fois de     logues qui travaillent sur l’origine des
+celui du patrimoine géologique. En effet, alors         matériaux de construction ou de
+qu’elle fut pionnière en la matière, la France          décoration des monuments ou des bâti-
+se retrouve aujourd’hui lâchée par le peloton           ments d’une cité. On trouve sur ces
+des nations qui s’intéressent à leur patrimoi-          premières éditions, en effet, des
+ne géologique. C’est grâce à la loi de Démo-            indications sur de nombreuses petites
+cratie de Proximité de février 2002 précisant           carrières souvent exploitées depuis le
+que la géologie s.l. fait partie de la nature (de       Moyen Âge et aujourd’hui disparues,
+façon légale) que cet inventaire va être lancé          comblées, oubliées. Ces carrières n’ont
+au tout début 2006. Le patrimoine géologique            pas laissé de traces suffisantes pour
+concerne des objets ex-situ que sont les col-           que les éditions récentes de la carte Les « comptes rendus des collaborateurs » étaient une
+lections (celles qui restent) et le patrimoine in       géologique les mentionnent. Mais, en           publication où le géologue chargé d’une carte
+situ. Celui-ci doit donc être localisé sur une car-     partant de la première édition à consignait ses observations. Le magazine Géologie de
+te et géoréférencé.                                     1/80 000, des indices de terrain, par-                                la France lui a succédé.
+Les cartes géologiques sont basées sur la notion        fois discrets, permettent d’identifier ces
+d’étages établis à partir de stratotypes.               anciennes carrières. Ces cartes étaient accompagnées d’une notice courte. Mais la briè-
+Cette notion ayant été introduite par Alcide d’Or-      veté de cette notice était largement compensée par des publications de compte-rendus des
+bigny au milieu du 19e siècle, la France est            collaborateurs ou par la publication de mémoires importants dans le Bulletin du service de
+le berceau de la stratigraphie et a la chance           la carte géologique de la France. Il ne faut donc pas ranger ces cartes dans les rayons des
+de posséder beaucoup de stratotypes. Ces stra-          antiquités mais savoir les utiliser comme source bibliographique, en particulier pour l’his-
+totypes, une quarantaine en France, sont des            toire des sciences et des techniques.
+étalons internationaux dont la représentativi-                                                                                                      J.L.
+té temporelle est parfois limitée (on sait
+
+24                                                                                                                                Géochronique n°96, 2005
+                                                                                                                           Dossier
+les biostratigraphes : on cartographiait sur la      correspondant à des étapes bien particulières        connaître la géométrie des sédiments et, pré-
+base du contenu paléontologique ! Cette ten-         du bilan niveau marin relatif / flux sédimen-        férentiellement, en 3D. Cela suppose (1) de
+dance a été rectifiée depuis une dizaine d’an-       taire, donc des variations tectoniques et/ou         bonnes conditions d’affleurements et / ou de
+nées. Nous cartographions désormais des uni-         eustatiques. Elles délimitent des paquets de sédi-   nombreuses données de subsurfaces (sondages
+tés lithostratigraphiques, conformément à la         ments ayant autant de faciès (donc de litho-         avec diagraphies, sismique de qualité..), (2)
+nomenclature internationale (Guillocheau et Jui-     logies) que de milieux de sédimentation              un excellent calage temporel (biostratigraphie
+gnet, 1994) : les formations, subdivisées en         constituant le profil de dépôt du bassin. Deux       croisée sur plusieurs groupes, magnétostrati-
+membres et regroupées en groupes.                    discontinuités successives séparent donc plu-        graphie, bentonites datées...) et, en conséquence
+                                                     sieurs formations, au sens lithostratigraphique      (3) des études longues, donc coûteuses en
+Depuis 1949, et l’invention par Sloss, Krum-         du terme, passant latéralement les unes aux          salaires...
+bein et Dapples du concept d’unité stratigra-        autres. Les lignes-temps n’ont aucune expres-        Faut-il généraliser une cartographie en
+phique délimité par des discordances (« uncon-       sion lithologique particulière puisqu’elles cor-     séquences de dépôts ? Un tel exercice ne peut
+formity-bounded units »), la stratigraphie a connu   respondent à la topographie du bassin (le pro-       être qu’une information superposée sur une car-
+une révolution : le concept de séquence de dépôt     fil de dépôt) à un instant donné. Les séquences      tographie lithostratigraphique standard. Com-
+était né !                                           de dépôts sont donc des entités pluri-litholo-       me nous venons de le voir les informations requises
+Que recouvre cette notion ? Il s’agit de défi-       giques séparées par des discontinuités, expres-      pour tracer des séquences de dépôts suppo-
+nir des unités stratigraphiques qui enregistrent     sion de moments particuliers des variations tec-     sent de nombreuses études pluridisciplinaires,
+les variations des deux paramètres contrôlant        toniques ou eustatiques. Chaque changement           donc des interprétations susceptibles d’être remises
+l’évolution des enveloppes externes de la ter-       de formation, correspondant à une ligne de           en causes. Il faut au maximum coller aux don-
+re (donc les bassins sédimentaires) : la défor-      faciès, traduit un changement de milieu de sédi-     nées factuelles : la lithologie ! Se rajoute un
+mation des plaques lithosphériques et le cli-        mentation le long du profil de dépôt, c’est-à-       travers bien humain, le recours aux modèles
+mat. Les pères fondateurs de la stratigraphie        dire le long des lignes-temps !                      prêts-à-penser. L’évolution des idées en strati-
+séquentielle (Jervey, 1988 ; Posamentier et al.,                                                          graphie montre, ô combien, comment les modes
+1988) ont montré que les mouvements des              Chang (1975) a proposé d’introduire ces              peuvent influer notre façon d’analyser les sédi-
+plaques lithosphériques et le climat contrôlaient    séquences de dépôts comme des entités stra-          ments. Du tout tectonique des années 50 et 60
+indirectement l’enregistrement sédimentaire au       tigraphiques cartographiables avalisant les syn-     (Sloss, 1963, 1964 ; Sloss et Speed, 1974),
+travers de trois paramètres, la déformation du       thèses effectuées par Sloss (1963, 1964) sur         nous sommes passés au tout eustatique (Vail
+substratum du bassin (la tectonique), l’eusta-       le craton nord-américain. Trente ans après était-    et al., 1977 ; Vail, 1992) avant d’arriver à
+tisme et lse flux sédimentaires (flux terrigène      ce une bonne idée ?                                  la situation actuelle où nous réalisons que nous
+et flux néoformé dans le bassin : carbonates,        Il faut tout d’abord signaler que les tentatives     avons négligé le flux sédimentaire ! Quoi qu’il
+évaporites...).                                      de cartographie de séquences de dépôts sont          en soit, la demande accrue d’informations géo-
+Ces séquences de dépôts enregistrent un cycle        peu nombreuses. Un exemple classique est le          métriques 3D à l’échelle des bassins sédimentaires,
+d’avancée - recul du littoral, expression de la      travail effectué par Mutti et ses collaborateurs     aussi bien en recherche fondamentale qu’ap-
+variation du bilan niveau marin relatif / flux       en 1988 sur le bassin d’avant-pays sud-pyré-         pliquée (géométrie des réservoirs et couvertures),
+sédimentaire. Ces cycles s’accompagnent              néen où le Paléogène a été cartographié en           supposera de faire évoluer notre façon de car-
+de la formation de discontinuités cartographiables   séquences de dépôts de quelques millions d’an-       tographier les bassins sédimentaires, en inté-
+comme des érosions continentales (« uncon-           nées de durée, depuis la plate-forme jusqu’aux       grant une double culture tectonique et sédi-
+formity »), des avancées brutales vers la mer        systèmes turbiditiques « profonds ».                 mentologique forte !
+des littoraux (« downward shift ») ou des conden-    ourquoi un si faible engouement ? Cartogra-
+sations marines généralisées. Ces discontinuités     phier des séquences de dépôts suppose de bien                                                       F.G.
+
+Modèle 3D de la Limagne.
+
+
+
+
+Géochronique n°96, 2005                                                                                                                                  25
+Dossier
+     Carte et tectonique :                             avant la déformation sans que cette opération          déformations, l’équilibrage doit être réalisé
+   l’équilibrage des coupes                            fasse apparaître des impossibilités géométriques.      pour chaque déformation ;
+          géologiques                                  Par exemple, avant et après dépliage ; (1) la          - la formulation d’hypothèses tectoniques per-
+                                                       longueur de la base d’une couche plissée com-          mettant l’équilibrage implique des choix sur les
+                                                       prise entre deux traits-repère doit rester la même ;   modes de déformation. On peut admettre que
+L’équilibrage des coupes géologiques est                                                                      le raccourcissement (ou l’extension) est dû au
+une avancée considérable dans la compréhension         (2) si l’on prend deux bases de couches situées
+                                                       à des profondeurs différentes dans la série stra-      jeu d’accidents tectoniques (le raccourcissement
+des structures géologiques complexes comportant                                                               dû aux plis étant connu par construction) ; on
+des plis, des failles et des chevauchements. Cet-      tigraphique, leurs longueurs respectives mesu-
+                                                       rées entre deux plans axiaux de plis doivent           peut admettre également, en particulier pour
+te méthode permet entre autres une représentation                                                             les séries incompétentes épaisses, que le rac-
+réaliste des zones profondes, en général igno-         rester égales entre elles.
+                                                                                                              courcissement (ou l’extension) est dû à la défor-
+rées sur les coupes classiques. Les précurseurs                                                               mation interne de la série (cisaillement couche
+sont le français J. Goguel et surtout le suisse        Equilibrer une coupe consiste à formuler une           sur couche). Bien sûr il est possible de combi-
+H. Laubscher à qui on doit la publication de           suite d’hypothèses tectoniques qui conduiront          ner les deux modes de déformation.
+la première coupe équilibrée, située dans le           à augmenter ou diminuer la surface mesurée
+Jura suisse. Depuis, l’équilibrage des coupes          sur la coupe initiale jusqu’à obtention de sur-        Il faut souligner que plus on dispose de don-
+s’est considérablement développé sous l’impulsion      faces identiques sur la coupe initiale et sur la       nées contraignant la coupe, meilleur sera l’équi-
+de la recherche pétrolière, grâce en particu-          coupe dépliée, appelée coupe restaurée (la             librage ; en particulier il est indispensable d’avoir
+lier aux géologues anglo-saxons.                       surface de la coupe dépliée pouvant être elle-         le maximum d’informations sur la structure en
+Les principes de l’équilibrage sont simples. Si        même déterminée de façon indépendante).                profondeur grâce aux forages et aux sections
+dans une région donnée on considère le volu-           Cette opération se fait par essais successifs,         sismiques. Par ailleurs, l’équilibrage « à la main »
+me global des terrains déformés, on postule            avec à chaque fois comparaison des surfaces            est une opération longue, délicate, et surtout
+que ce volume est conservé pendant la défor-           avant et après déformation, d’où l’expression          imprécise. Aussi utilise-t-on actuellement des
+mation. Sur une coupe traversant ce volume             anglaise imagée « balanced cross-section ».            logiciels d’aide à l’équilibrage (comme par
+déformé, le postulat précédent implique la conser-     Il faut bien insister sur le fait qu’une coupe équi-   ex. LOCACE® développé conjointement par
+vation des surfaces dans le plan de la coupe.          librée ne correspond pas forcément à la réa-           Total CFP, Elf Aquitaine, l’Institut Français du
+Cela veut dire que la surface définie sur la cou-      lité ; en revanche, elle ne comporte pas de            Pétrole, et AGIP).
+pe d’une part par deux traits-repère à l’origi-        contradiction géométrique intrinsèque, alors
+ne et à l’extrémité et d’autre part par la base        que c’est fréquemment le cas sur une coupe             Peut-on équilibrer les coupes dans tous les
+de la couche la plus profonde connue et le som-        non équilibrée. Notons que sur cette derniè-           domaines structuraux ? On a d’abord pri-
+met de la couche la plus élevée doit rester constan-   re, l’existence d’une telle contradiction ne peut      vilégié les domaines de la fracturation et
+te si on supprime la déformation ; cette condi-        en général être décelée que grâce à une ana-           du plissement isopaque en considérant que,
+tion est réalisée s’il n’existe pas de déformation     lyse détaillée.                                        dans les domaines plus profonds, la défor-
+                                                       Une coupe peut être équilibrée si certaines            mation intense et surtout non homogène empê-
+non parallèle au plan de coupe, entraînant une
+                                                       conditions sont respectées :                           chait de contraindre les solutions d’équili-
+« fuite » latérale de matériel. Par ailleurs, la
+                                                       - la construction d’une coupe qu’on désire équi-       brage de façon suffisante. Cependant rien
+conservation des surfaces implique la conser-
+                                                       librer doit être obligatoirement parallèle à la        n’empêche en théorie d’équilibrer des
+vation des longueurs, en l’occurrence les lon-
+                                                       direction régionale de raccourcissement ou             coupes en domaine de plissement anisopaque.
+gueurs des limites de couches avant et après
+                                                       d’extension. Il est donc nécessaire de connaître       D’ailleurs LOCACE le permet, le plus
+déformation. Une coupe géologique respec-
+                                                       cette direction, qui n’est pas nécessairement          important étant encore une fois de s’imposer
+tant ces conditions de conservation des surfaces
+                                                       perpendiculaire à celle des plis cartographiques ;     des règles (conservation des surfaces,
+et des longueurs est dite rétrodéformable ; on                                                                conservation des longueurs et déformation
+                                                       - si le domaine structural étudié a subi plusieurs
+peut la « déplier » pour restituer l’état initial                                                             plane). Si une de ces règles n’est pas res-
+                                                                                                              pectée alors la coupe est fausse. Toutefois
+Anticlinal du fort du Portalet. Coupe équilibrée de la « Matûre », d’après A. Daudignon 2002                  on peut déroger à une de ces contraintes
+(feuille Laruns-Somport à 1/50 000 n° 1069).                                                                  si au moins deux d’entre elles sont main-
+                                                                                                              tenues ; par exemple dans le cas des couches
+                                                                                                              salifères faisons l’hypothèse que la surfa-
+                                                                                                              ce est conservée et que la déformation est
+                                                                                                              plane ; dans ce cas les épaississements exa-
+                                                                                                              gérés peuvent être acceptés en s’autorisant
+                                                                                                              un degré de liberté, en l’occurrence la lon-
+                                                                                                              gueur des limites de couches. En revanche
+                                                                                                              dans le cas des domaines métamorphiques,
+                                                                                                              trop de paramètres interviennent pour
+                                                                                                              qu’on puisse actuellement proposer des solu-
+                                                                                                              tions d’équilibrage réalistes.
+                                                                                                              En tout cas les nouvelles cartes géologiques
+                                                                                                              couvrant des zones déformées devraient pro-
+                                                                                                              poser en légende des coupes équilibrées
+                                                                                                              (lorsque bien sûr cette opération est pos-
+
+26                                                                                                                                Géochronique n°96,
+                                                                                                                                               n°95, 2005
+                                                                                                                            Dossier
+sible) ; quant à la réédition de cartes plus         À l’appui de ces constats, une nouvelle               prement dite a été précédée par une analy-
+anciennes, elle doit être l’occasion d’introduire    phase de cartographie géologique et struc-            se détaillée de la topographie en utilisant la
+ces coupes ou de réviser les coupes exis-            turale a été lancée en 2000, pour chercher            photographie aérienne et le MNT. Il s’agis-
+tantes ; en effet, si une coupe rétrodéfor-          à revoir ces formes de surfaces-repères, dif-         sait de détecter les structures géologiques
+mable n’est pas obligatoirement juste, une           ficilement explicables dans le contexte géo-          potentielles en recherchant leurs influences
+qui ne l’est pas est nécessairement fausse !         logique local. La réduction de ces incerti-           sur la géométrie du réseau hydrographique
+                                                     tudes passait en effet nécessairement par la          et le modelé du relief.
+En conclusion, l’utilité des coupes équilibrées      réalisation d’une nouvelle cartographie               La recherche systématique des replats et des
+est d’apporter des représentations des               ciblée sur le secteur de Poissons, tout en            ruptures de pente, d’origine lithologique ou
+structures géologiques plus complètes et plus        cherchant à établir une chronologie possible          tectonique, a tenu compte des facteurs qui
+vraisemblables que celles des coupes clas-           des différentes phases tectoniques ayant              peuvent altérer le signal, tels que les dépôts
+siques. On est alors en mesure, à partir de          affecté la région entre le Trias et l’Actuel.         de pente (éboulis, colluvions) et les instabili-
+ces coupes, de tester des processus méca-            Ce travail a été réalisé par une équipe de            tés de versant (glissements en masse). À ce
+niques ou géophysiques complexes sur                 géologues structuralistes, stratigraphes et           stade, les alignements de talwegs et les ano-
+des géométries sinon réelles, en tout cas moins      photo-interprétateurs. Le contexte géogra-            malies détectées en bordure de côte n’ont
+« géopoétiques » qu’auparavant !                     phique régional (en particulier l’importance          été interprétés en termes de structures tecto-
+                                                     de la couverture végétale) raréfiant les              niques qu’avec circonspection mais ils ont
+                                       D.R., F.M     affleurements de bonne qualité pour un lever          constitué l’un des principaux guides de pros-
+                                                     géologique, la cartographie de terrain pro-           pection des failles sur le terrain.
+    Les moyens appliqués
+    pour une approche 3D
+   intégrée : cartographie
+                                                     Modèle structural consolidé du secteur de Bure : état des connaissances fin 2003 (document ANDRA).
+   géologique et structurale
+                                                     En bleu, les accidents qui n’affectent que la couverture. En brun, ceux qui s’enracinent dans le socle.
+      du secteur de Bure
+En phase de reconnaissance préliminaire,
+en 1994, l’Andra a tout d’abord précisé la
+cartographie géologique au 50 000e dans
+l’environnement du site de Bure selon une
+bande de terrain d’environ 700 km2 depuis
+Bazincourt au nord du département de la
+Meuse jusqu’à Saint Blin – Semilly en Haute-
+Marne. Les nouveaux tracés ainsi établis ont
+été également raccordés à ceux des feuilles
+de Bar-le-Duc, Joinville, Doulaincourt et
+Neufchateau. Cette approche a nécessité
+que la cartographie de terrain proprement
+dite soit couplée à l’utilisation des logs lithos-
+tratigraphiques des forages pétroliers dispo-
+nibles dans la périphérie, améliorant la
+vision " verticale " de la série sédimentaire.
+En parallèle, le retraitement et l’interpréta-
+tion de la sismique pétrolière disponible ont
+été intégrés aux acquis de terrain et aux logs
+de forages pour permettre de compléter un
+processus de modélisation 3D suggérant
+d’éventuelles incohérences.
+Cette première étape des travaux réalisés en
+Meuse/Haute-Marne a bien évidement faci-
+lité les choix d’implantation des deux pre-
+miers forages de reconnaissance géolo-
+gique qui ont permis de caractériser la cou-
+verture sédimentaire entre le Kimméridgien
+terminal et le Trias évaporitique sur une puis-
+sance d’environ 1100 mètres. Les dernières
+données issues de ces forages ont ensuite
+complété le modèle 3D – par modeleur
+gOcad® – en précisant le tracé de certaines
+surfaces de formation en profondeur et en
+identifiant plus clairement les quelques inco-
+hérences géométriques soupçonnées.
+
+Géochronique n°96, 2005                                                                                                                                 27
+Dossier
+À l’appui de cette approche morpholo-                             Secteur de Bure, fossé de Joinville :
+gique, la cartographie de surface a été                                   rôle de la halite du Keuper
+poursuivie selon plusieurs approches com-                                 dans la tectonique liasique
+plémentaires : une recherche d’indices                                           (document ANDRA).
+directs de failles sur le terrain, une analyse
+microtectonique systématique, une étude              Cette tache conduite par une équipe consti-
+lithostratigraphique fine. Enfin, en complé-         tuée de géologues structuralistes spécialistes
+ment, la constitution de cartes en isohypses,        du Bassin de Paris, renforcée par des inter-
+par interpolation entre altitudes des limites        prétateurs géophysiciens experts / spécia-
+de couches pour chacune des principales              listes de ce bassin, a été conduite selon une
+formations affleurantes, a permis de préciser        méthodologie originale prenant en compte
+les inflexions locales ou leurs rapproche-           l’incertitude à chaque étape d’acquisition et
+ments brusques qui sont autant d’indices             d’interprétation de données. Ses différentes
+d’anomalies structurales possibles.                  étapes ont été les suivantes :
+                                                     - Phase 1 : Analyse critique des données
+La carte géologique et structurale ainsi mise        cartographiques et identification des incerti-
+au point nécessitait une nouvelle fois sa mise       tudes.
+en cohérence avec une interprétation globa-          Elle consiste en un inventaire exhaustif de          géométriques des failles. Cette approche
+le des profils sismiques disponibles, anciens        tous les éléments cartographiques et structu-        permet d’identifier, de hiérarchiser et de
+ou plus récemment acquis et retraités ; c’est        raux disponibles, afin d’évaluer le niveau de        classer les failles. Ce modèle conceptuel per-
+ce qui fut fait en 2002 et 2003.                     connaissance atteint sur les caractéristiques        met de dresser un “catalogue des failles”
+                                                                                                          afin d’identifier chaque segment (figure 1)
+Secteur de Bure : classement absolu des structures selon leur extension cartographique                    pour faciliter l’interprétation des profils sis-
+et la profondeur de leur enracinement (document ANDRA)                                                    miques et s’assurer que géologues et géo-
+                                                                                                          physiciens parlent des mêmes objets structu-
+                                                                                                          raux.
+                                                                                                          - Phase 2 : Interprétation des données sis-
+                                                                                                          miques.
+                                                                                                          Cette phase est scindée en une première
+                                                                                                          étape d’analyse des données et interpréta-
+                                                                                                          tions disponibles, et une seconde, d’inter-
+                                                                                                          prétation homogène des sections sismiques
+                                                                                                          2D sur station de travail Landmark®. Les
+                                                                                                          horizons qui ont été pointés au cours de l’in-
+                                                                                                          terprétation, ont été choisis comme les plus
+                                                                                                          démonstratifs quant à l’évolution géodyna-
+                                                                                                          mique des failles et nécessaires aux besoins
+                                                                                                          des modélisations 3D.
+                                                                                                          - Phase 3 : Consolidation du modèle struc-
+                                                                                                          tural de secteur.
+
+                                                                                                          La mise en cohérence entre les données car-
+                                                                                                          tographiques de surface et la géométrie des
+                                                                                                          failles en profondeur permet d’établir un
+                                                                                                          modèle structural consolidé homogène. Elle
+                                                                                                          conduit à un classement absolu des failles
+                                                                                                          entres elles, d’une part selon leur extension
+                                                                                                          latérale (principale, secondaire, mineure),
+                                                                                                          d’autre part selon les horizons recoupés
+                                                                                                          (socle primaire, couverture sédimentaire
+                                                                                                          superficielle jurassique et crétacée) et leur
+                                                                                                          enracinement en profondeur, découplage
+                                                                                                          d’une structure entre le socle et la couvertu-
+                                                                                                          re, au niveau du Trias, et notamment au
+                                                                                                          niveau des formations salifères (halite du
+                                                                                                          Keuper).
+
+                                                                                                          Le modèle structural consolidé, ainsi établi,
+                                                                                                          a conforté la cartographie géologique de
+                                                                                                          surface en confirmant la cohérence géomé-
+                                                                                                          trique générale. Cette vision géométrique
+                                                                                                          des résultats sous forme de bloc-3D, en utili-
+
+28                                                                                                                          Géochronique n°96, 2005
+                                                                                                                           Dossier
+sant le modeleur gOcad®, agit par ailleurs           L'Andra remercie l'ensemble des géologues,                    Les besoins de
+comme un révélateur d’incohérences ponc-             structuralistes, géophysiciens des sociétés                l’industrie minérale
+tuelles ou d’incertitudes résiduelles qui sont       Antea, Geoter, et des organismes d'ensei-
+autant de pistes de reconnaissances supplé-          gnement et de recherche, G2R, Igal, BRGM,
+mentaires pour continuer à améliorer cette           ainsi que Françoise Bergerat et Dominique          Minerais et minéraux industriels
+cartographie.                                        Frizon de Lamotte - UMR 7072 - qui lui ont         Pour les besoins du présent dossier, Géochronique
+                                                     permis de mener à bien les travaux de car-         a analysé la conjoncture de ces dernières années
+L’expérience de cette reconnaissance du sec-         tographie géologique et structurale sur l'Est      et consulté, à titre d’éclairage, la compagnie
+teur du laboratoire de Bure montre la néces-         du Bassin de Paris au cours de ces dernières       minière AREVA/COGEMA.
+sité de croiser les méthodes d’investigation         années.                                            L’exploration minière pour les substances
+et celle de réactualiser en permanence les                                           R.A.J. et P.E.     concessibles a connu en France ces dernières
+cartes et l’interprétation lors de l’arrivée de                                                         années une évolution radicale : l’exploitation
+données nouvelles.                                                                                      et la prospection pour les métaux et pour la
+                                                                                                        fluorine ont pratiquement disparu. Par contre,
+                                                                                                        la hausse des produits pétroliers a entraîné un
+                                                                                                        intérêt renouvelé pour la prospection des sub-
+Secteur de Bure : marqueurs lithostratigraphiques pointés sur les profils sismiques (document ANDRA).   stances énergétiques, tandis que l’intérêt pour
+                                                                                                        les minéraux industriels (diatomite, zéolites, argiles,
+                                                                                                        calcaire à ciment etc) se maintenait.
+
+                                                                                                        De façon générale, les sociétés minières ont
+                                                                                                        besoin de bonnes cartes géologiques au
+                                                                                                        1/50 000 pour une approche globale lors de
+                                                                                                        la phase de prospection générale. Le but est
+                                                                                                        soit de comprendre le contexte géologique et
+                                                                                                        métallogénique des indices métalliques, soit
+                                                                                                        d’orienter une exploration dans des zones non
+                                                                                                        prospectées où le contexte géologique est favo-
+                                                                                                        rable. Par exemple, le développement de la
+                                                                                                        consommation de la « litière à chats » a entraî-
+                                                                                                        né le renouveau de l’intérêt des groupes indus-
+                                                                                                        triels pour les anciens lacs de cratères d’ex-
+                                                                                                        plosion phréato-magmatiques (« maars ») qui
+                                                                                                        souvent ont favorisé la concentration de
+                                                                                                        diatomite. Les progrès dans la cartographie
+                                                                                                        au 1/50 000 des régions volcaniques
+                                                                                                        récentes sont donc suivis de près.
+
+                                                                                                        L’échelle du 1/50 000 est pratique mais très
+                                                                                                        vite les départements d’exploration des socié-
+                                                                                                        tés minières sont amenés à faire leur propre
+                                                                                                        cartographie à des échelles plus adaptées
+                                                                                                        (1/10 000) à la prospection détaillée des indices.
+                                                                                                        Ensuite les travaux de développement miniers
+                                                                                                        exigent des échelles encore plus grandes
+                                                                                                        (1/1 000 à 1/200).
+
+                                                                                                        Pour les exploitants du sous-sol comme pour
+                                                                                                        ses aménageurs, l’accès à l’information géo-
+                                                                                                        logique cartographique ou plus simplement ponc-
+                                                                                                        tuelle doit être facilité. La tendance semble pri-
+                                                                                                        se par la mise en place d’outils de consultation
+                                                                                                        publique et gratuite comme Infoterre. Elle doit
+                                                                                                        être confirmée par leur développement pour
+                                                                                                        tenir compte du grand volume d’information
+                                                                                                        qui est hélas disponible sous une forme dis-
+                                                                                                        persée et peu structurée pour être aisément gérée.
+                                                                                                        Avec l’appui des exploitants et des aménageurs,
+                                                                                                        le service public est le seul acteur capable de
+                                                                                                        mener un tel projet.
+                                                                                                                                        F.T., L.L., P.L. et J.F.
+
+
+Géochronique n°96, 2005                                                                                                                                    29
+Dossier
+Les besoins routiers, les granulats                  La migration vers les roches dures                          alluvionnaires. En particulier, un schéma direc-
+                                                                                                                 teur de l’approvisionnement de l’agglomération
+Jusqu’à ces dernières années, les granulats à        La plus grande partie de ces ressources est déjà            parisienne en granulats a été réalisé en 1996.
+béton étaient en majorité exploités dans des         épuisée. Le reste a été retiré à jamais des pos-            Ce travail a été confié à l’Institut d’Aménagement
+alluvions de rivière. Mais l’épuisement des gise-    sibilités d’extraction par l’occupation du sol pour         et d’Urbanisme de la Région Île-de-France (IAU-
+ments, les difficultés réglementaires crois-         d’autres usages : urbanisation, réseaux routiers            RIF) et au BRGM, et tous les acteurs ont partici-
+santes pour l’accès à la ressource et les conflits   et ferroviaires. En effet, les gisements de granulats       pé (administrations, profession, environnement,
+d’usages entre les différentes ressources de ce      alluvionnaires correspondent en général à des               associations). Les ressources ont été délimitées
+milieu (eau, agriculture, urbanisation notam-        plaines alluviales qui offrent des terrains plats idéaux    sur des cartes en utilisant les contours des for-
+ment) ont conduit à exploiter de plus en plus        pour y construire les villes, les voies de communication,   mations alluvionnaires indiqués sur les cartes à
+pour granulats des gisements en roche dure,          les réseaux, pour y pratiquer la culture intensi-           1/50 000. Pour calculer le volume de granu-
+où le matériau doit être concassé. Ceci a entraî-    ve. Plus récemment, à ces contraintes très                  lats disponible à l’aplomb de ces surfaces, on
+né une évolution dans l’usage important qui          anciennes sont venus s’ajouter les impératifs de            a recherché et dépouillé les quelques 8000 dos-
+était fait de la carte géologique à 1/50 000,        préserver la qualité des ressources en eau sou-             siers de sondages disponibles dans la BSS et
+que ce soit pour la prospection comme pour           terraine, et d’autres ressources relatives au patri-        dans les archives des laboratoires de l’Equipe-
+les schémas départementaux des carrières, ces        moine, la faune et la flore protégées, la chasse            ment et des Centres d’Etudes Techniques de l’Equi-
+outils de gestion prescrits par l’administration     et la pêche etc. Ces contraintes croissantes et             pement (CETE) pour ces secteurs. On a aussi uti-
+qui sont apparus dans les années 90 (voir Géo-       la necessité d’avoir une base factuelle objecti-            lisé ces sondages et le modèle numérique de terrain
+chronique n° 63, 1997).                              ve pour les discussions et les concertations mul-           de l’IGN à1/20 000 pour tracer le profil trans-
+                                                     tiples ont conduit l’administration à créer un outil        versal de chaque vallée alluviale au niveau du
+                                                     de gestion pour arbitrer de façon publique les              bed rock suivant des intervalles choisis en fonc-
+La prospection en plaine                             usages conflictuels du sol et du sous-sol. C’est            tion du profil géomorphologique de la vallée.
+Pour repérer les gisements favorables, les exploi-   le schéma départemental des carrières. Le                   De la sorte, on a pu calculer le volume et le ton-
+tants utilisent les services des géologues et leur   document de base qui sert à son élaboration est             nage disponible « hors contraintes ». On a ensui-
+premier document de travail est la carte géo-        la carte géologique régulière à 1/50 000. Chaque            te mesuré la part de ces surfaces qui est grevée
+logique régulière à 1/50 000 (ou à défaut            formation théoriquement exploitable est repérée             irrémédiablement par des contraintes « de fait »
+celle à 1/80 000). Le second outil est la Banque     à 1/100 000 sur la carte du schéma par le contour           (zones urbanisées, zones protégées) et celle sou-
+des données du sous-sol du BRGM (BSS). Le            géométrique qu’elle occupe sur le 1/50 000.                 mise à des contraintes moins définitives, éven-
+géologue peut la consulter par Internet avant        Pour ces motifs, l’exploitant a dû reporter l’ex-           tuellement révisables. Ainsi, on a remis aux déci-
+de se rendre au service géologique régional          ploitation sur les carrières de roches dures. Au            deurs et au public des chiffres de ressources et
+pour dépouiller les dossiers-papier des différents   préalable, les ressources alluvionnaires res-               différents scénarios pour concilier leur utilisation
+sondages qui ont traversé les alluvions. Ils le      tantes, dont le coût d’extraction est bien moindre,         la plus rationnelle possible et les autres utilisa-
+renseignent sur l’épaisseur, la qualité du gra-      ont été passées « au crible ». Plusieurs régions            tions du sol et du sous-sol.
+nulat et la profondeur de la nappe qu’il fau-        ont lancé un véritable inventaire de leurs ressources
+dra rabattre, ce qui induira un coût énergé-
+tique et des nuisances à gérer et par la suite                                               Le géologue cartographe du futur
+à réparer. Le réaménagement des carrières                                                  (mais ce sera peut-être une femme…)
+étant en outre devenu obligatoire, la carte géo-
+logique permet aussi au géologue de mieux
+prévoir la remise en état finale du site et de
+localiser les matériaux disponibles pour rem-
+blayer la carrière.
+En ce qui concerne les granulats disponibles
+à l’état quasi « prêt à l’emploi » dans des gise-
+ments alluvionnaires, la plupart des res-
+sources du pays sont aujourd’hui bien cir-
+conscrites. Le principe de base est de
+considérer comme gisements potentiels tous
+les terrains de la carte qui sont cartographiés
+comme alluvions anciennes et récentes, ter-
+rasses, moraines. De tout temps, les compa-
+gnies n’ont pas demandé aux services publics
+de cartographier ces ressources à une échel-
+le plus fine. Elles partent du principe de ne
+pas mettre dans le domaine public des docu-
+ments qui ne pourraient que contribuer à fai-
+re monter le coût de la maîtrise foncière des
+zones potentielles (le granulat étant un maté-
+riau non concessible, l’exploitant doit acqué-
+rir auprès du propriétaire du sol, moyennant
+une redevance, la permission d’exploiter le
+sous-sol ou acquérir les terrains).
+30                                                                                                                                  Géochronique n°96, 2005
+                                                                                                                                   Dossier
+Pour la recherche des gisements de roche dure,           benthos, ressources de la pêche...) et des              ils effectuent en outre de très nombreuses ana-
+le géologue utilise la carte géologique au 1/50000       zones réservées (itinéraires de navigation etc.)        lyses de caractérisation des propriétés physiques
+mais il doit engager des études plus fines, tant         qui imposent une gestion concertée de leur exploi-      des matériaux qui, dans l’état actuel, pour des
+sur le terrain qu’au laboratoire.                        tation qui a commencé (par dragage) en cer-             motifs de lisibilité, ne sont pas reportables à
+Enfin, une seconde voie de substitution pour les         tains points. La carte géologique est donc une          l’échelle du 1/50 000 sur les cartes régulières.
+granulats alluvionnaires s’est ouverte il y a une        des sources de données à prendre en compte.             Ils doivent donc instruire et tenir à jour des docu-
+décennie avec les granulats marins. D’importants         En ce qui concerne les matériaux pour remblais          ments de travail internes parallèles, sous for-
+gisements de ce type ont commencé à être inven-          routiers (à terre) une grande finesse est requi-        me de bases de données. Pour cette raison,
+toriés par l’IFREMER dans les années 70 au lar-          se pour la prospection. Les laboratoires des Ponts      les besoins en matière de cartographie géo-
+ge des grands estuaires de la facade atlantique          et Chaussées et les CETE associés sont passés           logique « pour le futur », ce sont désormais des
+du pays (Baie de Seine surtout) et sur d’autres          maîtres dans ce domaine depuis des décen-               cartes de paramètres et, globalement, un sys-
+côtes. Depuis, l’effort des pouvoirs publics et des      nies. Ils utilisent au départ les cartes géologiques    tème qui permette de restituer ces données à
+opérateurs s’est reporté comme à terre sur la réa-       régulières à 1/50 000 mais ils doivent com-             la demande et de les superposer aux données
+lisation de cartes factuelles des différentes            biner leurs données avec de multiples paramètres        cartographiques traditionnelles.
+autres ressources à préserver (flore sous-marine,        géotechniques. La BSS est un de leurs outils mais                                                      J.F.
+
+                                                 VALEUR ÉCONOMIQUE DES CARTES GÉOLOGIQUES
+
+  Après la cartographie géologique à 1:24 000 des états du Kentucky et de l’Illinois, une étude a été entreprise pour estimer la valeur
+  économique de ce travail.
+  L’établissement de la carte du Kentucky a coûté 90 millions de dollars dont 27,7 millions ont été récupérés dans la commercialisation des
+  cartes. Une enquête a été menée auprès de 2 200 utilisateurs, dont 440 ont répondu. Elle fait apparaître que :
+  - la collecte des données aurait représenté 17 % des coûts des projets, en l’absence de la carte ;
+  - le coût minimum épargné dans la collecte des données se monte à 27 776 $ par feuille de la carte ;
+  - l’existence de cartes géologiques détaillées a permis une économie de 43 527 $ par feuille de la carte ;
+  - il faut en soustraire 342 $ pour l’achat d’une feuille.
+  On aboutit pour l’ensemble de la couverture du Kentucky à une valorisation entre 2,25 et 3,35 milliards de dollars, soit 25 à 39 fois le coût
+  de la réalisation des cartes.
+
+  M.J. (d’après le Service géologique d’Illinois et Geotimes déc. 2000)
+
+
+
+
+Les nouveaux besoins
+          La carte du futur                              d’aléas* (risques sismiques, cavités souterraines,      représenté à diverses échelles et se doit de
+                                                         retrait-gonflement des argiles, glissements             préserver une cohérence géométrique dans
+En France, comme à l’étranger, la carte géo-             de terrains, inondations, avalanches etc.). La          les trois dimensions de l’espace.
+logique est l’un des vecteurs primordiaux pour           gestion raisonnée des ressources (eau, éner-
+la mise à disposition de la connaissance de              gies, matériaux...) exige également des                 Depuis une vingtaine d’années, la carte
+l’infrastructure géologique, indispensable au            modèles géologiques perfectionnés s’ap-                 géologique a évolué en accompagnant les chan-
+développement économique d’un pays.                      puyant toujours en première analyse sur la car-         gements liés à trois révolutions conceptuelles
+                                                         te géologique.                                          et technologiques majeures :
+Outil de gestion et d’aide à la décision                 Pour toutes ces raisons, la carte géologique            La connaissance de la dynamique des enve-
+                                                         est un instrument essentiel du développement            loppes externes et internes de la terre a pro-
+Du point de vue des institutions publiques et                                                                    fondément été renouvelée par les applications
+des utilisateurs de l’espace souterrain, la car-         durable. C’est un produit qui évolue pour
+                                                         répondre au mieux aux demandes formulées                de la tectonique des plaques mais aussi par
+te géologique est devenue aujourd’hui un outil                                                                   l’essor des techniques de géochronologie abso-
+indispensable d’aide à la décision, souvent              dans les enquêtes régulières menées auprès
+                                                                                                                 lue, la connaissance des structures des bas-
+utilisé comme document de référence et                   de ses utilisateurs (industriels, services et agences
+                                                                                                                 sins et des chaînes de montagne, la carac-
+combiné avec des bases de données. A titre               de l’Etat, des régions, des départements, cher-
+                                                                                                                 térisation des liens entre érosion, climat et
+d’exemples, on peut citer les politiques                 cheurs, enseignants, particuliers).                     mouvements tectoniques, etc.
+d’aménagement qui reposent sur la connais-                                                                       Cette évolution permanente de la connaissance
+                                                         Un modèle de représentation qui a évolué
+sance géologique des terrains et sur leur apti-                                                                  impose inexorablement, même si elle ne
+tude à être utilisés pour différentes finalités (stoc-   La carte géologique est avant tout un modè-             change pas fondamentalement la façon dont
+kage, enfouissement, percement de tunnels...) ;          le de représentation de l’information liée à l’his-     le géologue lève la carte, une révision du modè-
+la prévention des risques naturels qui valori-           toire, à la forme et aux propriétés des objets          le « carte » et une mise à niveau de l’information
+se la carte géologique pour dresser des cartes           géologiques. Ce modèle peut être conçu et               fournie par la carte géologique.
+
+Géochronique n°96, 2005                                                                                                                                         31
+Dossier
+Le développement des moyens
+de traitement numérique
+de la donnée
+La carte géologique est devenue numérique,
+les informations ont été codées et standardi-
+sées et ont ainsi pu être intégrées à des modèles
+3D complexes, combinant les données géo-
+physiques. Cette évolution est en cours et néces-
+site de gros investissements et moyens techniques
+et humains. Les techniques de positionnement
+spatial (GPS, interférométrie, MNT...) permettent
+désormais à toutes les informations géologiques
+recueillies d’être géoréférencées dans les
+trois dimensions de l’espace (x,y,z) et ce de
+façon numérique dès l’acquisition sur le terrain.
+Cette définition spatiale des informations
+géologiques permet leur gestion en bases de
+données, leur intégration dans des modèles                                                       Notion de régolithe (source : British Geological Survey ;
+géométriques volumiques en trois dimensions                                                               définition de l’ouvrage «glossary of geology»).
+et leur croisement avec d’autres sources de don-
+nées, non géologiques.
+                                                    mais aussi un filtre ou un réceptacle pour les       semble des roches non consolidées, en pla-
+                                                    pollutions, entrent en compte dans la prévention     ce ou non, recouvrant le substratum rocheux.
+Alors que l’essor industriel du 20 siècle avait
+                                   e
+                                                    et la gestion des risques naturels, sont le lieu     Une connaissance fiable de ces formations de
+conduit à explorer les ressources du sous-sol
+                                                    de tous les aménagements et constituent un espa-     la surface est nécessaire pour leur associer des
+profond dans une tranche 0-1000 m, les prio-
+                                                    ce utilisable dans la production d’énergie (géo-     cartes de paramètres qui sont nécessaires aux
+rités se sont progressivement déplacées vers
+                                                    thermie très basse énergie). Enfin, ce sont les      autres thématiques. Les cartes géologiques futures
+la surface en suivant les préoccupations crois-
+                                                    supports de toute activité et production animale     devront alors mieux caractériser certaines pro-
+santes concernant l’environnement et la pré-
+                                                    et végétale.                                         priétés (physiques, chimiques, hydrogéolo-
+servation des espaces naturels. Les formations
+géologiques de la surface, dans une tranche                                                              giques…) des formations géologiques dans cet-
+0-100 m, supportent l’activité humaine, sont        Ces formations de la surface sont encore appe-       te tranche 0-100 m.
+une source de matériaux exploitables, offrent       lées « régolithe*», terme remis à la mode par
+une zone de stockage et de transfert pour l’eau,    les anglo-saxons qui le définissent comme l’en-      Les paramètres qui pourront être associés aux
+                                                                                                                          informations géologiques
+                                                                                                                          seront différents en fonction
+                                                                                                                          des applications thématiques
+                                                                                                                          (cf. fig. p. 33). Par exemple,
+                                                                                                                          les paramètres nécessaires
+                                                                                                                          dans le domaine des eaux
+                                                                                                                          souterraines ne seront pas
+                                                                                                                          ceux utiles à la prévention des
+                                                                                                                          risques naturels. Une meilleu-
+                                                                                                                          re connaissance de cette
+                                                                                                                          tranche superficielle de notre
+                                                                                                                          planète passe également
+                                                                                                                          par la modélisation des pro-
+                                                                                                                          cessus qui président aux
+                                                                                                                          échanges solides, liquides ou
+                                                                                                                          gazeux entre les interfaces
+                                                                                                                          de la géosphère, de la bio-
+                                                                                                                          sphère et de l’atmosphère ain-
+                                                                                                                          si que de leurs évolutions dans
+                                                                                                                          le temps.
+
+                                                                                                                            Classement
+                                                                                                                            des informations
+                                                                                                                            géologiques 3D
+                                                                                                                            par échelles et par
+                                                                                                                            domaines thématiques,
+                                                                                                                            contribution des autres
+                                                                                                                            sources d’informations.
+
+32                                                                                                                          Géochronique n°96, 2005
+                                                                                                                                   Dossier
+Cartographie de paramètres (documents R. Wyns) :
+a : coupe du régolithe.
+b : cartographie de la résistance de pointe sur
+la feuille Chemillé.
+c. Organigramme de réalisation de la carte 3D
+de la réserve en eau souterraine de la région
+de Plabennec : la colonne du centre indique
+la teneur en eau (en %) obtenue par sondages
+géophysiques qui ont mesuré la Résonance
+Magnétique Profonde.
+                                                      a
+                                                                            b                        c
+
+
+
+
+                                                                                                            Paramètres et thématiques dans la tranche 0 - 100 m.
+
+Une nouvelle palette de techniques spatiales              gènes et définies à partir d’une ou plusieurs          de cartographier l’aimantation des roches, pro-
+pour l’acquisition de données géologiques                 caractéristiques des formations géologiques.           priétés caractérisant certaines formations géo-
+                                                                                                                 logiques. D’autres techniques comme la radio-
+La géophysique aéroportée et l’observation satel-         Plusieurs applications de ces méthodes statistiques    métrie spectrale, permettent de mesurer les
+litaire font partie des techniques grâce auxquelles       de classification automatique à partir des signaux     rayonnements gamma, eux-mêmes proportionnels
+une connaissance du sous-sol toujours plus poin-          physiques (optiques, magnétiques, radiomé-             à la teneur en radioéléments d’uranium (U),
+tue peut se développer sans remplacer les obser-          triques...) ont été réalisées dans plusieurs pays      de potassium (K) ou de thorium (Th), naturel-
+vations et les prélèvements sur le terrain. La com-       d’Afrique de l’Ouest, en Namibie, mais éga-            lement présents dans certains types de roches.
+binaison des données géologiques, géophysiques            lement en Guyane et sur le Massif Armoricain           Le traitement statistique de ces cartes élémentaires
+et satellitaires permet d’obtenir une cartographie        à la suite de programmes d’acquisitions                permet d’établir de manière semi-automatique
+géologique semi-automatique dite intégrée. La             aéroportés.                                            des cartes géologiques prédictives, qui rendent
+particularité de ce type de cartographie                                                                         compte de la variabilité des formations géo-
+repose sur l’utilisation d’algorithmes statistiques       A titre d’exemple, l’enregistrement du champ           logiques et que l’on ira ensuite valider sur le
+permettant de cartographier des zones homo-               magnétique lors d’un survol aéroporté, permet          terrain (cf. fig. p. 35).
+
+Géochronique n°96, 2005                                                                                                                                         33
+Dossier
+
+
+
+
+                                                                                           Approche cartographique intégrée
+
+
+
+Aujourd’hui les géologues utilisent deux             par les images doivent être corrélées avec des         lité virtuelle etc. constituent aujourd’hui des vec-
+familles d’images fournies par différents cap-       observations de terrain.                               teurs privilégiés pour une restitution claire et
+teurs aéroportés et satellites. L’imagerie                                                                  compréhensible de l’information géologique.
+optique, de même nature que la photo aérien-         Consensus sur la nécessité de disposer d’un
+ne, permet de caractériser la surface dans des       référentiel géologique 3D de la subsurface             L’objectif est de visualiser et de modéliser en
+bandes spectrales allant en général du visible                                                              trois dimensions la géométrie et les proprié-
+à l’infrarouge. L’imagerie radar, issue de cap-      L’intégration, réussie par la carte géolo-             tés du sous-sol, à partir du couplage des cartes
+teurs actifs, résulte de l’interaction entre l’on-   gique, de données naturalistes et de mesures           géologiques à différentes échelles, des don-
+de radar émise et le sol, fournissant localement     (physiques, chimiques...) dans un même                 nées altimétriques, des données en géologie
+des informations de sub-surface. Outre la car-       référentiel est cruciale pour livrer une information   de surface, des données géophysiques et des
+tographie des formations géologiques, les appli-     synthétique et non biaisée. L’ utilisateur sou-        données de forages. La 4e dimension, celle
+cations concernent la cartographie des zones         haite désormais disposer d’une information             du temps, déjà intégrée dans la carte géo-
+de pollution, des zones à risque, à ruisselle-       précise, fiable, en temps réel sur son ordinateur      logique, doit aussi figurer dans les modélisations
+ment, érosion, mouvements de terrain, des types      personnel, et la visualiser en diverses dimen-         (4D). Cette dimension temporelle est primor-
+de culture... Là encore les données fournies         sions. Images de synthèses, imagerie 3D, réa-          diale pour développer les simulations.
+
+34                                                                                                                             Géochronique n°96, 2005
+                                                                                                                             Dossier
+
+
+
+
+                                                                                                                Classification par ascendance
+                                                                                                                hiérarchique en Guyane.
+                                                                                                                Le traitement croisé des paramètres
+                                                                                                                n’aboutit pas à une cartographie directe
+                                                                                                                des formations géologiques mais à
+                                                                                                                une carte d’anomalies ou de subdivisions
+                                                                                                                jusqu’alors insoupçonnées qui avaient
+                                                                                                                échappé au lever de terrain et qui invitent
+                                                                                                                le géologue à des contrôles sur place.
+
+
+En conclusion, la carte géologique papier est        de mise à disposition de l’information géolo-         - une quatrième conséquence concerne la res-
+une vision en 2 dimensions d’un modèle en            gique. Plusieurs conséquences découlent de cet-       titution des informations qui devra être sous
+trois dimensions de la répartition géographique      te évolution future :                                 forme numérique et 3D/4D aussi bien que sur
+des propriétés de lithologie, d’âge, d’orien-        - l’une des conséquences et non des moindres          papier on peut prédire que les différentes formes
+tation des formations géologiques. Autrement         est qu’aujourd’hui (et demain) ce « modèle car-       de cartographies géologiques auront toujours
+dit, les informations géologiques, géoréférencées,   te géologique » doit être conçu pour un pro-          besoin d’édition papier ;
+sont associées à des paramètres quelle que           duit final en 3D par le géologue, dès l’acquisition   - enfin une cinquième conséquence est impli-
+soient l’échelle, la profondeur, l’âge…              de la donnée ;                                        cite ; elle concerne l’évolution obligatoire des
+                                                     - une seconde conséquence va consister à fran-        programmes géologiques qui devront désor-
+La réponse aux besoins actuels et futurs             chir des sauts technologiques importants pour         mais garantir de façon pérenne le stockage
+Le produit de mise à disposition de la connais-      acquérir des informations en continu (méthodes        des données, leur accessibilité et leur inter-
+sance géologique, qui répondra aux besoins           indirectes d’acquisition en géophysique etc.)         opérabilité.
+des utilisateurs est un modèle continu en 3D qui     que ce soit pour acquérir des données en géo-                                           D.V., C.T., P.L.
+fournit l’information en tout point de l’espace      logie de surface (0-100 m) comme à grande
+sur la lithologie et les propriétés physiques des    profondeur (sismique profonde, géophysique            *Aléa : événement naturel (ou non) dont
+roches. Ce modèle nécessite l’intégration des        aéroportée...) ;                                      on essaie d’évaluer la probabilité qu’il se
+données géologiques avec les données multi-          - une troisième conséquence concerne les méthodes     produise et les dégâts qu’il entraînera.
+sources géophysiques. Les propriétés physiques       de traitement qui permettent l’harmonisation et
+essentielles à la modélisation géophysique (den-     l’actualisation des données et leur modélisa-         *Régolithe : ensemble des roches non conso-
+sité, susceptibilité magnétique, conductivité        tion en 3D et 4D avec la dimension temporelle.        lidées comprenant les altérites, les formations
+thermique, électrique...) doivent désormais          Il n’est pas exagéré de parler de « carte à la        superficielles et les sols ; elles sont expo-
+être acquises pour cette modélisation géophysique.   carte » ou de « blocs 3D d’information numé-          sées dans une tranche comprise entre zéro
+La carte géologique devient alors un produit déri-   rique » le tout bien entendu disponible en ligne      (roche affleurante) et 100 mètres d’épais-
+vé, papier et numérique, d’un produit nouveau        (via Internet par exemple) ;                          seur, d’où le vocable « 0-100 m ».
+
+
+
+
+Géochronique n°96, 2005                                                                                                                                 35
+Dossier
+           LA CARTE DU PLATEAU
+               CONTINENTAL
+ Une cartographie géologique de la transition
+ Terre-Mer et du plateau continental répond
+ aux questions posées à toutes échelles par
+ l’aménagement et la protection de l’environ-
+ nement des régions littorales et maritimes.
+ Celles-ci sont soumises à des pressions tou-
+ jours croissantes : aquifères côtiers, res-
+ sources en matériaux, dynamique sédimentai-
+ re et évolution des côtes, risques géologiques,
+ protection des écosystèmes... La connaissan-
+ ce du sol et du sous-sol marins a constamment
+ bénéficié des développements importants des
+ systèmes acoustiques et des moyens informa-
+ tiques pour l’acquisition, le traitement et l’in-
+ terprétation de données analogiques puis            Plate-forme sud-armoricaine : carte isochrone (seconde temps double) du toit du substratum
+ numériques de plus en plus précises. Il est               montrant les incisions quaternaires de la plate-forme interne (carte Perros-Guirec,
+ aujourd’hui possible de constituer un                     projet Cotarmor, données Géosciences Rennes, Université de Vannes et BRGM).
+ ensemble complet de couches d’informations
+ numériques détaillées sur la morphologie et
+ les structures des fonds marins (modèles
+ numériques de terrain au pas de quelques
+ mètres), leur réflectivité (carte d’imagerie
+ acoustique géoréférencée), la géométrie et
+ les faciès acoustiques des unités sédimen-
+ taires, à des résolutions sans cesse améliorées
+ : d’une dizaine de centimètres pour les
+ couches les plus superficielles à quelques
+ mètres pour les premières centaines de mètres
+ du sous-sol. Les atlas cartographiques présen-
+ tant les informations disponibles sur les divers
+ niveaux du sol et du sous-sol marin sont aussi
+ aujourd’hui constitués sous forme de SIG et
+ de bases de données présentant de nom-
+ breuses données traitées et interprétées. Ces
+ bases permettent d’élaborer des modèles 3D
+ à diverses échelles. Face au nombre de plus
+ en plus élevé des données, un des principaux
+ objectifs immédiats réside dans la constitution
+ à l’échelle nationale d’ensembles bien gérés
+ de données homogènes et aisément acces-
+ sibles sur les domaines côtiers et le plateau              Modèle 3D de la surface messinienne du Canal de Corse (marge orientale)
+ continental. La réalisation d’un programme                     élaboré à l’aide du logiciel « Editeur géologique 3D » du BRGM
+ de cartographie systématique, à l’instar de ce              à partir de profils sismiques interprétés (données IUEM Brest et BRGM).
+ qui est entrepris par certains pays (Irlande,
+ Belgique, Pays-Bas...), représente un challen-
+ ge à long terme qui implique des moyens très
+ importants pour l’acquisition, la gestion et le
+ traitement mais aussi pour l’interprétation des
+ données. Il faut souligner que l’emploi de
+ données indirectes toujours plus précises et
+ les modèles sans cesse améliorés nécessite-
+ ront toujours une calibration et des contrôles
+ par des données géologiques fiables, notam-
+ ment les carottages dans les sédiments
+ sableux et les forages courts dans les unités
+ sédimentaires.
+                                             P.G.
+
+
+36                                                                                                                    Géochronique n°96, 2005
+

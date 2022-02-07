@@ -1,0 +1,2043 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/259980028
+
+
+
+Thick-skinned and thin-skinned styles of continental contraction
+
+Data in Special Paper of the Geological Society of America · January 2006
+DOI: 10.1130/2006.2414(09)
+
+
+
+
+CITATIONS                                                                                              READS
+
+38                                                                                                     1,897
+
+
+1 author:
+
+             O. Adrian Pfiffner
+             Universität Bern
+             132 PUBLICATIONS 4,205 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+              Geology of the Alps View project
+
+
+
+              NFP/PNR20 Deep structure of the Alps View project
+
+
+
+
+ All content following this page was uploaded by O. Adrian Pfiffner on 02 February 2014.
+
+ The user has requested enhancement of the downloaded file.
+GSA_sp414_chapter_09.qxd          9/25/06      1:41 PM       Page 153
+
+
+
+
+                                                                          Geological Society of America
+                                                                               Special Paper 414
+                                                                                      2006
+
+
+
+
+               Thick-skinned and thin-skinned styles of continental contraction
+
+                                                                         O. Adrian Pfiffner
+                                                         Institute of Geological Sciences, University of Bern
+
+
+                                                                                 ABSTRACT
+
+                                      Continental crust subjected to horizontal contraction in convergent settings
+                                 deforms in a variety of styles. In many instances, it is useful to consider the deforming
+                                 crustal sections in terms of crystalline basement rocks underlying incipiently unde-
+                                 formed sedimentary strata. Three deformation styles are commonly found in such set-
+                                 tings. The structural style referred to as thin-skinned tectonics encompasses a stack of
+                                 thrust sheets composed of non- or weakly metamorphic sedimentary rocks. The associ-
+                                 ated thrust faults usually level off in a mechanically weak décollement horizon along
+                                 which a substantial amount of displacement occurs in the course of the formation of the
+                                 fold-and-thrust belt. Thrust faults may also cut down into the crystalline basement and
+                                 level off a few kilometers beneath the basement-cover interface. The term basement-
+                                 involved thin-skinned tectonics is proposed to describe this style of continental contrac-
+                                 tion. This style, too, is characterized by stacks of thrust sheets. In many cases however,
+                                 such nappe stacks are overprinted by pervasive folding of a crust thermally weakened
+                                 by magmatic activity or regional burial metamorphism. Thick-skinned tectonics seems
+                                 less common. This style implies that thrust faults cut across the entire upper crust (and
+                                 possibly the lower crust). The associated continental contraction is smaller, and the ensu-
+                                 ing deformation is characterized by warping of the basement-cover interface.
+                                      Displacements accumulated in a major basal detachment horizon may connect
+                                 into mantle by means of a subduction zone. However, under elevated temperatures,
+                                 pervasive deformation of the hanging wall and footwall rocks may compensate large
+                                 displacements over relatively short distances.
+                                      Thin-skinned fold-and-thrust belts are common on both sides of collisional oro-
+                                 gens. Noncollisional orogens tend to be more asymmetric.
+
+
+         INTRODUCTION                                                                            Taking into account that the thickness of sedimentary strata
+                                                                                            overlying crystalline basement rocks varies from orogen to oro-
+              In convergent plate tectonic settings, the lithosphere is sub-                gen, the associated structural styles differ owing to a number of
+         jected to horizontal shortening. The ensuing deformation pro-                      factors. Coupling to the basement is influenced by the particular
+         duces a variety of structural styles involving folding and thrusting               lithologies involved. Anisotropy within the sedimentary sequence
+         at various levels within the lithosphere. Thrust faults may be sim-                and competence contrasts between adjacent layers largely control
+         ple reverse faults forming at ,30° to horizontal layering, or dip-                 the structures formed by shortening. Finally, the temperature pre-
+         ping faults leveling off at depth into a detachment horizon. Thrust                vailing in the lowermost part of the section may play an impor-
+         faults are generally associated with fold structures, and it was the               tant role on the formation of a décollement and the internal
+         latter that caught the attention of early workers studying mountain                deformation of the sedimentary strata. Moreover, it must be
+         ranges. These workers also realized the importance of distinguish-                 expected that, in many orogens, the structural style is a product of
+         ing crystalline basement rocks from sedimentary cover rocks.                       a prograde sequence of deformation phases, where the higher
+
+         Pfiffner, O.A., 2006, Thick-skinned styles of continental contraction, in Mazzoli, S., and Butler, R W. H., Styles of Continental Contraction: Geological Society
+         of America Special Paper 414, p. 153–177, doi: 10.1130/2006.2414(09). For permission to copy, contact editing@geosociety.org. ©2006 Geological Society of
+         America. All rights reserved.
+
+                                                                                       153
+GSA_sp414_chapter_09.qxd       9/25/06     1:41 PM     Page 154
+
+
+
+
+         154                                                                Pfiffner
+
+         temperatures reached in the later stages overprint and conceal the       etry of the thrust sheets involved and the type of nappe-internal de-
+         earlier brittle features.                                                formation. The following four examples are intended to illustrate
+              Structural styles involve the assessment of the continuation        this usage.
+         of thrust faults at depth. As discussed by Elliott and Johnson
+         (1980), thrust faults are basically concave upward (or listric).         Thin-Skinned Style—Jura Mountains
+         However, this shape is not smooth but rather forms a staircase tra-
+         jectory with short ramps through competent units and long flat                The Jura Mountains are situated in the NW foreland of the
+         segments in incompetent units. Motion along such thrusts leads           Swiss Alps within France and Switzerland. The chain formed in
+         to folds, as has been recognized by Rich (1934) already. Such            Cenozoic, mainly Pliocene times in response to outward growth
+         folds are known as fault-bend folds (Suppe, 1983). In a different        of the Alpine orogen. The structural style within the chain is
+         scenario, folds can be envisaged to form at the tip of a thrust fault,   dominated by fold structures that form an arc spanning 150 km.
+         the fault propagating across bedding within the fold structure and       The internal part of the chain, the so-called Folded Jura, is char-
+         breaking through in a late stage only. These folds are termed fault-     acterized by upright folds (see Fig. 1). These folds had already
+         propagation folds (e.g., Suppe and Medwedeff, 1990). As has              been recognized as detachment folds (also called lift-off folds)
+         been argued by Boyer and Elliott (1982), structural styles also          by the early workers who got insight into the internal structure
+         imply rules on how thrust faults interconnect. Typical geometri-         of the folds from railroad tunnels (e.g., Buxtorf, 1916). The
+         cal elements include imbricate fans and duplexes, both of which          detachment horizon is formed by Middle and Late Triassic
+         involve a basal sole thrust fault within a weak décollement hori-        evaporites. In many of the folds, the steep limbs are cut by
+         zon, from which a number of thrust faults splay upward across a          steeply dipping reverse faults that correspond to a vertical
+         more competent unit. This structural style has been described by         stretching of the entire section. In other cases, early formed
+         Dahlstrom (1970) and Royse et al. (1975) in the Foreland Belt of         reverse faults were subsequently folded. In the external part of
+         the North American Cordillera. An additional tool in analyzing           the Jura Mountains, the Plateaux Jura, NW verging reverse
+         structural styles is to keep track of the displacement along a fault     faults prevail. The southern end of the Jura Mountains was dis-
+         (Pfiffner, 1985). The displacement is only constant as long as a         placed about 15 km to the NW in the course of the thin-skinned
+         rigid block moves over a rigid block. As soon as the footwall or         folding (Laubscher, 1961; Burkhard and Sommaruga, 1998;
+         the hangingwall undergo internal strain, the displacement on the         Affolter and Gratier, 2004). Thus, the basal detachment hori-
+         associated thrust fault undergoes changes. Tracking the displace-        zons must continue southwestward beneath the Molasse basin.
+         ment along a sole thrust back into the interior of the orogen shows      This foreland basin was thereby translated in a piggyback
+         that contraction within the upper crustal crystalline basement may       fashion. The basal detachment is only known from scant sub-
+         require a thick-skinned nappe stack and, ultimately, a ductile           surface data. These indicate some irregularities in its geome-
+         deformation zone in the lower crust where the displacement is dis-       try, ruling out a smooth translation (e.g., Vollmayr, 1992;
+         tributed within a broad ductile shear zone before rejoining a plate      Pfiffner, et al., 1997) and pointing toward a mild inversion of
+         boundary in a subduction zone. In the subduction zone, the asso-         Late Paleozoic grabens. Consequently some basement short-
+         ciated displacement ultimately vanishes by ductile flow within           ening must also have taken place.
+         the mantle asthenosphere.
+              The aim of this paper is to give a review of the structural         Thick-Skinned Style—Basement Uplifts
+         styles encountered in orogens, to discuss the origin of these struc-
+         tures, and to link them to the plate tectonic setting.                   Aar Massif and Ivrea Zone—Swiss Alps
+                                                                                       There are two crustal scale basement uplifts recognized in the
+         BASIC STYLES OF DEFORMATION                                              Swiss Alps. In the north, the European crust is thickened by a
+                                                                                  combination of folding, thrusting, and pervasive strain. The base-
+              The terms thin-skinned tectonics and thick-skinned tectonics        ment-cover contact was raised in this process from ,7 km below
+         relate to the involvement of crystalline basement rocks in the de-       sea level to ,5 km above sea level. The general structure of this
+         formation of the Earth’s crust. The terms were first used by             basement uplift (depicted in Fig. 2) is well constrained by seismic
+         Rodgers in the Appalachians (1949) to describe the occurrence of         and structural data (Pfiffner and Heitzmann, 1997; Pfiffner et al.,
+         crystalline basement rocks outcropping on top of Paleozoic sedi-         1997b, and references therein). It is referred to as Aar massif in
+         ments. In the following, the term thick-skinned tectonics is used to     Alpine literature.
+         describe a structural style where single thrust faults or fold struc-         In the south, the Adriatic crust is thickened by the steeply
+         tures affect the entire continental crust to produce large-scale         south-dipping thrust faults that also affect the lower crust of the
+         basement uplifts. Conversely, thin-skinned tectonics is taken to         Adriatic plate. This lower crustal section is referred to as the Ivrea
+         encompass the architecture of imbricate thrust sheets up to 5–8 km       zone, which connects to the Ivrea body farther to the west and SW.
+         thick. The thrust sheets may be composed of sedimentary strata           The Ivrea body is a mantlepiece sitting close to the earth’s surface
+         only or also involve crystalline basement rocks. Both definitions        (see Schmid and Kissling, 2000, and references therein for a more
+         encompass a variety of structural styles with regard to the geom-        detailed discussion). With regard to thick-skinned tectonics, it has
+GSA_sp414_chapter_09.qxd      9/25/06     1:41 PM       Page 155
+
+
+
+
+                                            Thick-skinned and thin-skinned styles of continental contraction                                     155
+
+
+                        NNW                                                                                                    SSE
+                                                     Mont-Terri
+                        Seppois-le-Bas    Miécourt                Glovelier    Reconvilier          Biel     Hermrigen   Aarberg
+
+                                                                                                                                      0
+
+
+
+
+                                                                                                                                     km
+                                                                                                                                      5
+
+                                                                                                                         10 km
+                               Cenozoic foreland sequence
+                               Upper Jurassic sediments                                  Permo-Carboniferous volcaniclastics
+                               Triassic and Lower-Middle Jurassic sediments
+                                  Middle Triassic anhydrites                             Crystalline basement rocks
+
+
+                       Figure 1. Geological profile across the central Jura Mountains of Switzerland and France. The cross section displays
+                       a thin-skinned tectonic style with the main décollement located within a Middle Triassic anhydrite formation. Partial
+                       inversion of Permo-Carboniferous grabens point to a mild degree of basement involvement.
+
+
+
+
+         been noted that this mantlepiece and the overlying lower crust            be seen in Figure 4, the Arunta Block consists of a stack of high-
+         have been near the surface since Jurassic times in consequence            grade crystalline basement nappes, the Arltunga nappe complex.
+         of Mesozoic rifting (Handy and Zingg, 1991). The Ivrea body               To the south of this complex, clastic sediments accumulated in the
+         played an important role during the late stage collision phase of         Amadeus Basin, a foreland basin that evolved during nappe stack-
+         the Alps and the associated formation of the foreland basin to the        ing in the Arltunga nappe complex (Dunlap et al., 1995). Within
+         north (Pfiffner et al., 2002).                                            the Arltunga nappe complex, granulite facies lower crustal rocks
+                                                                                   define a stack of lower crustal thrust sheets (Teyssier, 1985) that
+         Wind River Range                                                          imply the associated thrust faults reach down to the base of the
+              Within the eastern foreland of the North American                    continental crust. The total displacement along these faults is
+         Cordillera, a number of basement uplifts can be observed where            estimated at a minimum of 50–100 km. The sediments of the
+         relatively steeply dipping reverse faults put crystalline basement        Amadeus Basin, in comparison, are detached from their crys-
+         rocks onto the sedimentary cover (see Fig. 3). Geophysical inves-         talline substratum and were dislocated in a thin-skinned manner
+         tigations of these basement uplifts suggest that the reverse faults       southward (see Fig. 4). The basal detachment of these sediments
+         extend all the way down to the base of the crust (Smithson et al.,        is deformed by the underlying stack of basement thrust sheets,
+         1979; Jordan et al., 1983) and possibly into the mantle. At present       suggesting that in a first phase, the sediments were detached and
+         no satisfactory explanation for the formation of these compres-           thrust southward. A phase of crustal shortening within the lower
+         sional structures is available. Kley et al. (1999) argued that the        and upper crustal rocks subsequently deformed the overlying
+         similar basement uplifts in the eastern foreland of the Andes occur       thin-skinned fold-and-thrust belt.
+         forelandward of a thin-skinned belt and may have formed in
+         response to two factors: (1) an increase in shear strength at the
+                                                                                   COLLISION OROGENS
+         base of the thickened thrust wedge and the associated raise in hor-
+         izontal stress in the foreland crust, and (2) the geometric effect of
+                                                                                        In this section, a number of collision orogens chosen world-
+         former structural highs bordering basins.
+                                                                                   wide are presented to highlight the spectrum of structural styles
+                                                                                   observed. The individual examples are characterized based on the
+         Composite Styles of Deformation—Alice Springs Orogeny                     geometry, the mechanical stratigraphy of the lithotypes involved,
+                                                                                   and the general tectonic framework. They are grouped according
+              Although the basic types described above represent a conve-          to their age of formation.
+         nient way for a characterization of the structural style of a                  Collision orogens typically consist of a central zone flanked
+         deformed continental section, most orogens typically show both            by foreland fold-and-thrust belts (Hatcher, 1989). In the central
+         types of style in close proximity. Moreover, the two styles may           zone, metamorphic crystalline basement rocks are involved in
+         emerge from crustal sections initially positioned directly on top         nappe structures. During orogeny they are metamorphosed and
+         of each other.                                                            then exhumed by erosion of the thickened crustal section.
+              The Paleozoic Alice Springs orogeny in Australia represents               Foreland fold-and-thrust belts are developed in the foreland
+         an example of an intracratonic mountain belt. Figure 4, drawn             of a growing orogen. Often they encompass a former passive mar-
+         after Teyssier (1984), shows the general structure of the northern        gin sequence characterized by a stratified sedimentary sequence of
+         part, the Arunta block, and the adjoining Amadeus Basin. As can           several kilometers thickness. Typically, carbonate sequences are
+GSA_sp414_chapter_09.qxd       9/25/06       1:41 PM       Page 156
+
+
+
+
+         156                                                                        Pfiffner
+
+                                                                       eroded
+
+                           present landsurface
+                                                                                                       Austroalpine nappes
+                                                                                                                                                          SE
+                     NW
+                                                   Penninic         nappes
+
+                                                                                                            M
+                                            v.   n.
+                                         Hel
+                                                                                                                                                               0
+                                                                                G                       A
+                                                         Aar massif
+                                                                                                   V
+                                                                                                                                          a
+                                                                                                                                     Ivre
+                                                                                                                                        e
+                                                                                                                                    zon
+
+
+
+
+                                Europe
+                                          an plate
+                                                                                                                                                  e
+                                                                                                                                           plat
+                                                                                                                                   iatic
+                                                                                                                              Adr
+
+
+
+
+                                                                                                                                                               50
+                                                  Mantle lithosphere
+
+
+
+
+                                                                                                                                                               km
+                                                                                                                                             10 km
+                                    Mesozoic-Cenozoic                                    Continental crust:
+                                    sediments
+                                                                                                   Upper crust                     Lower crust
+                                    Oceanic crust
+
+                                                                    G, V, A, M: Gotthard, Verampio, Antigorio, and Maggia basement nappes
+
+                     Figure 2. Geological profile across the Alps of central Switzerland. Basement-involved thin-skinned tectonics is evi-
+                     dent in the Penninic nappes. A thick-skinned style can be recognized in the up-warped basement block of the Aar
+                     massif and the thrust faults carrying the lower crustal section of the Ivrea zone toward the surface.
+
+
+
+                     W                                                                                                                            E
+                                                                                                                                       Owl
+                                                 Wind River Range                                                                      Creek
+                     Green River Basin
+                                                                                                                Wind River Basin       Range
+                                                                          P              M     P            M
+                           M         C                                                                                         C                      0
+                     P
+                                                                                                                                                      km
+
+
+
+
+                               Mantle lithosphere
+                                                                                                                                                      50
+                                                                                                                              50 km
+                           C: Cenozoic
+                           M: Cretaceous          sediments                           Metamorphic basement
+                           P: Paleozoic                                               (continental crust)
+
+
+                    Figure 3. Geological profile across the Wind River Range basement uplift, adapted from Moores and Twiss (1995).
+                    A single thrust fault cuts across the entire crust and offsets the crust-mantle boundary.
+GSA_sp414_chapter_09.qxd        9/25/06     1:41 PM       Page 157
+
+
+
+
+                                                 Thick-skinned and thin-skinned styles of continental contraction                                     157
+
+
+                                                                                                       Arunta        block
+                        S                                                                                Arltunga nappe complex        N
+
+                                   Amadeus                     Basin
+
+                                                                                                                                           0
+
+
+
+
+                                                                                                                                           km
+                            Mantle lithosphere                                                                                             50
+
+                                                                                                                          50 km
+                                       Late Proterozoic – Paleozoic sediments
+
+                                       Crystalline basement, upper crust
+
+                                        Lower crust
+
+                       Figure 4. Geological profile across the Arunta block and the Amadeus Basin (Alice Springs orogeny, Australia),
+                       adapted from Teyssier (1985). A thick-skinned structural style is displayed by imbricate thrusting affecting the entire
+                       crust in the Arltunga nappe complex. In contrast, the basin fill of the Amadeus basin is deformed in a thin-skinned
+                       fashion.
+
+         interlayered with mechanically weak layers such as shales. These           ing is interpreted to have occurred in-sequence mostly, and the
+         sedimentary sequences were deposited on thinned continental                individual thrust faults are sharp thrusts with indications of brit-
+         crust composed of metamorphic and magmatic rocks, referred to              tle deformation (Strachan et al., 2002). It thus seems that these
+         as crystalline basement. Upon compression, the sedimentary se-             structures formed at relatively high crustal levels within an-
+         quence is detached from the crystalline basement and shortened.            chizonal conditions at peak temperatures of around 275°C. The
+         The evolving structural style is controlled by the relative abun-          major lower thrust (or sole thrust) is localized in Cambrian Fu-
+         dance and thickness of mechanically weaker and stronger strata             coid beds and quartzites in the north and in shale horizons in
+         and includes a combination of stacked thrust sheets and folds.             the south. Locally the internal structure includes large-scale
+                                                                                    folds with inverted limbs that can be interpreted as footwall
+         Caledonides of Scotland                                                    ramp synclines.
+                                                                                         Downward and in-sequence thrusting is demonstrated by the
+              The Caledonides of Scotland formed after closure of the               Moine thrust’s being passively folded above an antiformal stack
+         Iapetus Ocean and collision of North America and Baltica/E Aval-           in its footwall (Strachan et al., 2002) and by the fact that the
+         onia. As shown in Figure 5, thrust faults forming duplexes with            Moine thrust sheet displays a higher degree of metamorphism
+         relatively small displacements are separated by major thrust faults        than the rocks beneath. It thus seems that hot, midcrustal rocks
+         (Glen Oykel, Ben More, and Moine thrust). Vergence of thrusting            were transported along the Moine thrust to shallow level onto
+         is toward the west (i.e., thrust sheets were emplaced onto the             cooler rocks before thrusting propagated downward into the foot-
+         ancestral North American craton). Contrary to this, vergence of            wall. However, in the case of the Glen Oykel and Moine thrusts,
+         thrusting is toward the east in the Scandinavia, making the Cale-          propagation was out of sequence (at least as far as the final motion
+         donides a symmetrical orogen.                                              along the Moine thrust is concerned). This is indicated by the
+              The Moine thrust puts Lewisian gneisses, metasediments and            Loch Ailsh intrusion, which postdates the Glen Oykel thrust but
+         Cambrian quartzites onto a nappe stack made up of Lewisian                 predates the Moine and Ben More thrusts. Moreover, the intrusion
+         gneisses and Cambro-Ordovician sedimentary strata. As dis-                 points toward a warm crust within the growing orogen. As is evi-
+         cussed by Strachan et al. (2002), the thrust fault itself is associ-       dent from Figure 5, the major thrust faults are nearly parallel to
+         ated with a mylonite belt attaining locally thicknesses of several         each other and close to bedding-parallel. This parallelism,
+         hundreds of meters. The age of this mylonitization is 435–430 Ma           together with the brittle nature of many of the fault rocks, seems
+         (Silurian) and took place at midcrustal level. Transport was W             to indicate that the thrust trajectories were less controlled by litho-
+         directed and the displacement can be estimated at 100 km.                  logic discontinuities but rather by p-T conditions. Displacements
+              Beneath the Moine thrust, Lewisian gneisses with a North              along the thrust faults beneath the Moine thrust are between 1 km
+         American (Grenvillian) affinity, and Torridonian to Cambro-                and 10 km only, which might explain the absence of thick
+         Ordovician sedimentary rocks are intricately deformed. Thrust-             mylonite belts, as is the case for the Moine thrust itself.
+GSA_sp414_chapter_09.qxd           9/25/06         1:41 PM        Page 158
+
+
+
+
+         158                                                                                 Pfiffner
+
+
+                                                                                                                            present landsurface
+                              NW                                                                                                                   SE
+
+
+
+                         1
+
+
+                                                                                                                                                            MT
+                         0                                                                                                                              0
+
+
+                         1                                                                                                                                  GOT
+                                                                                                                                                            BMT
+
+                         2
+                                                                                                                                                        st
+                         km
+
+
+
+
+                                     Moine Rocks                                                                                       5 km
+                                     Durness Fm and An t-Sron Fm                     Lower Quarzite
+                                     An t-Sron Fm                                    Torridonian                            Loch Ailsh Intrusion
+                                     Pipe Rock                                       Lewisian basement                      Dykes
+
+                              MT, BMT, GOT, st: Moine thrust, Ben More thrust, Glen Oykel thrust, sole thrust
+
+
+         Figure 5. Geological profile across the Caledonides of Scotland, adapted from Elliott and Johnson (1980). Thin slivers of basement rocks are involved
+         in thrusting. In this basement-involved thin-skinned style, the décollement within the basement is parallel to the overlying sedimentary strata.
+
+
+
+         Appalachians                                                                                 ing the Grenvillian crystalline basement of the North American
+                                                                                                      craton. The strata involved are of Paleozoic age and were
+               The Appalachians resulted from a number of Paleozoic oro-                              deposited in a Paleozoic shelf sea grading upward into a foreland
+         genies that occurred during closure of the Iapetus Ocean and the                             sequence. The shelf sequence includes thick carbonate units that
+         collision of microcontinents (terranes) and the African plate with                           acted as mechanically strong members, separated by more shaly
+         the North American plate. In the course of these collisions, crys-                           units. As discussed by Hatcher et al. (1989), the basal detachment
+         talline basement blocks were thrust onto the Paleozoic sequences                             stepped upward in the transport direction following different
+         deposited on the shelf of the North American craton. An excellent                            stratigraphic levels. Fault related folds, as already recognized by
+         overview of the orogen can be found in Hatcher et al. (1989).                                Rich in 1934, characterize internal shortening of the sedimentary
+               The seismic surveys in the framework of COCORP (Con-                                   sequence. Thrust faults in the external part, the Plateau, are widely
+         sortium for Continental Reflection Profiling) revealed the enor-                             spaced, whereas in the internal part, the Valley and Ridge
+         mous amount of overthrusting of the North American craton by                                 province, closely spaced thrust faults associated with duplex
+         various units.                                                                               structures are typical.
+                                                                                                           Figure 7 shows a cross section across this thin-skinned
+         Southern Appalachians                                                                        fold-and-thrust belt. The Pine Mountain thrust displaced a
+              Figure 6, adapted from Hatcher et al. (1989), is a general sec-                         broad syncline (Cumberland Plateau), and dipping strata are
+         tion across the Southern Appalachians. It shows the large dis-                               confined to where the thrust breaks surface. In the internal part
+         placement of the Blue Ridge basement block, which was sheared                                on the other hand, imbricate stacking is shown by the Clinch-
+         off the SE margin of the North American craton and thrust over                               port, Copper Creek, Saltville, and Pulaski thrusts. The struc-
+         the adjacent Grenvillian crystalline basement and its Paleozoic                              ture in the adjacent Blue Ridge Province is characterized by
+         cover, coming to rest on the inner margin of the allochthonous                               numerous thrust faults forming a duplex at depth. Here the
+         Valley and Ridge province. Whereas early workers (e.g., Cloos,                               thrust faults sole into the basal detachment in the Cambrian
+         1947) emphasized the ductile nature of the structures formed by                              Rome Formation. At outcrop, the Rome Formation contains
+         the basement-cover contact, later workers highlight the imbricate                            evaporites transformed into cargneules (Diegel, 1988). The
+         structure of the basement block depicted in Figure 6. The thick-                             total displacement of these thrust faults is 100 to 260 km. In
+         ness of the basement thrust sheets is on the order of 5 km.                                  the roof of this duplex, Late Proterozoic-Cambrian strata form
+         Although the structures formed at the edge of the thinned craton                             an upper duplex with a basal detachment reaching down into
+         (Hatcher, 1989), it is unknown which type of lithology or layer-                             Grenvillian basement. This structure forms the transition to
+         ing was controlling the detachment.                                                          basement-involved thin-skinned tectonics, which brought
+                                                                                                      basement rocks to the surface in the Blue Ridge. These base-
+         Valley and Ridge Province of the Southern Appalachians                                       ment rocks represent the tip of a large intact composite crys-
+             The last of the orogenies affecting the Appalachians, the                                talline basement sheet issued from the Alleghanian collision
+         Alleghanian orogeny, compressed the sedimentary strata overly-                               (Hatcher et al., 1989).
+GSA_sp414_chapter_09.qxd               9/25/06     1:41 PM       Page 159
+
+
+
+
+                                                     Thick-skinned and thin-skinned styles of continental contraction                                          159
+
+
+            NW                                                                                                                                                SE
+                                                   Fig. 7
+
+
+
+
+                                                                                                            Kin
+                                                                                   Br
+                             CUMBERLAND         VALLEY & RIDGE        BLUE RIDGE        INNER PIEDMONT                           CAROLINA (AVALON?)
+              Pin
+
+
+
+
+                                                                                   ev Zon
+                               PLATEAU                                                                                               TERRANE
+
+
+
+
+                                                                                                             gs Fau
+               e MFau
+
+
+
+
+                                                                                     ard e
+
+
+
+
+                                                                                                                Mo lt
+                   ou lt
+
+
+
+
+                                                                                        Fa
+
+
+
+
+                                                                                                                  un
+                     nta
+
+
+
+
+                                                                                           u
+
+
+
+
+                                                                                                                   tai
+                                                                                          lt
+                        ni
+
+
+
+
+                                                                                                                       n
+                                                                                                                                           ?
+                    Moho (from gravity modeling)                                                                                                                     5
+                                                                                                                                Mantle lithosphere
+
+
+
+
+                                                                                                                                                                      k
+                                                                                                                                               100 km
+                             Triassic-Jurassic rift basin
+                             Acadian and Taconian clastic wedges,                                        North American outer margin cover sequence
+                             Late Mississippian-Permian molasse                                          including late Proterozoic-Ordovician accretionary prisms
+
+                             North American Paleozoic platform
+                                                                                                         Late Proterozoc - Paleozoic intrusions
+                             Late Proterozoic and Cambrian clastic deposits
+                             of the North American continental margin                                     Mafic-ultramafic complexes
+                             North American craton (Grenville)                                           Late Proterozoic-Cambrian sedimentary
+                             and basement massifs                                                        and volcanic rocks of Avalon
+         Figure 6. Geological profile across the Southern Appalachians, redrawn and simplified from Hatcher et al. (1989). Crystalline basement of the mar-
+         gin of the North American craton is thrust onto the craton itself in a style conformable to basement-involved thin-skinned tectonics. The décollement
+         horizon climbs northwestward into the Paleozoic sedimentary strata resulting in a thin-skinned tectonic style within the Valley and Ridge Province
+         and the Cumberland Plateau. The accreted terranes at the rear (Inner Piedmont and Avalonia) are thrust onto the North American craton.
+
+
+
+
+         Northern Appalachians                                                                 zoic gneisses, pertaining to the North American Grenville conti-
+              The Northern Appalachians formed as a result of the col-                         nental crust, and has a Taconian and Acadian overprint. The Aca-
+         lision of North America with the terranes of Taconia, Avalo-                          dian overprint is evident in Figure 8 from the folded basal thrust
+         nia, and Meguma (African continent). The main mountain                                fault of the Taconic Allochthon, a thrust complex made up of Late
+         building events were the Taconian orogeny, which represents                           Proterozoic to Ordovician outer margin deposits.
+         a Late Ordovician attempted subduction of North America                                    East of the Berkshire massif, Acadian structures include two
+         beneath an island arc (Taconia) and the Acadian orogeny,                              large-scale synclinoria (the Connecticut Valley and Merrimack
+         which corresponds to a Devonian collision with the Avalonia                           synclinoria), separated by the Bronson Hill anticlinorium. Aca-
+         terrane. The third mountain building phase was the Alleghan-                          dian structures therein include west-facing recumbent folds and
+         ian orogeny, which saw a collision with the Meguma terrane,                           nappes. Basement involvement is minor as is outlined by thin
+         a microcontinent straddling the northern margin of Africa,                            slices of multiply folded basement slivers. A characteristic feature
+         in Mississippian-Permian times. As discussed by Hatcher                               in this part of the Appalachians is widespread refolding of folds
+         (2002), the Alleghanian orogeny was diachronous. A head-on                            and thrust faults that affected the Late Proterozoic to Early
+         collision south of New England resulted in thrusting, whereas                         Devonian North American outer margin sequences.
+         in the Central and Southern Appalachians as well as the                                    In the course of the Acadian orogeny, Avalonia was subducted
+         Northern Appalachians of New England and Canada, plate                                beneath the Taconian orogen in the N Appalachians shown in
+         convergence corresponded to rotational oblique collision                              Figure 8. The former subduction zone boundary contact is dipping
+         with an important component of strike slip faulting. The dia-                         to the W with a simple shape. In contrast to this, the Carolina Ter-
+         chronity of orogeny is explained in terms of zipper tectonics.                        rane (Avalonia) is overriding the Inner Piedmont Terrane and the
+         Hereby the closure of the ancient Theic Ocean occurs from                             margin of the North American craton in the Southern Appalachi-
+         one end of the orogen to the other by a combination of rota-                          ans (see Fig. 6).
+         tion and transpressional collision.
+              The cross section in Figure 8, redrawn form Robinson and                         Swiss Alps
+         Osberg in Hatcher et al. (1989), shows the Berkshire massif with
+         a folded contact to the overlying autochthonous cover (North                              The Alps are the result of two orogenies, a mid- to Late-
+         American Paleozoic platform sediments and Taconic clastic                             Cretaceous orogeny with mainly W-directed thrusting, and a
+         wedge). The Berkshire massif itself consists of middle Protero-                       Cenozoic orogeny associated with more N-S convergence. Both
+GSA_sp414_chapter_09.qxd             9/25/06         1:41 PM               Page 160
+
+
+
+
+         160                                                                                         Pfiffner
+
+
+           NW                Cumberland                                          Valley and Ridge                                                                            SE
+                             Plateau                                                                                 Ho
+                                                                                                                       lsto
+           Pi
+
+
+
+
+                                                                 Co                                                        nM                                   Blue Ridge
+                                                                          pp
+              ne thr
+
+
+
+
+                                               Cli                          er                 Sa Pu                          ou
+                                                  nc                             Cr                                                nta
+                M ust
+
+
+
+
+                                                       hp                          ee            ltvi las                             in
+                 ou
+
+
+
+
+                                                         ort                         kt              lle ki t                              thr
+                                                               thr                      hru             thr hru
+                    nt
+
+
+
+
+                                                                     us                                    us                                  u   st
+                                                                                                              t st
+                       ain
+
+
+
+
+                                                                       t                    st
+                                                                                                                                                                                   0
+
+
+
+
+                                                                                                                                                                                  10
+
+
+
+
+                                                                                                                                                                                  km
+                                                                                                                                                                                  20
+
+                                                                                                                                                        50 km
+                             Late Mississippian-Permian molasse                                    North American Paleozoic platform
+
+                             Acadian clastic wedge                                                 Late Proterozoic and Cambrian clastic deposits
+                                                                                                   of the North American continental margin
+                             Taconian clastic wedge                                                North American basement (Grenvillian)
+
+         Figure 7. Geological profile across the Cumberland Plateau and Valley and Ridge Province of the Southern Appalachians (see Fig. 6 for location),
+         adapted from Hatcher et al. (1989). Imbricate thrusting occurs by splay faults branching off the major basal décollement. In the SE, the nappe stack
+         involves two complexes. In the upper nappe complex, the Blue Ridge megathrust sheet, the décollement horizon climbs from the crystalline base-
+         ment northwestward into the Proterozoic and Paleozoic strata. In the lower unit, several thrust faults branching off from the décollement within Pro-
+         terozoic and Paleozoic strata form duplexes in a thin-skinned fashion.
+
+
+
+
+         orogenies involved a subduction stage followed by a collision                                      therein). Jurassic and Cretaceous carbonates form a framework
+         stage. For the Penninic nappes in the Swiss Alps, the Cenozoic                                     of mechanically stiff layers separated by shales and marls of
+         orogeny is relevant, with closure of the Piemont Ocean and the                                     variable thickness. The crystalline basement is composed of
+         collision between the Adriatic and Eurasian continental margins                                    polymetamorphic gneisses and granites overprinted to a large
+         (see Schmid et al., 1997a,b, and references therein).                                              extent by the Variscan orogeny in Late Paleozoic times (von
+              Figure 9 is a lithosphere scale cross section showing the struc-                              Raumer and Neubauer, 1993). The Helvetic nappes were
+         tures formed in the course of the Cenozoic orogeny mainly. The                                     detached from this crystalline substratum along Triassic evap-
+         crustal section is based on geophysical and seismic data gathered                                  orites or Jurassic shales. In eastern Switzerland, Permo-car-
+         in the framework of NRP20 (Pfiffner et al., 1997c), the lithosphere                                boniferous volcaniclastics are part of the Helvetic nappes as
+         structure on Lippitsch (2002), and Lippitsch et al. (2003). While                                  well. The internal style of folding and thrusting of these nappes
+         the mantle lithosphere displays an asymmetric structure, the upper                                 is largely controlled by the architecture of the Mesozoic basin,
+         crust is stacked both toward the north and the south. The Penninic                                 which explains the variability of the structural style of individ-
+         nappes (and the overlying Austroalpine nappes) were exhumed in                                     ual nappes as one proceeds along strike of the orogen (see
+         an asymmetric way, such that higher amphibolite grade rocks now                                    Pfiffner, 1993, for a discussion).
+         outcrop at the surface in the vicinity of the Insubric Line. The                                         In the transect across central Switzerland shown in Figure 10,
+         degree of metamorphism of the exhumed rocks tapers off toward                                      the Helvetic nappes consist of two thrust sheets, the Axen nappe
+         the north, and a jump in metamorphism to a lower grade is                                          and the Drusberg nappe. The lower unit, the Axen nappe, consists
+         observed as one crosses the Insubric Line southward. The lower                                     of basically Jurassic sediments forming a number of recumbent
+         crust of the Adriatic plate was shortened and thickened, whereas                                   folds. These recumbent folds are lift-off folds that developed in
+         part of the European lower crust was subducted.                                                    the strata overlying thick shaly units of Early and Middle Juras-
+              In the following, two nappe systems are discussed: the Hel-                                   sic age. They can be interpreted in terms of inverted basins where
+         vetic nappes, which constitute a classical fold-and-thrust belt, and                               rapid lateral thickness variations led to squeezing out of the basin
+         the Penninic nappes, which consist of both basement and cover                                      fill. The expulsed sediments first form asymmetric folds cored by
+         nappes intricately overprinted by postnappe folding.                                               weak shales. Continued shearing rotated the inverted limbs and
+                                                                                                            ultimately resulted in recumbent folds (Panien et al., 2005). The
+         Helvetic Nappes                                                                                    basal detachment of the Axen nappe from the crystalline base-
+             The Helvetic zone encompasses a Mesozoic-Cenozoic sed-                                         ment followed Triassic evaporites and stepped upward in the
+         imentary sequence deposited in a shelf sea on the European                                         transport direction in a staircase fashion into the Early and Mid-
+         margin of Eurasia (see, e.g., Funk et al., 1987, and references                                    dle Jurassic shales.
+GSA_sp414_chapter_09.qxd            9/25/06        1:41 PM       Page 161
+
+
+
+
+                                                    Thick-skinned and thin-skinned styles of continental contraction                                                                161
+
+         TACONIC ALLOCHTHON                        BERKSHIRE        CONNECTICUT VALLEY                      BRONSON HILL              MERRIMACK               NARRAGANSETT
+                                                     MASSIF           SYNCLINORIUM                          ANTICLINORIUM            SYNCLINORIUM                 BASIN
+
+
+
+
+                                                                                                             st ond
+          WNW                                                                                                                                                                ESE
+
+
+
+
+                                                                                                       Th am P
+                                                                                                               ley
+                                      Ho                W                                                                Clinton
+
+
+
+
+                                                                                                  ult al
+                                                      W h                   Br                                                  -Newb
+                                        os       Su hitc ately
+
+
+
+
+                                                                                                           ru
+                                                                                                Fa cut V
+                                                                               en
+
+
+
+
+                                                                                                           h
+                                          ac                                      n                                                   ury
+
+
+
+
+                                                                                                        es
+                Gi                                   mm om T                                                                   Fault
+                  dd                    Th Sum         it T b hrus           Th an H
+
+
+
+
+                                                                                                     Ch
+                      ing
+
+
+
+
+                                                                                                 cti
+                          s                rus   mi        hru     t             rus ill                                                            Milford Anticlinorium
+                                               t    t                               t
+
+
+
+
+                                                                                                 e
+                     Sli Bro                                   st
+
+
+
+
+                                                                                              nn
+                        ce   ok
+
+
+
+
+                                                                                           Co
+                                                                                                                                                                                0
+                                                                                                                                                e
+                                                                        Shelburne           Pelham
+                                                                                                                        r Fault             Zon
+                                                                        Falls Dome           Dome              Lake Cha           Shea
+                                                                                                                                       r
+                                                                                                                      Hope Valley
+                                                                                     Berndardston Nappe
+
+
+
+
+                                                                                                                                                                                km
+                                                                                                                                                                                50
+                                                                                                                                                       100 km
+                       Taconian clastic wedge,
+                       Middle Devonian-Permian molasse
+
+                       North American Paleozoic platform                                                   Triassic-Jurassic rift basin
+
+                       Late Proterozoic-Cambrian clastic sequence                                          Late Proterozoic-Paleozoic intrusions
+
+                       Late Proterozoic-Ordovician outer margin deposits                                   Silurian-Early Devonian cover of medial New England
+                       of the Taconic allochthons
+                       North American basement craton (Grenville)                                          basement of medial New England
+                       and basement massifs
+                       North American outer margin cover sequence                                          sequences belonging either to Avalon or medial New England
+                       including late Proterozoic-Ordovician accretionary prisms
+
+                       Cambrian-Ordovician cover                                                           Late Proterozoic-Cambrian sedimentary and volcanic rocks of Avalon
+
+
+         Figure 8. Geological profile across the Northern Appalachians, redrawn and simplified from Robinson and Osberg in Hatcher et al. (1989). Crys-
+         talline basement of the margin of the North American craton is involved in thrusting that is overprinted by some mild folding. In contrast, pervasive
+         folding overprints the basement-involved thin-skinned tectonic style of Taconia as seen in the Connecticut Valley, Bronson Hill, and Merrimack fold
+         complexes. Avalonia is underthrust beneath these units and the North American craton.
+
+
+
+
+              The overlying Drusberg nappe consists of essentially                                   for the upwarp of the Axen thrust and the nature of the plunging
+         Cretaceous-Cenozoic sediments. These were detached from                                     anticlines of the recumbent folds within the Axen nappe.
+         the underlying Jurassic along a thick layer of lowermost Cre-
+         taceous marls (Palfris formation) and were internally short-                                Penninic Nappes
+         ened by folding. As a consequence, the Drusberg nappe                                            Thin-skinned basement nappes, thin-skinned cover nappes,
+         traveled farther north and came to rest on Oligo-Miocene clas-                              and large-scale folds affecting basement and cover rocks as well
+         tic foreland strata of the Molasse Basin. This basin formed as                              as the thrust faults separating the nappes characterize the tectonic
+         foredeep during nappe stacking in the Alps (Pfiffner, 1986;                                 style of the Penninic nappes. The structural style of individual
+         Pfiffner et al., 2002). Its internal part was shortened in                                  nappes varies along strike of the orogen. An important change in
+         Miocene times. The resulting nappe stack is referred to as Sub-                             style occurs across the Maggia transverse zone of south central
+         alpine Molasse in Alpine literature. It represents a thin-                                  Switzerland (Pfiffner et al., 2002). This transverse zone separates
+         skinned type style with a detachment along the oldest Molasse                               the earlier formed nappe stack of eastern Switzerland, which is
+         deposits, a thick sequence of shales pertaining to the UMM                                  dominated by imbricate thrusting from the nappe stack of west-
+         (lower marine Molasse). The southward continuation of the                                   ern Switzerland where basement thrust sheets involve large-scale
+         basal thrust fault is nowhere observable at outcrop. Figure 10                              folds (see, e.g., Escher et al., 1993). The contrasting structural
+         represents a plausible solution. As can be seen in Figure 10,                               style is most likely controlled by the presence of relatively thick
+         the basal thrust of the Helvetic nappes, the Axen thrust in this                            Permo-Carboniferous or Permo-Triassic clastic sequences, which
+         transect, rises southward above the Aar massif. This basement                               occur in narrow basins beneath the décollement horizon of the
+         uplift formed above a thrust fault cutting down into the crys-                              detached cover nappes. These clastics remained attached to the
+         talline basement, a structure well visible in seismic sections                              crystalline basement, but upon contraction and basin inversion
+         (see Figs. 2 and 9). This thick-skinned style of deformation                                they were squeezed out and folded. The cross section shown in
+         formed late in the orogenic sequence and is held responsible                                Figure 11 passes east of the Maggia transverse zone.
+GSA_sp414_chapter_09.qxd      9/25/06       1:41 PM      Page 162
+
+
+
+
+         162                                                                    Pfiffner
+
+                                     Fig. 10                       Fig. 11
+
+
+
+
+                                                                                 Lin bric
+                        N
+
+
+
+
+                                                                                      u
+                                                                                                                                      S
+
+
+
+
+                                                                                  Ins
+                                                                                    e
+                                 H                               Austroalpine                 Southalpine
+                                                           P                                                                              0
+                                                     A
+
+
+
+
+                              Mantle                                                                                                      50
+                                         lithosp
+                                                 here
+
+
+
+                                                                                                                                          100
+
+
+
+                                Asthenosphere
+
+                                                                                                                                          150
+
+
+
+
+                                                                                                                                          200
+
+
+                                            100 km
+
+
+
+
+                                                                                                                                          km
+                                Synorogenic intrusive                                                          Continental upper crust
+                                                                                   Oceanic crust
+                                Mesozoic-Cenozoic sediments                                                     Continental lower crust
+
+                         A: Aar massif      H: Helvetic nappes       P: Penninic nappes
+
+                       Figure 9. Generalized lithosphere scale cross section across the Swiss Alps. The mantle structure is after Lippitsch,
+                       2002, and Lippitsch et al., 2003; the crustal structure after Pfiffner et al., 1997c. The Aar massif basement block and
+                       the Southalpine zone display thick-skinned tectonic style where thrust faults extend into the lower crust. In the Pen-
+                       ninic nappes, a basement-involved thin-skinned style modified by postnappe folding is recognized. Upper crustal
+                       shortening is bivergent, whereas at lithosphere scale the lower crust and mantle exhibit asymmetric subduction
+                       geometry.
+
+
+
+
+               The crystalline basement nappes contain essentially poly-               data (Pfiffner and Hitz, 1997, and references therein). Owing to
+         metamorphic gneisses and schists intruded by Caledonian and Late              axial plunges, the nappe stack can be projected eastward into the
+         Variscan granitic intrusions, all of which were deformed in Alpine            subsurface and westward to above the present-day land surface.
+         orogeny. Small remnants of Mesozoic cove sediments (quartzites,               Crystalline basement nappes include the Gotthard massif, the
+         dolomite marbles, and cargneules/evaporites) overlie the crys-                Simano nappe, the Adula nappe complex, the Tambo and the
+         talline basement rock locally. But most of the Mesozoic-Cenozoic              Suretta nappes. Cover nappes include theTerri,Aul, Grava,Tomül,
+         cover rocks were detached from their crystalline substratum, trans-           and Schams nappes.
+         ported northward to form a nappe stack of their own. Figure 11                     As can be seen in Figure 11, most of the nappe contacts are
+         shows the Penninic nappe stack in eastern Switzerland (based on               intricately folded. Particularly noteworthy are the backfolds in the
+         Pfiffner and Hitz, 1997, and Schmid et al., 1997b). The cross sec-            Suretta nappe, the folded thrust at the base of the Schams nappes,
+         tion summarizes the structures in eastern Switzerland. It is based            and the Grava nappe. The Adula nappe complex consists of a
+         on fieldwork and mapping of generations of geologists (see                    stack of imbricates. High-pressure assemblages indicate deep
+         Schmid et al., 1997a,b, and references therein), as well as seismic           burial in an early stage followed by Barrovian type regional meta-
+GSA_sp414_chapter_09.qxd        9/25/06           1:41 PM     Page 163
+
+
+
+
+                                                   Thick-skinned and thin-skinned styles of continental contraction                                                     163
+
+
+                                                                                                                                                      SSE
+          NNW
+                                                                                                                               st                              t
+                                                                                                                         hru                            th r
+                                                                                                                                                            us
+                                                                                                                  rg t                                             3
+                                    Pilatus                                                                    sbe                                 en
+                                                                                                            Dru                                  Ax
+                                                                                                                                                                   2
+
+                                  SAF                                                                                                                              1
+
+                                  Suba                                                                                                                              0
+                                        lpine
+                                              Molass
+                                                    e                                                                                     Aar massif               -1
+                                                                                               North-Helvetic Flysch
+
+
+
+
+                                                                                                                                                                   km
+                                                                                                                                          5 km
+                Penninic nappes                    Cenozoic                  Upper Jurassic
+                South-Helvetic nappes              Cretaceous                Middle Jurassic SAF: Subalpine Flysch                  Triassic
+                                                   lowermost Cretaceous      Lower Jurassic         Cenozoic                        Crystalline basement
+
+         Figure 10. Geological profile across the Helvetic nappes of the Swiss Alps adapted and extended from Menkveld (1995). The Axen thrust is the basal
+         thrust of the Helvetic nappes and puts allochthonous Mesozoic-Cenozoic sediments onto the Mesozoic-Cenozoic cover of the Aar massif. The Drus-
+         berg thrust separates the Helvetic nappes into two stockwerks. The lower unit consists essentially of Jurassic cover rocks that are isoclinally folded
+         into recumbent and even plunging anticlines. The upper unit is made up of Cretaceous-Cenozoic strata that are detached from their Jurassic strata
+         along the Drusberg thrust. This thrust follows a thick lowermost Cretaceous marl unit. Internal shortening of this upper unit is by imbricate thrust-
+         ing, which also affects the basal thrusts of the overlying South-Helvetic and Penninic nappes. In the footwall of the Helvetic nappes, the Subalpine
+         Molasse exhibits imbricate thrusting and a triangle zone at the NNW corner of the section.
+
+
+
+         morphism. Between the Adula nappe complex and the Tambo                     ments that originally derive from the Tambo and Suretta nappes. A
+         nappe, an imbricate stack of Mesozoic sediments and an ophio-               palinspastic restoration points to the fact that the cover length in the
+         lite sequence can be distinguished (referred to as Aul nappe,               Schams nappes exceeds the length of the basement available in the
+         Misox zone, and Chiavenna ophiolites in the literature). In the             Tambo and Suretta nappes. Thus, additional crustal pieces must
+         southern part of the cross section, just north of the Insubric Line         have been lost by subduction (see Schmid et al., 1997a, for a de-
+         a large-scale antiform folds all the nappe contacts. In the core of         tailed discussion). The Schams nappes were detached from their
+         this backfold, we find the Bergell intrusion which is dated at              crystalline substratum in an early stage to form a rootless allochtho-
+         30–28 Ma and which crosscuts nappe contacts.                                nous thrust sheet. Subsequently, the Tambo and Suretta basement
+              The structural evolution of this nappe pile involves two phases        blocks were stacked and rammed into the Schams nappes. As a re-
+         of thrusting followed by pervasive folding. In a first phase, the           sult, the Schams nappes were wrapped around the two basement
+         Mesozoic cover was detached from its crystalline substratum,                nappes, and a large-scale recumbent fold structure formed within
+         transported northward and stacked to an imbricate fan. Triassic             the Schams and adjacent Tomül nappes (its axial surface straddles
+         evaporites played an important role as décollement horizon in this          the topographic surface in Fig. 11).
+         process. In a second phase, thrusting affected the crystalline base-              Although the Penninic nappes display a dominant folding
+         ment. The thrust sheets that formed in this process are typically           style, the early evolution was by thrusting under prograde meta-
+         around 5 km thick and several tens of kilometers long. This geom-           morphic conditions. Imbricate thrusting is indicated by remnants
+         etry resembles the geometry of thin-skinned thrust sheets typical           of cover rocks attached to the top of basement slices and the
+         for foreland fold-and-thrust belts. Nevertheless the detachment             predominantly normal sequences of the cover nappes. Metamor-
+         was within the crystalline basement, but the décollement horizon            phism reached greenschist facies in the north of the cross section
+         is not clearly related to a lithologic boundary. It might be controlled     shown in Figure 11, and higher amphibolite facies in the south
+         by thermal weakening that facilitated temperature-sensitive creep           adjacent to the Insubric Line. Metamorphic isograds crosscut the
+         in quartz. The thrust ramps at the front of the nappes seem to be as-       nappe contacts indicating peak conditions postdating nappe
+         sociated with lithologic discontinuities in many cases. This is sug-        stacking. Thus the ductile style observed at outcrop is largely the
+         gested by orthogneisses (Caledonian, Variscan, or older intrusions)         product of ongoing deformation under higher temperatures over-
+         that are found at the very front of nappes, or Permo-Carboniferous          printing the more brittle early thrusting event.
+         volcaniclastic grabens marking the rear of basement blocks. The                   A peculiar structure is represented by the large-scale back-
+         two phases of thrusting are documented by the observation that              fold near the Insubric Line, which passively folds nappe contacts.
+         only remnants of the autochthonous cover of the crystalline base-           This backfolding is referred to as postnappe folding in Alpine lit-
+         ment nappes remained attached to the substratum, whereas most of            erature (Milnes, 1974). Backfolding occurred simultaneously
+         it was removed before the stacking of basement nappes. An inter-            with backthrusting along the Insubric Line and can be envisaged
+         esting example in this context is represented by the Schams nappes          as a vertical escape mechanism at the onset of continent-continent
+         shown in Figure 11. The Schams nappes are made of cover sedi-               collision (see Schmid et al., 1997a). Exhumation of high-grade
+GSA_sp414_chapter_09.qxd        9/25/06     1:41 PM       Page 164
+
+
+
+
+         164                                                                   Pfiffner
+
+
+                                                                                                                                                      S
+          N
+
+
+
+
+                                                                                                                                              Line
+                                                                                                                                             bric
+                                                                                                                                           Insu
+                                                                                                                       Bergell
+                                                  Austroalpine
+
+                                                                                                                                        Southalpine
+
+                                                                               Suretta                                                                    0
+                             Grava            Tomül                                                             Gruf
+
+                                                                           Tambo
+                                   Te       Aul
+                                     rri
+
+
+                                                          Adula                                                                                           10
+               Aar
+                                 Gotthard
+                                                                                Simano
+
+
+
+
+                                                                                                                                                          km
+                                                                                                                                                          20
+
+                                                                                                                             20 km
+                   Mesozoic-Cenozoic cover rocks                  Schams nappes
+
+                   Crystalline basement rocks                     Mylonite belt (Insubric Line)                          Austroalpine basement & cover
+                   Mesozoic ophiolites                            Oligocene granodiorites and tonalites                  (undifferentiated)
+
+         Figure 11. Geological profile across the Penninic nappes of the Swiss Alps, based on Pfiffner and Hitz, 1997, and Schmid et al., 1997b. To the south,
+         several thrust sheets up to 5 km thick are separated by thin slivers of Mesozoic cover rocks and are piled up. Most of the Mesozoic-Cenozoic cover
+         of these crystalline thrust sheets was sheared off and now forms a nappe stack of its own in the northern part of the section. The thrust faults were
+         intricately folded subsequent to nappe stacking. A broader antiform occurs in the vicinity of the Insubric Line, a major backthrust that exhumed the
+         deeper, amphibolite-grade thrust sheets.
+
+
+
+         rocks in the hanging wall of the Insubric Line was aided by ero-            Figure 12 is a cross section across the Himalayas and the Tibetan
+         sion (see Pfiffner et al., 2000). The Insubric Line has a strike slip       Plateau of Nepal and Tibet drawn after Cattin and Avouac (2000),
+         component also, which is dextral and amounts to at least 100 km.            DeCelles et al. (2001 and 2002), and Hauck et al. (1998). The cross
+         Westward motion of the Ivrea mantlepiece along the Insubric                 section shows a continental crust beneath the Tibetan Plateau with
+         Line combined with reverse thrusting in the Penninic nappes                 an extraordinary thickness of 70–80 km, which has been deter-
+         shifted the locus of orogenic contraction (from east of to west of          mined by seismic experiments of the INDEPTH program (Zhao
+         the Maggia transverse zone), rock uplift (by horizontal contrac-            et al., 1993; Nelson et al., 1996; Hauck et al., 1998). Shortening
+         tion), and surface uplift. These factors controlled the evolution of        within the Himalayas is estimated at 450 km (Steck, 2003) to
+         the North Alpine foreland basin (Pfiffner et al., 2002), where an           670 km (DeCelles et al., 2002); that is, roughly the width of the
+         equivalent shift of the depot center and the shedding of conglom-           Tibetan Plateau, which indicates a minimal shortening rate of
+         erates may be observed.                                                     10–15 mm/yr. This is slightly lower than the 20 mm/yr estimated
+                                                                                     by Cattin and Avouac (2000) for Plio-Pleistocene movements. The
+                                                                                     Indus-Tsangpo suture with remnants of oceanic sequences is an
+         Himalayas                                                                   important feature in the cross section. It stems from the closure of
+                                                                                     the Neotethys Ocean in a N-dipping subduction zone at the south-
+         Himalayan-Tibetan Orogen                                                    ern margin of Eurasia. At this time, this margin was formed by the
+              The Himalaya-Tibetan orogen resulted from the collision of             Lhasa terrane, which was accreted to the Eurasian plate in Early
+         the Lhasa Terrane with Eurasia in mid-Cretaceous times and the              Cretaceous times.
+         following collision with India from 65 Ma on (Patriat and                         The upper crust of the northern Indian plate was stacked
+         Achache, 1984; DeCelles et al., 2002; Steck, 2003). As is evident           southward by thrust faults leveling off at mid crustal level (see
+         from the recent seismicity and uplift, this collision is still active.      Fig. 12). These thrust faults encompass the Main Frontal thrust,
+GSA_sp414_chapter_09.qxd          9/25/06       1:41 PM         Page 165
+
+
+
+
+                                                   Thick-skinned and thin-skinned styles of continental contraction                                                165
+
+         which affects the foreland basin fill (the Siwaliks); the Main                    into high-grade metamorphic rocks. The South Tibetan Detach-
+         Boundary thrust, which involves Proterozoic to early Paleozoic                    ment System, a structure that consists of normal faults with a
+         metasediments of Greater India; and the Main Central thrust,                      shallow dip toward the north, forms the top of this unit. Meta-
+         which carries high-grade, upper crustal crystalline basement                      morphic isograds are telescoped toward this contact. Based on p-
+         rocks, migmatites, and leucogranites. The Main Frontal and                        T data, Searle et al. (2003) estimate the displacement along the
+         Main Boundary thrusts are interpreted to merge at depth, to re-                   normal fault to be between 100 and 200 km. The shallow-
+         join the Main Central thrust and to continue as a shallow dipping                 dipping north-directed protrusion of the entire assemblage
+         thrust (the Main Himalayan thrust) at midcrustal level. Finally, it               between the Main Central thrust and the South Tibetan Detach-
+         is interpreted to continue as subhorizontal thrust separating two                 ment System is explained by channel flow, a process involving
+         lower crustal sections across much of the Tibetan Plateau to the                  melt-assisted expulsion of high-grade metamorphics between
+         north. According to Catin and Avouac (2000), the Main Hi-                         two fault zones with opposite sense (see Fig. 12). Burchfiel and
+         malayan thrust forms a midcrustal ramp at the front of the Higher                 Royden (1985) explained the extension as a result of gravita-
+         Himalaya, which is taken to be responsible for surface uplift in                  tional collapse rather than crustal extension, whereas Searle
+         the moving hangingwall and the antiformal structure in the                        and Szulc (2005) favor a ductile channel driven by the effect of
+         Lesser Himalaya. The Main Central thrust puts high-grade,                         load represented by the higher elevation of the Tibetan Plateau
+         sillimanite-kyanite bearing crystalline basement rocks onto                       and buoyancy driven by the thicker Tibetan crust as compared
+         lower grade, garnet-biotite bearing metasediments (Gansser,                       to the Indian foreland. In their view, channel flow was lubri-
+         1983). A ductile shear zone marks the Main Central thrust. The                    cated by partial melts and leucogranite magmas.
+         hanging wall of the Main Central thrust is referred to as Crys-                        Crustal thickening beneath the Tibetan Plateau is explained
+         talline nappe or High Himalayan nappe or still Greater Hi-                        by a combination of upper crustal shortening and a doubling of
+         malayan zone. It contains migmatites and leucogranites intruded                   the lower crust by DeCelles et al. (2002). According to their
+
+
+
+              Foreland basin        Lesser Himalaya                  Higher Himalaya                                      Tibetan Plateau
+                                                                                               Indus-Tsangpo
+                                                                                                   Suture            Bangong-Nujiang
+          S                                MC               ST                                                           Suture                           N
+                        MB                     T              DS
+                MFT        T
+                                                               GHZ                                                                                            0
+
+
+                                                                                MHT
+                                       Moho                                                                                                                    50
+
+
+                                    Mantle Lithosphe
+                                                       re
+                                                                                                                                        Asthenosphere         100
+
+
+                                    Asthenosphere
+                                                                                                                                                              150
+                                                                                                                                                              km
+
+
+            MFT, MBT, MCT: Main Frontal, Main Boundary, Main Central Thrust           MHT: Main Himalaya thrust
+                                                                                                 seismogenic zone
+                                                                                                                                       100 km
+            GHZ: Greater Himalayan Zone, STDS: South Tibetan Detachment System
+
+              Greater India:                                                                             Neotethys:                 Lhasa terrane:
+                                                                                                                    Ophiolites of
+                      Siwaliks (Miocene-Pleistocene molasse)               Cover sequence of                                                Upper crust
+                                                                                                                    Indus-Tsangpo
+                                                                           Tibetan Himalaya
+                      Proterzoic- early Paleozoic metasediments                                                     Suture                  Lower crust
+                                                                           Proterozoic metasediments
+                      Upper Crust
+                                                                           of Lesser Himalaya
+                      Lower Crust
+
+
+         Figure 12. Geological profile across the Himalayas of Nepal and Tibet constructed from cross sections by Cattin and Avouac (2000), DeCelles et al.
+         (2001 and 2002), and Hauck et al. (1998). Several major thrust faults affect the cover sequence of the leading edge of the Indian plate and merge at
+         depth into the Main Himalayan Thrust. The Main Central Thrust is also shown to merge into the Main Himalayan Thrust. The Crystalline Nappe in
+         its hanging wall consists of crystalline basement rocks. The South Tibetan Detachment System, a normal fault system, forms the top of this nappe.
+         Coeval activity of the South Tibetan Detachment System and the Main Central Thrust squeezed out the Crystalline Nappe. This channel flow was
+         assisted by the presence of melts (leucogranites and migmatites). The lower crust of the leading edge of the Indian plate was inserted beneath the
+         Tibetan Plateau, whereas the mantle lithosphere was delaminated and subducted.
+GSA_sp414_chapter_09.qxd        9/25/06       1:41 PM      Page 166
+
+
+
+
+         166                                                                  Pfiffner
+
+         model, Indian and Greater Himalayan lower crust was inserted               certain authors (von Huene and Scholl, 1991). The detachment
+         beneath the crust of the Tibetan Plateau. This signifies that the          horizon is parallel to the stratification of the incoming fluid filled
+         Main Himalayan thrust forms the décollement zone at the base               sediment, and the detachment process itself is controlled by the
+         of the Lhasa Terrane’s lower crust. At the lithosphere scale, De-          weakening effect of the pore fluid (pressure).
+         Celles et al. (2002) argue that a delamination occurred near the
+         crust mantle boundary and that the mantle lithosphere sank into
+                                                                                    Aleutian Accretionary Wedge
+         the asthenosphere. Pieces of the latter are taken to have sunk
+                                                                                        In the case of the Aleutian trench, where the Pacific plate
+         deeper into the mantle owing to slab detachment.
+                                                                                    sinks beneath the North American plate, the off-scraped sedi-
+                                                                                    ments are incorporated to the upper plate, as depicted in Fig-
+         Potwar Plateau and Salt Range in Pakistan
+                                                                                    ure 14. Downward and outward propagation of thrusting
+               In the Himalayan foreland, ongoing collision between the
+                                                                                    renders early formed thrust faults inactive, adding thrust
+         Indian and Eurasian plates resulted in southward thrusting within
+                                                                                    sheets to the hanging wall of the active thrust faults. This
+         the Potwar Plateau and Salt Range fold-and-thrust belt (Pennock
+                                                                                    process is referred to as underplating and allows the accre-
+         et al., 1989). In the footwall of the Main Boundary thrust, a Cam-
+                                                                                    tionary prism to grow in thickness. Such underplating is geo-
+         brian to Eocene platform sequence was detached along Eocam-
+                                                                                    metrically equivalent to the process of footwall imbrication
+         brian evaporites and now forms a duplex within the northern
+                                                                                    used in foreland fold-and-thrust belts to describe their growth
+         Potwar deformed zone (see Fig. 13). Farther southward, thick
+                                                                                    by in-sequence thrusting.
+         Cenozoic molasse deposits overlie the Cambrian-Eocene strata.
+         But the entire sequence was displaced along the same detachment
+         horizon southward over a distance of 20–25 km. In the central              Makran Accretionary Wedge
+         (Fig. 13) and western Salt Range, internal deformation of the                   The effect of fluid saturated sediments is particularly evident
+         displaced slab is minor, shortening being of the order of 1 km.            in the Makran accretionary wedge. Figure 15 shows a cross sec-
+         In the eastern Salt Range, the displaced slab was shortened                tion across the Eastern Makran based on Byrne et al. (1992) show-
+         (telescoped). Internal deformation resulted in spaced folds,               ing oceanic crust of the Arabian plate being subducted beneath the
+         tight anticlines separated by open synclines (Soan syncline                Eurasian plate. From 6 to 7 km of young sediments blanket the
+         within the Potwar Plateau in Fig. 13). Fold wavelengths are                incoming oceanic crust. As discussed by Byrne et al. (1992), these
+         typically around 10–12 km. This difference in style is attributed          sediments are derived from the rising Western Himalayas, from
+         to adjustment of the taper angle by internal deformation by                the Makran itself, and from dust-bearing winds from Arabia.
+         Pennock et al. (1989).                                                     The upper 2.5 km of these sediments are currently accreted; the
+                                                                                    remainder is being consumed in the subduction zone. The
+         SUBDUCTION RELATED OROGENS                                                 accreted material is consolidated rapidly at the deformation front,
+                                                                                    but the low seismic velocities (hardly reaching 4 km/s) suggest
+         Accretionary wedges                                                        that this consolidation is only partial. For the downgoing sedi-
+                                                                                    ments, the small taper indicates pore pressures being equal to or
+              At ocean margins where two plates converge, the subduction            greater than lithostatic pressure and the presence of a weak hori-
+         process scrapes off young sediments of the incoming plate,                 zon with low resistance to slip.
+         thereby building an accretionary wedge. Typically, sediments are                Seventy km landward of the deformation front, pronounced
+         detached along a nearly horizontal surface, called décollement by          folding and modern uplift increases the surface slope. This may
+                                      ry
+                               us nda
+                            thr bou
+
+
+
+
+                      N                    North Potwar                                                                            S
+                                  t
+                               in
+
+
+
+
+                                                             Soan syncline
+                           Ma
+
+
+
+
+                                           deformed zone                                           Baun     Salt Range         Lilla
+                                                                                                                                       0
+                                                                                                                                       km
+
+
+
+
+                                                                                                                                       10
+
+                          Post-Siwalik                        Cambrian - Eocene cover rocks                 50 km
+                                             Cenozoic
+                          Siwalik                             Eocambrian Salt Range formation
+                                             molasse
+                          Rawalpindi                          Precambrian crystalline basement
+
+                     Figure 13. Geological profile across the Potwar Plateau and Salt Range in Pakistan, adapted from Pennock et al. (1989).
+                     Shortening in the southern foreland of the Himalayas occurred in a thin-skinned style, aided by a thick Eocambrian evap-
+                     orite horizon. The low taper angle that evolved in response to the weak detachment horizon caused the deformation front,
+                     the Salt Range, to propagate over a distance of 100 km out into the foreland.
+GSA_sp414_chapter_09.qxd     9/25/06     1:41 PM      Page 167
+
+
+
+
+                                           Thick-skinned and thin-skinned styles of continental contraction                                       167
+
+         be explained by an increase in shear strength, by ramping of the          made up of dewatered young sediments and older strata favors
+         décollement horizon, or by a decrease in strength of the upper            the occurrence of large thrust earthquakes at the plate boundary.
+         plate rocks. Miocene uplift is indicated by a change from Oligo-
+         Miocene abyssal plane turbidites to Mio-Pliocene shelf sedi-              North American Cordillera
+         ments (Platt et al., 1985). Additionally, 70 km landward of the
+         deformation front, the upper-plate rocks experience dewatering                 The North American Cordillera is the product of a complex
+         and consolidation (as indicated by mud volcanoes near the coast           process involving subduction of oceanic lithosphere and the ac-
+         in the cross section of Fig. 15). Furthermore the décollement             cretion of terranes spanning the Phanerozoic and late Precambrian
+         horizon is at the top of the oceanic basement and steepens at             (Oldow et al., 1989; Moores and Twiss, 1995). The accretion of
+         around this location where large thrust earthquakes also set in.          terranes also involved major strike slip movements. The orogen is
+         These observations led Byrne et al. (1992) to conclude that the           bivergent with an active pro-wedge on the western side involving
+         frontal part of the accretionary wedge deforms by aseismic slip           the transpressional subduction of the oceanic Pacific plate and a
+         of poorly consolidated rocks, whereas the rear part of the wedge          retro-wedge, which formed by compressional deformation of the
+
+
+
+
+                         N                                                                                                              S
+                     0                                                                                                                        0
+
+                                                                                                                   Aleutian Trench axis
+
+
+                                  underplated sediment
+                                                                          underthrust sediment
+                                                                                                 décollement
+                                                                                                                                              5
+
+
+
+
+                                                                                                                                             km
+                                                                                                                10 km
+                                   oceanic basement
+
+
+                     Figure 14. Geological profile across the Aleutian trench off Shumagin Islands (Alaska Peninsula), adapted from von
+                     Huene and Scholl (1991). The cross section shows accretion and tectonic underplating by downward and forward prop-
+                     agation of the décollement active at the toe of the growing accretionary wedge.
+
+
+
+                         N                                        coast              seismic front              deformation front
+                                                                       mud volcano                                                  S
+                                                                                                                                        0
+                                                                                                                                        km
+
+
+
+
+                                                                                         Mantle lithosphere
+                                                                                                                                        50
+                                                                                                                 100 km
+
+                             Oligocene             Miocene shelf deposits               post-Miocene
+                             Eocene                Miocene slope deposits               Oceanic crust          Earthquake hypocenter
+
+                     Figure 15. Geological profile across the Makran accretionary wedge, adapted from Byrne et al. (1992). Offscraping of
+                     the uppermost part of the incoming sediments of the oceanic plate entering the subduction zone has formed a 250 km
+                     wide accretionary wedge. Dewatering of these sediments (indicated by mud volcanoes and seismic velocities) increases
+                     the shear strength of the décollement horizon. As a consequence, the growing wedge increased the taper angle by fold-
+                     ing and thrusting in the internal part of the wedge.
+GSA_sp414_chapter_09.qxd      9/25/06     1:41 PM    Page 168
+
+
+
+
+         168                                                              Pfiffner
+
+         North American craton and the accretion of terranes in mainly          metasediments of the Windermere Supergroup. Metamorphic iso-
+         Mesozoic-Cenozoic times.                                               grads crosscut the early folds but are folded themselves by the
+              Figure 16 is a generalized cross section located in the south-    later phase folds. In the case of the Porcupine Creek fan structure
+         ern part of the Canadian part of the Cordillera and was constructed    located to the east of the Purcell anticlinorium, internal deforma-
+         from cross sections by Price and Fermor (1985), Brown et al.           tion includes imbricate thrusting and folding. The décollement
+         (1986), and Oldow et al. (1989). It shows how the western margin       occurred within the Cambrian strata. At the trailing edge of the
+         of the North American craton is telescoped. A stack of crystalline     thrust sheet, in the footwall of the thrust fault emerging in the
+         basement nappes is overlain by the accreted Quesnel terrane.           Rocky Mountain Trench, early formed thrust faults are back-
+         Cover rocks of the North American margin were detached from            folded by the Porcupine Creek Fan Structure. West of the Purcell
+         their basement and transported eastward. The deformation front of      anticlinorium, west-verging structures on the western flank of the
+         the North American margin reached about 200 km onto the craton         Selkirk Allochthon are mid-Jurassic in age, while on the eastern
+         as shown by the Foreland Belt. The décollement level is suspected      flank, an Early to Late Cretaceous event overprinted the Jurassic
+         at the crust/mantle boundary in the west (below the Coast Belt and     structures (Gibson et al., 2005). Still farther west, in the Koote-
+         the Intermontane Belt) and then climbs across the crust in the         nay Arc and Quesnel terrane, Jurassic (and Cretaceous) granites
+         Omineca Belt. In this sense, the Omineca Belt represents a transi-     intrude Paleozoic strata and crosscut the internal structure of the
+         tion from the thick-skinned style governing the accretion of ter-      host rocks. Discordant contacts occur to the west, whereas more
+         ranes and the thin-skinned style expressed by the Foreland Belt.       concordant contacts prevail along the eastern border with high-
+         The basal detachment of the allochthonous slices sheared off the       grade granitoid gneisses and foliated granitic rocks.
+         western margin of the North American craton is located in the Late
+         Proterozoic Windermere Supergroup. The thrust faults are shown         The Foreland Belt
+         to merge at depth. Displacements along these thrust faults sum up           The geologic profile across the Rocky Mountains shown in
+         to hundreds of kilometers. The question then arises where this dis-    Figure 18 (redrawn from Price and Fermor, 1985) displays the
+         placement goes. Oldow et al. (1989) evoke the concept of orogenic      imbricate thin-skinned style of the Foreland Belt, which consists
+         float to explain the assemblage of terranes. According to this con-    of the Alberta Foothills, the Front Ranges, and the Main Ranges.
+         cept, the incoming plate is delaminated, the crustal sections of the   The internal structure of the fold-and-thrust belt is well known
+         terranes are accreted to the margin, and the mantle lithosphere is     from petroleum exploration and has been discussed in detail by,
+         subducted. In such a process, a major décollement must be active       for example, Gabrielse and Yorath (1991) and Oldow et al. (1989)
+         along the crust mantle boundary, possibly as a broad shear zone.       and references therein. Within the Foothills, Mesozoic sandstones
+         Such a shear zone could compensate much of the displacement of         form a multifold nappe stack. A classical triangle zone forms the
+         the merging thrust faults of the Omineca and adjacent Foreland         boundary to the undeformed foreland strata overlying the North
+         Belt. The concept of orogenic float assumes that the mantle litho-     American craton, with a detachment horizon within Cretaceous
+         sphere was subducted at the leading edge of the Farallon plate.        strata. The basal thrust extends subhorizontally westward beneath
+                                                                                the adjacent Front Ranges. Within the Front Ranges, Paleozoic-
+         Omineca Belt                                                           Mesozoic carbonates are thrust eastward along bedding parallel
+              The cross section shown in Figure 17 covers the Omineca           thrust faults, which level off westward beneath the Main Ranges.
+         Belt of the Cordillera only. The NE part of the section is redrawn     Within the latter, Late Proterozoic metasediments are involved in
+         from Price and Fermor (1985). In the SW part, the section is           a thin-skinned style, and the imbricate thrust sheets give way to
+         inspired by the work of Brown et al. (1986) and Gibson et al.          ductile folding in the Porcupine Creek fan structure and the Pur-
+         (2005). The basement slices beneath the Quesnel terrane repre-         cell Anticlinorium (shown in Fig. 17). In the latter, folding
+         sent an equivalent of the Monashee complex outcropping farther         occurred under high-grade conditions and affected isograds in the
+         north, and the fault in their hanging wall corresponds to the          later stage of the orogeny (Simony in Gabrielse and Yorath,
+         Monashee décollement. The Omineca Belt consists of metamor-            1991). As discussed by Price (1981), the décollement horizon
+         phosed crystalline basement rocks and overlying cover rocks of         within the Foreland Belt climbs section going east. Parallel to this,
+         the western margin of the North American craton (see Tempelman         important thickness changes and lateral facies changes influence
+         et al., 1991, and references therein). This margin was shortened       the style of internal deformation. The fold-and-thrust belt grew
+         and thickened by collision and convergence with the Intermon-          eastward with time. Thrusting was Middle Jurassic to Early Cre-
+         tane Superterrane during Middle Jurassic and later time. The           taceous in the Main Ranges, Late Cretaceous to Early Eocene in
+         structural style is characterized by mainly east-verging thrusting     the Foothills.
+         and folding that produced a number of culminations exposing
+         crystalline basement that was uplifted more than 20 km. Exam-          Andes
+         ples of such culminations include the Purcell anticlinorium and
+         Porcupine fan structure in Figure 17. As discussed by Simony in            The Andes are the product of a long-lived subduction system.
+         Tempelman et al. (1991), in the core of the Purcell anticlinorium      The structural and morphotectonic style varies considerably
+         several phases of ductile folding affected the Upper Proterozoic       along strike from north to south (Kley et al., 1999, Ramos and
+GSA_sp414_chapter_09.qxd             9/25/06          1:41 PM                Page 169
+
+
+
+
+                                                        Thick-skinned and thin-skinned styles of continental contraction                                                                                       169
+
+                                                                                                     Garibaldi                                                 Fig. 17                     Fig. 18
+                                                                   Georgia                           volcanic belt
+         W                                      Insular Belt
+                                                                    Strait
+                                                                                         Coast Belt                                      Intermontane Belt       Omineca Belt Foreland Belt                    E
+                                                                                                                                                                                                      cC
+
+
+
+
+                                                                             W
+                                       T                                                                                                                        Q        P                   R
+
+
+
+
+                                                                             C
+                                                                                                                                                                                                     M
+
+
+
+
+                                                                                                                                                                                         B
+                                                                                                                                                                                                                0
+
+
+
+
+                                                                                                                                                                                                               100
+                                                                                                                                                                         Mantle lithosphere
+                                                                                      Fara
+                                                                                          llon
+                                                                                                 plat
+                                                                                                      e
+                                           Asthenosphere
+                                                                                                                                                                                                               200
+
+
+
+
+                                                                                                                                                                    base
+                                                                                                                                                                             of No
+                                                                                                                                                                                  rth American
+                    100 km                                                                                                                                                                     lithospher  e   300
+
+                                                                                                                                                                                                               km
+
+
+                                                                                       Subduction                Terranes of                                             Crystalline basement              Plutons
+               Pacific Rim & Crescent terrane          Wrangellia terrane                                                                  Quesnel terrane
+                                                                                       channel                   Coast Belt                                              of North American Craton
+
+                   T: Tofino fault                             WC: West Coast fault                 Q: basal thrust of Quesnel terrane               P, B, R, McC: Purcell, Bourgeau, Rundle, McConnel thrust
+
+
+         Figure 16. Generalized geological profile across the North American Cordillera based on Price and Fermor (1985), Brown et al. (1986), and Oldow et
+         al. (1989). Delamination of the incoming lithosphere led to the subduction of mantle lithosphere, while the crust was accreted to the North American
+         Craton as orogenic float. East-directed thrusting shortened the western margin of the North American Craton. To the west, a thick-skinned tectonic
+         style affected the craton’s outer margin and the accreted terranes of the Intermontane and Coast Belts. Toward the east, the basal décollement climbs
+         section within the Omineca and Foreland Belt. The deformation front reached some 200 km into the craton.
+
+
+         Aleman, 2000). The segment of the Central Andes of Peru has the                                        along the transect considered here, Pitcher et al. (1985)
+         advantage that deeper levels of the orogen are exposed at the sur-                                     mapped a number of individual intrusions: the Patap Gabbro
+         face and in deeply incised river valleys. For example, the coastal                                     (.83 Ma); the Santa Rosa tonalite, granodiorite, and diorite
+         Batholith (Pitcher et al., 1985) and the folded country rocks into                                     (80–90 Ma); and the Paccho (70 Ma) and Acos tonalites (Late
+         which it intruded are beautifully exposed.                                                             Cretaceous-Early Cenozoic). The magmatic rocks are in
+                                                                                                                places hardly younger than the folded Cretaceous sediments.
+         Central Andes of Peru                                                                                  Eocene-Miocene volcanics (Calipuy group) overlie these
+              In the Central Andes of Peru, two cordilleras—the Cordillera                                      intrusive bodies and the folded strata disconformably. The
+         Occidental and the Cordillera Oriental—represent the primary                                           intrusive rocks do not show signs of deformation (e.g., hori-
+         morphologic features. In this segment, the Nazca Plate descends                                        zontal shortening). This suggests that folding took place prior
+         at a shallow dip beneath the South American plate, and conver-                                         to or at least in an early stage of the magmatic activity associ-
+         gence is at a high angle to the plate boundary. In concert with this                                   ated with the Coastal Batholith. Thermal weakening possibly
+         shallow dip, volcanism ceased in Cenozoic times. The tectonic                                          led to relatively homogeneous horizontal shortening and ver-
+         evolution of the Andes is summarized in Ramos and Aleman                                               tical stretching as indicated by the style of folding. This phase
+         (2000) and Jaillard et al. (2000). Mégard (1978, 1984) discusses                                       of folding has been referred to as Peruvian in the literature
+         the structure and evolution of the Peruvian Andes in particular.                                       (Mégard, 1978; Jaillard and Soler, 1996; Jaillard, et al., 2000).
+              The cross section shown in Figure 19 is based on maps of                                          Disconformities between karstified Jurassic limestones in
+         the Peruvian Geological Survey (INGEMMET) and personal                                                 steeply dipping limbs and subhorizontal Eocene strata,
+         fieldwork. It passes 30 km N of Lima. The offshore section                                             together with Eocene volcanics overlying Cretaceous intrusive
+         including the geometry of the tip of the continental crust is                                          rocks, suggest that rock uplift by vertical stretching and asso-
+         taken from Hampel et al. (2004), the flat slab geometry from                                           ciated surface uplift was immediately followed by substantial
+         Ramos and Aleman (2000). The Cordillera Occidental consists                                            erosion in Late Cretaceous to Paleogene times.
+         of Paleozoic and Mesozoic strata, which are folded. The folds                                               The structural style encountered in the Cordillera Oriental is
+         are symmetrical upright folds with relatively long subvertical                                         of a completely different nature. Here NE-verging shallow dip-
+         limbs and are intruded by the various intrusive complexes of                                           ping thrust faults put Paleozoic and Mesozoic sediments onto the
+         the Coastal Batholith. Toward the NE, these folds grade into                                           Cenozoic basin fill of the foreland basin, which evolved on
+         NE-verging overthrusts. Within the Coastal Batholith and                                               the eastern margin of the Andes. Locally Pliocene strata are
+GSA_sp414_chapter_09.qxd        9/25/06           1:41 PM                   Page 170
+
+
+
+
+         170                                                                                                               Pfiffner
+
+                                                                                                                                   Purcell                                                  t
+              SW                                                                                                                                                                         rus Rocky Porcupine Creek            NE
+                                       Kootenay Arc                                                                                Anticlinorium                                   ell Th
+                                                                                                                                                                           P   urc          Mountain
+                                                                                                                                                                                                       Fan Structure
+                   Quesnellia                                                                       Selkirk Allochthon                                                                      Trench
+
+                                                                                  +
+                   +                                                              +
+                   +                                                                                                                                                                                                                0
+
+                                                                                                                                                                                                                                    5
+
+                                                                                                                                                                                                                                    10
+
+         MD
+                           Monashee complex                                                                                                                                                                                         20
+
+
+
+
+                                                                                                                                                                                                                                    km
+                                                                                                                                                                                                                                    30
+
+                                                                                                                                                                                                         50 km
+                       Jurassic Granites                                                                        Cambro-Ordovician cover rocks
+                                                                                                                Cambrian cover rocks
+                                                                                                                                                                                                       Crystalline basement rocks
+                       Cambrian cover rocks                                              Late Proterozoic metasediments                                                                                (North American craton)
+                                                                                         (Windermere Supergroup)
+                       Late-Palaeozoic cover rocks                              MD: Monashee detachment                                                                                                Lower crustal rocks
+
+
+         Figure 17. Geological profile across the Omineca Belt of the North American Cordillera in southern British Columbia and Alberta (Canada), adapted
+         from Price and Fermor (1985), Brown et al. (1986), and Gibson et al. (2005). Imbricate thrusting affects the western margin of the North American
+         craton. The basal detachment climbs from the lower crust eastward to the base of the Windermere metasediments and then to the base of the Cam-
+         brian sediments. Thrusting is NE directed. Pervasive ductile folding deforms the basal thrust of the Quesnel terrane and early formed thrust sheets
+         in the Purcell Anticlinorium and the Porcupine Creek Fan Structure.
+
+
+
+                                                                     FRONT RANGES                                                                                                               FOOTHILLS
+                                                             t
+                                                     r us                                          u   st
+                                                  Th                      st                 T  hr
+                                             ss          t             ru               in                                                t
+                                           Pa      rus               Th               ta                                              ru
+                                                                                                                                         s        t                        t
+                                      on        Th             au              ou
+                                                                                  n                         t                    Th             us                       us
+          SW                         ps gue                  ge                                    us                           ie            hr                      hr                                                       NE
+                                                     ur                   rM                     hr                                         T                        T
+                                   m
+                                 Si Fati           Bo                hu                    le
+                                                                                                T                           ald          aw                      nel
+                                                                  ulp             nd                                  l i sm          sh                     n
+                                                                 S              Ru                               In
+                                                                                                                    g             E x
+                                                                                                                                                       c  Co
+                                                                                                                                                      M
+
+                                                                                                                                                                                                                                     0
+
+                                                                                                                                                                                                                                     5
+
+
+
+
+                                                                                                                                                                                                                                     km
+                                                                                                                                                                                                                                     10
+
+                                                                                                                                                                                                                  20 km
+                                                                                                                                        Late Proterozoic metasediments
+                        Cretaceous clastics                                                                                             (Windermere Supergroup)
+
+                        Palaeozoic carbonates and clastics                                                                              Crystalline basement of North American craton
+
+         Figure 18. Geological profile across the Foreland Belt of the North American Cordillera in southern Alberta (Canada), adapted from Price and Fer-
+         mor (1985). Imbricate thrusting telescoped the Paleozoic sequence in the Front Ranges with the basal detachment located in the Proterozoic Win-
+         dermere metasediments. A similar thin-skinned style shortened the Paleozoic-Mesozoic sequence of the Foothills province. Here, the décollement
+         steps up from the Windermere and basal Paleozoic strata to the base of the Cretaceous clastics.
+
+
+
+         overthrust. This late phase of thrusting has been referred to as the                                                           (loose displacement) in the still hot lower crust beneath the mag-
+         Quechuan phase (Jaillard, et al., 2000). The shallow dipping                                                                   matic arc of the Coastal Batholith. In the hanging wall of these
+         thrusts are shown to merge at depth (similar to the situation in                                                               thrusts, folding becomes more important toward the SW. Here a
+         Bolivia; see Fig. 20). The associated displacement makes it                                                                    number of intrusions varying in age from Late Paleozoic to
+         likely that the thrust fault reaches back into the subsurface of the                                                           Cenozoic crosscut the folds in the Paleozoic and Mesozoic
+         Cordillera Occidental. In Figure 19, it is interpreted to die out                                                              strata, respectively.
+GSA_sp414_chapter_09.qxd            9/25/06   1:41 PM    Page 171
+
+
+
+
+                                               Thick-skinned and thin-skinned styles of continental contraction                                                171
+
+                Between these cordilleras, a zone of high elevation forms the             orocline. Its internal structure is subject to lateral changes. The
+         Cordillera Central. Here, upright folds cut by steeply dipping                   cross section shown in Figure 20 is based on work by Kley (1996)
+         faults of varying offset intensively affect Paleozoic and Mesozoic               and McQuarrie and DeCelles (2001) and extends from the Alti-
+         strata. Farther to the NW, an important fault parallel to the strike             plano across the Cordillera Oriental to the Subandean Ranges in
+         of the Andes raises Cenozoic granitic rocks in the Cordillera                    southern Bolivia. In this transect, basement rocks include
+         Blanca to the same elevation as volcanic rocks of the same age in                Proterozoic-Cambrian siliciclastic metasediments intruded by
+         the adjacent Cordillera Negra. Similarly, in the transect of Huan-               Mid-Cambrian granites. This basement is overlain uncon-
+         cayo, Late Proterozoic crystalline basement is brought next to                   formably by a Paleozoic-Cenozoic cover sequence containing
+         hardly metamorphic Late Paleozoic sediments along a steeply                      several unconformities (see Kley, 1996, and references therein).
+         dipping reverse fault striking parallel to the chain. Unlike these               Shale units at the base of the Silurian and Permian-Triassic con-
+         two examples, vertical offsets in the transect of Figure 19 do not               tinental shales and evaporites form important décollement hori-
+         seem to exceed one or two kilometers. The consistent map pat-                    zons. The cover sequence terminates with thick clastic foreland
+         tern, however, suggests that some of these faults may have impor-                strata deposited from the Late Oligocene onward.
+         tant strike slip components. The young age of the shallow dipping                     A complex interplay of folding and thrusting in the Paleo-
+         thrust faults in the Cordillera Oriental are likely to be associated             zoic-Cenozoic strata encompasses both west- and east-verging
+         with their counterparts south of the Bolivian orocline (discussed                thrusting. The total shortening is estimated at 90–110 km in the
+         in Fig. 20). In addition, paleobotanical data (Gregory-Wodzicki,                 Cordillera Oriental and 100 km in the Subandean Zone. The
+         2000) suggest that the Altiplano-Puna areas as well as the                       Subandean Ranges are an active east-verging thin-skinned fold-
+         Cordillera Oriental reached their modern elevation after 10.7 Ma.                and-thrust belt accommodating 10–15 mm/yr of the 80 mm/yr
+         It is thus likely that motion along the shallow dipping and steeply              convergence between the Nazca and the South American Plates
+         dipping faults both contributed to uplifting the Andean chain to                 (Norabuena et al., 1998). The imbricate thrusts of this belt level
+         its modern high elevation.                                                       off at a décollement horizon (Silurian shales after Kley, 1996), but
+                                                                                          displacement is transferred into the crystalline basement west-
+         Subandean Ranges in Bolivia                                                      ward of the Subandean Ranges by low-angle thrusting (Kley,
+              The Subandean Ranges extend along the eastern margin of                     1996). As shown in Figure 20, basement-involved thin-skinned
+         the Cordillera Oriental of the Andes, curving around the Bolivian                thrusting led to the development of up to 10 km thick basement
+
+
+
+
+           SW                                                     Cordillera Occidental   Cordillera Central   Cordillera Oriental
+                                                                                                                                                         NE
+
+                   Pacific Ocean
+                                                                Coastal Batholith
+                                                        coast
+                                                                                                                                                               0
+
+
+
+                 Nazca plate
+                                                                                                                                                              50
+                                                                                                                                      South American plate
+
+                    Asthenosphere
+
+                                                                                                                                                              100
+                                                                                                               flat slab segment
+                                                                                                                                                              km
+
+
+
+
+           79°                         78°                      77°                           76°                            75°                  74°
+                                                                                                                                     100 km
+                     Neogene sediments of
+                     forearc and forebasin                                    Phanerozoic intrusions
+                                                                              Crystalline basement                                    Oceanic crust
+                     Mesozoic sediments
+                                                                              continental crust
+                                                                                                                                      Mantle lithosphere
+                     Paleozoic sediments                                      Thermally weakened crust
+
+         Figure 19. Geological profile across the Central Andes of Peru. The Coastal Batholith in the Cordillera Occidental intruded into a folded sequence
+         of Paleozoic and Mesozoic strata. Axial surfaces are mainly subvertical and may overlie a thermally weakened crust that yielded in an overall pure
+         shear style. In contrast, the Paleozoic-Cenozoic strata of the Cordillera Oriental are shortened by thrust faults that affect the underlying crystalline
+         basement as well. These thrust faults are likely to extend westward into the thermally weakened crust beneath the Cordillera Occidental. At a litho-
+         sphere-scale, the subducted Nazca plate forms a flat slab segment beneath the Andes and the foreland.
+GSA_sp414_chapter_09.qxd        9/25/06     1:41 PM       Page 172
+
+
+
+
+         172                                                                    Pfiffner
+
+         thrust sheets transported to the west. Much of this displacement             sequences often consist of carbonate layers extending relatively
+         (60 km after Kley, 1996; 100 km after McQuarrie and DeCelles,                continuously over large distances. In many cases, these mechan-
+         2001) took place from 5 Ma on and is held responsible for raising            ically stiff layers overlie a weak layer formed by evaporites or
+         its hanging wall, the Altiplano and Cordillera Oriental to its pres-         shales, which form the décollement horizon into which the vari-
+         ent high elevation (McQuarrie and DeCelles, 2001).                           ous thrust faults sole. Examples include the Valley and Ridge
+              The Cordillera Oriental displays a westward verging fold-               province of the Appalachians (Fig. 7), the Main and Front Ranges
+         and-thrust belt of Paleozoic and Cenozoic strata (backthrust belt            of the Rocky Mountain Foreland Belt (Fig. 18), the Jura Moun-
+         of McQuarrie and DeCelles, 2001). A décollement horizon is                   tains (Fig. 1) and the Helvetic nappes in the Alps (Fig. 10), or the
+         assumed in Ordovician strata. Imbricate thrusts branching off this           Salt Range south of the Himalayas (Fig. 13). In terms of critical
+         décollement horizon lose displacement upward owing to coeval                 taper theory (Davis et al., 1983, Dahlen, 1984), the low basal fric-
+         folding in the younger strata. The total shortening is estimated at          tion represented by, for example, evaporites will tend to produce
+         85 km and is interpreted to have occurred from Late Eocene to                a low taper angle (angle between surface slope and basal detach-
+         Early Miocene times. As discussed by McQuarrie and DeCelles                  ment). Long and thin thrust sheets represent an efficient way to
+         (2001), the west-verging thin-skinned tectonics in the Cordillera            maintain such a low taper angle.
+         Oriental facilitated the eastward emplacement of a 100 km long                    If, however, the mechanical contrast between the rocks form-
+         and 10 km thick basement (mega)thrust sheet. These authors sug-              ing the thrust sheets and the rocks in the décollement horizon is
+         gest that the décollement of this (mega)thrust sheet was controlled          less pronounced and the detachment is more governed by a
+         by thermal weakening, which also explains why the décollement                mechanically stiff basement beneath, a higher taper angle is to be
+         was activated over a considerable horizontal distance.                       expected. Such a scenario will favor imbricate stacks of short
+                                                                                      thrust sheets with steeply dipping thrust faults such as observed,
+                                                                                      for example, in the Lesser Himalayas (Fig. 12), the Aleutian and
+         DISCUSSION                                                                   Makran accretionary wedges (Figs. 14 and 15), or the Foothill
+                                                                                      province of the Rocky Mountain Foreland Belt (Fig. 18). In these
+              A comparison of the various styles of continental contraction           examples, siliciclastic rocks typical for accretionary wedges and
+         in orogens reveals both similarities and differences. The thin-              foreland basins dominate.
+         skinned style involving sedimentary strata is observed in all the                 It is interesting to note that the fold-and-thrust belts with long
+         orogens with the exception of the basement uplifts such as the               thrust sheets formed by telescoping of passive margin sequences
+         Wind River and Owl Creek Ranges (Fig. 3). However, the details               tend to evolve toward an imbricate stack of short thrust sheets in
+         of this style vary to some degree. In the case of contracted former          later phases of orogeny. Owing to the tectonic overburden repre-
+         passive margins, the thrust sheets tend to be long and thin,                 sented by the growing orogen (including the telescoped passive
+         whereas accretionary prisms and clastic basin fills tend to develop          margin), a foredeep develops, and the clastics accumulating in
+         shorter and thicker thrust sheets. This difference is likely to be           this foreland basin become gradually involved in thrusting as
+         controlled by the sedimentary strata involved. Passive margin                well. These clastic sequences will form shorter thrust sheets as is,
+
+
+
+           Altiplano
+                                                    Cordillera Oriental                                                    Subandean Zone
+          W                                                                                                                                          E
+
+                                                                                                                                                          0
+
+
+
+
+                                                                                                                                                          50
+                                                                                                             Mantle lithoshpere
+                                                                                                                                                         km
+
+
+
+
+                                                                                                                                  100 km
+                       Cenozoic foreland deposits
+
+                       Paleozoic-Mesozoic cover rocks                                                 Crystalline basement rocks/continental crust
+
+         Figure 20. Geological profile across the Subandean Ranges and the Cordillera Oriental of Bolivia, based on cross sections by Kley (1996) and
+         McQuarrie and DeCelles (2001). In the Subandean Zone, east-directed imbricate thrusting telescoped the Paleozoic-Cenozoic strata in a thin-skinned
+         style. Toward the west, the décollement is within the crystalline basement. Two large thrust sheets, each 10 km thick and 200 km long, underlie the
+         Cordillera Oriental. In the shallow parts of the Cordillera Oriental, west-directed thrusting with a décollement in Ordovician strata affects the Pale-
+         ozoic sequence. Upward these thrust faults lose displacement and end in the core of anticlines.
+GSA_sp414_chapter_09.qxd      9/25/06    1:41 PM     Page 173
+
+
+
+
+                                           Thick-skinned and thin-skinned styles of continental contraction                                     173
+
+         for example, evident when comparing the Foothill province of the      tunga nappe complex (Fig. 4). The examples mentioned corre-
+         Rocky Mountain Foreland Belt with the Front Ranges (Fig. 18),         spond to cases where continental contraction by imbrication of
+         or the Subalpine Molasse and the Helvetic nappes in the case of       crustal rocks is particularly high and where the entire crust yielded
+         the Swiss Alps.                                                       in a ductile manner owing to higher temperatures. Examples of
+               Differences in style of continental contraction by basement-    much milder warping include the Blue Ridge in the Southern
+         involved thin-skinned tectonics are exhibited by the degree of        Appalachians (Fig. 6), the Caledonides in Scotland (Fig. 5), or
+         involvement of the crystalline basement rocks. Here it seems that     individual thrust faults in the North American Cordillera (Purcell
+         the style depends on the amount of contraction that the particular    thrust in the Purcell Anticlinorium in Figure 17 or rear parts of the
+         orogen underwent. For example, the mild deformation repre-            Bourgeau and Fatigue thrusts). These mild warpings are seem-
+         sented by the top basement surface in the Jura Mountains (Fig. 1)     ingly related to a cooler environment and associated mechanically
+         or the basement uplifts of the Wind River and Owl Creek Ranges        stronger crust.
+         (Fig. 3) is in stark contrast to the basement-involved thin-skinned         A comparison of the thin-skinned and the basement-
+         style observed in the SouthernAppalachians (Fig. 6), the Omineca      involved thin-skinned styles reveals that the degree of imbrica-
+         Belt of the North American Cordillera (Fig. 17), the Penninic         tion differs. In case of thin-skinned tectonics, thrust faults cut up
+         nappes of the Swiss Alps (Fig. 11), the Caledonides of Scotland       section and break surface at a high angle. These thrusts may be
+         (Fig. 5), the Arltunga nappe complex in Australia (Fig. 4) or the     the result of an orogenic wedge growing by frontal accretion and
+         Cordillera Oriental and the Subandean zone of the Andes               attempting to maintain critical taper. The displacement of each
+         (Figs. 19 and 20). The variability within these latter concerns the   individual thrust is relatively small, and it’s only the merging of
+         depth to detachment within the crystalline basement and the           these thrust faults into a common detachment zone that ads up to
+         degree of deformation of the basement thrust sheets postdating        larger displacements. The dip of the thrusts near the surface is the
+         their imbrication. The Caledonides of Scotland exhibit relatively     result of the rotation that earlier formed thrust faults experience
+         thin (less than 1 km) basement slivers; the Penninic basement         as they are passively transported by newly formed thrust faults in
+         nappes are around 5 km thick; and the Arunta block involves           their footwall. In the case of basement-involved thin-skinned tec-
+         crustal blocks 3–10 km thick. The reasons controlling décolle-        tonics, the fronts of the thrust sheets are up on top of each other
+         ment depth and location of thrust ramps are not satisfactorily        and thus the displacement of individual thrust faults is generally
+         explained as yet. In the Scottish Caledonides, p-T conditions are     larger. The thrust faults within the basement are parallel to each
+         thought to be important, whereas in the Penninic nappes, litho-       other and thus do not experience any rotation when carried pig-
+         logic discontinuities are suspected to control thrust ramps, and      gyback by newly formed thrust faults in their footwall. This
+         temperature-sensitive creep of quartz the basal décollement. In       scenario corresponds to an orogenic wedge growing by basal
+         the case of the Arltunga nappe complex, zones of cataclasites,        accretion (or tectonic underplating).
+         mylonite phyllonites and locally pseudotachylites occur along the           The thick-skinned style of continental contraction is less
+         thrust faults (Teyssier, 1985), while the basement rocks away         common. Examples include the basement uplifts of the Wind
+         from the thrust faults are strongly foliated owing to earlier, Pro-   River and Owl Creek Ranges (Fig. 3) and similar uplifts in the
+         terozoic orogenies. Brittle features along these thrusts dominate     eastern foreland of the North American Cordillera and the Andes
+         at the southern (more external) edge of the basement block,           of South America (Pampean Ranges in Argentina), and the Aar
+         whereas plastic-ductile deformation dominates to the north; that      massif and Ivrea zone in the Alps (Fig. 9). All these structures
+         is, in the deeper exposed zones. The thrusts are interpreted to       represent a relatively mild contraction and evolved late in the as-
+         have formed by reactivation of older, Proterozoic structures          sociated orogen. Preexisting structural highs seem to have played
+         (zones of weakness). As discussed by Dunlap et al. (1997), the        an important role in the formation of the American basement up-
+         Arltunga nappe complex evolved by in-sequence thrusting, the          lifts and the Ivrea zone. Nevertheless the occurrence of such
+         fault rocks experiencing lower temperatures in the waning stages      structures is restricted, and there are several similar foreland fold-
+         of the orogeny.                                                       and-thrust belts lacking such basement uplifts. This suggests that
+               As is evident from the cross sections across the Northern       several factors in combination are necessary for their formation.
+         Appalachians, the Alps and the Arltunga nappe complex in Aus-         In the case of the Aar massif, it may be added that the basement
+         tralia, basement-involved thin-skinned tectonics is associated        uplift is part of a system of uplifts straddling the European side
+         with high amplitude warping and folding of major thrust faults.       of the Alps from the Western Alps (Pelvoux) to the Eastern Alps
+         This complexity is caused by downward, respectively in-sequence       (Tauern). Locally the crystalline basement is overthrust onto the
+         propagation of deformation. In the Northern Appalachians              autochthonous foreland cover (Pfiffner and Heitzmann, 1997,
+         (Fig. 8), the complex folded thrusts in the Bronson Hill Anticlino-   and Pfiffner et al., 1997b) such that the Aar massif can be consid-
+         rium and the thrust faults in the Berkshire Massif are examples.      ered something like an “embryonic” basement nappe.
+         For the Alps (Fig. 9), similar complexities pertain to the antiform         One important question relates to where the displacement of
+         north of the Insubric Line folding a nappe stack, or the antiform     the thrust faults involved in thin-skinned tectonics is compen-
+         above the Aar Massif folding the basal thrust of the Helvetic and     sated at depth. In the simple case of an accretionary wedge (e.g.,
+         higher nappes. Similarly, folded thrusts can be observed in theArl-   Figs. 14 and 15), one can easily envisage that it connects to the
+GSA_sp414_chapter_09.qxd      9/25/06     1:41 PM     Page 174
+
+
+
+
+         174                                                               Pfiffner
+
+         plate boundary and thus ends up in the mantle ultimately. If one        rather rigid lower crust. Taking into account the ductile deforma-
+         considers the North American Cordillera and the concept of oro-         tion and melt generation related to the channel flow model, a
+         genic float (Fig. 16), the accumulated displacement of the Fore-        more ductile lower crust might lead to a smaller amount of short-
+         land Belt and the Omineca Belt are fed into a shear zone at the         ening (closer to 450 km).
+         base of the crust (Oldow et al., 1989) or within the lower crust             Orogens formed by continental contraction display varying
+         (Gibson et al., 2005). This shear zone needs to extend westward         degrees of symmetry. Collisional orogens tend to be symmetric
+         to a singularity point located at the intersection with the plate       with a thin-skinned fold-and-thrust belt of opposite vergence on
+         boundary of the descending Farallon plate. There is one mecha-          either side of the orogen. These fold-and-thrust belts consist of the
+         nism that could diminish the displacement going westward: any           telescoped passive margin sequences and foreland sequences of
+         differential stretching of hanging wall and footwall rocks parallel     the two continents. Examples include the Alps (Fig. 9) or the
+         to a thrust fault provokes changes the displacement (Pfiffner,          Scottish Caledonides (Fig. 5) and their Scandinavian counterpart
+         1985). If it is assumed that the crustal rocks in the hanging wall      (where thrusting was to the east onto the Baltic shield).
+         of the thrusts are sheared and stretched horizontally by 25% (cor-           Non-collisional orogens tend to be more asymmetric. As
+         responding to a stretch of s51.25), that the footwall rocks re-         evident from the cross section through the Andes (Fig. 19), a
+         mained undeformed as rigid mantle (s51), and that a total               thin-skinned fold-and-thrust belt formed on the upper plate.
+         displacement of 200 km is achieved by the imbricate thrust              Here, thrusting occurred mainly in an easterly direction, that is,
+         sheets (140 km in the Foreland Belt, 60 km in the Omineca Belt),        in a sense opposite to the subduction zone (a retro-wedge in the
+         the displacement would vanish from 200 km to zero over a dis-           terminology of Beaumont et al., 1999). The internal structure of
+         tance along the basal thrust of 50 km only (equation (2) in             the western margin (the pro-side), where oceanic basement of
+         Pfiffner, 1985). It is thus feasible that the basal shear zone of the   the Nazca plate is subducted, involves the formation of an accre-
+         orogenic float, which is necessary to compensate the entire thrust      tionary wedge. In the case of the Peruvian margin, the accre-
+         belt of the Omineca and Foreland Belts, could vanish beneath the        tionary wedge is very small due to subduction erosion (von
+         Intermontane Belt, well ahead of the singularity point mentioned        Huene and Scholl, 1991, and Hampel et al., 2004) and the inter-
+         above. A similar shear zone, however, has to be assumed for the         nal deformation is hard to assess. The accretionary wedges far-
+         various terranes accreted to the North American craton earlier          ther north or south show a thin-skinned style with strata
+         on. In terms of kinematics, it can be envisaged that only               undergoing imbrication and internal shortening. But the overall
+         segments of this shear zone or thrust fault at the crust/mantle         size and style are different from the one in the Cordillera Orien-
+         boundary were active during particular times of accretion or con-       tal or the Subandean zone. Thus, although the overall geometry
+         tinental contraction.                                                   of the Andes (or the North American Cordillera) does have a
+               Similarly, the displacements of the thrust faults in the          bivergent character, the two sides differ enough to consider the
+         Cordillera Oriental of Peru (Fig. 19) might be compensated by           orogen as asymmetric.
+         differential stretching of hanging wall and footwall rocks in the            Orogens that developed from the accretion of terranes (island
+         thermally weakened crust beneath the Coastal Batholith. In this         arcs or microcontinents) display more complex structures. For
+         context it has to be mentioned that restorations based on rigid         example, the structures encountered in the Bronson Hill Anticlino-
+         block translations will tend to overestimate total displacements        rium and the adjacent synclinoria in the Northern Appalachians
+         (and thus original widths of orogens). The pervasive foliations         (Fig. 8) cannot be described in terms of symmetry because of the
+         parallel to thrust faults present in many orogens point to stretch-     effect of postnappe folding. This might be due to the small size of
+         ing and thinning of thrust sheets, a fact that should not be            the terranes lacking the strength typical for continents. Another
+         neglected in palinspastic restorations.                                 reason for the complexity of these structures might be found in the
+               A more difficult case to interpret displacements is present in    large amount of strike slip faulting associated with accretion. An
+         the Himalayas (Fig. 12). Although the Main Frontal, Boundary,           irregular margin (as discussed by Hatcher, 2002) combined with
+         and Central thrusts are thought to merge at depth into the Main         transcurrent motion will inevitably give rise to complex straining
+         Himalaya thrust, the latter’s continuation into the fault contact       along the contact zone.
+         between Indian and Lhasa lower crust makes sense kinemati-
+         cally but cannot be tested other than by plausibility. The situation    CONCLUSIONS
+         is rendered particularly difficult by the fact that the channel flow
+         mechanism advocated for the Greater Himalayan Zone (or Crys-                 In thin-skinned tectonics the length of the thrust sheets
+         talline nappe) suggests that (leucogranitic) melts were expulsed        reflects plate tectonic settings. Passive margin sequences tend to
+         from around this very fault zone. Hence, ductile deformation            produce long and thin thrust sheets, whereas in accretionary
+         must be expected around this contact zone, but its exact geome-         wedges and foreland basins, shorter and thicker thrust sheets are
+         try is beyond the reach of an analysis. It might be argued that the     more typical. This contrast is controlled by the mechanical strati-
+         high amount of shortening estimated by DeCelles et al. (2002;           graphy of the cover sequence (laterally continuous carbonate lay-
+         670 km as opposed to 450 km obtained from the restoration of            ers with a shaly or evaporitic base versus more homogeneous
+         the sedimentary strata by Steck, 2003) is derived assuming a            clastic sequences).
+GSA_sp414_chapter_09.qxd           9/25/06       1:41 PM       Page 175
+
+
+
+
+                                                   Thick-skinned and thin-skinned styles of continental contraction                                                            175
+
+              Basement-involved thin-skinned tectonics is similar in the                       Dahlen, F.A., 1984, Noncohesive critical coulomb wedges: An exact solution:
+         sense that long and relatively thin thrust sheets evolve. Both,                             Journal of Geophysical Research, v. 89/B12, p. 10,125–10,133.
+                                                                                               Dahlstrom, C.D.A., 1970, Structural geology in the eastern margin of the Cana-
+         lithologic discontinuities and p-T conditions seem to influence                             dian Rocky Mountains: Bulletin of Canadian Petroleum Geology, v. 18,
+         the location of frontal ramps and the depth to detachment of                                 p. 1153–1172.
+         thrust sheets.                                                                        Davis, D., Suppe, J., and Dahlen, F.A., 1983, Mechanics of fold-and-thrust belts
+              Thick-skinned tectonics is less common and forms late in                               and accretionary wedges: Journal of Geophysical Research, v. 88/B2,
+         orogeny at the orogen’s outer margin.                                                       p. 1153–1172.
+                                                                                               DeCelles, P.G., Robinson, D.M., Quade, J., Ojha, T.P., Garzione, C.N.,
+              Ductile deformation in the hanging wall and footwall of
+                                                                                                     Copeland, P., and Upreti, B.N., 2001, Stratigraphy, structure, and tectonic
+         detachment horizons may compensate for large displacements                                  evolution of the Himalayan fold-thrust belt in western Nepal: Tectonics,
+         accumulated in this basal detachment horizon by branching                                   v. 20/4, p. 487–509.
+         imbricate thrust faults.                                                              DeCelles, P.G., Robinson, D.M., and Zandt, G., 2002, Implications of shortening
+              Collisional orogens tend to be symmetric, noncollisional                               in the Himalayan fold-thrust belt for uplift of the Tibetan Plateau: Tectonics,
+         orogens asymmetric. Terrane accretion and strike slip faulting                              v. 21/6, 1062, doi:10.1029/2001TC001322.
+                                                                                               Diegel, F.A., 1988, The Rome Formation décollement in the Mountain City win-
+         results in complex (micro-)continental contraction styles.                                  dow, Tennessee: A case for involvement of evaporites in the genesis of Max
+                                                                                                     Meadows-type breccias, in Mitra, G., and Woytal, S., eds., Geometries and
+         ACKNOWLEDGMENTS                                                                             mechanisms of thrusting, with special reference to the Appalachians: Geo-
+                                                                                                     logical Society of America Special Paper 222, p. 137–164
+             The author was funded by grant 2000–67952.02 of the SNF.                          Dunlap, W.J., Hirth, G., and Teyssier, C., 1997, Thermomechanical evolution of a
+                                                                                                     ductile duplex: Tectonics, v. 16/6, p. 983–1000.
+         Sabine Brodhag, Alex deGasparo, Andreas Ebert, Jörg Giese,
+                                                                                               Dunlap, W.J., Teyssier, C., McDougall, I., and Baldwin, S., 1995, Thermal and
+         and Michaela Ustaszewski-Lukesch are thanked for their help in                              structural evolution of the intracratonic Arltunga nappe complex, central
+         preparing the illustrations. The paper was significantly im-                                Australia: Tectonics, v. 14/5, p. 1182–1204.
+         proved by the constructive and thoughtful reviews by Steven                           Elliott, D., and Johnson, M.R.W., 1980, Structural evolution in the northern part
+         Wojtal and Jonas Kley.                                                                      of the Moine thrust belt, NW Scotland: Edinburgh Geological Society
+                                                                                                     Transactions, Earth Sciences, v. 71, p. 69–96.
+                                                                                               Escher, A., Masson, H., and Steck, A., 1993, Nappe geometry in the Western Swiss
+         REFERENCES CITED                                                                            Alps: Journal of Structural Geology, v. 15/3–5, p. 501–509.
+                                                                                               Funk, Hp., Oberhänsli, R., Pfiffner, A., Schmid, S., and Wildi, W., 1987, The evo-
+         Affolter, T., and Gratier, J.-P., 2004, Map-view retrodeformation of an arcuate             lution of the northern margin of tethys in eastern Switzerland: Episodes,
+               fold-and-thrust belt: The Jura case: Journal of Geophysical Research,                 v. 10/2, p. 102–106.
+               v. 109/B3, B03403.                                                              Gabrielse, H., and Yorath, C.J., eds., 1991, Geology of the Cordilleran orogen in
+         Beaumont, C., Ellis, S., and Pfiffner, A., 1999, Dynamics of sediment subduction-           Canada: Geology of Canada, v. 4: Geological Survey of Canada (and Geo-
+               accretion at convergent margins: Short-term modes, long-term deformation,             logical Society of America, The Geology of North America, v. G-2), 844p.
+               and tectonic implications: Journal of Geophysical Research, v. 104/B8,          Gaetani, M., and Garzanti, E., 1991, Multicyclic history of the northern India con-
+               p. 17,573–17,601.                                                                     tinental margin (northwestern Himalaya): American Association of Petro-
+         Boyer, S.E., and Elliott, D., 1982, Thrust systems: American Association of Petro-
+                                                                                                     leum Geologists Bulletin, v. 75, p. 1427–1446.
+               leum Geologists Bulletin, v. 66/9, p. 1196–1230.
+                                                                                               Gansser, A., 1983, Geology of the Bhutan Himalaya; Denkschriften der Schweiz-
+         Brown, R.L., Journeay, J.M., Lane, L.S., Murphy, D.C., and Rees, C.J., 1986,
+                                                                                                     erischen Naturforschenden Gesellschaft, v. 96 (and Basel, Birkhäuser Ver-
+               Obduction, backfolding and piggyback thrusting in the metamorphic hinter-
+                                                                                                     lag), 181p.
+               land of the southeastern Canadian Cordillera: Journal of Structural Geology,
+                                                                                               Gibson, H.D., Brown, R.L., and Carr, S.D., 2005, U-Th-Pb geochronologic con-
+               v. 8/3–4, p. 255–286.
+                                                                                                     straints on the structural evolution of the Selkirk fan, northern Selkirk
+         Burchfiel, B.C., and Royden, L.H., 1985, North-south extension within the con-
+                                                                                                     Mountains, southern Canadian Cordillera: Journal of Structural Geology,
+               vergent Himalayan region: Geology, v. 13, p. 679–682.
+                                                                                                     v. 27, p. 1899–1924.
+         Burkhard, M., and Sommaruga, A., 1998, Evolution of the western Swiss Molasse
+               basin: Structural relations with the Alps and the Jura belt, in Mascle, A.,     Gregory-Wodzicki, K.M., 2000, Uplift history of the Central and Northern Andes:
+               Puigdefàbregas, C., Luterbacher, H.P., and Fernàndez, M., eds., Cenozoic              A review: Geological Society of America Bulletin, v. 112/7, p. 1091–1105.
+               Foreland Basins of Western Europe: Geological Society of London Special         Hampel, A., Kukowski, N., Bialas, J., Huebscher, C., and Heinbockel, R., 2004,
+               Publications, no. 134, p. 279–298.                                                    Ridge subduction at an erosive margin. The collision one of he nazca ridge
+         Buxtorf, A., 1916, Prognosen und Befunde beim Hauensteinbasis- und Grenchen-                in southern Peru, Journal of Geophysical Research, v. 109, B02101,
+               bergtunnel und die Bedeutung der letzteren für die Geologie des Juragebirges:         doi:10.1029/2003JB002593.
+               Verhandlungen Naturforschende Gesellschaft Basel, v. 27, p. 184–254.            Handy, M.R., and Zingg, A., 1991, The tectonic and rheological evolution of an
+         Byrne, D.E., Sykes, L.R., and Davis, D.M., 1992, Great thrust earthquakes and               attenuated cross section of the continental crust: Ivrea crustal section, south-
+               aseismic slip along the plate boundary of the Makran Subduction Zone:                 ern Alps, northwestern Italy and southern Switzerland: Geological Society
+               Journal of Geophysical Research, v. 97/B1, p. 449–478.                                of America Bulletin, v. 103, p. 236–253.
+         Cattin, R., and Avouac, J.P., 2000, Modeling mountain building and the seismic        Hatcher, R.D., Jr., 1989, Tectonic synthesis of the U.S. Appalachians, in Hatcher,
+               cycle in the Himalaya of Nepal: Journal of Geophysical Research, v.105/B6,            R.D., Thomas, W.A., and Viele, G.W., eds., The Appalachian-Ouachita Oro-
+               p. 13,389–13,407.                                                                     gen in the United States: The Geology of North America, v. F-2, p. 511–535.
+         Cloos, E., 1947, Oolite deformation in the South Mountain fold, Maryland: Geo-        Hatcher, R.D., Jr., 2002, Alleghanian (Appalachian) orogeny, a product of zipper
+               logical Society of America Bulletin, v. 58, p. 843–918.                               tectonics: Rotational transpressive continent-continent collision and closing
+         Cordani, U.G., Milani, E.J., Thomaz Filho, A., and Campos, D.A., eds., 2000, Tec-           of ancient oceans along irregular margins, in Martinez Catalán, J.R., et al.,
+               tonic evolution of South America: 31st International Geological Congress,             eds., Variscan-Appalachian dynamics: The building of the late Paleozoic
+               Rio de Janeiro, Brazil, Aug. 6–17, 2000, 856p.                                        basement: Geological Society of America Special Paper 364, p. 199–208.
+GSA_sp414_chapter_09.qxd            9/25/06       1:41 PM        Page 176
+
+
+
+
+         176                                                                               Pfiffner
+
+         Hatcher, R.D., Jr., Thomas, W.A., and Viele, G.W., eds., 1989, The Appalachian-          Pfiffner, O.A., 1993, The structure of the Helvetic nappes and its relation to the
+                Ouachita Orogen in the United States: The Geology of North America,                      mechanical stratigraphy: Journal of Structural Geology, v. 15/3–5, p. 511–521.
+                v. F-2, 767p.                                                                     Pfiffner, O.A., and Hitz, L., 1997, Geologic interpretation of the seismic profiles
+         Hauck, M.L., Nelson, K.D., Brown, L.D., Zhao, W., and Ross, A.R., 1998, Crustal                 of the Eastern Traverse (lines E1–E3, E7–E9): eastern Swiss Alps, in
+                structure of the Himalayan Orogen at ,90° east longitude from Project                    Pfiffner, O.A., et al., eds., Deep structure of the Swiss Alps: Results of NRP
+                INDEPTH deep reflection profiles: Tectonics, v. 17/4, p. 481–500.                        20: Basel, Birkhäuser Verlag, p. 73–100.
+         Jaillard, E., and Soler, P., 1996, Cretaceous to Early Paleogene tectonic evolution      Pfiffner, O.A., Ellis, S., and Beaumont, C., 2000, Collision tectonics in the Swiss
+                of the northern Central Andes (0–18°S) and its relation to geodynamics:                  Alps: Insight from geodynamic modeling: Tectonics, v. 19/6, p. 1065–1094.
+                Tectonophysics, 259, –53.                                                         Pfiffner, O.A., Erard, P.-F., and Stäuble, M., 1997a, Two cross sections through
+         Jaillard, E., Hérail, G., Monfret, T., Díaz-Martínez, E., Baby, P., Lavenu, A., and             the Swiss Molasse Basin (lines E4–E6, E6, W1, W7–W10), in Pfiffner,
+                Dumont, J.F., 2000,Tectonic evolution of theAndes of Ecuador, Peru, Bolivia              O.A., et al., eds., Deep structure of the Swiss Alps: Results of NRP 20: Basel,
+                and northernmost Chile, in Cordani, U.G., Milani, E.J.,Thomaz Filho,A., and              Birkhäuser Verlag, p. 64–72.
+                Campos, D.A., eds., Tectonic evolution of South America, 31st International       Pfiffner, O.A., Sahli, S., and Stäuble, M., 1997b, Structure and evolution of the
+                Geological Congress, Rio de Janeiro, Brazil, Aug. 6–17, 2000, p. 481–559.                external basement uplifts (Aar, Aiguilles rouges/Mt. Blanc), in Pfiffner,
+         Jordan, T.E., Isacks, B.L., Allmendinger, R.W., Brewer, J.A., Ramos, V.A., and                  O.A., et al., eds., Deep structure of the Swiss Alps: Results of NRP 20: Basel,
+                Ando, C.J., 1983, Andean tectonics related to the geometry of the subducted              Birkhäuser Verlag, p. 139–153.
+                Nazca plate: Geological Society of America Bulletin, v. 94, p. 3–361.             Pfiffner, O.A., Lehner, P., Heitzmann, P., Mueller, S., and Steck, A., eds., 1997c,
+         Kley, J., 1996, Transition from basement-involved to thin-skinned thrusting in the              Deep structure of the Swiss Alps: Results of NRP 20: Basel, Birkhäuser
+                Cordillera Oriental of southern Bolivia: Tectonics, v. 15/4, p. 763–775.                 Verlag, 380p.
+         Kley, J., Monaldi, C.R., and Salfity, J.A., 1999, Along-strike segmentation of the       Pfiffner, O.A., Schlunegger, F., and Buiter, S.J.H., 2002, The Swiss Alps and their
+                Andean foreland: Causes and consequences: Tectonophysics, v. 301, p.                     peripheral foreland basin: Stratigraphic response to deep crustal processes:
+                75–94.                                                                                   Tectonics, v. 21/2, 1029/2000TC900039.
+         Laubscher, H.P., 1961, Die Fernschubhypothese der Jurafaltung: Eclogae geolog-           Pitcher, W.S., Atherton, M.P., Cobbing, and E.J., Beckinsale, R.D., 1985, Mag-
+                icae Helvetiae, v. 54, p. 221–280.                                                       matism at a plate edge: The Peruvian Andes: London, Blackie Halstead
+         Lippitsch, R., 2002, Lithosphere and upper mantle P-wave velocity structure                     Press, 289p.
+                beneath the Alps by high-resolution teleseismic tomography, PhD thesis:           Platt, J.P., Leggett, J.K., Young, J., Raza, H., and Alam, S., 1985, Large-scale sed-
+                Zürich, Swiss Federal Institute of Technology, Diss. ETH no. 14726, 137p.
+                                                                                                         iment underplating in the Makran accretionary prism, southwest Pakistan:
+         Lippitsch, R., Kissling, E., and Ansorge, J., 2003, Upper mantle structure beneath
+                                                                                                         Geology, v. 13, p. 507–511.
+                the Alpine orogen from high-resolution teleseismic tomography:
+                                                                                                  Price, R.A., 1981, The Cordilleran foreland thrust and fold belt in the southern
+                Journal of Geophysical Research-Solid Earth, v. 108 (B8), 2376, doi:
+                                                                                                         Canadian Rocky Mountains, in McClay, K.R., and Price, N.J., eds., Thrust
+                10.1029/2002JB002016.
+                                                                                                         and nappe tectonics: Geological Society of London Special Publication 9,
+         McQuarrie, N., and DeCelles, P., 2001, Geometry and structural evolution of the
+                                                                                                         p. 427–448.
+                central Andean backthrust belt, Bolivia: Tectonics, v. 20/5, p. 669–692.
+                                                                                                  Price, R.A., and Fermor, P.R., 1985, Structure section of the Cordilleran foreland
+         Mégard, F., 1978, Etude géologique desAndes du Pérou central: Contribution à l’é-
+                                                                                                         thrust and fold belt west of Calgary, Alberta: Geological Survey of Canada,
+                tude géologique des Andes n° 1: Mémoires ORSTOM, N°. 86, Paris, 310p.
+                                                                                                         Paper 84–14, 1 sheet.
+         Mégard, F., 1984, The Andean orogenic period and its major structures in cen-
+                                                                                                  Ramos, V.A., and Aleman, A., 2000, Tectonic evolution of the Andes, in Cordani,
+                tral and northern Peru: Journal of the Geological Society of London, v. 1,
+                                                                                                         U.G., Milani, E.J., Thomaz Filho, A., and Campos, D.A., eds., Tectonic evo-
+                p. 893–900.
+                                                                                                         lution of South America, 31st International Geological Congress, Rio de
+         Menkveld, J.W., 1995, Der geologische Bau des Helvetikums der Innerschweiz,
+                PhD thesis: Bern, University of Bern, 165p., 12pl.                                       Janeiro, Brazil, Aug. 6–17, 2000, p. 635–685.
+         Milnes, A.G., 1974, Structure of the Penninic Zone (Central Alps): A new work-           Rich, J.L., 1934, Mechanics of low-angle overthrust faulting illustrated by Cum-
+                ing hypothesis: Bulletin Geological Society ofAmerica, v. 85, p. 1272–1232.              berland Thrust block, Virginia, Kentucky and Tennessee: American Associ-
+         Moores, E.M., and Twiss, R.J, 1995, Tectonics: New York, Freeman an company, 5p.                ation of Petroleum Geologists Bulletin, v. 18, p. 1584–1596.
+         Nelson, K.D., et al., 1996, Partially molten middle crust beneath southern Tibet:        Rodgers, J., 1949, Evolution of thought on structure of middle and southern
+                A synthesis of Project INDEPTH results: Science, v. 274, p. 1684–1688.                   Appalachians: American Association of Petroleum Geologists Bulletin,
+         Norabuena, E., Leffler-Griffin, L., Moa, A., Dixon, T., Stein, S., Sacks, I.S., Ocola,          v. 33/19, p. 1643–1654.
+                L., and Ellis, M., 1998, Space geodetic observations of the Nazca-South           Royse, F., Jr., Warner, M.A., and Reese, D.L., 1975, Thrust belt structural geology
+                American convergence across the centralAndes: Science, v. 279, p. 358–362.               and related stratigraphic problems: Wyoming-Idaho-Northern Utah, in Bol-
+         Oldow, J.S., Bally, A.W., Avé Lallemant, H.G., and Leeman, P., 1989, Phanero-                   yard, D.W., ed., Deep drilling frontiers of the Central Rocky Mountains:
+                zoic evolution of the North American Cordillera; United States and Canada,               Rocky Mountain Association of Geologists, p. –54.
+                in Bally, A.W., and Palmer, A.R., eds., The Geology of North America—An           Schmid, S.M., Pfiffner, O.A., and Schreurs, G., 1997a, Rifting and collision in
+                overview: Geological Society of America, The Geology of North America,                   the Penninic Zone of eastern Switzerland, in Pfiffner, O.A., et al., eds.,
+                v. A, p. 139–232.                                                                        Deep structure of the Swiss Alps: Results of NRP 20: Basel, Birkhäuser
+         Panien, M., Schreurs, G., and Pfiffner, A., 2005, Sandbox experiments on basin                  Verlag, p. 160–185.
+                inversion: Testing the influence of basin orientation and basin fill: Journal     Schmid, S.M., Pfiffner, O.A., Schönborn, G., Froitzheim, N., and Kissling, E.,
+                of Structural Geology, v. 27, p. 433–445.                                                1997b, Integrated cross section and tectonic evolution of the Alps along the
+         Patriat, P., and Achache, J.,1984, India-Asia collision chronology has implica-                 Eastern Traverse, in Pfiffner, O.A., et al., eds., Deep structure of the Swiss
+                tions for crustal shortening and driving mechanism of plates: Nature,                    Alps: Results of NRP 20: Basel, Birkhäuser Verlag, p. 289–304.
+                v. 311, p. 37–42.                                                                 Searle, M.P., Simpson, R.L., Law, R.D., Parrish, R.R. and Waters, D.J., 2003, The
+         Pennock, E.S., Lillie, R.J., Zaman, A.S.H., and Yousaf, M., 1989, Structural inter-             structural geometry, metamorphic and magmatic evolution of the Everest
+                pretation of seismic reflection data form Eastern Salt Range and Potwar                  massif, High Himalaya of Nepal-South Tibet: Journal Geological Society of
+                Plateau, Pakistan: American Association of Petroleum Geologists Bulletin,                London, v. 160, p. 345-366.
+                v. 73/7, p. 8–857.                                                                Searle, M.P. and Szulc, A.G. 2005, Channel flow and ductile extrusion of the high
+         Pfiffner, O.A., 1985, Displacement along thrust faults: Eclogae Geologicae Hel-                 Himalayan slab - the Kangchenjunga-Darjeeling profile, Sikkim Himalaya:
+                vetiae, v. 78, p. 313–333.                                                               Journal of Asian Earth Sciences, v. 25, p. 173-185.
+GSA_sp414_chapter_09.qxd          9/25/06       1:41 PM       Page 177
+
+
+
+
+                                                  Thick-skinned and thin-skinned styles of continental contraction                                                       177
+
+         Smithson, S.B., Brewer, J., Kaufman, S., Oliver, J., and Hurich, C., 1979, Nature   Teyssier, C., 1985, A crustal thrust system in an intracratonic tectonic environ-
+               of the Wind River thrust, Wyoming, from COCORP deep-reflection data                ment: Tectonophysics, v. 7/6, p. 689–700.
+               and from gravity data: Geology, v. 6, p. 648–652.                             Vollmayr, T., 1992, Strukturelle Ergebnisse der Kohlenwasserstoffexploration im
+         Strachan, R.A., Smith, M., Harris, A.L., and Fettes, D.J., 2002, The Northern            Gebiet von Thun, Schweiz: Eclogae Geologicae Helvetiae, v. 85/3,
+               Highland and Grampian terranes, in Trewin, N.H., ed., The Geology of Scot-         p. 531–539.
+              land: Geological Society of London, p. 81–147.                                 Von Huene, R., and Scholl, D.W., 1991, Observations at convergent margins con-
+         Suppe, J., 1983, Geometry and kinematics of fault-bend folding: American Jour-           cerning sediment subduction, subduction erosion, and the growth of conti-
+              nal of Science, v. 283, p. 684–721.                                                 nental crust: Reviews of Geophysics, v. 29/3, p. 279–316.
+         Suppe, J., and Medwedeff, D.A., 1990, Geometry and kinematics of fault-propa-       Von Raumer, J.F., and Neubauer, F., eds., 1993, Pre-Mesozoic geology in the Alps:
+              gation folding: Eclogae Geologicae Helvetiae, v. 83/3, p. 409–454.                  Berlin, Springer-Verlag, 677p.
+         Tempelman, D.J., et al., 1991, Structural Styles, Part D. Omineca Belt,             Zhao, W., et al., 1993, Deep seismic-reflection evidence for continental under-
+              Chapter 17, in Gabrielse, H., and Yorath, C.J., eds., Geology of the                thrusting beneath southern Tibet: Nature, v. 366, p. 557–559.
+               Cordilleran orogen in Canada: Geology of Canada, v. 4: Geological Sur-
+               vey of Canada (and Geological Society of America, The Geology of North                    MANUSCRIPT ACCEPTED BY THE SOCIETY 29 MARCH 2006
+               America, v. G-2), p. 603–634.
+
+
+
+
+                                                                                                                                                         Printed in the USA
+GSA_sp414_chapter_09.qxd   9/25/06   1:41 PM   Page 178
+GSA_sp414_chapter_09.qxd   9/25/06   1:41 PM   Page 179
+GSA_sp414_chapter_09.qxd    9/25/06   1:41 PM   Page 180
+
+
+
+
+   View publication stats
+

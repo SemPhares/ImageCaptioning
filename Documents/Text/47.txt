@@ -1,0 +1,829 @@
+                                                             Département de l'Hérault
+
+                                                             SIEA de la Région de Ganges
+Dossier d’autorisation au titre du Code de l’Environnement
+
+
+                                                             Champ captant du Fesquet : Captage
+                                                             d’eau destinée à l’alimentation en eau
+                                                             potable
+
+
+
+
+                                                             Pièce 2 bis : Nom de l'aquifère,
+                                                             caractéristiques géologiques principales,
+                                                             identification BRGM, masse d'eau, bassin
+                                                             versant concerné
+
+
+                                                             Août 2018                      Version b
+                                                     SOMMAIRE
+
+1      Identification du captage ............................................................ 3
+2      Caractérisation de la ressource ................................................. 4
+    2.1  Caractéristiques géologiques et hydrogéologiques du secteur aquifère
+    concerné ...................................................................................................................... 4
+       2.1.1        Contexte géologique régional ..................................................................................... 4
+       2.1.2        Contexte géologique local .......................................................................................... 5
+       2.1.3        Contexte hydrogéologique général ............................................................................ 9
+       2.1.4        Contexte hydrogéologique local ............................................................................... 10
+    2.2      Caractéristiques hydrodynamiques de la nappe .......................................... 12
+    2.3      Lien avec les eaux superficielles ................................................................... 24
+
+
+
+
+                                                   EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à                             Page 2 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse                        Version b
+d'eau, bassin versant concerné
+1         IDENTIFICATION DU CAPTAGE
+
+
+                                         Nom de l'aquifère sollicité par le captage
+    Calcaires et Marnes Causses et Avant-Causses du Larzac Sud, Campestre, Blandas, Seranne, Escandorgue, BV Hérault et Orb
+
+
+
+
+                                                     Codes du captage
+Code de la masse d'eau                             FRDG125
+
+Code de l'entité hydrogéologique                   Calcaires jurassiques de la Séranne et rive droite de la Vis (Code 631AB00)
+
+                          Ancien code              09632X0196/10FE1
+Codes BSS Fe2010
+                          Nouveau code             BSS002EQRN
+
+
+
+
+                                               EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à                      Page 3 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse                 Version b
+d'eau, bassin versant concerné
+2       CARACTERISATION DE LA RESSOURCE
+
+2.1     CARACTERISTIQUES
+                       GEOLOGIQUES                                   ET     HYDROGEOLOGIQUES                    DU
+SECTEUR AQUIFERE CONCERNE
+
+2.1.1 Contexte géologique régional
+Le massif Gangeois et Thaurac forme un compartiment monoclinal, constitué par une épaisse série
+sédimentaire – environ 700 m de puissance maximale - de calcaires, dolomies et marnes mis en
+place au Jurassique et au début du Crétacé dans un environnement de dépôt de type lagunaire.
+Les termes de la série sédimentaire sont représentés depuis le Bajocien jusqu’au Valanginien
+marneux. On observe une très grande dominance de calcaires et dolomies qui commandent la
+morphologie de la région.
+
+La structure de ce compartiment est délimitée par des failles d’orientation générale SW-NE, en
+liaison avec le faisceau des Cévennes. Elle est limitée à l’Est par la faille des Cévennes, au Nord
+par le contact avec les formations liasiques et à l’Ouest par le cours de l’Hérault.
+La zone de captage du Fesquet se situe sur le versant nord du massif calcaire d’Agonès, qui n’est
+que la terminaison ouest du massif du Thaurac (cf. Figure 1).
+
+
+
+
+                                Forages du Fesquet
+
+
+
+
+                                   Figure 1 : bloc diagramme du massif du Thaurac
+
+Le contexte géologique de ce secteur est marqué par la phase tectonique pyrénéenne puis alpine,
+avec notamment la surrection du bloc calcaire Thaurac – Agonès, au dépend du compartiment
+effondré de Ganges et du fossé de Montoulieu. La limite nord du bloc du Thaurac Agonès est
+marqué au droit de la zone d’étude par une zone de faille importante NE – SW fonctionnant en
+réplique de la faille des Cévennes. Cette structure a d’abord fonctionné en faille normale
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à           Page 4 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse     Version b
+d'eau, bassin versant concerné
+(effondrement du compartiment de Ganges) avant d’évoluer dans un milieu compressif avec un jeu
+inverse et décrochant.
+La séparation géomorphologique entre les deux unités Thaurac et Agonès est relativement récente
+(8 Ma) (à l’échelle géologique…) par rapport à l’âge des formations qui les constituent (150 Ma).
+Des dépôts marins miocènes étant en effet visibles au somment du Thaurac, on peut supposer que
+la surrection du massif calcaire a débuté durant l’orogénèse alpine à la fin du Miocène. Ce
+mouvement vertical a imposé, par réaction, le creusement par l’Hérault d’une traversée Nord / Sud
+de ce massif sous forme d’une gorge relativement étroite.
+Ces mouvements sont concomitants avec la mise en place de l’ossature des grands réseaux
+karstiques de la région, on peut donc supposer une histoire et une organisation karstique
+commune au moins pendant la période de forte activité karstique au Miocène. Cette hypothèse
+rend potentiellement possible l’existence d’anciens réseaux karstiques miocènes noyés ou
+colmatés reliant les deux unités Thaurac et Agonès.
+
+
+
+
+                   Figure 2 : Extrait de la carte géologique n°963 (feuille de Saint Martin de Londres
+
+
+2.1.2 Contexte géologique local
+L’histoire tectonique, marquée et complexe, a favorisé la fracturation du massif calcaire,
+notamment sur ces bordures avec une importante fracturation Est – Ouest, morcelant le massif en
+lambeaux (cf. coupes de la Figure 4). L’absence d’information rend difficile l’évaluation du rôle
+hydraulique de ces failles (transparence, drainage ou cloisonnement).
+Quatre coupes géologiques réparties sur la partie ouest du Thaurac ont été réalisées (cf.
+localisation sur la Figure 3) :
+•   Trois coupes d’orientation N160 numérotées coupes 1 à 3,
+•   Et une d’orientation N70 numérotée coupe 4.
+
+
+
+                                            EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à            Page 5 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse      Version b
+d'eau, bassin versant concerné
+   Figure 3 : Représentation schématique de la zone d’étude et positionnement géographique des coupes géologiques
+
+
+
+
+         N34                                                                                               N16
+         0                                                                                                 0
+
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à           Page 6 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse     Version b
+d'eau, bassin versant concerné
+         N340                                                                                            N160
+
+
+
+
+                N250                                                                                       N70
+
+
+
+
+                                           Figure 4 : Coupes géologiques
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à           Page 7 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse     Version b
+d'eau, bassin versant concerné
+Dans le secteur des forages du Fesquet, la présence d’une petite faille décrochante senestre bien
+visible en photographie aérienne est soulignée en surface par la présence d’une zone broyée et le
+développement de la dépression allongée où ont été implantés les forages.
+Préalablement à la reconnaissance par forage de 2008, une campagne avait été réalisée par le
+Conseil Général de l’Hérault en 1986 et avait abouti à la foration de trois ouvrages de
+reconnaissance réalisés dans le secteur du Fesquet. Ces sondages, localisés en Figure 5 ont
+fourni des informations géologiques et hydrogéologiques qui sont reportées dans le Tableau 1.
+
+
+
+
+                            Figure 5 : Carte de localisation des forages de reconnaissance
+
+
+
+   Ouvrage                     Fr1                                  Fr4                                   Fr8
+  Profondeur                  81 m                            85.5 m                            45 m
+                                                de 0 à 15 m : calcaires argileux
+                                                                                    Calcaires
+                  Calcaires argileux gris beige gris beige du Berriasien
+  Lithologie                                                                        sublithographiques gris rosé
+                         du Berriasien          de 15 à 85.5 m : calcaire gris rosé
+                                                                                    du jurassique supérieur
+                                                du jurassique supérieur
+
+                                                                                             La conductivité de l'eau de
+ Observations                                                                                345 µS/cm est comparable à
+                 à 25 m : faille et argile brune      Colmatage argileux important
+ particulières                                                                               celle de l'Hérault au droit du
+                                                                                             forage
+
+
+ Arrivée d'eau       à 65 m de profondeur                 à 59 m de profondeur                  à 18 m de profondeur
+
+                                                                                                Vers 30 m : 3 à 4 m3/h
+ Débit estimé                500 l/h                         pratiquement nul
+                                                                                               A partir de 45 m : 5 m3/h
+
+   Niveau
+                          40,57 m/sol                                ?                                     ?
+   statique
+
+                             Tableau 1 : Caractéristiques des forages de reconnaissance
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à             Page 8 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse       Version b
+d'eau, bassin versant concerné
+Les terrains traversés par les forages de reconnaissance et d’exploitation du Fesquet sont
+constitués par les formations suivantes :
+• calcaires du Berriasien jusqu’à 52 m de profondeur (formation notée n1a sur la carte géolo-
+  gique)
+• calcaires ou dolomies du Portlandien jusqu’à 96 m de profondeur (notés j9),
+• calcaires gris du Kimméridgien jusqu’au fond des ouvrages (150 m) (notés j 8).
+A priori, seules les formations du Kimméridgien se sont révélées fracturées et productives.
+
+2.1.3 Contexte hydrogéologique général
+Les aquifères présents sont :
+•   La nappe alluviale de l’Hérault qui présente une bonne perméabilité dans sa plaine
+    alluviale. Leur extension latérale dans la zone d’étude est limitée dans la zone d’étude
+    par l’encaissant des calcaires jurassiques,
+•   L’aquifère karstique constitués de calcaires jurassiques et crétacés du massif du
+    Thaurac. Les forages du Fesquet captent cet aquifère. Il s’agit de Masse d’eau souterraine :
+    calcaires et marnes causses et avant-causses du Larzac sud, Campestre, Blandas, Séranne,
+    Escandorgue, BV Hérault et Orb (Code de la masse d’eau : FRDG125)
+
+Les principales caractéristiques de l’aquifère karstique constitués de calcaires jurassiques
+et crétacés sont :
+•   Aquifère de type karstique,
+•   Série aquifère à structure tabulaire très fracturée, diaclasée, parfois karstifiée (moindre
+    karstification pour les dolomies), présentant une porosité de chenaux, de fissures et
+    d'interstices (porosité matricielle surtout pour les dolomies), avec présence de nappes
+    perchées,
+•   Qui contient une nappe d’eau souterraine :
+            ➢ Avec un état hydraulique général libre seul,
+            ➢ Dont la direction générale d’écoulement n’existe pas : l’organisation des
+                écoulements souterrains est commandée par le haut-fond paléozoïque et par le
+                réseau des accidents Nord-est – Sud-est, qui jouent le rôle de failles – drains ou
+                de failles – barrières.
+
+Les limites de la masse d’eau sont :
+•   Au Nord : limite de partage des eaux entre le Larzac méridional drainé vers la Méditerranée et
+    le Larzac septentrional drainé vers le Tarn et l’Atlantique,
+•   A l’Est : limite constituée par une ligne allant de Saint Hyppolyte-du-Fort au Pont du Diable et
+    qui suit le fleuve Hérault,
+•   Au Sud : terminaison des reliefs calcaires de la plaine de l’Hérault (au Nord d’Aniane) ; elle
+    passe par le Pont du Diable – Arboras – Saint-Guiraud – Lodève – Mérifon – Le Bousquet d-
+    Orb,
+•   A l’Ouest : la limite correspond au passage des monts d’Escandorgue aux formations de socle
+    en rive gauche de l’Orb.
+
+La recharge se fait principalement par infiltration des eaux superficielles mais aussi de façon
+concentrée par les pertes (pertes du Rieutord, de la Vis, de la Vissec, de la Buèges, etc.).
+En dehors des axes majeurs de drainage, les écoulements superficiels sont temporaires avec des
+distances d’écoulement faibles et des vitesses rapides.
+Le drainage se fait par un nombre conséquent de sources et par le réseau hydrographique. Les
+principaux exutoires des systèmes sont situés sur la Vis et l'Hérault qui constituent le niveau de
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à           Page 9 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse     Version b
+d'eau, bassin versant concerné
+base. Des exutoires alimentent également le Graveson (Massif de l'Escandorgue) et l'Arre (Causse
+de Blandas). Les exutoires majeurs sont les sources du bois de Coutelle, de la Clamouse, du Foux
+de la Vis, du Bueges, Cents Fonts, de Lasfont, l'avèze de Brissac.
+
+2.1.4 Contexte hydrogéologique local
+•   Entité hydrogéologique : Calcaires jurassiques de la Séranne et rive droite de la Vis (code
+    SYNTHSE 141A1 – Code BD LISA : 631AB00). Cette entité est encadrée par les Cévennes au
+    Nord, les Causses à l’Ouest et les garrigues nord-montpelliéraine au Sud.
+Le drainage des eaux infiltrées en surface dans le secteur du massif du Thaurac, est
+essentiellement souterrain et donne lieu à des résurgences, situées notamment en bordure de
+l’Hérault. L’essentiel du drainage est assuré souterrainement par les formations calcaires et
+dolomitiques jurassiques, aussi bien dans les zones où elles affleurent que dans les zones ou elles
+sont sous couverture marno-calcaire ou marneuse du Crétacé.
+
+L’organisation des écoulements souterrains est commandée par le haut-fond paléozoïque et par le
+réseau des accidents NE-SW, qui jouent le rôle de failles-drains ou de failles-barrières (satellites
+des failles de la Séranne et des Cévennes). Ainsi la source dite « Les Sourcettes » localisée en
+bordure de l’Hérault, au Nord du village de St Bauzille de Putois est en partie la résurgence du
+Rieutord.
+Le massif karstique autour du forage du « Fesquet » présente un certain nombre de cavités
+reconnues par les spéléologues. L’inventaire des phénomènes karstiques sur la zone d’étude est
+reporté sur la Figure 6. Une quinzaine d’avens et quatre grottes sont recensés à proximité du
+forage.
+En comparaison, la densité de phénomènes karstiques semble tout de même moins importante sur
+le massif d’Agonès que sur le massif jumeau du Thaurac.
+Le niveau piézométrique statique mesuré dans le forage du Fesquet se situe vers 136 m NGF.
+Plusieurs points de nivellement sont disponibles sur le fleuve Hérault à l’étiage (cf. Figure 7) :
+• au nord de Laroque : 143 m NGF,
+• à l’Est du forage du Fesquet : 133,7 m NGF,
+• au Sud-est du forage à proximité des Sourcettes : 128 m NGF.
+
+
+L’Hérault qui sert de niveau de base hydraulique doit servir d’exutoire aux circulations souterraines
+bien qu’aucune source importante ne soit connue en rive droite de l’Hérault dans ce secteur (la
+petite source des châtaigniers n’a pas été encore retrouvée malgré d’importantes recherches). Ce
+constat n’exclu pas l’existence de réseaux noyés plus profonds hérités de la karstification miocène
+et pouvant potentiellement traverser l’Hérault.
+L’absence de différence de niveau notable entre le niveau statique dans le forage du Fesquet et le
+fil d’eau de l’Hérault (différence de l’ordre de 2 m), malgré une distance d’environ 600 m, témoigne
+d’une fracturation en profondeur assez importante.
+
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 10 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+                                  Figure 6 : Localisation des phénomènes karstiques
+
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 11 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+                                                                                                                      N
+                                                Niveau
+                                                Hérault :
+                                                  143
+                                                 mNGF
+
+
+
+
+                                                                           Niveau
+                                                                           Hérault :
+                                                                            133,7
+                                                                            mNGF
+
+
+
+
+         Forage
+        Fesquet
+         Niveau
+        statique :
+           136
+         mNGF
+
+                                                                                                          Niveau
+                                                                                                          Hérault :
+                                                                                                            128
+                                                                                                           mNGF
+
+
+
+
+                     Figure 7 : Comparaison du niveau statique du forage et du niveau du fleuve Hérault
+
+                                              (source : www.géoportail.fr)
+
+
+
+2.2     CARACTERISTIQUES HYDRODYNAMIQUES DE LA NAPPE
+
+La caractérisation de la nappe ciblée a été approchée à partir des résultats des pompages d’essai
+et des traçages réalisés aux dates suivantes :
+         1. Novembre 2009 : pompages d’essai sur le forage d’exploitation par paliers de débit et
+            de longue durée (24 heures) ;
+         2. Août 2010 : pompages d’essai sur le forage d’exploitation par paliers de débit et de
+            longue durée (29 jours) ;
+         3. Août 2010 : quatre traçages réalisés à partir du centre équestre, des bassins de
+            lagunage, de l’élevage de faisans, de l’aven « Trou fumant de l’Olivier » ;
+         4. Octobre 2013 : pompages d’essai sur le forage d’exploitation de longue durée (19
+
+                                              EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 12 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse           Version b
+d'eau, bassin versant concerné
+              jours) ;
+          5. Mai 2014 : traçage réalisé à partir de l’aven du « Fesquet ».
+Les principaux résultats de ces opérations sont repris dans les paragraphes suivants.
+
+2.2.1.1           Pompage d’essai réalisé en novembre 2009
+Suite à la réalisation du forage d’exploitation Fe1, un pompage d’essai par paliers de débit et un
+pompage de longue durée ont été réalisés par Berga Sud.
+
+
+     ✓ Pompage par paliers de débit de novembre 2009
+ •    Durée : 4 paliers de 45 minutes
+ •    Temps de remontée : 0 – Paliers enchainés
+
+              Paliers                                           1          2          3          4
+              Débit : Q (m3/h)                               48,24      80,29      110,55     118,69
+              Rabattement : s (m)                             3,14       6,95       11,83     13,92
+              Rabattement spécifique : S/Q (m/m3/h)          0,065      0,0865      0,107     0,117
+                                 Tableau 2 : Pompage par paliers de novembre 2009
+
+
+L’exploitation graphique de la droite s/Q = f(Q) permet de déterminer l’équation caractéristique
+suivante (cf. Figure 8) :
+                                    s = 7.10-4 Q2 + 2,9.10-2 Q
+
+
+
+
+                  Figure 8 : Pompage de novembre 2009 - Droite caractéristique du forage du Fesquet
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 13 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+Le coefficient de corrélation est de 99,3 %. Cette équation met en évidence que les pertes de
+charge de l’ouvrage caractérisées par le terme en Q2 sont prépondérantes par rapport aux pertes
+de charges liées à l’écoulement au sein de l’aquifère (terme en Q).
+
+Ce comportement est lié essentiellement au milieu fortement karstique rencontré qui facilite
+l’écoulement au sein de l’aquifère et crée localement des interactions pénalisantes au niveau de la
+relation ouvrage (même non tubé) et aquifère.
+
+     ✓ Pompage d’essai de longue durée novembre 2009 :
+ •    Débit de pompage cumulé moyen : 115,90 m3/h
+ •    Durée de pompage (descente) : 24 heures et 20 minutes
+ •    Durée de la remontée : 6 jours et 33 minutes
+ •    Rabattements finaux au débit de 115,90 m3/h :
+                Fe1 = 14,75 m
+                F1 = 10,30 m
+ •    Rabattements résiduels après la remontée de 2 jours, 18 heures et 23 minutes :
+                Fe1 = 0,19 m
+
+Cet essai de courte durée permet de mettre en évidence un fonctionnement correct de l’ouvrage et
+de l’aquifère associé (cf. Figure 9).
+
+
+
+
+        Figure 9 : Pompage de novembre 2009 - Evolution du niveau du plan d’eau dans les forages du Fesquet
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 14 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse    Version b
+d'eau, bassin versant concerné
+Le rabattement du plan d’eau a été tracé en fonction du logarithme du temps sur la Figure 10 pour
+les deux ouvrages.
+Les points s’alignent selon une droite qui permet le calcul d’une valeur de la transmissivité
+équivalente si l’on adopte les hypothèses de traitement relatives au modèle simplifié de Jacob en
+régime hydrodynamique transitoire et en comparant l’aquifère calcaires kimméridgien portlandien à
+un milieu poreux homogène, isotrope et infini :
+
+
+
+
+ Figure 10 : Pompage de novembre 2009 - Résultats de l’interprétation de la courbe de descente sur le forage du Fesquet
+
+
+Les évolutions du niveau du plan d’eau sur les deux ouvrages sont très similaires et l’on retrouve
+une transmissivité apparente équivalente.
+Le graphique obtenu à partir du report des rabattements sur le piézomètre (cf. Figure 10) permet,
+par extrapolation graphique, le calcul du coefficient d’emmagasinement :
+
+                                            EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 15 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse        Version b
+d'eau, bassin versant concerné
+Cette valeur est issue d’une détermination à partir du premier palier (effet initial sur l’aquifère) pour
+une transmissivité de 4,3.10-3 m2/s. Cette valeur de coefficient est cohérent avec un aquifère fissu-
+ré/karstique engendrant l’aspect d’un aquifère poreux semi captif.
+Ces valeurs doivent être prises avec précautions en raison de la nature karstique de l’aquifère, qui,
+quoique libre, "fonctionne" à partir des fractures et chenaux en charge et en raison de la trop
+grande proximité des deux ouvrages.
+
+
+POMPAGE D’ESSAI REALISES EN AOUT 2010
+
+Suite à la réalisation du forage d’exploitation Fe1 en 2009, un pompage d’essai par paliers de débit
+et un pompage de longue durée ont été réalisés par Berga Sud en août 2010 afin de tester
+l’aquifère en période d’étiage.
+     ✓ Pompage par paliers de débit d’août 2010
+ •    Durée : 4 paliers de 60 minutes
+ •    Temps de remontée : 60 minutes
+                       Paliers                                  1       2          3    4
+                       Débit: Q (m3/h)                        58,97 120,81 183,6 259,18
+                       Rabattement: s (m)                      2,11    6,24    12,85   24,79
+                       Rabattement spécifique: s/Q (m/m3/h)   0,036   0,052    0,07    0,096
+
+                                     Tableau 3 : Pompage par paliers d’août 2010
+
+
+
+
+                                            EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 16 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+                    Figure 11 : Pompage d’août 2010 - Droite caractéristique du forage du Fesquet
+
+En comparaison avec le pompage réalisé en novembre 2009, le rabattement à 120 m 3/h est moins
+important en août 2010 (13,92 m en novembre 2009 et 6,24 m en août 2010). Ce phénomène est
+vraisemblablement lié aux arrêts de pompage entre chaque palier en 2010 ; les paliers de 2009
+étaient enchainés.
+     ✓ Pompage d’essai de longue durée aout 2010 :
+ •    Débit de pompage cumulé moyen : 250 m3/h
+ •    Durée de pompage (descente) : 29 jours, 21 heures et 6 minutes
+ •    Durée de la remontée : 2 jours, 18 heures et 23 minutes
+ •    Rabattements finaux au débit de 297,40 m3/h :
+                Fe1 = 33,70 m
+                F1 = 27,50 m
+                FCyre = - 0,07 m
+                FSalle = - 0,39 m
+ •    Rabattements résiduels après la remontée de 2 jours, 18 heures et 23 minutes :
+                Fe1 = 0,35 m
+                F1 = 0,36 m
+ •    L’influence du prélèvement sur les ouvrages suivis FCyre et FSalle, n’est pas visible lors du
+      pompage en raison des fortes crues du début du mois de septembre. Les niveaux d’eau de
+      ses ouvrages sont remontés au-delà de leur niveau initial et la décrue n’était pas terminée à
+      la fin du pompage d’essai.
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 17 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+Le rabattement du plan d’eau a été tracé en fonction du logarithme du temps sur la Figure 12 pour
+le forage Fe1 et F1 et sur la Figure 13 pour les forages FCyre et FSalle. Compte tenu des
+observations faites précédemment, l’interprétation hydrodynamique des résultats obtenus sur ces
+deux ouvrages devra être considérée avec précaution mais cette échelle d’observation semble
+souligner l’impact du pompage du Fesquet sur le site, même s’il est très faible.
+
+
+
+
+   Figure 12 : Pompage d’août 2010 - Résultats de l’interprétation de la courbe de descente sur les forages du Fesquet
+
+
+
+
+                                             EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 18 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse         Version b
+d'eau, bassin versant concerné
+ Figure 13 : Pompage d’août 2010 - Résultats de l’interprétation de la courbe de descente sur les piézomètres FCyre et FSalle
+
+
+Les points s’alignent selon des droites qui permettent le calcul d’une valeur de la transmissivité si
+l’on adopte les hypothèses de traitement relatives au modèle simplifié de Jacob en régime
+hydrodynamique transitoire et en comparant l’aquifère des calcaires jurassiques à un milieu poreux
+homogène, isotrope et infini :
+
+
+
+
+POMPAGE D’ESSAI 10 AU 17 OCTOBRE 2013
+
+A l’issue de l’équipement du forage d’exploitation du Fesquet, un pompage d’essai avec un débit
+compris entre 200 et 220 m 3/h a été réalisé du 10 au 29 octobre 2013. L’eau a été rejetée à
+l’Hérault via la nouvelle canalisation d’adduction et la vanne de purge.
+
+                                               EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 19 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse             Version b
+d'eau, bassin versant concerné
+Le graphique de la Erreur ! Source du renvoi introuvable. présente l’évolution des niveaux
+dynamiques (forage du Fesquet et piézomètre), du débit d’exhaure et de la turbidité de l’eau entre
+le 7 et le 30 octobre 2013. Les cumuls journaliers des précipitations relevées à la station
+météorologique la plus proche sont également reportés sur ce graphique.
+
+
+
+
+Le pompage d’essai a été réalisé selon la méthode Porchet qui consiste à interrompre le pompage
+à intervalles réguliers de façon à laisser remonter le plan d’eau.
+Les niveaux statiques au démarrage des essais étaient les suivants :
+• Forage du Fesquet : 41,56 m/bride,
+• Piézomètre du Fesquet : 41,21 m/bride.
+
+
+Le pompage a débuté le 10 octobre 2013 à un débit moyen de 200 m 3/h jusqu’au 17 octobre.
+Toutes les 22 heures, le pompage était interrompu 2 heures de façon automatique, soit un cycle
+pompage/arrêt de 24 heures. Pendant cette période, les niveaux d’eau évoluent de la façon
+suivante :
+• sur le forage du Fesquet, le niveau dynamique diminue instantanément lors de chaque palier de
+  pompage d’environ 16 m puis se stabilise à environ 58 - 59 m /bride. A chaque arrêt, le niveau
+  d’eau remonte en deux heures à environ 43 m/bride ;
+• sur le piézomètre, le niveau d’eau diminue également instantanément de 11,5 mètres puis se
+  stabilise en trois heures avec un rabattement total de 12 mètres environ. Lors de l’arrêt de
+  pompage, il remonte de façon identique et simultanée à celui du forage d’exploitation à environ
+  43 m/bride. Le rabattement tend légèrement à s’accroitre à chaque palier effectué.
+• La turbidité de l’eau mesurée sur le forage du Fesquet est importante à chaque reprise de pom-
+  page. Les valeurs restent cependant faibles et dépassent rarement 10 NTU. Après 20 heures
+  de pompage, la turbidité de l’eau est proche de 2 NTU.
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 20 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+Du 17 au 29 octobre 2013, le débit a été augmenté à 220 m 3/h puis 230 m3/h en maintenant les
+cycles de pompage/arrêt précédents. Le même phénomène que précédemment se produit : les
+niveaux d’eau diminuent instantanément lors du démarrage du pompage et se stabilisent ensuite.
+Les évolutions suivantes sont observées :
+• sur le forage du Fesquet, lors des paliers de pompage, le niveau baisse rapidement le rabatte-
+  ment atteint 18,8 m lors des deux premiers paliers.
+• Les précipitations engendrent une remontée du niveau dynamique malgré le pompage à 230
+  m3/h. Le cumul de précipitations entre le 18 et le 22 octobre atteint 119 mm et engendre une
+  hausse du niveau d’eau de 4 mètres. Le phénomène est observé à partir du 20 octobre soit plus
+  de 24 heures après les premières précipitations. La crue observée n’est pas brutale, comme ce-
+  la se produit souvent dans le karst, au plus fort de la crue la remontée du niveau n’est que de 2
+  m en 12 heures. Ce constat milite pour des vitesses de circulation verticales relativement lentes
+  peut être dues à l’effet d’écran du Tithonique représenté par des bancs très massif affecté par
+  une maille de fracturation relativement large et peu dense.
+• sur le piézomètre, le pompage à 230 m 3/h engendre un rabattement de 12,5 mètres. Comme
+  pour le forage, les précipitations entraine une hausse du niveau d’eau de 5 mètres environ.
+
+    ✓ Interprétation
+L’évolution du niveau d’eau dans le forage d’exploitation lors des paliers de pompages met en
+évidence des pertes de charges importantes au démarrage avec une stabilisation immédiate du
+niveau d’eau. Ce phénomène est observé également sur le forage de reconnaissance ayant un
+rôle de piézomètre.
+
+
+Ces pertes de charge ne sont liées que pour 1/3 environ de leur amplitude à l’équipement de
+l’ouvrage (pertes de charges quadratiques). Le reste est lié à l’environnement immédiat des deux
+forages puisque le rabattement affecte également le piézomètre. Il semblerait que ces deux
+ouvrages captent une zone fracturée d’assez faible volume connectée aux drains karstiques
+principaux par l’intermédiaire d’un réseau de fractures peu transmissif générant les pertes de
+charge constatées.
+
+
+Dans la mesure où le niveau remonte immédiatement à l’arrêt des pompages, les drains principaux
+sont proches et fortement productifs. Le rabattement lié aux pertes de charge génère par contre un
+surcoût énergétique mais ne remet aucunement en cause le potentiel du forage ni son utilité.
+L’analyse des capacités par mètre de rabattement montre des valeurs proches comprises entre 20
+et 24 m3/m suivant les profondeurs du réseau noyé (cf. Erreur ! Source du renvoi introuvable.).
+L’absence de variation traduit l’absence de changement de profils de la zone fracturée captée. Il
+semble ainsi que la zone comprise entre 58 et 62 m/bride (soit entre 115 et 119 m NGF) soit
+globalement assez homogène en termes de capacité par mètre de rabattement.
+
+
+A partir des couples débit d’alimentation / niveau dynamique, la courbe de production du forage a
+été tracée sur la Figure 14. De façon classique, cette courbe montre que plus le rabattement
+augmente plus le débit d’alimentation s’amplifie du fait de l’accroissement du gradient hydraulique
+et par conséquence du rayon d’influence.
+A partir d’une certaine distance, le rayon d’influence se stabilise ou n’évolue plus que de façon très
+réduite soit par effet de limite étanche (faille, limite d’extension des drains karstiques,...) soit par
+effet de seuil hydraulique. On remarque, ici, un alignement de l’ensemble des paliers interprétés et
+l’absence de rupture de pente. Il semble que le débit maximum d’alimentation du forage du
+Fesquet n’a pas été atteint lors des pompages réalisés et qu’il est supérieur à 220 m 3/h dans
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 21 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+les conditions hydrauliques d’octobre 2013.
+
+
+
+
+            Figure 14 : Pompage d’octobre 2013 - Courbe du débit d’alimentation en fonction du rabattement
+
+
+
+
+TraçageS
+
+Des opérations de traçages ont été réalisées en 2010 : quatre traçages à partir du centre
+équestre, des bassins de lagunage, de l’élevage de faisans, de l’aven « Trou fumant de l’Olivier »
+(cf. localisation sur la Figure 15) ;
+Il apparait qu’aucun passage des traceurs n’est visible au niveau de Fe1 :
+                Résultat négatif pour le traçage à partir du centre équestre : peut-être dû à une trop
+                 faible infiltration du traceur au niveau du point d’injection et/ou à la grande épaisseur
+                 de l’aquifère non saturé à traverser (pratiquement 80 m),
+                Résultat négatif du traçage à partir des bassins de lagunage : probablement dû à la
+                 traversée du milieu non saturé peut-être chargé en matière organique qui a pu
+                 retenir le traceur
+                Résultat négatif du traçage au niveau de l’élevage des faisans (F Salle) :
+                 fonctionnement de l’aquifère dans cette zone (seuil) a probablement provoqué une
+                 trop forte dilution de celui-ci avec les eaux de la crue du 7 septembre.
+                Résultat négatif du traçage à partir du Trou Fumant de l’Olivier : Indépendance
+                 entre les deux systèmes situés de part et d’autre de l’Hérault.
+
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 22 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse        Version b
+d'eau, bassin versant concerné
+                         Figure 15 : Traçages d’août 2010 –Localisation des points d’injection
+
+
+
+    •   Un nouveau traçage a été réalisé en mai 2014 sur l’aven du Fresquet
+La proximité du centre équestre du Fesquet, localisé à une centaine de mètres en amont du forage
+du même nom, présente un risque potentiel important pour la qualité bactériologique des eaux. Il a
+donc été décidé de réaliser un traçage à partir d’un point situé à proximité de ce centre équestre
+afin d’évaluer si possible les temps de transfert jusqu’au forage.
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 23 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+L’aven du Fresquet situé à 400 mètres au Sud du forage (coordonnées Lambert 93 : X = 75
+7703.92 Y=631 3195.91 Z=214 m) (cf. Figure 16) a été choisi pour l’injection du colorant.
+
+
+
+
+                           Figure 16 : Traçage de mai 2014 –Localisation du point d’injection
+
+Il en ressort les résultats suivants :
+                la présence du traceur dans l’Hérault n’a pas été détectée,
+                résultat négatif sur le forage du Fesquet,
+                Au vue de la quantité de traceur injecté et de la surveillance réalisée dans le
+                 système karstique environnant l’aven du Fresquet, ce colorant n’a pu ressortir de
+                 façon inaperçue durant le mois de surveillance. On peut supposer que le traceur et
+                 le volume d’eau de chasse sont restés piégés au droit de l’aven sans atteindre les
+                 zones de circulations actives.
+Le traceur a dû sortir du système karstique à la faveur des fortes mises en charge de l’automne
+2014 mais de façon inaperçue du fait de la forte turbidité de l’Hérault à cette époque
+
+
+2.3     LIEN AVEC LES EAUX SUPERFICIELLES
+
+L’Hérault qui sert de niveau de base hydraulique doit servir d’exutoire aux circulations souterraines
+bien qu’aucune source importante ne soit connue en rive droite de l’Hérault dans ce secteur (la
+petite source des châtaigniers n’a pas été encore retrouvée malgré d’importantes recherches). Ce
+constat n’exclut pas l’existence de réseaux noyés plus profonds hérités de la karstification miocène
+et pouvant potentiellement traverser l’Hérault.
+L’absence de différence de niveau notable entre le niveau statique dans le forage du Fesquet et le
+fil d’eau de l’Hérault (différence de l’ordre de 2 m), malgré une distance d’environ 600 m, témoigne
+d’une fracturation en profondeur assez importante.
+
+
+L’aquifère capté, de type fissuré-karstique apporte à l’Hérault, outre une relation classique par
+ruissellement sur son bassin versant, une relation souterraine non négligeable.
+Les expériences de traçage menées sur l’aquifère du Jurassique ont permis de déterminer un
+bassin hydrogéologique où les écoulements se font vers l’Hérault et non vers la source du Lez. Il
+est défini au Nord par l’apparition des affleurements jurassiques, à l’Est par les affleurements
+crétacés et le bassin du Mas de Londres, au Sud la limite est constituée par la fin des
+affleurements jurassiques vers l’Ouest, la zone de Viols le Fort et les affleurements éocènes pour
+l’Est. En ce qui concerne la limite Ouest, celle-ci est faiblement contrainte notamment dans sa
+
+                                            EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 24 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+partie Nord. En revanche, la partie Sud est relativement mieux cernée par les études menées au
+niveau du captage du Drac et des grottes de Clamouse.
+
+Ce bassin hydrogéologique couvre ainsi une superficie de 1 000 km2 environ.
+
+Compte tenu du fort potentiel d’infiltration des précipitations sur ces aquifères, une telle extension
+lui confère une alimentation très importante. En considérant une lame précipitée moyenne de
+700 mm avec un coefficient d’infiltration moyen de 40 %, le volume infiltré par an peut être
+estimé à 280.106 m3.
+
+La majeure partie de ce volume rejoint directement le fleuve par l’intermédiaire des sources
+pérennes ou temporaires mais il constitue un potentiel de reconstitution important des réserves de
+l’aquifère en cas d’exploitation en période de basses eaux.
+
+En l’absence de résurgence sous-marine profonde (comme la Vis dans l’étang de Thau) comme
+exutoire de base de cet aquifère, l’essentiel des volumes infiltrés qui l’alimentent déborde par les
+différentes résurgences vers les réseaux superficiels.
+
+Les campagnes de mesures de débits sur l’Hérault, ont permis de déterminer que, de façon
+générale, l’apport de l’aquifère des calcaires jurassiques atteint 30 % du débit de l’Hérault
+au cours de sa traversée (en basse eaux) et entre 40 et 60 % en moyennes eaux.
+
+
+
+
+                                           EN TEC H Ingénieurs Conseils
+
+SIEA de la région de Ganges – Champ captant du Fesquet : Captage d’eau souterraine destinée à Page 25 / 25
+l’alimentation en eau potable - Dossier d’autorisation au Titre du Code de l’Environnement
+Pièce 2 bis : Nom de l'aquifère, caractéristiques géologiques principales, identification BRGM, masse   Version b
+d'eau, bassin versant concerné
+

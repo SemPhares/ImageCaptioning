@@ -1,0 +1,1487 @@
+                         PUBLICATIONS
+Tectonics
+RESEARCH ARTICLE                           Successive Rifting Events in Marginal Basins: The Example
+10.1002/2017TC004783
+                                           of the Coral Sea Region (Papua New Guinea)
+Key Points:                                Cédric Bulois1         , Manuel Pubellier1,2, Nicolas Chamot-Rooke1,2, and Matthias Delescluse1
+• Extensive data coverage allows us to
+  link onshore and offshore geological     1
+                                               Laboratoire de Géologie, Ecole Normale Supérieure, PSL Research University, Paris, France, 2CNRS/UMR 8538, Paris, France
+  structures of the Coral Sea region,
+  Papua New Guinea
+• Sedimentary basins formed during
+  successive rifting events implying       Abstract Reactivation of extensional structures is commonly inferred during rift evolution. In that context,
+  fault reactivation                       we present original seismic interpretation to explore the geometry and interactions of three successive rifting
+• Mechanisms controlling the               events in the Coral Sea region, Papua New Guinea. The ﬁrst event (R1), poorly documented, occurred during
+  development of polyphased oceanic
+  basins are highlighted                   the Triassic along an older N-S Permian structural fabric. During the Jurassic, extensional faults were
+                                           reactivated through a second extensional episode (R2), which formed small (~10/20 km) basins bounded by
+                                           N-S, NE-SW, and E-W listric faults. Extension prolonged during the Lower Cretaceous with seaﬂoor spreading
+Supporting Information:
+• Supporting Information S1                in the Owen Stanley Oceanic Basin, now incorporated in the Papuan fold and thrust belts. A third Late
+• Figure S1                                Cretaceous extensional phase (R3) gently reactivated some of the faults with very limited landward tilt in
+• Figure S2
+                                           most basins and deformation located along the present continent-ocean transition. Seaﬂoor spreading in the
+• Figure S3
+• Figure S4                                Coral Sea followed from Danian to Ypresian. This extensional system is sealed by unequally preserved Eocene
+• Figure S5                                strata that mark the onset of postrift thermal subsidence prior to the margin inversion from Oligocene
+                                           onward. This overall evolution suggests various extensional systems that are geographically and temporarily
+Correspondence to:
+                                           deﬁned the one another. The early rifting of the crust is controlled by preexisting continental features
+C. Bulois,
+bulois@geologie.ens.fr                     resulting in the local Pangaea breakup. In contrast, the Coral Sea propagator cuts through the rifted margin
+                                           and is controlled by a subduction complex in accordance with the Tasman Sea opening. This evolution
+                                           underlines the interactions existing between two extension modes in agreement with variations of the
+Citation:
+Bulois, C., Pubellier, M., Chamot-Rooke,   regional geodynamical setting around Australia.
+N., & Delescluse, M. (2018). Successive
+rifting events in marginal basins: The
+example of the Coral Sea region (Papua     1. Introduction
+New Guinea). Tectonics, 37, 3–29.
+https://doi.org/10.1002/2017TC004783       Rifting can either occur in the midst of continental plates depending of the mantle behavior (i.e., passive
+                                           and active hypothesis due to far-ﬁeld boundary forces or mantle plume) (Sengör & Burke, 1978) or as a
+Received 26 AUG 2017                       result of trench pull caused by neighboring subduction zone (i.e., backarc extension due to the rollback
+Accepted 9 NOV 2017
+Accepted article online 13 NOV 2017        of the slab) (Honza, 1995; Tamaki & Honza, 1991; Uyeda & McCabe, 1983). The latter case produces rifted
+Published online 3 JAN 2018                slivers separated by marginal basins such as in Southeast Asia (Pubellier & Meresse, 2012) or in the West
+                                           Paciﬁc (Cluzel et al., 2012). In these two extreme models of rifting, polyphased direction of extension may
+                                           change over time, resulting in variations of the basin geometries and an organization of trapped sedi-
+                                           ments within speciﬁc megasequences that undersign the polyphased evolution of rifted basins.
+                                           Polyphased rifting is a common phenomenon in many extensional settings of longstanding history, such
+                                           as the North Atlantic Rift system (e.g., Doré et al., 1999; Roberts et al., 1999; Tankard & Balkwill, 1989;
+                                           Ziegler, 1989), the Red Sea/East African Rift system (e.g., Huchon & Khanbari, 2003; Montenat et al.,
+                                           1988; Versfelt & Rosendahl, 1989) or the South China Sea (e.g., Franke et al., 2014; Fyhn, Boldreel, et al.,
+                                           2009; Fyhn, Nielsen, et al., 2009; Savva et al., 2014). It implies fault reactivation and deposition of speciﬁc
+                                           sequences, among which the dynamics understanding requires much geological and geophysical informa-
+                                           tion. In that context, the frontier region of the Coral Sea, located in between Papua New Guinea and
+                                           Australia (Figure 1), constitutes a typical example of such a complexity as intimately linked juxtapositions
+                                           of rifting, seaﬂoor spreading, and marginal accretion episodes are found adjacently (e.g., Baldwin et al.,
+                                           2012; Corbet, 2005; De Smet et al., 1998; Doust & Noble, 2008; Hill & Hall, 2002; Sheppard & Cranﬁeld,
+                                           2012). Most detailed publications consist of studies that deal with speciﬁc aspects of the Cenozoic com-
+                                           pression evolution in the Papuan mainland and its associated natural resources. Offshore studies mostly
+                                           focused on the eastern Cenozoic tectonostratigraphy of the Coral Sea (e.g., Botsford et al., 2012; Home
+                                           et al., 1990; Jablonski et al., 2006; Mutter, 1975) or on the evolution of the Recent silicastic-carbonate sys-
+                                           tems (e.g., Francis et al., 2008; Carson et al., 2008; Jorry et al., 2008). Comparatively, preceding rifting archi-
+©2017. American Geophysical Union.
+                                           tecture is poorly documented due to the paucity of regional subsurface datasets resulting from the thick
+All Rights Reserved.                       Cenozoic sedimentary cover.
+
+
+BULOIS ET AL.                                                    POLYPHASED RIFTING AND REACTIVATION                                                                 3
+                                 Tectonics                                                                                                 10.1002/2017TC004783
+
+
+                   125°E             130°E                 135°E            140°E                  145°E     150°E                 155°E             160°E
+
+
+
+
+             0°N                                                                                                                                             0°N
+
+
+
+
+             5°S                                                                                                                                             5°S
+
+
+
+
+            10°S                                                                                                                                             10°S
+
+
+
+
+            15°S                                                                                                                                             15°S
+
+
+
+
+                   125°E             130°E                 135°E            140°E                  145°E     150°E                 155°E             160°E
+
+
+                      Passive margin units                          Units reactivated in compression        Fault zones
+                             Oceanic crust or                                                              a
+                             hyperextended domains                         Fold and thrust belts                    Active (a), slow-converging
+                                                                                                           b
+                              Ophiolites                                   Melanesian arc                           and inactive (b) deformation front
+                                                                                                           c
+                            Cretaceous rifted basins                                                                 Normal fault zones
+                            Jurassic rifted basins                                                                   Strike-slip fault zones
+                                                                    Basement elements
+                            Deformed Triassic-Cretaceous
+                                                                           Australian craton
+                            extensional elements                                                              0      200
+                                                                           Limite in between deformed                      km
+                            Active oceanic ridge systems
+                                                                           and undeformed craton
+
+
+Figure 1. Simpliﬁed structural map of New Guinea and surrounding areas. Map is adapted from Bulois (2016). Words in capital letters are for lithospheric
+plates, abbreviations in capital letters are for structural elements, and abbreviations in italics are for mountain ranges and fault zones. Abbreviations: AB:
+Arafura Basin, AFB: Aure fold belt, AUS: Australia, AyT: Ayu Trough, BB: Bonaparte Basin, BSB: Bismarck Sea Basin, BT: Bligh Trough, BTFZ: Bewani-Torricelli
+fault zone, CSB: Coral Sea Basin, CPFTB: Central Papuan fold and thrust belt, CWB: Cenderawasih Basin, EP: Eastern Plateau, EPFB: Eastern Papuan fold belt,
+FP: ﬂy platform, LFTB: Lengguru fold and thrust belt, LP: Louisiade Plateau, MaT: Manus thrust, MoT: Moresby thrust, MS: Molucca Sea, MuT: Musseau Trough,
+NBT: New Britain Trench, NGT: New Guinea Trench, NF: Nubura fault, OB: Osprey Basin, OSFTB: Owen Stanley fold and thrust belt, PaR: Pandora Ridge, PP:
+Papuan Plateau, PR: Pasca Ridge, PT: Pocklington Trough, PNG: Papua New Guinea, QT: Queensland Trough, QP: Queensland Plateau, RMFZ: Ramu-Markham
+fault zone, SSB: Solomon Sea Basin, SST: South Solomon Trench, SFZ: Sorong fault zone, ST: Seram Trench, TT: Trobriand Trough, WB: Woodlark Basin, and
+WP: West Papua.
+
+
+                                             The overall region is generally described as two following rift systems extending either along the NW Shelf
+                                             of Australia or in the Coral Sea region (Figure 1) (Struckmeyer et al., 1993; Symonds et al., 1984). Jurassic
+                                             rifting along the NW Shelf is well-understood regarding structural directions and associated inﬁllings (e.g.,
+                                             Chen et al., 2002; Elliott et al., 1996; Heine & Müller, 2005; Stagg et al., 1999). In comparison, the Coral Sea
+                                             extension is mostly evidenced from early Cenozoic oceanic crust bounded by large rifted continental pla-
+                                             teaus detached from the Australian craton (e.g., Drummond et al., 1979; Ewing, Hawkins, et al., 1970;
+                                             Ewing, Houtz, et al., 1970; Gaina et al., 1999; Gardner, 1970; Symonds et al., 1984; Taylor & Falvey, 1977;
+                                             Weissel & Watts, 1979). The best explored features lie in shallow waters (e.g., Papuan Basin and Eastern
+                                             and Papuan plateaus) (e.g., Home et al., 1990; Jablonski et al., 2006; Botsford et al., 2012; Ott & Mann,
+                                             2015) and are often interpreted as a result of the Cretaceous rifting preceding seaﬂoor spreading. Yet
+                                             older rifted sequences are also suggested onshore and offshore but their dynamic setting is still under
+                                             debate. In particular, it remains uncertain if the NW Shelf and Coral Sea rift systems actually connected
+                                             in the past along a large rifted margin now partially shortened and imbricated in the Papuan fold and
+                                             thrust belts (e.g., Hill, 1991; Hirst & Price, 1996).
+
+
+BULOIS ET AL.                                                      POLYPHASED RIFTING AND REACTIVATION                                                              4
+                Tectonics                                                                              10.1002/2017TC004783
+
+
+
+                    Hereafter, we speciﬁcally focus on detailed mapping of extensional features along the northern margin of the
+                    Coral Sea Basin to better understand the initiation and propagation of the extension through the Australian
+                    craton and how rift systems may interact over time. We present a comprehensive analysis of geological and
+                    geophysical datasets, comprising original industrial 2D seismic data correlated to local wells together with
+                    magnetic and gravimetric observations. We argue that the Coral Sea region underwent at least three over-
+                    printed extensional episodes prior to Mid-Cenozoic basement-involved shortening, controlling the formation
+                    and reactivation of fault systems over time.
+
+                    2. Geological Setting
+                    Papuan present-day deformation is generally viewed as a result of the 70-Myr-long, oblique and rapid con-
+                    vergence between the Australian and Paciﬁc plates (Gaina & Müller, 2007; Tregoning et al., 1998; Wallace
+                    et al., 2014). This resulted in the accretion of lithospheric terranes (Audley-Charles, 1991; Cloos et al., 2005;
+                    Crowhurst et al., 1996; Dewey & Bird, 1970; Hamilton, 1979; Hill & Hall, 2002; Pigram & Davies, 1987;
+                    Quarles van Ufford & Cloos, 2005) interspaced by the formation of oceanic basins (e.g., Coral and Tasman
+                    seas) and sometimes backarc or propagator basins (e.g., Solomon and Bismarck seas or Woodlark Basin)
+                    (Figure 2) (e.g., Gaina & Müller, 2007; Gaina et al., 1998, 1999; Hayes & Ringis, 1973; Joshima et al., 1987;
+                    Martinez et al., 1999; Taylor, 1979; Taylor et al., 1999). These involve Proterozoic to Cenozoic crustal provinces
+                    separated by major fault zones reactivated over time.
+                    In the Coral Sea region, in particular, crustal elements and faults have been involved in a number of rift events
+                    that are mostly recognized in the Papuan Basin (Hill & Hall, 2002; Home et al., 1990; Jablonski et al., 2006) but
+                    remain uncertain farther east due to compression and thick sediments. It implies discrepancies regarding the
+                    regional signiﬁcance of these events.
+                    2.1. Prerift Basement Geology
+                    The Coral Sea region has recorded a long-lasting evolution from the Precambrian and involved crystalline base-
+                    ment structures susceptible of locating subsequent extensional deformation (Figure 2). Basement rocks appear
+                    as large plateaus rifted from the Australian craton (Drummond et al., 1979; Mutter, 1977; Symonds et al., 1984;
+                    Taylor & Falvey, 1977). Drillings and seismic reﬂection surveys showed that the Queensland and Eastern
+                    plateaus are largely composed of Palaeozoic or older crystalline basement overlain by thick Cenozoic
+                    sediments. Similar crystalline rocks are indirectly evidenced in the adjacent ridges (e.g., Pandora Ridge) as well
+                    as underneath the Papuan and Louisiade plateaus (Jablonski et al., 2006; Rogerson, Hilyard, Francis, et al., 1987).
+                    Onshore, Mid-Proterozoic cratonic basement along the Arafura Platform and the Lengguru Fold and Thrust
+                    Belt underlie Silurian-Devonian metasediments (Pieters et al., 1983). Eastward (Papuan fold and thrust belts),
+                    various undeformed sediments deposited on top of Precambrian plutons and Palaeozoic (Permian or older)
+                    metasediments intruded by Early to Middle Triassic granites (Figure 3) (e.g., Crowhurst et al., 1996, 2004;
+                    Davies, 2012; Page, 1976; Parris, 1994; Rogerson, Hilyard, Francis, et al., 1987; Rogerson, Hilyard, Finlayson,
+                    et al., 1987; Struckmeyer et al., 1993; van Wyck & Williams, 2002). This implies two basement types from east
+                    to west, which the boundary may correspond to the northward prolongation of the Tasman Line, a major
+                    lithospheric-scale discontinuity underlying the New England Orogen in Australia (Figure 1) (Direen &
+                    Crawford, 2003; Schreibner, 1974). Nonetheless, its geographic extent in Papua New Guinea remains dis-
+                    cussed (e.g., Hill & Hall, 2002).
+                    2.2. The Australian Continental Breakup
+                    Following Palaeozoic times, the region encompassed a period of long-lasting extension affecting Pangaea
+                    supercontinent (Figure 3). Early synrift sediments (?Permian) are seismically interpreted west of the
+                    Pandora Ridge (Jablonski et al., 2006). Wells drilled on the Fly Platform (Well Kanau-1) and in the Australian
+                    part of the Papuan Basin (Well Anchor Cay-1) penetrated younger (Triassic) synrift sediments (e.g., Home
+                    et al., 1990). Further Mid-Late Triassic formations (e.g., Kana Volcanics and the Jimi Greywacke) are interpreted
+                    as part of this synrift setting (Home et al., 1990) or as a result from the Bowen-Fitzroy Orogeny in northeastern
+                    Australia (e.g., Jablonski & Saitta, 2004). As a result, this early synrift episode remains poorly
+                    constrained spatially.
+                    During the Early to Middle Jurassic, northern Australia experienced a more widespread rifting event, result-
+                    ing in a transgressive megasequence deﬁned in onshore Papua as the Bol Arkose Formation (Lower Jurassic
+
+
+BULOIS ET AL.                         POLYPHASED RIFTING AND REACTIVATION                                                            5
+                                        Tectonics                                                                                                                10.1002/2017TC004783
+
+
+
+
+                    140°E                                   145°E                                     150°E                                 155°E
+
+
+
+
+              5°S                                                                                                                                                               5°S
+
+
+
+
+             10°S                                                                                                                                                               10°S
+
+
+
+
+             15°S                                                                                                                                                               15°S
+
+
+
+
+                    140°E                                   145°E                                     150°E                                 155°E
+
+
+                        Tectonostratigraphic terranes                       Igneous and metamorphic basement elements                     Fault zones and fractures
+                    a                                                   a                                                                         Thrust fault zones
+                              b Cenozoic basins (a) and platforms (b)            b Granitic inliers (a) and continenal basement (b)
+                                Cenozoic fold belts                                Melanesian island arc                                          Normal fault zones
+                                Cretaceous rifted basins                           Onshore Papuan Quaternary volcanoes                            Strike-slip fault zones
+                                Jurassic basins                                    Hyperextended continental crust                                Lineaments
+                                                                        a
+                                Jurassic-Cretaceous metasediments                b Oceanic crust (a) and ophiolites (b)                           Oceanic transforms
+                                                                                                                                      a           Active (a) and inactive (b)
+                                Permo-Triassic basins                                                                                           b oceanic ridges
+                                Palaeozoic fold belts
+
+
+Figure 2. Tectonostratigraphic elements in the eastern Papuan Basin. Structural elements are principally adapted from Pigram and Davies (1987), Norwick (2003),
+Collot et al. (2009), and Bouysse et al. (2014). Abbreviations in capital letters are for structural elements; abbreviations in italics are for mountain ranges and fault
+zones. Wells cited in the text are also plotted on the map in blue (An for Anchor Cay; Di for Dibiri-1A; and Pa for Pasca). Abbreviations: AFB: Aure fold belt, AU:
+April Ophiolite, BB: Bamaga Basin, BBT: Bena Bena Terranes, BL: Bosavi Lineament, BT: Bligh Trough, BTFZ: Bewani-Torricelli fault zone, BoT: Bogora thrust, BTT:
+Bewani-Torricelli Terranes, CI: Coen Inlier, CO: Cyclops Ophiolite, CPFTB: Central Papuan fold and thrust belt, DP: Darai Plateau, EP: Eastern Plateau, EPaR: East Pandora
+Ridge, EPFB: Eastern Papuan fold belt, FB: Finisterre block, FP: Fly platform, GI: Georgetown Inlier, JT: Jimi Terranes, KB: Kutubu Basin, KI: Kubor Inlier, LLB: Laura-
+Lakeﬁeld Basins, LP: Louisiade Plateau, MO: Marum Ophiolite, MoT: Moresby thrust, NBT: New Britain Trench, NGT: New Guinea Trench, NF: Nubura fault, OB: Osprey
+Basin, OSFTB: Owen Stanley fold and thrust belt, OSFZ: Owen Stanley fault zone, PaB: Pandora Basin, PaR: Pandora Ridge, PB: Papuan Basin, PDR: Penisula-Daru
+Ridge, PR: Pasca Ridge, PoT: Pocklington Trough, PT: Papuan thrust, PUB: Papuan ultramaﬁc belt, QT: Queensland Trough, QP: Queensland Plateau, RMFZ:
+Ramu-Markham fault zone, SST: South Solomon Trench, ST: Schrader Terranes, TB: Trobriand Basin, TS: Torres Strait, ToB: Townsville Basin, and TT: Trobriand Trough.
+
+
+
+
+BULOIS ET AL.                                                           POLYPHASED RIFTING AND REACTIVATION                                                                             6
+                Tectonics                                                                                                                                                                                  10.1002/2017TC004783
+
+
+
+                                                                                            LITHOLOGY                                                 FORMATIONS                                            TECTONIC EVENTS
+                       0                                        QUATERNARY
+                                                                    Pliocene                W             E    Ur    Era / Pnyang-Orubady Beds
+
+
+
+
+                             CRETACEOUS PALAEOG. NEO.
+                                                                                                               P, Pa
+                                                                    Miocene                                    Or    Aure Beds, Darai Limestone                                                             Papuan - Melanesian arc
+                                                                                                                                                   & Puri Limetsone
+                                                                   Oligocene                                   Tr, E                                                                                              orogenies
+
+                                                                               Eocene                          An
+                                                                                                                                                   Port Moresby Beds
+                      50                                                                                                                           & Mendi Limestone
+                                                                             Palaeocene                                                                                                                   Coral Sea seafloor spreading
+                                                                                                     Pa                                            Chim & Upper Ieru
+
+
+
+
+                                                                                                                                                                         Owen Stanley (Up/Lo) Mudstones
+                                                                               Upper        Su Gi/Ke Su
+                                                                                                                                                   Mudstones
+
+                     100                                                                                                                                                                                  Coral Sea / Queensland rifting
+                                                                                            Ju                                                     Lower Ieru
+                                                                                                                                                   Mudstone
+                                                                                                 El
+                                                                               Lower
+                                                                                                      ToA Ju                                       Toro Sandstone
+                                                                                                ToB/C          Ia, P’
+                     150                                                                         He                                                Imburu Mudstone
+                             DEVONIAN CARBONIF. PERMIAN TRIASSIC JURASSIC
+
+
+
+
+                                                                               Upper                                                                                                                       Postrift thermal subsidence
+                                                                                                Ia
+                                                                                                                                                   Barikewa Mudstone
+                                                                               Middle
+                                                                                                                                                   Magobu-Balimbu                                           Northern Australia rifting
+                                                                                                               Om
+                                                                               Lower            KI                                                 & Bol Arkose
+                     200
+                                                                                                                                                                                                             Bowen-Fitzroy orogeny
+                                                                               Upper                                                               Jimi Sandstones
+                                                                                                                                                   Kana Volcanics
+                                                                              Middle
+                                                                              Lower                                                                Omung Metamorphics
+                     250
+                                                                             Lopingian
+                                                                            Guadalupian
+                                                                             Cisuralian                                                            Yuat (+equivalents)
+
+                     300                                                                                                                                                                                         Mudstones - siltstones
+                                                                                                              western Papua / northern Australia
+
+
+
+
+                                                                            Pennsylvanian                                                                                                                        Fine sandstones
+                                                                                                                  Information derived from
+
+
+
+
+                                                                                                                                                                                                                 Coarse sandstones
+                                                                                                                                                                                                                 Limestones
+                                                                            Mississippian
+                     350                                                                                                                                                                                         Volcanoclastics
+                                                                                            ? ? ? ? ?
+                                                                                                                                                                                                                 Granite /intrusion
+                                                                                Late                                                                                                                             Metamorphosed
+                                                                                                                                                                                                                 mudstones
+                                                                               Middle                                                              Modio Carbonates                                              Metamorphed
+                     400                                                                                                                                                                                         mudstones
+                                                                               Lower                                                                                                                             Metamorphed
+                                                                                                                                                                                                                 granites
+                            LOWER PALAEOZOIC ? ? ? ? ?                                                                                                                                                      Om   Major hydrocarbon
+                                                                                                                                                                                                                 discovery
+                             AND PROTEROZOIC                                                                                                       Undifferentiated basement
+
+
+                    Figure 3. Simpliﬁed stratigraphic column in the study area, including the Coral Sea Basin, the Aure fold belt, and Papuan
+                    fold belt. Stratigraphy and tectonic events are principally adapted from Home et al. (1990), Jablonski et al. (2006), and
+                    Craig and Warvakai (2009). Interpretation in the current study differs from these publications, namely, regarding the sig-
+                    niﬁcance of tectonic events.
+
+
+
+
+                    to Bajocian) and the Mogabu Coal and Balimbu Greywacke formations (Bathonian to Early-to-Middle
+                    Jurassic) (Figure 3) (Hill & Hall, 2002; Home et al., 1990; Pigram & Panggabean, 1984). The synrift area is
+                    usually described as being limited by a series of anticlines (e.g., Kubor and Muller) to the north and by
+                    the Pasca Ridge to the east, although synrift sediments remains accurately untested offshore. There are
+                    also issues regarding the opening mechanism (e.g., backarc basin versus aborted continental rift)
+                    depending on the continuity of synrift elements (e.g., Hamilton, 1979; Monnier et al., 2000; Pigram &
+                    Panggabean, 1981, 1984; Pigram & Symonds, 1991).
+
+
+BULOIS ET AL.                                                                 POLYPHASED RIFTING AND REACTIVATION                                                                                                                          7
+                Tectonics                                                                                10.1002/2017TC004783
+
+
+
+                    Both rift events were followed by a passive margin setting (Figure 3). Postrift strata are alternatively picked
+                    from the top of the Koi-Iange Member (Middle Jurassic) or from the Barikewa Mudstone Formation and its lat-
+                    eral Iagifu or Hedinia sandy equivalents (Middle to Upper Jurassic) (Figure 3) (e.g., Hill & Hall, 2002; Home et al.,
+                    1990; Norwick, 2003). Full thermal subsidence is marked by the development of the Imburu Mudstone
+                    Formation (Late Callovian to Oxfordian) that seals most of Jurassic extensional features and onlap onto north-
+                    ern structural highs until the earliest Cretaceous (Dow, 1977; Home et al., 1990). Postrift strata are likely to
+                    have been affected by following Cretaceous extensional and Cenozoic compression events in many places.
+
+                    2.3. The Cretaceous Extension and the Opening of the Coral Sea Basin
+                    Many authors argued that the Late Jurassic passive margin setting continued during much of the Neocomian
+                    (e.g., Home et al., 1990; Pigram et al., 1989; Struckmeyer et al., 1993) or that this period actually corresponds to
+                    a new phase of rifting controlling the deposition of transgressive Toro Sandstone and Lower Ieru Mudstone
+                    formations (respectively Neocomian and Upper Cretaceous, Figure 3) (Hill & Hall, 2002; Norwick, 2003).
+                    Variations are due to the duration deﬁnition and geometric relation between contemporaneous rifted basins.
+                    Also, it is possible that an oceanic basin, now overthrusted in the Owen Stanley Fold and Thrust Belt (i.e.,
+                    Papuan Ultramaﬁcs Belt) was separated from a second continental rift setting along an axis linking the
+                    Kubor Anticline to the Pasca Ridge (Hill & Hall, 2002; Home et al., 1990).
+                    Rifting continued during the Upper Cretaceous along the northeastern margin of Australia (Blight,
+                    Queensland, and Townville basins) and in the Coral Sea Basin (Home et al., 1990; Struckmeyer & Symonds,
+                    1997; Norwick, 2003), while most of the southern margin along the Papuan Basin and eastern Australia
+                    was uplifting at the time (e.g., Francis, 1990; Gurnis et al., 2000; Pigram & Symonds, 1993) This resulted in
+                    the deposition of marine mudstones (e.g., Chim and Upper Ieru mudstone formations) and localized sand-
+                    stones (Figure 3) prior Palaeocene-Eocene seaﬂoor spreading in the deep Coral Sea Basin (Gaina et al.,
+                    1999; Weissel & Watts, 1979). Here again, the duration and extensional mechanisms have been debated as
+                    their deﬁnition depends on the interconnexion of rift episodes (e.g., Home et al., 1990; Norwick, 2003). In
+                    addition, large parts of these rifted basins are assumed to have been shortened or completely subducted dur-
+                    ing the Cenozoic compression (e.g., Hill & Hall, 2002; Matthews et al., 2015; Schellart & Spakman, 2015), imply-
+                    ing drastic variation regarding the extent of the Coral Sea extension.
+
+
+                    3. Data Analysis and Rifting Architecture of the Coral Sea
+                    As described in the above, the Coral Sea region experienced a long-lasting and polyphased extensional
+                    evolution. To date, only ﬁrst-scale rift-related morphostructures, (e.g., plateaus and large basins) are geo-
+                    graphically deﬁned (Figure 2). In addition, the lack of regional seismic and well datasets implies a strong
+                    dating bias of stratigraphic sequences. In this paper, about 20,000 km of 2D seismic lines, supported by
+                    occasional wells and ﬁltered regional Bouguer gravity anomalies, were correlated along the northern Coral
+                    Sea margin to link the well-documented Papuan Basin to eastern, poorly-explored features. Herein, wells
+                    Dibiri-1A and Pasca C1 (Phillips Australian Oil Company, 1968, 1969, 1975a, 1975b) are selected from clas-
+                    sical reference wells and are compared to adjacent boreholes Kanau 1 and Anchor Cay 1 (PNG Petroleum,
+                    1975; Tenneco, 1969), to better constrain regional sequences and surfaces (Figures 4 and 5). In the area,
+                    only Well Dibiri-1A tested pre-Cenozoic strata so that the synrift succession dating mostly relies on strati-
+                    graphic relationships with onshore geology or on classic seismic stratigraphic methods (sensu Mitchum
+                    et al., 1977).
+
+                    3.1. Well and Seismic Correlations of the Synrift Section in the Kutubu Basin
+                    The best preserved synrift succession is observed into the onshore part of the Papuan Basin where an almost
+                    continuous Triassic to Lower Cretaceous section is unconformably overlain by Late Cretaceous sediments
+                    (Well Kanau-1; Figure 4). Offshore wells recovered unequal Triassic and Jurassic sediments, and Cretaceous
+                    sediments remain absent. In the study area, Well Pasca-C1 bottomed an approximately 50m-thick, poorly
+                    metamorphosed quartzite dated in well reports as Upper Palaeozoic age. It is topped by an erosional uncon-
+                    formity, undersigned by the absence of Triassic and Lower Jurassic sediments in wells Dibiri-1A and Pasca-C1
+                    or by very coarse sandstones and conglomerates and local pyroclastics of Triassic age in adjacent wells
+                    Kanau-1 and Anchor Cay-1. Overlying sequences show transgressive Lower Jurassic sandstones, followed
+                    by more widespread Middle Jurassic sandstones, siltstones, and mudstones. Although the age cannot be
+
+
+BULOIS ET AL.                         POLYPHASED RIFTING AND REACTIVATION                                                              8
+                                Tectonics                                                                                             10.1002/2017TC004783
+
+
+
+
+Figure 4. Simpliﬁed logs of selected wells in the Coral Sea Basin. R1, R2, and R3 refer to rift settings recognized onshore and offshore. Rift-related unconformities are
+highlighted in red. These may either be within depocenters (e.g., wells Kanau-1, Dibiri-1A or Anchor Cay-1) or on top of horst (e.g., Pasca-C1). Ages are directly taken
+from well reports (Phillips Australian Oil Company, 1968, 1975b; PNG Petroleum, 1975; Tenneco, 1969). The names of equivalent formations are only here for
+information.
+
+
+BULOIS ET AL.                                                  POLYPHASED RIFTING AND REACTIVATION                                                                     9
+                                 Tectonics                                                                                                10.1002/2017TC004783
+
+
+
+
+Figure 5. Details of seismic line in the Papuan Basin (west of the study area) calibrated to wells. BR1, BR2, and BR3 refer to basal rift unconformities (see text for further
+explication). Basin names are adapted from existing nomenclature (e.g., Kutubu, Pasca, or Pandora features) as well as from the name of local languages in Papua
+New Guinea. Note that seismic interpretation enabled to further subdivide the sequences identiﬁed in the wells. Seismic line location is displayed in Figure 6.
+
+
+                                            determined accurately due to poor biostratigraphic information, we follow various unpublished studies from
+                                            oil companies that correlate the top marine sequence with Callovian sediments recovered in adjacent wells
+                                            Kanau-1 and Anchor-Cay-1. Subsequent sequence (Upper Jurassic) contains ﬁne clastics and rare
+                                            carbonates witnessing of progressive terrestrial to open marine conditions, which is likely to have
+                                            prolonged during the Lower Cretaceous in the west. Subsequent sediments deposited in a terrestrial to
+                                            shallow marine setting during the Cenomanian, whose section remains on the offshore (Well Kanau-1). This
+                                            supposes a regional unconformity, which capped the Mesozoic section in all offshore wells (e.g., Brown
+                                            et al., 1980; Home et al., 1990). The surface is overlain by Eocene-Miocene carbonate correlative reefs that
+                                            preceded the deposition of thick silicastic carbonates related to the construction of the Pliocene to Recent
+                                            shelf (e.g., Francis et al., 2008; Tcherepanov et al., 2008).
+                                            Therefore, there is a speciﬁc stratigraphic distribution that is likely to reveal the complex, extensional and
+                                            compressional evolution on the region. This polyphased development is mainly characterized by speciﬁc
+                                            ﬁrst-order unconformities or disconformities, which are used together with internal seismic characteristics
+                                            to map the various sequences through the seismic volume. Due to data density, the Kutubu Trough region
+                                            is speciﬁcally chosen hereafter to illustrate the regional rifting architecture (Figure 5).
+                                            Basal strata form a chaotic seismic package interspaced with local, discontinuous beddings that continue
+                                            eastward with truncated metasediments on top of the Pasca Ridge (Well Pasca-C1, Figure 4). They are inter-
+                                            preted as a part of the Palaeozoic basement that has been rifted afterward (e.g., Bain et al., 1975; Jablonski
+                                            et al., 2006).
+
+
+BULOIS ET AL.                                                   POLYPHASED RIFTING AND REACTIVATION                                                                        10
+                Tectonics                                                                               10.1002/2017TC004783
+
+
+
+                    Prerift metasediments are bounded by a strong-amplitude reﬂector covered by a series of continuous, lower
+                    amplitude beds that delineate a megasequence (referred as Formation I, purple in Figure 5). It slightly thick-
+                    ens westward (i.e., poor tilt) and is limited by the Pasca Ridge eastward. Internally, it is affected by normal
+                    faults that did not propagate in overlying sediments. Therefore, Formation I is interpreted as resulting from
+                    an early synrift setting (called hereafter R1). This implies that the base of the sequence corresponds to an
+                    unconformity referred as Base Rift1 Unconformity (later shorten as BR1, Figures 4 and 5). Home et al. (1990)
+                    described a similar pattern within Triassic sediments in the vicinity of Well Anchor Cay-1, and Hill and Hall
+                    (2002) suggested a Triassic synrift event from onshore observations. We therefore propose to remain herein
+                    with an undifferentiated Triassic age for Formation I.
+                    It is overlain by two main sequences that form a regional megasequence called herein Formation II (blue in
+                    Figures 4 and 5). They thin progressively toward the Pasca Ridge and are better observed in adjacent
+                    Pandora Trough. Both sequences are affected by a number of normal faults that express either internally
+                    or progressed through overlying strata. Therefore, Formation II suggests a second synrift setting (called here-
+                    after as R2) dated of Middle to Upper Jurassic age. It is limited by two truncational unconformities of different
+                    meanings. For instance, the bottom one called Base Rift2 Unconformity (later shorten as BR2, Figures 4 and 5)
+                    marks the onset of the rifting R1, while the top surface correlates to the Jurassic-Cenozoic transition in Well
+                    Dibiri-1A and therefore marks a Cenozoic event.
+                    To the east, a package with clear growth faulting and different seismic facies is intercalated between Jurassic
+                    and Cenozoic strata (green in Figure 5). This rift style difference implies a third rifting phase, called R3. The
+                    base of related Formation III is marked by a tenuous unconformity (Base Rift3 Unconformity, later shorten
+                    as BR3). Sediments are correlated with the Upper Cretaceous sediments identiﬁed in the onshore Papuan
+                    Basin (Figure 4).
+                    There is therefore a speciﬁc stratigraphic distribution in the Kutubu Trough that reveals the polyphased
+                    extensional history (Triassic to Upper Cretaceous). It appears, in particular, that the rift megasequences are
+                    bounded by speciﬁc synrift unconformities (called BR1 to BR3) that all relate to the three subsequent rifting
+                    events (R1 to R3) (Figures 4 and 5). These synrift unconformities speciﬁcally show that the rifting evolution
+                    was discontinuous through time in the Kutubu Basin.
+
+
+                    3.2. Structural Expression of the Rifting Along the Northern Margin of the Coral Sea
+                    Table 1 displays the seismic characteristics of the three different rift formations I to III in the Kutubu and adja-
+                    cent basins to constrain the strata distribution and the bounding unconformities along the northern Coral Sea
+                    margin (Figure 6). The ﬁrst sediments are bounded by reactivated extensional faults in the Moresby Basin and
+                    unconformably overlie basement rocks along a regional unconformity (BR1). Strata are usually poorly tilted
+                    and subtlety thicken toward the East Pandora Ridge or progressively thin eastward to ﬁnally disappear in
+                    the other basins. Internal seismic facies are similar to Formation I identiﬁed in the Kutubu Basin (Table 1),
+                    so that deposition was likely controlled by the R1 event. Similar strata may exist in other places but are traced
+                    with less conﬁdence, implying that the BR1 Unconformity cannot be mapped accurately at a regional scale.
+                    A much clearer rift setting, analyzed as the R2 event, extends beyond the Triassic rifted basins with many normal
+                    faults that are typically separated by 2-to-5km and along which tilting is important (Figure 6 and Table 1).
+                    Internally, the rift-related Formation II is composed of several onlapping units, each bounded by the BR2
+                    Unconformity at the base and several other angular unconformities in the above. Although growth faulting
+                    clearly occurs, it does not necessarily represent a common characteristic to all internal sediments, implying dif-
+                    ferential thickening throughout. This likely implies timing variation between extension and sedimentation within
+                    a progressively deepening, continental to marine environment. Thus, the distribution of Formation II is unequal
+                    between the various basins, and herein, we assign a Lower to Upper Jurassic age for most depocenters. Yet some
+                    bounding faults may have been active until the lowermost Cretaceous, resulting in thin, localized deposits.
+                    Other fault reactivation occurred along the most major Jurassic faults either without large rotation (e.g.,
+                    Moresby Basin) or, most likely, along newly formed faults that clearly controlled the fault-blocks gradient
+                    (Figure 6). The tilt, generally high in basins in prolongation of the continent-ocean transition, is used to dis-
+                    criminate Early from Late Cretaceous rifted depocenters. Thus, Formation III is generally contained into small-
+                    rifted basins south of the study area. It corresponds to coarse to ﬁne clastics that likely link to onshore Upper
+
+
+BULOIS ET AL.                         POLYPHASED RIFTING AND REACTIVATION                                                            11
+BULOIS ET AL.
+                                      Table 1
+                                      Seismic Sequence Characteristics in Rifted Basins of the Northern Coral Sea Basin
+                                                                                                                        Internal facies properties
+                                      Inferred maximum                                                                                                                                            Palaeoenvironment             Tectonic
+                                         age range            Sequence boundary geometry                    Reﬂection                  Continuity     Amplitude           External form               interpretation              event
+
+                                      Palaeogene (mostly     Unconformity with erosional         Parallel or oblique               Continuous         High            Thickening oceanward     Open marine, sometimes        Thermal
+                                        Palaeocene and         truncation landward, onlap          prograding                                                                                    shallow marine (when          subsidence
+                                        Eocene, locally        and downlap at the base                                                                                                           thin sections visualized)
+                                        Oligocene)
+                                                                                                                                                                                                                                            Tectonics
+
+
+
+
+                                      Upper Cretaceous       Unconformity with very              Parallel, locally oblique         Continuous and/    High, locally   Important thickening     Terrestrial to                Rift (R3)
+                                                               localized erosion at the            prograding                        or transparent     moderate        toward bounding          shallow marine
+                                                               top (neck of fault block                                                                                 faults
+                                                               only), onlap and
+                                                               downlap at the base
+                                      Lower Cretaceous       Erosional truncation at the         Parallel                          Continuous         High to         Gentle normal faulting   Open marine                   Rift (R2)
+                                                               top (usually Palaeogene,                                                                 moderate
+                                                               sometimes Miocene),
+                                                               gentle onlap and
+                                                               downlap at the base
+
+                                      Upper Jurassic         Erosional truncation at the         Parallel to subparallel           Continuous         Medium          Normal faulting,         Open marine                   Rift (R2)
+                                                               top (usually Palaeogene,                                                                                 localized thickening
+                                                               sometimes Miocene),
+                                                               onlap and downlap at
+                                                               the base
+                                      Middle Jurassic        Concordant at the top, gentle       Transparent, locally parallel     Continuous                -        Normal faulting, poor    Shallow marine                Rift (R2)
+                                        (Callovian to          onlap, and downlap at the                                                                                thickening
+
+
+
+
+POLYPHASED RIFTING AND REACTIVATION
+                                        the top of             base
+                                        Well Dibiri-1A)
+                                      Lower Jurassic         Gentle erosional or                 Chaotic with parallel             Variable but       Low to          Slight thickening        Rapid facies changes,         Rift (R2)
+                                                               concordant at the top, onlap        bedding toward the top            often moderate     medium           toward bounding         most likely terrestrial
+                                                               and downlap at the base                                                                                   faults                  to shallow marine
+                                      Triassic               Erosional truncation at the top,    Subparallel to chaotic,           Continuous         Medium          Slight thickening        Terrestrial to shallow        Rift (R1)
+                                                                onlap and downlap at the           truncated at the top                                                  toward bounding         marine
+                                                               base                                                                                                      faults, depression
+                                                                                                                                                                         at the bottom
+                                      Palaeozoic             Erosional at the top                Chaotic                           Discontinuous      Medium          Basement                 Metasediments                        -
+                                        (basement)
+                                                                                                                                                                                                                                             10.1002/2017TC004783
+
+
+
+
+12
+BULOIS ET AL.
+                                                                                                                                                                                                                                                  Tectonics
+
+
+
+
+POLYPHASED RIFTING AND REACTIVATION
+                                      Figure 6. Seismic line across the western part of the study area. Note the differences from west to east regarding the preservation of depocenters. Black box indicates the location of Figure 5. Seismic
+                                      line location is displayed in Figure 2, noninterpreted seismic lines may be found in Figure S1 in the supporting information.
+                                                                                                                                                                                                                                                   10.1002/2017TC004783
+
+
+
+
+13
+                                Tectonics                                                                                             10.1002/2017TC004783
+
+
+
+
+Figure 7. Examples of seismic lines across the northern margin of the Coral Sea Basin. (a and b) Seismic line showing the overall shape of rifted basins east of the East
+Pandora Ridge and the Eastern Plateau geometry. (c) Seismic line showing the overall shape of rifted basins in the vicinity of the Eastern and Papuan Plateaus. Seismic
+lines location is displayed in Figure 2; noninterpreted seismic lines may be found in Figures S2–S4.
+
+                                          Cretaceous rocks (Figure 4 and Table 1). All together, it implies a crosscutting rift setting, identiﬁed as R3,
+                                          marked by a lesser density of faults.
+                                          Similar polyphased extensional settings are observed on deep lines across the region (Figure 7). The R1 event
+                                          appears absent in most of the eastern basins. Comparatively, the extension maximum occurs during the sec-
+                                          ond rifting phase (R2) along major regional and counterregional, listric faults limiting crustal boudins.
+                                          Extension likely propagated in basins north of the Eastern Plateau during the Lower Cretaceous without
+                                          strong consequences on the tilting of sediments. Finally, subsequent Cretaceous faulting (R3) rejuvenated
+                                          locally some of the main bounding faults in the southwest of the Eastern Plateau, resulting in strong basin
+                                          tilt. In this polyphased extension, continental plateaus and ridges show coeval uplift episodes.
+                                          3.3. Structural Orientations Versus Time
+                                          The seismic interpretation enabled the construction of a structural map of the rift setting at the level of the
+                                          BR2 unconformity (i.e., Lower to Middle Jurassic; Figure 8), to which the ﬁltered Bouguer anomalies are super-
+                                          imposed in order to better constrain the general basin trends. Three main faults are distinguished according
+                                          to their orientations and ages. The ﬁrst direction occurs along a N-S to N10 trend and corresponds to the
+                                          overall direction of the Pasca, Pandora and East Pandora ridges. It controls Triassic depocenters and is
+
+
+BULOIS ET AL.                                                 POLYPHASED RIFTING AND REACTIVATION                                                                     14
+                                Tectonics                                                                                           10.1002/2017TC004783
+
+
+   143°                  144°                  145°                   146°                  147°                  148°                  149°                  150°
+
+
+
+
+ -8°                                                                                                                                                                 -8°
+
+
+
+
+ -9°                                                                                                                                                                 -9°
+
+
+
+
+-10°                                                                                                                                                                 -10°
+
+
+
+
+-11°                                                                                                                                                                 -11°
+
+
+
+
+   143°                  144°                  145°                  146°                   147°                  148°                  149°                  150°
+
+Figure 8. Structural map of the rifted domain in the study area. Underlying bathymetric data are from Daniell (2008) and Beaman (2010). Gravimetric data are derived
+from the used Bouguer anomaly database. Only main basins are named (names are derived from local ethnicities languages). Abbreviations: EPaR: East Pandora
+Ridge, GKB: Grass Koiari Basin, HB: Humene Basin, HuB: Hula Basin, KB: Kutubu Basin, KeB: Keapara Basin, KoB: Koitabu Basin, KwB: Kwikila Basin, MaB: Mailu Basin, MB:
+Motu Basin, MoB Moresby Basin, PaB: Pandora Basin, PaR: Pandora Ridge, PR: Pasca Ridge, and UB: Uare Basin.
+
+
+                                          therefore attributed to the R1 rifting event. The second direction extends around N160 and corresponds to
+                                          the general orientation of the western Eastern and Aure fold belts. It formed during the R2 rifting event
+                                          and was slightly reactivated during the Cretaceous. The third structural trend corresponds to a N100 to
+                                          N110 direction, which is the general orientation of the continent-ocean transition the Coral Sea. This R3
+                                          faulting is much more prominent in the distal part of the margin.
+                                          Therefore, the overall geometry of the northern Coral Sea margin results from three groups of faults. These
+                                          express both the timing and the location of extension. In other words, three rifting episodes overlap in the
+                                          region and they all seem to have a speciﬁc expression resulting from the fault timing and orientation.
+
+
+                                          4. Synrift to Postrift Transition and Oceanic Spreading of the Coral Sea
+                                          Seismic interpretation has shown that the geometry of the three rifting events R1 to R3 is different, namely in
+                                          terms of basinal rotation. This is likely to reﬂect the position along a margin and, in particular, to the
+                                          continent-ocean transition. The characterization of the synrift to postrift transition is never an easy matter
+                                          in polyphased rift basins, namely because extension is not necessarily followed by a clear breakup unconfor-
+                                          mity but rather by a set of unconformities and sometimes extensional faulting (Bulois, 2016). Herein, we use
+                                          detailed seismic lines to better identify the rifting event(s) responsible of the Coral Sea Basin sensu stricto,
+                                          within this overlapping rifting framework.
+                                          To do so, we have investigated the deep oceanic domain using seismic, gravimetric and magnetic data. In
+                                          particular, the easternmost seismic line of our database imaged the oceanic crust that is well dated from
+                                          IODP drillings and magnetic anomalies (Figure 9) (e.g., Gaina et al., 1999; Weissel & Watts, 1979). These
+                                          anomalies were used in turn to date sediments above and underneath the breakup unconformity. We also
+
+
+BULOIS ET AL.                                                POLYPHASED RIFTING AND REACTIVATION                                                                      15
+                                Tectonics                                                                                          10.1002/2017TC004783
+
+
+
+
+Figure 9. Seismic data showing the continent-ocean transition (COT) in the deep Coral Sea Basin. (a) General seismic line showing the two rift settings (Jurassic and
+Cretaceous) in the Coral Sea Basin and their relationships with the oceanic crust and overlying postrift deposits. Note the relatively narrow rifted margin of Late
+Cretaceous age that is believed to represent the hyperstreched domain prior the early Cenozoic seaﬂoor spreading. Note also the presence of basement high that
+separates the Late Cretaceous rifted margin from the Jurassic rifted margin. (b) Zoom on the continent-ocean transition, showing the Cretaceous rotated fault-blocks
+and the Coral Sea oceanic crust characterized by a prominent reﬂector and downlaps of postrift sediments. Seismic line location is displayed in Figure 2.
+Noninterpreted seismic line may be found in Figure S5.
+
+
+                                         have used academic magnetic data from the EMAG2 dataset (Maus et al., 2009) and anomaly picks supplied
+                                         by Gaina et al. (1999) to better detail the ocean-continent transition and the associated structural trends.
+                                         Free-air gravimetric anomalies from the DTU10 ocean wide gravity ﬁeld (Andersen, 2010; Andersen et al.,
+                                         2009) have also been ﬁltered to separate long and short waves and map more accurately the transform
+                                         faults in the oceanic domain.
+
+
+                                         4.1. Seismic Deﬁnition of Synrift and Postrift Packages in the Deep Coral Sea Basin
+                                         Figure 9 displays the geometry of rifted basins across the southern Papuan Peninsula to the oceanic crust and
+                                         enables to better deﬁne the breakup unconformity and, in turn, of synrift sediments. To do so, we have
+                                         derived the age of postrift sediments from the location of magnetic anomalies Chron26 and Chron25, both
+                                         of Thanetian age (~58.5 and 56.5 Myr, respectively) (Figure 9a), while anomaly Chron 24 (~53.4 Myr, Ypresian)
+                                         occurs much farther south. Therefore, the age of the postrift sediments is in between Thanetian and Ypresian.
+                                         This is in accordance with the ﬁrst Cenozoic sediments (Eocene) recovered in Well Dibiri-1A (Figure 4).
+                                         Onlapping, continuous, medium- to strong-amplitude reﬂectors characterize pinching-out, ﬁne-bedded clas-
+                                         tic sediment contained with strongly tilted fault-blocks (Figure 9a). Such a geometry implies that these rifted
+                                         sediments are therefore of Late Cretaceous age and represent the synrift setting responsible of the Coral Sea
+                                         opening. We therefore correlate them to Formation III. Internal seismic patterns (Table 1) imply a deepening
+                                         marine synrift deposition with sourced sediments derived from the nearby Papuan Plateau.
+
+
+BULOIS ET AL.                                               POLYPHASED RIFTING AND REACTIVATION                                                                   16
+                                 Tectonics                                                                                             10.1002/2017TC004783
+
+
+
+
+Figure 10. Magnetic and gravimetric data set in the deep Coral Sea Basin. (a) Magnetic data showing the differences in between the oceanic (smooth) and conti-
+nental crusts in the deep Coral Sea Basin and the related position of the continent-ocean transition (COT, heavy dashed line). Magnetic anomalies are derived
+from Gaina et al. (1999); they are particularly useful for mapping transform zones and ridge segments. Note the presence of the strong anomaly at the COT, which
+correlates with the structural high displayed in Figure 9. (b) Filtered free air gravimetric data showing the signature of the continental and oceanic crusts in the study
+area. (c) Magnetic proﬁles showing the correlation of magnetic anomalies and the three main elements in the deep Coral Sea Basin. The position of magnetic
+proﬁles is displayed in Figure 10a. Abbreviations: LP: Louisiade Plateau, OB: Osprey Basin, PP: Papuan Plateau, QP for Queensland Plateau, QT for Queensland Trough,
+SSB for Solomon Sea Basin, and WB: Woodlark Basin.
+
+                                           In this region, fault-blocks show growth along reactivated Jurassic counterregional faults (Figure 9b), which
+                                           are different (but not incompatible) with previously proposed basinward dipping faults in the region (Ott &
+                                           Mann, 2015). This geometry differs from the other poorly-tilted Cretaceous fault-blocks observed westward
+                                           (Figure 7). Therefore, we suspect two different rift systems that spatially overlap in this region.
+
+
+                                           4.2. Events Associated With the Synrift to Postrift Transition in the Deep Coral Sea Basin
+                                           The transition of synrift Late Cretaceous sediments with overlying Palaeocene to Oligocene sediments
+                                           (breakup unconformity) is dated at 61.8 Myr from magnetic anomalies (Figure 10). Nonetheless, it is possi-
+                                           ble that the ﬁrst postrift sequences deposited late after the ﬁrst seaﬂoor spreading event. Additional
+
+
+BULOIS ET AL.                                                 POLYPHASED RIFTING AND REACTIVATION                                                                      17
+                Tectonics                                                                             10.1002/2017TC004783
+
+
+
+                    localized normal faults within these postbreakup packages seem also associated with unconformities
+                    or disconformities.
+                    The top of the thickening sequences is characterized by a strong amplitude reﬂector that can be mapped
+                    landward from a series of more or less well-pronounced onlapping reﬂectors and is correlatable to the
+                    Eocene-Miocene unconformity observed in Well Dibiri 1A (Figure 4). It appears therefore likely that the ﬁrst
+                    postrift sediments (i.e., post-Ypresian) corresponds to a transitional stage and that the “true” postrift succes-
+                    sion actually occurred from the Miocene onward.
+                    The age of this unconformity conﬁrms the analysis of Ott and Mann (2015) who considered a ﬁrst postrift sub-
+                    sidence setting during the Eocene, followed by a second deepening phase during the Oligocene to early
+                    Miocene. Burns et al. (1973) also proposed a clear postrift deepening of the Coral Sea during the early
+                    Middle Miocene, based on ODP 210 cores that tested deep-sea clays overlying unconformably ﬁne-grained
+                    silicastics and shales. Their set of unconformities implies that postrift deepening was not continuous. This
+                    may be due to sea level ﬂuctuations or fault reactivation during the transitional setting, possibly associated
+                    with plate reorganization.
+
+                    4.3. Delimitation and Trends of the Oceanic Crust
+                    Magnetic data from the EMAG2 mosaic show a strong character contrast between the oceanic crust (smooth
+                    and regular) and continental plateaus (rough) (Figure 10a). The boundary between both crustal domains is
+                    marked by two strong anomalies of more or less symmetrical but anticorrelative values. Correlation with seis-
+                    mic lines (Figure 9) shows that the northern anomaly corresponds to a structural high composed of basement
+                    rocks at the shoulder of the Upper Cretaceous rift system. Thus, both anomalies delineate the Papuan and
+                    Queensland plateaus of continental nature. The continent-ocean transition is also conﬁrmed by gravity data
+                    from roughness variations (Figure 10b).
+                    In the oceanic domain, magnetic data show a N110 fabric that runs parallel to the oceanic ridge system. It
+                    is offset by a series of structures which the direction markedly varies from N45 to the east (anomalies 27 to
+                    25) to a N10 orientation to the west (absence of anomaly 27) (Figure 10a). Such a variation is more poorly
+                    constrained on gravity data (Figure 10b). This variation may correspond to a change in the spreading
+                    propagation around the Ypresian (anomaly 24) controlled by the onset of the regional compression
+                    (Bulois, 2016).
+                    The accurate mapping of the continent-ocean transition enables to show that the strongest fault-block rota-
+                    tion is located along an area of about 100 km wide and 250 km long. This follows the strong anomaly marking
+                    the zone of hyperstretched continental crust that led to the Coral Sea Basin seaﬂoor spreading (Figure 8). In
+                    that context, the Papuan Plateau somehow acts as a buttress for the propagation of the Coral Sea toward
+                    the north.
+
+
+                    5. Discussion
+                    5.1. Integration of the Coral Sea Rift Megasequences With Regional Geology
+                    Our seismic analysis has shown three distinct extensional phases in the Coral Sea region. They are all respon-
+                    sible of speciﬁc regional rift-related megasequences deposition (referenced as Formation I to Formation III).
+                    However, their signiﬁcance may differ from previous regional interpretations. For instance, Ott and Mann
+                    (2015) did not analyze Jurassic sediments in the study area and synrift sediments were only related to the
+                    Late Cretaceous-Palaeocene extensional event of the Coral Sea. In contrast, Swift (2012) underestimated
+                    postrift sedimentary thickness, resulting in thick synrift sequences deposited in overlapping poorly dated rift
+                    basins. These geometry and age differences most likely result from the data coverage and resolution; also, we
+                    correlate herein offshore and onshore stratigraphic information to better delimitate the spatial extent of
+                    these three identiﬁed extensional settings R1, R2, and R3 at the scale of the northern Australian margin
+                    (Figure 11).
+                    The Triassic rift setting R1 is limited eastward to the Gulf of Papua in the Coral Sea (Formation I, Figure 11).
+                    Unconformities (BR1 in the Kutubu Basin) and correlative disconformities in other places (Figure 5) bound var-
+                    ious correlatable clastic sequences (e.g., Jimi Formation in the Aure Fold Belt, Bain et al., 1975; Home et al.,
+                    1990, Tipuma Formation in the Lengguru and Central Papuan fold and thrust belts, Fraser et al., 1993;
+
+
+BULOIS ET AL.                        POLYPHASED RIFTING AND REACTIVATION                                                          18
+                                Tectonics                                                                                            10.1002/2017TC004783
+
+
+
+
+Figure 11. Permian-Actual synthetic stratigraphic column along strike the North Australian margin. Figure is adapted from Bulois (2016). Stratigraphic columns show
+the overall sedimentary intervals encountered in various key basins displayed in Figure 12. Note the presence of the three rift episodes R1 to R3 and their relative
+postrift settings (P) which together undersign extensional megacycles interspaced by periods of basin inversion or tectonic quiescence. The timing of the
+margin rifting is similar on the NW Shelf and Papuan New Guinea from the Late Permian to the Cretaceous and one can assume that there was a connexion between
+the basins nowadays jammed in the Papuan fold and thrust belts. Stratigraphic information are summarized from many sources among which (1) Geoscience
+Australia (2011) and Ahmad and Munson (2013a, 2013b) for the Bonaparte and Arafura regions; (2) Bailly (2009), Bailly et al. (2009), and Cloos et al. (2005) for the
+Lengurru and central Papuan region; (3) Home et al. (1990), Hill and Hall (2002), Jablonski et al. (2006), and Craig and Warvakai (2009) for the Aure Fold Belt and the
+Papuan Basin; (4) Dow et al. (1986), Struckmeyer (1990), Jablonski et al. (2006), Hill and Hall (2002), Corbet (2005), De Smet et al. (1998), and Sheppard and Cranﬁeld
+(2012) for the Northern Papuan Peninsula and Coral Sea Basin; and (5) Symonds et al. (1984, 1996) and Struckmeyer et al. (1994) for the Queensland Trough.
+Abbreviations: AB: Arafura Basin, BB: Bonaparte Basin, CPFTB: Central Papuan fold and thrust belt, CSB: Coral Sea Basin, LFTB: Lengurru fold and thrust belt, NPP:
+Northern Papuan Peninsula, QT: Queensland Trough, and WPB: Western Papuan Basin.
+
+
+                                          Gunawan et al., 2012, Cape Londondery Formation and Malita Formation along the NW Shelf, Ahmad &
+                                          Munson, 2013a, 2013b). These are grouped into a regional synrift megasequence, called Megasequence
+                                          EM1, which the deﬁnition is broadly equivalent to the Gondwana Synrift Megasequence A of Home et al.
+                                          (1990) or the Tipuma Formation of Visser and Hermes (1962) and Pieters et al. (1983). Megasequence EM1 wit-
+                                          nesses of an early stage of graben formation throughout the region.
+                                          Subsequent rifting episode R2 affected the entire northern Australian margin during the Jurassic and con-
+                                          trolled the deposition of Megasequence EM2 (Figure 11). The rifting onset is characterized by a regional basal
+                                          unconformity (BR2). It is situated at similar stratigraphic level of surfaces in Australia that were previously
+                                          interpreted as the result of the Bowen-Fitzroy Orogeny in Australia (Jablonski & Saitta, 2004; Norwick,
+                                          2003) or of signiﬁcant coeval volcanism (Pieters et al., 1983; Pigram & Panggabean, 1984). However, evi-
+                                          dence of Triassic compression and volcanics are unclear in the Papuan region and extension may actually
+                                          correspond to a backarc system. Subsequent sediments deposited in rifted basins observed all over the mar-
+                                          gin despite Cenozoic compression. For instance, the Plover Formation deposited from the earliest Lower
+                                          Jurassic along the North West Shelf (Gunn, 1988; Pattillo & Nicholls, 1990; O’Brien et al., 1993; Baillie et al.,
+
+
+BULOIS ET AL.                                                POLYPHASED RIFTING AND REACTIVATION                                                                    19
+                Tectonics                                                                             10.1002/2017TC004783
+
+
+
+                    1994; Struckmeyer et al., 1998; Tovaglieri & George, 2014) and extends in West Papua into the squeezed
+                    Lower to Middle Jurassic basins containing the Lower Kopai, Bol Arkose and Magobu coarse clastic
+                    formations (Bailly et al., 2009; Bain et al., 1975; Pigram et al., 1982). These are correlatable to Formation II
+                    in the Coral Sea Basin, and we interpret them farther east with the lowermost part of the marine protolith
+                    of the Owen Stanley Metamorphics (individualized herein as the Lower Owen Stanley Formation and now
+                    thrusted under the Jurassic Papuan Ultramaﬁcs, Glaessner, 1949; Pieters, 1978; Davies, 1980; Davies &
+                    Jaques, 1984). Consequently, the Papuan Ultramaﬁcs and the subsequent Middle Owen Stanley
+                    Metamorphics mark the onset of regional postrift conditions in the study area. These are characterized
+                    anywhere else by thick mudstone deposits (e.g., Imburu, Barikewa, Flamingo, Frigate) and localized
+                    sandstone intervals (e.g., Koi-Iange, Hedinia-Iagifu, Elang) (Figure 11). Corresponding Megasequence EM3 is
+                    therefore broadly equivalent to the Gondwana Synrift Megasequence B of Home et al. (1990).
+
+                    The ﬁnal rifting event R3, restricted to the eastern part of the study area, controlled the deposition of a third
+                    megasequence (Megasequence EM3) on top of an erosional surface (BR3) (Figure 11). It is marked at the base
+                    by typical lowermost Cretaceous sandstones and mudstones, known onshore as the Woniwogi-Piniya and the
+                    Toro-Ieru intervals (Granath & Hermeston, 1993; Hirst & Price, 1996; Pieters et al., 1983; Pigram et al., 1982).
+                    These are stratigraphically correlative to Formation III in the Coral Sea Basin (indirectly dated from magnetic
+                    picks, Figure 8) and to the Upper Owen Stanley Formation (dated as Middle to Upper Cretaceousby Glaessner,
+                    1949). Coeval rifted sediments are also reported in the Queensland and Townville basins (e.g., Struckmeyer
+                    et al., 1994; Symonds & Davies, 1988; Symonds et al., 1984). Megasequence EM3 is broadly similar to the
+                    Coral Sea Syn-Rift Megasequence of Home et al. (1990), although lateral extent and dating differ in between
+                    the two interpretations.
+                    It therefore appears that there is a vertical stack of extensional megacycles marked by characteristic exten-
+                    sional megasequences (EM1 to EM3) of speciﬁc temporal and geographical deﬁnitions (Figure 11). Each
+                    extensional megasequence is typically composed of synrift ﬁning-upward rifted clastics bounded by uncon-
+                    formities (“R” nomenclature) and terminate by deep marine, postrift facies that are sometimes associated
+                    with seaﬂoor spreading (“P” nomenclature). Unconformities may switch from postrift to synrift natures in
+                    such a context of overlapping extension, implying a strong control on strata preservation throughout.
+
+                    5.2. Extension and Fault Reactivation in the Coral Sea Region
+                    The overtime repetition of the three extensional megacycles, R1, R2 and R3, implies fault reactivation within
+                    the basement or from previously formed rift systems. Herein, we propose a simple stretching model of the
+                    northern Australian margin in which preexisting continental structures have a decreasing inﬂuence
+                    through time.
+                    5.2.1. Old Structural Trends and Early Development of Rift Basins (Triassic)
+                    According to our seismic interpretation, Triassic sediments are most likely conﬁned to poorly tilted graben
+                    systems containing coarse clastics. These basins mark the eastern boundary of an early rift system that pro-
+                    pagated through the NW Shelf and West Papua and stopped in eastern Papua New Guinea along the align-
+                    ment composed of the Kubor Anticline to the north and the Pasca-Pandora-East Pandora to the south
+                    (Figure 12). In the study area, the rifted system formed alongside NS trending Permian granites (e.g., Coen
+                    and Georgetown inliers, Peninsula-Daru Ridge) and older terranes belonging to the New England Belt (e.g.,
+                    Glen, 2005; Norwick, 2003).
+                    This easternmost border roughly aligns along the NS trending Tasman Line that controlled the polyphased
+                    tectonics of the Tasmanides Orogen across Australia since the Neoproterozoic (Direen & Crawford, 2003;
+                    Powell, 1996; Schreibner, 1974). The prolongation of the New England Orogen from the Queensland
+                    Peninsula to Papua is enigmatic as much of deep geophysical data do not enable to trustfully image related
+                    structure underneath the overprinted Papuan fold and thrust belts (Hill & Hall, 2002). Herein, we propose that
+                    the structure may extend in the Gulf of Papua through the Palaeozoic ridges (i.e., Pasca, Pandora and East
+                    Pandora). Another alternative is a series of NNE-SSW transform faults that controlled the rift axis and among
+                    which the Bosavi Lineament is probably the most characteristic feature (Figure 12) (e.g., Davies, 1990, 1991;
+                    Smith, 1990; Hill et al., 2004, 2010; White et al., 2014). These are associated with characteristic Neogene, ada-
+                    kitic volcanoes and older mantle-derived intrusives. Therefore, these crustal structures are likely to mark a
+                    change in the strength of the lithosphere behavior, inferring a strong basement inﬂuence to the west (i.e.,
+
+
+BULOIS ET AL.                        POLYPHASED RIFTING AND REACTIVATION                                                          20
+                                Tectonics                                                                                             10.1002/2017TC004783
+
+
+
+
+Figure 12. Rifting evolution of the Coral Sea region since the Permian to the early Tertiary. (a) Nonpalinspastic tectonic evolution showing the overprint of the three
+extensional megacycles along the northern margin of Australia. Numbers refer to stratigraphic columns displayed in Figure 11. (b) Reconstruction of the Coral Sea
+region prior Cenozoic compression, based on deep geophysical data of Ewing et al. (1970). The line shows the relationships between the various rifted domains.
+Section location is indicated in Figure 12a. Abbreviations: AB: Arafura Basin, BB: Bonaparte Basin, BH: Bird’s head, BL: Bosavi Lineament, BT: Bligh Trough, CI: Coen
+Inlier, CSB: Coral Sea Basin, EP: Eastern Plateau, EPaR: East Pandora Ridge, GI: Georgetown Inlier, KI: Kubor Inlier, LP: Louisiade Plateau, NF: Nubura fault, OB: Osprey
+Basin, PaR: Pandora Ridge, PDR: Peninsula-Daru Ridge, PR: Pasca Ridge, QT: Queensland Trough, QP: Queensland Plateau, and ToB: Townsville Basin.
+
+
+                                          stable Precambrian craton of Australia) which tends to decrease eastward with the presence of Palaeozoic
+                                          metasediments intruded by Early to Middle Triassic granites (e.g., Crowhurst et al., 1996; Page, 1976;
+                                          Rogerson, Hilyard, Francis, et al., 1987; van Wyck & Williams, 2002).
+                                          In our model, the small lineaments (e.g., Bosavi) characterizes transfer zones ahead of the Australian craton,
+                                          while the ridges system represents a limit of unrifted terranes in prolongation of the Tasman Line. The Triassic
+                                          extensional megacycle R1 was therefore controlled by basement structures (Figure 13a). However, it is still
+                                          remains unclear whether extension initiated from an orogenic collapse or from global tectonic forces
+
+
+BULOIS ET AL.                                                 POLYPHASED RIFTING AND REACTIVATION                                                                     21
+                               Tectonics                                                                                         10.1002/2017TC004783
+
+
+
+
+Figure 13. Evolutionary sketch of the overprint of extensional megacycles. (a) Rifting evolution along the Tasmanides, implying reactivation along north trending
+structures such as the Pasca/Pandora Ridges system and the Tasmanides faults. (b) Opening of the Owen Stanley Oceanic Basin as a backarc setting, reactivating
+Triassic structures and expending further as a pulling of a northern subduction zone. (c) Opening of the Coral Sea as a northward propagation of the Tasman Sea,
+reactivating the southern margin of Owen Stanley Oceanic Basin. Overall, the opening of the Owen Stanley Oceanic Basin is thought to take place along the northern
+Australian continent as a response of Pangaea breakup. This was ﬁrst driven by the Late Palaeozoic geology of the New England Orogen (i.e., Tasmanides thicken
+crust) and then deformation progressively migrated oceanward. The Coral Sea Basin is seen as the continuation of the Tasman Sea. Note how it stopped when
+abutting the transversal Triassic rift system. Details of the basin shapes may be found in Norwick (2003). Abbreviations: CSB: Coral Sea Basin, EPP: Eastern/Papuan
+Plateaus, OSOB: Owen Stanley Oceanic Basin, PAC: Paciﬁc Ocean, PP: Papuan Plateau, PPR, Pasca/Pandora Ridges, QP for Queensland Plateau, QT for Queensland
+Trough, and TS: Tasman Sea.
+
+                                         pulling the Australian and Gondwana continental masses apart. Yet the presence of conglomerates and very
+                                         coarse clastics (Figure 4) suggests the development of molassic basins at the time.
+                                         5.2.2. Full Basin Development During Overprinted Extension (Jurassic-Lower Cretaceous)
+                                         The Lower to Middle Jurassic rift system R2, recognized over much of the northern Australian margin
+                                         (Figure 11), has controlled highly subsiding grabens by reactivating Triassic faults west of the Pasca-
+                                         Pandora ridges and forming new basins in the Coral Sea (Figures 5 and 7). It resulted in crustal boudins
+                                         along what we interpret as the southern margin of an oceanic basin now overthrusted in the Papuan fold
+                                         and thrust belts (Figure 12). The so-called Owen Stanley Oceanic Basin contained distal marine sediments
+                                         (Lower and Middle Owen Stanley Metamorphics) associated with the ophiolite of the Papuan Ultramaﬁc
+                                         Formation (Figure 11). This hypothesis is consistent with dating realized on the gabbroic zone and basalts
+                                         of the ophiolite (respectively, 147–150 Ma and 116 Ma) (Lus et al., 2004). The age of sediments, although
+                                         more debatable due to Cenozoic barrovian metamorphism (Dow et al., 1988; Pieters, 1978), is necessarily
+                                         slightly older than the ophiolite emplacement dated at 66–56 Ma from granulites hornblendes at the sole
+                                         (Lus et al., 2004). Various other authors proposed a Lower to Middle Cretaceous age for the Owen Stanley
+                                         units protolith and for the Papuan Ultramaﬁcs before emplacement (Webb et al., 2014; Zirakparvar et al.,
+                                         2012), which is consistent with our hypothesis. In our model, this implies that the Jurassic rifted strata and
+                                         their overlying Cretaceous sediments deposited into the Owen Stanley Oceanic Basin rather than the
+                                         Coral Sea, so that much of the Coral Sea actually remains intact from subsequent Cenozoic compression.
+                                         The presence of a large basin north of the Coral Sea has been earlier proposed by several authors but the geo-
+                                         metries and extensional propagation are variable. Hamilton (1979) assumed a Middle Jurassic seaﬂoor
+                                         spreading along the entire margin, resulting in a large oceanic basin linking all Papuan ophiolites together.
+                                         In contrast, Pigram and Panggabean (1981, 1984) and Pigram and Symonds (1991) suggested diachronous
+                                         seaﬂoor spreading with southwestward propagation from the Early Jurassic and a ﬁnal breakup between
+                                         Australia and Gondwana at Bajocian times. Other studies proposed the presence of a separated, aborted con-
+                                         tinental rift (e.g., Carman, 1990; Home et al., 1990; Boult, 1997; Swift, 2012). Our model considers that the
+                                         Owen Stanley Oceanic Basin actually correlates with several other suprasubduction ophiolites and their
+                                         related sedimentary covers (e.g., Marum Ophiolite and April Ultramaﬁcs) (Davies & Hutchison, 1982; Davies
+                                         & Jaques, 1984; Jaques, 1981). This is conﬁrmed by geochemical analysis showing a similar suprasubduction
+                                         context for most Papuan ophiolites (e.g., Monnier et al., 2000; Pubellier et al., 2004; Worthing & Crawford,
+                                         1996). Although some ages may appear controversial due to Cenozoic tectonism (e.g., Hill & Raza, 1999;
+                                         Jaques & Robinson, 1977; Jaques et al., 1978; Page, 1976), François et al. (2016) showed that the dating
+
+
+BULOIS ET AL.                                               POLYPHASED RIFTING AND REACTIVATION                                                                 22
+                Tectonics                                                                                10.1002/2017TC004783
+
+
+
+                    bias corresponds to the ophiolites emplacement rather than a particularly long-lasting spreading. Herein, we
+                    propose a southward dipping subduction zone north of Papua (Figure 12), which may connect southwest-
+                    ward to the New Caledonian ophiolites (e.g., Cluzel et al., 2001; Matthews et al., 2012; Whattam et al.,
+                    2008). To the west (i.e., from the Bird’s Head to the NW Shelf), rifting also took place from the Late Permian
+                    to the Cretaceous but does not seem to be directly related to a backarc extension (Bradshaw et al., 1994;
+                    Norwick, 2003). Yet the extension could possibly be a response to a northwest subduction beneath the
+                    Sunda Plate (subduction of the Ceno-Tethys) (Metcalfe, 1998).
+                    Thus, the extensional megacycle R2 marks a further stage in the breakup of Pangaea intimately linked to a
+                    backarc setting along the northern Papua margin. The resulting opening of the Owen Stanley Oceanic
+                    Basin was facilitated by an already thinned Triassic margin, implying an “in-sequence” Jurassic extension
+                    (Figure 13b). Thus, the present-day northern margin of the Coral Sea Basin corresponds to the southern mar-
+                    gin of the Owen Stanley Oceanic Basin, so that the various Papuan ophiolites formed ahead of the Coral Sea.
+                    5.2.3. Crosscutting Opening of the Coral Sea Basin
+                    The ﬁnal rifting stage R3 (Late Cretaceous) formed narrow (>100 km) fault-blocks containing Extensional
+                    Megasequence EM3 (Figures 11 and 12). These basins are part of a crosscutting extensional system, younger
+                    than the northern Owen Stanley Oceanic Basin, resulting in the Coral Sea seaﬂoor spreading during the
+                    Danian-Ypressian period (Chron27 to Chron24) (Figure 10).
+                    In our model, we relate the opening of the Coral Sea to the opening of the Tasman Sea between Chron33 and
+                    Chron24 (80 and 52 Myr, respectively) (Hayes & Ringis, 1973). The tectonic history of the Tasman Sea cannot
+                    be simply described as a rift propagator that cut through the Australian craton but rather as several blocks or
+                    microplates stretched apart (e.g., Weissel & Hayes, 1977; Stock & Molnar, 1982) accordingly to the southwest
+                    Paciﬁc subduction history (e.g., Collot et al., 2009; Gaina et al., 1998; Seton, Flament et al., 2012; Seton, Müller,
+                    et al., 2012). We consider that the transition between both oceanic domains is controlled by a NE-SW trans-
+                    form system (Figure 12), visible on gravity data through the Marion and Kenn-Mellish plateaus and which
+                    rotated orthogonally the Tasman Sea hyperextension into the already-thinned Coral Sea region. Such
+                    assumption broadly conﬁrms the description of a triple junction between the Queensland and Louisiade
+                    Plateaus and the Mellish Rise (Gaina et al., 1999) and also explains the apparent rejuvenation of the
+                    Eastern and Papuan Plateaus north of the Coral Sea (Figure 7).
+                    This model also applies an important role to a series of transverse preexisting structures west of the Coral Sea
+                    Basin (e.g., Tasman Line and Pasca-Pandora-East Pandora ridges) that progressively attenuated the extension
+                    (Figure 12). This partially conﬁrms Weissel & Watts, 1979 in which the Coral Sea spreading stopped along a
+                    sinistral strike-slip system from Chron 26 (58.5 Myr) and did not propagate westward along the Cretaceous
+                    rift system. This interruption may be due to a regional change of the plate tectonic setting.
+                    Therefore, this late extensional megacycle cut through prior extensional settings (Figure 13b). This out-of-
+                    sequence scenario is consistent with the global transform faults orientation and the regional plate dynamics
+                    models which show a continuation of the Coral Sea with the Tasman Sea (e.g., Gaina et al., 1998, 2004;
+                    Matthews et al., 2012; Seton, Flament, et al., 2012; Weissel & Watts, 1979). Also, the orthogonal pattern
+                    between both oceanic domains may be due a dynamic change of the Paciﬁc subduction eastward. At a regio-
+                    nal scale, the Coral Sea should be therefore regarded as a propagator in prolongation of the Tasman Sea
+                    rather than an oceanic domain that has partially subducted.
+
+                    6. Conclusion
+                    The opening of the Coral Sea region shows three discontinuous extensional megacycles which controlled the
+                    deposition of speciﬁc megasequences separated by unconformities of local or regional extents. Each exten-
+                    sional megacycle is deﬁned spatially and temporarily such as:
+                    1. Extensional megacycle R1 (Triassic), developed on the northern edge of the New England Orogen by reac-
+                       tivating old structural trends related to the Tasman Line (Figure 13a). Evidence of Triassic sediments is
+                       restricted to the west of the study area (ridges) and extends onshore in continuation of the synrift setting
+                       along the NW Shelf. Herein, we propose that old orogenic structures locate the propagation of the
+                       extension.
+                    2. Extensional megacycle R2 (Jurassic to Lower Cretaceous) marks the continuation of a wide rift setting
+                       along the northern Australian margin (Figure 13b). It ﬁrst formed on top of the Triassic rifted basins and
+
+
+BULOIS ET AL.                         POLYPHASED RIFTING AND REACTIVATION                                                             23
+                                     Tectonics                                                                                                         10.1002/2017TC004783
+
+
+
+                                               then extended in a number of newly formed basins that are likely to connect to Jurassic-Lower
+                                               Cretaceous; marine sediments and ophiolites now shorten in the Papuan fold and thrust belts system
+                                               to form the so-called Owen Stanley Oceanic Basin. This oceanic domain is thought to connect with other
+                                               Papuan ophiolites westward, which evolved in a suprasubduction domain.
+                                            3. Extensional megacycle R3 (Upper Cretaceous to lowermost Eocene) is restricted to the northern margin of
+                                               the deep Coral Sea and formed EW trending, 100 km narrow-rifted basins that bound the oceanic crust
+                                               (Figure 13c). It had a minor impact on preexisting rifted basins (Triassic and Jurassic-Lower Cretaceous),
+                                               suggesting a crosscutting extensional system with different boundary forces. Herein, we show that the
+                                               Coral Sea Basin is the northward continuation of the Tasman Sea and that the oceanic spreading was con-
+                                               trolled by the presence of major crustal discontinuities such as the Tasman Line to the west or transform
+                                               fault systems along the southeastern margin of the Coral Sea Basin.
+                                            This spatial overlap implies to consider the reactivation of preexisting features that relate to the regional var-
+                                            iations in the geodynamical settings and, as a result, to a succession of boundary forces that may evolve with
+                                            time (Figure 13). The early extension phase R1, guided by cratonic heterogeneities (basement highs), was, in
+                                            turn, reactivated during the second rifting phase R2 to control the crustal boudinage oceanward (i.e., in-
+                                            sequence deformation). The late rift setting R3 penetrated the previous rifted areas and stopped along trans-
+                                            versal discontinuities (i.e., out-of-sequence deformation). Such an evolution suggests a progressive decrease
+                                            of the continental crust inﬂuences that may illustrate the polyphased denudation processes of an old stable
+                                            continental mass. These highlight the changing regional geodynamical framework through Geological Times
+                                            with continental rifting sensu stricto (i.e., Gondwana breakup) and backarc extension (i.e., Paciﬁc subduction).
+                                            Because the extension of the margin is driven by the boundary forces imposed the Paciﬁc subduction, one
+                                            may consider that these speciﬁc extensional periods relate in turn directly to the variation of the dynamics
+                                            of the subduction.
+
+
+Acknowledgments                             References
+The study was funded by Ecole Normale
+Supérieure (Paris, France) through a        Ahmad, M., & Munson, T. J. (2013a). Chapter 36: Bonaparte Basin. In M. Ahmad & T. J. Munson (Eds.), Geology and mineral resources of the
+research contract with Total S.A., La          Northern Territory, Special Publication 5 (pp. 1–33). Northern Territory Geological Survey.
+Défense (Paris). Permission to publish      Ahmad, M., & Munson, T. J. (2013b). Chapter 35: Arafura Basin. In M. Ahmad & T. J. Munson (Eds.), Geology and mineral resources of the
+seismic lines has been kindly provided         Northern Territory, Special Publication 5 (pp. 1–17). Northern Territory Geological Survey.
+courtesy of Searcher Seismic. High-         Andersen, O. B. (2010). The DTU10 Gravity ﬁeld and Mean sea surface. Second international symposium of the gravity ﬁeld of the Earth (IGFS2)
+resolution bathymetric data displayed          (pp. 20–22). Fairbanks, AK.
+on Figure 8 have been accessed thanks       Andersen, O. B., Knuden, P., & Berry, P. A. M. (2009). The DNSC08GRA global marine gravity ﬁeld from double retracked satellite altimetry.
+to Robin J. Beaman from James Cook             Journal of Geodesy, 85(3), 191–199.
+University and raw magnetic picks data      Audley-Charles, M. G. (1991). Tectonics of the New Guinea area. Annual Review of Earth and Planetary Sciences, 19(1), 17–41. https://doi.org/
+in Figure 10 from Carmen Gaina from            10.1146/annurev.ea.19.050191.000313
+University of Oslo. We also would like to   Baillie, P. W., Powell, C., Li, Z. X., & Ryall, A. M. (1994). The tectonic framework of western Australia’s Neoproterozoic to Recent sedimentary
+thank Professor Paul Mann and an               basins. In P. G. Purcell & R. R. Purcell (Eds.), The sedimentary basins of Western Australia, Proceedings of the Petroleum Exploration Society of
+anonymous reviewer for their construc-         Australia Symposium (pp. 45–62). Perth: Petroleum Exploration Society of Australia.
+tive comments over the submission.          Bailly, V. (2009). La chaîne de Lengguru: évolution et structure d’un prisme jeune dans le contexte tectonique de Papouasie occidentale. 261
+Two authors, Manuel Pubellier and              pp., Ecole Normale Supérieure, Paris.
+Nicolas Chamot-Rooke, belong to             Bailly, V., Pubellier, M., Ringenbach, J. C., de Sigoyer, J., & Sapin, F. (2009). Deformation zone “jumps” in a young convergent setting; The
+Centre National de la Recherche                Lengguru fold-and-thrust belt, New Guinea Island. Lithos, 113(1-2), 306–317. https://doi.org/10.1016/j.lithos.2009.08.013
+Scientiﬁque, France.                        Bain, J. H. C., MacKenzie, D. E., & Ryburn, R. J. (1975). In Watson Ferguson & Co. (Ed.), Geology of the Kubor Anticline, central Highlands, New
+                                               Guinea (p. 106). Canberra: Department of Minerals and Energy, Burean of Mineral Resources, Geology and Geophysics.
+                                            Baldwin, S. L., Fitzgerald, P. G., & Webb, L. E. (2012). Tectonics of the New Guinea region. The Annual Review of Earth and Planetary Sciences,
+                                               40(1), 495–520. https://doi.org/10.1146/annurev-earth-040809-152540
+                                            Beaman, R. J. (2010). 3DGBR. A high-resolution depth model for the Great Barrier Reef and Coral Sea. Marine and Tropical Sciences Research
+                                               Facility (MTSRF) Project 2.5i.1a Final Report, Marine and Tropical Sciences Research Facility, James Cook University. Retrieved from http://
+                                               www.deepreef.org/bathymetry/65-3dgbr-bathy.html
+                                            Botsford, A., Endebrock, L., & Harrington, A. (2012). Structural and stratigraphic evolution of the Gulf of Papua, Papua New Guinea: New
+                                               insights from a modern 3D seismic survey. Search and Discovery Article, American of Petroleum Geologists, APPG International
+                                               Conference and Exhibition, Singapore.
+                                            Boult, P. J. (1997). A review of the petroleum potential of Papua New Guinea with a focus on the eastern Papuan Basin and the Pale
+                                               Sandstone as a potential reservoir fairway. In A. J. Fraser, S. J. Matthews, & R. W. Murphy (Eds.), Petroleum Geology of Southeast Asia
+                                               (pp. 281–291). London: The Geological Society, Special Publication No 126.
+                                            Bouysse, P., UNESCO, & CGMW (2014). Geological map of the world at 1:35 000 000, (third revised ed.). Paris: Commission for the Geological
+                                               Map of the World.
+                                            Bradshaw, M. T., Bradshaw, J., Murray, A. P., Needham, D. J., Spencer, L., Summons, R. E., … Winn, S. (1994). Petroleum systems in West
+                                               Australian basins. In P. G. Purcell & R. R. Purcell (Eds.), The sedimentary basin of Western Australia. Proceedings of the West Australian Basins
+                                               Symposium (pp. 93–118). Perth: Petroleum Exploration Society of Australia.
+                                            Brown, C. M., Pigram, C. J., & Skwarko, S. K. (1980). Mesozoic stratigraphy and geological history of Papua New Guinea. Palaeogeography,
+                                               Palaeoclimatology, Palaeoecology, 29, 301–322.
+
+
+
+BULOIS ET AL.                                                     POLYPHASED RIFTING AND REACTIVATION                                                                                       24
+                Tectonics                                                                                                          10.1002/2017TC004783
+
+
+
+                    Bulois, C. (2016). Marges polyriftées : réactivation et conditions aux limites. Exemples de la Mer de Corail (Papouasie Nouvelle Guinée) et du
+                        Bassin de Porcupine (Irlande). 514 pp., Université de Bretagne Occidentale, Brest.
+                    Burns, R. E., & the Shipboard Scientiﬁc Party (1973). Site 210. In A. T. Davies-Ocean Drilling Program (Ed.), Initial reports of the Deep Sea Drilling
+                        Project 21, Leg 21 of the Cruises of the Drilling Vessel Glomar Challenger (Suvva, Fiji to Darwin, Australia) - Novembre 1971 to January 1972
+                        (pp. 369–440). College Station, TX: Tex A&M Univ.
+                    Carman, G. J. (1990). Occurrence and nature of Eocene strata in the eastern Papuan Basin. In G. J. Carman & Z. Carman (Eds.), Petroleum
+                        exploration in Papua New Guinea: Proceedings of the ﬁrst PNG Petroleum Convention (pp. 169–183). Port Moresby: Chamber of Mines and
+                        Petroleum.
+                    Carson, B. E., Francis, J. M., Leckie, R. M., Droxler, A. W., Dickens, G. R., Jorry, S. J., … Opdyke, B. N. (2008). Benthic foraminiferal response to sea
+                        level change in the mixed siliciclastic-carbonate system of southern Ashmore Trough (Gulf of Papua). Journal of Geophysical Research, 113,
+                        F01S20. https://doi.org/10.1029/2006JF000629
+                    Chen, G., Hill, K. C., Hoffman, N., & O’Brien, G. W. (2002). Geodynamic evolution of the Vulcan sub-basin, Timor Sea, northwest Australia:
+                        A pre-compression New Guinea analogue? Australian Journal of Earth Sciences, 49(4), 719–736. https://doi.org/10.1046/j.1440-
+                        0952.2002.00941.x
+                    Cloos, M., Sapiie, B., Quarles van Ufford, A. Q., Weiland, R. J., Warren, P. Q., & McMahon, T. P. (2005). Collisional delamination in New Guinea:
+                        The geotectonics of subducting slab breakoff. Geological Society of America Special Paper (Vol. 400, 51 pp.). Boulder: Geological Society of
+                        America.
+                    Cluzel, D., Aitchison, J. C., & Picard, C. (2001). Tectonic accretion and underplating of maﬁc terranes in the late Eocene intraoceanic fore-arc of
+                        New Caledonia (Southwest Paciﬁc): Geodynamic implications. Tectonophysics, 340(1-2), 23–59. https://doi.org/10.1016/S0040-
+                        1951(01)00148-2
+                    Cluzel, D., Maurizot, P., Collot, J., & Sevin, B. (2012). An outline of the geology of New Caledonia; from Permian-Mesozoic southeast
+                        Gondwanaland active margin to Cenozoic obduction and supergene evolution. Episodes Journal of International Geoscience, 35(1), 72–86.
+                    Collot, J., Herzer, R., Laffoy, Y., & Géli, L. (2009). Mesozoic history of the Fairway-Aotea Basin: Implications for the early stages of Gondwana
+                        fragmentation. Geochemistry, Geophysics, Geosystems, 10, Q12019. https://doi.org/10.1029/2009GC002612
+                    Corbet, G. (2005). The Geology and Mineral Potential of Papua New Guinea (154 pp.). Papua New Guinea Department of Mining.
+                    Craig, M. S., & Warvakai, K. (2009). Structure of an active foreland fold and thrust belt, Papua New Guinea. Australian Journal of Earth Sciences,
+                        56(5), 719–738. https://doi.org/10.1080/08120090903005360
+                    Crowhurst, P. V., Hill, K. C., Foster, D. A., & Bennett, A. P. (1996). Thermochronological and geochemical constraints on the tectonic evolution
+                        of northern Papua New Guinea. In R. Hall & D. Blundell (Eds.), Tectonic evolution of Southeast Asia (pp. 525–537). London: The Geological
+                        Society, Special Publication No. 106.
+                    Crowhurst, P. V., Maas, R., Hill, K. C., Foster, D. A., & Fanning, C. M. (2004). Isotopic constraints on crustal architecture and Permo-Triassic
+                        tectonics in New Guinea: Possible links with eastern Australia. Australian Journal of Earth Sciences, 51(1), 107–124. https://doi.org/10.1046/
+                        j.1400-0952.2003.01046.x
+                    Daniell, J. J. (2008). Development of a bathymetric grid for the Gulf of Papua and adjacent areas: A note describing its development. Journal
+                        of Geophysical Research, 113, F01S15.
+                    Davies, H. L. (1980). Folded thrust fault and associated metamorphics in the Suckling-Dayman massif, Papua New Guinea. American Journal
+                        of Science, 280(A), 171–191.
+                    Davies, H. L. (1990). Structure and evolution of the border region of New Guinea. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration in
+                        Papua New Guinea. Proceedings of the ﬁrst PNG Petroleum Convention (pp. 245–269). Port Moresby: Chamber of Mines and Petroleum.
+                    Davies, H. L. (1991). Tectonic setting of some mineral deposits of the New Guinea region. In R. Rogerson (Ed.), AusIMM PNG Geology,
+                        Exploration and Mining Conference (pp. 49–57). Melbourne: Australian Institute of Mining and Metallurgy.
+                    Davies, H. L. (2012). The geology of New Guinea—The cordilleran margin of the Australian continent. Episodes, 35(1), 87–102.
+                    Davies, H. L., & Hutchison, D. S. (1982). Ambunti, 1:250,000 geological map, with explanatory notes, Port Moresby.
+                    Davies, H. L., & Jaques, A. L. (1984). Emplacement of ophiolite on Papua New Guinea. In I. G. Gass, S. J. Lippard, & A. W. Shelton (Eds.),
+                        Ophiolites and oceanic lithosphere (pp. 341–349). London: The Geological Society, Special Publication No 20.
+                    De Smet, M. E. M., Sadirsan, W. S., Salt, C., Powis, C., Powis, G., Armstrong, J., … Machin, N. (1998). The petroleum geology and hydrocarbon
+                        potential of the Foreland Basin areas of Irian Jaya and Papua New Guinea, edited by Pertamina/Core Lab, 133 pp.
+                    Dewey, J. F., & Bird, J. M. (1970). Mountain belts and the new global tectonics. Journal of Geophysical Research, 75(14), 2625–2647. https://doi.
+                        org/10.1029/JB075i014p02625
+                    Direen, N. G., & Crawford, A. J. (2003). The Tasman line: Where is it, what is it, and is it Australia’s Rodinian breakup boundary? Australian
+                        Journal of Earth Sciences, 50(4), 491–502. https://doi.org/10.1046/j.1440-0952.2003.01005.x
+                    Doré, A. G., Lundin, E. R., Jensen, L. N., Birkeland, Ø., Eliassen, P. E., & Fichler, C. (1999). Principal tectonic events in the evolution of the
+                        northwest European Atlantic margin. In A. J. Fleet & S. A. R. Boldy (Eds.), Petroleum geology of northwest Europe: Proceedings of the 5th
+                        conference (pp. 41–61). London: The Geological Society. https://doi.org/10.1144/0050041
+                    Doust, H., & Noble, R. A. (2008). Petroleum systems of Indonesia: Marine and petroleum geology. Marine and Petroleum Geology, 25(2),
+                        103–129. https://doi.org/10.1016/j.marpetgeo.2007.05.007
+                    Dow, D. B. (1977). A geological synthesis of Papua New Guinea, edited by Department of National Resources (41 pp.). Canberra.
+                    Dow, D. B., Robinson, G. P., Hartono, U., & Ratman, N. (1986). 1:1 000 000 geological map of Irian Jaya, Indonesia, Bureau of Mineral Resources,
+                        Geology and Geophysics, Geological Research and Development Centre, Ministry of Mines and Energy, Camberra.
+                    Dow, D. B., Robinson, G. P., Hartono, U., & Ratman, N. (1988). Geology of Irian Jaya: Irian Jaya Geological Mapping Project, Geological Research
+                        and Development Center, Indonesia, in cooperation with the Bureau of Mineral Resources, Australia. On behalf of the Department of
+                        Mines and Energy, Indonesia and the Australian Development Assistance Bureau (298 pp.).
+                    Drummond, B. J., Collins, C. D. N., & Gibson, G. (1979). The crustal structure of the Gulf of Papua and northwest Coral Sea. BMR Journal of
+                        Australian Geology and Geophysics, 4, 341–351.
+                    Elliott, C. I., Liu, S., Willcox, J. B., & Petkovic, P. (1996). North West Shelf Project: A lineament tectonic study of the architecture of northwestern
+                        Australia (p. 90). Canberra: Australian Geological Survey Organisation, Department of Primary Industries & Energy.
+                    Ewing, M., Hawkins, L. V., & Ludwig, W. J. (1970). Crustal structure of the Coral Sea. Journal of Geophysical Research, 75(11), 1953–1962. https://
+                        doi.org/10.1029/JB075i011p01953
+                    Ewing, J. I., Houtz, R. E., & Ludwig, W. J. (1970). Sediment distribution in the Coral Sea. Journal of Geophysical Research, 75(11), 1963–1972.
+                        https://doi.org/10.1029/JB075i011p01963
+                    Francis, G. (1990). The North New Guinea Basin and associated infra-basins. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration in Papua
+                        New Guinea. Proceedings of the ﬁrst PNG Petroleum Convention (pp. 445–460). Port Moresby: Chamber of Mines and Petroleum.
+
+
+
+BULOIS ET AL.                              POLYPHASED RIFTING AND REACTIVATION                                                                                           25
+                Tectonics                                                                                                          10.1002/2017TC004783
+
+
+
+                    Francis, J. M., Daniell, J. J., Droxler, A. W., Dickens, G. R., Bentley, S. J., Peterson, L. C., … Beaufort, L. (2008). Deep water geomorphology of the
+                       mixed siliciclastic-carbonate system, Gulf of Papua. Journal of Geophysical Research, 113, F01S16. https://doi.org/10.1029/2007JF000851
+                    François, C., De Sigoyer, J., Pubellier, M., & Ringenbach, J. C. (2016). Short-lived subduction and exhumation in western Papua (Wandamen
+                       peninsula): Co-existence of HP and HT metamorphic rocks in a young geodynamic setting. Lithos, 266-267, 44–63. https://doi.org/10.1016/
+                       j.lithos.2016.09.030
+                    Franke, D., Savva, D., Pubellier, M., Meresse, F., Steuer, S., & Auxiêtre, J. (2014). The ﬁnal rifting evolution in the South China Sea. In D. Franke,
+                       C. F. Li, & D. Menier (Eds.), Evolution, structure, and sedimentary record of the South China Sea and adjacent basins, Marine and Petroleum
+                       Geology Special Publication, 58 (pp. 704–720).
+                    Fraser, T. H., Bon, J., & Samuel, L. (1993). A new dynamic Mesozoic stratigraphy for the West Irian micro-continent Indonesia and its impli-
+                       cations. In Proceedings of the 22nd Annual Convention (pp. 707–761). American Association of Petroleum Geologists and Indonesian
+                       Petroleum Association.
+                    Fyhn, M. B. W., Boldreel, L. O., & Nielsen, L. H. (2009). Geological development of the Central and South Vietnamese margin: Implications for
+                       the establishment of the South China Sea, Indochinese escape tectonics and cenozoic volcanism. Tectonophysics, 478(3-4), 184–214.
+                       https://doi.org/10.1016/j.tecto.2009.08.002
+                    Fyhn, M. B. W., Nielsen, L. H., Boldreel, L. O., Thang, L. D., Bojesen-Koefoed, J., Petersen, H. I., … Abatzis, I. (2009). Geological evolution, regional
+                       perspectives and hydrocarbon potential of the northwest Phu Khanh Basin, offshore Central Vietnam. Marine and Petroleum Geoscience,
+                       26(1), 1–24. https://doi.org/10.1016/j.marpetgeo.2007.07.014
+                    Gaina, C., & Müller, D. (2007). Cenozoic tectonics and depth/age evolution of the Indonesian gateway and associated back-arc basins. Earth-
+                       Science Reviews, 83(3-4), 177–203. https://doi.org/10.1016/j.earscirev.2007.04.004
+                    Gaina, C., Roest, W. R., Müller, R. D., & Symonds, P. A. (1998). The tectonic history of the Tasman Sea: A puzzle with thirteen piece. Journal of
+                       Geophysical Research, 103(B6), 12,413–12,433. https://doi.org/10.1029/98JB00386
+                    Gaina, C., Müller, R. D., Royer, J.-Y., & Symonds, P. A. (1999). Evolution of the Louisiade triple junction. Journal of Geophysical Research, 104(B6),
+                       12,927–12,939. https://doi.org/10.1029/1999JB900038
+                    Gaina, C., Müller, R. D., Brown, B., & Ishihara, T. (2004). Micro-continent formation around Australia. In R. Hillis & R. D. Müller (Eds.), The
+                       evolution and dynamics of the Australian Plate (pp. 399–410). Special Paper No 22, joint Geological Society of Australia and Geological
+                       Society of America.
+                    Gardner, J. V. (1970). Submarine geology of the western Coral Sea. Geological Society of America Bulletin, 81(9), 2599–2614. https://doi.org/
+                       10.1130/0016-7606(1970)81%5B2599:SGOTWC%5D2.0.CO;2
+                    Geoscience Australia (2011). Regional geology of the Bonaparte Basin. Australia 2011 offshore petroleum exploration acreage release.
+                       Retrieved from http://www.ret.gov.au/Documents/par2011/release-areas/bonaparte/documents/geologybonaparte-regional.pdf
+                    Glaessner, M. E. (1949). Mesozoic fossils from the Snake River, central New Guinea. In Memoir of the Queensland Museum (pp. 165–180).
+                       Queensland Museum.
+                    Glen, R. A. (2005). The Tasmanides of eastern Australia. In A. P. M. Vaughan, P. T. Leat, & R. J. Pankhurst (Eds.), Terrane processes at the margins
+                       of Gondwana, Geological Society, London, Special Publication (Vol. 246, pp. 23–96).
+                    Granath, J. W., & Hermeston, S. A. (1993). Relationship of the Toro Formation and the Alene Sands of Papua New Guinea to the Woniwogi
+                       Formation of Irian Jaya. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration in Papua New Guinea: Proceedings of the second PNG
+                       Petroleum Convention (pp. 201–206). Port Moresby: Chamber of Mines and Petroleum.
+                    Gunawan, I., Hall, R., and Sevastjanova, I. (2012). Age, character and provenance of the Tipuma Formation, West Papua: New insights from
+                       detrital zircon dating. In Proceedings of the 36th Annual Convention & Exhibition (pp. 1–14), joint Indonesian Petroleum Association and
+                       American Association of Petroleum Geologists, Jakarta.
+                    Gunn, P. J. (1988). Bonaparte Basin: Evolution and structural framework. In P. G. Purcell & R. R. Purcell (Eds.), North West Shelf Australia.
+                       Proceedings of Petroleum Exploration Society of Australia Symposium (pp. 275–285). Perth: Petroleum Exploration Society of Australia.
+                    Gurnis, M., Moresi, L., & Müller, R. D. (2000). Models of mantle convection incorporating plate tectonics: The Australian region since the
+                       Cretaceous. In M. A. Richards, R. G. Gordon, & R. D. Van Der Hillst (Eds.), The history and dynamics of global plate motions (pp. 211–238).
+                       Washington, DC: American Geophysical Union. https://doi.org/10.1029/GM121p0211
+                    Hamilton, W. (1979). Tectonics of the Indonesian region (4th ed., p. 356). Washington, DC: U.S. Geological Survey.
+                    Hayes, D. E., & Ringis, J. (1973). Sea-ﬂoor spreading in the Tasman Sea. Nature, 243(5408), 454–458. https://doi.org/10.1038/243454a0
+                    Heine, C., & Müller, R. D. (2005). Late Jurassic rifting along the Australian North West Shelf: Margin geometry and spreading ridge conﬁg-
+                       uration. Australian Journal of Earth Sciences, 52(1), 27–39. https://doi.org/10.1080/08120090500100077
+                    Hill, K. C. (1991). Structure of the Papuan fold belt, Papua New Guinea. AAPG Bulletin, 75(5), 857–872.
+                    Hill, K. C., & Hall, R. (2002). Mesozoic–Cenozoic evolution of Australia’s New Guinea margin in a West Paciﬁc context. In R. Hillis & R. D. Müller
+                       (Eds.), Deﬁning Australia: The Australian Plate as part of planet Earth (pp. 259–283). joint Geological Society of America Special Paper and
+                       Geological Society of Australia Special Publication.
+                    Hill, K. C., & Raza, A. (1999). Arc-continent collision in Papua New Guinea: Constraints from ﬁssion track geochronology. Tectonics, 18(6),
+                       950–966. https://doi.org/10.1029/1999TC900043
+                    Hill, K. C., Keetley, J. T., Kendrick, R. D., & Sutriyono, E. (2004). Structure and hydrocarbon potential of the New Guinea fold belt. In K. R. McClay
+                       (Ed.), Thrust tectonics and hydrocarbon systems (pp. 494–514). AAPG Memoir.
+                    Hill, K. C., Lucas, K., & Bradley, K. (2010). Structural styles in the Papuan fold belt, Papua New Guinea: Constraints from analogue modelling. In
+                       G. P. Goffey, J. Craig, T. Needham & R. Scott (Eds.), Hydrocarbons in contractional belts (pp. 33–56). London: The Geological Society, Special
+                       Publication No 348.
+                    Hirst, J. P. P., & Price, C. A. (1996). Sequence stratigraphy and sandstone geometry of the Toro and Imburu Formations within the Papuan fold
+                       belt and foreland. In P. G. Buchanan (Ed.), Petroleum exploration, development and production in Papua New Guinea: Proceedings of the third
+                       PNG etroleum Convention (pp. 279–300). Port Moresby: Chamber of Mines and Petroleum.
+                    Home, P. C., Dalton, D. G., & Brannan, J. (1990). Geological evolution of the western Papuan Basin. In G. J. Carman & Z. Carman (Eds.),
+                       Petroleum exploration in Papua New Guinea: Proceedings of the ﬁrst PNG Petroleum Convention (pp. 107–118). Port Moresby: Chamber of
+                       Mines and Petroleum.
+                    Honza, E. (1995). Spreading mode of backarc basins in the western Paciﬁc. Tectonophysics, 251(1-4), 139–152. https://doi.org/10.1016/0040-
+                       1951(95)00054-2
+                    Huchon, P., & Khanbari, K. (2003). Rotation of the syn-rift stress ﬁeld of the northern Gulf of Aden margin, Yemen. Tectonophysics, 364(3-4),
+                       147–166. https://doi.org/10.1016/S0040-1951(03)00056-8
+                    Jablonski, D., & Saitta, A. J. (2004). Permian to Lower Cretaceous plate tectonics and its impact on the tectono-stratigraphic development of
+                       the western Australian margin. APPEA Journal, 44(1), 287–327. https://doi.org/10.1071/AJ03011
+
+
+
+BULOIS ET AL.                              POLYPHASED RIFTING AND REACTIVATION                                                                                           26
+                Tectonics                                                                                                        10.1002/2017TC004783
+
+
+
+                    Jablonski, D., Pono, S., & Larsen, O. A. (2006). Prospectivity of the deepwater Gulf of Papua and surrounds in Papua New Guinea (PNG)—A
+                       new look at a frontier region. APPEA Journal, 46(1), 179–200. https://doi.org/10.1071/AJ05011
+                    Jaques, A. L. (1981). Petrology and petrogenesis of cumulate peridotites and gabbros from the Marum Ophiolite complex, northern Papua
+                       New Guinea. Journal of Petrology, 22(1), 1–40. https://doi.org/10.1093/petrology/22.1.1
+                    Jaques, A. L., & Robinson, G. P. (1977). The continent-island arc collision in northern Papua New Guinea. BMR Journal of Australian Geology
+                       and Geophysics, 2(4), 289–303.
+                    Jaques, A. L., Robinson, G. P., & Taylor, S. R. (1978). Geochemistry of LIL-element enriched tholeiites from the Marum ophiolite complex,
+                       northern Papua New Guinea. BMR Journal of Australian Geology and Geophysics, 3, 297–310.
+                    Jorry, S. J., Droxler, A. W., Mallarino, G., Dickens, G. R., Bentley, S. J., Beaufort, L., … Opdyke, B. N. (2008). Bundled turbidite deposition in the
+                       central Pandora Trough (Gulf of Papua) since Last Glacial Maximum: Linking sediment nature and accumulation to sea level ﬂuctuations at
+                       millennial timescale. Journal of Geophysical Research, 113, F01S19. https://doi.org/10.1029/2006JF000649
+                    Joshima, M., Okuda, Y., Murakami, F., Kisimoto, K., & Honza, E. (1987). Age of the Solomon Sea Basin from magnetic lineations. Geo-Marine
+                       Letters, 6, 229–234.
+                    Lus, W. Y., McDougall, I., & Davies, H. L. (2004). Age of the metamorphic sole of the Papuan Ultramaﬁc Belt ophiolite, Papua New Guinea.
+                       Tectonophysics, 392(1-4), 85–101. https://doi.org/10.1016/j.tecto.2004.04.009
+                    Martinez, F., Taylor, B., & Goodliffe, A. M. (1999). Contrasting styles of seaﬂoor spreading in the Woodlark Basin: Indications of rift-induced
+                       secondary mantle convection. Journal of Geophysical Research, 104(B6), 12,909–12,926. https://doi.org/10.1029/1999JB900068
+                    Matthews, K. J., Seton, M., Flament, N., & Müller, D. (2012). Late Cretaceous to present-day opening of the southwest Paciﬁc constrained by
+                       numerical models and seismic tomography. In Eastern Australasian basins symposium IV (pp. 1–15). Brisbane: Petroleum Exploration
+                       Society of Australia.
+                    Matthews, K. J., Williams, S. E., Whittaker, J. M., Müller, R. D., Seton, M., & Clarke, G. L. (2015). Geologic and kinematic constraints on Late
+                       Cretaceous to mid Eocene plate boundaries in the southwest Paciﬁc. Earth Science Reviews, 140, 72–107. https://doi.org/10.1016/j.
+                       earscirev.2014.10.008
+                    Maus, S., Barckhausen, U., Berkenbosch, H., Bournas, N., Brozena, J., Childers, V., … Caratori Tontini, F. (2009). EMAG2: A 2–arc min resolution
+                       Earth magnetic anomaly grid compiled from satellite, airborne, and marine magnetic measurements. Geochemistry, Geophysics,
+                       Geosystems, 10, Q08005.
+                    Metcalfe, I. (1998). Palaeozoic and Mesozoic geological evolution of the SE Asian region: Multidisciplinary constraints and implications for
+                       biogeography. In R. Hall & J. D. Holloway (Eds.), Biogeography and geological evolution of SE Asia (pp. 25–41). Leiden: Backhuys Publishers.
+                    Mitchum, R., Vail, P., & Sangree, J. (1977). Seismic stratigraphy and global changes of sea level; Part 6, Stratigraphic interpretation of seismic
+                       reﬂection patterns in depositional sequences. In C. E. Payton (Ed.), Seismic Stratigraphy; Applications to Hydrocarbon Exploration
+                       (pp. 117–133). AAPG Memoir.
+                    Monnier, C., Girardeau, J., Pubellier, M., & Permana, H. (2000). L’ophiolite de la chaîne centrale d’Irian Jaya (Indonésie) : évidence
+                       pétrologiques et géochimiques pour une origine dans un bassin arrière-arc. Comptes Rendus de l’Académie des Sciences, Sciences de la Terre
+                       et des planètes, 331, 691–699.
+                    Montenat, C., Ott D’Estevou, P., Purser, B., Burollet, P. F., Jarrige, J. J., Orszag-Sperber, F., … Thiriet, J. P. (1988). Tectonic and sedimentary
+                       evolution of the Gulf of Suez and the northwestern Red Sea. In X. Le Pichon & J. R. Cochran (Eds.), The Gulf of Suez and Red Sea rifting,
+                       Tectonophysics (pp. 161–177). Special Publication No 153.
+                    Mutter, J. C. (1975). A structural analysis of the Gulf of Papua and Northwest Coral Sea region (p. 60). Canberra: Department of Minerals and
+                       energy, Bureau of Mineral Resources, Geology and Geophysics.
+                    Mutter, J. C. (1977). The Queensland Plateau (p. 63). Cambera: Australian Bureau of Mineral Resources, Geology and Geophysics.
+                    Norwick, M. S. (2003). New Palaeogeographic maps of the northern margins of the Australian Plate: Updated report Rep., 90 pp., geoscience
+                       Australia.
+                    O’Brien, G. W., Etheridge, M. A., Wilcox, J. B., Morse, M., Symonds, P., Norman, C., & Needham, D. J. (1993). The structural architecture of the
+                       Timor Sea, north-western Australia: Implications for basin development and hydrocarbon exploration. APPEA Journal, 33(1), 258–278.
+                       https://doi.org/10.1071/AJ92019
+                    Ott, B., & Mann, P. (2015). Late Miocene to Recent formation of the Aure-Moresby foldthrust belt and foreland basin as a consequence of
+                       Woodlark microplate rotation, Papua New Guinea. Geochemistry, Geophysics, Geosystems, 16, 1988–2004. https://doi.org/10.1002/
+                       2014GC005668
+                    Page, R. E. (1976). Geochronology of igneous and metamorphic rocks in the New Guinea Highlands (p. 125). Australia, Canberra: Bureau of
+                       Mineral Resources, Geology and Geophysics.
+                    Parris, K. (1994). Basement structures and implications for control of igneous activity (p. 12). Irian Jaya, Indonesia: Central Ranges.
+                    Pattillo, J., & Nicholls, P. J. (1990). A tectonostratigraphic framework for the Vulcan Graben, Timor Sea region. APPEA Journal, 30(1), 27–51.
+                       https://doi.org/10.1071/AJ89002
+                    Phillips Australian Oil Company (1968). Pasca-C1 composite well log, Phillips Australian oil company, Port Moresby (in-house publication).
+                    Phillips Australian Oil Company (1969). Well completion report Pasca-C1, Territory of Papua New Guinea (p. 84). Brisbane, Australia: Phillips
+                       Australian Oil Company. (in-house publication)
+                    Phillips Australian Oil Company (1975a). Dibiri-1A composite well log, Phillips Australian Oil Company, Port Moresby (in-house publication).
+                    Phillips Australian Oil Company (1975b). Well completion report Dibiri-1A, PNG/3P, Gulf of Papua District, Papua New Guinea (p. 87). Brisbane,
+                       Australia: Phillips Australian Oil Company. (in-house publication)
+                    Pieters, P. E. (1978). Port Moresby-Kalo-Aroa, Papua New Guinea. 1: 250,000 geological map series, Bureau of Mineral Resources, Geology and
+                       Geophicics of Australia and Geol. Survey of Papua New Guinea.
+                    Pieters, P. E., Pigram, C. J., Trail, D. S., Dow, D. B., Ratman, N., & Sukamto, R. (1983). The stratigraphy of western Irian Jaya. In Indonesian
+                       Petroleum Association (Ed.), Proceedings of the 12th annual convention (pp. 229–262). Jakarta: Indonesian Petroleum Association.
+                    Pigram, C. J., & Davies, H. L. (1987). Terranes and the accretion history of the New Guinea orogen. BMR Journal of Australian Geology and
+                       Geophysics, 80, 193–211.
+                    Pigram, C. J., & Panggabean, H. (1981). Pre-Tertiary geology of western Irian Jaya and Misool Island: Implications for the tectonic develop-
+                       ment of eastern Indonesia. In Indonesian Petroleum Association (Ed.), Tenth annual convention of the Indonesian Petroleum Association
+                       (pp. 385–399). Jakarta.
+                    Pigram, C. J., & Panggabean, H. (1984). Rifting of the northern margin of the Australian continent and origin of some of the microcontinents
+                       in eastern Indonesia. Tectonophysics, 107(3-4), 331–353. https://doi.org/10.1016/0040-1951(84)90257-9
+                    Pigram, C. J., & Symonds, P. A. (1991). A review of the timing of the major tectonic events in the New Guinea orogen. Journal of Southeast
+                       Asian Earth Sciences, 6(3-4), 307–318. https://doi.org/10.1016/0743-9547(91)90076-A
+
+
+
+BULOIS ET AL.                              POLYPHASED RIFTING AND REACTIVATION                                                                                        27
+                Tectonics                                                                                                           10.1002/2017TC004783
+
+
+
+                    Pigram, C. J., & Symonds, P. A. (1993). Eastern Papuan Basin-a new model for the tectonic development, and implications for petroleum
+                       prospectivity. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration and development in Papua New Guinea, Proceedings of the second
+                       PNG Petroleum Convention (pp. 213–231). Port Moresby: Chambers of Mines and Petroleum.
+                    Pigram, C. J., Robinson, G. P., & Tobing, S. L. (1982). Late Cenozoic origin for the Bintuni Basin and adjacent Lengguru Fold Belt, Irian Jaya. In
+                       Indonesian Petroleum Association (Ed.), Eleventh annual convention of the Indonesian Petroleum Association (pp. 109–126). Jakarta.
+                    Pigram, C. J., Davies, P. J., Feary, D. A., & Symonds, P. A. (1989). Tectonic controls on carbonate platform evolution in southern Papua New
+                       Guinea: Passive margin to foreland basin. Geology, 17(3), 199–202. https://doi.org/10.1130/0091-7613(1989)017%3C0199:TCOCPE%
+                       3E2.3.CO;2
+                    PNG Petroleum (1975). Kanau no. 1 composite well log, PNG Petroleum, Port Moresby (in-house publication).
+                    Powell, C. (1996). Breakup and dispersal of the Rodinia supercontinent: Implications for resource exploration. In J. Kennard (Ed.), 13th
+                       Australian Geological Convention, Geological Society of Australia, Special Publication, 41 (p. 351). Sydney.
+                    Pubellier, M., & Meresse, F. (2012). Phanerozoic growth of Asia: Geodynamic processes and evolution. Journal of Asian Earth Sciences, 72,
+                       118–128.
+                    Pubellier, M., Monnier, C., Maury, R. C., & Tamayo, R. (2004). Plate kinematics, origin and tectonic emplacement of supra-subduction
+                       ophiolites in SE Asia. Tectonophysics, 392(1-4), 9–36. https://doi.org/10.1016/j.tecto.2004.04.028
+                    Quarles van Ufford, A., & Cloos, M. (2005). Cenozoic tectonics of New Guinea. AAPG Bulletin, 89(1), 119–140. https://doi.org/10.1306/
+                       08300403073
+                    Roberts, D. G., Thompson, M., Mithchener, B., Hossack, J., Carmichael, S., & Bjørnseth, H. M. (1999). Palaeozoic to Tertiary rift and basin
+                       dynamics: Mid-Norway to the Bay of Biscay—A new context for hydrocarbon prospectivity in the deep water frontier. In A. J. Fleet &
+                       S. A. R. Boldy (Eds.), Petroleum geology of northwest Europe: Proceedings of the 5th conference (pp. 7–40). London: The Geological Society.
+                       https://doi.org/10.1144/0050007
+                    Rogerson, R., Hilyard, D., Francis, G., & Finlayson, E. (1987). The foreland thrust belt of Papua New Guinea. Gold Coast, Queensland. In Paciﬁc
+                       Rim Congress 87 (pp. 579–583). Parkville: Australasian Institute of Mining and Metallurgy.
+                    Rogerson, R. J., Hilyard, D. B., Finlayson, E. J., Holland, D. J., Nion, S. T. S., Sumaiang, R. M., … Loxton, C. D. C. (1987). The geology and mineral
+                       resources of the Sepik headwaters region, Papua New Guinea (p. 130). Port Moresby, Papua New Guinea: Papua New Guinea Department of
+                       Minerals and Energy, Geological Survey.
+                    Savva, D., Pubellier, M., Franke, D., Chamot-Rooke, N., Meresse, F., Steuer, S., & Auxietre, J. L. (2014). Different expressions of rifting on the
+                       South China Sea margins. In D. Franke, C. F. Li & D. Menier (Eds.), Evolution, structure, and sedimentary record of the South China Sea and
+                       adjacent basins (pp. 579–598). Marine and Petroleum Geology, Special Publication, 58.
+                    Schellart, W. P., & Spakman, W. (2015). Australian plate motion and topography linked to fossil New Guinea slab below Lake Eyre. Earth and
+                       Planetary Science Letters, 421, 107–116. https://doi.org/10.1016/j.epsl.2015.03.036
+                    Schreibner, E. (1974). Fossil fracture zones (transform faults), segmentation, and correlation problems in the Tasman fold belt system. In
+                       A. K. Denmead, G. W. Tweedale, & A. F. Wilson (Eds.), The Tasman geosyncline—A symposium in honour of Professor Dorothy Hill (pp. 65–98).
+                       Queensland Division, Brisbane: Geological Society of Australia.
+                    Sengör, A. M. C., & Burke, K. (1978). Relative timing of rifting and volcanism on Earth and its tectonic implications. Geophysical Research
+                       Letters, 5(6), 419–421. https://doi.org/10.1029/GL005i006p00419
+                    Seton, M., Flament, N., & Müller, R. D. (2012). Subduction history in the Melanesian Borderlands region, SW Paciﬁc. In Eastern Australasian
+                       Basins Symposium IV (pp. 95–106). Queensland: Brisbane.
+                    Seton, M., Müller, R. D., Zahirovic, S., Gaina, C., Torsvik, T., Shephard, G., … Chandler, M. (2012). Global continental and ocean basin recon-
+                       structions since 200 Ma. Earth-Science Reviews, 113(3-4), 212–270. https://doi.org/10.1016/j.earscirev.2012.03.002
+                    Sheppard, S., & Cranﬁeld, L. (2012). Geological framework and mineralization of Papua New Guinea—An update (p. 65). Port Moresby.
+                    Smith, R. I. (1990). Tertiary plate tectonic setting and evolution of Papua New Guinea. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration
+                       in Papua New Guinea, Proceedings of the 1st PNG Petroleum Convention (pp. 229–244). Port Moresby: Chamber of Mines and Petroleum.
+                    Stagg, H. M. J., Willcox, J. B., Symonds, P. A., O’Brien, G. W., Colwell, J. B., Hill, P. J., … Struckmeyer, H. I. M. (1999). Architecture and evolution of
+                       the Australian continental margin. AGSO Journal of Australian Geology and Geophysics, 17(5/6), 17–33.
+                    Stock, J., & Molnar, P. (1982). Uncertainties in the relative positions of the Australia, Antarctica, Lord Howe, and Paciﬁc Plates since the Late
+                       Cretaceous. Journal of Geophysical Research, 87(B6), 4697–4714. https://doi.org/10.1029/JB087iB06p04697
+                    Struckmeyer, H. I. M. (1990). Papuan Basin data compilation: Mesozoic to Cainozoic stratigraphic summary columns and data maps (p. 123).
+                       Canberra: Petroleum division of the Australian Mineral Industries Research Association.
+                    Struckmeyer, H. I. M., Blevin, J. E., Sayers, J., Totterdell, J. M., Baxter, K., & Cathro, D. L. (1998). Structural evolution of the Browse Basin, North
+                       West Shelf: New concepts from deep-seismic data. In P. G. Purcell & R. R. Purcell (Eds.), The sedimentary basins of Western Australia:
+                       Proceedings of the PESA Symposium (pp. 345–367). Perth: Petroleum Exploration Society of Australia.
+                    Struckmeyer, H. I. M., & Symonds, P. (1997). Tectonostratigraphic evolution of the Townsville Basin, Townsville Trough, offshore northeastern
+                       Australia. Australian Journal of Earth Sciences, 44, 799–817. https://doi.org/10.1080/08120099708728356
+                    Struckmeyer, H. I. M., Symonds, P., Fellows, M. E., & Scott, D. L. (1994). Structural and stratigraphic evolution of the Townsville Basin, Townsville
+                       Trough, offshore northeastern Australia (p. 77). Canberra: Australian Geological Survey Organisation.
+                    Struckmeyer, H. I. M., Yeung, M., & Pigram, C. J. (1993). Mesozoic and Cainozoic plate tectonic and palaeogeographic evolution of the New
+                       Guinea region. In G. J. Carman & Z. Carman (Eds.), Petroleum exploration in Papua New Guinea: Proceedings of the second PNG Petroleum
+                       Convention (pp. 261–290). Port Moresby: Chamber of Mines and Petroleum.
+                    Swift, M. (2012). Torres Basin: A new Mesozoic petroleum system in Papua New Guinea. In Eastern Australasian Basins Symposium IV
+                       (pp. 1–14). Brisbane.
+                    Symonds, P., & Davies, P. J. (1988). Structure, stratigraphy, evolution and regional framework of the Townsville Trough and Marion Plateau
+                       region, research cruise proposal (p. 96). Australia: Bureau of Mineral Resources.
+                    Symonds, P. A., Fritsch, J., & Schluter, H. U. (1984). Continental margin around the western Coral Sea Basin: Structural elements, seismic
+                       sequences, and petroleum geological aspects. In S. T. Watson (Ed.), Transactions of the third Circum-Paciﬁc Energy and Mineral Resources
+                       Conference (pp. 243–252). Hawaii: American Association of Petroleum Geologists.
+                    Symonds, P. A., Colwell, J. B., Struckmeyer, H. I. M., Wilcox, J. B., & Hill, P. J. (1996). Mesozoic rift basin development off eastern Australia.
+                       Mesozoic Geology of the Eastern Australia Plate. In Geological Society of Australia (pp. 528–542). Brisbane: Geological Society of Australia.
+                    Tamaki, K., & Honza, E. (1991). Global tectonics and the formation of marginal basins: Role of the western Paciﬁc. Episodes, 14, 224–230.
+                    Tankard, A. J., & Balkwill, H. R. (1989). Extensional tectonics and stratigraphy of the North Atlantic margin: Introduction. In A. J. Tankard &
+                       H. R. Balkwill (Eds.), Extensional tectonics and stratigraphy of the North Atlantic margins (pp. 1–6). Tulsa: American Association of Petroleum
+                       Geologists and Canadian Geological Foundation.
+
+
+
+BULOIS ET AL.                               POLYPHASED RIFTING AND REACTIVATION                                                                                            28
+                Tectonics                                                                                                        10.1002/2017TC004783
+
+
+
+                    Taylor, B. (1979). Bismark Sea: Evolution of a back-arc basin. Geology, 7(4), 171–174. https://doi.org/10.1130/0091-7613(1979)7%3C171:
+                       BSEOAB%3E2.0.CO;2
+                    Taylor, L., & Falvey, D. A. (1977). Queensland Plateau and Coral Sea Basin: Stratigraphy, structure and tectonics. APPEA Journal, 17(1), 13–29.
+                       https://doi.org/10.1071/AJ76002
+                    Taylor, B., Huchon, P., Klaus, A., & Party, T. L. S. (1999). Continental rifting, low-angle normal faulting and deep biosphere: Results of Leg 180
+                       drilling in the Woodlark Basin. JOIDES Journal, 25(1), 4–7.
+                    Tcherepanov, E. N., Droxler, A. W., Lapointe, P., Dickens, G. R., Bentley, S. J., Beaufort, L., … Opdyke, B. N. (2008). Neogene evolution of the
+                       mixed carbonate-siliciclastic system in the Gulf of Papua, Papua New Guinea. Journal of Geophysical Research, 113, F01S21. https://doi.org/
+                       10.1029/2006JF000684
+                    Tenneco (1969). Tenneco-signal anchor cay no. 1 well completion report, offshore Queensland, Tenneco Oil Co, Houston (in-house
+                       publication).
+                    Tovaglieri, F., & George, A. D. (2014). Stratigraphic architecture of an Early-Middle Jurassic tidally inﬂuenced deltaic system (Plover
+                       Formation), Browse Basin, Australian North West Shelf. Marine and Petroleum Geology, 49, 59–83. https://doi.org/10.1016/j.
+                       marpetgeo.2013.09.011
+                    Tregoning, P., Lambeck, K., Stolz, A., Morgan, P., McClusky, S. C., van der Beek, P., … Murphy, B. (1998). Estimation of current plate motions in
+                       Papua New Guinea from Global Positioning System observations. Journal of Geophysical Research, 103(B6), 12,181–12,203. https://doi.org/
+                       10.1029/97JB03676
+                    Uyeda, S., & McCabe, R. (1983). A possible mechanism of episodic spreading of the Philippine Sea. In M. Hashimoto & S. Uyeda (Eds.),
+                       Accretion tectonics in the Circum-Paciﬁc regions (pp. 291–306). Tokyo: Reidel Publication Co., Terra Scientiﬁc Publications. https://doi.org/
+                       10.1007/978-94-009-7102-8_20
+                    Versfelt, J., & Rosendahl, B. R. (1989). Relationship between pre-existing structure and rift architecture in lakes Tanganyika and Malawi.
+                       Nature, 337(6205), 354–357. https://doi.org/10.1038/337354a0
+                    Visser, W. A., & Hermes, J. J. (1962). Geological results of the exploration for oil in Netherlands New Guinea: Carried out by the Nederlandsche
+                       Nieuw Guinea Petroleum Maatschappij. 1935–1960. The Hague: Koninklijk Nederlands Geologisch Mijnbouwkundig Genootschap.
+                    Wallace, L. M., Ellis, S., Little, T., Tregoning, P., Palmer, N., Rosa, R., … Kwazi, J. (2014). Continental breakup and UHP rock exhumation in action:
+                       GPS results from the Woodlark Rift, Papua New Guinea. Geochemistry, Geophysics, Geosystems, 15, 4267–4290. https://doi.org/10.1002/
+                       2014GC005458
+                    Webb, L. E., Baldwin, S. L., & Fitzgerald, P. G. (2014). The early-middle Miocene subduction complex of the Louisiade Archipelago, southern
+                       margin of the Woodlark Rift. Geochemistry, Geophysics, Geosystems, 15, 4024–4046. https://doi.org/10.1002/2014GC005500
+                    Weissel, J. K., & Hayes, D. E. (1977). Evolution of the Tasman Sea reappraised. Earth and Planetary Science Letters, 36(1), 77–84. https://doi.org/
+                       10.1016/0012-821X(77)90189-3
+                    Weissel, J. K., & Watts, A. B. (1979). Tectonic evolution of the Coral Sea Basin. Journal of Geophysical Research, 84(B9), 4572–4582. https://doi.
+                       org/10.1029/JB084iB09p04572
+                    Whattam, S. A., Malpas, J. J., Ali, J. R., & Smith, I. E. (2008). New SW Paciﬁc tectonic model: Cyclical intraoceanic magmatic arc construction and
+                       near-coeval emplacement along the Australia-Paciﬁc margin in the Cenozoic. Geochemistry, Geophysics, Geosystems, 9, Q03021.
+                    White, L. T., Morse, M. P., & Lister, G. S. (2014). Lithospheric-scale structures in New Guinea and their control on the location of gold and
+                       copper deposits. Solid Earth, 5(1), 163–179.
+                    Worthing, M. A., & Crawford, A. J. (1996). The igneous geochemistry and tectonic setting of metabasites from the Emo metamorphics, Papua
+                       New Guinea; A record of the evolution and destruction of a backarc basin. Mineralogy and Petrology, 58(1-2), 79–100. https://doi.org/
+                       10.1007/BF01165765
+                    van Wyck, N., & Williams, I. S. (2002). Age and provenance of basement metasediments from the Kubor and Bena Bena Blocks, central
+                       Highlands, Papua New Guinea: Constraints on the tectonic evolution of the northern Australian cratonic margin. Australian Journal of
+                       Earth Sciences, 49(3), 565–577. https://doi.org/10.1046/j.1440-0952.2002.00938.x
+                    Ziegler, P. A. (1989). Evolution of the North Atlantic—An overview. In A. J. Tankard & H. R. Balkwill (Eds.), Extensional tectonics and stratigraphy
+                       of the North Atlantic margins (pp. 111–129). Tulsa: The American Association of Petroleum Geologists & The Canadian Geological
+                       Foundation.
+                    Zirakparvar, N. A., Baldwin, S. L., & Vervoort, J. D. (2012). The origin and geochemical evolution of the Woodlark Rift of Papua New Guinea.
+                       Gondwana Research, 23(3), 931–943.
+
+
+
+
+BULOIS ET AL.                              POLYPHASED RIFTING AND REACTIVATION                                                                                        29
+

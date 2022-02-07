@@ -1,0 +1,666 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/339336961
+
+
+
+SEISMIC STRATIGRAPHIC ANALYSES OF EARLY CRETACEOUS (VALANGINIAN)
+SEDIMENTS OF GAMTOOS BASIN, OFFSHORE SOUTH AFRICA
+
+Article in Journal of Basic and Applied Research International · February 2020
+
+CITATIONS                                                                                                 READS
+
+0                                                                                                         66
+
+3 authors, including:
+
+            Oluwatoyin Lasisi Ayodele                                                                                Jan van Bever Donker
+            University of the Western Cape                                                                           University of the Western Cape
+            2 PUBLICATIONS 0 CITATIONS                                                                               14 PUBLICATIONS 96 CITATIONS
+
+                SEE PROFILE                                                                                               SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+                        SEISMIC STRATIGRAPHIC ANALYSES OF EARLY CRETACEOUS (VALANGINIAN) SEDIMENTS OF GAMTOOS BASIN, OFFSHORE SOUTH AFRICA View project
+
+
+
+
+ All content following this page was uploaded by Oluwatoyin Lasisi Ayodele on 18 February 2020.
+
+ The user has requested enhancement of the downloaded file.
+Journal of Basic and Applied Research International
+26(1): 1–14, 2020
+ISSN: 2395-3438 (P), ISSN: 2395-3446 (O)
+
+
+
+
+   SEISMIC STRATIGRAPHIC ANALYSES OF EARLY
+CRETACEOUS (VALANGINIAN) SEDIMENTS OF GAMTOOS
+         BASIN, OFFSHORE SOUTH AFRICA
+
+        O. L. AYODELE1*, T. K. CHATTERJEE1 AND J. VAN BEVER DONKER1
+                    1
+                        Department of Earth Science, University of the Western Cape, South Africa.
+
+                                         AUTHORS’ CONTRIBUTIONS
+ This work was carried out in collaboration among all authors. Author OLA designed the study, performed the
+ data loading on Schlumberger Petrel 2014® software, analysed the data and interpreted the results of the study,
+   as well wrote the initial and final draft of the manuscript and managed the literature searches. Author TKC
+corrected the initial manuscript. Author JBD edited the final manuscript. All authors thus read and approved the
+                                                   final manuscript.
+
+
+
+Received: 02 November 2019
+Accepted: 07 January 2020
+Published: 15 February 2020                              Original Research Article
+__________________________________________________________________________________
+
+                                                     ABSTRACT
+
+The Gamtoos sub-basin located in the south-eastern margin of the Outeniqua Basin, offshore South Africa. It is
+a complex rift type basin that having both onshore and 12 km distal offshore components. It is a structurally
+complex, severely faulted basin due to comprises of the Agulhas-Falkland Fracture Zone (AFFZ) with relatively
+simple half grabens bounded by a major fault to the northeast and containing comparable thicknesses of
+sediments ranging in age from late Jurassic (Kimmeridgian) to- early Cretaceous (Hauterivian) wet-gas-to-oil-
+prone shales, with potential sandstones reservoirs in Valanginian. Sedimentary facies distribution within a
+sequence is controlled mainly by the depositional environment. In the present work the geophysical data e.g.
+seismic and well logs were analysed from five exploratory wells across the basin from the north to south. The
+present study aims to contribute for a better understanding of the depositional sequences within the Valanginian
+sediments for the hydrocarbon exploration. A comprehensive interpretation on the model proposed [1,2] was
+followed in the work. The results were integrated with GR-ray signatures of respective wells and 3D-stochastic
+lithofacies model was applied. The study reveal that the lithology comprises mainly of thick uniformly-graded
+coarse-to-medium-to-fine-grained sandstone-silt-shale and the deposition took place under various environments
+widely ranging between braided fluvial, delta, continental channel fill sediments to marine, probably a
+submarine canyon fill deposit and submarine fan lobe environment, fluvial flooding plain, basin floor shelf
+edge, storm dominated shelfslope fan and shallow marine to distal deep marine slope environment.
+
+Keywords: Depositional environments; depositional sequence; 3D-stochastic- lithofacies, Gamtoos Basin;
+          seismic facies; seismic sequence; well-logs.
+
+1. INTRODUCTION                                               been found to be the smallest among the five en-
+                                                              echelon sub-basins in the Outeniqua Basin, South
+The offshore and onshore parts of the Gamtoos Basin           Africa. The Gamtoos contain half grabens that are
+cover about 5,038 sq km, while the offshore seismic           separated by Paleozoic basement arches [3]. After
+line covers about 4,272 km. The Gamtoos Basin has             high intensity exploration for hydrocarbon prospects
+_____________________________________________________________________________________________________
+
+*Corresponding author: Email: 3217090@myuwc.ac.za;
+                                                                                   Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+in the Gamtoos Basin, it has been discovered to be             for a better understanding of the depositional
+containing sedimentary source rocks of good-oil,
+                                        good      wet-         environments and heterogeneity of Valanginian
+gas-to-oil   prone     and    dry-gas--to-oil    prone         reservoirs to evaluate the hydrocarbon potential.
+prospects. The early and late rift subsidence related
+deposits of these half grabens consist of thick                1.2 The Objective
+sediments containing Kimmeridgian--to-Portlandian-
+to-Hauterivian (D to 6At1) wet-gas    gas-to-oil-prone            To study, identify and interpret the seismic
+shales with sandstones of reservoir potential in the               sequence and seismic facies reflection pattern
+Valanginian. In addition, the late rift subsidence                 derived from seismic data by using seismic
+during the Hauterivian also resulted in thick                      reflections attributes for better understanding
+sedimentary packages of organic-rich
+                                  rich shale rock for              of the depositional environment of the
+petroleum generation [3,4].                                        Valanginian reservoir.
+                                                                  To constructct a static reservoir model based on
+However, detailed understanding of this basin in                   lithofacies variation for a clear understanding
+terms seismic stratigraphy, seismic sequence and                   of the distribution of the lithofacies and nature
+seismic facies analysis remains unsolved. No                       of heterogeneity within the reservoir and it’s
+published work on detail account of depositional                   potential within the study area.
+environment responsible to build up the potential
+reservoir sand deposited in the Valanginian stage is
+                                                               1.3 The Geology of the Study Area
+available. Thus, the depositional environment and its
+processes are best interpreted based on seismic
+stratigraphy with the concept of seismic sequence and          The Gamtoos Basin is a late Mesozoic sedimentary
+seismic facies analysis, integrated with well logs, [5].       basin located on the southernmost tip of the African
+Thesee parameters are built on recognition and                 plate [6]. It has both offshore and onshore
+descriptions of the surface discontinuities, which are         components. Gamtoos Basin is an en    en-echelon sub-
+identified and interpreted in orderly patterns of              basin in the Outeniqua Basin and is basically a simple
+reflection terminations along the discontinuity                half-graben feature controlled by the Gamtoos fault
+surfaces, and configurations of the seismic reflections        extending deep into the crust. In the onshore parts of
+respectively.
+      ctively. The well logs are then used to interpret        the Gamtoos fault have a throw of about 3,000 m,
+the depositional processes and environment.                    while in offshore the throw increases to about 12,000
+                                                               m. Major tectonic movements in the offshore
+1.1 The Aims and Objective                                     Gamtoos Basin occurred on the eastern flank of the
+                                                               St. Francis arch. In the offshore Port Elizabeth and
+The present work aimed to study the seismic                    Uitenhage troughs top of basement (Horizon D     D) is
+stratigraphy built on seismic sequence and seismic             reached at depths of 6,500m and 8,000         8,000m,
+facies analysis and static modeling of the lithofacies         respectively.
+
+
+
+
+  Figure 1A. Indicate CRS (Coordinate reference system) map of the seismic lines and wells location in
+                               Gamtoos Basin, deep sea Indian Ocean
+
+                                                           2
+                                                                                 Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+
+
+   Figure 1B. Location of the study area, onshore and offshore for oil and gas wells within Block 13C,
+                                 Gamtoos Basin, [4], Modified
+                                                     Modif    after: [13]
+
+
+
+
+               Figure 1C. Base map of wells location and 2-D
+                                                         2 D seismic line on Gamtoos Basin
+
+2. LITERATURE REVIEW                                         seismic data by means of interpreting seismic
+                                                             reflection within the geological frame work [2].
+Seismic stratigraphy is the integrated study of              Seismic stratigraphic approaches are commonly used
+stratigraphy and depositional facies analysis based on       in geological interpretation for the recognition and
+the interpretation from seismic data considering that        correlation of depositional sequence, interpretation of
+constant seismic reflectors on acoustic geophysical          depositional environments and description of
+cross sections corresponds to the chronostratigraphic
+                                   chronostratig             lithofacies [1,2]. The application of Seismic
+surfaces. Thus, Seismic stratigraphy is a method             stratigraphy to extract information from seismic data
+widely used to extract stratigraphic information from        is broadly divided into three parts viz [7].
+
+
+                                                         3
+                                                                                                Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+  1.   Seismic sequence stratigraphy analysis: It                       turbidity currents (the rapid movement of large
+       application used to separating of time                           slurries down slope) that made up its sequence and
+       depositional units according to unconformities.                  reservoir geometry [8]. The late Jurassic (Portlandian,
+  2.   Seismic facies analysis: used to determine                       Kimmeridgian) to early Cretaceous (Berriasian and
+       depositional environments; based on the study                    Valanginian) turbidity channel and fan sands are
+       of reflection configuration characteristic                       considered as the primary target for exploration in the
+       analysis of the lateral variation of individual                  Gamtoos Basin and locally dominated the early rift
+       reflection events, or sequence of events, [7].                   deposition [9,10]. However, no published account is
+  3.   To locate the areas of the stratigraphic change                  available till date based on seismic sequence and
+       by means of identifying their nature such as                     seismic facies for a better understanding the
+       DHI (direct hydrocarbon indicator), the major                    depositional environments of the potential reservoir
+       tool for this is modelling both synthetic                        sediments of the Valanginian sequence.
+       seismograms and well logs to detect
+       hydrocarbon, especially gas.                                     3. MATERIALS AND METHODS
+
+However, while some studies have been carried out                       Four exploratory wells Ha-G1, Ha-I1, Ha-A1 and Ha-
+on this basin, there are very few available literatures                 B2 aligned from the north to the south of the study
+that deal with general geology, stratigraphy, paleo-                    area were considered for the present work. 2D
+geography, sedimentological, structural features and                    Seismic data profiles in SEG-Y format with
+hydrocarbon potential of the reservoir and source                       navigation data; check shot data for wells respectively
+rocks. All these are available from internal                            in the study area and formation top data were
+confidential reports and therefore are not accessible to                considered. Schlumberger’s Petrel 2014® software
+the general public. The sedimentary processes that                      and geophysical wireline well log given in LAS-
+involve bulk emplacement such as, Slumps: (sediment                     format. Environmental correction was performed on
+transport by mass with little deformation or folding of                 the wireline logs by means of using computer
+layers), Slurries: (debris flows and mud flows-                         programs because logging tools are sometimes
+destroying any previous bedding or layering), and                       affected by borehole and mud conditions. The data
+
+             Loading    of  2D                Well-to-Seismic ties.            Display seismic data reflection section
+             Seismic   data   in                                               Computer Working Station.
+             Schlumberger Petrel
+                    ®
+             2014
+                                                                                                Seismic Facies Analysis
+                           Seismic Sequence Analysis by identifying the                         By       using   Seismic
+                           genetically related unit’s sequence boundary and                     reflection Configurations
+                           reflection termination pattern, onlap, down lap, top lap,            attributes
+                           erosional truncation on Seismic section etc.
+
+
+
+
+                 Reflection                                                     Internal                   Wavelet
+                                    Seismic                Reflection
+                 Geometry                                                       configuration              frequency
+                                    Amplitude              Continuity
+                 attributes                                                     reflection.
+                                    reflection
+                                    attributes
+
+
+
+                                                                                                   Stochastic model by
+                        Combinations of                          Calibrated        with            Upscaling-Facies
+                        Seismic reflection                       Gamma ray        (GR)             Model(Sequential
+                        attribute patterns                       well logs.                        Indicator Simulation)
+
+
+
+                                Interpretation and Prediction of possible Depositional Environment based on
+                                the seismic reflection patterns.
+
+
+                                      Figure 2. The study methodology framework
+
+
+                                                                    4
+                                                                                   Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+were loaded into Petrel software by mean of computer           II, SB III, and IV within the section and named as
+workstation, creating a database. Loading of seismic           depositional sequence I, II and III respectively as
+and well data, review of seismic and log data,                 shown in (Figures 3.1 & 3.2).
+displaying of seismic section reflection. Identification
+of the sequence boundaries correspond with the                 These sequence boundaries were mapped within a
+formation tops and interpreted. The time-depth                 time window of -1617.29ms, -1434.25ms, -1193.55ms
+relationship was determined using check shot data              and -1019.83ms two-way travel time (TWT)
+available for well Ha-G1. A comprehensive                      respectively on seismic reflection. The sequence
+interpretation of the model by [1,2] on seismic                boundary SB 1 represents the top of P1 horizon of
+sequence and seismic facies analysis of the                    Berriasian stage, while the sequence boundary SB IV
+sedimentary sequences was applied. The lithofacies             represents the top of J1 horizon (Valanginian), the
+were discriminately coded at the wells based on log            sequence boundaries SB II and SB III are the
+data, primarily the gamma ray logs (GR) available for          successive sequence boundaries within the
+the wells by using Python script; (Gamma Ray (GR 1)            Valanginian section. The sequence boundaries
+< 80, 0, If (GR 1)>80 GR 1< 102, 1, 2)). Where 0               were characterized by a series of depositional
+represents sandstone, 1 represents siltstone and 2             sequences namely sequence I, II, and III with
+represents shale. The GR values less than 80 API are           seismic reflection termination discordance patterns
+classified 0, (Sandstone), GR values between 80 – 102          marked by strong toplap characteristic terminations
+API classified as Siltstone, while GR value greater            (Figure 3.2). This discordant relationship indicates the
+102 API are classified as Shale. The data sets were            termination of strata at the top against the younger
+collected from the Petroleum Agency South Africa               units above usually represents a period of non-
+(PASA). The general workflow for the study is                  deposition and subsequent minor erosion surfaces
+indicating in the Figure 2.                                    above the wave base in still-stand sea level, while
+                                                               the deposition is moving gradually towards the
+4. INTERPRETATION OF SEISMIC DATA                              proximal part of the basin. This type of discordant
+                                                               termination is commonly found in deep marine
+The seismic interpretation of the present work is              environment, possibly in a submarine fan under
+based on seismic sequence and seismic facies                   abyssal depth.
+analyses for the depositional sequence top of P1 to J1
+horizons (Valanginian section) of the Gamtoos Basin            Furthermore, In the northern part of the study area
+and to describe the depositional environment of the            another 2D-seiemic line Ha85-005 that was shot in the
+sequence. The framework of the seismic analysis and            North –East direction intersected by well Ha-I1 at -
+interpretation based on the depositional sequence              1317.33 ms and -1753 97 ms (TWT) at formation tops
+identified on a seismic section by [1,2] recognitions          of J1 horizon (Valanginian) and the P1 horizon
+and descriptions of the surface discontinuities were           (Berriasian) respectively. Evidence of tectonic
+identified and interpreted in orderly patterns of              deformation that resulted in an inclined normal fault
+reflection terminations such as onlap, downlap,                that trends NE to SW occurred at -973.6 ms to
+toplap, and erosional truncation along the                     1905.16 ms TWT on the seismic cross section
+discontinuity surfaces in description of seismic               (Figures 3.3 & 3.4.).
+sequence analysis. While seismic facies analysis
+interpreted on the basis of configurations of the              The two sequence boundaries SB I and SB II were
+seismic reflections such as amplitude, continuity,             identified represents the top of P1 horizon
+frequency and the external geometry reflection and             (Berriasian) and the J1 horizon (Valanginian)
+further integrated with well log for a better                  respectively, in-between the sequence boundaries
+understanding of the depositional environment and              there is a depositional sequence I with seismic
+lithofacies of the sequence.                                   reflection termination characterization depositional
+                                                               sediments of an onlap discordant pattern (Figures 3.3
+4.1 Seismic Sequence Analysis Results and                      & 3.4.).
+    Interpretation
+                                                               Based on definition of an onlap, which is a base-
+In the northern part of the basin, the seismic sequence        discordant reflection termination pattern, in which
+was interpreted to delineate the depositional pattern of       horizontal strata progressively terminate against an
+the Valanginian section (P1-JI horizons) on 2D-                inclined surface. This indicates a proximal deposition
+seismic seismic line Ha 87-047 shot from the                   of sediment. This reflection termination pattern is
+Northeast (NE)-to-Southwest (SW) and intercepted by            commonly observed in marine depositional
+well Ha-G1. This line was interpreted on the basis of          environments as aggrading marine sediments on basin
+its geometry sequence boundaries namely as SB I, SB            slopes in a deep marine environment.
+
+
+                                                           5
+                                                                                  Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+In the southern part of the basin, the seismic sequence       characteristic downlap truncation pattern is an
+analysis to delineate the depositional environment was        inclined strata that terminate down dip against an
+interpreted on 2D-seismic line Ha78--003, that was            initially horizontal or inclined surface. T
+                                                                                                        The down dip
+shot in south-to-north
+                   north direction of the basin and           and gradient of the strata indicates the transport
+intercepted on well Ha-A1 at -1198.17
+                                    1198.17 ms and -          direction and the sediment supply. This termination
+1405.07 ms TWT on the seismic. The sequence                   pattern usually observed at the base of prograding
+boundaries SB I and SB II, at P1 and J1 horizons on           clinoforms and represents
+                                                                                  epresents the progradation of a
+the top of Berriasian and Valanginian sequences               basin-margin
+                                                                     margin slope system toward deep water. It
+respectively as shown in (Figures 3.5 & 3.6). In              indicates the change of the depositional
+between these SB I and SB II, a depositional                  environment of the sediment from marine slope
+sequences of Valanginian section that is characterised        deposition to marine condensation or nonnon-deposition.
+by a base-discordant
+               discordant termination reflector of            The surface downlapnlap signifies a marine condensed
+downlap pattern (Figures 3.5 & 3.6). This                     unit.
+
+
+
+
+  Figure 3.1. Un-interpreted 2D-seismic
+                                 seismic line Ha-047
+                                              Ha      seismic cross               2D seismic line Ha87
+                                                                                                  Ha87-047
+  reflection shot from NE-to-SW
+                              SW direction intersected by well Ha-
+                                                               Ha
+  G1, Northern area of the study area
+
+
+
+
+                                                          6
+                                                                                   Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+
+
+4.2 Seismic Facies Analysis Results and                        The low amplitudes and the continuous to
+    Interpretation                                             discontinuous continuity-reflection
+                                                                                           reflection seismic facies,
+                                                               geologically signifies lateral changes in facies during
+In the northern part of the studied area seismic facies        the depositional period and indicating rapid changes
+analysis was interpretation on 2D-seismic
+                                    seismic line Ha85-
+                                                  Ha85         in energy levels of the depositional processes within
+005, shot along from North-northeast
+                                  northeast to North-
+                                                 North         the environment. These facies associated with
+northwest and intersected by well Ha-I1,
+                                      Ha      calibrated       continental depositional environments of higher
+with gamma ray log to delineate the depositional               energy facies, interpreted to be channel fill sediments
+environment
+ nvironment of the Valanginian succession in that              from an environment such as a braided,
+                                                                                                   braided meandering
+region (Figure 3.7). The seismic facies characteristic         stream, or a flood-plain,
+                                                                                     plain, a proximal deposit by a
+observed on the seismic reflection characterised with          fluvial channel and shallow marine to deep marine
+low amplitude, continuous to discontinuous, parallel           depositional environment in the offshore. The parallel
+to subparallel to hummocky clinoforms, wedge-like
+                                         wedge        to       to subparallel and to hummocky seismic reflection
+mounded geometry and low instantaneous frequency               association and its internal configura
+                                                                                              configuration of seismic
+reflection.                                                    facies is interpreted to denote the energy level. This
+
+                                                           7
+                                                                              Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+indicates a uniform energy environment causing a          variation in the environment of deposition and lateral
+stable condition and producing low energy facies          change in sedimentation rate within this depositional
+as in inter-deltaic and pro-deltaic
+                               deltaic environments       sequence, with the possibility of depositional build-up
+                                                                                                         build
+depositing clay or shale on a continental shelf.          of the sediments in a higher energy environment.
+These facies usually associated with shallow marine       These seismic facies associated with fluvial to
+shelf or with basin-margin to deep marine                 shallow marine shelf facies, while mounded facies are
+environments.                                             usually linked with the submarine fan complexes.
+                                                          Thus, the sediments on the northern part of the studied
+The wedge-like
+           like to mounded external geometry of the       area was deposited under shallow marine to deep
+seismic facies, geologically indicating a gradual         marine environment.
+
+
+
+
+                                                      8
+                                                                                    Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+The instantaneous frequency seismic facies attributes          progradation retrograding stacking paraseqparasequences
+geologically used to infer the bed spacing thickness of        (symmetrical shape), suggests an offshore shoal of
+the depositional sequence [11]. The seismic facies             transgressive sand bodies deposited in shelf
+association indicates low-reflection
+                            reflection between 0-20Hz
+                                                 0             environment.       The       aggradational      stacking
+which can be observed along the continuous strata              parasequence (cylindrical or blocky shape) indicates
+(Figure 3.7). It implies that this section was deposited       sediment build-upup of thick uniformly
+                                                                                             uniformly-graded coarse-
+as thick-bedded
+         bedded unit with greater depth of seismic             to-medium-to-fine-grained sandstone--silt-shale units.
+penetration but less seismic resolution power. These           Thus, this style of stacking pattern usually used to
+seismic facies associations are related with the slope         indicate the presence of a stable shoreline over a
+fan, basin-floor fan, on-shelf
+                           shelf delta, on-shelf
+                                         on      incised       period of time and more rapidly increasing
+valley, as well as a coastal delta and inner-shelf
+                                              inner            accommodation space in which sediment can be
+marine deposits.                                               deposits. This could ld be recognised in channel-fill,
+                                                                                                           channel
+                                                               submarine canyon–fill,
+                                                                                   fill, braided fluvial, delta, fluvial
+In addition, the calibrated GR-rayray log within this          flooding plain, storm dominated shelf, and distal deep
+Valanginian section indicates the presence of shale,           marine slope environments.
+silt and sand deposits (Figure 3.7). The series of
+depositional cycle patterns on gamma ray log                   In the southern part of the study area, the seismic
+signature such as aggradation stacking parasequence            facies attributes such as reflection amplitude and
+(cylindrical or blocky shape), progradational stacking         frequency strength, reflection continuity, internal-
+                                                                                                           internal
+parasequence (funnel shape, coarsening-upward)
+                              coarsening           and         configuration and external geometry were interpreted
+
+
+
+
+                                                           9
+                                                                                   Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+on 2D-seismic line Ha82-014. 014. The line intersected         lobe environment. Thus, week amplitude to disrupt to
+well HA-B2B2 at 1199ms (TWT) on contact between J1             discontinuous facies, suggested that Valanginian
+horizon and P1 horizon on the Berriasian sequence              section was deposited under deep marine condition.
+boundary which was shot from South to East
+direction. Then calibrated GR-log
+                                log curves of well Ha-
+                                                   Ha          The internal reflection-configuration
+                                                                                         configuration seismic facies
+B2, to decipher the depositional environment of the            attributes indicate the depositional energy of
+Valanginian section (top of P1-to- J1 horizons).
+                                        horizons) The          environments. The low-energy
+                                                                                        energy is related to deposition
+seismic facies were characterised with weak                    of finer clastics such as clay while the high energy is
+amplitude (low to medium amplitude) reflection with            linked to coarser clastics such as sands. A subparallel
+disrupted to discontinuous seismic facies association          sequence seismic facies association geologically
+(Figure
+      re 3.8). This geologically implies that poor             implies stability with uniform sedimentation condition
+amplitude reflections with variation in continuity             of deposition that is either subsiding or close to the
+indicates monotonous lithology mostly inferred as              basin shelf. While the hummocky pattern is frequently
+marine shale, though it could sometimes be the                 linked with low energy facies such ass interdeltaic and
+massive continental sands. It also implies that there          prodeltaic clays or shales deposited close to the
+were lateral
+          ral changes in facies during the depositional        continental shelf. Thus the Valanginian section
+process that was associated with continental to marine         deposited with low energy facies such as silts and
+depositional environments of higher energy facies.             shales as observed in the calibrated gamma ray log
+The depositional environment usually associated with           curves of well Ha-B2 B2 (Figure 3.8) witwith a uniform
+this facies varies from continental (channel fill)             sedimentation of the sequence deposited within a
+sediments to marine (probably as a submarine                   shallow marine environment (e.g. prodelta,
+canyon) with a canyon fill deposit and sub marine fan          continental shelf or basin shelf).
+
+
+
+
+                                                          10
+                                                                                                                                                                     Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+                                                           Table 4.1. Overview of seismic facies that have been defined in this study
+
+Well    Well        Seismic   Amplitude   Continuity           Internal           External          Frequency     Seismic          Depositional system         Depositional             Lithofacies
+names   location    facies:                                    configuration      Geometry                        sequence:                                    environment              association
+                                                                                                                  Boundaries
+                                                                                                                  (Upper,
+                                                                                                                  Lower)
+Ha-G1   North       SF1       Moderate-   Disrupted –to-       Subparallel –      Wedge-like        Medium to     Top lap;         Aggradational stacking      Delta, Submarine         Sand-to-Silt-
+        (Central)             to-Low      discontinuous        Hummock            to Mounded        High          Erosional        pattern.                    fan, Shallow-to-         dominated &
+                                                               clinoform          geometry          Reflection                                                 Deep Marine              Shale.
+Ha-I1   North       SF2       Low         Continuous -         Parallel-to-       Wedge-to-         Low           Onlap;           Aggradational &             Basin floor close to     Shale
+                                          Discontinuous        Subparallel-to-    mounded           Frequency     Erosional        Progradational-             the source, Shallow      dominated Silt,
+                                                               hummock            geometry                                         retrograding stacking       marine shelf &           & Sand.
+                                                               clinoform                                                           pattern.                    Deep marine.
+Ha-B2   South       SF3       Low-to -    Disrupted to         Subparallel-to-    Wedge-like        Low           Down lap         Aggradational,(Condense),   Basin floor fan,         Silt dominated,
+                              Moderate    discontinuous        hummock            form              Frequency                      Retrogradational stacking   Basin floor shelf        Shale & Sand
+                                                               clinoform                                                           pattern                     edge, Shelf-delta,
+                                                                                                                                                               Slope fan, &
+                                                                                                                                                               Maximum flooding
+                                                                                                                                                               surface (MSF)
+Ha-K1   South       SF4       High-to-    Continuous-to-       Parallel-to-       Sheet-to-         High to Low   Down lap         Aggradational,(Condense),   Basin floor fan,         Sand
+                              Moderate    Semi continuous      Subparallel        Wedge             Frequency                      Retrogradational stacking   Basin floor shelf        dominated,
+                                                                                  geometry                                         pattern                     edge, Shelf-delta,       Erosional
+                                                                                                                                                               Slope fan &              channel sand,
+                                                                                                                                                               Maximum flooding         silt.
+                                                                                                                                                               surface (MSF).
+
+
+
+
+                                                                                               11
+                                                                                      Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+The external geometry seismic facies association                graded medium-to-fine-coarsecoarse grained silt silt-shale-
+characterized by a wedge-like like seismic facies as            sandstone units as observed in the stacking pattern
+observed from the 2D-seismic
+                       seismic line Ha85-014
+                                     Ha85        of the         (Figure 3.8) and suggests a stable shor shoreline over a
+Valanginian section. This facies association represents         period of time, along with more rapidly increasing
+the sudden break of sedimentation pattern and is                accommodation space for sediment to be deposited.
+commonly associated with fluvial to shallow marine              Thus, this is commonly found in depositional
+shelf facies.                                                   environments such as: channel-fill,      fill, submarine
+                                                                canyon–fill,
+                                                                         fill, and delta deposits, fluvial flooding pplain,
+The instantaneous frequency seismic facies reflection           storm dominated shelf deposits and a distal deep
+attributes are geologically interpreted to t infer the          marine slope environment. The retrogradational
+thickness (bed spacing) of a depositional sequence              stacking pattern observed in the gamma gamma-ray motif
+[12]. The low instantaneous frequency attribute                 suggests an increasing of clay or shale content
+seismic facies reflection between 0-20Hz20Hz indicates          deposited during the period. Such stacking pattern
+that the sequence within Valanginian section                    usuallyy found in an environment such as: a fluvial
+developed thick deposits with great depth of                    point bar, tidal point bar, deep tidal channel
+                                                                                                        channel-fill, tidal
+penetration
+      tration (Figure 3.8) but with low resolution              flat or in transgressive shelf environments in a
+power. This seismic facies is related with a slope fan,         continental to shallow marine depositional
+basin-floor fan, on-shelf delta, on-shelf
+                                    shelf incised valley        environment.
+and also a coastal delta or inner-shelf
+                                  shelf marine deposits
+in between shallow marine and deep marine                       4.3 The Lithofacies Depth Thickness Surface
+environments.                                                       Attributes Map Results and Interpretation
+The calibrated GR-log well Ha-B2   B2 with the 2D-2D            A lithofacies depth thickness model map (Seismic
+seismic line Ha82-014
+                  014 indicated series of depositional          facies map) was created for the Valanginian section.
+cycle of gamma-ray
+                 ray log motifs such as aggradation             The objective of the modeling was to delineate the
+stacking parasequence (cylindrical or blocky shape) or          flooding of the depositional sequence pa
+                                                                                                       pattern via 3D
+a retrogradational stacking parasequence. This                  model, to provide a better and detailed understanding
+aggradation stacking parasequence which usually                 of the pattern of the depositional sequence (Figure
+indicates sediments built-up
+                           up with thick uniformly              3.9). The 3D perspective view of the depth attribute
+
+
+
+
+                                                           12
+                                                                                    Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+surface map of the facies model of J1 horizon                   shallow marine to deep marine environments. The
+(Valanginian section) of the study area, indicates a            electrical log signatures from the studied well in the
+mass flooding thick bedded siltstone lobe (siltstone            Valanginian sections from the north to south indicates
+facies) with intercalated fine mud-rock (shale facies)          an aggradation stacking parasequence (cylindrical or
+and minor sandstone in low energy turbidite channel             blocky shape). The lithology mainly dominated by
+depositional environment area in the south-western              sediments built-up of thick uniformly graded medium-
+part of the study area. While in the Northern part of           to-fine-to-coarse grained-silt-shale-sandstone units.
+the section indicates a diachronous deposition                  All these information suggests the deposition under
+dominated by sandstone intercalated with minor                  deep tidal channel-fill, shallow marine, submarine
+siltstone and shale. This was deposited in a high               channel to deep marine depositional environments.
+energy turbidite channel, followed by low energy                The 3D-lithofacies surface depth attribute facies map
+settling of the siltstones and shale before the next            indicates a mass flooding characteristic of the
+pulse of high energy sandstone was deposited.                   Valanginian section and are represented by thick
+                                                                bedded siltstone lobe (siltstone facies) with
+In the north-east to the south-east area of the well Ha-        intercalated fine mud-rock (Shale facies) and minor
+K1, the depositional sequence indicate that a high              sandstone in low energy turbidite channel, in addition
+energy turbidites might be encountered in which                 with a diachronous deposition dominated by
+marine depositions dominated by sandstone                       sandstone, intercalated with minor siltstone and shale,
+intercalated with siltstone and minor shale as                  probably deposited in a high energy turbidite channel,
+observed in (Figure 3.9.) The formations are also               followed by low energy siltstones and shale before the
+characterized by erosional surfaces possibly this               next pulse of high energy sandstones deposited in the
+might be due to tectonic processes resulting in                 northern part. The north-east to the south-east of the
+erosional events due to uplift. Thus, created a                 Valanginian sequence suggests that high energy
+sediment hiatus in the formation.                               turbidites might be encoutered, the marine deposits
+                                                                dominated by sandstone intercalated with siltstone
+5. CONCLUSIONS                                                  and minor shale are characterized by erosional
+                                                                surfaces due to tectonic processes as a result of uplift
+The seismic stratigraphy based on seismic sequence
+                                                                that created a depositional hiatus. Based on the
+and seismic facies analysis using characteristics of the
+                                                                results, these approaches are proven technique to
+seismic reflection termination and configuration
+                                                                understand the environments of the sediments
+pattern analysis approach as outlined by [2] and [1],
+                                                                belonging to the Valanginian stage within a
+has been used to delineate the depositional
+                                                                sedimentary basin.
+environments of the sediments of Valanginian (Early
+Cretaceous) age, in the Gamtoos Basin, Offshore                 ACKNOWLEDGEMENTS
+South Africa. The seismic reflections terminations
+patterns characteristics such as toplap, erosional              The authors wish to acknowledge the Petroleum
+truncation, onlap and downlap, for the seismic                  agency South Africa, Cape Town office for providing
+sequence analysis interpretation for the studied wells          data used in this study.
+from the north to the south in the study area
+respectively, indicated a deep marine depositional              COMPETING INTERESTS
+environment, that comprises a submarine fan, basin
+floor fan, and abyssal depositional environments. The           Authors have declared that no competing interests
+seismic sequences analysis based on the seismic                 exist.
+reflection termination characteristic pattern such as
+toplap, onlap, downlap and erosional truncation                 REFERENCES
+around the studied wells in the Valanginian section
+from the north to south reveal that the depositional            1.    Mitchum Jr, RM, Vail PR, Thompson III, S.
+environments is mainly under deep marine                              Seismic stratigraphy and global changes of sea
+depositional set up comprises of submarine fan, basin                 level: Part 2. The depositional sequence as a
+floor fan, and abyssal environments. While he seismic                 basic unit for stratigraphic analysis: Section 2.
+facies analysis interpreted based on the seismic                      In: Payton, C.E (Ed), Application of seismic
+reflection configuration attributes such as amplitude                 reflection configuration to stratigraphic inter-
+strength and frequency, reflection continuity, external               pretation. American Association of Petroleum
+configuration analysed from the north to the south.                   Geologists Memoirs 1977;26:53-62.
+The depositional succession belonging to the                    2.    Vail PR, Mitchum RM, Thompson III, S.,
+Valanginian age indicate a low energy facies , inter-                 Seismic stratigraphy and global changes of sea
+deltaic / pro-deltaic to continental shelf, a submarine               level, part 3: Relative changes of sea level from
+canyon fill deposit and sub marine fan lobe under                     coastal onlap, In: C.W. Payton, (Ed),. Seismic
+
+                                                           13
+                                                                                                               Ayodele et al.; JOBARI, 26(1): 1–14, 2020
+
+
+                              stratigraphy applications to hydrocarbon             Mesozoic and Cenozoic deposits on the
+                              exploration:     American      Association    of     coastal margin of South Africa. In:
+                              Petroleum Geologist (AAPG) Memoirs. 1977;            Anderson AM, Van Biljon WJ. (Eds.), Some
+                              26:63-97.                                            Sedimentary Basins and Associated Ore
+                         3.   Malan JA, Martin AK, Cartwright JA. The              Deposits of South Africa. Geological Society
+                              structural and stratigraphic development of the      of South Africa Special Publication.
+                              Gamtoos and Algoa Basins, offshore South             1979;6:161-181.
+                              Africa. Abstract, Geocongress. Gological 9.          Broad DS. Petroleum geology and hydrocarbon
+                              Society of South Africa. 1990;90:328-331.            potential of the Gamtoos Basin, Soekor Report.
+                         4.   McMillan IK, Brink GI, Broad DS, Maier JJ.           1989;56. (Unpublished Report PASA).
+                              Late Mesozoic sedimentary basins off the south 10.   Broad DS. Petroleum geology of Gamtoos and
+                              coast of South Africa. In Sedimentary Basins         Algoa Basins. Geological Society of South
+                              of the World Elsevier. 1997;3:319-376.               Africa. 1990;60-63.
+                         5.   Abiola O, Olowokere MT. Seismic facies
+                              analysis and depositional process interpretation 11. Zeng H, Jackson JA, Jackson KG. Thin-bed
+                              of ‘George Field’ offshore Niger Delta,              detection and correlation with instantaneous
+                              Nigeria. Journal of Basic and Applied Research       frequency. In SEG Technical Program
+                              International. 2016;13(4):243-252.                   Expanded Abstracts, Society of Exploration
+                         6.   Malan JA. Geology, potential of Algoa,               Geophysicists. 2010;1292-1296.
+                              Gamtoos Basins of South Africa. Oil and Gas      12. Zeng H. Geologic significance of anomalous
+                              Journal; (United State). 1993;91(46):1-4.            instantaneous frequency. Geophysics, 2010;
+                         7.   Roksandic MM. Seismic facies analysis                75(3):23-30.
+                              concepts. Geophysics, Prospect. 1978;26:383- 13.     Letullier A. South Africa, Southern and Eastern
+                              398.                                                 Offshore Basins, Karoo Basin. African
+                         8.   McLachlan IR, McMillan IK. Microfaunal bio-          Exploration Opportunities. Petroconsultants
+                              stratigraphy, chronostraigraphy and history of       S.A., Geneva, Switzerland. 1992;1-278.
+                         __________________________________________________________________________________________
+                                                     © Copyright International Knowledge Press. All rights reserved.
+
+
+
+
+                                                                                  14
+
+
+
+View publication stats
+

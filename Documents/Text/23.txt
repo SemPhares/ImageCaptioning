@@ -1,0 +1,1054 @@
+                                                             Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+
+                                                              Contents lists available at ScienceDirect
+
+
+                                                     Marine and Petroleum Geology
+                                           journal homepage: www.elsevier.com/locate/marpetgeo
+
+
+Review Article
+
+Diagenetically induced shear failure of ﬁne-grained sediments
+and the development of polygonal fault systems
+Joe Cartwright
+3DLab, School of Earth, Ocean and Planetary Sciences, Cardiff University, Main Building, Park Place, Cardiff CF10 3YE, Wales, UK
+
+
+
+
+a r t i c l e i n f o                                  a b s t r a c t
+
+Article history:                                       Polygonal fault systems (PFS) are widely developed along many continental margin basins and some
+Received 23 July 2010                                  interior cratonic and foreland basins. They are networks of small normal faults that are usually found in
+Received in revised form                               tiers which are crudely layer-bound successions consisting mainly of ﬁne-grained sediments. Their origin
+25 May 2011
+                                                       has been widely debated with explanations ranging from dewatering of overpressured layers to gravi-
+Accepted 6 June 2011
+Available online 5 July 2011
+                                                       tational loading under ﬁxed lateral boundary conditions. Their distribution in ﬁne-grained intervals
+                                                       suggests that their genesis is connected to their initial lithology. Recent experimental work suggests that
+                                                       diagenesis of clay-rich sediments can lead to shear failure under low conﬁning stresses. This explanation
+Keywords:
+Polygonal fault systems
+                                                       accords well with all subsurface observations of PFS made to date, and seems the most likely mechanism
+                                                       to explain their genesis. This diagenetic mode of shear fracturing in ﬁne-grained sediments could be
+                                                       much more prevalent than in polygonal fault systems alone, and this has signiﬁcant implications for
+                                                       shale gas exploration, CO2 sequestration and exploration for methane hydrates.
+                                                                                                                                 Ó 2011 Published by Elsevier Ltd.
+
+
+
+
+1. Introduction                                                                            conventional petroleum reserves, shale gas and methane hydrate
+                                                                                           resources. The main motivation for this review is to widen aware-
+   In the past decade or so, it has become widely recognised that                          ness of diagenetically-induced fracturing as a novel form of shear
+many ﬁne-grained slope and basin-ﬂoor systems of intracratonic,                            failure, and to highlight that this process can contribute to the
+continental margin and foreland basins are pervasively deformed                            development of regional scale shear fracture networks and should
+early in their burial history by shear fractures and normal faults.                        be considered explicitly in any structural analysis of fracture
+These fractures and faults aggregate into networks whose chief                             patterns in shales or ﬁne-grained depositional systems.
+characteristic is their polygonal planform geometry, hence the term
+used to describe them, Polygonal Fault Systems (PFS). PFS are found
+                                                                                           2. Polygonal fault systems
+exclusively in sedimentary units with a dominantly clay grain size,
+but in host sediments that range from smectitic claystones to
+                                                                                              Polygonal Fault Systems (PFS) are deﬁned as laterally extensive
+almost pure chalks. They are very common, and have been recog-
+                                                                                           arrays of extensional faults that are characterised by a polygonal
+nised in over 100 mainly continental margin basins.
+                                                                                           planform geometry and are conﬁned to a speciﬁc stratigraphic
+   The main aim of this paper is to brieﬂy review the distribution
+                                                                                           interval i.e. they are layer-bound (Fig. 1). Layer-bound extensional
+and geometrical characteristics of PFS, and current models for their
+                                                                                           faults were ﬁrst recognised as being of a non-tectonic origin by
+genesis. A particular emphasis of this review focuses on recent
+                                                                                           several authors in the1980s using conventional 2D seismic data
+experimental work suggesting that PFS form as a direct result of
+                                                                                           (Buckley and Grant, 1985; Williams, 1987; Henriet et al., 1989), but
+early diagenesis (the term ‘diagenesis’ in this paper refers to
+                                                                                           it was only with the widespread development of 3D seismic
+chemical changes, as opposed to purely mechanical such as
+                                                                                           surveying in the 1990s that their hallmark characteristic of polyg-
+consolidation). This mechanism is evaluated further, and the
+                                                                                           onal planform geometry became fully apparent (Cartwright,
+discussion focuses on evaluating diagenetic reactions that could
+                                                                                           1994a,b).
+have led to natural fracture development on the scales and with the
+distribution observed for PFS. The paper concludes by considering
+the wider signiﬁcance of this mechanism for the exploitation of                            2.1. Global distribution
+
+                                                                                              PFS are recognised on seismic data in over 100 basins world
+    E-mail address: CartwrightJA@cardiff.ac.uk.                                            wide, mainly in slope settings along continental margins (Fig. 2).
+
+0264-8172/$ e see front matter Ó 2011 Published by Elsevier Ltd.
+doi:10.1016/j.marpetgeo.2011.06.004
+1594                                                        J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+                                                                                               For example, in the smectite-rich claystones of the Cretaceous in
+                                                                                               the Eromanga Basin of Eastern Australia, a PFS extends for
+                                                                                               >2,000,000 km2. They are generally absent from convergent
+                                                                                               margin and foreland basins, although a few examples are known
+                                                                                               from both basin types, notably in Argentina (Neuquen Basin), and
+                                                                                               the outer portions of the Barbados and Nankai accretionary
+                                                                                               prisms (Fig. 2).
+                                                                                                   The enormous lateral extent of PFS makes them quite unique as
+                                                                                               structures: no other type of fault or fracture network is so
+                                                                                               uniformly developed on such a vast areal scale. This extent owes
+                                                                                               much to the stratigraphic units in which the faults are concen-
+                                                                                               trated, referred to as ‘tiers’ (Cartwright, 1994a). These tier units
+                                                                                               range from a few tens of metres to over 2 km in thickness, are
+                                                                                               generally dominantly composed very ﬁne grain size particles (clay
+                                                                                               grade), and commonly comprise smectite-rich claystones or
+                                                                                               biogenic mudstones (both carbonate and biosiliceous composi-
+                                                                                               tions)(Cartwright and Dewhurst, 1998; Dewhurst et al., 1999). The
+                                                                                               edges of many PFS occur either where the tier thins beneath some
+                                                                                               critical limit of a few tens of metres (Cartwright, 1994a) or where
+                                                                                               there is a pronounced bulk facies change within the tier, e.g. from
+                                                                                               a dominantly clay-rich interval (PFS present) to a sand rich interval
+                                                                                               (PFS absent). Where thin sandstone units are interbedded with
+                                                                                               much thicker intervals of ﬁne-grained strata, the sandstones are
+                                                                                               offset by the polygonal faults which propagate from the adjoining
+                                                                                               clay-rich layers (Stuevold et al., 2003). Thus certain types of
+                                                                                               reservoir units (typically deepwater sandstones) can be pervasively
+                                                                                               faulted, and potentially compartmentalised by polygonal faults
+                                                                                               (Moller et al., 2004), which has important implications for petro-
+                                                                                               leum development in these settings.
+Figure 1. Schematic cross sections through different types of tiers of polygonal faults.
+A: is an idealised tier consisting of regular and even numbers of oppositely dipping           2.2. General structural observations
+faults, shown with gently listric geometries. B: is a wedge tier, where the preponderant
+dip component is upslope and towards the thin end of the wedge. Note that some of
+                                                                                                   The majority of what we currently know of PFS comes from
+the larger faults have propagated beneath the tier into the layer below (grey tone). C: is
+a complex tier, with just a few ‘master’ faults, transecting the full thickness of the tier,
+                                                                                               seismic interpretation, mainly using 3D seismic surveys acquired
+and with many other smaller faults that ﬁll the space between these larger faults,             by the petroleum industry, i.e. with the limitations of spatial and
+intersecting with them at different levels within the tier.                                    vertical resolution of each survey. Faults comprising PFS are
+                                                                                               exclusively normal, and appear to be dominantly dip-slip in their
+                                                                                               kinematics (Fig. 3). Individual faults are typically planar in tiers of
+PFS are also developed in many abyssal basins, and some foreland                               modest thickness (<200e300 m) but tend to be more gently listric
+and intracratonic basins (Cartwright and Dewhurst, 1998). Over                                 in thicker tiers, due to compactional ﬂattening of the fault planes
+90% of these occurrences are in divergent continental margin                                   with increasing vertical stress (Stuevold et al., 2003). Where
+basins, and are generally hosted in slope depositional systems                                 observed close to the modern seabed, polygonal faults have dips in
+consisting mainly of hemipelagites where the successions are                                   the range 50e80 , whereas deeper buried tiers have much ﬂatter
+dominated by high proportions of clay-sized grains. When they                                  dips, of the order to 20e50 (Lonergan et al., 1998). The shallowing
+occur, they invariably extend over large distances of the basin area.                          of dip for deeper tiers is also attributed to compactional ﬂattening
+                                                                                               with increasing burial. Pronounced listric geometries are rare, and
+                                                                                               when observed, usually involve a discrete detachment level at the
+                                                                                               base of the tier (Fig. 3b).
+                                                                                                   There is considerable variation in the style of fault geometry
+                                                                                               both laterally within individual tiers and between different types of
+                                                                                               tier. Two end members of faulting styles are illustrated in Figure 4.
+                                                                                               Tiers comprising a unit of more or less constant thickness tend to
+                                                                                               have approximately equal numbers of faults dipping in opposite
+                                                                                               directions on any line of section drawn through the tier (Fig. 4a).
+                                                                                               Conjugate pairs occasionally develop in this type of tier (Fig. 5). In
+                                                                                               contrast, tiers with a wedge geometry tend to have a large majority
+                                                                                               of constituent faults that dip towards the thin end of the wedge
+                                                                                               (Fig. 4b). This directional bias was explained by Mandl (1988) for
+                                                                                               a general case of preferential development of one of a pair of
+                                                                                               potential conjugate faults propagating in a dipping layer. It is quite
+                                                                                               common, that some form of hybrid of these two end members is
+                                                                                               developed (Fig. 4c), often with some of the faults being much larger
+                                                                                               than others. These larger faults (master faults) transect the
+Figure 2. Global occurrence of polygonal fault systems. Black dots are basins where            complete vertical extent of the tier, whereas all the other faults are
+PFS have been identiﬁed using 2D and 3D seismic data.                                          restricted in their vertical extent.
+                                                          J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                     1595
+
+
+                                                                                             timing of when the faults cease to be active. However, the controls
+                                                                                             on basal propagation are less well understood, but most likely
+                                                                                             reﬂect mechanical effects of changes in the lithology. The
+                                                                                             constraints of propagation in a polygonal network thus introduce
+                                                                                             a natural scatter to the displacement distribution, as also seen for
+                                                                                             individual populations in Fig. 6.
+
+                                                                                             2.4. Vertical displacement variation on single faults
+
+                                                                                                 The distribution of displacement on individual faults is impor-
+                                                                                             tant to assess because it can shed light on the growth history of the
+                                                                                             fault (Walsh and Watterson, 1988), and on the strain to be expected
+                                                                                             in damage zones neighbouring the faults (Knipe, 1997). A simple
+                                                                                             proxy for the vertical displacement distribution on polygonal faults
+                                                                                             can be obtained by measuring throw versus depth (t-z) for indi-
+                                                                                             vidual faults. If the fault plane dip is >60 , and reasonably planar,
+                                                                                             this throw value is generally a useful proxy for displacement. T-z
+                                                                                             plots compiled from a number of different basins show that most
+                                                                                             polygonal faults conform to the types of throw variation pattern
+                                                                                             expected for simple blind faults (Barnett et al., 1987; Walsh and
+                                                                                             Watterson, 1988; Baudon and Cartwright, 2008a), albeit with
+                                                                                             some deviation from an idealised distribution due to changes in
+                                                                                             mechanical properties with depth, or due to blocking or arrest of
+                                                                                             propagation at mechanical boundaries (Nicol et al., 1996;
+                                                                                             Watterson et al., 2000).
+                                                                                                 A representative selection of T-z plots are presented in Figure 7.
+                                                                                             They generally have a crudely central maximum, either with
+                                                                                             a sharp peak or a plateau region, and upper and lower regions with
+                                                                                             a marked gradient in throw. The lower gradient is usually larger
+                                                                                             than the upper. In some, there is a tendency for the maximum value
+                                                                                             to be closer to the base than the upper tip, giving an overall
+                                                                                             asymmetrical proﬁle. Only rarely is the maximum found within the
+Figure 3. Seismic expression of polygonal faults. A: a proﬁle from offshore Norway           lower 10e20% of the overall height of the fault. Some of the plots
+where small throw normal faults are of alternating apparent dips comprise a simple
+                                                                                             have an increased throw gradient close to the upper tip, and this is
+tier. Throws are modest, ranging from 10 to 40 m, and mapping shows a mainly dip-
+slip conﬁguration of planar to gently listric fault planes, dipping at c. 50e60 . B: This
+                                                                                             most likely the result of upwards-directed fault propagation from
+proﬁle shows a more deeply buried set of polygonal faults from offshore Norway, with         the subsurface to reach the seabed, so that the fault then behaves in
+more strongly listric geometry, and average dips ranging from 40 to 50 , tipping            a synsedimentary fashion (Baudon and Cartwright, 2008b). Good
+basally at the high amplitude event (TB). Vertical scale same for both sections. Data        examples of polygonal faults acting as synsedimentary faults are
+courtesy of Statoil A/S.
+                                                                                             known from offshore Norway, where polygonal ‘growth’ faults
+                                                                                             inﬂuence reservoir volumetrics in the Ormen Lange Field (Stuevold
+                                                                                             et al., 2003; Moller et al., 2004).
+2.3. Maximum displacement on polygonal faults                                                    It may be hard to differentiate between a wholly blind growth
+                                                                                             history, and one where the fault reaches the free surface at some
+    Although polygonal faults are conﬁned to speciﬁc stratigraphic                           point during the propagation, especially if the upward propagation
+intervals, they can nonetheless exhibit sizeable displacement                                of the tipline just keeps pace with addition of newly sedimented
+values. The maximum displacement values for polygonal faults                                 layers. Recognition of true blind faults is extremely difﬁcult, and
+range globally from a few metres or less to over 120 m (Fig. 6),                             requires contouring of displacement and mapping of the entire
+although measurements at the lower end are truncated by vertical                             fault surface in three dimensions (Baudon and Cartwright, 2008a).
+resolution limitations of the seismic data. Higher frequency seismic                             The upper and lower regions of t-z plots provide information on
+data (e.g. typical of those acquired for offshore site surveys) often                        the throw gradients, and for steep faults, these are useful proxies
+reveal the continuation of a polygonal fault system, where none can                          for fault-parallel strain. The global range for the average or
+be identiﬁed with conventional lower frequency seismic data                                  smoothed basal gradient is 0.01e0.35, and for the upper tip region
+(Fig. 7). This begs the important question of what is the full scale                         the gradient range is 0.01e0.8 (e.g. Nelson, 2007). Values greater
+range of faults or fractures within a single polygonally faulted tier,                       than c. 0.3, for the upper tips are likely to have resulted from
+and is addressed speciﬁcally below.                                                          synsedimentary growth, i.e. where the tipline emerged at or very
+    The maximum displacement of polygonal faults is observed to                              close to the surface (Baudon and Cartwright, 2008b).
+crudely scale with fault plane height (Fig. 6) (Shin et al., 2010).                              The basal gradient is perhaps the most important parameter to
+Within any individual PFS the range is usually much smaller than                             consider further, because in all cases it must equate to the strain
+the global range, and reﬂects the strong control of interaction and                          accumulating due to propagation and growth, and may therefore
+linkage on the displacement distribution. Faults that link early in                          give some idea of complimentary small scale (sub-seismic) frac-
+their history with other faults in the tier tend to have smaller                             turing that might be expected in the strained wallrock regions. This
+maximum displacement values, simply because their continued                                  approach is less likely to be viable for the upper tip region, where
+propagation is blocked at the lateral tips, and conﬁned by one or                            the gradient values may include a component of throw that accu-
+both tier boundaries (Nicol et al., 1996; Lonergan et al., 1998). The                        mulated whilst the fault was at or close to the surface, and the
+upper limit of a polygonal fault tier is most likely the result of                           throw variation may in part reﬂect differential sediment
+1596                                                     J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+
+
+Figure 4. Seismic expression of tier structure. A: This proﬁle shows the characteristic structural style of a simple tier, with approximately equal numbers of mainly planar to gently
+listric normal faults dipping in either apparent direction. The upper tips are located within two-three reﬂections of a common boundary; similarly for the lower tips. B: a wedge type
+of tier, consisting of mainly uniformly dipping listric normal faults. The upper tips occur at a common single horizon, but the lower tips are not easily recognised in the lower
+amplitude package of reﬂections. Arrowed is a prominent horizon close to the maximum throw position on most faults, that shows the prevailing bed rotation towards the thick end
+of the wedge on a regional scale. Seismic data courtesy of Statoil A/S and Total.
+
+
+
+accumulation on either side of the fault, rather than wallrock strain
+per se. In nearly all cases, reduction in throw towards the basal tip
+corresponds to systematic changes in structure of the hangingwall
+and footwall strata surrounding the lower tip region, with localised
+folding (Fig. 8). A linear gradient to the basal tip, usually equates to
+a gradual change in hangingwall and footwall stratal dips. More
+complicated strain distribution occurs in areas of intersection with
+neighbouring faults; a common situation in a polygonal array. A
+downwards increase in gradient usually is manifested in localised
+changes in dip with pronounced stratal rotation in the interval of
+steepest gradient, and localised fold hinges where minor fracturing
+may be expected to occur.
+
+
+2.5. Three-dimensional displacement variation on single faults
+
+    Because individual polygonal faults are almost exclusively found
+in complex networks where mutual intersection is the general rule,
+it is generally difﬁcult to assess the displacement distribution in                           Figure 5. Height versus maximum throw for 629 faults from nine separate polygonal
+                                                                                              fault systems world wide. Polygonal faults in these nine areas have not been deeply
+three dimensions. One recent study tackled this problem (Nicol                                buried, and their upper tips are within 20e300 m of the surface. Faults were selected
+et al., 2003) and demonstrated that signiﬁcant partitioning of                                with at least one lateral tip unrestricted. Most of the data are bounded within throw/
+displacement occurs at and around intersection branch lines.                                  height ¼ 0.045  0.016 (from Shin et al., 2010).
+                                                         J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                         1597
+
+
+
+
+Figure 6. Throw (T) versus depth (z) measurements for polygonal faults. A: seismic proﬁle showing the sort of resolution of reﬂection offsets that are useful for making T-z plots,
+with a notional datum shown as dotted line from which to judge relative displacement ﬁeld (see e.g. Shin et al., 2010). B: Representative T-z plots of three faults, taken close to the
+point of maximum throw on each fault, showing classical patterns of M or C type of blind faults (Baudon and Cartwright, 2008a).
+
+
+
+
+Similar results for intersection geometries were obtained by                                  look polygonal at all (Fig. 9c, inside rectangular box), but when set
+Stuevold et al. (2003) and more recently by Nelson (2007), who also                           in a larger regional context, it clearly forms part of a PFS.
+documented the detailed three-dimensional displacement distri-                                   The occurrence of a polygonal geometry raises a number of key
+bution on several examples of relatively isolated faults in a PFS from                        questions that are important for any resource ebased analysis in an
+the Voring Basin, Norway (Fig. 7). These few examples all exhibit                             area of polygonal faulting:
+elliptical shapes and concentric contour patterns typical of blind
+normal faults (Fig. 8), suggesting that the early isolated stage of                               What does the polygonal pattern imply about the state of stress
+network evolution is governed by classical blind fault propagation                                 during initiation and subsequent propagation?
+processes (Barnett et al., 1987; Walsh and Watterson, 1988).                                      Can the growth of the system be explained by analysing vari-
+                                                                                                   ations in the polygonal patterns?
+2.6. The polygonal planform                                                                       Can we predict smaller scale fracture families based on
+                                                                                                   a knowledge of the seismic-scale fault network?
+    The polygonal planform pattern of the fault array is the most
+critical diagnostic characteristic of a PFS, and allows them to be                                Controls on the speciﬁcs of the planform geometry are poorly
+distinguished from other layer-bound fault systems, such a crestal                            understood, but include the following: (1) tier layer thickness, (2)
+collapse faults or differential compaction faults. There is a huge                            lithology of single layers and multilayers within a tier, and (3) in
+variation in the polygonal planform, both laterally within a single                           situ tectonic stresses. Before assessing the relative contributions of
+PFS and for different PFS (Fig. 9). These patterns can be classiﬁed                           these controls, some quantiﬁcation of the variations in polygonal
+using some simple end members (Lonergan et al., 1998) designed to                             pattern using standard statistical techniques for fracture analysis
+capture the degree of linearity or curvature of individual faults in                          (Marrett et al., 1999; Gillespie et al., 2001) is recommended.
+the array. It is important to emphasise that there is no standard                             Measurements can be made directly from seismically-derived
+polygonal pattern: wide variation is typical, and to assess whether                           structure or attribute maps of (1) the strike distribution, (2) the
+a given fault array is polygonal, it is important to view the network                         length distribution, (3) the intersection angle distribution, (4) the
+over as large an area as possible, to take account of any local vari-                         distribution of fault-bounded areas, (5) the fault density, and (6) the
+ations. In some small areas, for example, the fault pattern may not                           fault spacing along scan lines (Tuckwell et al., 2003).
+1598                                                      J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+                                                                                              (2002). Some PFS consist largely or almost entirely of curved faults
+                                                                                              (Fig. 8b). Strongly curving faults in planform are often, but not
+                                                                                              invariably listric in section. The tendency to curve may be related to
+                                                                                              lithology: it is much more commonly seen, for example, in tiers that
+                                                                                              are mainly composed of biosiliceous sediments than any other
+                                                                                              dominant lithology.
+                                                                                                  Polygonal planform patterns vary considerably in the degree of
+                                                                                              system ‘maturity.’ The concept of system maturity comes from
+                                                                                              fragmentation theory, and can be usefully applied to the analysis of
+                                                                                              PFS (Fig. 10). Immature systems are ones with a low proportion of
+                                                                                              hard-linked intersections (Fig. 10a), whereas mature systems have
+                                                                                              a much high proportion (Fig. 10b). Any given PFS evolves with time
+                                                                                              from immature to mature states as a result of progressive propa-
+                                                                                              gation, displacement accumulation and linkage, echoing a general
+                                                                                              process of fault array development amongst most fault arrays
+                                                                                              (Peacock and Sanderson, 1991; Cartwright et al., 1995; Dawers and
+                                                                                              Anders, 1995). Since within all PFS it is possible to see this gradation
+                                                                                              by looking at the edges of the PFS (Fig. 11), where the fault array
+                                                                                              exhibits a progressively simpler geometry, with more open
+                                                                                              networks and higher proportions of unrestricted lateral tips
+                                                                                              towards the outer limit of the PFS.
+                                                                                                  This maturity concept thus strongly suggests that there is
+                                                                                              a signiﬁcant temporal progression to the whole process of PFS
+                                                                                              development, whereby newly forming faults nucleate and propa-
+                                                                                              gate diachronously such that the available volume becomes more
+                                                                                              fully saturated with faults as time proceeds, and the density of fault
+                                                                                              intersections and proportion of hard-linked intersections also
+Figure 7. Displacement distributions close to fault intersections in polygonal fault
+systems. The block diagram is from a mapped horizon midway through a tier and                 increases with time. This concept is intrinsic to any analysis of the
+shows a primary fault (segments A and C), and an intersecting fault B. At the inter-          genetic mechanism, since it implies that the state of stress leading
+section, the large value of displacement on C is matched by the sum of the displace-          to failure is not transient, but persists during a longer period of
+ment on A and B, as seen in the graphical plot (from Nelson, 2007, see also Nicol et al.,     network evolution as new faults constantly form in gaps between
+2003).
+                                                                                              earlier formed faults (Fig. 10c). In some mature PFS, it is possible to
+                                                                                              see a second order polygonal network forming presumably later,
+                                                                                              and within a ﬁrst order network (Fig. 12). This observation is
+    The most idealised polygonal planform is a classical hexagonal                            important in the context of the scaling relationships of fault
+pattern (Fig. 9d), in which the faults intersect at angles of 60 or so,                      dimensions, since it hints at the possibility that smaller scale
+and where the faults are almost equal in strike length. These                                 networks are more generally nested within larger scale networks.
+‘classical’ patterns are rare, and only observed where the tier is                                A useful quantitative measure of the system maturity is the
+uniform in thickness and lithology. The vast majority of patterns are                         Linkage Index (Fig. 10d). This is deﬁned as the percentage of fully
+characterised by unequal length distributions, and by large varia-                            linked faults on a given horizon for a given area. Fully linked faults
+tions in the intersection angle. Faults are rarely perfectly straight,                        are those for which both lateral tips form hard linked intersections
+and commonly curve as they intersect nearest neighbours, with the                             with neighbouring faults. This index gives an indication of the state
+sense of curvature resulting in a near-orthogonal intersection. The                           of the observable hard linkage in the array, and thus conveys the
+tendency to form orthogonal intersections was explained by                                    complementary notion of connectivity variation between fault-
+Lachenbruch (1963) as a result of stress ﬁeld polarisation due to                             bounded blocks or cells. This may be an important parameter to
+stress relaxation following fault slip, and more recently discussed                           quantify for reservoir modelling purposes e.g. in polygonally faul-
+for polygonal faults speciﬁcally by Lonergan et al. (1998) and Goulty                         ted reservoirs such as in the Ormen Lange Field.
+
+
+
+
+Figure 8. Representative example of a throw contour plot projected onto a vertical plane of an isolated polygonal fault showing the classical pattern of a blind normal fault (redrawn
+from Nelson, 2007). Contour values are in milliseconds of throw, approximately equivalent to metres.
+                                                         J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                        1599
+
+
+
+
+Figure 9. Planform fault patterns in PFS. A wide range of polygonal planforms is encountered both within individual and between different PFS. These four examples represent the
+diversity encountered globally. A: densely packed, highly mature system with almost no free lateral tips. Faults are arranged in conjugate pairs, hence the double track lines in this
+coherence attribute slice. B: A dip attribute map showing a relatively open network with locally preferentially aligned faults, and many unrestricted (open) tips. C: a time-structure
+map showing a clustered arrangement at a scale of 5 km or so, with ‘nuclei’ and linear sub-arrays organized around them (e.g. inside box). D: Dip attribute map of a classical
+hexagonal pattern.
+
+
+
+
+    One of the most important geometrical properties of PFS is that                           that it should not be the sole criterion when determining the
+they are truly three-dimensional in the sense that the fault geom-                            vertical extent of a single tier. It is typically observed that for any
+etries cannot be simply represented by any two-dimensional                                    given tier, there are a signiﬁcant proportion of larger faults that
+section, be it vertical or horizontal. Even in simple tiers (Fig. 13),                        extend across the full extent of the tier. These are informally termed
+fault geometry and organisation varies depending on the line of                               master faults, and are the largest faults in dimensions and
+section taken or the position of any layer-parallel slice (time slice,                        displacement values. Their distribution is the most useful to assess
+horizon map, horizon slice). This speciﬁc property means that                                 when attempting to deﬁne the stratigraphic extent of the tier.
+classiﬁcations of array geometry are most commonly only tenable
+for parts of the vertical extent of a tier. Further complications arise                       2.7. Mechanical controls on planform geometry
+because of the natural tendency for lateral variation in array
+geometry arising from layer thickness variations or lithological                                  There is no evidence to suggest that the propagation of polyg-
+variations or both in combination. This same limitation applies to                            onal faults should be considered in anything other than a standard
+the use of the Linkage Index, since it is a measure of connectivity                           Mohr-Coulomb mechanical framework, and as such fault strike can
+that is intrinsically depth dependent, and thus can only apply at the                         be taken as following the intermediate principal stress direction
+level in the tier at which the map was constructed or slice was                               (s2). On a regional and local scale, the large range of orientations in
+taken. To fully appreciate the geometry of PFS it is thus critical to                         a typical polygonal fault array implies a causative state of stress in
+employ volumetric interpretational and display methods.                                       which intermediate and least principal stresses are almost equal
+    The typical vertical variation in planform array geometry within                          (s2 ¼ s3), which for horizontal layering would equate to an hori-
+any individual tier is illustrated here using the geometry of a set of                        zontally isotropic state of stress (Shmax ¼ Shmin). This generalisation
+horizontal coherence attribute slices through a relatively simple                             fails wherever a signiﬁcant horizontal stress anisotropy occurs
+tier (Fig. 13). The three slices are spaced at c. 200 m through the tier,                     either due to local changes of slope gradient, to the presence of
+and reveal signiﬁcant changes in the fault pattern and connectivity.                          active tectonic structures, or to the imposition of regional or local
+This example demonstrates the caution that needs to be exercised                              tectonic stresses. Polygonal faults are sensitive to quite subtle stress
+when assessing pattern type from a single map or slice. The                                   anisotropy, and can thus be useful as palaeostress indicators. The
+complexities in the vertical variation also lead directly to any                              typical relationships observed in the interaction between actively
+consideration of how a single tier should be deﬁned, since it is                              growing PFS and tectonic or basinal structures can also be useful for
+evident that gross pattern type is so variable within a single tier                           prediction of likely orientations of individual faults and any
+1600                                                     J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+
+
+Figure 10. Maturity of fault networks in PFS. A: amplitude map of a polygonally faulted horizon, showing a good example of an open, immature network, with a high proportion of
+unrestricted lateral tips. B: Coherence slice through a highly mature system, with almost no unrestricted lateral tips. This system is fully saturated. C: Example of an intermediate
+maturity state between A and B, shown on a dip attribute map. D: Cartoon explaining the deﬁnition of a connectivity index, a useful measure of the degree of maturity of a PFS,
+based on the number of ‘open’ versus ‘closed’ or restricted lateral tips. Note that this measure is horizon speciﬁc, and might not reﬂect connectivity levels at shallower or deeper
+levels in the PFS.
+
+
+
+associated sub-seismic fractures. Some examples of this approach                             none of these studies analysed the mechanical signiﬁcance of this
+are given below.                                                                             geometry. In a similar fashion, Hansen et al. (2004) presented an
+    The gravitational effect of a slope at the sedimentewater                                example of the realignment of a randomly oriented polygonal fault
+interface results in a polarisation of s2 and s3 for even modest                             array in a region bordering a tectonic normal fault. In this case, it
+values of slope gradient (Mandl, 1988). Many PFS are developed on                            was noted that the individual polygonal faults were locally re-
+regional basin slopes on the continental margins where s2 is                                 oriented into a strictly orthogonal relationship with the tectonic
+parallel to slope contours in the upper regions of the slope, and not                        fault. Hansen et al. (2004) interpreted this relationship as evidence
+surprisingly therefore it is common to observe signiﬁcant direc-                             that the tectonic fault perturbed the otherwise radially isotropic
+tional biases in fault strike and fault length that are parallel to slope                    stress ﬁeld, but only in the hangingwall of the tectonic fault.
+contours. Figure 14 shows representative examples of local                                   Polygonal fault patterns have also been shown to have been
+perturbations of polygonal planforms due to local stress anisotropy                          modiﬁed by forced folds related to conical sandstone and igneous
+or abrupt changes in lithology. Stress anisotropy is observed to                             intrusions (Shoulders and Cartwright, 2004; Hansen and
+perturb polygonal fault planform where there are local changes in                            Cartwright, 2006). In both cases, the domal folds overlying
+slope gradient for example due to pockmark formation at the                                  conical sandstone or dolerite sills propagated at the seaﬂoor and
+seabed (Fig. 14a) or due to the aggradation of levees adjacent to                            realigned the local polygonal pattern in a radial manner. This
+submarine channels (Fig. 14c). Differential compaction of sandy                              pattern re-orientation was used in both these studies to provide
+channel ﬁlls also leads to localised changes in seaﬂoor relief that in                       useful clues as to the timing of the respective underlying intrusions,
+turn lead to polygonal fault re-orientation, and in some cases this                          and similar methodology could be exploited more generically to
+can assist in the identiﬁcation of subtle channel-ﬁll reservoirs                             other types of fold growing contemporaneously with the propa-
+(Fig. 14b). Gradient changes of less than a degree can evidently                             gation of a PFS.
+inﬂuence the directionality of polygonal faults, even though this dip                            In all these examples presented above, it can be inferred that
+change would only lead to a less than 1% anisotropy between s2                               a slope-related gravitational or tectonic stress ﬁeld is superimposed
+and s3 (Crans et al., 1980).                                                                 upon the ‘in situ’ stress ﬁeld responsible for polygonal fault
+    Local structures such as tectonic normal faults or salt diapirs can                      nucleation such that a signiﬁcant horizontal stress anisotropy
+also inﬂuence the planform patterns of any PFS that is developing in                         results, and perturbs the more classical horizontally isotropic state
+the same area, either by their impact on local topographic gradi-                            of stress developed within the layer undergoing polygonal faulting.
+ents, or by locally modifying what would otherwise be a near                                 Initial propagation trajectories are thereby modiﬁed to follow a re-
+horizontally isotropic state of stress (e.g. Fig. 14d). Davison et al.                       oriented and polarized s2 direction (Fig. 14). This mechanical
+(2000), Rank-Friend and Elders (2004) and Stewart (2006) have                                inﬂuence on fault planform is thus the evolutionary interplay
+presented examples of the polarisation of polygonal faults into                              between ‘in situ’ stress and a superimposed tectonic or gravita-
+a striking radial planform array surrounding salt diapirs, although                          tional stress anisotropy.
+                                                      J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                   1601
+
+
+
+
+                                                                                        Figure 12. An amplitude display from a mid-tier position close to the maximum throw
+                                                                                        values of most faults, showing later forming small faults propagating from the central
+                                                                                        regions of polygonally bounded fault blocks.
+
+
+
+                                                                                        polygonal faults are observed to die out laterally towards the
+                                                                                        channel axis either because of the grossly coarser facies contained
+                                                                                        within the levee, or possibly because of the additional lateral
+                                                                                        drainage afforded by proximity to the channel. This example thus
+                                                                                        illustrates the uncertainties at present in interpreting such obser-
+                                                                                        vations of what are clearly facies-related effects. Other examples of
+                                                                                        lateral variation involve erosional removal of the original back-
+                                                                                        ground slope depositional unit and replacement either by coarse
+                                                                                        units (e.g. channels) or by remobilised material in the form of
+                                                                                        a mass transport complex (Fig. 14c).
+                                                                                            The interbedding of coarse and ﬁne units and their impact on
+                                                                                        the fault geometry within a tier can potentially provide useful clues
+                                                                                        as to the propagation history. Clearly, for the coarser unit to
+                                                                                        preclude the development of polygonal faults at all suggests that
+                                                                                        some property of that unit is sufﬁcient to prevent fault nucleation.
+                                                                                        If in the general wider context, a tier has well deﬁned upper and
+                                                                                        lower boundaries, and in one particular area no polygonal faults are
+                                                                                        observed, then it is possible that some form of lithological control is
+                                                                                        occurring. The planform of the fault-free region should then be the
+Figure 11. An amplitude display (A) of a horizon mapped midway through the tier of      clue as to the critical element. A linear zone might indicate
+a PFS from offshore Scotland, showing the network passing laterally from fully
+                                                                                        a channel, whereas a broader region might indicate a mass trans-
+polygonal to much more linear towards the edge of the system. B: a zoomed in portion
+of A, showing the details of this transition.
+                                                                                        port complex for example. Once the likely body is identiﬁed, its
+                                                                                        stratigraphic position within the broader context of the tier can be
+2.8. Lithological controls on planform geometry                                         ascertained, and this provides the clues as to the nature of the
+                                                                                        control. If the channel body is at the base of the tier, it would
+    Lateral variation in single tiers can occasionally be attributed                    suggest that faults ﬁrst nucleated at the base. Similarly, for a body
+uniquely to some form of lithological control but this is not well                      located in a mid-tier position, would imply nucleation in the centre
+understood at present. In the majority of cases variation has been                      of the tier.
+observed where the dominant ﬁne-grained composition of the bulk                             It is important to state that coarse-grained units by themselves
+of the tier is replaced by a signiﬁcantly coarser sedimentary fraction                  do not prevent the propagation of polygonal faults, but that equally,
+such a mass transport deposit or sand body (e.g. Fig. 14c). The                         there are no known instances of PFS that develop in tiers that are
+precise details of what speciﬁc part of the tier might be most critical                 predominately composed of silt or sand grade material. Where, for
+for polygonal fault nucleation and propagation are still uncertain.                     example, a sand body of reservoir scale is deposited within a tier, its
+For example, it is not known whether the basal, middle or upper                         impact can be to preclude nucleation or simply to block or mitigate
+units of a tier are most critical in the way that any substitution of                   propagation of the faults. An example of this relationship is shown
+coarser or ﬁner material might impact polygonal fault develop-                          in Figure 15, where a submarine fan body thins laterally towards its
+ment. It is also possible that subtle changes in mineralogy or pore                     margins. It is encased in a thick (>1 km) tier comprising ultra-ﬁne
+ﬂuid chemistry or some other compositional parameter such as                            smectitic claystones. Where the sand body is thickest, the polyg-
+carbonate or organic content might be equally critical in contrib-                      onal faults are separated into two ‘sub-tiers’ with no physical
+uting to lateral variations.                                                            connection of faults through the sand body. As the body thins
+    A good example of a clear lithological control on variation is                      laterally, the faults in the lower ‘sub-tier’ can be seen to continue
+shown in Figure 14c, where an ultra-ﬁne grained hemipelagite                            more and with greater continuity upwards into the upper ‘sub-tier’
+interval passes laterally into a coarser channel-levee unit. The                        until it is a single tier in all its characteristics. This example suggests
+1602                                                     J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+
+
+Figure 13. Three-dimensionality of polygonal fault geometry. A: Seismic proﬁle showing the position of three coherence slices. This is a simple, single tier, but fault patterns vary
+depending on the level of mapping or slicing vertically within the tier. B: three coherence slices taken at the positions of the arrows in A. Seismic data courtesy of Statoil A/S.
+
+
+that nucleation occurred somewhere in the lower ‘sub-tier’ and                                   The recognition that a signiﬁcant volumetric strain was involved
+subsequent growth was by propagation upwards across the                                      in the formation of PFS was a critical constraint towards identifying
+stratigraphic level of the sand body. In summary, the speciﬁc                                a genetic mechanism, although the signiﬁcance of this volumetric
+response of a PFS to the presence of a sand body is most likely                              strain is still debated (Dewhurst et al., 1999; Cartwright et al., 2003;
+dependent on (a) the stratigraphic position of the sand body and (b)                         Goulty, 2008). Cartwright and Lonergan (1996) argued that the
+the relative thickness of the sand body and the encasing ﬁne-                                non-conservation of line length during polygonal faulting pointed
+grained units. However, studies of the interaction of sand bodies                            to a radical departure from classical models of sediment compac-
+and encasing PFS are in their infancy, and are potentially very                              tion during the early stages of burial, which universally assume 1-D
+signiﬁcant, not only for economic reasons, but because they can                              consolidation, as governed by soil mechanical theory, although this
+shed light on the propagation history and the nature of tiers.                               view has subsequently been challenged by Goulty (2002).
+                                                                                                 Another critical kinematic constraint for the genesis of PFS is the
+3. Genesis of polygonal fault systems                                                        timing of fault initiation. Fault genesis was recognised as occurring
+                                                                                             at an early stage of the burial history from initial interpretations of
+    The genesis of PFS is poorly understood in spite of over a decade                        PFS on both 2D and 3D seismic surveys (Cartwright, 1994a,b). Two
+of subsurface investigations (Cartwright et al., 2003; Goulty, 2008).                        key observations were important: (1) the edges of the PFS tended to
+Early explanations for layer-bound faults in clay-rich sediments                             occur where the tier thinned to <100 m (Cartwright, 1994a), and
+were limited by the low quality imagery of 2D seismic data, but the                          (2) the upper tips were found to be associated with small syn-
+non-tectonic nature of the deformation and its relationship to early                         kinematic hangingwall wedges, implying growth faulting at the
+dewatering was nonetheless recognised (Buckley, 1994; Henriet                                seabed (Cartwright, 1994; Lonergan et al., 1998; Stuevold et al.,
+et al., 1989). Henriet et al. (1991) made the ﬁrst rigorous attempt                          2003). It was this seismically-derived argument for their forma-
+to explain this type of fault system in a model involving over-                              tion during the earliest stages of burial that placed the deformation
+pressure build-up and release, and deformation related to density                            in a soil mechanical, rather than rock mechanical context, and the
+inversion.                                                                                   notion of a truly 3-D consolidation during genesis of PFS is thus at
+    With the advent of 3D seismic data, the polygonal planform                               odds with the fundamental 1-D consolidation axiom of soil
+geometry was recognised as a deﬁning characteristic for PFS and                              mechanics.
+genetic models subsequently needed to account for this network                                   The timing of the cessation of fault activity in a PFS is much less
+geometry. Cartwright (1994a,b) followed Henriet et al. (1991) in                             well constrained than the onset of faulting, mainly because small
+proposing a mechanism based on overpressure collapse, but once                               blind faults often have the same displacement variation as small
+detailed mapping of the strain ﬁeld showed that signiﬁcant strains                           growth faults (Baudon and Cartwright, 2008a). This uncertainty in
+were evident and were in essence radially isotropic, the link to                             dating methodology leads to some confusion in the literature. For
+overpressure was downgraded in favour of a more generic                                      example, Goulty and Swarbrick (2005) argued that the PFS in the
+description of the deformation as being due to volumetric                                    North Sea is currently active, in contrast to James et al. (2006), who
+contraction (Cartwright and Lonergan, 1996).                                                 suggested they were buried and inactive. Since the upper tips of
+                                                          J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                          1603
+
+
+
+
+Figure 14. Planform patterns showing response of polygonal faults to local stress ﬁeld perturbations due to changes in slope, or due to active tectonic structures. A: Coherence
+attribute image showing the perturbation of a classical highly mature pattern of polygonal faults due to the presence of an underlying pockmark at the base of a tier, suggesting that
+early propagation was inﬂuenced by the topographic depression of the pockmark crater and its impact on horizontal stress. B: Polygonal fault pattern seen on time-structure map
+with co-rendered dip attribute. The normal pattern is highly inﬂuenced by differential compaction along the edges of a buried slope channel system. C: Polygonal faults seen to die
+out into channel-levee system (right side of image) as seen on a coherence attribute slice, but as they do so, individual faults partially realign to be orthogonal to the levee-channel
+edge. Note also the absence of polygonal faults in the top of the image is due to the tier being disrupted by a mass transport deposit. D: Coherence attribute slice showing strongly
+radially aligned polygonal faults around a salt intrusion (from Stewart, 2006).
+
+
+
+
+nearly all the millions of faults in this system occur at or close the
+regionally correlative Middle Miocene unconformity, this latter
+view is more likely correct. The widely observed restriction of most
+faults in many different PFS to a single stratigraphic horizon argues
+strongly that the upper limit of many tiers is in fact the time line at
+which the system became inactive. It is an important observation
+for fault genesis therefore that many PFS die out synchronously
+over a large area. This suggests that there is a control on the growth
+mechanism that can cease abruptly on a regional scale.
+    More recently the debate over their genesis has intensiﬁed
+(Cartwright and Dewhurst, 1998; Watterson et al., 2000; Goulty,
+2002, 2008; Cartwright et al., 2003; Goulty and Swarbrick, 2005;
+James et al., 2006). Some studies have found evidence that
+appears to support the earlier ideas of density inversion as a driver
+for polygonal faulting (Watterson et al., 2000; Nicol et al., 2003). In
+contrast, Cartwright and Dewhurst (1998) compiled evidence from
+a global review of PFS that pointed to the small particle sizes of host
+sediments for PFS as a critical factor in their distribution. From this,
+they argued that polygonal faulting was the result of syneresis,                               Figure 15. Seismic proﬁle from the Faeroe-Shetland Basin, showing how tier structure
+                                                                                               depends on lithology. On the left of the proﬁle a thick submarine fan sand (black
+a process that is deﬁned as the spontaneous contraction of a gel                               arrows) splits the succession into two tiers (1,2), but as the sand thins to the right, the
+without evaporation of the solvent. Syneresis is known to lead to                              polygonal faults cross from one tier to the other, and it is no longer possible to divide
+Mode I failure of clay gels in the laboratory (Dewhurst et al., 1999),                         the succession into two separate tiers. Seismic data courtesy of ExxonMobil Ltd.
+1604                                           J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+and leads to signiﬁcant volumetric contraction in a range of natural             compaction in heterogeneous ﬁne-grained sediments is likely to
+and manufactured gels (Scherer, 1989). Although this mechanism                   occur at a variety of scales (Craig, 1985), it is not clear how this
+neatly explained the early initiation of the faults, their restriction to        process would lead to shear failure at a scale that is detectable by
+ﬁne grain sizes and the volumetric contraction strains of PFS, it is             3D seismic imaging. Furthermore, even if shear zones did nucleate
+not obvious that syneresis could continue to operate at signiﬁcant               above local sites of differentially compacting clays, for them to
+burial depths (Goulty and Swarbrick, 2005; Goulty, 2008). A more                 propagate any distance into the surrounding host sediments would
+fundamental problem with syneresis, is that inter-particle attrac-               require a signiﬁcant differential stress as a driver for that propa-
+tive forces are generally weak compared to conﬁning stresses once                gation, and it is not clear that a sufﬁcient differential stress could
+burial exceeds a few tens of metres (C. Santamarina, pers comm.,                 result from localised cm-m scale heterogeneities in the clay sedi-
+2007), so there are sound mechanical grounds to question the                     ments. Field evidence suggests that differential compaction in clays
+applicability of this mechanism.                                                 around rigid objects such as pebbles, concretions and shells is
+    An important contribution to our understanding of polygonal                  mainly achieved by bending and arching without any comple-
+fault evolution was made by Goulty (2002), who argued that fault                 mentary development of shear zones (Craig, 1985). The lack of any
+growth and strain accumulation for PFS would be largely controlled               detailed mechanical model or ﬁeld evidence for this process is
+by the residual frictional behaviour of the fault planes acting under            therefore a major drawback at present, but it should not be ruled
+a vertical gravitational load. He suggested that the volumetric                  out completely.
+contraction strain identiﬁed from 3D seismic data was the product                    Some support for this differential compaction mechanism may
+of a horizontal component of compaction due to additional hori-                  be provided by a study of faulting above an irregular diagenetic
+zontal stress imparted by the low residual frictional characteristics            reaction front from offshore Norway (Davies et al., 2009). A large
+of the fault planes. Goulty (2008) noted that ‘It is simply                      scale (km diameter) incipient polygonal fault array can be attrib-
+a geometric requirement that horizontal compaction of the beds                   uted to domal relief of c. 50 m developed as a result of differential
+must occur to complement the heave on the faults.’ He drew on                    compaction above the diagenetic front. However, such a mecha-
+experimental data from ring shear tests to suggest that extremely                nism is very speciﬁc to the localised development of an irregular
+low residual friction angles could be expected for the types of                  silica diagenetic boundary and unlikely to be a more generic
+sediment that PFS are hosted within. This argument is entirely                   explanation for polygonal faulting more globally (Davies et al.,
+plausible because once a fault plane has propagated in clay-rich                 2009).
+sediments, the strength of the fault zone probably approaches the
+range of values identiﬁed in laboratory shear tests. However it                   4. A diagenetic model for pfs
+should also be noted that real geological faults are much more
+complex in their architecture than shear zones in a ring shear                    4.1. Contraction-driven shear failure
+apparatus and the effective strength of a fault zone at any given
+stage in fault plane enlargement is not easy to estimate. We might                   More than any other single observation, the enormous lateral
+therefore ask the question at what point in the propagation history              extent of many PFS is a powerful argument by itself that the genetic
+of the fault can the fault ‘plane’ be considered to exhibit residual             mechanism must be constitutive rather than externally imposed
+rather than peak strength characteristics?                                       (A.W. Skempton, pers comm., 1998). From the preceding review of
+    There are several problems with the model of polygonal fault                 genetic mechanisms, it is evident that the weakness with all the
+growth based on a low residual strength of the fault planes. Firstly,            mechanisms proposed to date is that they fail to account for the
+it does not explain the mechanical conditions necessary for the                  initial failure conditions leading to localisation and propagation of
+faults to nucleate in the ﬁrst place. Secondly there is no consider-             shearing mode fractures in the host sediments.
+ation given to the problems of upscaling of strength of shear zones                  Shin et al. (2008) undertook a set of laboratory experiments
+and fault zones from the laboratory to the ﬁeld scale. Thirdly, it               aimed speciﬁcally at reproducing failure conditions in uncemented
+presupposes that slip on faults is the main driver for the defor-                sediments, under a deformational regime that was inﬂuenced by
+mation, and that the bulk response of the intervening sediments is               grain dissolution. This suite of experiments was motivated by
+passive. If this were the case, then many normal faults in soft                  observations of shear failure in clay sediments that could be linked
+sediments would continue to grow as long as there was new load                   to concurrent diagenesis of volcanic ash particles (Herrera et al.,
+added in the form of extra layers of sediment. Since the upper tips              2007). Although the diagenesis of volcanic glass in ash deposits is
+of the faults in many PFS are clustered on a single horizon, this is             much more complex than the simple dissolution experiments
+evidently not the case. The stiffness of the intervening sediments               performed by Shin et al. (2008), the intention was to see if a simple
+acts to resist fault slip due to strength anisotropy between the fault           diagenetic pathway could lead directly to shear failure, since
+planes and the unfaulted medium in the fault blocks, so                          a direct link between a diagenetic process and shear failure in
+a mechanical analysis must address the whole of the layer under                  uncemented granular materials had not been reported previously.
+deformation, not just focus on the conditions for slip on the fault                  The basic conﬁguration employed in these experiments was
+plane itself. There is no geometric requirement that horizontal                  a fully instrumented soft oedometer, where incremental strains and
+compaction must occur: such a component of compaction will only                  the ratio of horizontal to vertical effective stresses (Ko) could be
+result from the correct combination of the in situ effective stress              measured during a uniaxial compression test, and where mineral
+and permeability throughout the layer, as appropriate for the bulk               dissolution was occurring during the course of the test (Fig. 16).
+moduli of the sediments.                                                         Dissolution was achieved by using a binary mixture of glass beads
+    More recently, Goulty (2008) has suggested that initial nucle-               and table salt, and by circulating de-aired water through the sample
+ation of polygonal faults might be at sites of inhomogeneities in the            during the experiment.
+sediments, such as’ lateral variations in lithology, bioturbation                    The results of a large number of experiments run at different
+features and shelly remains.’ He considers these sites to be loci for            proportions of salt in the mixture were remarkable (Fig. 16). It was
+‘non-uniform dewatering and differential compaction, where small                 consistently observed that the initial value of Ko (in the range
+scale shear zones might develop.’ He went on to argue that ‘initial              between 0.53 and 0.68, depending on grain size and on the salt-to-
+slip and fault growth may be facilitated by transient stresses due to            glass beads ratio) reduced to values of less than 0.4 during the
+seismic waves from earthquakes.’ Whilst localised differential                   course of the salt dissolution. Following Mohr Coulomb theory for
+                                                          J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                         1605
+
+
+
+
+Figure 16. Experimental data showing that dissolution can induce shear failure in granular materials under a conﬁning load (Shin et al., 2008). The experimental setup (left) for
+a series of uniaxial compression plus dissolution experiments. Results of these tests show that for proportions of a binary mixture of salt and glass beads > 5% salt, the lateral stress
+coefﬁcient dropped below a critical value of Kactive for experiments where the salt was completely dissolved during uniaxial consolidation, and hence shear failure should be
+expected.
+
+
+
+failure in frictional granular materials, the condition for failure is                         necessarily form. Numerical modelling was used to demonstrate
+given by a critical value of the ratio of horizontal to vertical effective                     that marked shear strain localisation would occur during volu-
+stresses, the active earth pressure coefﬁcient Ka (Terzaghi et al.,                            metric contraction only if the material exhibited post-peak
+1996), which can be derived from the Coulomb frictional strength                               strength softening (PPSS). This important qualiﬁcation relates to
+of the soil to be:                                                                             a bulk property of sediment and for example is typically exhibited
+                                                                                               by clay-rich sediments with a low residual friction angle
+Ka ¼ ð1  sin4Þ=ð1 þ sin4Þ                                                           (1)       (Skempton, 1985). This condition means that although many
+where 4 is the friction angle of the soil.                                                     different types of diagenetic reaction might lead to physical prop-
+    From analytical considerations and numerical modelling of                                  erty changes of the type associated with shear failure, it is only in
+mobilized friction, it was evident that the Ka condition was ach-                              special cases where the sediment exhibits PPSS that shear fractures
+ieved for even modest initial concentrations of the dissolving phase                           will localize at a scale that might then propagate to scales of metres
+of 5% (Fig. 16).                                                                               or more.
+    The physical experiments involved a simulation of a diagenetic                                 In summary, the analytical, experimental and numerical studies
+transformation based on dissolution, but to test the wider likeli-                             by Shin et al. (2008) showed that particle level contraction can
+hood of this failure mechanism occurring during diagenetic                                     cause a macro-scale stress drop from the initial at-rest Ko condition
+processes other than simple grain dissolution, a series of numerical                           to the at-failure Ka condition. Shin et al. (2008) used the phrase
+experiments were also carried out, using two different numerical                               ‘contraction-driven shear failure’ to distinguish the development of
+methods (Shin et al., 2008; Shin, 2009). To simulate those types of                            shear failure that occurs as a result of stress changes resulting from
+diagenetic reaction that involve phase changes, particle size                                  diagenesis from other forms of shear failure (e.g. due to tectonic
+redistribution and surface chemical changes on grains (e.g. by                                 stresses) where critical shear stress for failure is achieved by
+coating mineral surfaces with authigenic phases), numerical                                    a purely mechanical process. This process of contraction-driven
+simulations were conducted by changing the shear modulus. These                                shear failure should therefore be distinguished in a theoretical
+numerical experimental results show that a range of potential                                  sense from tectonic modes of shear failure (Mandl, 1988) or even
+diagenetic processes can advance an uncemented sediment to                                     from shear failure resulting from local gravitational stress such as
+a state of failure (Shin, 2009).                                                               those leading to growth faulting in the near surface. A more
+    In a physical sense, this extraordinary result should not seem so                          appropriate term might therefore be ‘diagenetically-induced shear
+surprising. Consider for example, a granular material such as a silty                          failure,’ since Shin et al. (2008) have experimentally shown a totally
+clay, with say, 70% clay-sized particles. Any diagenetic process that                          novel form of shear failure, strictly related to a diagenetic process.
+for example signiﬁcantly reduced the particleeparticle force
+balances would radically alter the very tortuous stress chains                                 5. Discussion
+within this material (Santamarina, 2001), and a ‘chain reaction’ of
+grain slippage and grain adjustment and particle repacking could                                  From the preceding review, it seems that the diagenetically-
+easily be envisaged to result. The numerical and physical experi-                              induced shear failure offers a simple and potentially far-reaching
+ments conducted by Shin et al. (2008) thus point to the likelihood                             explanation for the nucleation and growth of shear fractures in
+of diagenetic triggering of failure as a result of chemical alteration                         sediments undergoing diagenesis whilst exhibiting post-peak
+of the stress chains responsible for the critical internal frictional                          strain softening behaviour, but can this mechanism provide
+strength of the bulk sediment. The chemical changes related to                                 a universal explanation for the genesis of PFS? Given that PFS are
+diagenesis are thus expressed in marked changes in physical                                    widely distributed in ﬁne-grained sediments that in many cases are
+properties both on a granular and a bulk scale.                                                known to exhibit PPSS and that are also chemically unstable and
+    However, this diagenetic transformation of bulk sediment                                   reactive (Dewhurst et al., 1999), and follow complex diagenetic
+physical properties does not by itself imply that fractures will                               pathways during their early burial, there is at least the potential for
+1606                                          J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+this mechanism to provide a universal explanation. But how                      basin facies, and thus correlated with the almost complete alter-
+precisely would this diagenetically-induced shear failure mecha-                ation of the volcanic ash deposits. He also noted that this boundary
+nism work in detail, and would it result in an evolutionary process             corresponded to a rapid reduction in porosity recorded in these
+leading to fault systems on the lateral scale and with the geomet-              three sites, and increases in bulk density and grain density. Spinelli
+rical and kinematic characteristics reviewed in preceding sections?             et al. (2007) attributed the rapid reduction of porosity at these
+    Scale is a major argument when considering any potential                    positions to loss of strength of the sediment due to diagenesis
+genetic mechanism for PFS. Skempton’s insightful comment                        (dissolution) of small amounts of opaline silica cement, but did not
+regarding length scale (op cit) pointed ﬁrmly towards a mechanism               relate this important observation to the seismic expression of the
+that was intrinsic to the original depositional make-up of the host             polygonal faulting.
+sediments, and a diagenetic mechanism qualiﬁes on these grounds                     Ienaga et al. (2006) used borehole image logs from Leg 190 to
+since early diagenesis is likely to be conditioned by the original              analyse fracture distributions throughout the trench ﬁll of the
+depositional conditions.                                                        Nankai Trough. Their study was aimed primarily at a better
+    To fully test the model that PFS form by diagenetically-induced             understanding of the decollement zone that occurs within the
+shear failure it would be necessary to examine the diagenetic                   lower Shikoku basin facies in this area. However, they recorded
+history of sediments known to host PFS, and demonstrate an                      a suite of randomly oriented, steeply dipping extensional shear
+unambiguous link between a speciﬁc reaction or set of reactions                 fractures with centimeter-scale offsets throughout the interval that
+and the occurrence of the PFS. Unfortunately there are very few                 seismic data shows to be polygonally faulted. These extensional
+direct calibrations of PFS by boreholes that have a continuously                shear fractures are recognised at intervals of a few metres
+cored section on which to base the diagenetic analysis, so a full test          throughout the faulted tier, with notable clustering in certain
+of this genetic model awaits a more targeted drilling campaign. The             zones. These zones correspond to more notable intervals of
+best (although incomplete) calibration is currently provided by                 diagenetically altered ash deposits (Praeger, 2009).
+several scientiﬁc boreholes from the Ocean Drilling Programme                       The exact diagenetic sequence that these trench ﬁll sediments
+(ODP) and its successor, the IODP.                                              have undergone is not yet clear (Wilson et al., 2003): what is
+    Perhaps only a handful of boreholes in total act as partial cali-           certain is that a considerable proportion of the initially deposited
+bration of sedimentary units that are known from 3D seismic data                sediments comprised water-lain ash deposits (Praeger, 2009). On
+to be deformed by PFS. Two of the very few known examples offer                 burial, increasing temperature and availability of pore water with
+contrasting host lithologies with contrasting diagenetic histories,             appropriate salinity and pH then led to a progressive alteration
+and in both cases offer interesting insights into the potential role of         sequence involving transformation of volcanic glass to clay mineral
+speciﬁc diagenetic mechanisms that could have contributed to                    derivatives, mainly smectite and mixed layer clays, but with pala-
+shear failure. These two occurrences of PFS with borehole calibra-              gonite, opal CT and zeolites (Gieskes and Lawrence, 1981; Wilson
+tion are considered in more detail below, if not to test the model of           et al., 2003). The volumetric balance of this transformation is
+diagenetically-induced shear failure, then at least to show that                debated, with some authors claiming it is isovolumetric (Hay and
+diagenetic reactions occurred synchronously with polygonal fault                Iijima, 1968; Furnes and El Anbaawy, 1980; Gieskes and Lawrence,
+growth over basinal extents that are equivalent in dimension to the             1981; Jakobsson and Moore, 1986), whilst others argue for a net
+typical lateral extent of many PFS.                                             loss of volume of the solid fraction of the sediment (Staudigel and
+                                                                                Hart, 1983; Crovisier et al., 1987; Jercinovic et al., 1990; see
+5.1. Case 1: Nankai Trough PFS                                                  reviews in Stroncik and Scminke, 2001, 2002). Other diagenetic
+                                                                                reactions were almost certainly taking place too, including authi-
+    3D seismic data acquired in a research cruise in 1999 in the                genic clay formation and carbonate dissolution, but with a poten-
+Nankai Trough, offshore Japan, has revealed the presence of a PFS               tially lesser impact on the bulk composition and physical properties
+hosted in claystones of Miocene-Pliocene age, deposited in a slope              (Moore et al., 2001). Most strikingly, at the position in the boreholes
+and basin-ﬂoor environment at the foot of the Nankai accretionary               where volcanic ash diagenesis is virtually complete, there is
+wedge (Hefferman et al., 2004). Several ODP sites calibrate the                 a dramatic reduction in porosity (Moore et al., 2001). This porosity
+entire polygonally faulted interval, and show this to consist domi-             collapse implies a major structural re-arrangement of the grain
+nantly of smectitic claystones interbedded with ash layers in                   packing, with fundamental changes in force chains throughout the
+various states of alteration, and subordinate calcareous claystones,            sediment, precisely those conditions simulated in the laboratory by
+turbiditic siltsones to ﬁne sandstones and siliceous mudstones                  Shin et al. (2008, their Fig. 4). Combined with the observations of
+(Moore et al., 2001; Wilson et al., 2003). The polygonally faulted              randomly oriented steep extensional fractures at the core scale, and
+interval encompasses Units II and III of the trench ﬁll, as deﬁned              the polygonal faulting observed at the seismic scale, a strong case
+stratigraphically from the Leg 131 and 190 results (Moore et al.,               can therefore be made that the deformation of the Nankai trench
+2001). These units comprise the upper and lower Shikoku basin                   ﬁll occurred in direct response to a complex diagenetic sequence of
+facies, respectively.                                                           volcanic ash alteration.
+    The diagenetic history of these trench ﬁll sediments has been
+studied by Wilson et al. (2003) who noted a progressive alteration              5.2. Case 2: Vøring Basin PFS
+of the volcaniclastic sediments with increasing burial depth. The
+distinction between the upper and lower Shikoku basin facies is                     A laterally extensive PFS is developed in Eocene to Pliocene aged
+seen to correlate with the almost complete conversion of volcanic               sediments, spanning some 500,000 km2 of the continental slope
+ash deposits to their alteration products, mainly siliceous                     offshore Norway (Hjelstuen et al., 1997; Cartwright and Dewhurst,
+mudstones (Wilson et al., 2003). This diagenetic transformation                 1998; Berndt et al., 2003; Stuevold et al., 2003) (Fig. 17). These
+was studied by Praeger (2009), who correlated the degree of                     sediments are mainly biosiliceous mudtones and claystones, with
+alteration of the ash deposits recorded in sites 808, 1173 and 1174             minor limestones (Corﬁeld et al., 2004; Hansen et al., 2005), and are
+with the intensity of polygonal faulting observed on published                  calibrated by many exploration boreholes, and, in the Vøring Basin,
+seismic data through those sites. He found that the maximum                     by several ODP boreholes of Leg 104. The PFS is developed as
+throw positions on many of the polygonal faults corresponded                    a single tier, up to 2 km thick in places, with a fairly sharply deﬁned
+closely to the boundary between the upper and lower Shikoku                     base in the mid-lower Eocene, and a less sharply deﬁned upper
+                                                        J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                    1607
+
+
+                                                                                              In summary, these two case studies strongly support the
+                                                                                          proposal that shear fracturing accompanies early diagenesis of ﬁne-
+                                                                                          grained sediments and two main diagenetic processes, the alter-
+                                                                                          ation of volcanic ash, and biogenic silica diagenesis are candidates
+                                                                                          for this type of diagenetically mediated deformational regime. A
+                                                                                          fuller discussion of the wider range of shallow diagenetic processes
+                                                                                          in this context of early fracturing is beyond the scope of this paper,
+                                                                                          although there are clearly a number of other candidate diagenetic
+                                                                                          reactions that could lead to volume change, dissolution, cementa-
+                                                                                          tion and major changes of grain shape and packing, speciﬁc surface,
+                                                                                          surface charge and other critical physical properties. Candidate
+                                                                                          reactions could include: (1) dissolution of detrital calcite and
+                                                                                          aragonite (Milliken and Land, 1993; Morse, 2003); (2) dissolution of
+Figure 17. 2D seismic proﬁle from offshore Norway showing the lateral limit of the        minor amounts of cementing phases (e.g. calcite, opal C/T, or
+opal A to opal CT diagenetic reaction front (white arrows) is reached considerably
+                                                                                          quartz) (Spinelli et al., 2007), and (3) remineralisation of organic
+outboard of the lateral inboard limit of polygonal faulting in the Oligo-Miocene Brygge
+Formation. Seismic data courtesy of Statoil A/S.                                          matter (Burdidge, 2006).
+                                                                                              In addition, a host of diagenetic reactions are controlled by
+                                                                                          microbial activity (Parkes et al., 2000) including manganese
+boundary. Many faults tip out upwards within the Kai Formation                            reduction, denitriﬁcation, iron reduction, sulphate reduction and
+(Miocene to Early Pliocene), but locally at least, some propagate                         methanogenesis (Burdidge, 2006). These reactions all involve
+upwards into the Naust Formation (Late Pliocene to Pleistocene)                           changes in the composition of the coatings on the mineral grains or
+(Corﬁeld et al., 2004; Hansen et al., 2005; Gay and Berndt, 2007).                        the grains themselves (Mayer, 1994), and therefore would likely
+    Over a large part of the area covered by the PFS, seismic data                        result in changes in the particle-pore ﬂuid interactions
+shows that the tier is partly affected by diagenesis of biogenic silica.                  (Santamarina, 2001). They may also result in changes in pore water
+Several recent studies have identiﬁed a prominent seismic reﬂec-                          chemistry itself, and this opens another route for the speciﬁc
+tion as the boundary between Opal A bearing and Opal C/T bearing                          micromechanical explanation for shear failure, through the impact
+sediments within this interval (Brekke, 2000; Berndt et al., 2004;                        of pH changes on surface chemistry of clay particles (van Olphen,
+Ireland et al., 2010; Neagu et al., 2010). This seismic event corre-                      1963). Anaerobic methane oxidation (Hoehler et al., 1994) may
+sponds to the reaction front for the diagenetic transformation of                         also be a candidate reaction, since it produces bicarbonate ions, and
+Opal A to Opal C/T (ACT reﬂection on Fig. 17), and results from                           localized zones of carbonate cementation are often found to coin-
+a marked increase of acoustic impedance due to rapid porosity                             cide with the methane-sulphate boundary in slope sediments
+reduction at or close to the reaction front (Nobes et al., 1992; Davies                   (Barnes and Goldberg, 1976). It may be signiﬁcant in this latter
+and Cartwright, 2002). Recent analysis of boreholes in this area of                       context that many PFS are found in regions of well developed
+offshore Norway shows that porosity reduction at the diagenetic                           methane hydrate deposits (e.g. Blake Ridge, Hornbach et al., 2008;
+front is of the order of 15e20% (Neagu et al., 2010). Cores taken                         offshore Angola, Gay et al., 2004), where a signiﬁcant ﬂux of
+through the polygonally faulted interval in ODP sites 643 and 644                         methane into the near surface sediments is observed. Finally,
+show that the biosiliceous mudstones comprising the polygonally                           reverse weathering reactions (Burdidge, 2006), in which authigenic
+faulted interval are themselves internally fractured at a sub-seismic                     clay minerals form from a source input of cation poor clay minerals,
+scale.                                                                                    silica, iron oxides, organic carbon and dissolved cations are also
+    Over most of the area affected by the PFS, the ACT reﬂection                          candidates, since this reaction group includes a set of dissolution-
+occurs at some position close to the middle of the tier, but it crosses                   precipitation steps (Mackenzie et al., 1981; Aplin, 1993).
+obliquely through the stratigraphy, and generally follows a position
+that is isopachous with respect to a late Miocene to early Pliocene                        6. Concluding remarks and implications
+palaeoseabed datum (Brekke, 2000; Neagu et al., 2010). Towards
+the edges of the basin, the relationship between the ACT reﬂection                             Shallow diagenetic processes that are known to occur over huge
+and the PFS is less clear. At least in some areas of the inner margin,                     lateral extents in continental slope settings and therefore satisfy
+the PFS is seen to extend well beyond the limit of the ACT reﬂection                       the critical length scale requirement for the genesis of PFS. A
+(Fig. 17), suggesting perhaps that the PFS is not causally linked to                       diverse set of reactions occurs in the different sedimentary settings
+the presence of the ACT reﬂection.                                                         in which PFS are found, and these are largely conditioned by the
+    The spatial coincidence of a laterally extensive PFS with an                           original depositional constitution of the host sediment. It seems
+almost equally extensive region of silica diagenesis points ﬁrmly to                       highly probable that these reactions can either lead to physical
+some intimate connection between the diagenesis and the devel-                             grain removal by dissolution or to changes in mineral-pore ﬂuid
+opment of the PFS, as was also argued for Case 1 above. In this case,                      interactions and mineralemineral interactions by chemical inter-
+however, the link may not be of a directly causal nature, but more                         ventions at mineral surfaces. Any of these changes will affect
+simply a process that accentuates the development of the PFS. The                          physical properties at the grain scale, and thus a large range of
+evidence from the Vøring Basin points to considerable additional                           processes is potentially capable of inducing shear failure according
+fracturing within the Opal C/T zone relative to the Opal A zone                            to the experimental and theoretical work of Shin et al. (2008).
+above, which when combined with the abrupt porosity changes at                             Based on the scale argument, and the likelihood of diagenesis
+the reaction front strongly suggests that silica diagenesis leads to                       leading to requisite changes in grain interactions, it is suggested
+porosity collapse and concomitant shear failure. Since the trans-                          that diagenetically-induced shear failure is a strong candidate
+formation from Opal A to Opal C/T is a dissolution-precipitation                           genetic mechanism for PFS on a truly global basis.
+reaction involving signiﬁcant changes in the physical properties,                              From the case studies presented in the discussion above, it is
+this link between shear fracturing and diagenesis ﬁts very well with                       argued that some diagenetic reactions can lead to major and abrupt
+the predictions derived from Shin et al. (2008) that grain dissolu-                        changes in physical properties of the bulk sediment with comple-
+tion can lead to contraction-driven shear failure.                                         mentary porosity changes as a result. These porosity changes can be
+1608                                           J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+
+dramatic in magnitude and occur very rapidly over depth thresh-                  resource is distributed, and recognition of this mode of fracture
+olds of a few metres. Although far from proven, such changes match               development will be critical to planning the exploitation of this
+the predictions from laboratory experiments that diagenesis can                  huge resource.
+trigger shear failure, which raises the possibility that this new                    I have highlighted a few emerging industrial sectors where PFS
+mode of shear failure may be much more prevalent in the                          or more generally diagenetically-induced shear fractures could play
+geological record than currently appreciated.                                    a signiﬁcant role. It is evident that the signiﬁcance of PFS extends
+    This mode of diagenetically-induced shear failure has far-                   way beyond their impact on hydrocarbon exploitation, to the
+reaching implications for different types of resource exploitation               broader issues involving the intrinsic permeability of the ﬁne-
+where a knowledge of natural fractures in ﬁne-grained sediments is               grained sediments that host PFS. PFS are very widely developed
+paramount. In shale gas exploration, for example, economic                       in Nature, and if they truly do form as a result of a diagenetic
+production usually requires enhancement of the very low matrix                   mechanism as advocated by Shin et al. (2008), then regional frac-
+permeability with hydraulic fracturing technology. Much recent                   ture networks in many different ﬁne-grained depositional systems
+effort has therefore been devoted to improving our ability to                    may well have developed pervasively on an equivalent scale to that
+predict fracture distributions within target shales from ﬁeld                    mapped for PFS. Diagenesis may therefore prove to be equally as
+observations of analogue reservoirs or theoretical considerations                important to understand as regional tectonics or uplift when faced
+(Gale et al., 2007). It is thus evident that adequate knowledge of the           with trying to decipher and predict the natural fracture distribu-
+natural fracture system of any shale gas reservoir is a critical                 tions of ﬁne-grained sedimentary successions.
+requirement prior to development. If all the natural fractures in
+shales are assumed to be tectonic in origin, the in reality some of
+them formed due to diagenetically-induced shear failure, the                     Acknowledgements
+wrong exploration model would be employed and the hydraulic
+fracturing might well be inefﬁcient.                                                The support of the Wolfson Foundation and Royal Society for the
+    Fine-grained sediments are commonly topseals for conventional                3DLab at Cardiff is gratefully acknowledged. Special thanks are
+hydrocarbon accumulations (Cartwright et al., 2007) and more                     owed to David James and Carlos Santamarina for many invaluable
+recently for underground repositories for carbon dioxide storage                 discussions on the genesis of polygonal faults, and to Dan Car-
+(Arts et al., 2004). They also act as barriers for nuclear waste                 ruthers for help with the ﬁgures. I am very grateful to Total and
+disposal (Dehandschutter et al., 2005). In all these contexts, the               Statoil for permission to include seismic images. Kitty Milliken and
+efﬁcient exploitation of the resource or disposal of the waste                   Joe Macquaker contributed enormously with insightful reviews
+depends to some degree on the accurate prediction of the bulk ﬂow                that greatly improved the ﬁnal draft of this paper.
+properties of the ‘sealing sequence,’ i.e. the ﬁne-grained sediments.
+If shear fracturing due to diagenesis has occurred, it can funda-
+mentally alter the magnitude and anisotropy of permeability in                   References
+these low permeability sediments, and perhaps compromise their
+integrity as seals. Failure to identify the fracture mode correctly will         Aplin, A.C., 1993. The composition of authigenic clay minerals in recent sediments:
+                                                                                     links to the supply of unstable reactants. In: Manning, D.A., Hall, P.L.,
+inevitably lead to erroneous prediction of seal integrity.                           Hughes, C.R. (Eds.), Geochemistry of Clay-Pore Fluid Interactions. Chapman and
+    A ﬁnal implication of this mode of diagenetically-induced shear                  Hall, London, pp. 81e106.
+failure, is in the context of methane hydrate exploitation. The global           Arts, R., Eiken, O., Chadwick, A., Zweigel, P., Van der Meer, B., Kirby, G., 2004. Seismic
+                                                                                     monitoring at the Sleipner underground CO2 storage site (North Sea). In:
+methane hydrate resource is of huge magnitude (Collett, 2002), and                   Baines, S.J., WordenR.H. (Eds.), Geological Storage of Carbon Dioxide. Geological
+much of this resource is hosted in slope sediments that are prone to                 Society, London Special Publication, vol. 233, pp. 181e191.
+early diagenetic processes that could lead to diagenetically-induced             Barnes, R.O., Goldberg, E.D., 1976. Methane production and consumption in anoxic
+                                                                                     marine sediments. Geology 4, 297e300.
+shear failure. Indeed, many hydrate provinces are also sites of well
+                                                                                 Barnett, J.A.M., Mortimer, J., Rippon, J.H., Walsh, J.J., Watterson, J., 1987. Displace-
+developed PFS (Cartwright and Dewhurst, 1998; Cunningham and                         ment geometry in the volume containing a single normal fault. American
+Lindholm, 2000; Gay et al., 2004).                                                   Association of Petroleum Geologists Bulletin 71, 925e937.
+                                                                                 Baudon, C., Cartwright, J.A., 2008a. 3D seismic characterisation of an array of blind
+    Diagenetically-induced shear failure could be important to the
+                                                                                     normal faults in the Levant Basin, Eastern Mediterranean. Journal of Structural
+development of hydrate systems in a number of ways. Firstly,                         Geology 29, 746e760.
+fractures and faults in sediments hosting methane hydrates may act               Baudon, C., Cartwright, J.A., 2008b. Early stage evolution of growth faults: 3D
+as conduits supplying methane into the hydrate stability zone                        seismic insights from the Levant Basin, Eastern Mediterranean. Journal of
+                                                                                     Structural Geology 30, 888e898.
+(Chen and Cathles, 2003; Tréhu et al., 2004; Liu and Flemings,                   Berndt, C., Bunz, S., Mienert, J., 2003. Fluid expulsion from polygonally faulted
+2007). The patchy distribution of hydrates observed in many                          clays, Norwegian margin. In: Van Rensbergen, P., Hillis, R., Morley, C. (Eds.),
+areas at a length scale of metres to kilometers (Cunningham and                      Subsurface Sediment Mobilisation. Geological Society, London Special Publi-
+                                                                                     cation, vol. 216, pp. 223e243.
+Lindholm, 2000) may be explained by fault and fracture focusing                  Berndt, C., BÜnz, S., Clayton, T., Mienert, J., Saunders, M., 2004. Seismic character of
+of methane and water ﬂow. This is especially likely to be the case                   bottom simulating reﬂectors: examples from the mid-Norwegian margin.
+where the primary source of methane is deep and thermogenic                          Marine and Petroleum Geology 21, 723e733.
+                                                                                 Brekke, H., 2000. The tectonic evolution of the Norwegian Sea continental
+(Swart, 2009). Secondly, the fractures/faults may act as preferential                margin with emphasis on the Voring and more basins. In: Nootvedt, A. (Ed.),
+sites for hydrate accumulation (Weinberger and Brown, 2006; Cook                     Dynamics of the Norwgian Margin. Geological Society of London, Special
+et al., 2008). Milkov and Sassen (2000) estimated that most of the                   Publication, vol. 167, pp. 327e378.
+                                                                                 Buckley, D.E., Grant, A.C., 1985. Faultlike features in abyssal plain sediments:
+gas hydrate in the northwestern Gulf of Mexico is to be found in                     possible dewatering structures. Journal of Geophysical Research 90, 9173e9180.
+fault zones. Finally, it is also possible in that any early diagenetic           Burdidge, D.J., 2006. Geochemistry of Marine Sediments. Princeton University Press,
+process leading to shear failure the same process could stimulate                    New Jersey, p. 609.
+                                                                                 Cartwright, J.A., 1994a. Episodic basin-wide hydrofracturing of overpressured early
+hydrate accumulation by providing a source of fresh water (e.g.
+                                                                                     Cenozoic mudrock sequences in the North Sea Basin. Marine and Petroleum
+volcanic ash transformation or biogenic silica diagenesis both                       Geology 11, 587e607.
+release fresh water) because nucleation and growth of hydrate                    Cartwright, J.A., 1994b. Episodic basin-wide ﬂuid expulsion from geopressured
+crystals is enhanced by a supply of fresh water (Sloan, 1998). In                    shale sequences in the North Sea Basin. Geology 22, 447e450.
+                                                                                 Cartwright, J.A., Trudgill, B.D., Mansﬁeld, C., 1995. An explanation for the scatter in
+summary, diagenetically-induced shear failure may play a signiﬁ-                     displacement and length data during fault growth by segment linkage. Journal
+cant role in the vast areas of continental slopes where the hydrate                  of Structural Geology 17, 672e679.
+                                                          J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610                                                        1609
+
+Cartwright, J.A., Lonergan, L., 1996. Volumetric contraction during the compaction           Hay, R.L., Iijima, A., 1968. Nature and origin of palagonite tuffs of the Honolulu group
+    of mudrocks: a mechanism for the development of regional-scale polygonal                      on Oahu, Hawaii. In: Studies in Volcanology, a Memoir in Honor of Howel
+    fault systems. Basin Research 8, 183e193.                                                     Williams. Geological Society of America, Boulder, pp. 331e376.
+Cartwright, J.A., Dewhurst, D., 1998. Layer-Bound compaction faults in ﬁne-grained           Hefferman, A.S., Moore, J.C., Bangs, N.L., Moore, G.F., Shipley, T.F., 2004. Initial
+    sediments. Bulletin of the Geological Society of America 110, 1242e1257.                      deformation in a subduction thrust system: polygonal normal faulting in the
+Cartwright, J.A., James, D.M.D., Bolton, A.J., 2003. The genesis of polygonal fault               incoming sedimentary sequence of the Nankai subduction zone, southwestern
+    systems: a review. In: Van Rensbergen, P., Hillis, R., Morley, C. (Eds.), Subsurface          Japan. In: Davies, R.J., Cartwright, J., Stewart, S.A., Underhill, J.R., Lappin, M.
+    Sediment Mobilisation. Geological Society of London, Special Publication, vol.                (Eds.), 3D Seismic Technology: Application to the Exploration of Sedimentary
+    216, pp. 223e242.                                                                             Basins, vol. 29. Geological Society, London, pp. 143e148. Memoir.
+Cartwright, J.A., Huuse, M., Aplin, A., 2007. Topseal bypass systems. AAPG Bulletin          Henriet, J.P., De Batist, M., Van Vaerenburgh, W., Verschuren, M., 1989. Seismic
+    91, 1141e1166.                                                                                facies and clay tectonic features in the southern North Sea. Bulletin of the
+Chen, D.F., Cathles, L.M., 2003. A kinetic model for the pattern and amounts of                   Belgian Geological Society 97, 457e472.
+    hydrate precipitated from a gas stream: application to the Bush Hill vent site,          Henriet, J.P., Batist, M.D., Verschuren, M., 1991. Early fracturing of Paleogene clays,
+    Green Canyon Block 185, Gulf of Mexico. Journal of Geophysical Research 108,                  southernmost North Sea: Relevance to mechanisms of primary hydrocarbon
+    2058. doi:10.1029/2001JB001597.                                                               migration. In: Spenser, A.M. (Ed.), Generation, Accumulation and Production of
+Collett, T.S., 2002. Energy resource potential of natural gas hydrates. AAPG Bulletin             Europe’s Hydrocarbons. Special Publications of the European Association of
+    86, 1971e1992.                                                                                Petroleum Geologists, pp. 217e227. no.1.
+Cook, A.E., Goldberg, D., Kleinberg, R.L., 2008. Fracture controlled gas hydrate             Herrera, M.C., Lizcano, A., Santamarina, J.C., 2007. Colombian volcanic ash soils.
+    systems in the Gulf of Mexico. Marine and Petroleum Geology 25, 845e859.                      Characterization and Engineering Properties of Natural Soils, 2385e2409.
+Corﬁeld, S.M., Wheeler, W., Karpuz, R., Wilson, M., Helland, R., 2004. Exploration 3D        Hjelstuen, B.O., Eldholm, O., Skogseid, J., 1997. Voring Plateau diapir ﬁelds and their
+    seismic over the Gjallar Ridge, Mid Norway: visualization of structures on the                structural and depositional settings. Marine Geology 144, 35e57.
+    Norwegian volcanic margin from Moho to seaﬂoor. In: Davies, R.J.,                        Hoehler, T.M., Alperin, M.J., Albert, D.B., Martens, C.S., 1994. Field and lbaoratory
+    Cartwright, J., Stewart, S.A., Underhill, J.R., Lappin, M. (Eds.), 3D Seismic Tech-           studies of methane oxidation in an anoxic marine sediment: evidence for
+    nology: Application to the Exploration of Sedimentary Basins. Geological                      a methanogen-sulfate reducer consortium. Global Biogeochemistry Cycles 8,
+    Society, London, Memoir, 29, pp. 177e185.                                                     451e463.
+Craig, J. 1985. Tectonic evolution of the area between Borth and Cardigan, Dyfed.            Hornbach, M.J., Saffer, D.M., Holbrook, W.S., Van Avendonk, H.J.A., Gorman, A.R.,
+    Unpublished PhD thesis, University of Wales, vol. 3.                                          2008. Three-dimensional seismic imaging of the Blake Ridge methane hydrate
+Crans, W.M., Mandl, G., Haremboure, J., 1980. On the theory of growth faulting:                   province: evidence for large, concentrated zones of gas hydrate and morpho-
+    a geomechanical delta model based on gravity sliding. Journal of Petroleum                    logically driven advection. Journal of Geophysical Research B: Solid Earth 113.
+    Geology 2, 265e307.                                                                      Ienaga, M., MacNeill, L., Mikada, H., Saito, S., Goldberg, D., Moore, J.C., 2006. Bore-
+Crovisier, J.L., Honnorez, J., Eberhart, J.P., 1987. Dissolution of basaltic glass in sea         hole image analysis of the Nankai Accretionary Wedge, ODP Leg 196: structure
+    water; mechanism and rate. Geochimica et Cosmochimica Acta 51, 2977e2990.                     and stress studies. Tecotonophysics 406, 207e220.
+Cunningham, R., Lindholm, R.M., 2000. Seismic evidence for widespread gas                    Ireland, M., Goulty, N.J., Davies, R.J., 2010. Inﬂuence of pore water chemistry on silica
+    hydrate formation, offshore west Africa. AAPG Memoir vol. 73, 93e105.                         diagenesis: evidence from the interaction of diagenetic reaction zones with
+Davies, R.J., Cartwright, J., 2002. A fossilized Opal A to Opal C/T transformation on             polygonal fault systems. Journal of the Geological Society of London 167,
+    the northeast Atlantic margin: support for a signiﬁcantly elevated palae-                     273e279.
+    ogeothermal gradient during the Neogene? Basin Research 14, 467e486.                     James, D.M.D., Goulty, N.J., Swarbrick, R.E., 2006. Discussion of Development of
+Davies, R.J., Ireland, M.T., Cartwright, J.A., 2009. Differential compaction due to the           polygonal fault systems, a test of hypotheses. Journal of the Geological Society
+    irregular topology of a diagenetic reaction boundary: a new mechanism for the                 London 163, 221e223.
+    formation of polygonal faults. Basin Research 21, 354e359.                               Jakobsson, S.P., Moore, J.G., 1986. Hydrothermal minerals and alteration rates at
+Davison, I., Alsop, G.I., Evans, N.G., Safaricz, M., 2000. Overburden deformation                 Surtsey volcano, Iceland. Geological Society of America Bulletin 97, 648e659.
+    patterns and penetration mechanisms of salt diapirs in the Central Graben,               Jercinovic, M.J., Keil, K., Smith, M.R., Schmitt, R.A., 1990. Alteration of basaltic glass
+    North Sea. Marine and Petroleum Geology 17, 601e618.                                          from north-central British Columbia, Canada. Geochimica Cosmochemica Acta
+Dawers, N.H., Anders, M.H., 1995. Displacement-length scaling and fault linkage.                  54, 2679e2696.
+    Journal of Structural Geology 17, 607e614.                                               Knipe, R.J., 1997. Juxtaposition and seal diagrams to help analyse fault seals in
+Dehandschutter, B., Gaviglio, P., Sizun, J.-P., Sintubin, M., Vandycke, S.,                       hydrocarbon reservoirs. AAPG Bulletin 81, 187e195.
+    Vendenberge, N., Wouters, L., 2005. Volumetric matrix strain related to intra-           Lachenbruch, A., 1963. Mechanics of thermal contraction cracks and ice-wedge
+    formational faulting in argillaceous sediments. Journal of the Geological Society,            polygons in permafrost. Geological Society of America, 69. Special Paper 70.
+    London 162, 801e813.                                                                     Liu, X., Flemings, P.B., 2007. Dynamic multiphase ﬂow model of hydrate formation
+Dewhurst, D., Cartwright, J.A., Lonergan, L., 1999. The development of polygonal                  in marine sediments. Journal of Geophysical Research B: Solid Earth 112.
+    fault systems by the syneresis of ﬁne-grained sediments. Marine and Petroleum            Lonergan, L., Cartwright, J.A., Jolley, R., 1998. 3-D geometry of polygonal fault
+    Geology 16, 793e810.                                                                          systems. Journal of Structural Geology 20, 529e548.
+Furnes, H., El Anbaawy, M.H., 1980. Chemical changes and authigenic mineral                  Mackenzie, F.T., Ristvet, B.L., Thorstensob, D.C., Lerman, A., Leeper, R.H., 1981.
+    formation during palagonitization of a basanite hyaloclastite, Gran Canaria,                  Reverse weathering and chemical mass balance in coastal environments. In:
+    Canary Islands. Neues Jahrbuch Mineral Abh 139, 279e302.                                      Marten, J.M., Burton, J.D., Eisma, D. (Eds.), River Inputs to the Ocean Systems.
+Gale, J.F., Reed, R.M., Holder, J., 2007. Natural fractures in the Barnett Shale and their        UNEP and UNESCO, pp. 152e187.
+    importance for hydraulic fracture treatments. AAPG Bulletin 91, 603e622.                 Mandl, G., 1988. Mechanics of Tectonic Faulting, Models and Basic Concepts.
+Gay, A., Lopez, M., Cochonat, P., Sermondadz, G., 2004. Polygonal faults-furrows                  Elsevier, Amsterdam, p. 407.
+    system related to early stages of compaction e upper Miocene to recent sedi-             Marrett, R., Ortega, O.J., Kelsey, C.M., 1999. Extent of power law scaling for natural
+    ments of the Lower Congo Basin. Basin Research 16, 101e116.                                   fractures in rock. Geology 27, 799e802.
+Gay, A., Berndt, C., 2007. Cessation/reactivation of polygonal faulting and effects on       Mayer, L.M., 1994. Relationships between mineral surfaces and organic carbon
+    ﬂuid ﬂow in the Vøring Basin, Norwegian Margin. Journal of the Geological                     concentrations in soils and sediments. Chemical Geology 114, 347e363.
+    Society of London 164, 129e141.                                                          Milliken, K.L., Land, L.S., 1993. The origin and fate of silt sized carbonate in
+Gieskes, J.M., Lawrence, J.R., 1981. Alteration of volcanic matter in deep sea sedi-              subsurface Miocene- Oligocene mudstones, south Texas Gulf Coast. Sedimen-
+    ments: evidence from the chemical composition of interstitial waters from                     tology 40, 107e124.
+    deep sea drilling cores. Geochemica et Cosmochemica Acta 45, 1687e1703.                  Milkov, A.V., Sassen, R., 2000. Thickness of the gas hydrate stability zone, Gulf of
+Gillespie, P., Watterson, J., Walsh, J., 2001. Scaling relationships of joint and vein            Mexico continental slope. Marine and Petroleum Geology 17, 981e991.
+    arrays from The Burren, Co. Clare, Ireland. Journal of Structural Geology 23,            Moller, N.K., Gjelberg, J.G., Martinsen, O., Charnock, M.A., Faerseth, R.B.,
+    183e201.                                                                                      Sperrevik, S., Cartwright, J.A., 2004. A geological model for the Ormen Lange
+Goulty, N.J., 2002. Mechanics of layer-bound polygonal faulting in ﬁne-grained                    hydrocarbon reservoir. Norwegian Journal of Geology 84, 169e190.
+    sediments. Journal of the Geological Society London 159, 239e246.                        Moore, J.C., Taira, A., Klaus, A., Becker, L., Boeckel, B., and 21 others, 2001.
+Goulty, N.J., 2008. Geomechanics of polygonal fault systems: a review. Petroleum                  Proceedings of the Ocean Drilling Programme, Initial Reports, 190, College
+    Geoscience 14, 389e397.                                                                       Station, Texas.
+Goulty, N.J., Swarbrick, R.E., 2005. Development of polygonal fault systems, a test of       Morse, J.W., 2003. Formation and diagenesis of carbonate sediments. In:
+    hypotheses. Journal of the Geological Society London 162, 579e590.                            Mackenzie, F.T. (Ed.), Treatise on Geochemistry, vol. 7. Eslevier, pp. 67e85.
+Hansen, D.M., Shimeld, J., Williamson, M.A., Lykke Andersen, H., 2004. Development           Neagu, C., Cartwright, J.A., Davies, R.J., 2010. Measurement of diagenetic compaction
+    of a major polygonal fault system in Upper Cretaceous chalk and Cenozoic                      strain from quantitative analysis of fault plane dip. Journal of Structural Geology
+    mudrocks of the Sable Subbasin, Canadian Atlantic margin. Marine and Petro-                   32, 641e655. doi:10.1016/j.jsg.2010.03.010.
+    leum Geology 21, 1205e1219.                                                              Nelson, M. 2007. Kinematic analysis of fault intersections. PhD thesis, Cardiff
+Hansen, D.M., Cartwright, J.A., 2006. The three-dimensional geometry and growth                   University, p. 245.
+    of forced folds above saucer-shaped igneous sills. Journal of Structural Geology         Nicol, A., Watterson, J., Walsh, J.J., Childs, C., 1996. The shapes, major axis orienta-
+    28, 1520e1535.                                                                                tions and displacement patterns of fault surfaces. Journal of Structural Geology
+Hansen, J.P.V., Cartwright, J., Huuse, M., Clausen, O.R., 2005. 3D seismic expression             18, 235e248.
+    of ﬂuid migration and mud remobilization on the Gjallar Ridge, offshore mid              Nicol, A., Walsh, J.J., Watterson, J., Nell, P.A.R., Bretan, P., 2003. The geometry, growth
+    Norway. Basin Research 17, 123e139.                                                           and linkage of faults within a polygonal fault system from South Australia. In:
+1610                                                    J. Cartwright / Marine and Petroleum Geology 28 (2011) 1593e1610
+
+    Van Rensbergen, P., Hillis, R., Morley, C. (Eds.), Subsurface Sediment Mobi-          Stewart, S.A., 2006. Implications of passive salt diapir kinematics for reservoir
+    lisation. Geological Society, London Special publication, vol. 216, pp. 245e262.          segmentation by radial and concentric faults. Marine and Petroleum Geology
+Nobes, D.C., Langseth, M.G., Kuramoto, S., Holler, P. Hirata, N., 1992. Comparison and        23, 843e853.
+    correlation of physical-property results from Japan Sea basin and Rise sites, Legs    Stroncik, N.A., Scminke, H.-U., 2001. Evolution of palagonite: Crystallization,
+    127 and 128. Proc., scientiﬁc results, ODP, Legs 127/128, Japan Sea: 1275e1296.           chemical changes and element budget. Geochemistry, Geophysics, Geosystems
+Parkes, R.J., Cragg, B.A., Wellsbury, P., 2000. Recent studies on bacterial populations       2 paper no. 2000GC000102.
+    and processes in subseaﬂoor sediments: a review. Hydrological Journal 8,              Stroncik, N.A., Scminke, H.-U., 2002. Palagonite- a review. Geologische Rundschau
+    11e28.                                                                                    91, 680e697.
+Peacock, D.C.P., Sanderson, D.J., 1991. Displacements, segment linkage and relay          Stuevold, L., Faerseth, R., Arnsen, L., Cartwright, J.A., Moller, N., 2003. Polygonal
+    ramps in normal fault zones. Journal of Structural Geology 13, 721e733.                   faults in the Ormen Lange ﬁeld. In: Van Rensibergen, P., Hillis, R.R., Morley, C.K.
+Praeger, T. 2009. Heterogeneities in ﬁne-grained sediments and their impact on seal           (Eds.), Subsurface Sediment Mobilization. Geological Society, London, Special
+    quality. Unpublished PhD thesis, Cardiff University, UK. P. 242.                          Publications, vol. 216, pp. 263e281.
+Rank-Friend, M., Elders, C.F., 2004. The evolution and growth of central Graben salt      Swart, R., 2009. Hydrate occurrences in the Namibe basin, offshore Namibia. In:
+    structures, salt Dome province, Danish north sea. In: Davies, R.J., Cartwright, J.,       Long, D., Lovell, M., Rees, J.G., Rochelle, C.A. (Eds.), Sediment Hosted Gas
+    Stewart, S.A., Underhill, J.R., Lappin, M. (Eds.), 3D Seismic Technology: Appli-          Hydrates. Geological Society, London, Special Publications, vol. 319, pp. 73e80.
+    cation to the Exploration of Sedimentary Basins, 29. Geological Society, London,      Terzaghi, K., Peck, R.B., Mesri, G., 1996. Soils in Engineering Practice. John Wiley,
+    Memoir, 29, pp. 149e163.                                                                  New York, p. 592.
+Santamarina, J.C., 2001. Soil Behavior at the Microscale: Particle Forces. In:            Tréhu, A.M., Flemings, P.B., Bangs, N.L., Chevallier, J., GrÁcia, E., Johnson, J.E., Liu, C.S.,
+    Proceedings of the Symposium on Soil Behavior and Soft Ground Construction,               Liu, X., Riedel, M., Torres, M.E., 2004. Feeding methane vents and gas hydrate
+    in Honor of Charles C. Ladd - October 2001. MIT.                                          deposits at south hydrate ridge. Geophysical Research Letters 31, 1e4.
+Scherer, G.W., 1989. Mechanics of syneresis, I: theory. Journal of Non-Crystalline        Tuckwell, G.M., Lonergan, L., Jolly, R.J.H., 2003. The control of stress history and ﬂaw
+    Solids 108, 18e27.                                                                        distribution on the evolution of polygonal fracture networks. Journal of Struc-
+Shin, H. 2009. Development of Discontinuities in Granular Media. PhD thesis                   tural Geology 25, 1241e1250.
+    Georgia Institute of Technology, Atlanta, Georgia, USA.                               Van Olphen, H., 1963. An Introduction to Clay Colloid Chemistry. John Wiley,
+Shin, H., Santamarina, C., Cartwright, J.A., 2008. Contraction driven shear in com-           New York, p. 302.
+    pacting uncemented sediments. Geology 36, 931e934.                                    Walsh, J.J., Watterson, J., 1988. Analysis of the relationship between displacements
+Shin, H., Santamarina, J.C., Cartwright, J.A., 2010. Displacement ﬁeld in contraction         and dimensions of faults. Journal of Structural Geology 10, 239e247.
+    driven faults. Journal of Geophysical Research 115, B07408. doi:10.1029/              Watterson, J., Walsh, J.J., Nicol, A., Nell, P.R., Bretan, P.G., 2000. Geometry and origin
+    2009JB006572.                                                                             of a polygonal fault system. Journal of the Geological Society of London 157,
+Shoulders, S., Cartwright, J.A., 2004. A seismic method for dating the process of             151e162.
+    Clastic intrusion. Geology 32, 661e664.                                               Weinburger, J.L., Brown, K.M., 2006. Fracture networks and hydrate distribution at
+Skempton, A.W., 1985. Residual strength of clays in landslides, folded strata and the         Hydrate Ridge, Oregon. Earth and Planetary Science Letters 245, 123e136.
+    laboratory. Geotechnique 35, 3e18.                                                    Wilson, M.E.J., Hiroano, S., Fergusson, C.L., Steurer, J., Underood, M.B., 2003. Data
+Sloan, E.D., 1998. Clathrate Hydrates of Natural Gases. Marcel Dekker, New York.              report: sedimentological and petrographic characteristics of volcanic ashes and
+Spinelli, G.A., Mozely, P.S., Tobin, H.J., Underwood, M.B., Hoffman, N., Bellew, G.M.,        siliceous claystones from sites 1173, 1174 and 1177, Leg 190. In: Mikada, H.,
+    2007. Diagenesis, sediment strength, and pore collapse in sediment                        Moore, J.C., Taira, A. (Eds.), Proceedings of the Ocean Drilling Programme
+    approaching the Nankai Trough subduction zone. Geological Society of America              Scientiﬁc Results, vol. 190/196, pp. 1e9.
+    Bulletin 119, 377e390.                                                                Williams, S.R.J., 1987. Faulting in abyssal-plain sediments, Great Meteor East,
+Staudigel, H., Hart, S.R., 1983. Alteration of volcanic glass: mechanisms and signif-         Maderia abyssal plain. In: Weaver, P.P.E., Thomson, J. (Eds.), Geology and
+    icance for the ocean crust-sea water budget. Geochimica et Cosmochimica Acta              Geochemistry of Abyssal Plains. Geological Society of London, Special Publica-
+    47, 337e350.                                                                              tion, vol. 31, pp. 87e104.
+

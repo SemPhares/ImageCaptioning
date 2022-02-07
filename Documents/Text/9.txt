@@ -1,0 +1,975 @@
+                                                                          Marine Geology 272 (2010) 26–48
+
+
+
+                                                                  Contents lists available at ScienceDirect
+
+
+                                                                           Marine Geology
+                                                  j o u r n a l h o m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / m a r g e o
+
+
+
+
+Tectonic and geological framework for gas hydrates and cold seeps on the Hikurangi
+subduction margin, New Zealand
+Philip M. Barnes a,⁎, Geoffroy Lamarche a, Joerg Bialas b, Stuart Henrys c, Ingo Pecher d, Gesa L. Netzeband b,
+Jens Greinert e,1, Joshu J. Mountjoy a,f, Katherine Pedley f, Gareth Crutchley g
+a
+  National Institute of Water & Atmospheric Research, P.O. Box 14901, Kilbirnie, Wellington 6041, New Zealand
+b
+  Leibniz Institute of Marine Sciences, IFM-GEOMAR, Wischhofstr. 1-3, 24148, Kiel, Germany
+c
+  GNS Science, P.O. Box 30368, Lower Hutt, New Zealand
+d
+  Institute of Petroleum Engineering, Heriot-Watt University, Edinburgh, EH3 9HP, Scotland, UK
+e
+  Renard Centre of Marine Geology, University of Gent, Belgium
+f
+  Department of Geological Sciences, University of Canterbury, Private Bag 4800, Christchurch, New Zealand
+g
+  Department of Geology, University of Otago, P.O. Box 56, Dunedin 9054, New Zealand
+
+
+
+
+a r t i c l e           i n f o                           a b s t r a c t
+
+Article history:                                          The imbricated frontal wedge of the central Hikurangi subduction margin is characteristic of wide (ca.
+Received 2 July 2008                                      150 km), poorly drained and over pressured, low taper (∼ 4°) thrust systems associated with a relatively
+Received in revised form 18 February 2009                 smooth subducting plate, a thick trench sedimentary sequence (∼ 3–4 km), weak basal décollement, and
+Accepted 8 March 2009
+                                                          moderate convergence rate (∼ 40 mm/yr). New seismic reﬂection and multibeam bathymetric data are used
+Available online 31 March 2009
+                                                          to interpret the regional tectonic structures, and to establish the geological framework for gas hydrates and
+Keywords:
+                                                          ﬂuid seeps. We discuss the stratigraphy of the subducting and accreting sequences, characterize
+Hikurangi                                                 stratigraphically the location of the interplate décollement, and describe the deformation of the upper
+subduction                                                plate thrust wedge together with its cover sequence of Miocene to Recent shelf and slope basin sediments.
+interplate décollement                                    We identify approximately the contact between an inner foundation of deforming Late Cretaceous and
+thrust wedge                                              Paleogene rocks, in which widespread out-of-sequence thrusting occurs, and a 65–70 km-wide outer wedge
+thrust faults                                             of late Cenozoic accreted turbidites. Although part of a seamount ridge is presently subducting beneath the
+accretion                                                 deformation front at the widest part of the margin, the morphology of the accretionary wedge indicates that
+subducting seamounts
+                                                          frontal accretion there has been largely uninhibited for at least 1–2 Myr. This differs from the offshore
+anticline
+                                                          Hawkes Bay sector of the margin to the north where a substantial seamount with up to 3 km of relief has
+turbidites
+gas hydrates                                              been subducted beneath the lower margin, resulting in uplift and complex deformation of the lower slope,
+ﬂuid seeps                                                and a narrow (10–20 km) active frontal wedge.
+                                                          Five areas with multiple ﬂuid seep sites, referred to informally as Wairarapa, Uruti Ridge, Omakere Ridge,
+                                                          Rock Garden, and Builders Pencil, typically lie in 700–1200 m water depth on the crests of thrust-faulted,
+                                                          anticlinal ridges along the mid-slope. Uruti Ridge sites also lie in close proximity to the eastern end of a major
+                                                          strike-slip fault. Rock Garden sites lie directly above a subducting seamount. Structural permeability is
+                                                          inferred to be important at all levels of the thrust system. There is a clear relationship between the seeps and
+                                                          major seaward-vergent thrust faults, near the outer edge of the deforming Cretaceous and Paleogene inner
+                                                          foundation rocks. This indicates that thrust faults are primary ﬂuid conduits and that poor permeability of
+                                                          the Cretaceous and Paleogene inner foundation focuses ﬂuid ﬂow to its outer edge. The sources of ﬂuids
+                                                          expelling at active seep sites along the middle slope may include the inner parts of the thrust wedge and
+                                                          subducting sediments below the décollement. Within anticlinal ridges beneath the active seep sites there is a
+                                                          conspicuous break in the bottom simulating reﬂector (BSR), and commonly a seismically-resolvable shallow
+                                                          fault network through which ﬂuids and gas percolate to the seaﬂoor. No active ﬂuid venting has yet been
+                                                          recognized over the frontal accretionary wedge, but the presence of a widespread BSR, an extensive
+                                                          protothrust zone (N 200 km by 20 km) in the Hikurangi Trough, and two unconﬁrmed sites of possible
+                                                          previous ﬂuid expulsion, suggest that the frontal wedge could be actively dewatering. There are presently no
+                                                          constraints on the relative ﬂuid ﬂux between the frontal wedge and the active mid-slope ﬂuid seeps.
+                                                                                                                                   © 2009 Elsevier B.V. All rights reserved.
+
+
+
+
+    ⁎ Corresponding author. Tel.: +64 4 386 0372; fax: +64 4 386 2153.
+      E-mail address: p.barnes@niwa.co.nz (P.M. Barnes).
+    1
+      Present address: Royal Netherlands Institute for Sea Research, P.O. Box 59, 1790 AB, Den Burg (Texel), The Netherlands.
+
+0025-3227/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.margeo.2009.03.012
+                                                      P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                 27
+
+
+1. Introduction                                                                   Darby et al., 2000), and assumed to be widespread within the
+                                                                                  accretionary wedge (Barnes and Mercier de Lépinay, 1997).
+    Gas hydrates and cold seeps are characteristics of many active                    Since 2001, multichannel seismic reﬂection and high-resolution
+continental margins. They reﬂect the migration of ﬂuids and gas                   multibeam bathymetric data have been acquired from the Hikurangi
+towards the seabed as a result of tectonic deformation, compaction,               Margin by research institutes, oil companies, and the New Zealand
+porosity reduction, and dewatering of the sedimentary sequence                    Government as part of hydrocarbon exploration and research
+(Kvenvolden, 1993). Seaﬂoor sites of methane rich ﬂuid expulsion                  initiatives. The improved understanding of tectonic structure that
+may be characterized by the presence of chemosynthetic biological                 can be gained from these data, combined with the widespread
+communities, development of carbonate hard grounds, pockmark                      occurrence of gas hydrates and cold seeps makes this margin an
+depressions, mud volcanism, and/or hydroacoustic ﬂares (e.g., Kulm                excellent example to study the relationship between thrust tectonics
+and Suess, 1990; Henry et al., 1990; Trehu et al., 1999; Faure et al.,            and ﬂuid ﬂow. This paper presents a revision and synthesis of the
+2006). In subduction margins, particularly those dominated by                     tectonic morphology, fault structure, and composition of the
+accretion, high ﬂuid pressures are thought to play an important                   imbricated thrust wedge between Mahia Peninsula and Cook Strait
+mechanical role in maintaining thrust wedges (Moore and Byrne,                    (Fig. 1). We then establish the tectonic and geological framework for
+1987; Bryne and Fisher, 1990, Moore and Vrolijk, 1992; Bangs et al.,              each of ﬁve study areas with submarine seep sites, and we interpret
+1999, 2004; Saffer and Bekins, 2002), and in the seismogenic cycle by             these sites within the context of regional structural processes. Finally
+producing ﬂuctuations in frictional strength of faults (Sibson, 1992;             we discuss the role of the deformation structures as ﬂuid conduits.
+Dixon and Moore, 2007 and papers therein). Fault zones are
+commonly interpreted as important conduits for the upward ﬂow of                  2. Data used in this study
+ﬂuid (e.g., Moore et al., 1990, 1995).
+    The 25 Myr old Hikurangi Margin of north eastern New Zealand                      The continental shelf of the Hikurangi Margin is relatively well
+epitomizes subduction systems and their tectonic complexity and                   covered with multichannel seismic reﬂection (MCS) data, from which
+variability. Lying at the southern end of the Tonga–Kermadec–                     detailed accounts of active tectonics (e.g., Barnes et al., 2002; Barnes
+Hikurangi subduction zone, the margin has formed in response to                   and Nicol, 2004; Lewis et al., 2004), sequence stratigraphy (Paquet,
+the westward subduction of the thick and bathymetrically elevated                 2008; Paquet et al., 2009), and exploration geology (e.g., Field et al.,
+oceanic Hikurangi Plateau (Paciﬁc Plate) beneath the Australian Plate             1997; Uruski et al., 2004) have been published. The continental slope
+at about 40–50 mm/yr (Fig. 1). The structural trench, referred to as the          however, is less well surveyed. Previous regional interpretations of the
+Hikurangi Trough, is shallow (c. 3000 m) compared to the deep                     tectonic structure were based largely on RV L'ATALANTE SIMRAD
+Kermadec trench (N9000 m), and the plate interface dips at a gentle               EM12Dual multibeam bathymetry and Hawaii MR1 sidescan sonar
+angle of about 3° for at least 100 km beneath the margin, before                  images, supported by the SP LEE MCS proﬁle, RV L'ATALANTE and pre-
+steepening beneath the North Island (Davey et al., 1986a; Henrys et al.,          1980s oil company low-fold MCS data (Fig. 1D), and widespread single
+2006; Barker et al., 2009). The margin exhibits complex tectonic                  channel seismic data (not shown in Fig. 1D) (Davey et al., 1986a,b;
+structure and stratigraphic evolution (e.g., Lewis and Pettinga, 1993;            Lewis and Pettinga, 1993; Collot et al., 1996; Barnes and Mercier de
+Collot et al., 1996; Field et al., 1997; Barnes et al., 2002; Barnes and          Lépinay, 1997, Lewis et al., 1997, 1999; Barnes et al., 1998a,b).
+Nicol, 2004; Henrys et al., 2006; Nicol et al., 2007). The northern                   MCS data acquired since 2001, and available for this study, includes
+margin off Raukumara Peninsula is characterized by non-accretion                  (Fig. 1D) (1) the GECO RESOLUTION NIGHT high-fold proﬁle off
+and tectonic erosion associated with seamount impact scars (Lewis                 Hawkes Bay (Pecher et al., 2004, 2005; Henrys et al., 2006), (2) the
+et al., 1997, 1998, 2004; Collot et al., 2001), whereas the central margin        large grid of MV MULTIWAVE high-fold MCS data (CM05) from the
+off the Wairarapa coast is a classical imbricated thrust wedge dominated          upper margin off Hawkes Bay and East Coast (Multiwave, 2005; Nicol
+by accretion (Davey et al., 1986b; Lewis and Pettinga, 1993; Collot et al.,       et al., 2007), (3) low-fold MCS data acquired off Hawkes Bay and
+1996; Barnes and Mercier de Lépinay, 1997; Lewis et al., 1999). The               Mahia Peninsula on several surveys by RV TANGAROA (CR3044,
+relatively narrow southern end of the margin lies in the transition from          TAN0106, TAN0313, TAN0412) (Barnes et al., 2002; Paquet et al.,
+oblique subduction to continental strike-slip deformation (Barnes et al.,         2009), and (4) regional low-fold MCS proﬁles acquired by RV SONNE
+1998a; Barnes and Audru, 1999; Holt and Haines, 1995) and is incised by           SO191 in 2007 from the central part of the margin.
+Cook Strait Canyon (Mountjoy et al., 2009).                                           On the RV SONNE SO191 survey in 2007, we acquired a total of 710 km
+    To a ﬁrst order, Townend (1997a) estimated that an enormous                   of regional seismic reﬂection data (red lines in Fig. 1D). An array of ﬁve
+volume of 24 m3 of ﬂuid per meter of strike length is added to the                SODERA G-guns with total capacity of 2080 in.3 (32 l) was used as the
+Hikurangi Margin by frontal accretion per year. Of that, N80% was                 seismic source on lines 1 to 6, and a 250/105 in.3 (5.5 l) GI gun on lines 8
+inferred to be released by subsequent compaction and tectonic                     to 10. The data were received on a 32 channel digital GEOMETRICS
+deformation, together with an additional 3 m3 per meter of strike                 GeoEel hydrophone array. Standard processing included trace editing,
+length per annum released by smectite dehydration at depths of 5–                 correction for spherical divergence energy loss, frequency domain
+10 km. There is ample evidence of ﬂuid ﬂow within the margin. This                ﬁltering, CDP gather at 12.5 m, Normal Move-Out correction following
+includes the many oil, gas and mud expulsion sites observed on land               velocity picking using semblance plots, nominal 4 fold CDP stack, and
+(Field et al., 1997), widespread cold vent seep sites and associated              ﬁnite difference time migration. In addition to the regional seismic lines,
+chemosynthetic faunas offshore (Lewis and Marshall, 1996; Faure                   we acquired about 415 km of high-resolution MCS data from the
+et al., 2006; Greinert et al., 2010-this issue), the occurrence of direct         Wairarapa, Uruti Ridge, Omakere Ridge and Builders Pencil seep sites
+hydrocarbon indicators in industry seismic reﬂection data (Frederik,              (Fig. 1B) using a 250/105 in.3 GI gun source and SIG 4-channel towed
+2004), and a widespread bottom simulating reﬂection (BSR), inter-                 streamer (e.g., Netzeband et al., 2010-this issue).
+preted as marking the base of the gas hydrate stability zone (Katz,                   Greinert et al. (2010-this issue) outlined new multibeam bathy-
+1981; Henrys et al., 2003; Pecher et al., 2004, 2005; Henrys et al., in           metry data available to this study, including 30 kHz SIMRAD EM300
+press). Studies of exposed rocks in the forearc basin indicate that ﬂuid          data acquired on RV TANGAROA surveys TAN0616 and TAN0607,
+seepage has occurred on the margin for at least 22 Myr (Campbell                  and 12 kHz SIMRAD EM120 data acquired on RV SONNE SO191. In
+et al., 2008). The BSR has been modelled to reveal low values (44 ±               addition to these data, and archived SIMRAD EM12Dual L'ATALANTE
+10 mW m− 2) of heat ﬂow (Townend, 1997b; Henrys et al., 2003;                     data, we have also used SIMRAD EM300 multibeam data collected
+Netzeband et al., 2010-this issue). Elevated pore pressures have been             over the southern Wairarapa region on RV TANGAROA surveys
+commonly encountered in exploration wells (Davies et al., 2000;                   TAN0215, TAN0309, and TAN0510 (Mountjoy et al., 2009), and over
+28                                                              P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+the Poverty Seavalleys off Mahia Peninsula on TAN0106. These data                                 The outer wedge of accreted late Cenozoic turbidites is thrust
+have been processed to variable grids of 10 m to 30 m resolution. The                          beneath the front of the inner foundation (Figs. 3–5). This frontal
+Hawaii MR1 sidescan sonar data previously presented by Barnes and                              wedge is highly imbricated and produces characteristic seismic
+Mercier de Lépinay (1997) and Lewis et al. (1998) have been                                    reﬂections correlated with the Hikurangi Trough sequence, which is
+reinterpreted in light of the new multibeam bathymetric and seismic                            described in Section 3.3. We have identiﬁed the contact between these
+reﬂection data. In discussion of bathymetric features, we refer to                             two components of the imbricated frontal wedge to within c. 10 km in
+Mitchell (1988), Arron and Lewis (1992), and Garlick and Mitchell                              widely spaced (∼35 km) seismic proﬁles along the margin, and have
+(2002).                                                                                        revised its position in Figs. 1 and 2A relative to previous interpreta-
+                                                                                               tions (Lewis and Pettinga, 1993; Lewis et al., 1997, 1999; Barnes and
+3. Tectonic and stratigraphic architecture of the Hikurangi Margin                             Mercier de Lépinay, 1997; Barnes et al., 1998a,b).
+
+3.1. Composition of the imbricated frontal wedge                                               3.2. Lateral variations in structural and morphological development of
+                                                                                               the margin
+    The Hikurangi Margin comprises a thrust imbricated frontal wedge
+up to 150 km in width (Lewis and Pettinga, 1993). It is built against a                            The overall morphology of the Hikurangi Margin varies signiﬁ-
+Mesozoic basement backstop of Torlesse terrane greywackes. These                               cantly along strike as a result of variations in the thickness of trench-
+latter rocks developed on the active margin of Gondwana super-                                 ﬁll sediment, efﬁciency of frontal accretion, smoothness/roughness of
+continent, and are now exposed in the axial ranges of North Island,                            the Paciﬁc Plate, and obliquity and rate of convergence (Lewis and
+Raukumara Peninsula, and the coastal hills of southern Wairarapa                               Pettinga, 1993). Because the trough and its axial channel are supplied
+(Fig. 1). The imbricated frontal wedge extends eastwards across the                            with turbiditic sediment largely from submarine canyons in the south
+coastal ranges and offshore margin, where it has a ridge and basin                             (Lewis et al., 1998; Lewis and Barnes, 1999; Mountjoy et al., 2009),
+morphology (Fig. 2). The wedge comprises three major components,                               the thickness of the turbidites decreases northwards from more than
+all of which are deforming together as one sedimentary body. These                             5 km near Cook Strait to about 1 km off the Raukumara Peninsula
+include (1) an inner foundation of Late Cretaceous and Paleogene, pre-                         (Fig. 1B). Whereas trench-ﬁll sediment thickness decreases northwards,
+subduction rocks (Figs. 3 and 4); (2) an outer wedge of late Cenozoic                          the rate of convergence between the forearc and the subducting Paciﬁc
+accreted trench-ﬁll turbidites; and (3) a deforming cover sequence of                          Plate increases northwards by three times, from about 20 mm/yr off
+Miocene to Recent shelf and slope basin sediments, which are up to                             southern Wairarapa to nearly 60 mm/yr off the Raukumara Peninsula
+several kilometers thick beneath the upper margin and generally thin                           (Wallace et al., 2004) (Fig. 1B). These variations coincide with relatively
+seawards over the frontal accretionary wedge. The deforming cover                              low relief on the southern part of the subducting Hikurangi Plateau,
+sequences of the upper margin are partially exposed in uplifted                                compared to the seamount studded northern region, where basement
+forearc basins on land, and at structural ridges offshore, and exhibit                         relief commonly exceeds several kilometers (e.g., Figs. 1 and 4) (Wood
+sequence architectures that are strongly inﬂuenced by sea-level cycles                         and Davy, 1994; Davy and Wood, 1994; Lewis et al., 1998; Davy et al.,
+and active tectonics (e.g., Lewis, 1973; Barnes et al., 2002; Paquet,                          2008).
+2008; Paquet et al., 2009). The cover sequences include terrestrial,                               Along the northern half of the margin, the combination of relatively
+nearshore marine, shelf, and slope sediments.                                                  thin trench-ﬁll sediment (∼ 1 km), high convergence rate, and rough
+    The inner, Late Cretaceous and Paleogene foundation was depos-                             topography of the subducting plate promotes non-accretion, localized
+ited prior to initiation of Hikurangi subduction, and subsequently                             tectonic erosion, and deformation processes within the frontal wedge
+became highly imbricated as a result of poly-phase deformation                                 that reﬂect the progressive passage of basement asperities beneath the
+following the onset of subduction some 25 Myr ago (Ballance, 1976;                             margin (Collot et al., 1996, 2001; Lewis et al., 1997, 1998, 2004; Pecher
+Rait et al., 1991; Lewis and Pettinga, 1993; Field et al., 1997; Barnes                        et al., 2005). The lower margin between the bathymetric bank referred
+et al., 2002; Barnes and Nicol, 2004, Henrys et al., 2006; Nicol et al.,                       to informally as Rock Garden and the southern Kermadec Trench, is
+2007). Whilst substantial deformation of these rocks occurred in the                           typically about 50–60 km in width, has a relatively steep gradient
+Miocene, active thrust faulting and folding continues across the inner                         (N10°), and is characterized by large seamount impact scars,
+margin to present day. These rocks produce highly disrupted seismic                            particularly at Poverty Seavalleys and East Cape (Figs. 1 and 2B).
+reﬂections, with footwall and hanging wall cutoffs typical of thrust                               The NIGHT seismic reﬂection proﬁle off Hawke Bay (Fig. 4) is
+tectonic geometries (e.g., Figs. 3 and 4). The rocks outcrop widely                            reasonably representative of the northern half of the margin. It shows
+along the coast where they exhibit complex mesoscopic deformation                              a clear interplate thrust décollement extending to 6–8 s TWT (ca. 12–
+fabrics (Pettinga, 1982), have been encountered in a drill hole in                             15 km) beneath the coastal region, numerous upper plate thrusts, and
+Hawke Bay, and dredged from structural highs both within and                                   a seamount subducted beneath the outer margin bank referred to
+offshore of Hawke Bay (Lewis and Pettinga, 1993; Lewis and Marshall,                           informally as Rock Garden (Fig. 2) (Pecher et al., 2004, 2005; Henrys
+1996; Barnes et al., 2002). In the middle slope region these rocks are                         et al., 2006). The upper margin structures are correlated to and
+typically characterized by variable amplitude, relatively discontin-                           mapped with an extensive set of high-quality industry and research
+uous, and complex seismic reﬂections, compared to the accreted                                 seismic sections, and they include reactivated thrusts, inversion
+turbidites beneath the lower slope (Figs. 5 and 6).                                            structures, and thrust triangle zones (Barnes et al., 2002; Barnes and
+
+Fig. 1. A. Overview of the Paciﬁc–Australia plate boundary in the New Zealand region, showing the Kermadec–Hikurangi subduction zone. B. Morphology and major active faults of
+the Hikurangi Subduction margin. Bold thrust is the principal deformation front. Isopachs in the Hikurangi Trough indicate approximate thickness (km) of trench-ﬁll turbidites
+(Lewis et al., 1998). Bold black numbers along the deformation front are modelled convergence rates (mm/yr) between the Hikurangi Margin and the Paciﬁc Plate (Wallace et al.,
+2004). Plate motion vectors are from Beavan et al. (2002). The bold dashed white line along the middle slope separates the late Cenozoic frontal accretionary wedge beneath lower
+continental slope from a deforming foundation of pre-subduction, Cretaceous and Paleogene passive margin rocks and overlying Miocene to Recent slope basins beneath the middle
+to upper margin. The bold black line in the Hikurangi Trough is the meandering Hikurangi Channel. Labels Wairarapa, Uruti Ridge, Porangahau Ridge, Omakere Ridge, Rock Garden,
+and Builders Pencil are seep sites discussed in this paper and elsewhere in this issue. LR, Lachlan Ridge; RR, Ritchie Ridge. C. Schematic section across the Hikurangi subduction zone,
+axial ranges of North Island, and back arc volcanic rift. Shading with wavy line pattern is Mesozoic Torlesse basement rocks. Smooth grey shade is deforming Cretaceous and
+Paleogene pre-subduction sequences with Miocene to Recent slope basins, and white is accreted trench-ﬁll turbidites. D. Distribution of regional multichannel seismic reﬂection
+coverage across the Hikurangi Margin. Notable surveys include GECO RESOLUTION 2001 NIGHT high-fold proﬁle, grey line off Hawkes Bay; RV TANGAROA low-fold data, purple lines
+off Hawkes Bay and Mahia; MV MULTIWAVE 2005 high-fold CM05 proﬁles, black lines (proﬁle labeled 1 is CM05#1); RV SONNE SO191 2007 regional low-fold proﬁles, red lines; RV SP
+LEE 1983 high-fold proﬁle, dark blue line across central margin; RV L'ATALANTE 1993 “GeodyNZ” low-fold proﬁles, gold lines. (For interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+                                                P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                           29
+
+
+Nicol, 2004). Depth conversion using wide-angle velocity control            uplifted (Fig. 7), and upper plate thrust faulting is now focused
+indicates that the subducted seamount beneath the lower margin has          beneath the northern Paoanui Ridge, along the landward side of the
+about 3 km of basement relief (Fig. 4 inset). The plate boundary            elevation (Fig. 2A). Inactive thrusts imaged beneath the steep seaward
+décollement and the overriding ridge above the seamount have been           ﬂank of the ridge have been abandoned in the wake of the seamount,
+30                                                               P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+
+
+Fig. 2. A. Bathymetry and major tectonic structures of the central section of the Hikurangi Margin, interpreted as part of this study, and modiﬁed signiﬁcantly from Lewis et al. (1999).
+Red lines are crests of thrust-faulted bathymetric ridges, and represent a close proxy to the axial traces of anticlines imaged in seismic sections. Bathymetric labels are in metres. The
+protothrust zone is shaded mustard yellow. Onshore active faults are courtesy of the GNS Science active faults database. The bold dashed white line along the middle slope separates
+the late Cenozoic frontal accretionary wedge beneath lower continental slope from a deforming foundation of pre-subduction, Cretaceous and Paleogene passive margin rocks and
+overlying Miocene to Recent slope basins beneath the middle to upper margin. Plate motion vector is from Beavan et al. (2002). Bold yellow ellipses are the bases of oceanic
+seamounts on the subducting Paciﬁc Plate. Note the northern of these underlies Rock Garden, whereas the southern partially underlies the present deformation front. Blue bold dots
+are active seep sites on land. Red dots are seep sites discussed in this issue. Yellow dots are other sites of suspected ﬂuid expulsion from seismic reﬂection and MR1 deep-tow sidescan
+sonar data. B. Oblique view of hillshaded bathymetry derived from 100 m grid data. C. MR1 sidescan image of suspected ﬂuid expulsion site surrounded by possible radiating mud
+ﬂows. D. MR1 sidescan image of suspected mud volcano (Barnes and Mercier de Lépinay, 1997).
+                                                                                                                                                                                                                                                         P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+Fig. 3. Uninterpreted and interpreted multichannel seismic section across the central Hikurangi Margin. The seismic data are two spliced sections, including high-fold seismic data across the continental shelf (CM05#29) and low-fold data
+across the slope and trough (SO191#1). Proﬁle locations are shown in Fig. 2. Note that structures illustrated are reproductions of interpretations originally made in detail on large sections with low (2.5×) vertical exaggeration. This transect is
+representative of the more classical accretionary structure and processes dominating the margin south of Rock Garden. M is the ﬁrst seaﬂoor multiple. Numbered reﬂections in the trench sequence are from Barnes and Mercier de Lépinay
+(1997) and this study (see Fig. 6B). The dotted lines in the lower centre of the low-fold proﬁle are hypothetical extensions of the faults beneath the multiple.
+
+
+
+
+                                                                                                                                                                                                                                                         31
+                                                                                                                                                                                                                                                  32
+                                                                                                                                                                                                                                                  P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+Fig. 4. Uninterpreted and interpreted high-fold NIGHT multichannel seismic section acquired by GNS Science on MV GECO RESOLUTION across the Hawke Bay margin, Rock Garden, and a subducting seamount. This section is representative of
+the structure and processes dominating the northern Hikurangi Margin between Rock Garden and East Cape. Upper margin structures are correlated to and mapped with an extensive set of high-quality industry and research seismic sections
+(Barnes et al., 2002; Barnes and Nicol, 2004). Bold faults are considered to be active. NPT, northern Paoanui Trough; NPR, northern Paoanui Ridge. The green shading is the extent of the accreted trench-ﬁll section (yellow shading indicates
+region of compositional uncertainty at the rear of the wedge). The inset shows the plate interface in the frontal half of the section depth converted using velocities derived from wide-angle reﬂection data.
+                                                               P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                               33
+
+
+whereas active frontal thrust faulting has since re-established in the                       Porangahau and Paoanui ridges (Fig. 2A). Although a series of apparent
+Hikurangi Trough sequence to the east. A similar tectonic history is                         right steps in this transition potentially mirrors the shape of the
+recorded on proﬁle CM05#1 across Ritchie Ridge 30 km to the north                            deformation front, the overall structure and morphology of the wedge
+(Fig. 1B and D) (e.g., see Fig. 8 of Nicol et al., 2007).                                    indicates that its growth has not been signiﬁcantly perturbed by relief on
+    As a result of seamount subduction beneath the Rock Garden,                              the subducting plate for at least 1–2 Myr. The exception to this is where
+numerous cross-cutting faults are developed on the seaﬂoor over the                          the northern end of Bennett Knoll seamount ridge, which is about 80 km
+crest of the bank (Fig. 7A and B) (Pecher et al., 2005; Faure et al.,                        in length and has relief of several kilometers, is presently subducting
+2006). These structures produce bathymetric scarps typically a few                           beneath the deformation front east of Akito Ridge (Figs. 2 and 6A).
+tens of meters in height on the eroded crest of the bank, and they                               The repetitive ridge and basin morphology across the central margin
+exhibit a landward diverging radial pattern. They appear to be                               reﬂects up to 10 major seaward-vergent thrust faults between the shelf
+superimposed over a major NE–SW striking thrust scarp, which may                             and Hikurangi Trough. The longer thrust systems reach up to 120 km in
+or may not be currently active. The observed fault array is analogous to                     length (Figs. 1 and 2). On the whole, the crests of successive ridges
+those produced in laboratory sandbox experiments of deformation                              become progressively deeper seaward. Individual ridges typically have
+above subducting asperities (e.g., Dominguez et al., 1998; Lewis et al.,                     up to about 1 km of bathymetric relief, and an asymmetric proﬁle, with a
+2004) and observed elsewhere in other natural examples (e.g.,                                relatively gentle landward (back) limb and steeper seaward (fore) limb.
+Huhnerbach et al., 2005). Major collapse of the margin in the wake                           Thrust faults generally steepen upward in the sedimentary section from
+of the seamount, at the scale evidenced further north at Poverty                             dips of b20° in the lower part of the wedge to as much as 40–50° in the
+Seavalleys and at Ruatoria Avalanche (e.g., Lewis et al., 1998; Collot                       upper 1 km or so near the deformation front. Barnes and Mercier de
+et al., 2001), has not occurred yet indicating that it is a later                            Lépinay (1997) identiﬁed the fault growth sequence on the back limbs of
+deformation stage that will occur when the seamount passes further                           the thrust ridges within the frontal 30 km of the wedge (e.g., Fig. 6) and
+landward (e.g., Von Huene and Lallemand, 1990) or perhaps that some                          estimated the horizontal shortening of the turbidite sequence there to
+seamounts previously subducted further north had different geome-                            be of the order of 6 km. They interpreted that 80% of this shortening
+try and/or substantially greater relief.                                                     occurred within 0.4 ± 0.1 Myr, at an average rate of 12 ± 3 mm/yr. They
+    Compared to the northern margin, the tectonic accretion that                             also inferred that the deformation front had advanced seaward by as
+dominates the central margin off southern Hawkes Bay and Wairarapa                           much as 50 km since about 0.5 Ma, an observation consistent with the
+has been facilitated by thicker trench-ﬁll sediment (∼3–4 km), relatively                    recent results of Nicol et al. (2007).
+smooth and sediment-covered subducting plate, and slower (by
+∼20 mm/yr) rate of convergence (Fig. 1) (Davey et al., 1986a; Lewis                          3.3. The Hikurangi Trough and the subducting Hikurangi Plateau
+and Pettinga, 1993; Barnes and Mercier de Lépinay, 1997; Lewis et al.,                       sequence
+1999; Wallace et al., 2004). East of Cape Turnagain, where the
+deformation front lies up to 130 km offshore, the frontal accretionary                          The Hikurangi Trough sedimentary sequence and the top of the
+wedge reaches 65–70 km in width (Figs. 2 and 3). The transition between                      subducting Hikurangi Plateau is imaged well in our new seismic
+the inner foundation of imbricated passive margin rocks and accreted                         sections (Figs. 3 and 6B). We correlated the seismic stratigraphy in the
+trench-ﬁll turbidites (e.g., Fig. 5) is interpreted to lie seaward of Uruti,                 trough, imaged on the RV SONNE proﬁles at about 41°S (Fig. 6B), with
+
+
+
+
+Fig. 5. Part of multichannel seismic section SO191#3 illustrating the contact between the outer edge of the imbricated Cretaceous–Paleogene foundation rocks and the landward part
+of the late Cenozoic accretionary wedge (bold dashed white line in Figs. 1 and 2A). All seep sites documented in this study lie above or relatively near this contact. The contact is
+imaged as a boundary marking a signiﬁcant change in seismic reﬂectivity, somewhat transitional where indicated by the intermediate shading. The reﬂectivity changes from
+relatively coherent accreted trench-ﬁll turbidite reﬂections to an acoustically chaotic foundation of complexly deformed pre-subduction stratigraphy landward. These units are
+variably covered by deforming slope basins, and there is a discontinuous BSR. Proﬁle location is shown in Fig. 2.
+34                                                              P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+
+
+Fig. 6. Multichannel seismic sections illustrating examples of active tectonic structures across the central Hikurangi Margin deformation front. A. Part of SO191#3 showing incipient
+subduction of the Bennett Knoll seamount complex, causing increased uplift of the frontal ridge. B. Part of SO191#6 across classic frontal accretionary thrusts. The inset illustrates
+protothrusts. PDF, principal deformation front. Trench-ﬁll stratigraphy in both sections, included numbered reﬂections, is from Barnes and Mercier de Lépinay (1997) and this study.
+Proﬁle locations are shown in Fig. 2.
+
+
+
+archived RV L'ATALANTE proﬁles (Barnes and Mercier de Lépinay,                               et al. (2008) considered seismic velocities, tied reﬂections to ODP 1124
+1997) and with Mobil oil company proﬁle 72–26 (Fig. 1D). The later                           (Fig. 1A) and to rock dredge samples, and compared sections with
+proﬁle extends southeast of the axial turbidite system and onto the                          dated sequences on the Manihiki Plateau, which is thought to have
+Hikurangi Plateau north of the Chatham Rise, where a widespread                              rifted from the Hikurangi Plateau in the Cretaceous. Although line 72–
+seismic stratigraphy has been established by Davy et al. (2008). Davy                        26 cannot be tied directly to proﬁles located further east presented by
+                                                               P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                               35
+
+
+
+
+Fig. 7. A. Bathymetric and structural map of Rock Garden developed from 25 m binned, RV TANGAROA SIMRAD EM300 multibeam data. Location of A is shown in Fig. 10. B. Detail of
+bathymetric contours at 5 m interval. Location of B is shown in A. NPR, northern Paoanui Ridge. Red dots are seep sites. C. Uninterpreted and interpreted part of high-fold NIGHT
+multichannel seismic section, revealing active thrusts beneath the western side of the ridge and a subducting seamount driving uplift and extension of the Rock Garden. M is the ﬁrst
+seaﬂoor multiple.
+36                                                  P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+Davy et al. (2008) (e.g., proﬁle HKDC1), we recognize the same                  continuing at that stratigraphic position landwards for at least
+seismic stratigraphy of the plateau sequence in line 72–26, based on            15 km down dip. Off the southern Wairarapa coast about 150 km to
+very similar reﬂection characteristics and two way travel time (TWT)            the southwest of Bennett Knoll, the décollement imaged in archived
+depths. Our correlations between the Hikurangi Trough and the                   seismic data is less well constrained, but appears to be developing at
+Hikurangi Plateau sequences identiﬁed by Davy et al. (2008) provide             the deformation front at a stratigraphic position close to reﬂector 6
+the ﬁrst insights into the nature of the sedimentary sequence within            (Barnes and Mercier de Lépinay, 1997). Thus, we recognize in the RV
+which the interplate thrust is developed (see Section 3.4).                     SONNE seismic sections that the décollement coincides primarily with
+    Our correlations indicate that in the central Hikurangi Trough              reﬂection 7 in the Hikurangi Plateau pelagic sequence, but that over
+reﬂection 8 (Fig. 6B) is approximately equivalent to the top of unit            lateral distances of 100–150 km, its stratigraphic position varies by up
+HKB of Davy et al. (2008). This unit has been interpreted as Early              to 300–400 m within up to 15 km of the deformation front.
+Cretaceous (N100 Ma) volcaniclastic sediments and/or limestone/                     The new seismic proﬁles combined with archived data also provide
+chert with relatively low seismic velocities (∼2.4–3.5 km/s) compared           new insights into the distribution of a conspicuous protothrust zone in
+to the underlying basaltic basement rocks (N4 km/s) (not imaged in              the Hikurangi Trough (Figs. 3 and 6B). Protothrusts were previously
+Fig. 6B). Reﬂection 8 is overlain by a c. 0.5 s TWT thick sequence              recognized mainly west of Bennett Knoll seamount, where they have
+(∼575–650 m, assuming 2.3–2.6 km/s interval velocities) of weaker               been interpreted as ﬂuid conduits in an incipient zone of compression
+reﬂectivity. This sequence correlates with unit MES of Davy et al.              between the incoming seamount and the deformation front (e.g.,
+(2008), inferred to represent Cretaceous (100–70 Ma) clastic                    Davey et al., 1986a,b; Lewis and Pettinga, 1993; Barnes and Mercier de
+sedimentary rocks. These rocks are overlain by a uniformly thick                Lépinay, 1997; Lewis et al., 1998). It is now clear that the protothrust
+(0.15 s TWT, c. 170–250 m) sequence of widely traceable, high-                  zone is developed in the turbidite sequence of the Paciﬁc Plate for over
+amplitude reﬂections beneath reﬂector 7. This interval is the                   200 km along the central margin (Fig. 2A), and formed not in response
+Hikurangi Plateau sequence Y of Wood and Davy (1994), identiﬁed                 to local seamount collision, but primarily to deformation and
+by Davy et al. (2008) as Late Cretaceous–Early Oligocene (70–32 Ma)             dewatering associated with forward propagation of the décollement
+nannofossil chalks with alternating mudstones. Above this interval,             into the trench sequence. The zone is developed up to 20 km seaward
+the upper part of the Hikurangi Plateau sequence, which reaches 1.4 s           of the frontal ridge, in the stratigraphic sequence above the reﬂector at
+TWT thickness east of the Hikurangi Trough, includes the 0.3 s TWT              which the primary thrust décollement is developed further landward
+thick, weakly reﬂective interval between reﬂectors 6 and 7 (Fig. 6B).           (Figs. 3 and 6B). Protothrusts are also clearly imaged in the hanging
+This interval is inferred to correlate with nannofossil chalks                  wall sequence of the frontal two or three major structures in the
+interbedded with tephras and clays at ODP 1124 (Fig. 1A). The upper             accretionary wedge, and appear to have been transferred to the wedge
+plateau sequence may also include the interval of high-amplitude                (i.e., captured by the Australian Plate) as the décollement and
+reﬂections between reﬂectors 5B and 6. Reﬂector 5B is locally a strong          principal deformation front have propagated seawards. The proto-
+erosion surface, above which are easterly onlapping, coherent                   thrusts are characterized by weak reﬂectivity (Fig. 6B inset), and dips
+reﬂections from trench turbidites (Figs. 3 and 6) associated with               of the order of 40 ± 5°, which is similar to the dip typical of the
+local paleo-channels and channel levee sediment waves (see also                 shallow part of the frontal thrust. The protothrusts imaged in the
+Lewis et al., 1998). Although not directly dated, reﬂectors 3, 4 and 5          seismic data have fault spacing typically of several hundred meters to
+(Fig. 6) were inferred by Barnes and Mercier de Lépinay (1997) to be            1 km, with displacements typically of up to a few tens of meters.
+of the order of 0.8 Ma, 2.0 Ma, and 5.0 Ma, respectively.                       Although conjugate faults are present (Fig. 6B inset), the dominant
+                                                                                vergence is seaward (i.e., northwest dipping faults) west and south of
+3.4. Décollement position and protothrust zone                                  Bennett Knoll, and landward (south east dipping) north of Bennett
+                                                                                Knoll (Fig. 3). Similar structures in the Nankai Trough (e.g., Moore
+    The reﬁned seismic stratigraphy of the Hikurangi Trough sequence            et al., 1990) have been interpreted as evolving arrays of brittle–ductile
+and clear imaging of the frontal deformation structures in the RV               shears that undergo rotation as a result of larger scale ductile ﬂow
+SONNE SO191 proﬁles enables improved identiﬁcation of the inter-                (Karig and Lundberg, 1990).
+plate thrust where it is propagating into the trench sediments
+(Fig. 6B). The interplate thrust is recognized as the major décollement,        4. Tectonic and stratigraphic framework of known seep sites
+above which the accreted sequence is shortening by distributed thrust
+faulting and folding, and below which undeformed sediments are                     Elsewhere in this issue, other papers present detailed studies of gas
+being subducted. Near the front of the wedge, the stratigraphic                 hydrates, geophysically imaged gas plumbing systems, heat ﬂow, ﬂuid
+position of the décollement is tightly constrained to within a couple of        seepage, seabed substrate and biological fauna at sites referred to as
+wavelets of the seismic data, by recognition of the down-dip extent of          Wairarapa, Uruti Ridge, Porangahau Ridge, Omakere Ridge, Rock
+the accretionary thrusts from observations of inclined hanging wall             Garden, and Builders Pencil (Fig. 1) (Greinert et al., 2010-this issue;
+reﬂections, and foot wall reﬂection cutoffs (e.g., Fig. 6B).                    and other papers herein). In the following sections of this paper we
+    In the centre of the margin west of Bennett Knoll the décollement           outline the distribution of these sites with respect to the major fault
+coincides with reﬂector 7 for at least 30 km down dip (Fig. 6B). This           structures, tectonic morphology, and stratigraphy.
+position, within the pelagic sediments (nannofossil chalks, tephras,
+mudstone, clays) of the Hikurangi Plateau sequence, is some 400–                4.1. Wairarapa sites
+450 m stratigraphically below what are clearly turbidites. Immedi-
+ately below the décollement are unfaulted high-amplitude reﬂections                 The Wairarapa sites lie in the narrowest part of the Hikurangi
+correlated with Late Cretaceous–Early Oligocene (70–32 Ma) nanno-               Margin, some 15–25 km south east of Cape Palliser (Fig. 8). Three
+fossil chalks and alternating mudstones. Immediately above it is the            major subparallel fault systems dominate the tectonic structure of this
+thrusted sequence inferred to be Cenozoic (probably Miocene)                    part of the margin. From north to south, these include the strike-slip
+alternating chalk, tephras and clays. In comparison, on proﬁle                  Boo Boo Fault, which extends from the north eastern shelf of South
+SO191#1 (Fig. 3), about 100 km to the northeast, the frontal 15 km              Island into the upper slope area 4–10 km north of the seep sites, and
+of the décollement is developed at a stratigraphic position about 0.3–          the Opouawe–Uruti and Pahaua thrust faults which underlie the mid-
+0.4 s TWT (∼300–400 m) higher in the plateau sequence. There, it lies           slope bathymetric banks on which the seeps are developed (Barnes
+just below reﬂection 5B before stepping down to reﬂector 7 beneath              and Mercier de Lépinay, 1997; Barnes et al., 1998a; Mountjoy et al.,
+the third major thrust landward of the deformation front and                    2009). The region is incised by submarine canyons including Opouawe
+                                                                 P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                   37
+
+
+and Palliser canyons, and is heavily scarred by active submarine                                on the hanging wall sequence of the Opouawe–Uruti Fault in about
+landslide systems.                                                                              850–900 m water depth. This fault similarly breaks out on the seabed
+   Five seep sites, namely Takahe, North Tower, South Tower, Pukeko                             as several discontinuous traces on the gullied forelimb of Palliser and
+and Ruru, lie on Opouawe Bank, typically in about 1000–1100 m water                             Pahaua banks, but its tip is covered by landslide debris in Opouawe
+depth. Seismic data show that these sites have developed on the                                 Canyon (Fig. 8B), and is blind at about 0.5 s TWT depth beneath the
+hanging wall of the Pahaua Fault (Fig. 8B), which is characterized by                           upper Opouawe Bank on seismic proﬁle P036 (see Fig. 4 of Netzeband
+several imbricates that break out as segmented traces on the steep                              et al., 2010-this issue).
+southern forelimb of the bank. These imbricate traces are clearly                                   Regional seismic reﬂection proﬁles show that the sedimentary
+expressed in the high-resolution EM300 multibeam data, as obvious                               sequence seaward of the Pahaua Fault is trench turbidites (Barnes and
+inﬂections in the slope gradient, cutting across ridge and gully                                Mercier de Lépinay, 1997; Barnes et al., 1998a; Lewis et al., 1998).
+systems. The other three sites, including Tuatara and Tui on the upper                          Although the available seismic data illustrated in Fig. 8B are not of the
+Opouawe Bank, and Miromiro on the western edge of Palliser Bank, lie                            same quality as in Figs. 3–7, we infer that the Cretaceous and
+
+
+
+
+Fig. 8. A. Major tectonic and geomorphic features associated with the Wairarapa seep sites. Bathymetry is 25 m binned, RV TANGAROA SIMRAD EM300 multibeam data, with 50 m
+contour interval. Red dots with white labels are seep sites. The ﬁne white lines indicate major landslide scars. The bold white dashed line is inferred to be the rear of the late Cenozoic
+accretionary wedge. Pahaua Bank is an informal name used by Mountjoy et al. (2009). Map location is shown in Fig. 1. B. Multichannel seismic section SO191#9/10 revealing
+structures beneath Opouawe Bank. Yellow shading on seismic zoom indicates packages of high-amplitude reﬂections beneath seeps.
+38                                                   P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+Paleogene inner foundation rocks underlie Palliser and Pahaua banks,             4.3. Omakere Ridge sites
+and the upper part of Opouawe Bank, based on correlation of major
+thrust faults along the margin (Fig. 8A). This foundation was                        Omakere Ridge is one of the many slope parallel thrust-faulted
+previously considered to extend further seaward beneath the lower                anticlinal ridges that characterize the wider part of the Hikurangi
+part of Opouawe Bank (Barnes and Mercier de Lépinay, 1997). Beneath              Margin off southern Hawkes Bay (Figs. 1 and 2A). The ridge lies in
+Opouawe Bank, the upper 0.5 s TWT (c. 440 m) sequence appears to                 about 1100 m water depth, and has about 500 m of bathymetric relief
+be part of the slope sediment cover, in which there is at least one              (Fig. 10B). Its morphology is heavily scarred by landslides, which are
+erosional unconformity (Fig. 8B). Below a packet of strong reﬂections,           particularly common on the steep forelimb ﬂank. The variable
+the stratigraphy is not clear, but is inferred to include accreted trench        subsurface structure of the ridge is illustrated in three seismic
+turbidites. Therefore the interpreted boundary is tentatively moved to           reﬂection proﬁles from the southern (Fig. 3), central (Fig. 10C) and
+the Opouawe–Uruti Fault.                                                         northern (Figs. 4 and 10A) areas of the ridge. The main active trace of
+    The seismic data show that a strong and continuous BSR underlies             the Omakere Ridge thrust breaks out at the seabed at the toe of the
+the ﬂanks of Opouawe Bank (Fig. 8B). The BSR shallows from about 0.7 s           steep seaward ﬂank. The proﬁles reveal that inactive imbricate thrusts
+TWT below the seaﬂoor south of the bank to about 0.35 s TWT                      lie below this structure, their tips now buried by sediments in Paoanui
+(c. 300 m) beneath the crest, and appears to become disrupted in a               Trough. A second active imbricate thrust branches upwards through
+stratigraphic interval characterized by strong discontinuous reﬂectors,          the hanging wall sequence of the main fault. This structure breaks out
+shallow normal faults, and gas chimneys (Netzeband et al., 2010-this             at the seabed along the crest of the ridge, where a scarp about 100 m
+issue). The largest normal fault displaces the seabed at North Tower seep        high is associated with a series of discontinuous basins. Based on the
+site. Netzeband et al. (2010-this issue) interpreted the strong reﬂections       change in seismic characteristics of the thrust wedge across Paoanui
+as evidence of free gas, and the steep faults to penetrate the base of the       and Porangahau ridges further seawards (Figs. 2A, 3 and 5), and a Late
+gas hydrate stability zone. The seep sites are characterized by anomalous        Cretaceous rock sample dredged from the western ﬂank of Ritchie
+resistivities indicative of large amounts of gas or gas hydrate beneath          Ridge (Figs. 1 and 2B) (see also sample T109 projected onto Fig. 4)
+them (Schwalenberg et al., 2010-this issue), hydroacoustic ﬂares                 (Lewis and Marshall, 1996), the thrust wedge beneath Omakere Ridge
+(Greinert et al., 2010-this issue), and carbonate mounds and seep                is interpreted to comprise imbricated Cretaceous and Paleogene rocks
+faunas (Klaucke et al., 2010-this issue; Naudts et al., 2010-this issue).        lying landward of the accreted trench-ﬁll turbidites (Fig. 3). These
+                                                                                 rocks are covered by about 0.8 s TWT (700–800 m) of slope sediments
+4.2. Uruti Ridge sites                                                           that have been folded in the hanging wall of the lower thrust faults.
+                                                                                     Several seep sites are recognized on the crest of the ridge, typically in
+    Uruti Ridge lies on the middle slope off the Wairarapa coast, where          about 1100–1500 m water depth (Jones et al., 2010-this issue; Greinert
+the offshore part of the imbricate wedge is about 90 km wide (Figs. 1            et al., 2010-this issue). These include LM-9 and Bear's Paw (we are not
+and 2A). The ridge is an anticlinal structural high with bathymetric             sure if Moa is a seep site, it might be an inactive one) on the hanging wall
+relief of about 1000 m. A seismic proﬁle presented by Barnes et al.              of the main Omakere Ridge thrust, as well as Kaka, Kea and Kakapo lying
+(1998a, their Fig. 5C) reveals the ridge is underlain by the northern            above the upper imbricate thrust (Fig. 10B). They are characterized by
+part of the Opouawe–Uruti thrust, which breaks out at the toe of the             methane rich ﬂuid seepage, acoustic ﬂares, authigenic carbonate forming
+steep, landslide scarred forelimb ﬂank (Fig. 9A). The ridge is dissected         meter high chemoherm structures, and seep fauna (Jones et al., 2010-this
+by an E–W striking, strike-slip fault, considered by Barnes et al.               issue). At LM-9 a BSR is visible under the seaward ﬂank of the ridge (Fig.
+(1998a) as the northern part of the Palliser–Kaiwhata Fault (Figs. 2             10C), but not directly beneath the crest. In the latter area reﬂections are
+and 9). The latter structure is steeply dipping, and is associated with a        disturbed by a shallow extensional fault array and by apparent gas
+small pull-apart basin developed at a releasing bend in the centre of            masking. North of the seep sites, the BSR is particularly strong beneath
+the ridge. There are a number of extensional splay faults on the steep           the ridge crest on GECO RESOLUTION NIGHT proﬁle (Fig. 10A).
+forelimb of the ridge, where the fault intersects the Opouawe–Uruti
+thrust (Fig. 9B and C). Based on EM300 multibeam bathymetry data,                4.4. Rock Garden sites
+the crest of the ridge, and both its ﬂanks, appear to be dextrally
+displaced by perhaps 1.0–1.5 km. It is not clear from the data whether               The surface of Rock Garden lies in about 600–800 m water depth. The
+the northern end of the Palliser–Kaiwhata Fault penetrates deep                  anomalous bathymetric elevation and complex tectonic history of this
+into the imbricate wedge, or is conﬁned to the hanging wall of the               area and Ritchie Ridge further to the north (Figs. 10B and 11), relative to
+Opouawe–Uruti thrust.                                                            structural ridges in a comparable position in the outer margin south of
+    Dated samples T119 and V479 dredged from the steep forelimb of the           Rock Garden, reﬂects the enhanced uplift and deformation of these
+ridge (Fig. 9A and B) indicate that the sequence in the hanging wall of          features above positive relief on the subducted Paciﬁc Plate (Fig. 4)
+the Opouawe–Uruti thrust includes indurated mudstone of Early to                 (refer to Section 3.2 above). Based on the seismic reﬂection character-
+middle Pliocene age (see Electronic Data Supplement and Fig. 5 proﬁle C          istics beneath the ridge (Fig. 7), and rock samples of Late Cretaceous age
+of Barnes et al., 1998a). Above these strata, younger sediments of the           from the southwestern part of Ritchie Ridge some 30 km to the north
+Uruti Basin sequence thin towards the ridge crest, having been deposited         (Lewis and Marshall, 1996, sample T109), it is likely that at least the
+contemporaneously with uplift of the ridge. Below them, the foundation           western crest and ﬂank of Rock Garden is cored by the Cretaceous and
+of the ridge is thought to consist of pre-subduction, passive margin             Paleogene rocks (Fig. 4). The outer ﬂank of Rock Garden is interpreted
+Cretaceous and Paleogene rocks (Lewis et al., 1999).                             here to be cored by accreted turbidites, however the surface and
+    Three seep sites, including LM-10, Hihi, and Kereru are located at           subsurface stratigraphy over the outer crest remains uncertain. The
+small mounds on the anticlinal crest of the ridge in about 800 m water           ﬂanks of Rock Garden, particularly in the south, are characterized by
+depth (Fig. 9A). These sites lie about 700–1100 m south of the Palliser–         numerous landslide scars (Fig. 10B) (Faure et al., 2006).
+Kaiwhata fault. Projecting sample T119 onto proﬁle P041 (Fig. 9B)                    The plateau-like crest of Rock Garden is eroded, and strongly reﬂective
+indicates that strata on the ridge crest in the vicinity of the seep sites       (Fig. 7) (Lewis and Marshall, 1996). Beneath the surface is a discontinuous
+are likely to be of Pliocene age. A BSR is imaged beneath the ridge,             BSR and packages of high-amplitude reﬂections that have been interpreted
+rising slightly to ∼ 0.28 s TWT depth beneath the seep sites. The seep           by Pecher (2002), Pecher et al. (2004) and Crutchley et al. (2010-this
+sites themselves are characterized by strong backscatter in sidescan             issue) as gas migration pathways. The BSR is generally strong beneath the
+sonar images, prolonged echos in 2–10 kHz Chirp proﬁles, and                     seaward ﬂank, and locally pinches out at the edges of the plateau. Pecher
+acoustic ﬂares in the water column (Greinert et al., 2010-this issue).           et al. (2005) suggested that the erosion of the ridge crest is linked
+                                                                  P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                    39
+
+
+
+
+Fig. 9. Major tectonic and bathymetric features associated with the Uruti Ridge seep sites. A. Regional map with stretched colour DTM on 150 m grid multibeam bathymetry data
+acquired on RV TANGAROA and SONNE, and 20 m contour interval. Grey area is a background hillshade from archived SIMRAD EM12 Dual multibeam data acquired by RV L'ATALANTE.
+The proﬁle labeled Uruti#1 is illustrated in Fig. 5C of Barnes et al. (1998a). The bold dashed white line is inferred to be the back of the late Cenozoic accretionary wedge. See Figs. 1 and
+2 for location of map. Red dots are seep sites. B. High-resolution multichannel seismic section SO191#P041 illustrating structure of the eastern end of the Palliser–Kaiwhata Fault. M is
+the ﬁrst seaﬂoor multiple. Note the major seaward-vergent thrust fault beneath the ridge is not imaged in this proﬁle. C. Zoom map of structure and bathymetry based on a 25 m grid
+hillshade with 5× vertical exaggeration from RV TANGAROA SIMRAD EM300 data.
+
+
+
+primarily to temperature-controlled ﬂuctuations in the stability of gas                          associated with seep faunas, methane-derived carbonates and acoustic
+hydrate. Recent modelling by Ellis et al. (2010-this issue), indicates erosion                   water column ﬂares that have been proven to be caused by methane
+of the ridge top likely relates to interactions between tectonic uplift caused                   bubbles (Faure et al., 2010-this issue; Naudts et al., 2010-this issue). All
+by seamount subduction, and the stability of shallow gas hydrates.                               sites lie on the hanging wall, and within 1.2 km of the surface trace of a
+    Seep sites have been recognized in four areas on Rock Garden                                 major NE–SW striking, seaward-vergent thrust fault that has displaced
+(Figs. 7A and 10B) (Lewis and Marshall,1996; Faure et al., 2006; Greinert                        the top of the bank. In addition, Faure's Sites are associated with the
+et al., 2010-this issue; Crutchley et al., 2010-this issue). These sites,                        headwall scarp of a large, deep seated landslide on the southern ﬂank of
+including LM-3, Weka, Faure's Site, and Rock Garden Knoll, are                                   the bank (Fig. 7A and B) (Faure et al., 2006).
+40                                                             P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+
+
+Fig. 10. Major tectonic and bathymetric features associated with the Omakere Ridge and Rock Garden seep sites. A. Uninterpreted zoom and interpreted high-fold NIGHT seismic data
+across Omakere Ridge. B. Structure map with 30 m grid multibeam bathymetry data acquired on RV TANGAROA and SONNE, and 20 m contour interval. Red dots are seep sites
+(Abbreviation RGK is Rock Garden Knoll). The bold dashed white line is inferred to be the back of the late Cenozoic accretionary wedge. See Figs. 1 and 2A for map location. C. High-
+resolution multichannel seismic section SO191#P054 indicating major structures beneath LM-9.
+                                                                 P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                 41
+
+
+4.5. Builders Pencil (Ritchie Ridge) sites                                                     major active upper plate structure east of the Lachlan Fault, which
+                                                                                               lies beneath the inner shelf N30 km to the west (Fig. 11A) (Barnes
+   The Builders Pencil and LM-1 seep sites lie on the landward                                 et al., 2002). The fault ramps off the plate interface and splays
+ﬂank of Ritchie Ridge, which is located in the middle slope region                             upwards into 2–3 imbricates which break out at the seabed across
+about 50 km southeast of Mahia Peninsula (Figs. 1 and 11) (Lewis                               the seaward ﬂank of the ridge (Fig. 11B). Inactive backthrusts are
+and Marshall, 1996; Greinert et al., 2010-this issue). On the ridge                            observed off the upper imbricate.
+crest are Ritchie, Calyptogena, and Pantin banks, rising to about                                  The spliced seismic proﬁles in Fig. 11B illustrate that the Ritchie
+300 m, 850 m, and 1050 m, respectively. The ridge is underlain by                              Ridge thrust transports previously imbricated Cretaceous and Paleo-
+an anticline above an active thrust fault. This fault is the ﬁrst                              gene foundation rocks, and their overlying slope basin sequence, over
+
+
+
+
+Fig. 11. Major tectonic and bathymetric features associated with the Builders Pencil and LM-1 seep sites off Mahia Peninsula. A. Regional map has stretched colour DTM on 25 m binned, RV
+TANGAROA SIMRAD EM300 multibeam data and 30 m grid RV SONNE EM120 multibeam. Contour interval is 50 m. Grey area is a background hillshade from archived SIMRAD EM12 Dual
+multibeam data acquired by RV L'ATALANTE, and coastal echosoundings. See Fig. 1 for map location. The bold dashed white line is inferred to be the back of the late Cenozoic accretionary
+wedge. The bold dashed red line is the inferred extent of high relief on the subducting Paciﬁc Plate (see southern part of this feature beneath the Rock Garden in Fig. 2A, where it is
+highlighted in yellow). Red dots are seep sites. Blue dots are dredge sites from NIWA's database. B. Spliced multichannel seismic section including high-fold CM05#23 and low-fold
+Tan0106#9 data, revealing major structures beneath Ritchie Ridge. The green shading is the extent of the accreted trench-ﬁll turbidites (yellow shading indicates region of compositional
+uncertainty at the rear of the frontal wedge).
+42                                                  P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+accreted trench turbidites beneath the seaward ﬂank of the ridge. The           Paleogene rocks, or on an eroded cover sequence of Miocene–Pliocene
+accreted trench sequence is highly imbricated and covered by thin               age.
+slope basin sediments. The older foundation rocks landward have
+been dredged from the seaﬂoor near the coast west of the Lachlan                5.2. New insights into the structure of the Hikurangi Margin
+Fault (Barnes et al., 2002), and at Ritchie Banks, where hard massive
+siltstone of possible mid Eocene–E. Miocene age has been recovered at               Whilst to a ﬁrst order, the major tectonic and stratigraphic attri-
+station R437 (Fig. 11) (A. Edwards, pers. comm, 1991). Middle Miocene           butes of the central Hikurangi Margin were established previously
+strata overlying these rocks were recovered from a structural high on           (Davey et al., 1986a,b; Lewis and Pettinga, 1993; Collot et al., 1996;
+the western edge of Ritchie Ridge (station R440) about 5 km west of             Barnes and Mercier de Lépinay, 1997; Lewis et al., 1997, 1999; Field
+LM-1 (Lewis and Marshall, 1996). The upper part of the cover                    et al., 1997; Barnes et al., 1998a,b; Henrys et al., 2006; Nicol et al.,
+sequence west of Ritchie Ridge is part of a classical Plio-Pleistocene          2007), we make ﬁve signiﬁcant contributions in this study. These are
+shelf–slope clinoform succession that is well developed off eastern             (1) improved mapping of the major structures within the margin
+Mahia Peninsula. This sequence thins onto the back of Ritchie Ridge             based on wider seismic reﬂection coverage, including high-fold deep
+and is being actively uplifted and folded.                                      penetration datasets, and higher resolution multibeam bathymetry
+    The Builders Pencil and LM-1 sites lie in about 850–1200 m water            data (e.g., Fig. 2); (2) improved deﬁnition of the subducting
+depth, are characterized by widespread relict seep faunas, and appear           seamounts at Rock Garden (Figs. 4, 7, and 10B) and Bennett Knoll
+to be presently inactive (Lewis and Marshall, 1996; Greinert et al.,            (Fig. 6A), and better understanding of the tectonic responses of the
+2010-this issue). Greinert et al. (2010-this issue) demonstrate that the        margin to seamount subduction; (3) improved geophysical clarity and
+seaﬂoor surrounding the sites is characterized by tilted, highly eroded         revised mapping of the contact between the imbricated Cretaceous–
+and exposed bedrock sequences. Considering the seismic stratigraphy             Paleogene inner foundation rocks and the late Cenozoic frontal wedge
+and structure outlined above, we infer this sequence on the backlimb            of accreted trench-ﬁll turbidites (e.g., Figs. 2A and 5); (4) improved
+of the ridge is Miocene and/or Pliocene age.                                    seismic stratigraphy of the subducting and accreting sedimentary
+                                                                                sequences in the Hikurangi Trough, and clearer identiﬁcation of the
+5. Discussion                                                                   interplate décollement within the pelagic sequence (e.g., Fig. 6B); and
+                                                                                (5) improved seismic imaging and wider mapping of the protothrust
+5.1. Comparison of seep site settings                                           zone (Figs. 2A and 6B).
+                                                                                    At up to 150 km in width, the imbricated frontal wedge of the
+    The ﬁve areas of seeps described above represent a variety of               central Hikurangi Margin is considered to be a wide subduction
+different local geological settings within the imbricate thrust wedge,          margin (c.f., von Huene and Scholl, 1991). Its tectonic structure,
+but they also have some important similarities. All sites lie on the            morphology, and inferred hydrogeological system, summarized in
+crests of seaward-vergent, thrust-faulted ridges, none lie in slope             Fig. 12A, are characteristic of wide, low taper thrust wedges associated
+basins between thrust ridges. The locations therefore differ from               with relatively smooth subducting plate, thick trench-ﬁll sedimentary
+some relict early Miocene seeps documented in uplifted forearc                  sequence, and moderate convergence rate. The low taper (∼ 4°) of the
+basins on land (Campbell et al., 2008). The Uruti Ridge sites are               wedge, with average surface slope of about 1°, is low by comparison
+unusual in that they also lie in close proximity to the eastern end of a        with many subduction systems (Davis et al., 1983; Lallemand et al.,
+major strike-slip fault. Rock Garden sites differ from others to the            1994). This taper is typical of poorly drained, low permeability thrust
+south in that they occur directly above a substantial seamount that is          wedges (Saffer and Bekins, 2002) with substantial ﬂuids channeled
+currently being subducted. Greinert et al. (2010-this issue) demon-             along a weak basal décollement (Moore et al., 1995; Bangs et al., 1999,
+strate that the Wairarapa, Uruti Ridge, Omakere Ridge and Rock                  2004; Brown et al., 2003; Lamb, 2006; Morgan et al., 2007; Saffer,
+Garden seeps are currently active, whereas Builders Pencil appears to           2007). It is also consistent with high ﬂuid pressures approaching
+be relict of a very active earlier phase.                                       lithostatic overburden encountered in exploration wells from the
+    Another important similarity between all conﬁrmed seep sites is             upper Hikurangi Margin (Davies et al., 2000; Darby et al., 2000), and
+that they lie approximately along the middle slope, commonly in                 interpreted in the frontal parts of similar thrust systems (e.g.,
+about 700–1200 m water depth, near the outer edge of the deforming              Maltman et al., 1993; Tobin et al., 1994; Moore and Saffer, 2001;
+Cretaceous and Paleogene foundation rocks (Figs. 1 and 12A) (Lewis              Saffer, 2003, 2007).
+and Marshall, 1996). The Uruti Ridge, Rock Garden, and Builders                     One of the possible effects of rapid frontal accretion is to lower the
+Pencil sites all occur on ridges directly above the outer edge of the           taper of a thrust wedge. This may produce a mechanical response,
+Cretaceous and Paleogene foundation (Figs. 2A, 4, 9–11). The                    whereby out-of-sequence thrusting behind the propagating deforma-
+southern Wairarapa sites, Omakere Ridge, and the southern                       tion front leads to thickening of the rear and middle parts of the wedge
+Porangahau Ridge investigated by Pecher et al. (2010-this issue), lie           in order to maintain a critical taper (e.g., Davis et al., 1983; Lallemand
+within one ridge either side of this buttress (Figs. 1–3 and 8). These          et al., 1994). Out of sequence thrusts are active across the upper and
+seep locations collectively indicate that the imbricated Cretaceous             middle parts of the central Hikurangi Margin. These include
+and Paleogene foundation rocks play an important role in focusing               reactivated Miocene thrust systems such as Motuokura Ridge
+present ﬂuid ﬂow and seepage along the middle part of the margin                (Figs. 3 and 12B), Lachlan Ridge (Fig. 1B) (Barnes et al., 2002), and
+(see discussion in Section 5.3).                                                Kidnappers Ridge (Barnes and Nicol, 2004), and reactivated thrusts
+    The shallow seismic stratigraphy of the different seep areas                presently inverting mid-slope basins (e.g., Fig. 5) (Davey et al., 1986a;
+appears to vary greatly, but has not been accurately dated at the               Lewis and Pettinga, 1993; Barnes and Mercier de Lépinay, 1997).
+speciﬁc seep sites. Consideration of regional seismic reﬂection                 Similar out-of-sequence thrusting has been recognized at a number of
+characteristics and sparse seaﬂoor samples leads us to infer that the           other subduction margins (Moore et al., 2007).
+Wairarapa and Omakere Ridge seeps are located on late Pleistocene                   The classical accretionary wedge of the central Hikurangi Margin
+slope sediments. At Uruti Ridge they are developed on probable                  contrasts strongly with the narrower and steeper northern margin,
+Pliocene strata which are exposed at the crest and seaward ﬂank of the          the latter of which is representative of subduction systems char-
+ridge. The Builders Pencil substrate appears to be Miocene and/or               acterized by relatively thin (∼ 1 km) trench-ﬁll sequence, high relief
+Pliocene strata, which overlie older rocks exposed on the seaward               (∼ 1–3 km) on the subducting plate, relatively rapid convergence rate
+ﬂank of Ritchie Ridge. The Rock Garden seeps, located on the western            (∼ 45–58 mm/yr), and non-accretion and/or frontal tectonic erosion
+side of Rock Garden, may lie on a substrate of exposed Cretaceous and           processes (Von Huene and Lallemand, 1990; von Huene and Scholl,
+                                                                  P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                   43
+
+
+
+
+Fig. 12. Summary of tectonic, stratigraphic, and hydrogeological aspects of the Hikurangi Margin imbricate thrust wedge. A. Cross-section of the offshore margin 35 km south of Rock
+Garden, at ∼2× vertical exaggeration, based in Fig. 3. Depth to plate interface is based in Fig. 4 inset, and data from Davey et al. (1986a), Henrys et al. (2006), and Nicol et al. (2007).
+Bold numbers above the cross-section refer to the indicative locations of the seep sites discussed in this paper, whereby: (1) includes Omakere Ridge (Figs. 2 and 10); (2) includes
+Palliser Bank and upper Opouawe Bank (Wairarapa sites, Figs. 1 and 8), Uruti Ridge (Figs. 2 and 9), Rock Garden (Figs. 2, 4 and 10), and Builders Pencil (Ritchie Ridge) (Figs. 1 and 11);
+and (3) includes lower Opouawe Bank (Fig. 8). Porangahau Ridge, studied by Pecher et al. (2010-this issue), is also represented by location 3. Text in blue (1) concerns the ﬂuid
+budget, with estimates from Townend (1997a). Bold blue arrows illustrate primary ﬂuid ﬂow along décollement and thrust splay faults. Bold red numbers along the décollement are
+estimates of temperature in °C at the interplate thrust (McCaffrey et al., 2008). Selected references for deformation fabrics and mineral phase changes include: 2, Bryne and Fisher
+(1990); 3, Maltman et al. (1993); 4, Morgan et al. (2007); 5, Ernst (1990); 6, Vrolijk (1990); 7, Moore (1989); 8, Morgan and Karig (1995). B. High-fold multichannel seismic section
+CM05#30 illustrating thrust imbricates beneath suspected seeps sites on the southern Motuokura Ridge. The proﬁle is projected 11 km onto cross-section A, whilst its actual location
+is shown in Fig. 2A. C and D illustrate what is interpreted to be analogous ﬁeld examples of low P–T accretionary deformation fabrics from 100 Myr old subduction complex exposed in
+south eastern Wairarapa (Barnes and Korsch, 1991). C, tectonic mélange with pelagite matrix and “exotic” oceanic ﬂoaters; D, broken formation developed in turbidites. E. Zoom of
+seismic section SO191#6 (Fig. 6B) illustrating protothrusts at the deformation front. F. Thrust wedge taper where α and β are the surface slope and décollement dip, respectively. G.
+Schematic of thrusts and dilatational fractures developing in relation to maximum and minimum axes of principal compression (e.g., Sibson, 1992).
+
+
+
+
+1991). The transition between these two present segments of the                                  inferred to extend at least as far north as Ritchie Banks, based on its
+margin can now be located with greater conﬁdence at the southern                                 similarly high bathymetric elevation, and lies west of a 10 km-wide
+end of Rock Garden (Figs. 1B and 2B). The substantial relief (∼ 3 km)                            right step in the line of the deformation front at about 39 35′S
+associated with the seamount subducted beneath Rock Garden can be                                (Fig. 11A).
+44                                                     P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+5.3. The role of faulting in ﬂuid migration and expulsion                          propagating into the trench sequence (e.g., Moore et al., 1986, 1995;
+                                                                                   Platt, 1990; Morgan and Karig, 1995; Barnes and Mercier de Lépinay,
+    Subduction systems associated with thick trench sequences have                 1997). Thirdly, two unconﬁrmed sites of suspected former ﬂuid seepage
+dynamic ﬂuid systems because accreting and subducting sediments                    are inferred on lower slope thrust ridges, from Hawaii MR1 sidescan
+dewater in response to compaction and contractional deformation                    sonar images (Fig. 2). One site (Fig. 2D) is a possible mud volcano
+(e.g., Fig. 12A) (Moore, 1989; Moore and Vrolijk, 1992; Morgan et al.,             (Barnes and Mercier de Lépinay,1997), the other appears to be an ediﬁce
+2007). Water saturated trench sediments entering accretionary                      surrounded by radiating mud ﬂow deposits (Fig. 2C). Whilst it is
+wedges undergo a change of stress regime, from one where the                       apparent that the frontal wedge is dewatering, its relative volumetric
+gravitational load dominates in the trench sequence as it approaches               contribution to the total ﬂuid release estimated from the margin is very
+the deformation front, to one where the principal compressive stress               poorly constrained (Townend, 1997a).
+approaches horizontal within the accretionary wedge (e.g., Davis                       There is a clear relationship between the mid-slope line of conﬁrmed
+et al., 1983). The latter produces structural permeability which                   ﬂuid seep sites and major thrust faults near the outer edge of the
+facilitates lateral ﬂuid ﬂow (Fig. 12G) (Sibson and Roland, 2003;                  Cretaceous and Paleogene foundation rocks (Figs.1 and 12A) (Lewis and
+Saffer, 2007). Fluid ﬂow in thrust fault zones has been reported widely            Marshall, 1996). Only one submarine site of suspected (i.e., uncon-
+from ﬁeld observations (e.g., Sibson, 1992), as well as from                       ﬁrmed) ﬂuid seepage is recognized well inboard (∼50 km) of this mid-
+geophysical and borehole evidence from subduction margins (e.g.,                   slope buttress, on Motuokura Ridge (Figs. 2A, 12A and B). The major
+Moore et al., 1986; LePichon et al., 1990; Taira et al., 1992; Tobin et al.,       thrust faults beneath the active seeps are seaward-vergent and inferred
+1994; Moore et al., 1995; 2004., Bangs et al., 1999, 2004). Field studies          to be primary ﬂuid conduits (Fig. 13). The source of the ﬂuids tapped by
+of ancient accretionary rocks (e.g., Moore and Wheeler, 1978; Cowan,               these faults must therefore be largely landward of the seep sites. These
+1982) and Ocean Drilling Project cores (e.g., Maltman et al., 1993;                source rocks potentially include the Cretaceous and Paleogene
+Morgan and Karig, 1995) show that a turbidite sequence entering an                 sequences, the innermost (landward) part of the late Cenozoic frontal
+accretionary wedge undergoes substantial (c. 30–40%) porosity                      accretionary wedge, and sediments subducted and possibly underplated
+reduction and consolidation associated with deformation under low                  at depths of N9 km beneath the inner foundation or basement backstop
+conﬁning pressure and temperature, but high strain rates. Within the               of the margin (Barker et al., 2009). Estimates of temperatures at the
+frontal part of the wedge, localized ductile ﬂow, cataclasis, kink band            Hikurangi interplate thrust indicate that offshore deformation and ﬂuid
+development, and brittle faulting typically produces stratal disruption            expulsion is occurring at b150 °C (Fig. 12A) (McCaffrey et al., 2008). The
+fabrics from previously coherent sequences, at up to kilometer scale               ﬂuids that supply onland seeps and overpressured stratigraphic intervals
+(e.g., Fig. 12D) (e.g., Moore, 1989; Karig and Lundberg, 1990; Barnes              encountered in exploration wells near the coast are generally considered
+and Korsch, 1991; Moore and Vrolijk, 1992; Maltman et al., 1993;                   to have been sourced from the imbricated Cretaceous and Paleogene
+Morgan and Karig, 1995; Morgan et al., 2007). Complex vein arrays in               foundation rocks at depths of b5–6 km (Ridd, 1970, Kvenvolden and
+disrupted sequences referred to as broken formation, indicate that                 Pettinga, 1989; Lewis and Marshall 1996; Field et al., 1997; Davies et al.,
+brittle faulting and fractures facilitate ﬂuid ﬂow by creating structural          2000; Darby et al., 2000; Pettinga, 2003; Uruski et al., 2004).
+permeability (Moore and Byrne, 1987). Mesoscale broken formation is                    We consider that the apparent concentration of active submarine
+inferred to exist in the frontal wedge of the Hikurangi Margin,                    ﬂuid seeps above the outer edge of the Cretaceous–Paleogene
+particularly in proximity to the major seismically imaged thrust faults            foundation, reﬂects the overall poor permeability of this unit, and
+(Lewis and Marshall, 1996; Barnes and Mercier de Lépinay, 1997).                   the migration of ﬂuids being channeled eastwards along the interplate
+Such deformation fabrics, together with steep bedding dips and                     décollement and on major low-angle thrust splay faults towards its
+shallow gas, may contribute to loss of seismic reﬂection character                 outer edge (Fig. 12A) (cf. Lewis and Marshall, 1996). The low
+commonly observed in the vicinity of the major faults (e.g., Fig. 12B              permeability of the Cretaceous–Paleogene foundation is consistent
+and E) (Crutchley et al., 2010-this issue; Pecher et al., 2010-this issue).        with (1) ﬂuid pressures approaching lithostatic overburden encoun-
+    The décollement beneath the frontal wedge of the central                       tered in east coast exploration wells, which have been shown to relate
+Hikurangi Margin is inferred to be located within the pelagic                      to low permeability mudstones with high smectite contents in the
+sediments (nannofossil chalks, tephras, mudstone, clays) of the                    Cretaceous–Paleogene sequence (Darby et al., 2000; Darby, 2002),
+Hikurangi Plateau sequence (Fig. 6B). Based on ocean drilling of                   and (2) presence of former low-angle detachments associated with
+other margins (Maltman et al., 1993; Morgan et al., 2007), and ﬁeld                listric faulting in the upper margin, which have been inferred to be
+examples of ancient analogues (Barnes and Korsch, 1991), the                       rooted in weak mudstone-rich stratigraphic intervals within the
+décollement deformation zone may be tens of meters in thickness,                   sequence (Barnes and Nicol, 2004).
+and have an internal structure resembling the Cretaceous mélange                       Any ﬂuids sourced from subducted sediments beneath the inner
+illustrated in Fig. 12C. The low pressure and temperature (zeolite                 margin must ﬁrstly enter the décollement zone, and later the thrust
+facies) analogue ﬁeld example in Fig. 12C is characterized by a                    wedge. Fluid ﬂow into the décollement could potentially be achieved by
+pervasively sheared matrix of pelagite mudstone containing sheared                 progressive downward migration of the décollement deformation into
+blocks of greywacke from the upper plate, together with basalt and                 the top of the subducting sequence, and/or by increased ﬂuid pressure
+chert blocks from the oceanic lower plate.                                         gradient resulting from temporarily increased permeability in décolle-
+    To date, acoustic ﬂares indicative of active ﬂuid/gas venting have not         ment rocks by dilatation of scaly shear fabric during and after
+been identiﬁed beneath the lower continental slope of the Hikurangi                décollement rupture (e.g., Moore, 1989; Saffer, 2007). Fluid ﬂow within
+Margin (Lewis and Marshall,1996; Greinert et al., 2010-this issue). Three          the décollement may be episodic, associated with ﬂuid pressure cycling
+lines of evidence, however, indicate that the frontal wedge is dewatering          produced by fault valve action (Sibson, 1992; Sibson and Roland, 2003).
+seaward of where the active seep sites are located. Firstly the presence of        Fluid migration into the upper plate wedge will be enhanced at sites
+a gas hydrate BSR extending across the frontal wedge essentially to the            where splay thrusts ramp upward from the décollement.
+deformation front indicates rising gas-charged ﬂuids (Figs. 3, 4, 6, 8B,               All of the active ﬂuid seeps recognized on the Hikurangi Margin lie on
+11B) (Lewis and Marshall, 1996; Henrys et al., 2003). Secondly, there is           anticlines developed in the hanging wall of thrust faults (Figs. 12A and
+an extraordinarily large (200 km length by 20 km width) protothrust                13). Although thrust tips commonly break out at the seabed on the
+zone beyond the principal deformation front in the Hikurangi Trough                relatively steep forelimb (seaward) side of anticlinal ridges, the seeps are
+(Figs. 2A, 6B,12A and E). Such incipient thrusts, and/or mega-kink bands           generally on the top of the ridges. Beneath each active seep site, there is a
+characterized by relatively weak reﬂectivity, are commonly interpreted             conspicuous break in the BSR, and common occurrence of high-
+as dewatering conduits above the tip of the interplate thrust where it is          amplitude reﬂections inferred to result from gas-charged stratigraphic
+                                                                P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                 45
+
+
+
+
+Fig. 13. Illustration of structural and stratigraphic permeability beneath active seep sites on Hikurangi Margin thrust ridges. A. Zoom of seismic section SO191#P054 across seep LM9
+on Omakere Ridge (Fig. 10C), illustrating distributed extensional fault network in the shallow core of the anticline above an active thrust fault and beneath the seeps. B. Schematic 3D
+view of a typical Hikurangi Margin seep site illustrating various relationships.
+
+
+horizons (Fig. 13). The existence of the ﬂuid seeps and the disrupted BSR                     likely to be secondary ﬂuid conduits that also focus ﬂuid ﬂow towards
+indicate that gas hydrates are not a barrier to ﬂuid ﬂow at these sites                       ridge crests (e.g., Langseth and Moore, 1990; Moore et al., 1990; Lewis
+(e.g., Nimblett and Ruppel, 2003). Seismic sections reveal arrays of                          and Marshall, 1996; Pecher et al., 2004).
+distributed shallow faults within the anticlines (see also Pecher et al.,
+2010-this issue). These shallow faults are commonly normal such as at                         6. Conclusions
+Omakere Ridge (Fig. 13A) and Wairarapa sites (Netzeband et al., 2010-
+this issue), but also include backthrusts such as at LM-3, Rock Garden                         1. New seismic reﬂection and multibeam datasets shed new insights
+(Crutchley et al., 2010-this issue). Similar extensional fault arrays have                        into the tectonic structure, stratigraphy, and morphology of the
+been documented in the upper parts of growth folds beneath the NW                                 imbricated frontal wedge of the Hikurangi Margin, and enable us to
+Borneo margin (Gee et al., 2007). The normal faults, and probable                                 establish the geological framework for each of ﬁve areas in which
+subseismic fractures, in the anticlines may be a response to ﬂexural                              seep sites are investigated and documented elsewhere in this issue.
+extension, and/or hydrofracturing related to excessive pore pressures.                            The imbricated wedge, which is up to 150 km in width, includes an
+Fluids rising along the major thrust faults appear to be siphoned off the                         inner foundation of deforming Late Cretaceous and Paleogene
+faults directly into the shallow fault/fracture networks, and to percolate                        rocks, an outer wedge of late Cenozoic accreted trench-ﬁll
+to the seabed on ridge crests (Pecher et al., 2004, 2010-this issue;                              turbidites, and a deforming cover sequence of Miocene to Recent
+Netzeband et al., 2010-this issue; Crutchley et al., 2010-this issue). What                       shelf and slope basin sediments. The contact between the inner
+has sometimes been referred to as diffusive upward ﬂuid ﬂow related to                            foundation and the accretionary wedge has been recognized and
+increased stratigraphic permeability beneath ridges (e.g., Taira et al.,                          located to within c. 10 km. The contact is interpreted to be a
+1992) may in fact be distributed ﬂuid ﬂow facilitated principally by fault                        signiﬁcant feature with respect to the hydrogeology of the margin,
+and fracture permeability. Dipping, permeable stratigraphic layers                                as it appears to control the location of presently active ﬂuid seeps.
+within the hanging wall and footwall sequences of thrust faults are                               The frontal accretionary wedge has a maximum width of c. 65–
+46                                                    P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+
+     70 km in the central margin, excluding a 20 km-wide protothrust              6. Beneath each area of active seep sites there is a conspicuous break
+     zone.                                                                           in the BSR, and commonly a seismically-resolvable fault-fracture
+2.   The tectonic structure and morphology of the central part of the                network and gas-charged horizons within the shallow part of the
+     Hikurangi Margin is characteristic of wide, low taper thrust wedges             anticlines. Structural permeability is interpreted to be crucial,
+     associated with a relatively smooth subducting plate, a thick                   within the décollement, the major thrust splay faults, and within
+     trench-ﬁll sedimentary sequence, and moderate convergence rate.                 shallow anticlinal fault networks which siphon ﬂuids from thrust
+     On the whole, the low taper (∼ 4°) is consistent with the                       faults and allow vertical percolation to the seaﬂoor on ridge crests.
+     interpretation that the wedge is poorly drained, has low perme-                 Stratigraphic permeability within dipping sequences is likely to be
+     ability, a weak basal décollement, and high ﬂuid pressures. The                 secondarily important.
+     protothrust zone in the Hikurangi Trough seaward of the principal            7. No active ﬂuid venting has yet been recognized over the frontal
+     deformation front extends along the margin for over 200 km. Its                 accretionary wedge, but the presence of a widespread BSR,
+     origin is related to incipient deformation and dewatering processes             extensive protothrust zone, and two unconﬁrmed sites of possible
+     above the propagating décollement. Although part of the Bennett                 previous ﬂuid expulsion, indicates that the frontal wedge is actively
+     Knoll seamount ridge is presently subducting beneath the                        dewatering. There are presently no constraints however on the
+     deformation front, the morphology of the accretionary wedge                     relative ﬂuid ﬂux between the frontal wedge and the active mid-
+     indicates that frontal accretion in the centre of the margin has been           slope ﬂuid seeps.
+     largely uninhibited for at least 1–2 Myr. Active out-of-sequence
+     thrusting distributed widely across the margin behind the
+     deformation front maintains the wedge taper.                                 Acknowledgments
+3.   Correlation of the seismic stratigraphy of the central Hikurangi
+     Trough with published stratigraphy of the Hikurangi Plateau                     We thank the crew and ofﬁcers of RV SONNE cruise SO191, and the
+     sedimentary sequence (Davy et al., 2008) constrains the ages and             multiple RV TANGAROA voyages that contributed data to this study.
+     stratigraphy of the Mesozoic and Cenozoic sequence subducting                The New Zealand Ministry for Economic Development provided us
+     beneath the interplate décollement. This sequence is inferred to             access to the CM05 seismic dataset. PB and GL were funded by NZ FRST
+     include Cretaceous volcaniclastics, pelagic and clastic sedimentary          research contracts CO1X0203 and CO1X0702. SH was funded by NZ
+     rocks, and Late Cretaceous–Early Oligocene (70–32 Ma) nanno-                 FRST contract CO5X0302. The ‘New Vents’ project including the cruise
+     fossil chalks with alternating clays. The décollement is developed           SO191 was funded by the German Ministry of Education and Research
+     within the Hikurangi Plateau sequence up to 400–450 m below                  (BMBF). JM was partly funded by a Tertiary Education Top Achiever
+     what are clearly trench turbidites. Its stratigraphic position for at        Award. GC was funded through the Royal Society of New Zealand
+     least 30 km down dip coincides primarily with reﬂection 7, but over          Marsden Grant contract GNS0403. The distribution of active faults on
+     lateral distances of 100–150 km, its stratigraphic position varies by        land was provided by GNS Science. We thank John Mitchell, Steve
+     up to 300–400 m within 15 km of the deformation front.                       Wilcox and Peter Gerring for assistance with data acquisition, Claire
+4.   Offshore of Hawke Bay a substantial seamount with about 3 km                 Castellazzi for processing and display of seismic data, and Rob Funnell
+     of relief has been subducted beneath the lower margin, resulting             for discussion of heat ﬂow. The RV TANGAROA seismic and EM300
+     in uplift and complex superposed deformation of Rock Garden                  multibeam dataset used here from the southern Poverty Bay margin
+     and southern Ritchie Ridge, and a dramatically reduced active                were acquired for a related study by Keith Lewis. We appreciate
+     frontal wedge. The southern end of Ritchie Ridge therefore marks             constructive reviews of the manuscript by Andy Nicol and Chris
+     the transition from the classical accretionary system along the              Goldﬁnger.
+     central margin to the narrower and steeper northern margin
+     characterized by high-relief subducting plate, relatively thinner            References
+     trench-ﬁll sequence, relatively faster convergence rate, and
+                                                                                  Arron, E.S., Lewis, K.B., 1992. Mahia, 2nd Edition, N. Z. Oceanographic Institute Chart,
+     predominantly non-accretion and/or frontal tectonic erosion                      Coastal Series, 1:200 000. Department of Scientiﬁc and Industrial Research,
+     processes.                                                                       Wellington, New Zealand.
+5.   The ﬁve areas of conﬁrmed seep sites documented elsewhere in                 Ballance, P.F., 1976. Evolution of the Upper Cenozoic magmatic arc and plate boundary
+                                                                                      in northern New Zealand. Earth Planet. Sci. Lett. 28, 356–370.
+     this issue, referred to as Wairarapa, Uruti Ridge, Omakere Ridge,
+                                                                                  Bangs, N.L., Shipley, T.H., Moore, J.C., Moore, G.F., 1999. Fluid accumulation and
+     Rock Garden, and Builders Pencil, typically lie in about 700–                    channeling along the northern Barbados décollement thrust. J. Geophys. Res. 104,
+     1200 m water depth on the crests of thrust-faulted anticlinal                    20,399–20,414.
+     ridges along the mid-slope. The Uruti Ridge sites are unusual in             Bangs, N.L., Shipley, T.H., Gulick, S., Moore, G., Kuomoto, S., Nakamura, Y., 2004.
+                                                                                      Evolution of the Nankai Trough décollement from the trench into the seismogenic
+     that they also lie in close proximity to the eastern end of a strike-            zone: inferences from three-dimensional seismic reﬂection imaging. Geology 32,
+     slip fault, whereas Rock Garden sites occur directly above a                     273–276.
+     substantial seamount that is currently subducting. The seeps sites           Barker, D.H.N., Sutherland, R., Henrys, S., Bannister, S., 2009. Geometry of the Hikurangi
+                                                                                      subduction thrust and upper plate, North Island, New Zealand. Geochem. Geophys.
+     are associated with a variety of substrate stratigraphy. There is a              Geosyst. 10, Q02007. doi:10.1029/2008GC002153.
+     clear relationship between the seeps and major seaward-vergent               Barnes, P.M., Audru, J.-C., 1999. Quaternary faulting in the offshore Flaxbourne and
+     thrust faults near the outer edge of the deforming Cretaceous and                southern Wairarapa basins, southern Cook Strait, New Zealand. N. Z. J. Geol.
+                                                                                      Geophys. 42, 349–367.
+     Paleogene inner foundation rocks, indicating that thrust faults are          Barnes, P.M., Korsch, R.J., 1991. Melange and related structures in Torlesse accretionary
+     primary ﬂuid conduits and that the Cretaceous and Paleogene                      wedge, Wairarapa, New Zealand. N. Z. J. Geol. Geophys. 34, 517–532.
+     inner foundation rocks play a role in focusing ﬂuid ﬂow. The source          Barnes, P.M., Mercier de Lépinay, B., 1997. Rates and mechanics of rapid frontal accretion
+                                                                                      along the very obliquely convergent southern Hikurangi margin, New Zealand.
+     rocks for the ﬂuids expelling at the seeps potentially include the
+                                                                                      J. Geophys. Res. 102, 24 931–24 952.
+     Cretaceous and Paleogene sequences, the innermost (landward)                 Barnes, P.M., Nicol, A., 2004. Formation of an active thrust triangle zone associated with
+     part of the frontal accretionary wedge, and sediments subducted                  structural inversion in subducting setting, eastern New Zealand. Tectonics 23 (1),
+                                                                                      TC1015.
+     and possibly underplated at depths of N9 km beneath the inner
+                                                                                  Barnes, P.M., Mercier de Lépinay, B., Collot, J.-Y., Delteil, J., Audru, J.-C., 1998a. Strain
+     foundation or basement backstop of the margin. We interpret that                 partitioning in the transition area between oblique subduction and continental
+     the Cretaceous and Paleogene inner foundation is, on the whole,                  collision, Hikurangi margin, New Zealand. Tectonics 17, 534–557.
+     relatively impermeable and focuses ﬂuid migration to its outer               Barnes, P.M., Mercier de Lépinay, B., Collot, J.-Y., Delteil, J., Audru, J.-C., and GeodyNZ
+                                                                                      team, 1998b. South Hikurangi GeodyNZ swath maps: depths, texture and geological
+     edge via major low-angle thrust faults and the interplate                        interpretation. 1:500,000., N.Z. Oceanogr. Inst. Chart, Miscellaneous Series 75.
+     décollement.                                                                     National Institute of Water and Atmospheric Research, Wellington.
+                                                                       P.M. Barnes et al. / Marine Geology 272 (2010) 26–48                                                                     47
+
+Barnes, P.M., Nicol, A., Harrison, T., 2002. Late Cenozoic evolution and earthquake                  Haeckel, M., Sommer, S., Linke, P.: this volume. Porewater geochemistry and methane
+     potential of an active listric thrust complex above the Hikurangi subduction zone,                   ﬂuxes of cold seeps at the Hikurangi Margin, offshore New Zealand. Mar. Geol.
+     New Zealand. Geol. Soc. Am. Bull. 114, 1379–1405.                                               Henry, P., Le Pichon, X., Lallemant, S., Foucher, J.-P., Westbrook, G., Hobart, M., 1990. Mud
+Beavan, J., Tregoning, P., Bevis, M., Kato, T., Meertens, C., 2002. Motion and rigidity of the            volcano ﬁeld seaward of the Barbados accretionary complex: a deep-towed side-
+     Paciﬁc Plate and implications for plate boundary deformation. J. Geophys. Res. 107,                  scan sonar survey. J. Geophys. Res. 95, 8917–8930.
+     2261 (ETG 19).                                                                                  Henrys, S.A., Ellis, S., Uruski, C., 2003. Conductive heat ﬂow variations from bottom
+Brown, K.M., Kopf, A., Underwood, M.B., Weinberger, J.L., 2003. Compositional and ﬂuid                    simulating reﬂectors on the Hikurangi margin, New Zealand. Geophys. Res. Lett. 30.
+     pressure controls on the state of stress on the Nankai subduction thrust: a weak                     doi:10.1029/2002GL015772.
+     plate boundary. Earth Planet. Sci. Lett. 214, 589–603.                                          Henrys, S., Reyners, M., Pecher, I., Bannister, S., Nishimura, Y., Maslen, G., 2006. Kinking
+Bryne, T., Fisher, D., 1990. Evidence for a weak and overpressured décollement beneath                    of the subducting slab by escalator normal faulting beneath the North Island of New
+     sediment-dominated accretionary prisms. J. Geophys. Res. 95, 9081–9097.                              Zealand. Geology 34, 777–780.
+Campbell, K.A., Francis, D.A., Collins, M., Gregory, M.R., Nelson, C.S., Greinert, J., Aharon,       Henrys, S.A., Woodward, D., Pecher, I.A., in press. Variation of bottom-simulating
+     P., 2008. ?Hyrdocarbon seep-carbonates of a Miocene forearc (East Coast Basin),                      reﬂector (BSR) strength in a high-ﬂux methane province, Hikurangi margin, New
+     North Island, New Zealand. Sediment. Geol. 204, 83–105.                                              Zealand. Am. Assoc. Pet. Geol. Memoirs.
+Collot, J.-Y., Delteil, J., Lewis, K.B., Davy, B., Lamarche, G., Audru, J.-C., Barnes, P.M.,         Holt, W.E., Haines, A.J., 1995. The kinematics of northern South Island, New Zealand,
+     Chanier, F., Chaumillon, E., Lallemand, S., Mercier de Lépinay, B., Orpin, A.R.,                     determined from geological strain rates. J. Geophys. Res. 100, 17991–18010.
+     Pelletier, B., Sosson, M., Toussaint, B., Uruski, C., 1996. From oblique subduction to          Huhnerbach, V., Masson, D.G., Bohrmann, G., Bull, J.M., Weinrebe, W., 2005.
+     intra-continental transpression: structures of the southern Kermadec–Hikurangi                       Deformation and submarine landsliding caused by seamount subduction beneath
+     margin from multibeam bathymetry, side-scan sonar and seismic reﬂection. Mar.                        the Costa Rica continental margin — new insights from high-resolution sidescan
+     Geophys. Res. 18, 357–381.                                                                           sonar data. In: Hodgson, D.M., Flint, S.S. (Eds.), Submarine Slope Systems: Processes
+Collot, J.-Y., Lewis, K.B., Lamarche, G., Lallemand, S., 2001. The giant Ruatoria debris                  and Products. Geol. Soc. Lond. Spec. publ., vol. 244, pp. 195–205.
+     avalanche on the northern Hikurangi margin, New Zealand; results of oblique                     Jones, A.T., Greinert, J., Bowden, D., Klaucke, I., Petersen, J., Netzeband, G., Weinrebe, W.,
+     seamount subduction. J. Geophys. Res. 106, 19271–19297.                                              2010. Acoustic and visual characterisation of methane-rich seabed seeps at
+Cowan, D.S., 1982. Structural stles in Mesozoic and Cenozoic mélanges in the Western                      Omakere Ridge on the Hikurangi Margin, New Zealand. Mar. Geol. 272, 154–169
+     Cordellia of North America. Geol. Soc. Am. Bull. 96, 451–462.                                        (this issue).
+Crutchley, G.J., Pecher, I.A., Gorman, A.R., Henrys, S.A., Greinert, J., 2010. Seismic imaging       Karig, D.E., Lundberg, N., 1990. Deformation bands from the toe of the Nankai
+     of gas conduits beneath seaﬂoor seep sites in a shallow marine gas hydrate                           accretionary prism. J. Geophys. Res. 95, 9099–9109.
+     province, Hikurangi Margin, New Zealand. Mar. Geol. 272, 114–126 (this issue).                  Katz, H.R., 1981. Probable gas hydrate in continental slope east of the North Island, New
+Darby, D., 2002. Seal properties, overpressure and stress in the Taranaki and East Coast                  Zealand. J. Pet. Geol. 3, 315–324.
+     Basins, New Zealand. New Zealand Petroleum Conference Proceedings. Ministry of                  Klaucke, I., Weinrebe, W., Petersen, C.J., Bowden, D., 2010. Temporal variability of gas
+     Commerce, Wellington.                                                                                seeps offshore New Zealand: multi-frequency geoacoustic imaging of the
+Darby, D., Funnell, R., Uruski, C., Field, B., 2000. Patterns of ﬂuid ﬂow in the East Coast Basin.        Wairarapa area, Hikurangi margin. Mar. Geol. 272, 49–58 (this issue).
+     New Zealand Petroleum Conference Proceedings. Ministry of Commerce, Wellington.                 Kvenvolden, K.A., 1993. Gas hydrates — geological perspective and global change. Rev.
+Davy, B., Wood, R., 1994. Gravity and magnetic modelling of the Hikurangi Plateau. Mar.                   Geophys. Space Phys. 31, 173–187.
+     Geol. 118, 139–151.                                                                             Kvenvolden, K.A., Pettinga, R., 1989. Hydrocarbon gas seeps of the convergent Hikurangi
+Davy, B.R., Hoernle, K., Werner, R., 2008. The Hikurangi Plateau — crustal structure,                     margin, North Island, New Zealand. Mar. Pet. Geol. 6, 2–8.
+     rifted formation and Gondwana subduction history. Geochem. Geophys. Geosyst. 9,                 Kulm, L.D., Suess, E., 1990. Relationship between carbonate deposits and ﬂuid venting:
+     Q07004. doi:10.1029/2007GC001855.                                                                    Oregon accretionary prism. J. Geophys. Res. 95, 8899–8916.
+Davey, F.J., Lewis, K.B., Childs, J., Hampton, M., 1986a. Convergent margin off the east             Lallemand, S., Schnurle, P., Malavieille, J., 1994. Coulomb theory applied to accretionary
+     coast of North Island, New Zealand, Parts I and II. In: von Huene, R.E. (Ed.), Seismic               and nonaccretionary wedges: possible causes for tectonic erosion and/or frontal
+     Images of Modern Convergent Margin Structure. Am. Assoc. Pet. Geol. Stud. Geol.,                     accretion. J. Geophys. Res. 99, 12033–12055.
+     vol. 26, pp. 49–53.                                                                             Lamb, S., 2006. Shear stresses on megathrusts: implications for mountain-building
+Davey, F.J., Hampton, M., Childs, J., Fisher, M.A., Lewis, K.B., Pettinga, J.R., 1986b.                   behind subduction zones. J. Geophys. Res. 111, B07401. doi:10.1029/2005JB003916.
+     Structure of a growing accretionary prism, Hikurangi margin, New Zealand.                       Langseth, M.G., Moore, J.C., 1990. Introduction to special section on the role of ﬂuids in
+     Geology 14, 663–666.                                                                                 sediment accretion, deformation, diagenesis, and metamorphism in subduction
+Davies, E.J., Frederick, J.B., Leask, W.L., Williams, T.J., 2000. East Coast drilling results. New        zones. J. Geophys. Res. 95, 8737–8742.
+     Zealand Petroleum Conference Proceedings. Ministry of Commerce, Wellington.                     LePichon, X., Henry, P., Lallement, S., 1990. Water ﬂow in the Barbados accretionary
+Davis, D., Suppe, J., Dahlen, F.A., 1983. Mechanics of fold and thrust belts and                          complex. J. Geophys. Res. 95, 8945–8968.
+     accretionary wedges. J. Geophys. Res. 88, 1153–1172.                                            Lewis, K.B., 1973. Erosion and deposition on a tilting continental shelf during
+Dixon, T.H., Moore, J.C., 2007. The seismogenic zone of subduction thrust faults:                         Quaternary oscillations of sea level. N. Z. J. Geol. Geophys. 16, 281–301.
+     introduction. In: Dixon, T.H., Moore, J.C. (Eds.), The Seismogenic Zone of Subduction           Lewis, K.B., Barnes, P.M., 1999. Kaikoura Canyon, New Zealand; active conduit from
+     Thrust Faults. Columbia University Press, New York, pp. 2–14.                                        near-shore sediment zones to a trench-axis channel. Mar. Geol. 162, 39–69.
+Dominguez, S., Lallemand, S.E., Malavieille, J., von Huene, R., 1998. Upper plate                    Lewis, K.B., Marshall, B.A.,1996. Seep faunas and other indictors of methane-rich dewatering
+     deformation associated with seamount subduction. Tectonophysics 293,                                 on the New Zealand convergent margins. N. Z. J. Geol. Geophys. 39, 181–200.
+     207–224.                                                                                        Lewis, K.B., Pettinga, J.R., 1993. The emerging, imbricate frontal wedge of the Hikurangi
+Ellis, S., Pecher, I., Kukowski, N., Xu, W., Henrys, S., Greinert, J., 2010. Testing proposed             margin. In: Balance, P.F. (Ed.), South Paciﬁc Sedimentary Basins. Sedimentary Basins of
+     mechanisms for seaﬂoor weakening at the top of gas hydrate stability, Rock Garden,                   the World 2, Basins of the Southwest Paciﬁc. Elsevier, Amsterdam, pp. 225–250.
+     New Zealand. Mar. Geol. 272, 127–140 (this issue).                                              Lewis, K.B., Collot, J.-Y., Davy, B.W., Delteil, L., Lallemand, S.E., Uruski, C.I. and GeodyNZ
+Ernst, W.G., 1990. Thermobarometric and ﬂuid expulsion history of subduction zones.                       team, 1997. North Hikurangi GeodyNZ swath maps: depth, texture and geological
+     J. Geophys. Res. 95, 9047–9053.                                                                      interpretation. NIWA chart miscellaneous series vol. 72. National Institute of Water
+Faure, K., Greinert, J., Pecher, I.A., Graham, I.J., Massoth, G.J., Ronde, C.E.J.D., Wright,              & Atmospheric Research, Wellington.
+     I.C., Baker, E.T., Olson, E.J., 2006. Methane seepage and its relation to slumping              Lewis, K.B., Collot, J.-Y., Lallemand, S.E., 1998. The dammed Hikurangi Trough: a channel-
+     and gas hydrate at the Hikurangi Margin, New Zealand. N. Z. J. Geol. Geophys.                        fed trench blocked by subducting seamounts and their wake avalanches (New
+     49, 503–516.                                                                                         Zealand–France GeodyNZ Project). Bas. Res. 10, 441–468.
+Faure, K., Greinert, J., von Deimling, J.S., McGinnis, D.F., Kipfer, R., Linke, P., 2010.            Lewis, K.B., Barnes, P.M., Collot, J.-Y., Mercier de Lépinay, B., Delteil, J., and GeodyNZ
+     Methane seepage along the Hikurangi Margin of New Zealand: Geochemical and                           team, 1999. Central Hikurangi GeodyNZ swath maps: depth, texture and geological
+     physical data from the water column, sea surface and atmosphere. Mar. Geol. 272,                     interpretation. NIWA chart miscellaneous series 77. National Institute of Water &
+     170–188 (this issue).                                                                                Atmospheric Research, Wellington.
+Field, B.D., Uruski, C.I., et al., 1997. Cretaceous–Cenozoic Geology and Petroleum Systems           Lewis, K.B., Lallemand, S., Carter, L., 2004. Collapse in a Quaternary shelf basin off East
+     of the East Coast Region, New Zealand. Institute of Geological & Nuclear Sciences                    Cape, New Zealand: evidence for the passage of a subducted seamount inboard of
+     Monograph, vol. 19. Institute of Geological & Nuclear Sciences Ltd, Lower Hutt, New                  the Ruatoria giant avalanche. N. Z. J. Geol. Geophys. 47, 415–429.
+     Zealand. 301 pp.                                                                                Maltman, A.J., Byrne, T., Karig, D.E., Lallemant, S., 1993. Deformation at the toe of an
+Frederik, J.B., 2004. East Coast hydrocarbon potential — Tawatawa prospect, offshore                      active accretionary prism: synopsis of results from ODP Leg 131, Nankai, SW Japan.
+     Wairarapa shelf. New Zealand Petroleum Conference Proceedings. Ministry of                           J. Struct. Geol. 15, 949–964.
+     Commerce, Wellington.                                                                           McCaffrey, R., Wallace, L.M., Beavan, J., 2008. Slow slip events, temperature, and interseis-
+Garlick, R., Mitchell, J.S., 2002. Turnagain Bathymetry, 3rd Edition. NIWA Chart, Coastal                 mic coupling at the Hikurangi subduction zone, New Zealand. Nat. Geosci. 1, 316–320.
+     Series, 1:200 000. National Institute of Water and Atmospheric Research Ltd,                    Mitchell, J.S., 1988. Palliser Bathymetry 2nd Edition, N. Z. Oceanographic Institute Chart,
+     Wellington, New Zealand.                                                                             Coastal Series, 1:200 000. Department of Scientiﬁc and Industrial Research,
+Gee, M.J.R., Uy, H.S., Warren, J., Morley, C.K., Lambaise, J.J., 2007. The Brunei slide: a giant          Wellington, New Zealand.
+     submarine landslide on the North West Borneo Margin revealed by 3D seismic data.                Moore, J.C., 1989. Tectonics and hydrogeology of accretionary prisms: role of the
+     Mar. Geol. 246, 9–23.                                                                                decollement zone. J. Struct. Geol. 11, 95–106.
+Greinert, J., Lewis, K., Bialas, J., Pecher, I., Rowden, A., Linke, P., De Batist, M.,               Moore, J.C., Byrne, T., 1987. Thickening of fault zones: a mechanism of melange
+     Bowden, D., Suess, E., 2010. Methane seepage along the Hikurangi Margin,                             formation in accretionary sediments. Geology 15, 1040–1043.
+     New Zealand: review of studies in 2006 and 2007 and new evidence from                           Moore, J.C., Saffer, D., 2001. Updip limit of the seismogenic zone beneath the
+     visual, bathymetric and hydroacoustic investigations. Mar. Geol. 272, 6–25 (this                     accretionary prism of southwest Japan; an effect of diagenetic to low-grade
+     issue).                                                                                              metamorphic processes and increasing effective stress. Geology 29, 183–186.
+48                                                                    P.M. Barnes et al. / Marine Geology 272 (2010) 26–48
+
+Moore, J.C., Vrolijk, P., 1992. Fluids in accretionary prisms. Rev. Geophys. 30, 113–135.           PettingaJ.R., J.R., 1982. Upper Cenozoic structural history, coastal southern Hawke's Bay,
+Moore, J.C., Wheeler, R.W., 1978. Structural fabric of a mélange, Kodiac Isalnds, Alaska.                New Zealand. N. Z. J. Geol. Geophys. 25, 149–191.
+    Am. J. Sci. 278, 739–765.                                                                       Pettinga, J.R., 2003. Mud volcano eruption within the emergent accretionary Hikurangi
+Moore, J.C., Roeske, S., Lundberg, N., Schoonmaker, J., Cowan, D.S., Gonzales, E., Lucas, S.E.,          margin, southern Hawke's Bay, New Zealand. N. Z. J. Geol. Geophys. 46, 107–121.
+    1986. Scaly fabrics from Deep Sea Drilling Project cores from forearcs. In: Moore, J.C.         Platt, J., 1990. Thrust mechanics in highly overpressured accretionary wedges. J. Geophys.
+    (Ed.), Structural Fabrics in Deep Sea Drilling Project Cores. Mem. Geol. Soc. Am., vol.              Res. 95, 9025–9034.
+    166, pp. 55–74.                                                                                 Ridd, M.F., 1970. Mud volcanoes in New Zealand. Am. Assoc. Pet. Geol. Bull. 54, 601–616.
+Moore, G.F., Shipley, T.H., Stoffa, P.L., Karig, D.E., Taira, A., Kuramoto, S., Tokuyama, H.,       Rait, G., Chanier, F., Waters, D.W., 1991. Landward- and seaward-directed thrusting
+    Suyehiro, K., 1990. Structure of the Nankai Trough accretionary zone from                            accompanying the onset of subduction beneath New Zealand. Geology 19, 230–233.
+    multichannel seismic reﬂection data. J. Geophys. Res. 95, 8753–8765.                            Saffer, D.M., 2003. Pore pressure development and progressive dewatering in under-
+Moore, J.C., Moore, G.F., Cochrane, G.R., Tobin, H.J., 1995. Negative-polarity seismic                   thrust sediments at the Costa Rican subduction margin: comparison with northern
+    reﬂections along faults of the Oregon accretionary prism: indicators of over-                        Barbados and Nankai. J. Geophys. Res. 108, 2261. doi:10.1029/2002JB001787.
+    pressuring. J. Geophys. Res. 100, 12895–12906.                                                  Saffer, D.M., 2007. Pore pressure within underthrust sediment in subduction zones. In:
+Moore, G.F., Bangs, G.F., Taira, A., Kuramoto, S., Pangborn, E., Tobin, H.J., 2007. Science              Dixon, T.H., Moore, J.C. (Eds.), The Seismogenic Zone of Subduction Thrust Faults.
+    318, 1128–1131.                                                                                      Columbia University Press, New York, pp. 148–170.
+Morgan, J.K., Karig, D.E., 1995. Decollement processes at the Nankai accretionary                   Saffer, D.M., Bekins, B.A., 2002. Hydrologic controls on the mechanics and morphology
+    margin, southeast Japan: propagation, deformation, and dewatering. J. Geophys.                       of accretionary wedges and thrust belts. Geology 30, 271–274.
+    Res. 100, 15221–15231.                                                                          Schwalenberg, K., Wood, W., Pecher, I., Hamden, L., Henrys, S., Jegen, M., Cofﬁn, R.B.,
+Morgan, J.K., Sunderland, E.B., Ask, M.V.S., 2007. Deformation and mechanical strength                   2010. Preliminary interpretation of CSEM, heatﬂow, seismic, and geochemical data
+    of sediments at the Nankai subduction zone: implications for prism evolution and                     for gas hydrate distribution across the Porangahau Ridge, New Zealand. Mar. Geol.
+    décollement initiation and propagation. In: Dixon, T.H., Moore, J.C. (Eds.), The                     272, 89–98 (this issue).
+    Seismogenic Zone of Subduction Thrust Faults. Columbia University Press, New                    SibsonR.H., R.H., 1992. Fault-valve behaviour and the hydrostatic–lithostatic ﬂuid
+    York, pp. 210–247.                                                                                   pressure interface. Earth Sci. Rev. 32, 141–144.
+Mountjoy, J., Barnes, P., Pettinga, J., 2009. Morphostructure of submarine canyons on an            Sibson, R.H., Roland, J., 2003. Stress, ﬂuid pressure and structural permeability in
+    active margin: Cook Strait Canyon system, New Zealand. Mar. Geol. 260, 45–68.                        seismogenic crust, North Island, New Zealand. Geophys. J. Int. 154, 584–594.
+    doi:10.1016/j.margeo.2009.01.006.                                                               Taira, A., Hill, I., Firth, J., Berner, U., Bruckmann, W., Bryne, T., Chabernaud, T., Fisher, A.,
+Multiwave, 2005. 05CM 2D Seismic Survey, Offshore East Coast — North Island. New                         Foucher, J.-P., Gamo, T., Gieskes, J., Hyndman, R., Karig, D., Kastner, M., Kaot, Y.,
+    Zealand unpublished openﬁle petroleum report 3136. Ministry of Economic                              Lallemant, S., Lu, R., Maltman, A., Moore, G., Moran, K., Olaffson, G., Owens, W.,
+    Development, Wellington.                                                                             Pickering, K., Siena, F., Taylor, E., Underwood, M., Wilkinson, C., Yamano, M., Zhang,
+Naudts, L., Greinert, J., Poort, J., Belza, J., Vangampelaere, E., Boone, D., Linke, P., Henriet,        J., 1992. Sediment deformation and hydrogeology of the Nankai Trough accre-
+    J.-P., De Batist, M., 2010. Active venting sites on the gas-hydrate-bearing Hikurangi                tionary prism: synthesis of shipboard results of ODP Leg 131. Earth Planet. Sci. Lett.
+    Margin, Off New Zealand: diffusive versus bubble-released methane. Mar. Geol.                        109, 431–450.
+    272, 233–250 (this issue).                                                                      Townend, J., 1997a. Subducting a sponge: minimum estimates of the ﬂuid budget of the
+Netzeband, G.L., Krabbenhoeft, A., Zillmer, M., Petersen, C.J., Papenberg, C., Bialas, J.,               Hikurangi margin accretionary prism. Geol. Soc. N.Z. Newslett. 112, 14–16.
+    2010. The structures beneath submarine methane seeps: Seismic evidence from                     Townend, J., 1997b. Estimates of conductive heat ﬂow through bottom-simulating
+    Opouawe Bank, Hikurangi Margin, New Zealand. Mar. Geol. 272, 57–70 (this issue).                     reﬂectors on the Hikurangi and southwest Fiordland continental margins, New
+Nicol, A., Mazengarb, C., Chanier, F., Rait, G., Uruski, C., Wallace, L., 2007. Tectonic                 Zealand. Mar. Geol. 141, 209–220.
+    evolution of the Hikurangi subduction margin, New Zealand, since Oligocene.                     Tobin, H.J., Moore, J.C., Moore, G.F., 1994. Fluid pressure in the frontal thrust of the
+    Tectonics 26. doi:10.1029/2006TC002090.                                                              Oregon accretionary prism: experimental constraints. Geology 22, 979–982.
+Nimblett, J., Ruppel, C., 2003. Permeability evolution during the formation of gas                  Trehu, A.M., Torres, M.E., Moore, G.F., Suess, E., Bohrmann, G., 1999. Temporal and spatial
+    hydrates in marine sediments. J. Geophys. Res. 108. doi:10.1029/2001JB001650.                        evolution of a gas hydrate-bearing accretionary ridge on the Oregon continental
+Paquet, F. 2008. Morphostructural evolution of active subduction margins: the example                    margin. Geology 27, 939–942.
+    of the Hawke bay Forearc Basin, New Zealand. PhD Thesis, Universite de Rennes 1,                Uruski, C., Field, B., Sykes, R., Funnell, R., Darby, D., 2004. Is the offshore East Coast Basin
+    Rennes, France and University of Canterbury, Christchurch, New Zealand, 253 pp.                      an accessible source of gas? New Zealand Petroleum Conference Proceedings.
+Paquet, F., Proust, J.-N., Barnes, P.M., Pettinga, J., 2009. Inner forearc sequence                      Ministry of Commerce, Wellington.
+    architecture in response to climate and tectonic forcing since 150 Ka: Hawke’s                  Von Huene, R., Lallemand, S., 1990. Tectonic erosion along the Japan and Peru
+    Bay, New Zealand. J. Sediment. Res. 79, 97–124. doi:10.2110/jsr.2009.019.                            convergent margins. Geol. Soc. Am. Bull. 102, 704–720.
+Pecher, I.A., 2002. Gas hydrates on the brink. Nature (News and views) 420, 622–623.                von Huene, R., Scholl, D.W., 1991. Observations at convergent margins concerning
+Pecher, I.A., Henrys, S.A., Zhu, H., 2004. Seismic images of gas conduits beneath vents                  sediment subduction, subduction erosion, and the growth of continental crust. Rev.
+    and gas hydrates on Ritchie Ridge, Hikurangi Margin, New Zealand. N. Z. J. Geol.                     Geophys. 29, 279–316.
+    Geophys. 47, 275–279.                                                                           Vrolijk, P., 1990. On the mechanical role of smectite in subduction zones. Geology 18,
+Pecher, I.A., Henrys, S.A., Ellis, S., Chiswell, S.M., Kukowski, N., 2005. Erosion of the                703–707.
+    seaﬂoor at the top of the gas hydrate stability zone on the Hikurangi Margin, New               Wallace, L.M., Beavan, J., McCaffrey, R., Darby, D., 2004. Subduction zone coupling and
+    Zealand. Geophys. Res. Lett. 32, L24603.                                                             tectonic block rotation in the North Island, New Zealand. J. Geophys. Res. 109.
+Pecher, I.A., Henrys, S.A., Wood, W.T., Kukowski, N., Crutchley, G.J., Fohrmann, M., Kilner,             doi:10.1029/2004JB003241.
+    J., Senger, K., Gorman, A.R., Cofﬁn, R.B., Greinert, J., Faure, K., 2010. Focused ﬂuid          Wood, R., Davy, B., 1994. The Hikurangi Plateau. Mar. Geol. 118, 153–173.
+    ﬂow on the Hikurangi Margin, New Zealand - evidence from possible local
+    upwarping of the base of gas hydrate stability. Mar. Geol. 272, 99–113 (this issue).
+

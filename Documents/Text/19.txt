@@ -1,0 +1,895 @@
+                                                                           Tectonophysics 483 (2010) 287–304
+
+
+
+                                                                    Contents lists available at ScienceDirect
+
+
+                                                                             Tectonophysics
+                                                     j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / t e c t o
+
+
+
+
+Rifting and shallow-dipping detachments, clues from the Corinth Rift and the Aegean
+Laurent Jolivet a,b,⁎, Loïc Labrousse a, Philippe Agard a, Olivier Lacombe a, Vivien Bailly a,
+Emmanuel Lecomte a, Frédéric Mouthereau a, Caroline Mehl c
+a
+    ISTEP, UPMC-Paris6, UMR 7193, T 46-00 E1, 4 Place Jussieu, 75252 Paris Cedex 05, France
+b
+    Now at: ISTO, UMR 6113, Université d'Orléans 1A, Rue de la Férollerie, 45071 Orléans Cedex 2, France
+c
+    Ecole des Mines de Paris, Centre de Géosciences, 35 rue Saint Honoré, 77300 Fontainebleau, France
+
+
+
+
+a r t i c l e           i n f o                            a b s t r a c t
+
+Article history:                                           The Corinth Rift is superimposed on the Hellenic nappe stack that formed at the expense of the Apulian
+Received 31 March 2009                                     continental crust above the subducting African slab. Extension started in the Pliocene and the major
+Received in revised form 17 September 2009                 steep normal faults that control the geometry of the present-day rift were born very recently, some 600 kyr
+Accepted 2 November 2009
+                                                           ago only. They root into a shallow-dipping zone of microseismicity recorded near the base of the upper crust.
+Available online 10 November 2009
+                                                           The signiﬁcance of this seismogenic zone is debated. Considering the northward dip of the zone of micro-
+Keywords:
+                                                           seismicity, the depth of microearthquakes and their focal mechanisms, we observe a strong similarity with
+Aegean                                                     the northern Cycladic detachments in terms of expected pressure, temperature conditions and kinematics.
+Corinth                                                    We herein show (1) that the formation of the Corinth Rift can be considered a part of a continuum of
+Rifting                                                    extension that started some 30–35 Ma in the Aegean and that was recently localised in a more restricted
+Post-orogenic extension                                    area, (2) that the present-day structure and kinematics of the Corinth Rift can be explained with a
+Detachment                                                 series of decollements relayed by steeper ramps that altogether formed a mechanically weak, crustal-scale
+Phyllite–Quartzite                                         detachment, and (3) that the deformation, ﬂuid behaviour and metamorphic features seen in the northern
+                                                           Cycladic metamorphic core complexes can be good analogues of the processes at work below the
+                                                           Corinth Rift.
+                                                                                                                               © 2009 Elsevier B.V. All rights reserved.
+
+
+
+1. Introduction                                                                                    one being caused by retreat of the Hellenic slab and the second by the
+                                                                                                   propagation of the NAF in the Pliocene, with the Corinth Rift
+    The Gulf of Corinth (Fig. 1) is the fastest-spreading documented                               accommodating the strike-slip motion by extension and rotation of
+intracontinental rift on Earth. Geodetically measured extension amounts                            the fault system (Taymaz et al., 1991; Armijo et al., 1996; 1999). The
+to 1.5 cm/year and is mainly accommodated within the offshore section                              localisation of the Corinth Rift near the termination of the NAF, a high
+(Billiris et al., 1991; Briole et al., 2000). This rift is however part of a wider                 rate of extension and modelling of the GPS velocity ﬁeld (Flerit et al.,
+zone of extension distributed over the whole Aegean domain and has                                 2004) support this interpretation. The distribution of rotations indicated
+been considered the most recent event of a continuum of extension with a                           by paleomagnetic studies is however not simple and recent data suggest
+localization through time (Jolivet et al., 1994; Jolivet, 2001).                                   that the southern margin of the Gulf has rotated counterclockwise since
+    Post-orogenic extension started in the Aegean region at least 30 Ma                            the Pliocene (Mattei et al., 2004) instead of a simple clockwise rotation
+ago (Jolivet and Faccenna, 2000). Extension was ﬁrst distributed over a                            expected in a dextral shearing environment.
+large domain from 30–35 Ma to approximately 5 Ma and was marked by                                     An alternative view is to consider that the ultimate cause of
+the formation of the Cycladic metamorphic core complexes all over the                              extension (slab retreat and crustal collapse) has not changed and that
+Aegean Sea (Lister et al., 1984; Gautier and Brun, 1994a,b; Jolivet et al.,                        the propagation of the NAF or some other cause has simply localised
+1994; Jolivet and Patriat, 1999). It then tended to localise in western                            extension near its termination (Jolivet, 2001). In that sense the Gulf of
+Turkey as well as near the tip of the North Anatolian Fault (NAF), either                          Corinth would be a precursor of a future metamorphic core complex
+in the North Aegean Trough or in a series of grabens (Volos, Corinth) in a                         similar to those of the Cyclades or the Aegean region (Chéry, 2001;
+wide zone of extension and block rotation that bounds the Aegean block                             Jolivet, 2001). Several lines of arguments support this alternative
+to the west (McKenzie, 1978; Jackson, 1994; Armijo et al., 1996).                                  interpretation: (1) the southward velocity increase shown by GPS
+    A debate exists about the respective causes of these two successive                            data may suggest that the engine is a traction toward the south
+extensional regimes. One view is to disconnect the two regimes, the ﬁrst                           induced by slab retreat and not only the indentation of Arabia (Jolivet,
+                                                                                                   2001; Kreemer and Chamot-Rooke, 2004), (2) the overall asymmetry
+  ⁎ Corresponding author. ISTO, UMR 6113, Université d'orléans, 1A rue de la
+                                                                                                   and the detailed kinematics of the Corinth Rift, including the likely
+Férollerie, 45071 Orléans cedex 2, France.                                                         presence of a active shallow north-dipping decollement at depth
+    E-mail address: laurent.jolivet@univ-orleans.fr (L. Jolivet).                                  below the offshore section of the rift near the brittle–ductile transition
+
+0040-1951/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.tecto.2009.11.001
+                                                                                                                                                                                                                                                 288
+                                                                                                                                                                                                                                                 L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+Fig. 1. Tectonic map of the Corinth Rift showing the main faults, the distribution of syn-rift deposits onshore, the Zaroukla decollement, the Tyros Beds and the Phyllite–Quartzite nappe on a shaded topography and bathymetry made with
+GeoMapApp (http://www.geomapapp.org/). The map is a compilation of several published works (Armijo et al., 1996; Flotté and Sorel, 2001; Ghisetti and Vezzani, 2005; McNeill et al., 2005a,b; Palyvos et al., 2005; Rohais et al., 2007a; Bell
+et al., 2008; Leeder et al., 2008). The broken line shows the position of Fig. 6 cross-section.
+                                                      L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                               289
+
+
+(King et al., 1985; Rigo et al., 1996) and onshore observations (Sorel,
+2000), are reminiscent of the geometry and kinematics of the Oligo-
+Miocene extensional metamorphic domes observed in the Cyclades.
+Offshore seismic investigations, although they provide rather detailed
+images of the uppermost crustal structure, have also led to opposing
+conclusions. For Sachpazi et al. (2003), Pi Alperin et al. (2004) or
+Taylor et al. (2003) reﬂections are compatible with the presence of a
+shallow north-dipping detachment, while Bell et al. (2008, 2009)
+argue instead in favor of a more symmetric extension and the absence
+of a detachment, that is not required to explain observed structures.
+One of the key-questions is the geometrical relations between the
+onshore detachment described by Sorel (2000) and the zone of
+microseismicity recorded at depth.
+    In this paper, we 1) review available data on the Corinth rift and
+provide a balanced, crustal-scale restoration of the rift, 2) explore the
+similarities and differences between the Corinth Rift and the Cyclades
+in terms of geometry, kinematics and pressure and temperature
+conditions, and 3) assess the potential of Aegean metamorphic core
+complexes as analogues of the deformation presently at work below
+the Corinth Rift.
+
+2. Crustal-scale extension: normal faults versus
+post-orogenic detachments
+
+    Extension is commonly accommodated by two kinds of structures:
+steeply-dipping normal faults bounding grabens (Jackson and White,
+1989) and shallow-dipping detachments below which metamorphic
+core complexes were exhumed (see Lister et al., 1984; Gautier and
+Brun, 1994a, for the Cyclades); Fig. 2 summarizes this debate for the
+Aegean region and the Corinth Rift. The most obvious structures in the
+Corinth Rift are the steep active normal faults that shape the
+morphology of the southern margin (Armijo et al., 1996). The
+distribution of these normal faults is often asymmetrical, one set of
+faults being predominant, thus suggesting an asymmetry of defor-
+mation at crustal or lithospheric scale (Colletta et al., 1987). Models of
+asymmetric extension have been developed in the 80s after the
+discovery of shallow-dipping normal faults in the Basin and Range
+Province. The debate then became focussed on the degree of
+asymmetry, at crustal or lithospheric scale (Wernicke, 1981; Brun
+and Choukroune, 1983; Davis, 1983; Coney and Harms, 1984; Lister
+et al., 1986; Klemperer, 1988). Seismological studies and deep seismic             Fig. 2. Comparison of two different extreme interpretations of the active Corinth Rift and
+proﬁles have shown that normal faults generally do not reach deeper                the Naxos Oligo-Miocene metamorphic core complex. A: The Corinth Rift is controlled by
+                                                                                   one main north-dipping normal fault (Armijo et al., 1996). B: The Corinth Rift is controlled
+than 10–15 km (Klemperer, 1988; Jackson and White, 1989) and that                  by one single north-dipping detachment (Sorel, 2000); seismicity after (Lyon-Caen et al.,
+they may be relayed at depth by shallow-dipping ductile shear zones                2004). C: Naxos metamorphic core complex after Gautier et al. (1993).
+(Brun et al., 1992). A model of the extending continental crust has
+thus emerged with an upper crust deforming with steeply-dipping
+faults rooting on more or less shallow-dipping shear zones in the                  are steep and planar down to the brittle–ductile transition. It was
+middle and lower crust, and a lithospheric mantle deforming ductilely              noted at that time that these studies did not preclude the existence of
+in a more diffuse manner. By contrast, several classes of models of                shallow-dipping normal faults, but they had to be seismically silent
+extension of the continental crust use steeply-dipping normal faults in            and thus weak. This weakness is indeed attested by studies of
+the upper crust (Jackson and White, 1989), relayed at depth by a                   shallow-dipping detachments where ﬂuid circulation plays an
+ductile ﬂow in the lower crust (Kusznir and Park, 1987). In this case              important role and can be an agent of rock weakening (Morrison
+no detachment is required in the middle crust.                                     and Anderson, 1998; Famin et al., 2004b, 2005).
+    Field studies have documented the existence of shallow-dipping                     As exhumation of HP metamorphic rocks and post-orogenic
+normal faults separating units with different metamorphic evolutions               extension both involve large-scale detachments, and the use of the
+with a large pressure gap across, the hangingwall recording much lower             term “extension” in both situations is often misleading, we propose the
+pressures than the footwall (Wernicke, 1981; Platt, 1986; Burchﬁel                 following terminology: “extension” is only used when the activity of
+et al., 1987; Lister and Davis, 1989; Abers, 1991; Wernicke, 1992; Jolivet         normal faults or extensional ductile shear zones has led to crustal
+et al., 1994; Wernicke, 1995; Jolivet et al., 1998; Taylor and Huchon,             thinning (in classical rifting for instance). We thus use “post-orogenic
+2002). Shallow-dipping normal faults may be the late evolution of a                extension” to describe the formation of extensional metamorphic
+ductile extensional shear zone during the exhumation from ductile to               domes in the Cyclades during the Oligo-Miocene; instead, when
+brittle conditions (Lister and Davis, 1989; Mehl et al., 2005).                    detachments participate to the exhumation of metamorphic rocks
+    On the other hand, studies of earthquakes on normal faults have                but do not lead to crustal thinning we propose to use “syn-orogenic
+shown that the largest events nucleate on the steep fault plane seen at            detachment tectonics”.
+the surface, and that one of the nodal planes is compatible with that                  Low-angle normal faults have been described in different geological
+same fault (Jackson and White, 1989). This suggests that normal faults             situations including post-orogenic extension, exhumation of HP–LT
+290                                                    L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+metamorphic rocks and even intra-oceanic rifting (Wernicke, 1981; Lister                Although most of the motion of the extruded Anatolian block can be
+et al., 1984; Avigad and Garfunkel, 1989; Wernicke, 1995; Abers et al.,             modelled as a rigid rotation, the southern part of the Aegean region
+1997; Axen et al., 1999; Hayman et al., 2003; Collettini and Holdsworth,            moves faster southward, inducing extension in the backarc region at a
+2004; Garcès and Gee, 2007). Such low-angle normal faults are often                 rate of ∼1 cm/year (Le Pichon et al., 1995; McClusky et al., 2000). The
+referred to as detachments. In this acception a detachment is a shallow-            present-day velocity ﬁeld, as shown by GPS measurements, has been
+dipping normal fault, cutting down-section across a stratigraphic pile or a         modelled in various ways, either purely kinematically or involving some
+nappe stack. Motion along the detachment results in the direct                      mechanical considerations (Briole et al., 2000; Flerit et al., 2004; Kreemer
+juxtaposition of a superﬁcial (usually non metamorphosed) unit on top               and Chamot-Rooke, 2004; Kreemer et al., 2004; Nyst and Thatcher,
+of a deep metamorphic unit. High-pressure and low-temperature (HP–                  2004). Most of the recent Aegean extension is taken up by E–W grabens
+LT) metamorphic complexes are often topped by shallow-dipping                       in western Turkey (Hetzel et al., 1995; Bozkurt and Oberhänsli, 2001;
+detachments that were active during the formation of the nappe stack                Purvis and Robertson, 2004) and in the Corinth Rift, whereas the more
+(Platt, 1986; Jolivet et al., 1998), whereas some of the HT metamorphic             central Cycladic archipelago does not show signiﬁcant extension
+domes capped by similar detachments were exhumed during post-                       nowadays, after a period of intense crustal thinning in the Late Oligocene
+orogenic crustal-scale extension. The ﬁrst-order similarity of the two              and Miocene (Gautier and Brun, 1994b; Vanderhaeghe, 2004; Brichau
+types of detachments in the ﬁeld often renders the distinction difﬁcult.            et al., 2007; Jolivet and Brun, 2008). The southern parts of the
+The Aegean Sea (Fig. 3) and its neighbourhood is a region where both                Peloponnese and Crete are affected by a series of N–S-trending active
+processes were recorded in sequence.                                                or recent normal faults (Figs. 1 and 3). Normal faults are clearly
+                                                                                    perpendicular to the arc in Crete but become more parallel to it in the
+3. Geodynamic setting and published models                                          Peloponnese (Lyon-Caen et al., 1988; Armijo et al., 1992). This
+                                                                                    deformation is induced by a component of extension parallel to the
+    The Aegean Sea (Fig. 3) is a backarc basin resting on a thinned                 external arc according to Armijo et al. (1992).
+continental crust resulting from the Oligocene to present backarc
+extension above the north-plunging Hellenic subduction zone (Le                     3.2. The Corinth Rift: steep faults versus shallow-dipping detachment?
+Pichon and Angelier, 1979; Le Pichon, 1982; Jolivet et al., 1994;
+Gautier et al., 1999). Extensional structures are widely distributed                     The age of the ﬁrst extension in the Gulf of Corinth is poorly
+within the Aegean Sea itself and in its vicinity from western Turkey,               constrained but is generally thought to have started recently in the Plio-
+northern Greece and Bulgaria, continental Greece, Peloponnese and                   Quaternary (Keraudren and Sorel, 1987; Ori, 1989; Armijo et al., 1996;
+Crete. The Gulf of Corinth separates continental Greece from the                    Sorel, 2000). The most ancient date corresponds to 3.6 to 4 Ma old syn-
+Peloponnese. Intense seismicity (Papazachos and Papazachos, 1989;                   rift volcanics (Collier, 1990; Collier et al., 1992) in the eastern part of the
+Ambraseys and Jackson, 1990; Papazachos and Kiratzi, 1992) is                       rift. Recent datings in the Megara Basin suggest that extension was
+recorded within the rift and its vicinity. Extension started in the                 already active in the vicinity of the Gulf of Corinth in the Pliocene and
+Aegean region some 30–35 Ma ago, probably due to an acceleration of                 that the deep part of the rift formed some 2 Ma ago (Leeder et al., 2008).
+slab retreat (Jolivet and Brun, 2008).                                              Although very recent dates (120 000 years) have been proposed
+    Blueschists and eclogite-facies rocks make a signiﬁcant volume of               (Moretti et al., 2003) for the inception of the most recent phase of
+the Aegean crust (Fig. 4). During the construction of the Hellenides they           activity based on the geometry of the fault scarp, recent biostratigraphic
+were formed in two main stages, one in the Eocene (the Cycladic                     studies (Ford et al., 2007; Rohais et al., 2007a,b) of the syn-rift deposits
+Blueschists) (Blake et al., 1981; Bonneau and Kienast, 1982; Wijbrans               on the southern margin suggest that the oldest deposits date back at
+et al., 1993) and one, more external, in the Oligocene and Early Miocene            least to 1.7 Ma, that an increased subsidence is recorded at 1.0–1.5 Ma
+(the external Phyllite–Quartzite nappe and part of the Plattenkalk nappe            and that the recent uplift of the southern margin started at ∼0.7–0.6 Ma
+in the Peloponnese and Crete) (Seidel et al., 1982; Theye and Seidel,               when conglomerate fans suddenly emerged. In all cases, the recent and
+1991; Jolivet et al., 1996). A very signiﬁcant part of the exhumation was           rapid stage seems to correspond to an acceleration of extension and to a
+achieved within the subduction zone before and during the formation of              more localised deformation along a few major faults. While Sorel (2000)
+the Aegean Sea (Avigad et al., 1997; Trotet et al., 2001; Jolivet et al.,           argues for a single phase with a northward propagation of normal faults,
+2003; Ring and Layer, 2003). Kinematic orientations of both exhumation              most authors agree that earlier phases (one or several) were slower and
+stages are however often very similar in the ﬁeld (Gautier, 1994) in the            that deformation was more widely distributed (Armijo et al., 1996).
+Aegean, and deciphering the respective contributions of the two                          The Corinth Rift is one of the most typical areas where steep normal
+processes is not always straightforward.                                            faults seem to control the kinematics of extension (Jackson et al., 1982;
+                                                                                    Roberts, 1996) with one set of faults (the N-dipping one) predominating,
+3.1. The Aegean region, the Hellenides and the Corinth Rift                         giving an asymmetric structure. In line with this asymmetry, north-
+                                                                                    dipping normal faults of the southern margin seem to have migrated
+   The Corinth Rift (Fig. 1) is an active post-orogenic extensional                 northward during rifting (Goldworthy and Jackson, 2001). A simple
+structure set on a previously thickened continental crust that contains             model relating the amount of extension and uplift with the motion along
+HP–LT units exhumed during the Miocene. The Corinth rift strikes                    one single steep normal fault has been developed in the eastern part of the
+100–110°N and runs at a high angle to the Hellenides (Fig. 3), an                   Gulf of Corinth (Armijo et al., 1996) (Fig. 2). This model is mainly based
+alpine stack of nappes developed from the Eocene to the Miocene at                  upon the observed crustal-scale ﬂexure of the Xylocastro Fault footwall,
+the expense of the subducting Apulian continental plate (Aubouin and                documented by mapping of the inner edges of recent uplifted terraces on
+Dercourt, 1965; Jacobshagen et al., 1978; Bonneau, 1982, 1984;                      the southern margin of the gulf near Corinth. The geometry of uplifted
+Dercourt et al., 1986). From ∼5 Ma until the Present plate kinematics               marine terraces constrains a long-term elastic ﬂexure model and provides
+has been mostly compatible with the westward extrusion of Anatolia                  a slip rate of 6 to 11 mm/year. In this model, the elevated relief of the
+(McKenzie, 1972, 1978; Le Pichon et al., 1995; Armijo et al., 1996;                 northern Peloponnese partly results from the activity of this normal fault.
+McClusky et al., 2000) along the NAF which ends in the transtensional               Armijo et al. (1996) further assume that this velocity is representative of
+North Aegean trough (Armijo et al., 1999, 2002; Koukouvelas and                     the last 1 Ma period. On the other hand, Cornet et al. (2004a), based on
+Aydin, 2002; Le Pichon et al., 2003). The strike-slip system abuts                  drilling of the active steeply-dipping and planar Aigion fault in the west,
+against the northeastern coast of Greece and is replaced further to the             propose an active slip rate of ∼3.5 mm/year. Dating of corals in the
+SW by a series of normal faults (Laigle et al., 2000) and grabens,                  westernmost part of the Gulf (Houghton et al., 2003) suggests even
+including the Evia and Corinth rifts.                                               slower slip rates. The western part of the Gulf, near the junction with the
+                                                               L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                           291
+
+
+
+
+Fig. 3. Tectonic map of the Aegean region showing the main faults, and the main HP–LT metamorphic units of Cenozoic age, the Cycladic Blueschists and the Phyllite–Quartzite nappe.
+
+
+
+Gulf of Patras, thus seems to show a more limited ﬁnite extension (Armijo                   faults are observed along the southern coast (King et al., 1985; Bernard
+et al., 1996) despite higher instantaneous GPS rates of extension at                        et al., 1997; Lyon-Caen et al., 2004). This observation led King et al.
+present (Briole et al., 2000).                                                              (1985) to postulate the existence of a shallow north-dipping detach-
+   The distribution of earthquakes at depth is in general compatible                        ment at depth into which the main surface faults root. Distributed
+with an asymmetric model: the main shock hypocentres in the western                         normal faults are nevertheless also observed in the northern part of the
+Gulf are located below the northern shore whereas the main active                           Gulf (McNeill et al., 2005b) and the asymmetry might be less clear
+292                                                                L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+                                                                                                    Mapping of the southern shore led Ghisetti and Vezzani (2005) to
+                                                                                                highlight an important difference between the western and eastern
+                                                                                                sectors. In the west, uplifted Plio-Pleistocene syn-rift deposits are thin
+                                                                                                (Aigion sub-basin) and the cut-off of present-day seismicity is shallow,
+                                                                                                while in the east the Plio-Pleistocene syn-rift deposits (Derveni-Corinth
+                                                                                                sub-basin) are much thicker and the cut-off of seismicity deeper. This
+                                                                                                difference is attributed to the presence of a basement culmination
+                                                                                                between the two areas in the Zaroukla–Feneos tectonic window (Fig. 5)
+                                                                                                where the Phyllite–Quartzite (PQ) nappe crops out below two tectonic
+                                                                                                units of the Hellenic nappe stack, the Pindos and Gavrovo–Tripolitza
+                                                                                                nappes (see also Fig. 3). The difference of penetration of normal faults
+                                                                                                and seismicity in the western and eastern sectors is compatible with the
+                                                                                                thickness of syn-rift deposits and is attributed to different depths of the
+                                                                                                Phyllite–Quartzite nappe acting as a detachment level (Ghisetti and
+                                                                                                Vezzani, 2005). The role potentially played by a low-viscosity layer (the
+                                                                                                Phyllite–Quartzite nappe) in localising deformation on a shallow-
+                                                                                                dipping plane has been advocated by several authors and recently
+                                                                                                modelled numerically (Le Pourhiet et al., 2004, 2006; Ghisetti and
+                                                                                                Vezzani, 2005). These numerical experiments show that, depending
+                                                                                                upon the viscosity contrast between the surrounding rocks and the
+                                                                                                weak nappe, as well as upon the overall resistance of the crust, normal
+                                                                                                faults can root at two different levels, the brittle–ductile transition and/
+Fig. 4. The high-pressure and low-temperature units in the Cyclades, Peloponnese and            or the dipping weak PQ nappe.
+Crete and the strike of stretching lineations and sense of shear formed during the Oligo-
+Miocene (Jolivet et al., 2004 and references therein, Trotet et al. 2006, Huet et al., 2009,    3.3. The Phyllite–Quartzite nappe and the Tyros beds: Cretan detachment
+Jolivet et al., 2010).                                                                          versus Zaroukla decollement
+
+during the recent period for the upper crust (Bell et al., 2008). In the                            In terms of lithology, the Phyllite–Quartzite (PQ) nappe (Creutz-
+same region, two detailed studies of the microseismicity (near Aigion in                        burg, 1977; Bonneau, 1984) is contrasting with the rest of the nappe
+1991 and 2001) reveal a clustering of microearthquakes along a shallow                          stack of the external Hellenides. Made essentially of metapelites,
+north-dipping zone at ∼5–8 km (Rietbrock et al., 1996; Rigo et al., 1996;                       metaquartzites and metaconglomerates, with minor limestones and
+Lyon-Caen et al., 2004). This zone of microearthquakes is ∼2 km thick                           some slices of basement (Romano et al., 2004), it is sandwiched
+and extends laterally over a zone at least 30 km wide, centred on the                           between two thick carbonate units, the PlattenKalk (PK) (or Ionian)
+town of Aigion. Focal mechanisms of these earthquakes are all                                   nappe below and the Gavrovo–Tripolitza (GT) nappe above (Fig. 5). It
+extensional and involve one nodal plane parallel to the zone of                                 is recognized from Crete to the Peloponnese, yet its thickness is highly
+microseismicity, thus suggesting the presence of an active shallow-                             variable. It can be more than one km thick in western Crete and totally
+dipping shear zone in the vicinity of the brittle–ductile transition (Rigo                      absent in parts of central Crete.
+et al., 1996). Below this zone, no seismicity is recorded and its base thus                         Unlike the GT nappe, the PQ nappe contains high-pressure and
+likely represents the brittle–ductile transition. A tomographic study also                      low-temperature (HP–LT) metamorphic rocks. The age of metamor-
+revealed the presence of a ﬂuid-rich zone superimposed to the zone of                           phism is dated from the Late Oligocene to the Early Miocene. The
+microseismicity (Gautier et al., 2006). In the eastern part of the gulf the                     underlying PK nappe is metamorphosed in Crete but not in the
+cut-off depth of microearthquakes is deeper (10–15 km) and no clear                             Peloponnese (Seidel et al., 1982; Theye and Seidel, 1991; Theye et al.,
+planar structure has been identiﬁed (Hatzfeld et al., 2000).                                    1992; Theye and Seidel, 1993; Jolivet et al., 1996; Thomson et al.,
+    An original model has been proposed by Sorel (2000) for the                                 1998; Trotet, 2000; Zulauf et al., 2002).
+western part of the gulf (Fig. 2). Based on a detailed mapping of the                               The PQ nappe is partly similar in lithology to Triassic pelitic and
+southern shore of the Gulf south of Aigion and Patras, Sorel (2000)                             volcanic rocks that make the base of the GT nappe (Tyros Beds) and
+proposed the existence of a shallow north-dipping detachment,                                   the confusion is possible in the ﬁeld. The Tyros beds are however
+active during the Pleistocene and rooting in the microseismicity                                devoid of any HP–LT metamorphic imprint. There is thus a strong
+zone. Steep normal faults root in this detachment and separate                                  metamorphic gap between the Tyros beds and the PQ nappe. This gap
+narrow tilted blocks and syn-rift tilted sediments sometimes                                    is classically interpreted as the result of the activity of a shallow-
+showing roll-over structures (Flotté and Sorel, 2001; Flotté et al.,                            dipping detachment, the Cretan detachment, that has exhumed the
+2005). It should be noted here that the geometry of this detachment                             high-pressure rocks during the Early and Middle Miocene and
+seems at ﬁrst glance incompatible with the attested steeply north-                              ultimately controlled the formation of early late Miocene basins in
+dipping faults and the crustal-scale ﬂexure. If this detachment                                 its hangingwall (Fassoulas et al., 1994; Jolivet et al., 1994; Kilias et al.,
+has played a role in the extension across the rift it must have been                            1994; Jolivet et al., 1996; Ring et al., 2001; van Hinsbergen and
+before the formation of the active Xylokastro and similar faults (see                           Meulenkamp, 2006; Seidel et al., 2007).
+discussion below).                                                                                  The Cretan detachment is characterized by a localisation of a large-
+    Moretti et al. (2003) challenged the asymmetry of the rift and                              scale shear zone at the top of the PQ nappe in Crete (Jolivet et al., 1996).
+proposed that the main part of the evolution was more symmetric with                            This shear zone evolves in time from ductile to brittle during exhumation
+north- and south-dipping normal faults, with a recent evolution toward                          from the depth of the blueschist facies and the shear sense is consistently
+a more asymmetric geometry with the localisation of depocentres near                            top-to-the-north. In the Peloponnese the retrograde deformation is also
+the southern shore, but only in the central and eastern part of the rift.                       present, but the asymmetry is less clear with both top-to-the-west and
+Indeed, while the asymmetry of offshore syn-rift deposits is clear in                           top-to-the-east indicators on either sides of the Taygetos range (Xypolias
+some sections (Higgs, 1988) more symmetrical patterns prevail on                                and Doutsos, 2000; Jolivet et al., 2010). Despite a more complex internal
+others, with south-dipping faults and northward tilted deposits in the                          structure of the PQ nappe the pressure gap with the overlying Tyros Beds
+western part of the rift (McNeill et al., 2005b).                                               (and GT nappe) is also present and a series of detachments have
+                                                               L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                          293
+
+
+
+
+Fig. 5. Geological map of the Aigion and Mt Kelmos region, simpliﬁed after Flotté et al. (2005). The geology of the Zaroukla–Feneos window is after our own survey. We distinguish
+the true metamorphic Phyllite–Quartzite nappe (lowermost unit) from the Tyros beds that make the lower part of the Gavrovo–Tripolitza nappe (see also Xypolias and Doutsos,
+2000). (A) Map of the Zaroukla–Feneos tectonic window showing the distribution of the Phyllite–Quartzite nappe and Tyros beds as well as the direction of retrograde stretching
+lineations and shear sense when available. Small arrows represent the shear direction in the PQ nappe and the large arrow the transport direction on the Zaroukla detachment (next
+to black star). (B) Brecciated base of the Gavrovo–Tripolitza carbonates in the north of the window. Sketch of a roadside outcrop (localised by a black star on the map) showing a
+thick dolomitic limestone breccia with shallow-dipping normal faults cutting cohesive blocks. (C) Stereographic projection plot of normal faults and their striation on the same
+outcrop showing an overall N–S direction of stretching.
+
+
+exhumed HP–LT units. Most of this exhumation-related deformation                            ment (Papanikolaou and Royden, 2007) and the Itea–Amﬁssa Detach-
+took place within the subduction channel or the accretionary wedge                          ment (Papanikolaou et al., 2009).
+before post-orogenic extension started in Crete or the Peloponnese. Part                        The PQ nappe is also recognized in the Zaroukla–Feneos window
+of this detachment system has been reactivated in recent periods                            (Figs. 1 and 5) south of the Corinth Rift where Sorel (2000), Flotté and
+(Middle Miocene to early Pliocene) as the East Peloponnesus Detach-                         Sorel (2001) and Flotté et al. (2005) have ﬁrst suggested that the base of
+294                                                    L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+the GT nappe acted as a shallow-dipping detachment during the                       nappe in the subduction channel and post-orogenic extension. Whatever
+formation of the Corinth Rift (hereafter called the Zaroukla decollement).          the amount of exhumation attributed to syn-orogenic exhumation, the
+Their proposition is based upon the direct observation of a shallow                 role of the Cretan detachment at the top of the PQ nappe was major. This
+north-dipping fault on the northern slope of Mount Chelmos and its                  detachment, as well as other shallow-dipping contacts in the nappe
+lateral continuation east and west, the construction of a series of                 stack, are major crustal discontinuities that could have played the role
+balanced cross-sections and the northward migration of the activity of              of a decollement at crustal scale. This is reinforced by the weak rheology
+normal faults through time.                                                         of the PQ nappe (mica-rich metapelites in majority and a highly
+                                                                                    heterogeneous material, thus of probable low overall strength) compared
+4. Detachments associated with the Corinth rift                                     with the overlying (GT) and underlying (PK) nappes (more homogeneous
+                                                                                    and mainly carbonates). In a recent paper Rahl et al. (Rahl et al., 2005),
+4.1. Zaroukla decollement versus Cretan detachment                                  based on maximum temperature estimates in carbonaceous material on
+                                                                                    both sides of the Cretan detachment concluded to a limited displacement
+    In order to precise the geometry of the contact between the Tyros Beds          because of a small temperature difference across the main movement
+above and the PQ nappe below we have mapped the Zaroukla–Feneos                     zone. However, as argued in Jolivet et al. (1996) and discussed in Jolivet
+window (Fig. 5). The Cretan detachment is located at the interface where            et al., (2010) metamorphic parageneses clearly show a signiﬁcant
+a pressure gap is also documented: a maximum pressure of 10 kbar is                 pressure gap between the hangingwall and the footwall, and only
+recorded in the PQ nappe while the Tyros beds underwent pressure                    pressure can be used to estimate the vertical component of offset.
+conditions below 5–6 kbar (Jolivet et al., 2010). The deformation within
+the PQ nappe is characterized by a shallow-dipping foliation folded in a            4.2. A crustal-scale cross-section of the Corinth rift
+broad antiform with a steeper southern limb. A stretching lineation, now
+trending NE–SW, is observed throughout the window. It is associated                     Figs. 6 and 7 present a synthetic cross-section through the Corinth
+with a majority of top-to-the-NE kinematic indicators but also a                    Rift. Several available data sets and our own observations were used
+signiﬁcant number of top-to-the-SW ones in the southern limb (see                   to construct this interpretative section. We use the work of Flotté and
+also Xypolias and Doutsos (2000). The Tyros Beds above do not show this             Sorel (2001) and Flotté et al. (2005) along the Kratis river as a starting
+ductile deformation. The contact between the PQ nappe and the Tyros                 point for the onshore section. We build a new balanced section with
+beds thus accommodated a signiﬁcant displacement that resulted in the               the assumption that blocks between faults are entirely rigid, except in
+juxtaposition of two units with different P–T evolutions and different              the lower part within the Tyros beds. In Flotté and Sorel (2001) and
+deformation histories. The downward increase of pressure across the                 Flotté et al. (2005) the depth of the detachment is constrained by the
+contact is in favor of an extensional movement or exhumation-related                geometry of the pre-rift nappe contacts used as originally horizontal
+detachment tectonics as in the southern Peloponnese or in Crete. Through            markers and we use the same assumption here. This assumption is
+an analogy with Crete and the Southern Peloponnese, we assume that this             reasonable considering the attitude of the contact between the Pindos
+exhumation took place in the Early and Middle Miocene. The recent                   and GT nappe further south in the Peloponnese where the effect of the
+dating of Middle Miocene sediments in the hangingwall of the Itea–                  Corinth rifting is not present. The relatively shallow depth of the
+Amﬁssa Detachment (Papanikolaou et al., 2009) north of the Corinth Rift             detachment is compatible with the size of tilted blocks (4–5 km at
+is in line with this conclusion.                                                    most). We introduce the two discontinuities described above, one
+    The detachment mapped by Sorel (2000) lies above the Cretan                     (Zaroukla decollement) between the Tyros beds and the GT nappe
+detachment. A thick zone of cataclasites can be observed at the base of             and one (Cretan detachment) between the Tyros beds and the PQ
+the GT carbonates along the Kratis valley (Fig. 5). It can be followed              nappe. The Zaroukla decollement is cut by at least one large north-
+along the road along several hundreds of meters and is visible also on              dipping normal fault rooting in the Cretan detachment (Fig. 6B).
+the left bank of the river. The carbonates are intensely brecciated in a                Further north, the main active faults (Xylokastro, Helike) along the
+several tens of meters thick zone. A number of shallow-dipping normal               southern shore of the gulf have induced a signiﬁcant uplift of the rift
+faults can be observed within the breccia. They all dip northward and               shoulder (Armijo et al., 1996). The wavelength of the elastic ﬂexure
+indicate an almost N–S direction of extension, oblique on the stretching            evidenced by the deformation of terraces in the east implies a deep-
+lineation observed below the Cretan detachment, but parallel to the                 seated fault that cuts the entire brittle part of the crust (Armijo et al.,
+present-day extension direction across the Corinth Rift. We interpret it            1996). This observation implies that these steeply-dipping faults cut
+as a recent feature related to the Zaroukla decollement. Several faults             through the more superﬁcial detachments and were thus active at a more
+located further south, such as the Agridi fault root onto the decollement           recent stage. This is compatible with seismological observations
+that is, however, clearly cut by one or several steeper faults, such as the         suggesting that these faults are planar down to the brittle–ductile
+Tsivlos Fault that limits the Tsivlos syn-rift basin to the south (Fig. 5).         transition (Jackson et al., 1982; Jackson and White, 1989), with the results
+The geometry of the basin with fan-shaped deposits suggests that the                of drilling through the Aigion Fault (Cornet et al., 2004a) and with the
+fault root into a rather shallow decollement (Flotté and Sorel, 2001) that          timing of syn-rift deposits on the southern shore (Rohais et al., 2007a,b).
+could be the reactivation of the Cretan detachment, that is the nearest                 Offshore structures are constrained by 1) several seismic proﬁles that
+weak level.                                                                         show either the most recent deposits with a clear half-graben geometry
+    Finally, the geology of the Zaroukla–Feneos window shows that two               compatible with the presence of major faults on the southern shore
+important discontinuities of the nappe stack could play a role during               (Higgs, 1988) or deeper structures showing a more distributed extension
+extension and provides the following chronology: 1) the Cretan                      with north- and south-dipping faults, but still a clear asymmetry in the
+detachment, which exhumed the HP–LT PQ nappe during the Late                        recent deposits with a depocentre near the southern shore (Clément,
+Oligocene and Early Miocene, might have been partly reworked during                 2000; Sachpazi et al., 2003), 2) the southward migration of the
+the recent period, 2) the Zaroukla decollement, located at the base of the          depocentre through time (Moretti et al., 2003), 3) seismic proﬁles
+GT carbonates and above the Tyros Beds, shows kinematics compatible                 imaging deeper portions of the crust and advocating for the presence of a
+with the direction of extension during the formation of the Corinth rift,           shallow north-dipping fault (Bernard et al., 1997), and 4) a seismogenic
+and 3) the Zaroukla decollement is cut by steep faults that may root in             shallow-dipping zone associated with low seismic velocities and
+the deeper Cretan detachment, located deeper between the Tyros beds                 probable intense ﬂuid circulations (Gautier et al., 2006) (Fig. 6).
+and the underlying PQ nappe. From Crete to the southern limit of the                    We thus consider three main shear zones in our section, from top to
+Corinth rift, the Hellenic crust has thus been structured by a succession of        base: the Zaroukla decollement, the Cretan detachment (reactivated as a
+tectonic processes: nappe stacking, syn-orogenic exhumation of the PQ               decollement) and a thick shallow-dipping shear zone located above and
+                                                                 L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                              295
+
+
+
+
+Fig. 6. Interpretative balanced cross-sections through the Corinth Rift showing the relative positions of the movement zones observed or postulated on land (Sorel, 2000; Flotté and
+Sorel, 2001; Flotté et al., 2005), active normal faults cutting through the decollements on the southern shore (Armijo et al., 1996), the microseismicity zone (Rigo et al., 1996; Lyon-
+Caen et al., 2004) close to the brittle–ductile transition and the associated focal mechanisms (Rigo et al., 1996; Bernard et al., 1997, 2006), a zone of high ﬂuid content shown by a
+detailed tomographic study (Gautier et al., 2006). (A) Crustal-scale cross-section showing the three decollement levels (red lines) and the extension at depth of the brittle–ductile
+shear zone in the middle crust. The red dotted line is the outline of the ﬂuid-rich zone inferred from seismic tomography (Gautier et al., 2006). (B) Details of the upper part of the
+section and the relations between the Zaroukla and Cretan detachments (TB: Tyros Beds, PQ: Phyllite–Quartzite).
+
+
+
+
+within the brittle–ductile transition. This deep decollement is envisaged                     this paper. The total amount of offset along the Helike fault system is
+as a shallow-dipping thick zone of deformation including some                                 unknown as some more faults might be hidden below the syn-rift
+cataclastic ﬂow at the top, leading to the observed microseismicity and                       sediments offshore. The depth of the contact between the GT nappe and
+ductile ﬂow at the base. All three shallow-dipping shear zones, connected                     the PQ nappe north of the Aigion fault is thus difﬁcult to constrain. Armijo
+by steeply-dipping ramps, constitute a crustal-scale detachment.                              et al. (1996) estimate the total offset along the Xylokastro fault to ∼7 km
+   The question then is how the Cretan detachment continues north of                          based on modelling of the observed ﬂexure, using a long-term elasticity
+the Helike and Aigion faults below the gulf. A possible connection with                       parameter. They also suggest that the cumulative offset tends to decrease
+the Itea–Amﬁssa detachment (Papanikolaou et al., 2009) north of the Gulf                      westward. The Helike fault has a geometry quite similar to the Xylokastro
+should also be envisaged but it has not been studied in the framework of                      fault but such a large displacement is excluded by the result of drilling
+
+
+
+
+Fig. 7. Restored cross-section of the upper crustal portion of the Corinth Rift. This part of the section has been balanced using the Pindos–Gavrovo–Tripolitza interface as a reference
+line. All blocks between normal faults are rigid except the block north of the Tsivlos fault that has been distorted to take into account the roll-over structure.
+296                                                     L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+across the Aigion fault that shows the presence of the Pindos-like                   culmination with a deeper root zone for normal faults in the east. The
+lithologies at a depth of ∼400 m only, in the hangingwall of the fault               Zaroukla decollement pierces the surface right above the culmination. It
+(Cornet et al., 2004b). The geometry of syn-rift sediments shown on the              is thus possible that a pre-existing dome, formed during the Miocene
+cross-section of Fig. 6 is based upon the analysis of Flotté and Sorel (2001)        phase of exhumation, has localised the detachment zone on its eastern
+but, according to the authors themselves, this part of the section is poorly         ﬂank during the recent rifting episode.
+constrained. Nevertheless, the total amount of displacement between the                   Deeper structures and details of the present-day deformation regime
+footwall of the Helike Fault and the hangingwall of the Aigion Fault                 below the active rift can only be guessed, but a comparison with the
+cannot be more than 2–4 km, depending upon the geometry of the syn-                  nearby Cyclades can bring interesting insights if our assumption of a
+rift deposits between the two faults. This value is similar to some estimate         continuum of extension holds.
+of subsidence of the hangingwall of the Helike Fault (McNeill and Collier,                In the Cyclades two main types of detachments are exposed. The
+2004). If a total larger displacement has to be found it must be mostly              ﬁrst type is exposed along the southern coast of Tinos or on Syros
+accommodated offshore but with a total amount smaller than to the east,              island where it puts in direct contact well preserved blueschists and
+as attested by the cumulated sediment thickness (Clément et al., 2004)               eclogites in the lower unit and an upper unit without any Eocene HP
+that encompasses a longer time period than the activity of the Helike                metamorphic imprint (Jolivet et al., 2004). Those detachments were
+Fault. Restoring the cross-section (Fig. 7) allows to estimate the amount            active in the Eocene in the upper part of the subduction channel
+of extension. We ﬁnd 8 km for the onshore section, that is twice smaller             (Trotet et al., 2001; Jolivet et al., 2003). The second type of detachment
+than in Flotté and Sorel (2001) on the same section. This difference                 is found on many islands, such as Tinos, Andros, Mykonos, Paros or
+mainly arises from our choice of totally rigid blocks between faults. In             Naxos. They formed some time later from the late Oligocene to the
+addition, the offshore sedimentary basin and its fault pattern have been             Middle Miocene and are responsible for crustal thinning and formation
+restored in a way similar to Sachpazi et al. (2003). The total extension             of the extensional metamorphic domes (Gautier and Brun, 1994a,b).
+then becomes 13 km across the entire rift. If extension has started some             Tinos shows both sets of detachments, the early one on the
+1 Ma ago this leads to an average rate of 13 mm/year grossly compatible              southwestern coast, the later one on the northeast and northern coast.
+with the 1.5 cm/year measured rate (Briole et al., 2000). Recent studies                  We focus our comparison on the northern Cycladic islands of Andros,
+dealing with offshore recent steep faults have estimated extension rates             Tinos and Mykonos that are aligned along a NW–SE axis prolonging the
+in the western part of the Gulf, 8–16 mm/year (McNeill et al., 2005b) or             crustal block of Evia limited by major normal faults (Fig. 3). A NW to SE
+5–14 mm/year (Bell et al., 2008). These rates being in the range of                  gradient of ﬁnite extension has exhumed deeper portions of the crust
+geodetically measured extension velocities those authors conclude that a             during the Miocene (Avigad and Garfunkel, 1989; Jolivet et al., 1994;
+shallow-dipping detachment below is unnecessary. However we have                     Jolivet and Patriat, 1999). Recent and active normal faults dip steeply to
+seen that if the shallow-dipping Zaroukla decollement and Cretan                     the northeast at the latitude of Mt Olympos, and shallow NE-dipping
+detachments have played a role in the formation of the Gulf of Corinth, it           faults have been imaged northeast of Evia (Laigle et al., 2000). In Andros,
+had to be before the formation of the recent steep faults, and the                   Tinos and Mykonos a shallow NE-dipping detachment is observed. A
+extension rate at this period is unknown.                                            crustal-scale shear zone has been described in the footwall of the
+     We have considered throughout this paper a general asymmetric                   detachment (Faure et al., 1991; Gautier and Brun, 1994a; Jolivet et al.,
+structure for the Corinth Rift. Although we have assigned to the north-              2004; Mehl et al., 2005, 2007) with a conspicuous NE-trending
+dipping recent faults on the southern margin a throw twice smaller                   stretching lineation, top-to-the-NE shear sense, and a progressive
+compared to Armijo et al. (1996), as suggested by McNeill and Collier                localisation of shear during the transition from ductile (greenschist
+(McNeill and Collier, 2004), we agree with Armijo et al. on the                      facies conditions) to brittle regime. Steeply- and shallowly-dipping
+predominance of north-dipping faults. The main reasons are that (1) the              small-scale normal faults are observed in the footwall and the analysis of
+main active faults are located along the southern margin and that the                the relationships between veins and faults indicates that some of the
+maximum syn-rift sediment thickness is found in the southern half of                 normal faults were originally shallow-dipping (Mehl et al., 2005). Two
+the Gulf even when important south-dipping faults such as the East                   main mechanisms progressively localise the deformation along a few
+Channel Fault have been recognized on seismic reﬂection data (Bell                   major extensional shear zones (Jolivet et al., 2004; Mehl et al., 2005,
+et al., 2009), (2) syn-rift sediments have been uplifted only on the                 2007). The initial localising event is boudinage that is observed at all
+southern margin while the northern margin has been either steady or                  scales. During the transition from ductile to brittle, extensional shear
+slowly subsiding, showing an asymmetry on the long term. The degree                  zones, and then normal faults tend to localise within the necks between
+of asymmetry and the throw of the north-dipping faults seem to                       boudins. This is seen at the scale of the outcrop and the evolution seen
+decrease and south-dipping faults become more signiﬁcant westward.                   on Andros island suggests that it works also at the scale of the crust.
+                                                                                     Some of the shear zones and faults were then invaded by ﬂuids coming
+5. Comparison with the northern Cycladic metamorphic core                            from the surface (Famin et al., 2004a,b, 2005), allowing (1) the
+complexes and detachments                                                            formation of weak metamorphic phases and (2) a weakening of the
+                                                                                     rock material, thus promoting further localisation. Deeper in the crust
+    The cross-section of Figs. 6 and 7 shows that available data are                 the deformation was less localised at higher temperature, and the cases
+compatible with a series of three movement zones reaching deeper                     of Mykonos and Naxos show clear evidence for intense partial melting
+portions of the crust northward, making altogether a crustal-scale                   (Jansen and Schuilling, 1976; Gautier et al., 1993; Vanderhaeghe, 2004;
+detachment. The two upper decollements are due to the presence of                    Duchêne et al., 2006). Within the upper crust much of the displacement
+shallow-dipping low-strength levels in the crust before the formation                is likely accommodated by cataclastic ﬂow in a zone of ﬁnite thickness
+of the rift and correspond to inherited structures (stratigraphic                    and not on a simple fault plane, only the last increments of motion being
+contacts, nappe contacts and/or extensional shear zones). The lower                  truly brittle (Mehl et al., 2005, 2007).
+shear zone using the brittle–ductile transition can be controlled by the                  Fig. 8 illustrates some of the characteristic features of the
+effects of ﬂuids on rock strength (Gueydan et al., 2003, 2004; Gautier               extensional deformation and indicates where similar structures
+et al., 2006). The presence of a north-dipping detachment partly                     can be expected below the Corinth Rift. The detachment itself is
+controlling the deformation in the Corinth rift is compatible with the               illustrated by the three examples of Andros (Mehl et al., 2007),
+overall crustal structure that suggests a shallower Moho north of the                Tinos (Jolivet and Patriat, 1999; Jolivet et al., 2004; Mehl et al.,
+gulf and not immediately beneath it (Tiberi et al., 2001).                           2005) and Mykonos.
+    As discussed by Ghisetti and Vezzani (2002) the geometry of normal                    Along the northeastern coast of Andros the detachment is exposed
+faults and syn-rift basins are different east and west of the Zaroukla               between an upper plate made of greenschists and serpentinite cut by
+                                                                                                                                                                                                                                              L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+Fig. 8. A complete crustal-section of the Corinth Rift using information taken in exhumed deep equivalent of the Cyclades (see text for explanation). Left is a scheme of the strength of such a proﬁle with the three low-strength levels.
+
+
+
+
+                                                                                                                                                                                                                                              297
+298                                                            L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+a set of NE-dipping normal faults that root on the main shallow-                                On Mykonos island, the shallow-dipping detachment is divided in
+dipping detachment (Fig. 8C). The lower plate is made of the Cycladic                       two branches. The lower branch is ductile and it separates an upper
+Blueschists, highly retrograded in the greenschists facies during                           plate made of greenschist metabasites from a granite dated from the
+exhumation and later extension. A level of cataclasites, formed at the                      Late Miocene (Sanchez-Gomez et al., 2002; Brichau et al., 2008). The
+expense partly of the serpentinite and partly of the underlying                             granite intrudes the upper plate and a ductile deformation localised
+micaschists is observed below the main fault. In the core complex                           along the contact. This deformation is observed in the whole pluton
+itself the Oligo-Miocene deformation is characterized by an intense                         (Faure et al., 1991) and its intensity increases when approaching the
+foliation boudinage that is observed at all scales. Boudins' shape                          contact. The upper branch of the detachment separates the metabasites
+evolves from symmetrical in the southwestern part of the island                             from a coarse sedimentary breccia at the base and syntectonic
+(Fig. 8E) to asymmetrical in the northeastern part (Fig. 8F), when                          sandstones and conglomerates that rework the underlying granite at
+getting close to the detachment. Numerous shallow and steeply-                              the top (Fig. 8B). The sediments are cut by steep faults rooting on the
+dipping shear zones and faults are associated to the ductile then                           shallow-dipping (12–15°) detachment. The dip of normal faults is
+brittle expression of this boudinage. Some of these shear zones and                         compatible with the regional top-to-the-NE shear sense seen in the
+faults can be much larger in size. They are observed close to the                           granite and along the ductile branch of the detachment. A zone of
+detachment and they can be followed along several hundreds of                               cataclasite of variable thickness (2–10 m) is developed at the expense of
+meters. These characteristics are those expected in the vicinity of a                       the metabasites.
+large-scale shear zone with a shallow-dip working during exhuma-                                On Fig. 8 we have extended the cross-section of Fig. 6 at depth
+tion across the ductile–brittle transition.                                                 using a comparison with the Cyclades based on the following
+    On Tinos island, like on Andros, the detachment is located between                      observations: (1) the general sense of asymmetry is similar in the
+an upper plate made of greenschists, metagabbros and serpentinite and                       case of Corinth and of the Cyclades, top-to-the-north shear sense
+a lower plate made of the Cycladic Blueschists. The upper plate is cut by                   below and close or within the brittle–ductile transition, (2) the depth
+NE-dipping steep faults (Fig. 9) and steep tension gashes (Fig. 8D) and                     of the shallow-dipping seismogenic zone is just above or partly within
+some ductile deformation is observed near its base on the islet of Planitis                 the depth where greenschist facies parageneses are expected, and
+along the NE coast of Tinos. The lower plate shows a strong strain                          (3) the shear zone active below the rift is probably invaded by ﬂuids
+gradient and greenschist retrogression from SW to NE when approach-                         exactly as the shear zones in the Cyclades.
+ing the detachment. Boudinage and shallow-dipping shear zones are                               Pressure conditions within the seismogenic zone can be directly
+more and more intense toward the NE and an evolution from ductile to                        deduced from the depth and are compatible with the greenschist facies.
+brittle is observed with the persistence of the same direction of                           Temperature estimates can be inferred from heat ﬂux constraints. A low
+stretching and top-to-the-NE shear sense through time. Ductile shear                        gradient of the order of 23°/km was obtained in the Aigion well above
+bands are often reworked as brittle faults. The detachment itself is a                      the Aigion fault and the temperature was constant below (Cornet et al.,
+clear cut shallow-dipping fault (10°) associated to a zone of talc-rich                     2004b). This suggests that a strong advection is present within the karst
+cataclasites of variable thickness and a set of steep and shallow-dipping                   and that the temperature gradient above the fault might not be
+faults of variable size (Figs. 8D and 10). Fig. 10 shows the foliation in                   representative of the heat ﬂow at crustal scale. The depth of cut-off of
+Kolympithra on the NE coast of Tinos, reworked by shallow-dipping                           seismicity is not unusual for a continental crust in equilibrium. If it
+faults and penetrated by ﬂuids within numerous veins that increase in                       corresponds to the brittle–ductile transition of wet-quartz the ductile
+density upward. It has been shown that the ﬂuids are of meteoric origin                     zone begins immediately below at temperatures above 350 °C compat-
+(Famin et al., 2004b) within the shear zone. Deeper parts of the core                       ible with greenschist facies conditions. Besides, helium isotopic ratios
+complex show only metamorphic ﬂuids of local origin.                                        show that no mantle-derived ﬂuids have reached the surface in the
+
+
+
+
+Fig. 9. Photograph of steep normal faults cutting the hangingwall of the Tinos detachment (near Livada beach). The obvious normal faults all dip toward the northeast suggesting a
+component of top-to-the-northeast shear compatible with the kinematic indicators in the footwall.
+                                                                L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                           299
+
+
+
+
+Fig. 10. Cross-section along the coast near Kolympithra on the NE coast of Tinos. The detachment is located between the upper plate made of serpentinite cropping out on a nearby
+islet and the lower plate here made essentially of micaschists and minor metabasites and marbles. A gradient of strain is observed from SW to NE and the deformation become more
+and more brittle through time. Shallow-dipping normal faults cut and offset the foliation (upper panel) and ﬂuids invade the micaschists in the vicinity of the detachment. Numerous
+quartz veins are observed in the highly retrograded micaschists that evolve progressively into a reddish cataclasite.
+
+
+
+
+Corinth Rift (Cornet et al., 2004b; Pik and Marty, 2008) and no recent                       exhumed through a long process of extension and exhumation during
+volcanic rocks are present in this part of the rift.                                         the Miocene in the Cyclades. We thus propose a tentative complete
+   We thus propose that what is seen below Corinth in the present-                           cross-sectional model of an extending crust. The faults, steep or
+day conﬁguration is in a ﬁrst approach similar to what has been                              shallow-dipping seen in the Cyclades in the vicinity of detachments
+300   L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+                                                                 L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                             301
+
+
+and the observed cataclasites could represent good analogues of the                           the crust. Depending of the exact geometry of the subduction channel a
+microseismicity recorded below the Gulf of Corinth. The invasion of                           dome could already exist at this stage. It must be also noted at this stage
+the shear zones and cataclasites by surface-derived ﬂuids could be                            that the existence of the east Peloponnesus Detachment (Papanikolaou
+good analogues of the ﬂuids suggested by tomographic images below                             and Royden, 2007) related to a Middle Miocene to early Pliocene post-
+Corinth within the zone of microseismicity. The upper part of the                             orogenic extension also introduces a shallow-dipping heterogeneity. At
+Corinth detachment could ﬁnd an analogue in the upper branch of the                           around 1.7 Ma or earlier (3 Ma?) post-orogenic extension starts in the
+Mykonos detachment where sediments are still soft when the faults                             proto-Corinth rift and extension is localised along the pre-existing
+are active.                                                                                   shallow-dipping discontinuities such as the Zaroukla decollement, the
+                                                                                              Cretan detachment or the brittle–ductile transition. The three disconti-
+6. A model of evolution for the Corinth Rift                                                  nuities may be active at the same time and normal faults root on one or
+                                                                                              the other (Le Pourhiet et al., 2004). In the ﬁrst period (before 0.7 Ma)
+    The model we propose for the Corinth Rift shows an asymmetric                             extension is distributed on a rather wide region above the detachment. A
+structure at the scale of the crust with several north-dipping                                set of north-dipping normal faults accommodates the northward motion
+movement zones in low-strength levels. The deep structure is based                            of the hangingwall and small syn-rift basins form. Normal faults
+upon the comparison with the nearby Cycladic metamorphic core                                 progressively cease their activity starting from the south during
+complexes. It is not yet clear whether the deepest of these movement                          localisation of the deformation until a large normal fault reaches directly
+zones is the direct consequence of the presence of the PQ nappe at                            to the lowermost shear zone, the brittle–ductile transition. At this stage
+depth or an intrinsic consequence of the behaviour of the brittle–                            (from 0.7 Ma onward) the entire elastic upper crust is broken and a large
+ductile transition where ﬂuids accumulate with time and help to                               elastic rebound is recorded. This could be due to a higher strain rate due to
+localise shear zones as recorded in the Cyclades.                                             the acceleration of extension some 0.7 Ma leading to a stiffer rheology and
+    Let us ﬁrst recall that this evolution rests on the following major                       thus to brittle faults reaching deeper portions of the crust. The future
+constraints: several recent studies on the southern margin of the rift                        evolution is either the continuation of extension on the same large normal
+document a northward migration of normal faults and depocentres                               faults with little ﬁnite extension or an evolution toward a metamorphic
+(Sorel, 2000; Flotté and Sorel, 2001; Goldworthy and Jackson, 2001;                           core complex and a large ﬁnite extension if the main shear zone at the
+Flotté et al., 2005). A strong regional uplift is associated with the                         brittle–ductile transition remains active and is not cut by the major
+development of the recent coastal faults (Armijo et al., 1996). Older                         normal faults.
+faults did not induce such a large regional uplift conﬁrming that they do                         Although resolution in time is not sufﬁcient to say whether the
+not cut through the entire elastic crust and are thus quite superﬁcial                        various Cycladic domes formed contemporaneously or one after the
+structures. A recent study (Rohais et al., 2007a,b) shows a progressive                       other, the main difference between the Gulf of Corinth and the
+northward extinction of normal faults during the period 1.5–0.7 Ma                            Cycladic core complexes could be a more important localisation of
+before the localisation of deformation along the major active faults. A                       deformation on a single structure in Corinth; most authors consider-
+signiﬁcant change in the behaviour of normal faults thus occurred some                        ing indeed that the extensional regime has changed between the
+0.7 Ma ago. The recent faults seem to affect a deeper portion of the crust                    distributed Cycladic extension and the more localised extension in the
+than older ones, and they affect the entire upper elastic crust. The overall                  Corinth Rift. As discussed above, this might be due to a progressive
+amount of extension is limited but an acceleration occurred 0.7 Ma ago.                       localisation process that started some 5 Ma ago, at the same time as
+Before this abrupt change in deformation and syn-rift deposits,                               the North Anatolian Fault migrated in the Aegean domain. Whatever
+extension was distributed over a wider region. The difference between                         the causes of this migration, it has localised deformation at its tip
+the western and eastern part of the Gulf could be due to the pre-rift                         between the North Aegean Trough and the Kephalonia Fault. An
+structure of the Hellenic chain before the Pliocene as proposed by                            additional difference is the fact that the shallow-dipping surfaces have
+Ghisetti and Vezzani (2005). Thicker syn-rift deposits in the east could                      been cut in the recent period by steep faults and that a core complex
+be the result of a deeper decollement in the east and normal faults                           has not formed and may never form south of the Gulf. Intuitively, this
+reaching deeper portions of the crust. Furthermore, the larger depth of                       will all depend upon the stability of these faults through time. If
+the decollement in the east could explain that it is seismologically silent,                  extension keeps going on the same faults the detachment will have
+as it would be below the brittle–ductile transition. An alternative, or                       deﬁnitely ended its activity. If on the contrary these faults are only
+additional, explanation is that ﬁnite extension is larger in the east as                      transient features one may expect a new period of exhumation by the
+suggested by the overall width of the rift and the total syn-rift deposit                     detachment or its future equivalents.
+thickness on the southern margin, and that the eastern section
+represents a more advanced stage with a stronger overall subsidence                           7. Conclusions
+before the main active faults localised on the southern coast. This second
+suggestion is similar to the proto-Corinth Rift that would have been                             We have explored in this paper a comparison between the active
+reactivated by the recent extension (Armijo et al., 1996).                                    Corinth Rift and the Oligo-Miocene metamorphic core complexes of
+    The ﬁrst stage in the reconstruction (Fig. 11) is set after the end of syn-               the nearby Cyclades. Similarities appear in terms of kinematics,
+orogenic exhumation, before inception of crustal-scale post-orogenic                          geometry and P–T-ﬂuids' conditions. The role possibly played by the
+extension. HP–LT units such as the PQ nappe have been exhumed within                          Phyllite–Quartzite nappe, a low-strength lithology in the Hellenic
+the subduction channel, below a syn-orogenic detachment that forms the                        crust, in the extension process of the Corinth Rift has been discussed.
+roof of the channel. This detachment introduces a planar heterogeneity in                     Structural and metamorphic data on the PQ nappe from Crete to the
+
+
+Fig. 11. A possible evolution of the Corinth Rift from the pre-rift stage to the present and a speculative future evolution toward a metamorphic core complex. The pre-rift stage shows
+a possible structure after the exhumation of the Phyllite–Quartzite HP–LT rocks below a syn-orogenic detachment during the Oligo-Miocene. This ﬁrst stage induces the formation of
+a dome and the eastern ﬂank of this dome is reworked as an extensional shear zone during rifting. During the ﬁrst rifting stages (from 3 to 1.5 Ma) the extension is widely distributed
+along several normal faults that root on the detachment. The detachment is brittle in the upper crust with a thick zone of cataclasites. It becomes ductile across the brittle–ductile
+transition. From 1.5 Ma to 0.6–0.7 Ma the extension tends to localise and faults become progressively extinct toward the north. 0.7 Ma ago, possibly because of an acceleration of
+extension, the presently active faults form on the southern shore of the Gulf and they reach deeper portions of the crust, down to the brittle–ductile transition. The northern
+Peloponnese, footwall of these faults, is ﬂexed upward. The upper part of the detachment becomes extinct and the large faults root into an active decollement zone above and within
+the brittle–ductile transition. Cataclastic deformation above the brittle–ductile transition is manifested by the microseismicity recorded around Aigion. Further east the decollement
+is deeper and probably entirely ductile. The future evolution is based upon the assumption that the main normal faults seen today are transient structures and that the decollement
+continues its activity until the exhumation of the ductile crust and the formation of a metamorphic core complex similar to those observed in the Cyclades.
+302                                                                     L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+
+Peloponnese show that a signiﬁcant pressure-gap exists between the                                        Veis, G., 1997. The Ms= 6.2, June 15, 1995 Aigion earthquake(Greece): evidence for
+                                                                                                          low angle normal faulting in the Corinth rift. J. Seismol. 1, 131–150.
+PQ nappe and the overlying tectonic unit, the Gavrovo–Tripolitza                                     Bernard, P., Lyon-Caen, H., Briole, P., Deschamps, A., Boudin, F., Makropoulos, K.,
+nappe, including its base, the Tyros Beds. The pressure gap is best                                       Papadimitriou, P., Lemeille, F., Patau, G., Billiris, H., Paradissis, D., Papazissi, K.,
+interpreted as a detachment, further attested by the localisation of                                      Castarède, H., Charade, O., Nercessian, A., Avallone, A., Pacchiani, F., Zahradnik, J.,
+                                                                                                          Sacks, S., Linde, A., 2006. Seismicity, deformation and seismic hazard in the western
+retrograde deformation along a shear zone at the top of the PQ nappe.                                     rift of Corinth: new insights from the Corinth Rift Laboratory (CRL). Tectonophysics
+The comparison with the Cyclades where post-orogenic detachments                                          426, 7–30.
+have been described suggest that the Cyclades can provide good                                       Billiris, H., Paradisis, D., Veis, G., England, P., Featherstone, W., Parsons, B., Cross, P.,
+                                                                                                          Rands, P., Rayson, M., Sellers, P., Ashkenazi, V., Davison, M., Jackson, J., Ambraseys,
+analogues of the deformation active below the Gulf of Corinth at the
+                                                                                                          N., 1991. Geodetic determination of tectonic deformation in central Greece from
+depth of the brittle–ductile transition. If our scenario holds, the                                       1900 to 1988. Nature 350, 124–129.
+Aegean region would be a well-suited region to study both active                                     Blake, M.C., Bonneau, M., Geyssant, J., Kienast, J.R., Lepvrier, C., Maluski, H.,
+                                                                                                          Papanikolaou, D., 1981. A geological reconnaissance of the Cyclacic blueschist
+extension with its seismological and superﬁcial geological features,
+                                                                                                          belt, Greece. Bull. Geol. Soc. Am. 92, 247–254.
+and exhumed deeper extensional strain with its ductile deformation,                                  Bonneau, M., 1982. Evolution géodynamique de l'arc égéen depuis le Jurassique
+P and T conditions and the ﬂuids involved in the localisation process.                                    Supérieur jusqu'au Miocène. Bull. Soc. Géol. Fr. 7, 229–242.
+    The proposed cross-section of the Corinth Rift at the scale of the                               Bonneau, M., 1984. Correlation of the Hellenic nappes in the south-east Aegean and
+                                                                                                          their tectonic reconstruction, in The Geological Evolution of the Eastern Mediterranean.
+crust and its evolution through time ﬁt a number of ﬁrst-order                                            In: Dixon, J.E., Robertson, A.H.F. (Eds.), Special Publication of the Geological Society of
+observations: the general asymmetry of the Corinth rift on a time                                         London. Blackwell Scientiﬁc Publications, Oxford, pp. 517–527.
+scale of at least 1.5 Ma, the presence of a seismogenic shallow-dipping                              Bonneau, M., Kienast, J.R., 1982. Subduction, collision et schistes bleus: exemple de
+                                                                                                          l'Egée, Grèce. Bull. Soc. Géol. Fr. 7, 785–791.
+zone and a ﬂuid-rich layer near the brittle–ductile transition, the                                  Bozkurt, E., Oberhänsli, R., 2001. Menderes Massif (Western Turkey): structural,
+northward migration of faults on the southern margin, the transition                                      metamorphic and magmatic evolution — a synthesis. Int. J. Earth Sci. 89, 679–708.
+from a distributed extension and shallow faults to a more localised                                  Brichau, S., Ring, U., Carter, A., Bolhar, R., Monié, P., Stockli, D., Brunel, M., 2008. Timing,
+                                                                                                          slip rate, displacement and cooling history of the Mykonos detachment footwall,
+one with steep and deep faults some 0.7 Ma ago through progressive                                        Cyclades, Greece, and implications for the opening of the Aegean Sea basin. J. Geol.
+localisation. A question however remains: is the quite abrupt and                                         Soc. London 165, 263–277.
+recent localisation of deformation on the main presently active faults                               Brichau, S., Ring, U., Carter, A., Monie, P., Bolhar, R., Stockli, D., Brunel, M., 2007.
+                                                                                                          Extensional faulting on Tinos Island, Aegean Sea, Greece: how many detachments?
+an intrinsic feature of the localisation process, or does it imply a                                      Tectonics 26. doi:10.1029/2006TC001969 TC4009.
+change in the boundary conditions such as a velocity increase?                                       Briole, P., Rigo, A., Lyon-Caen, H., Ruegg, J.C., Papazissi, K., Mitsataki, C., Badolimou, A.,
+                                                                                                          Veis, G., Hatzfeld, D., Deschamps, A., 2000. Active deformation of the Corinth rift,
+                                                                                                          Greece: results from repeated Global Positionning System surveys between 1990
+Acknowledgments                                                                                           and 1995. J. Geophys. Res. 105, 25605–25626.
+                                                                                                     Brun, J.P., Choukroune, P., 1983. Normal faulting, block tilting and décollement in a
+                                                                                                          stretched crust. Tectonics 2 (4), 345–356.
+   The authors wish to thank those colleagues who helped them during                                 Brun, J.P., Gutscher, M.A., Teams, D.-E., 1992. Deep crustal structure of the Rhine Graben
+the preparation of this paper through discussion in the lab and in the ﬁeld:                              from DEKORP-ECORS seismic reﬂection data: a summary. Tectonophysics 208,
+Bertrand Meyer, Laetitia Le Pourhiet, Rolando Armijo and Robin Lacassin,                                  139–147.
+                                                                                                     Burchﬁel, B.C., Hodges, K.V., Royden, L.H., 1987. Geology of Panamint Valley–Saline
+as well as Hélène Lyon-Caen who kindly provided us with the                                               Valley pull-apart system, California; palinspastic evidence for low-angle geometry
+microearthquakes data ﬁle. Thanks are also due to Mary Ford, Douwe                                        of a Neogene range-bounding fault. J. Geophys. Res. 92, 10422–10426.
+van Hinsbergen and anonymous reviewers who provided constructive                                     Chéry, J., 2001. Core complex mechanics: from the gulf of Corinth to the Snake Range.
+                                                                                                          Geology 29 (5), 439–442.
+comments on earlier versions of this paper. This paper is a contribution of                          Clément, C., 2000. Imagerie sismique crustale de la subduction Hellènique et du golfe de
+the ANR EGEO project.                                                                                     Corinthe. Université Paris 7, Paris. 178 pp.
+                                                                                                     Clément, C., Sachpazi, M., Charvis, P., Graindorge, D., Laigle, M., Hirn, A., Zaﬁropoulos, G.,
+                                                                                                          2004. Reﬂection–refraction seismics in the Gulf of Corinth: hints at deep structure
+References                                                                                                and control of the deep marine basin. Tectonophysics 391, 85–95.
+                                                                                                     Colletta, B., Quellec, P.L., Letouzey, J., Moretti, I., 1987. Longitudinal evolution of the Suez
+Abers, G.A., 1991. Possible seismogenic shallow-dipping normal faults in the Woodlark-                    rift (Egypt). Tectonophysics 153, 221–233.
+     d'Entrecasteaux extensional province, Papua New Guinea. Geology 19, 1205–1210.                  Collettini, C., Holdsworth, R.E., 2004. Fault zone weakening and character of slip along
+Abers, G.A., Mutter, C.Z., Fang, J., 1997. Earthquakes and normal faults in the Woodlark-                 low-angle normal faults: insights from the Zuccale fault, Elba, Italy. J. Geol. Soc.
+     d'Entrecasteaux rift system, Papua New Guinea. J. Geophys. Res. 102, 15301–15317.                    London 161, 1039–1051.
+Ambraseys, N.N., Jackson, J.A., 1990. Seismicity and associated strain of central Greece             Collier, R.E.L., 1990. Eustatic and tectonic controls upon Quaternary coastal sedimen-
+     between 1890 and 1988. Geophys. J. Int. 101, 663–708.                                                tation in the Corinth Basin, Greece. J. Geol. Soc. London 147, 301–314.
+Armijo, R., Lyon-Caen, H., Papanikolaou, D., 1992. East-West extension and Holocene                  Collier, R.E.L., Leeder, M.R., Rowe, R.J., Atkinson, T.C., 1992. Rates of tectonic uplift in the
+     normal fault scarps in the Hellenic arc. Geology 20, 491–494.                                        Corinth and Megara basins, Central Greece. Tectonics 11, 1159–1167.
+Armijo, R., Meyer, B., Hubert, A., Barka, A., 1999. Westward propagation of the north                Coney, P.J., Harms, T.A., 1984. Cordilleran metamorphic core complexes, Cenozoic
+     Anatolian into the northern Aegean: timing and kinematics. Geology 27 (3), 267–270.                  extensional relics of Mesozoic compression. Geology 12, 550–554.
+Armijo, R., Meyer, B., King, G.C.P., Rigo, A., Papanastassiou, D., 1996. Quaternary                  Cornet, F., Bernard, P., Moretti, I., 2004a. The Corinth Rift Laboratory. C. R. Geosci. 336
+     evolution of the Corinth Rift and its implications for the Late Cenozoic evolution of                (4–5), 235–242.
+     the Aegean. Geophys. J. Int. 126, 11–53.                                                        Cornet, F.H., Doan, M.L., Moretti, I., Bormc, G., 2004b. Drilling through the active Aigion
+Armijo, R., Meyer, B., Navarro, S., King, G., Barka, A., 2002. Asymmetric slip partitionning              Fault: the AIG10 well observatory. C. R. Geosci. 336, 395–406.
+     in the Marmara Sea pull-apart: a clue to propagation processes of the North                     Creutzburg, N., 1977. General geological map of Greece. Crete island. 1:200 000.
+     Anatolian Fault. Terra Nova 14 (2), 80–84.                                                           Institute of Geological and Mining Research, Athens.
+Aubouin, J., Dercourt, J., 1965. Sur la géologie de l'Egée: regard sur la Crète (Grèce). Bull.       Davis, G.H., 1983. Shear-zone model for the origin of metamorphic core complexes.
+     Geol. Soc. France 7 (7), 787–821.                                                                    Geology 11, 342–347.
+Avigad, A., Garfunkel, Z., Jolivet, L., Azañón, J.M., 1997. Back-arc extension and                   Dercourt, J., Zonenshain, L.P., Ricou, L.E., Kuzmin, V.G., Le Pichon, X., Knipper, A.L.,
+     denudation of Mediterranean eclogites. Tectonics 16 (6), 924–941.                                    Grandjacquet, C., Sbortshikov, I.M., Geyssant, J., Lepvrier, C., Pechersky, D.H., Boulin,
+Avigad, D., Garfunkel, Z., 1989. Low-angle faults above and below a blueschist belt:                      J., Sibuet, J.C., Savostin, L.A., Sorokhtin, O., Westphal, M., Bazhenov, M.L., Lauer, J.P.,
+     Tinos Island, Cyclades, Greece. Terra Nova 1, 182–187.                                               Biju-Duval, B., 1986. Geological evolution of the Tethys belt from the Atlantic to the
+Axen, G.J., Fletcher, J.M., Cowgill, E., Murphy, M., Kapp, P., MacMillan, I., Ramos-Velasquez,            Pamir since the Lias. Tectonophysics 123, 241–315.
+     E., Aranda-Gomez, J., 1999. Range-front fault scarps of the Sierra El Mayor, Baja               Duchêne, S., Aïssa, R., Vanderhaeghe, O., 2006. Pressure–temperature–time evolution of
+     California: forme above an active low-angle normal fault ? Geology 27 (3),                           metamorphic rocks from Naxos (Cyclades, Greece): constraints from thermo-
+     247–250.                                                                                             barometry and Rb/Sr dating. Geodyn. Acta 19 (5), 299–319.
+Bell, R.E., McNeill, L.C., Bull, J.M., Henstock, T.J., 2008. Evolution of the offshore western       Famin, V., Hébert, R., Philippot, P., Jolivet, L., 2005. Ion probe and ﬂuid inclusion
+     Gulf of Corinth. GSA Bulletin 120 (1/2), 156–178. doi:10.1130/B26212.1.                              evidences for co-seismic ﬂuid inﬁltration in a crustal detachment. Contrib. Mineral.
+Bell, R.E., McNeill, L.C., Bull, J.M., Henstock, T.J., Collier, R.E.L., Leeder, M.R., 2009. Fault         Petrol. 150 (3), 354–367. doi:10.1007/s00410-005-0031-x.
+     architecture, basin structure and evolution of the Gulf of Corinth Rift, central                Famin, V., Nakashima, S., Jolivet, L., Philippot, P., 2004a. Mobility of metamorphic ﬂuids
+     Greece. Basin Research. doi:10.1111/j.1365-2117.2009.00401.x.                                        inferred from Infrared microspectroscopy on natural ﬂuid-inclusions. An example
+Bernard, P., Briole, P., Meyer, B., Lyon-Caen, H., Gomez-Gonzalez, J.M., Tiberi, C., Berge, C.,           from Tinos Island (Greece). Contrib. Mineral. Petrol. 146, 736–749.
+     Cattin, R., Hatzfeld, D., Lachet, C., Lebrun, B., Deschamp, A., Courboulex, F., Larroque, C.,   Famin, V., Philippot, P., Jolivet, L., Agard, P., 2004b. Evolution of hydrothermal regime along
+     Rigo, A., Massonet, D., Papadimitriou, P., Kassaras, J., Diagourtas, D., Makropoulos, K.,            a crustal shear zone, Tinos island, Greece. Tectonics 23. doi:10.1029/2003TC001509.
+                                                                         L. Jolivet et al. / Tectonophysics 483 (2010) 287–304                                                                          303
+
+Fassoulas, C., Kilias, A., Mountrakis, D., 1994. Postnappe stacking extension and                      Jolivet, L., Faccenna, C., Goffé, B., Burov, E., Agard, P., 2003. Subduction tectonics and
+     exhumation of high-pressure/low-temperature rocks in the island of Crete, Greece.                      exhumation of high-pressure metamorphic rocks in the Mediterranean orogens.
+     Tectonics 13, 127–138.                                                                                 Am. J. Sci. 303, 353–409.
+Faure, M., Bonneau, M., Pons, J., 1991. Ductile deformation and syntectonic granite                    Jolivet, L., Famin, V., Mehl, C., Parra, T., Aubourg, C., Hébert, R., Philippot, P., 2004.
+     emplacement during the late Miocene extension of the Aegean (Greece). Bull. Soc.                       Progressive strain localisation, boudinage and extensional metamorphic com-
+     géol. Fr. 162, 3–12.                                                                                   plexes, the Aegean Sea case. In: Whitney, D.L., Teyssier, C., Siddoway, C.S. (Eds.),
+Flerit, F., Armijo, R., King, G., Meyer, B., 2004. The mechanical interaction between the                   Gneiss Domes in Orogeny. Geological Society of America Special Paper 380.
+     propagating North Anatolian Fault and the back-arc extension in the Aegean. Earth                      Geological Society of America, Boulder, Colorado, pp. 185–210.
+     Planet. Sci. Lett. 224, 347–362.                                                                  Jolivet, L., Goffé, B., Bousquet, R., Oberhänsli, R., Michard, A., 1998. Detachements in high
+Flotté, N., Sorel, D., 2001. Structural cross-section through the Corinth–Patras detachment                 pressure mountains belts, Tethyan examples. Earth Planet. Sci. Lett. 160, 31–47.
+     fault-system in northern Peloponnesus (Aegean arc, Greece). Bull. Soc. Geol. Greece               Jolivet, L., Goffé, B., Monié, P., Truffert-Luxey, C., Patriat, M., Bonneau, M., 1996. Miocene
+     XXXIV/1, 235–241.                                                                                      detachment in Crete and exhumation P–T–t paths of high pressure metamorphic
+Flotté, N., Sorel, D., Müller, C., Tensi, J., 2005. Along strike changes in the structural                  rocks. Tectonics 15 (6), 1129–1153.
+     evolution over a brittle detachment fault: example of the Pleistocene Corinth–                    Jolivet, L., Patriat, M., 1999. Ductile extension and the formation of the Aegean Sea.
+     Patras rift (Greece). Tectonophysics 403, 77–94.                                                       In: Durand, B., Jolivet, L., Horvàth, F., Séranne, M. (Eds.), The Mediterranean basins:
+Ford, M., Williams, E.A., Malartre, F., Popescu, S.P., 2007. Stratigraphic architecture,                    Tertiary Extension within the Alpine Orogen. Geological Society Special Publication.
+     sedimentology and structure of the Vouraikos Gilbert-type delats, Gulf of Corinth,                     Geological Society, London, pp. 427–456.
+     Greece. In: Paola, C., Nichols, G.J., Williams, E.A. (Eds.), I. A. S. Special Publication.        Jolivet, L., Trotet, F., Monié, P., Vidal, O., Goffé, B., Labrousse, L., Agard, P., Ghorbal, B., 2010.
+Garcès, M., Gee, J.S., 2007. Paleomagnetic evidence of large footwall rotations associated                  Along-strike variations of P–T conditions in accretionary wedges and syn-orogenic
+     with low-angle faults at the Mid-Atlantic Ridge. Geology 35 (3), 279–282.                              extension, the HP-LT Phyllite-Quartzite Nappe in Crete and the Peloponnese.
+Gautier, P., 1994. Géométrie crustale et cinématique de l'extension tardi-orogénique                        Tectonophysics 480 (1-4), 133–148.
+     dans le domaine centre-égéen (iles des Cyclades et d'Eubée, Grèce). Thesis Thesis,                Keraudren, B., Sorel, D., 1987. The terraces of Corinth (Greece) — a detailed record of
+     Université de Rennes.                                                                                  eustatic sea-level variations during the last 500,000 years. Mar. Geol. 77, 99–107.
+Gautier, P., Brun, J.P., 1994a. Crustal-scale geometry and kinematics of late-orogenic                 Kilias, A., Fassoulas, H., Mountrakis, D., 1994. Tertiary extension of continental crust and
+     extension in the central Aegean (Cyclades and Evvia island). Tectonophysics 238,                       exhumation of Psiloritis “metamorphic core complex” in the central part of the
+     399–424.                                                                                               Hellenic arc (Crete, Greece). Geol. Rundshau 83, 417–430.
+Gautier, P., Brun, J.P., 1994b. Ductile crust exhumation and extensional detachments in                King, G., Ouyang, Z., Papadimitriou, P., Deschamps, A., Gagnepain, A., Houseman, G.,
+     the central Aegean (Cyclades and Evvia islands). Geodin. Acta 7 (2), 57–85.                            Jackson, J., Souﬂeris, C., Virieux, J., 1985. The evolution of the Gulf of Corinth
+Gautier, P., Brun, J.P., Jolivet, L., 1993. Structure and kinematics of upper Cenozoic                      (Greece) an aftershock study of the 1981 earthquake. Geophys. J. R. Astron. Soc. 80,
+     extensional detachement on Naxos and Paros (Cyclades Islands, Greece). Tectonics                       677–693.
+     12, 1180–1194.                                                                                    Klemperer, S.L., 1988. Crustal thinning and nature of extension in the northern North
+Gautier, P., Brun, J.P., Moriceau, R., Sokoutis, D., Martinod, J., Jolivet, L., 1999. Timing,               Sea from deep seismic reﬂection proﬁling. Tectonics 4, 803–821.
+     kinematics and cause of Aegean extension: a scenario based on a comparison with                   Koukouvelas, I.K., Aydin, A., 2002. Fault structure and related basins of the North Aegean
+     simple analogue experiments. Tectonophysics 315 (1–4), 31–72.                                          Sea and its surroundings. Tectonics 21 (5), 1046. doi:10.1029/2001TC901037.
+Gautier, S., Latorre, D., Virieux, J., Deschamps, A., Skarpelos, C., Sotiriou, A., Serpetsidaki, A.,   Kreemer, C., Chamot-Rooke, N., 2004. Contemporary kinematics of the southern Aegean
+     Tselentis, A., 2006. A new passive tomography of the Aigion Area (Gulf of Corinth,                     and the Mediterranean Ridge. Geophys. J. Int. 157, 1377–1392.
+     Greece) from the 2002 dataset. Pure Appl. Geophys. doi:10.1007/s00024-005-0033-7.                 Kreemer, C., Chamot-Rooke, N., Le Pichon, X., 2004. Constraints on the evolution and
+Ghisetti, F., Vezzani, L., 2002. Normal faulting, transcrustal permeability and                             vertical coherency of deformation in the Northern Aegean from a comparison of
+     seismogenesis in the Apennines (Italy). Tectonophysics 348 (155–168).                                  geodetic, geologic and seismologic data. Earth Planet. Sci. Lett. 225, 329–346.
+Ghisetti, F., Vezzani, L., 2005. Inherited structural controls on normal fault architecture in         Kusznir, N.J., Park, R.G., 1987. The extensional strength of the continental lithosphere:
+     the Gulf of Corinth (Greece). Tectonics 24 (TC4016). doi:10.1029/2004TC001696.                         its dependance on geothermal gradient, and crustal composition and thickness.
+Goldworthy, M., Jackson, J., 2001. Migration of activity within normal fault systems:                       In: Coward, M.P., Dewey, J.F., Hancock, P.L. (Eds.), Continental Extensional Tectonics.
+     examples from the Quaternary of mainland Greece. J. Struct. Geol. 23, 489–506.                         Geological Society Special Publication, pp. 35–52.
+Gueydan, F., Leroy, Y., Jolivet, L., 2004. Mechanics of low-angle extensional shear zones at the       Laigle, M., Hirn, A., Sachpazi, M., Roussos, N., 2000. North Aegean crustal deformation: an
+     brittle–ductile transition. J. Geophys. Res. 109 (B12407). doi:10.1029/2003JB002806.                   active fault imaged to 10 km depth by reﬂection seismic data. Geology 28 (1), 71–74.
+Gueydan, F., Leroy, Y., Jolivet, L., Agard, P., 2003. Analysis of continental midcrustal               Le Pichon, X., 1982. Land-locked oceanic basins and continental collision, the eastern
+     strain localization induced by microfracturing and reaction-softening. J. Geophys.                     Mediterranean as a case example. In: Hsue, K.J. (Ed.), Mountain Building Processes.
+     Res. 108 (B2). doi:10.1029/2001JB000611 ETG 1-1.                                                       Academic Press, London, pp. 201–211.
+Hatzfeld, D., Karakostas, V., Ziazia, M., Kassaras, I., Papadimitriou, E., Makropoulos, K.,            Le Pichon, X., Angelier, J., 1979. The Hellenic arc and trench system: a key to the
+     Voulgaris, N., Papaioannou, C., 2000. Microseismicity and faulting geometry in the                     neotectonic evolution of the eastern Mediterranean area. Tectonophysics 60, 1–42.
+     Gulf of Corinth (Greece). Geophys. J. Int. 141, 438–456.                                          Le Pichon, X., Chamot-Rooke, N., Lallemant, S.L., Noomen, R., Veis, G., 1995. Geodetic
+Hayman, N.W., Knott, J.R., Cowan, D.S., Nemser, E., Sarna-Wojcicki, A.M., 2003. Quaternary                  determination of the kinematics of Central Greece with respect to Europe:
+     low-angle slip on detachement faults in Death Valley, California. Geology 31 (4),                      implications for eastern Mediterranean tectonics. J. Geophys. Res. 100, 12675–12690.
+     343–346.                                                                                          Le Pichon, X., Chamot-Rooke, N., Rangin, C., Sengor, A.M.C., 2003. The North Anatolian
+Hetzel, R., Passchier, C.W., Ring, U., Dora, O.O., 1995. Bivergent extension in orogenic                    Fault in the Sea of Marmara. J. Geophys. Res. 108. doi:10.1029/2002JB001862.
+     belts: the Menderes massif (southwestern Turkey). Geology 23, 455–458.                            Le Pourhiet, L., Burov, E., Moretti, I., 2004. Rifting through a stack of inhomogeneous thrusts
+Higgs, B., 1988. Syn-sedimentary structural controls on basin formation in the Gulf of                      (the dipping pie concept). Tectonics 23 (TC4005). doi:10.1029/2003TC001584.
+     Corinth, Greece. Basin Res. 1, 155–165.                                                           Le Pourhiet, L., Mattioni, L., Moretti, I., 2006. 3D modelling of rifting through a pre-
+Houghton, S.L., Roberts, G.P., Papanikolaou, I.D., McArthur, J.M., Gilmour, M.A., 2003. New                 existing stack of nappes in the Gulf of Corinth (Greece) a mixed analogue/
+     234U-230Th coral dates from the western Gulf of Corinth: implications for extensional                  numerical approach. In: Buiter, S.J.H., Schreurs, G. (Eds.), Analogue and Numerical
+     tectonics. Geophys Res. Lett. 30 (19), 2013. doi:10.1029/2003GL018112.                                 Modelling of Crustal-Scale Processes. Special Publications. Geological Society,
+Huet, B., Labrousse, L., Jolivet, L., 2009. Thrust or detachment? Exhumation processes                      London, pp. 233–252.
+     in the Aegean: insight from a ﬁeld study on Ios (Cyclades, Greece). Tectonics 28,                 Leeder, M.R., Mack, G.H., Brasier, A.T., Parrish, R.R., McIntosh, W.C., Andrews, J.E.,
+     TC3007. doi:10.1029/2008TC002397.                                                                      Duermeijer, C.E., 2008. Late-Pliocene timing of Corinth (Greece) rift-margin fault
+Jackson, J., 1994. Active tectonics of the Aegean region. Annu. Rev. Earth Planet. Sci. 22,                 migration. Earth Planet. Sci. Lett. 274, 132–141. doi:10.1016/j.epsl.2008.07.006.
+     239–271.                                                                                          Lister, G.S., Banga, G., Feenstra, A., 1984. Metamorphic core complexes of cordilleran
+Jackson, J.A., Gagnepain, J., Houseman, G., King, G.C.P., Papadimitriou, P., Souﬂeris, C.,                  type in the Cyclades, Aegean Sea, Greece. Geology 12, 221–225.
+     Virieux, J., 1982. Seismicity, normal faulting and the geomorphological develop-                  Lister, G.S., Davis, G.A., 1989. The origin of metamorphic core complexes and
+     ment of the Gulf of Corinth (Greece): the Corinth earthquakes of February and                          detachment faults formed during Tertiary continental extension in the northern
+     March 1981. Earth Planet. Sci. Lett. 57, 377–397.                                                      Colorado River region, U.S.A. J. Struct. Geol. 11 (1/2), 65–94.
+Jackson, J.A., White, N.J., 1989. Normal fauting in the upper continental crust:                       Lister, G.S., Etheridge, M.A., Symonds, P.A., 1986. Detachment faulting and the evolution
+     observations from regions of active extension. J. Struct. Geol. 11 (1/2), 15–36.                       of passive continental margins. Geology 14, 246–250.
+Jacobshagen, V., Dürr, S., Kockel, F., Kopp, K.O., Kowalczyk, G., Berckhemer, H., Büttner, D.,         Lyon-Caen, H., Armijo, R., Drakopoulos, J., Baskoutass, J., Delibassis, N., Gaulon, R.,
+     1978. Structure and geodynamic evolution of the Aegean region. In: Cloos, H., Roeder,                  Kouskouna, V., Latoussakis, K., Makropoulos, K., Papadimitriou, P., Papanastassiou,
+     D., Schmidt, K. (Eds.), Alps, Apennines, Hellenides. IUGG, Stuttgart, pp. 537–564.                     D., Pedotti, G., 1988. The 1986 Kalamata (South Peloponnesus) earthquake:
+Jansen, J.B.H., Schuilling, R., 1976. Metamorphism on Naxos: petrology and geothermal                       detailed study of a normal fault, evidences for E–W extension in the Hellenic Arc. J.
+     gradient. Am. J. Sci. 276, 1225–1253.                                                                  Geophys. Res. 93, 14967–15000.
+Jolivet, L., 2001. A comparison of geodetic and ﬁnite strain in the Aegean, geodynamic                 Lyon-Caen, H., Papadimitriou, P., Deschamps, A., Bernard, P., Makropoulos, K., Pacchiani,
+     implications. Earth Planet. Sci. Lett. 187, 95–104.                                                    F., Patau, G., 2004. First results of the CRLN seismic network in the western orinth
+Jolivet, L., Brun, J.P., 2010. Cenozoic geodynamic evolution of the Aegen. Int. J. Earth                    Rift: evidence for old fault reactivation. C. R. Geosci. 336, 343–351.
+     Science 99 (1), 109–138.                                                                          Mattei, M., d'Agostino, N., Zanarini, I., Kondopoulou, D., Pavlides, S., Spatharas, V., 2004.
+Jolivet, L., Brun, J.P., Gautier, P., Lallemant, S., Patriat, M., 1994. 3-D kinematics of                   Tectonic evolution of fault-bounded continental blocks: comparison of paleomag-
+     extension in the Aegean from the Early Miocene to the Present, insight from the                        netic and GPS data in the Corinth and Megara basins (Greece). J. Geophys. Res. 109,
+     ductile crust. Bull. Soc. Géol. Fr. 165, 195–209.                                                      B02115. doi:10.1029/2003JB002506.
+Jolivet, L., Faccenna, C., 2000. Mediterranean extension and the Africa–Eurasia collision.             McClusky, S., Balassanian, S., Barka, A., Demir, C., Ergintav, S., Georgiev, I., Gurkan, O.,
+     Tectonics 19 (6), 1095–1106.                                                                           Hamburger, M., Hurst, K., Kahle, H., Kastens, K., Kekelidze, G., King, R., Kotzev, V.,
+304                                                                     L. Jolivet et al. / Tectonophysics 483 (2010) 287–304
+
+     Lenk, O., Mahmoud, S., Mishin, A., Nadariya, M., Ouzonis, A., Paradissis, D., Peter, Y.,        Roberts, G.P., 1996. Noncharacteristics normal faulting surface ruptures from the Gulf of
+     Prilepin, M., Reilinger, R., Sanli, I., Seeger, H., Tealeb, A., Toksöz, M.N., Veis, G., 2000.       Corinth, Greece. J. Geophys. Res. 101 (B11), 25255–25267.
+     Global Positioning System constraints on plate kinematics and dynamics in the                   Rohais, S., Eschard, R., Ford, M., Guillocheau, F., Moretti, I., 2007a. Stratigraphic
+     eastern Mediterranean and Caucasus. J. Geophys. Res. 105, 5695–5720.                                architecture of the Plio-Pleistocene inﬁll of the Corinth Rift, implications for its
+McKenzie, D., 1972. Active tectonics in the Mediterranean region. Geophys. J. R. astr.                   structural evolution. Tectonophysics 440, 5–28.
+     Soc. 30, 109–185.                                                                               Rohais, S., Joannin, S., Colin, J.P., Suc, J.P., Guillocheau, F., Eschard, R., 2007b. Age and
+McKenzie, D., 1978. Active tectonics of the Alpine–Himalayan belt: the Aegean Sea and                    environmental evolution of the syn-rift ﬁll of the southern coast of the Gulf of
+     surrounding regions. Geophys. J. R. astr. Soc. 55, 217–254.                                         Corinth (Akrata–Derveni region, Greece). Bull. Soc. Géol. Fr. 178, 231–243.
+McNeill, L.C., Collier, R.E.L., 2004. Uplift and slip rates of theEastern Eliki fault segment,       Romano, S.S., Dörr, W., Zulauf, G., 2004. Cambrian granitoids in pre-Alpine basement of
+     Gulf ofCorinth, Greece, inferred from Holocene and Pleistocene terraces. J. Geol.                   Crete (Greece): evidence from U–Pb dating of zircon. Int. J. Earth Sci. (Geol. Rundsch)
+     Soc. Lond. 161, 81–92.                                                                              93, 844–859. doi:10.1007/s00531-004-0422-7.
+McNeill, L.C., Collier, R.E., DeMartini, P.M., Pantosti, D., D'Addezio, G., 2005a. Recent            Sachpazi, M., Clément, C., Laigle, M., Hirn, A., Roussos, N., 2003. Rift structure, evolution,
+     history of the Eastern Eliki Fault, Gulf of Corinth: geomorphology, palaeosismology                 and earthquakes in the Gulf of Corinth, from reﬂection seismic images. Earth Planet.
+     and impact on palaeoenvironments. Geophys. J. Int. 161, 154–166.                                    Sci. Lett. 216, 243–257.
+McNeill, L.C., Cotterill, C.J., Henstock, T.J., Bull, J.M., Stefatos, A., Collier, R.E.L.,           Sanchez-Gomez, M., Avigad, D., Heiman, A., 2002. Geochronology of clasts in allochtho-
+     Papatheoderou, G., Ferentinos, G., Hicks, S.E., 2005b. Active faulting within the                   nous Miocene sedimentary sequences on Mykonos and Paros islands: implications for
+     offshore western Gulf of Corinth, Greece: implications for models of continental rift               back-arc extension in the Aegean Sea. J. Geol. Soc. London 159, 45–60.
+     deformation. Geology 33 (4), 241–244.                                                           Seidel, E., Kreuzer, H., Harre, W., 1982. The late Oligocene/early Miocene high pressure
+Mehl, C., Jolivet, L., Lacombe, O., 2005. From ductile to brittle: evolution and localization            in the external hellenides. Geol. Jb. E23, 165–206.
+     of deformation below a crustal detachment (Tinos, Cyclades, Greece). Tectonics 24,              Seidel, M., Seidel, E., Stöckhert, B., 2007. Tectono-sedimentary evolution of lower to middle
+     TC4017. doi:10.1029/2004TC001767.                                                                   Miocene half-graben basins related to an extensional detachment fault (western
+Mehl, C., Jolivet, L., Lacombe, O., Labrousse, L., Rimmelé, G., 2007. Structural evolution of            Crete, Greece). Terra Nova 19, 39–47. doi:10.1111/j.1365-3121.2006.00707.x.
+     Andros island (Cyclades, Greece): a key to the behaviour of a ﬂat detachment                    Sorel, D., 2000. A Pleistocene and still-active detachment fault and the origin of the
+     within an extending continental crust. In: Taymaz, T., Dilek, Y., Ylmaz, Y. (Eds.), The             Corinth–Patras rift, Greece. Geology 28, 83–86.
+     Geodynamics of the Aegean and Anatolia. Special Publications. Geological Society,               Taylor, B., Goodliffe, A.M., Weiss, J.R., Sachpazi, M., Hirn, A., Laigle, M., Stefatos, A., 2003.
+     London, pp. 41–73. doi:10.1144/SP291.3 0305-8719/07/$15.00.                                         Detachment tectonics in the Gulf of Corinth rift. April 2003 Geophysical Research
+Moretti, I., Sakellariou, D., Lykoussis, V., Micarelli, L., 2003. The Gulf of Corinth: a half            Abstracts. European Geophysical Society, Nice, France. 5: Abstract no. 07222.
+     graben? J. Geodynamics 36, 323–340.                                                             Taylor, B., Huchon, P., 2002. Active continental extension in the Western Woodlark
+Morrison, J., Anderson, J.L., 1998. Footwall refrigeration along a detachment fault:                     Basin: a synthesis of Leg 180 results. In: Huchon, P., Taylor, B., Klaus, A. (Eds.), Proc.
+     implications for the thermal evolution of core complexes. Science 279, 63–66.                       ODP, Sci. Results, pp. 1–36.
+Nyst, M., Thatcher, W., 2004. New constraints on the active deformation of the Aegean.               Taymaz, T., Jackson, J., McKenzie, D., 1991. Active tectonics of the north and central
+     J. Geophys. Res. 109 (B11406). doi:10.1029/2003JB002830.                                            Aegean Sea. Geophys. J. Int. 106, 433–490.
+Ori, G.G., 1989. Geologic history of the extensional basin of the Gulf of Corinth (?Miocene–         Theye, T., Seidel, E., 1991. Petrology of low grade high pressure metapelites from the
+     Pleistocene), Greece. Geology 17, 918–921.                                                          external hellenides (Crete, Peloponese), a case study with attention to sodic
+Palyvos, N., Pantosti, D., De Martini, P.M., Lemeille, F., Sorel, D., Pavlopoulos, K., 2005. The         minerals. Eur. J. Mineral. 3, 343–366.
+     Aigio–Neos Erineos coastal normal fault system (western Corinth Gulf Rift, Greece)              Theye, T., Seidel, E., 1993. Uplift-related retrogression history of aragonite marbles in
+     geomorphological signature, recent earthquake history, and evolution. J. Geophys. Res.              western Crete (Greece). Contrib. Mineral. Petrol. 114, 349–356.
+     110, B09302. doi:10.1029/2004JB003165.                                                          Theye, T., Seidel, E., Vidal, O., 1992. Carpholite, sudoite and chloritoid in low high-pressure
+Papanikolaou, D., Gouliotis, L., Triantaphyllou, M., 2009. The Itea–Amﬁssa detachment: a pre-            metapelites from Crete and the peloponese. Greece. Eur. J. Mineral. 4, 487–507.
+     Corinth rift Miocene extensional structure in central Greece. In: van Hinsbergen, D.J.J.,       Thomson, S.N., Stoeckhert, B., Brix, M.R., 1998. Thermochronology of the high-pressure
+     Edwards, M.A., Govers, R. (Eds.), Collision and Collapse at the Africa–Arabia–Eurasia               metamorphic rocks of Crete, Greece: implications for the speed of tectonic
+     Subduction Zone, Geological Society of London Special Publication, pp. 293–310.                     processes. Geology 26 (3), 259–262.
+Papanikolaou, D.J., Royden, L.H., 2007. Disruption of the Hellenic arc: Late Miocene                 Tiberi, C., Diament, M., Lyon-Caen, H., King, T., 2001. Moho topography beneath the Corinth
+     extensional detachment faults and steep Pliocene–Quaternary normal faults — or                      rift area (Greece) from inversion of gravity data. Geophys. J. Int. 145, 797–808.
+     what happened at Corinth? Tectonics 26, TC5003. doi:10.1029/2006TC002007.                       Trotet, F., 2000. Exhumation des roches de haute pression - basse température le long
+Papazachos, B.C., Papazachos, C.B., 1989. The Earthquakes of Greece. Ziti Publications,                  d'un transect des Cyclades au Péloponnèse, implications géodynamiques. Thèse de
+     Thessaloniki, Greece (in Greek).                                                                    doctorat Thesis, Université Paris XI, Orsay.
+Papazachos, C.B., Kiratzi, A.A., 1992. A formulation for reliable estimation of active crustal       Trotet, F., Jolivet, L., Vidal, O., 2001. Tectono-metamorphic evolution of Syros and Sifnos
+     deformation and its application to Central Greece. Geophys. J. Int. 111, 424–432.                   islands (Cyclades, Greece). Tectonophysics 338, 179–206.
+Pi Alperin, J.M., Marthelot, J.M., Galvé, A., Sachpazi, M., Taylor, B., Laigle, M., Hirn, A.,        Trotet, F., Goffé, B., Vidal, O., Jolivet, L., 2006. Evidence of retrograde Mg-carpholite in the
+     2004. Seismic refraction imaging of the southern Corinth Rift shoulder at Derveni.                  Phyllite-Quartzite nappe of Peloponnese from thermobarometric modelisation —
+     Comptes Rendus Géoscience 336, 251–257.                                                             geodynamic implications. Geodinamica Acta 19 (5), 323–343.
+Pik, R., Marty, B., 2008. Helium isotopic signature of modern and fossil ﬂuids associated            van Hinsbergen, D.J.J., Meulenkamp, J.E., 2006. Neogene supradetachment basin
+     with the Corinth rift fault zone (Greece): Implication for fault connectivity in the lower          development on Crete (Greece) during exhumation of the South Aegean core
+     crust. Chemical Geology 266, 67–75. doi:10.1016/j.chemgeo.2008.09.024.                              complex. Basin Res. 18, 103–124. doi:10.1111/j.1365-2117.2005.00282.x.
+Platt, J.P., 1986. Dynamics of orogenic wedges and the uplift of high-pressure                       Vanderhaeghe, O., 2004. Structural development of the Naxos migmatite dome. In: Whitney,
+     metamorphic rocks. Geol. Soc. Amer. Bull. 97, 1037–1053.                                            D.L., Teyssier, C., Siddoway, C.S. (Eds.), Gneiss Domes in Orogeny. Geological Society of
+Purvis, M., Robertson, A., 2004. A pulsed extension model for the Neogene–Recent E–W-                    America, Boulder, Colorado, pp. 211–227.
+     trending Alasehir Graben and the NE–SW-trending Selendi and Gördes Basins,                      Wernicke, B., 1981. Low-angle normal faults in the Basin and Range province: nappe
+     western Turkey. Tectonophysics 391, 171–201.                                                        tectonics in an extending orogen. Nature 291, 645–648.
+Rahl, J.M., Anderson, K.M., Brandon, M.T., Fassoulas, C., 2005. Raman spectroscopic                  Wernicke, B., 1992. Cenozoic extensional tectonics of the U.S. cordillera. In: Burchﬁel, B.C.,
+     carbonaceous material thermometry of low-grade metamorphic rocks: calibration and                   Lipman, P.W., Zoback, M.L. (Eds.), The Cordilleran Orogen: Conterminous U.S.
+     application to tectonic exhumation in Crete, Greece. Earth Planet. Sci. Lett. 240, 339–354.         Geological Society of America, Boulder, Colorado, pp. 553–581.
+Rietbrock, A., Tibéri, C., Scherbaum, F., Lyon-Caen, H., 1996. Seismic slip on a low angle           Wernicke, B., 1995. Low-angle normal faults and seismicity: a review. J. Geophys. Res.
+     normal fault in the Gulf of Corinth: evidence from high resolution cluster analysis of              100 (B10), 20159–20174.
+     microearthquakes. Geophys. Res. Lett. 23 (14), 1817–1820.                                       Wijbrans, J.R., van Wees, J.D., Stephenson, R.A., Cloethingh, S.A.P.L., 1993. Pressure–
+Rigo, A., Lyon-Caen, H., Armijo, R., Deschamps, A., Hatzfeld, D., Makropoulos, K.,                       temperature–time evolution of the high-pressure metamorphic complex of Sifnos,
+     Papadimitriou, P., Kassaras, I., 1996. A microseismicity study in the western part of               Greece. Geology 21, 443–446.
+     the Gulf of Corinth (Greece): implications for large-scale normal faulting mechanisms.          Xypolias, P., Doutsos, T., 2000. Kinematics of rock ﬂow in a crustal-scale shear zone:
+     Geophys. J. Int. 126, 663–688.                                                                      implication for the orogenic evolution of the southwestern Hellenides. Geol. Mag.
+Ring, U., Brachert, T., Fassoulas, C., 2001. Middle Miocene graben development in Crete                  137 (1), 81–96.
+     and its possible relation to large-scale detachment faults in the southern Aegean.              Zulauf, G., Kowalczyk, G., Krahl, J., Petschick, R., Schwanz, S., 2002. The tectonometa-
+     Terra Nova 13, 297–304.                                                                             morphic evolution of high-pressure low-temperature metamorphic rocks of
+Ring, U., Layer, P.W., 2003. High-pressure metamorphism in the Aegean, eastern                           eastern Crete, Greece: constraints from microfabrics, strain, illite crystallinity and
+     Mediterranean: underplating and exhumation from the Late Cretaceous until the                       paleodifferential stress. J. Struct. Geol 24, 1805–1828.
+     Miocene to Recent above the retreating Hellenic subduction zone. Tectonics 22 (3).
+     doi:10.1029/2001TC001350.
+

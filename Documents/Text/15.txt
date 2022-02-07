@@ -1,0 +1,1488 @@
+ 1   The South Marmara Fault
+
+
+
+
+ 2   Xavier Le Pichon1, Caner İmren2, Claude Rangin1, A.M. Celâl Şengör2*
+
+ 3   and Muzaffer Siyako3
+
+
+
+
+     1
+ 4       Collège de France, Aix en Provence
+     2
+ 5       Istanbul Technical University, Istanbul
+     3
+ 6       TPAO (Turkish Petroleum Corporation), Ankara
+
+
+
+
+ 7   * Corresponding author:
+ 8   A. M. Celâl Şengör
+ 9   Avrasya Yerbilimleri Enstitüsü, Ayazağa, İstanbul Teknik Üniversitesi, 34469, İstanbul, Turkey
+
+10   Phone: +90-212 285 62 09
+11   Fax: +90-212 285 62 09
+12   E-mail :sengor@itu.edu.tr
+
+
+
+
+                                                                                                      1
+13   Abstract
+
+14          We use about 800 km of multichannel exploration seismic reflection
+
+15   profiles of the seventies as well as the results of three drill holes that penetrated
+
+16   the sedimentary cover down to the Upper Cretaceous basement to describe a
+
+17   continuous gently curvilinear, south-concave zone of deformation about 10 km
+
+18   wide that extended over the whole southern shelf of the Sea of Marmara from the
+
+19   Gulf of Gemlik to the Dardanelles Straits in Lower Pliocene time, about 4 Ma. We
+
+20   call this zone of deformation the South Marmara Fault (SMF) system and propose
+
+21   that the SMF was then a branch of the dextral North Anatolian Fault. This branch
+
+22   passed to the north of the Marmara Island Eocene block and thus had a south
+
+23   facing concavity. This curvature resulted in a significant component of shortening
+
+24   in the western part of the fault. The SMF was deactivated at the end of Lower
+
+25   Pliocene, about 3.5 Ma, except for its easternmost branch between the Gulf of
+
+26   Gemlik and İmralı Island where about 5 mm/yr of dextral motion are still
+
+27   occurring today.
+
+
+
+
+28   Keywords: South Marmara Fault; Sea of Marmara; North Anatolian Shear
+29   Zone; multichannel seismic data
+
+                                                                                             2
+30   Introduction
+
+31          The purpose of this paper is to introduce an hitherto unknown element into
+
+32   the complex fault geometry associated with what Şengör et al. (2005) called the
+
+33   North Anatolian Shear Zone within which the active branches of the North
+
+34   Anatolian Fault later became nucleated (Fig. 1a). Since the work of Şengör (1979)
+
+35   and Şengör et al. (1985) it has been known that the North Anatolian Fault has two
+
+36   main active branches west of the Yeniçağa Depression, east of Bolu (Fig. 1a).
+
+37          An older, southern branch connects the Yeniçağa fork with the Pamukova
+
+38   Basin, where a 22 to 26 km right-lateral offset of the Sakarya River is observed
+
+39   (Şengör et al. 2005). From the Pamukova Basin, the fault continues to the
+
+40   Yenişehir pull-apart from which it goes through the southern margin of the Bursa
+
+41   Depression. A complex series of right-lateral faults defines a broad, elongate
+
+42   basin, not unlike the northern trough in the Sea of Marmara, called the Mysian
+
+43   Trough (Fig. 1a; Şengör et al. 2011). This Trough is dominated by the Manyas
+
+44   and Uluabat (also written as Ulubat: all modern names in this paper are taken
+
+45   from Anonymous, 1977; ancient Apolloniatis) sub-basins not dissimilar to the
+
+46   Central and the Tekirdağ basins of the Sea of Marmara (Le Pichon et al. 2001a, b;
+
+47   MB and UB in Fig. 1b, respectively). These are separated from the southern
+
+48   coastal regions of the Sea of Marmara by a string of mountain ranges: in the east,
+
+49   the Katırlı and Genç Ali mountains form the western prolongation of the Avdan
+
+50   Mountain and continue westward, via the solitary elevation (600 m) south of
+
+51   Zeytinbağı (formerly Trilya), to the Karadağ. The latter culminates at an elevation
+
+52   of 833 m (Erk 1942 fig. 2; Anonymous, 1977, sheet 323-D) and is tilted to the
+
+53   south (Altınlı 1943) along a major, coast-parallel normal-separation oblique fault.
+
+54   The topographic grain within this east-west trending range is north-northeast and
+
+
+                                                                                          3
+55   northeast, as in the Kapıdağ Peninsula (classical Arctonnesus).
+
+56           Sedimentation in the Mysian Trough began in the Pontian (late Miocene)
+
+57   with fluvial sediments and rapidly developed into a lacustrine environment
+
+58   (Şengör et al. 2005). The southern branch of the North Anatolian Fault runs out to
+
+59   the sea along a small rift that is located along the Etili Fault Zone in the middle of
+
+60   the Biga Peninsula. It has a geometry suggesting a pull-apart origin, although its
+
+61   northern part seems not to be faulted (Şengör et al. 2005). The movement along
+
+62   this fault zone seems to have begun in the late Miocene as shown by the ages of
+
+63   the sediment infills of the fault-related basins. In the Etili Rift, the basalts
+
+64   associated with such sedimentary rocks give isotopic ages of 9 to 8.4 Ma (Ercan et
+
+65   al. 1995; Aldanmaz et al. 2000).
+
+66           This southern branch is still active, although it moves much more slowly
+
+67   compared with the northern branch (at most 5 mm/yr vs. 22 mm/yr). However,
+
+68   Şengör et al. (1985) pointed out, and Le Pichon et al. (2003) concurred, that the
+
+69   “fragmented” nature of the Southern Strand shows that a through-going main fault
+
+70   is yet to materialize, at least west of Pamukova (fig. 1a). This shows that this
+
+71   branch has never been a fast moving fault and probably was overtaken by its
+
+72   northern rivals before it could become a through-going feature itself.
+
+73           This has been a surprising feature of the southern strand, because the
+
+74   northern strand did not materialize as a through-going feature until at least the late
+
+75   Pleistocene. The question has long been which features then shared the motion.
+
+76   This paper provides the answer: the North Anatolian Shear Zone has another, now
+
+77   almost completely abandoned intermediary branch, going from the Gulf of
+
+78   Gemlik to the Strait of Dardanelles, skirting the Island of Marmara to the north,
+
+79   which we here call the ‘South Marmara Fault’ (SMF) (Figs. 1a, b and 2). Its
+
+80   presence had not been previously suspected, because it lies buried under the Plio-
+                                                                                       4
+ 81   Quaternary cover of the broad southern Marmara Shelf. Now, with the help of 800
+
+ 82   km of previously unpublished multichannel exploration seismic reflection profiles
+
+ 83   of the seventies as well as the results of three drill holes that penetrated the
+
+ 84   sedimentary cover down to the Upper Cretaceous basement, we have unearthed
+
+ 85   the presence of this long, gently south-concave strike-slip South Marmara Fault
+
+ 86   that started moving in the later medial Miocene and deactivated in the early
+
+ 87   Pliocene (some 3.5 Ma ago).
+
+ 88          Geologically, this remarkable feature seems to follow mostly an old zone
+
+ 89   of material discontinuity, namely the border between the Intra-Pontide suture zone
+
+ 90   with its broad mélanges of mainly Cretaceous to possibly earliest Paleocene age
+
+ 91   with succeeding Paleocene-early Eocene flysch abutting the complex basement of
+
+ 92   the Sakarya continent to the south (Şengör and Yılmaz, 1981; for newer data
+
+ 93   corroborating older observations, see Göncüoğlu et al., 2008, 2012). That this
+
+ 94   coincidence is not perfect is a result of the fact that the geometry of the
+
+ 95   suture/Sakarya contact is too irregular with a wavelength that makes it impossible
+
+ 96   for a strike-slip fault to follow. Interestingly, the northern, the today-active, main
+
+ 97   strand of the North Anatolian Fault seems to follow the northern bimaterial
+
+ 98   boundary of the Intra-Pontide suture (there the concidence is better, because the
+
+ 99   suture boundary is straighter). In places (such as near Bursa) there are indications
+
+100   from the juxtaposition of older basement and early Mesozoic ophiolitic mélanges
+
+101   that the today-active southern branch of the North Anatolian Fault probably also
+
+102   follows a suture, but an older, Palaeo-Tethyan one, namely that of the Karakaya
+
+103   (Fig. 1b; see Şengör and Yılmaz 1981; Şengör et al. 1984; Okay et al. 1996; Okay
+
+104   and Göncüoğlu 2004).
+
+105          As mentioned above, structurally, the South Marmara Fault sits within a
+
+106   high, bordered both to the north and to the south by normal and extensional
+                                                                                               5
+107   oblique faults. The northern boundary fault of this high, which may be termed the
+
+108   Kara Dağ High after its most prominent eminence (833 m asl), is the South
+
+109   Marmara Fault itself. The southern limit is a series of disconnected normal faults
+
+110   that drop towards the Mysian Trough (Şengör et al. 2005).
+
+111          South of the South Marmara Fault, the basement consists of two main
+
+112   units: a highly metamorphic gneiss+marble association that was deformed and
+
+113   metamorphosed about 384 Ma ago, based on a single zircon-dating using the
+
+114   Kober evaporation technique (A. M. C. Şengör and A. Kröner, unpublished data).
+
+115   This is everywhere tectonically overlain by what is essentially an ophiolitic
+
+116   mélange called the Karakaya Complex (Şengör and Yılmaz 1981; Şengör et al.
+
+117   1984, Okay et al. 1996; Okay and Göncüoğlu 2004). Although Okay (2000)
+
+118   thought it represented the remnants of an oceanic plateau, the components of the
+
+119   Karakaya Complex are far too diverse to allow such a facile interpretation. It most
+
+120   likely represents partly the Palaeo-Tethyan suture and partly an ensimatic
+
+121   arc/marginal basin complex that bordered it. The Karakaya was deformed during
+
+122   the latest Triassic and earliest Jurassic and is overlain by the sandstone of the
+
+123   Bayırköy Formation that heralded a prolonged period of shelf sedimentation that
+
+124   lasted until the end of the Cretaceous (Şengör and Yılmaz 1981).
+
+125          Sometime after the end of the Cretaceous and before the Lutetian, the
+
+126   Sakarya Continent collided with the Rhodope-Pontide south-facing ensialic island
+
+127   arc to the north along a north-dipping subduction zone. The ophiolitic mélanges of
+
+128   the Intra-Pontide suture are overlain by the Korudağ-Ganos flysch wedge that
+
+129   accumulated during the Eocene in an environment of a remnant fore-arc basin
+
+130   within a collision zone. The Thrace Basin overlies this remnant fore-arc area
+
+131   (Görür and Okay 1996; unpublished gravity observations by the Turkish Petrolem
+
+132   Company, indicating the presence of high density material south of the Strandja
+                                                                                           6
+133   Massif, contradict the interpretation by Elmas, 2012, that the Thracian basin is
+
+134   mostly underlain by the rocks of the Rhodope Massif: Mr. Vasfi Erol, pers.
+
+135   comm., 1981). Eastward, the flysch and mélange fill of the suture zone pinch out
+
+136   and there seems to be much elision of suture material because of an earlier,
+
+137   possibly Eocene-Oligocene strike-slip tectonics. In the Armutlu peninsula, the
+
+138   Palaeozoic of Istanbul lies above the foredeep flysches of the Sakarya Continent
+
+139   across a thrust contact that appears to have cut right into the lower crust as, at the
+
+140   western tip of the Armutlu Peninsula, it exposes what seem to be deep crustal
+
+141   mafic high grade metamorphic rocks (Akbayram et al. 2012; that they may be
+
+142   lower crustal mafic rocks: Dr. Kenan Akbayram, pers. comm.. 2012. Dr.
+
+143   Akbayram also informs us that he no longer subscribes to the early Cretaceous
+
+144   collision hypothesis and has returned to the long-held early Cainozoic
+
+145   interpretation) of late Proterozoic to early Palaeozoic ages (Bozkurt et al., 2013a).
+
+146   Farther east, some Palaeo-Tethyan ophiolites are mixed in with the younger,
+
+147   Permo-Triassic, oceanic rocks of the Intra-Pontide suture in the Almacıkdağ
+
+148   region (Bozkurt et al., 2013b).
+
+149          Shortening, right across the entire area shown in Fig. 1b, continued until
+
+150   the early Miocene, when it was replaced by the establishment of a complex
+
+151   extensional regime shortly afterwards, to be followed by the formation of a broad
+
+152   right-lateral shear zone, the North Anatolian Shear Zone (Şengör et al. 2005).
+
+153   When the shear motion began, the region consisted of a strong basement in the
+
+154   north (The Strandja and the Palaeozoic of Istanbul zones) constituting the
+
+155   Rhodope-Pontide arc massif (see Şengör and Yılmaz 1981). The flysch/mélange
+
+156   fill of the central part made up the Intra-Pontide suture. Finally, in the south, a
+
+157   highly disrupted basement containing bits and pieces of an old, late Palaeozoic
+
+158   basement and the much softer rocks of the Karakaya complex, formed a stronger
+                                                                                               7
+159   basement than the Intra-Pontide suture, but weaker than that of the Rhodope-
+
+160   Pontide Fragment (Okay et al. 1996; Okay and Göncüoğlu 2004). Le Pichon et al.
+
+161   (2003) already pointed out that the regions south of the main northern strand of
+
+162   the north Anatolian Fault in the Marmara Region were now accomodating more
+
+163   strain than the regions north of it and ascribed this asymmetry to the disparate
+
+164   geological constitutions of the areas. We shall see below that the individual
+
+165   branches of the North Anatolian Fault sensitively pick out bimaterial boundaries
+
+166   to nucleate on, a behaviour theoretically predicted (cf. Weertman 1980; Andrews
+
+167   and Ben-Zion 1997; Ben-Zion and Andrews 1998; Ben Zion 2001).
+
+
+168   Chronological Arguments: bore hole Marmara 1
+
+169          Borehole Marmara 1 is situated near the northern edge of the Southern
+
+170   Marmara shelf, two thirds of the way between Marmara Island and İmralı Island,
+
+171   near the northern extremity of seismic profile 32 (figure 2). The only information
+
+172   we have on the results of the drilling comes from the final well report (Marathon
+
+173   Petroleum Turkey Limited, 1975) as samples of cuttings and cores no longer exist
+
+174   according to the Turkish Petroleum Company (TPAO), except for the Upper
+
+175   Cretaceous Basement. The following stratigraphic sequence was observed (figure
+
+176   3):
+
+177   Sea floor 126m (0.166s twt):
+
+178          Unconsolidated Quaternary Recent clay
+
+179   Unit 1: 163m to 238 m (0.27s)
+
+180          Post Rift calcareous mudstones of Lower Pliocene age (Pannonian in
+
+181   report); mostly unconsolidated.
+
+182   Unit 2: 236 to 1264 m (0.27s to 1.35s) Average velocity 1.90 Km/s
+
+
+
+                                                                                           8
+183          Lower Pliocene (Pannonian in report) foreset beds of fluvio-deltaic thickly
+
+184   interbedded sandstones (average porosity, 42%) and mudstones. Dipping on
+
+185   seismic sections is to the SSE. Multiple level soft sediment slumping is common,
+
+186   consistent according to the report, with active faulting during deposition. Namık
+
+187   Çağatay, (private communication, February 8, 2011), considers that the fauna
+
+188   mentioned in the report are not diagnostic of precise stratigraphic ages. He
+
+189   identifies unit 2 with the Alçıtepe Formation on the basis of the presence of
+
+190   foreset beds and calcareous sediments. Çağatay states : “On land, Alçıtepe
+
+191   Formation around Çanakkale, Gallipoli Peninsula and Gulf of Saros appears to
+
+192   comprise both Messinian and Lower Pliocene according to the nannoplankton
+
+193   data of Melinte (Melinte-Dobrinescu et al. 2009; Armijo et al. 1999; Armijo et al.
+
+194   2000).” Melinte et al. (2009) attribute Alçıtepe to the post-Messinian as they
+
+195   believe that it lies on top of what they consider to be the Messinian unconformity.
+
+196   However, Namık Çağatay and Mehmet Sakınç have re-examined the data and
+
+197   they cannot corroborate the existence of the unconformity presumed by Melinte et
+
+198   al. (2009). They emphatically state that the question remains open. Şengör and Le
+
+199   Pichon earlier examined the outcrops in western Gallipoli Peninsula and they too
+
+200   could not locate an unconformity under Alçıtepe. It could be that the canyon filled
+
+201   by the sediments that was observed by Armijo et al. (1999) is not representative of
+
+202   the deformation of the Alçıtepe formation in general.
+
+203   Unit 3: 1264 to 2174m (1.35s to 1.9s) Average velocity 3.3 km/s
+
+204          Lower Pliocene mudstone oxidized and varicolored, with subordinate
+
+205   layers of sandstone (25% average porosity). Both the porosity of the sand layers
+
+206   and the average velocity show that this unit is significantly more consolidated
+
+207   than unit 2. Parallel bedding is identified on seismic profiles according to the
+
+208   report, which states that this unit may be lower Upper Miocene
+                                                                                          9
+209   (Sarmatian≈Tortonian) at the base. These deposits appear to have been deposited
+
+210   in a “fluvial, alluvial plain, claypan environment”. A layer of red tuffs is present
+
+211   at 1829m. Çağatay (same personal communication as above) tentatively attributes
+
+212   the tuffs to the 9.7 Ma alkali basalt volcanic activity known in this area (Çağatay
+
+213   et al. 2006). Thus unit 3 might be the equivalent of the Kirazlı Formation, which
+
+214   is Upper Miocene. It appears to have been deposited in a quieter environment than
+
+215   unit 2.
+
+216   Unit 4: 2174-2275m (below 1.9 s)
+
+217             Below a major unconformity lie uppermost Cretaceous (Campanian-
+
+218   Maastrichtian) limestones. Similar Upper Cretaceous limestones were penetrated
+
+219   by wells on the Gallipoli Peninsula and crop out on the İmralı Island. Thus the
+
+220   whole sequence of Palaeocene-Eocene-Oligocene-Lower and Middle Miocene is
+
+221   missing and was presumably eroded, which is hardly surprising this close to the
+
+222   suture. This unconformity coincides with the acoustic basement that is well
+
+223   identified on the seismic sections. The absence of the Eocene was a surprise for
+
+224   the drillers as the Eocene formation was the main target of the well as they did not
+
+225   know about the suture.
+
+226             To conclude, well Marmara 1 (figure 4) shows that after a period of strong
+
+227   erosion, a rifting phase with relatively fast subsidence occurred there during upper
+
+228   Miocene (11 to10?-5.3 Ma?) and that it continued into the Uppermost Miocene-
+
+229   Lower Pliocene (Alçıtepe Formation, 5.3?-3.7 to 3.4 Ma?) during which foreset
+
+230   beds of fluvio-deltaic thickly interbedded sandstones and mudstones that might
+
+231   correspond to the Gilbert deltas described by Melinte et al. (2009) were deposited.
+
+232   The source of sediments was to the NW. Tectonic activity appears to have been
+
+233   significantly stronger during the deposition of this unit. The rifting phase was
+
+234   terminated when the Lower Pliocene fresh water calcareous mudstone of unit 1
+                                                                                         10
+235   was deposited, probably corresponding with the Conkbayırı formation, which is
+
+236   younger than 3.7 to 3.4 Ma (Yaltırak et al. 2000).
+
+
+237   The shelf east of Marmara Island
+
+238          We now use the stratigraphy of Marmara 1 well, located on seismic profile
+
+239   32, at the northern limit of the Southern Shelf Basin and the southern limit of the
+
+240   Marmara Basin, as a key to interpret seismic section 32, and to extend this
+
+241   interpretation eastward and westward over the whole shelf, using adjacent seismic
+
+242   reflection profiles (see Fig. 2). This interpretation enables us to map a deformation
+
+243   zone, about 10 km wide that can be followed along the whole shelf, from the
+
+244   Gemlik Bay to the east to the Dardanelles Straits to the west. We call it the South
+
+245   Marmara Fault system (SMF) (Fig. 2). The acoustic basement, which coincides
+
+246   with the post Upper Cretaceous erosional unconformity can be identified
+
+247   throughout the section. Unit 3 (the Upper Miocene (Kirazlı) Formation) which is
+
+248   900 m (0.55s) thick at the well increases to nearly 2 km (1.1-1.2s) to the south of
+
+249   the Southern Shelf Basin. There, the basement has been downfaulted by more than
+
+250   2 km, mostly during the Upper Miocene (Kirazlı). In the central part of the
+
+251   section, the basement has been uplifted by more than 1 km, after the rifting,
+
+252   forming a 10 km wide anticlinal fold. The consequent uplift led to the erosion of
+
+253   unit 2 as well as the upper part of unit 3 near the summit of the anticline. This
+
+254   folding was contemporaneous with the formation of the broad zone of
+
+255   deformation of the SMF system while the uppermost SE dipping foreset beds of
+
+256   unit 2 (uppermost Miocene-Lower Pliocene Alçıtepe Formation) were still being
+
+257   deposited to the south. It is important to note that the source of the sediments
+
+258   during the deposition of units 2 and 3 was to the NW and not to the south.
+
+
+
+                                                                                          11
+259          The quality of the seismic profile is not such that the style of deformation
+
+260   can be unambiguously determined. However, the central part of the deformation
+
+261   zone, near the apex of the uplifted basement, coincides with a flower structure that
+
+262   we interpret as compressive. Figure 1 shows that this zone of deformation can be
+
+263   followed both westward to the Marmara Island and eastward to the İmralı Island.
+
+264   Profile LD 70 (Fig.6), between profile 32 and Marmara Island, demonstrates that
+
+265   the uplift of the basement by 1.5 km increases westward toward Marmara Island
+
+266   and that both units 2 and 3 above the anticline have been conformably folded and
+
+267   strongly eroded. Thus the uplift occurred near the end of Lower Pliocene. Profile
+
+268   60 (Fig. 7), halfway between profiles 70 and 32, confirms the strong uplift and
+
+269   folding of the basement as well as its conformable Upper Miocene - Lower
+
+270   Pliocene cover. This deformation is definitely post-unit 3 (Kirazlı) and probably
+
+271   contemporaneous with the deposition of the upper part of unit 2 (Alçıtepe). The
+
+272   interpretation to the north of shot point 300 is tentative but there is no doubt that a
+
+273   post-Alçıtepe E/W normal fault marks the edge of the shelf to the north. Figure 8
+
+274   shows a NW/SE chirp profile across the northern part of profile 60 near shot point
+
+275   230, which displays eroded sedimentary layers with a component of dip to the SE.
+
+276   These eroded layers most probably belong to the lower part of unit 2.
+
+277          The Marmara Island (ancient Proconnesus), to the west, is made up of
+
+278   north dipping metamorphic thrust sheets interlayered with metagranitoid
+
+279   intrusions dated by Ustaömer et al. (2009) as Lutetian (47.6 ± 0.2 Ma). The pluton
+
+280   underwent severe brittle-ductile deformation, following its mid-Eocene
+
+281   emplacement, with the development of both a N-dipping foliation and an WNW-
+
+282   ESE doubly-plunging stretching lineation. These structures indicate a top to south
+
+283   motion and record the formation and the tightening of the Intra-Pontide suture
+
+284   (Ustaömer et al. 2009). The seismic profiles to the east of Marmara Island indicate
+                                                                                      12
+285   that Marmara Island must have been uplifted and broadly warped by about 1.5 to
+
+286   2 km near the end of Lower Pliocene. An examination of a slope map of the island
+
+287   confirms the broad E-W anticlinal upwarp of the island. We do not have the
+
+288   information necessary to determine whether part of the SMF system entered the
+
+289   northern part of Marmara Island, possibly reactivating the Eocene thrusts, or
+
+290   whether the whole zone of deformation was deflected to the north of the island, on
+
+291   the edge of the shelf, to avoid the Kapıdağ Peninsula-Marmara Island basement
+
+292   block. This is because the later normal faulting that created the present Marmara
+
+293   Basin at the end of Lower Pliocene had encroached on and at least partly
+
+294   obliterated the SMF system immediately north of the Marmara Island.
+
+295          At the eastern extremity of the part of the area we have just discussed, the
+
+296   zone of deformation appears to enter the northernmost İmralı Island. An
+
+297   examination of a slope map of İmralı Island shows that the southern two thirds of
+
+298   the island appear to form a broad N/S fold while the northern extremity is marked
+
+299   by an E/W elevated high with steep topography to the north, most probably
+
+300   coinciding with major E/W faults. The sharp bend of the SMF system, from E-W
+
+301   to SE, near İmralı Island may coincide with a change from a principally reverse
+
+302   component of motion to the west to a normal one to the east. This change would
+
+303   be expected, as the main motion on the SMF system was dextral. Unfortunately,
+
+304   as for the northern Marmara Island, the later normal faulting that created the
+
+305   present Marmara Basin and now roughly coincides with the edge of the shelf has
+
+306   also encroached on and partly obliterated the earlier deformation zone
+
+307   immediately north of İmralı Island, as it did north of Marmara Island.
+
+308   Furthermore, although profiles 14 and 9a to the east of İmralı confirm the
+
+309   presence of the SMF system east of İmralı Island (see fig.2), the style of
+
+310   deformation is difficult to unambiguously characterize.
+                                                                                        13
+311          Further east, in Gemlik Bay, Kuşçu et al. (2009) have mapped a set of
+
+312   active dextral faults that are in the direct prolongation of the SMF system.
+
+313   Gasperini and Polonia (2009) have evaluated a rate of 5 mm/yr for the dextral
+
+314   strike slip across the Gemlik Bay. It is thus probable that the SM Fault extended
+
+315   eastward into the Gemlik Bay and that the portion east of İmralı Island is still
+
+316   active today and now extends northwestward into the southern slope of the
+
+317   Marmara Basin. In a recent IODP meeting, Günay Çifci and Seda Okay presented
+
+318   a High Resolution seismic profile near İmralı Island which may indicate that this
+
+319   present activity of the SMF extends somewhat west of İmralı (Pierre Henry,
+
+320   personal communication, October 2012).
+
+
+321   The shelf west of Marmara Island
+
+322          As mentioned above, the SMF system is offset to the north as it enters the
+
+323   Marmara Island uplift. Most of it has probably been reactivated to form the slope
+
+324   of the Marmara Basin at the end of Lower Pliocene. Further west, the SMF can be
+
+325   recognized again to the NW of Marmara Island, coming out of the southern
+
+326   Tekirdağ Basin, near 40°40’N and 27°20’E. It is then abruptly offset by 5 km to
+
+327   the SSW along a fault near 27°25°E. This NNW/SSE fault appears to mark the
+
+328   western limit of the broad basement uplift to which the Kapıdağ Peninsula, the
+
+329   Marmara Island and a set of smaller islands belong (figure 2).
+
+330          West of this fault, starting with profile 99, the SMF system can be
+
+331   precisely mapped with the help of closely spaced seismic profiles and of two
+
+332   wells that penetrated the whole sedimentary sequence, Doluca-1 borehole on
+
+333   profile 102 and Işıklar-1 borehole on profile 114 (fig.2, fig.3, fig.9, fig.10).
+
+334   Unfortunately, the detailed final reports of the two wells are not available any
+
+335   more. However, records at TPAO indicate that below 54 m. of water, Doluca-1
+
+                                                                                          14
+336   drill hole penetrated a Middle Miocene formation described as Gazhanedere and
+
+337   reached the basement immediately below it at a depth of 800 m (fig.2). The
+
+338   basement is described as ophiolitic mélange and was penetrated over a thickness
+
+339   of 300 m. It is considered to be pre-Neogene. Thus the whole Neogene
+
+340   sedimentary section below the Middle Miocene is missing, as in borehole
+
+341   Marmara-1. The Gazhanedere Formation is stratigraphically below the Upper
+
+342   Miocene formation and corresponds to the Middle Miocene (Burdigalian to
+
+343   Serravallian, 17-10 Ma, Çağatay et al. 2006). If the identification is correct, the
+
+344   Upper Miocene (Kirazlı formation) and the Lower Pliocene (Alçıtepe formation)
+
+345   have been eroded to the north of profile 102 (fig.8) but are present in the central
+
+346   part of the profile where they have been affected by steep thrust and presumably
+
+347   dextral faulting of the SMF system. A presumably Upper Pliocene to Pleistocene
+
+348   section unconformably overlies the Lower Pliocene and Upper to Middle Miocene
+
+349   layers affected by the deformation. Thus the activity of the SMF system most
+
+350   likely has the same age west of Marmara Island as it has east of it.
+
+351          Fifteen km west of profile 102, profile 114 (fig.10) is calibrated by
+
+352   borehole Işıklar-1 (Fig. 3). The drill hole penetrated below 68 m. of water, 278 m.
+
+353   of conglomerate, sandstone and mudstone described as the Upper Miocene
+
+354   Gazhanedere Formation with an average velocity of 2 155 m/s, and thus poorly
+
+355   consolidated. However, as mentioned above, the Gazhanedere Formation
+
+356   corresponds to the Middle Miocene but in the absence of samples and detailed
+
+357   stratigraphic descriptions, the validity of this dating cannot be verified. Then the
+
+358   drill hole penetrated 239 m. of turbidites of the Upper Eocene Ceylan Formation,
+
+359   110 m. of limestones of the Upper-Middle Eocene Soğucak formation and 136 m.
+
+360   of clastics of the Middle Eocene Koyunbaba Formation. The average velocity of
+
+361   this 485 m. Eocene sequence is 3 465 m/s. The Eocene formation is thus much
+                                                                                            15
+362   better consolidated than the Miocene sediments deposited on top of it after an
+
+363   important episode of erosion. Finally, the drill hole penetrated over 32 m. of
+
+364   basement described as ophiolitic mélange (as in Doluca – 1) with an average
+
+365   velocity of 4 000 m/s. Profile 114 shows that the well was drilled on top of an
+
+366   anticlinal warp that resulted in the erosion of the upper and late Miocene layers.
+
+367   Reverse faults, forming a flower in the summit area of the anticlinal warp are post
+
+368   - Middle Miocene and probably of the same Late Lower Pliocene age as further
+
+369   east. The difference there is that the Eocene is still present as in the Gelibolu
+
+370   Peninsula area to the north.
+
+
+371   From the shelf west of Marmara Island to the
+372   Dardanelles Straits
+
+373          The available seismic profiles allow us to trace the SMF system to
+
+374   26°50’E, off the Biga Peninsula, just east of the entrance to the Dardanelles
+
+375   Straits. The dating of the post – Miocene tectonics of the area around the
+
+376   Dardanelles Straits has been the subject of several studies recently (Armijo et al.
+
+377   1990; Yaltırak et al. 2000; Armijo et al. 2000; Şengör et al. 2005; Şen et al. 2009;
+
+378   Melinte et al. 2009). All studies relate the tectonics to the Ganos branch of the
+
+379   dextral North Anatolian Fault (Fig. 11). All note the significant folding and
+
+380   thrusting of the SW Thrace Basin within the Gelibolu area extending into and
+
+381   beyond the Dardanelles Straits that involve upper Miocene deposits, with steep,
+
+382   up to vertical dips, tight secondary folds, and locally reverse faults and thrusts.
+
+383   These structures, kilometers to 10’s of kilometers long, are subparallel to each
+
+384   other and to the trend of the Dardanelles Straits and of the Ganos Fault. They are
+
+385   thus also subparallel to the SMF system, having the same curvature.
+
+
+
+                                                                                            16
+386          Immediately north of the Dardanelles Straits, a prominent anticline is
+
+387   bordered to the south by a thrust fault called the Anafartalar Fault. Most of the
+
+388   studies propose that the main tectonic event there took place during the deposition
+
+389   of the mid-Pliocene (3.7 - 3.4 Ma) Conkbayırı Formation in an alluvial fan
+
+390   environment in front of the transpressional Anafartalar thrust (see Yaltırak et al.
+
+391   2000; see also Şen et al. 2009). Armijo et al. (1999, 2000) do not agree as they
+
+392   claim that the significant unconformity is at the base of the older Alçıtepe
+
+393   Formation, that they proposed to be post-Messinian, and that the Alçıtepe
+
+394   Formation is essentially undeformed. Thus the end of tectonic activity for them
+
+395   would coincide with the end of the Messinian and be 5.3 Ma, not 3.7 – 3.4 Ma.
+
+396   But this claim does not appear to us to be substantiated (see our discussion above)
+
+397   and we do not follow their interpretation.
+
+398          The data that we have discussed above lead us to propose that at least part
+
+399   of the latest to post-Miocene deformation in the Dardanelles Straits and in the
+
+400   Gelibolu area to the north of it is due to the extension of the SMF system in the
+
+401   Dardanelles area, and not to the initiation of the present Ganos branch of the
+
+402   North Anatolian Fault. However, there is the possibility that as the SMF system
+
+403   was abandoned, the fault jumped northward by about 15 km in this area and
+
+404   initiated the Ganos branch of the North Anatolian Fault that is remarkably parallel
+
+405   to the SMF system west of Marmara Island and that deformation of both systems
+
+406   overlap.
+
+407          We stress again that our data suggest that this deformation is post-Alçıtepe
+
+408   and thus about 3.5 Ma and not pre-Alçıtepe, or about 5.3 Ma as proposed by
+
+409   Armijo et al. (1999). We believe that an investigation should be made of whether
+
+410   the canyon filled by the Alçıtepe sediments that was observed by Armijo et al.
+
+
+                                                                                            17
+411   (1999) is not representative of the deformation of the Alcitepe formation in
+
+412   general.
+
+
+413   Discussion and Conclusion
+
+414            The one clear and significant result of this study is the discovery of a
+
+415   hitherto unknown and now largely dead branch of the North Anatolian Fault. It
+
+416   lies between the highly active northern branch and the weakly active (but still
+
+417   capable of generating magnitude 7 earthquakes on a possibly demi-millenial
+
+418   repeat time in any one locality) southern branch. The new fault, which we here
+
+419   call the South Marmara Fault (SMF), is located within a relative high, as opposed
+
+420   to the location of the Northern and the Southern Branches that are located within
+
+421   deeps.
+
+422            Both the Northern and Southern Marmara branches should be slightly
+
+423   extensional in the present system if you apply the average Anatolia/Eurasia
+
+424   rotation to both (see figure 5 of Le Pichon and Kreemer 2010). Indeed, these two
+
+425   faults became segmented and developed deeps along them that are wedge-basins
+
+426   and negative flowers, the Çınarcık Basin in the eastern part of the Sea of Marmara
+
+427   being the largest of these basins. On the other hand, in this rotational system, the
+
+428   part of the SMF east of Marmara Island should be extensional and west of it
+
+429   compressional, which is approximately what one observes. This is because the
+
+430   SMF had to bend around the Kara Dağ High.
+
+431            But why did the main fault within the Marmara Shear Zone did migrate
+
+432   northward from its initiation in Mid-Miocene to the present? As the slip rate
+
+433   increased along the NAF, as proposed by Şengör et al. (2005), the orientation of
+
+434   the Hellenic subduction progressively changed from southward to southwestward
+
+435   and the northwestern end of the Hellenic subduction consequently migrated
+
+                                                                                          18
+436   northward to its present position. This led to the northward migration of the
+
+437   prolongation of the NAF in the Marmara-Aegean area to join the northward
+
+438   migrating northwestern extremity of the Hellenic subduction (see figure 5 of Le
+
+439   Pichon and Kreemer 2010).
+
+440          The evolution we propose is that in the medial Miocene, the Marmara
+
+441   shear zone formed of numerous roughly east-west orientated dextral fault
+
+442   segments which functioned in various ways of across-strike strains, but always
+
+443   dextrally in along-strike strains. Some rotated individually, others with their
+
+444   neighbours. This process is seen today in its incipient form along the southern
+
+445   strand where there is no throughgoing fault similar to the one along the very
+
+446   active northern strand. But the main motion was progressively transferred
+
+447   northward, first to the South Marmara Fault, that seems to have died shortly or
+
+448   immediately after it had become a through going feature, because the northern
+
+449   branch had started taking up more and more of the motion for the reasons we have
+
+450   proposed above.
+
+451          Our conclusions were written before the 2013. 01. 08 earthquake that
+
+452   occurred at 16:16:06 local time and had an Mw=6.2. The following information
+
+453   about this earthquake and its largest aftershock was kindly supplied by Dr. Doğan
+
+454   Kalafat of the Kandilli Observatory in Istanbul. The hypocenter was given as 8.4
+
+455   km. The earthquake occurred on the direct southwesterly continuation of the
+
+456   South Marmara fault and showed a pure right-lateral strike-slip. The largest
+
+457   aftershock (Mw=4.6) had exactly the same characteristics and occurred or the
+
+458   same fault some 10 km to the northeast of the main shock. All other aftershocks
+
+459   cluster around the southwestern extension of the South Marmara Fault. There is
+
+460   very weak seismicity along the rest of the South Marmara Fault, showing that
+
+461   such faults do not die at once. Segments of them remain active, as the latest
+                                                                                        19
+462   Aegean earthquakes referred to above show and most likely they take up motion
+
+463   from neighbouring segments. There is hardly a serious offset at the occidental
+
+464   termination of the southernmost branch of the North Anatolian Fault and this has
+
+465   long concerned those studying the westernmost part of the southernmost branch of
+
+466   the North Anatolian Fault. We propose that this is because the southernmost
+
+467   branch transfers its offset to the occidental end of the South Marmara Fault across
+
+468   a series of poorly-known wrench fault segments in the westernmost part of the
+
+469   Biga Peninsula.
+
+470          The data presented in this paper have very important implications for the
+
+471   evolution of strike-slip shear zones, in other words entire keirogens. In both
+
+472   orogens and taphrogens faulting progresses either in a foreward (forefolding) or
+
+473   backward (backfolding) sense and after a time, both senses are seen
+
+474   simultaneously at both flanks of an orogen or a taphrogen. This is because gravity
+
+475   influences faulting as faulting changes the potential energy of rock masses.
+
+476   Keirogens do not in principle change the potential energy of the rock volumes
+
+477   they affect and the spatial evolution of faulting in them is much more irregular
+
+478   and is controlled mainly by strain hardening or strain weakening and the presence
+
+479   of pre-existing weak zones and by the forces applied at the boundaries. In the case
+
+480   of the North Anatolian Shear Zone, the presence of the Intra-Pontide and the
+
+481   Karakaya sutures has profoundly affected the placement of the major fault strands.
+
+482   In the western part of the Biga Peninsula, the presence of several strands of
+
+483   serpentinite screens, possibly formed by former, collision-related escape
+
+484   structures repeating parts of the Intra-Pontide suture, may have facilitated motion
+
+485   transfer from the southern branch to the South Marmara Fault.
+
+
+
+
+                                                                                         20
+486   Acknowledgements
+
+487   This project was initiated in October 2003 during a visit by Xavier Le Pichon and
+
+488   Caner İmren to TPAO in Ankara. We thank TPAO for access to seismic lines shot
+
+489   on the southern shelf of the Sea of Marmara in 1974 and 1975 and to the reports
+
+490   of drill holes Marmara 1, Doluca 1 and Işıklar 1. We thank N. Çağatay and M.
+
+491   Sakınç for important information and advice concerning the stratigraphy of
+
+492   boreholes; we thank P. Henry, C. Grall and members of the Collège de France
+
+493   team for valuable discussion. We thank Erdin Bozkurt and Bernard Mercier de
+
+494   Lépinay for their useful reviews.
+
+
+
+
+                                                                                        21
+495   References
+
+496   Akbayram K, Okay Aİ, Satır M (2012) Early Cretaceous closure of the Intra-
+
+497   Pontide Ocean in western Pontides (northwestern Turkey). Journal of
+
+498   Geodynamics 65:38-55
+
+
+499   Aldanmaz E, Pearce JA, Thirlwall MF, Mitchell JG (2000) Petrogenetic evolution
+
+500   of late Cenozoic, post-collision volcanism in western Anatolia, Turkey. J
+
+501   Volcanol Geotherm Res 102:67–95
+
+
+502   Altınlı E (1943) Étude géologique de la chaîne côtière entre Gemlik et Bandırma.
+
+503   Rev Fac Sci Univ İstanbul B(8):76-139
+
+
+504   Anonymous 1977, Yeni Türkiye Atlası: M. S. B. Harita Genel Müdürlüğü,
+
+505   Ankara, 171 p
+
+
+506   Armijo R, Meyer B, Hubert A, Barka A (1999) Westward propagation of the
+
+507   North Anatolian fault into the northern Aegean: timing and kinematics. Geology
+
+508   27:267–270
+
+
+509   Armijo R, Meyer B, Hubert A, Barka A (2000) Westward propagation of North
+
+510   Anatolian fault into the northern Aegean: timing and kinematics: reply. Geology
+
+511   28:188–189
+
+
+512   Ben-Zion Y (2001) Dynamic ruptures in recent models of earthquake faults. J
+
+513   Mech Phys Solids 49:2209–2244
+
+
+514   Ben-Zion Y, Andrews DJ (1998) Properties and implications of dynamic rupture
+
+
+                                                                                    22
+515   along a material interface. Bull Seismol Soc Am 88:1085–1094
+
+
+516   Bozkurt, E., Winchester, J.A. & Satır, M. 2013a. The Cele mafic-ultramafic
+
+517   complex and its relationship to the Proterozoic basement of the Istanbul Block.
+
+518   Tectonophysics 595-596:198-214
+
+
+519   Bozkurt, E., Winchester, J.A., Satır, M., Crowley, Q.G. & Ottley, C. J. 2013b. The
+
+520   Almacık mafic-ultramafic complex: exhumed Sakarya subcrustal mantle adjacent
+
+521   to the Istanbul Block, NW Turkey. Geol. Mag. 150:254-282
+
+
+522   Çağatay N, Görür N et al (2006) Paratethyan-Mediterranean connectivity in the
+
+523   Sea of Marmara region (NW Turkey) during the Messinian. Sedimentary Geology
+
+524   188-189:171-187
+
+
+525   Elmas, A., 2012. Basement types of the Thrace Basin and a new approach to the
+
+526   pre-Eocene tectonic evolution of the northeastern Aegean and northwestern
+
+527   Anatolia: a review of data and concepts. International Journal of Earth Sciences
+
+528   101:1895-1911
+
+
+529   Ercan T, Satır M, Steinitz G, Dora A, Sarıfakıoğlu E et al. (1995) Biga
+
+530   Yarımadasi ile Gökçeada, Bozcaada ve Tavşan Adalarındakı (KB Anadolu)
+
+531   Tersiyer volkanizmasının özellikleri. Maden Tetk Arama Enst Bül 117:55–86
+
+
+532   Erk A. S. (1944) Étude Géologique de la Région entre Gemlik et Bursa (Turquie).
+
+533   Inauguraldissertation zur Erlangung der philosophischen Doktorwürde vorgelegt
+
+534   der Philosophisch-naturwissenschaftlichen Fakultät der Universität Basel,
+
+535   Cumhuriyet Matbaası, Ankara, 25 photographic plates+ 2 foulded maps in back
+
+536   pocket
+                                                                                         23
+537   Gasperini L, Polonia A (2009) Geological slip rates of the North Anatolian Fault
+
+538   beneath the Sea of Marmara, 17 August 1999 Izmit earthquake: 10th Anniversary
+
+539   Meeting, ITU, Istanbul.
+
+
+540   Göncüoğlu, M.C., Gürsu, S., Tekin, U.K. & Köksal, S., 2008. New data on the
+
+541   evolution of the Neotethyan oceanic branches in Turkey: Late Jurassic ridge
+
+542   spreading in the Intra-Pontide branch. Ofioliti 33:153-164.
+
+
+543   Göncüoğlu, M.C., Marroni, M., Sayit, K., Tekin, U.K., Ottria, G., Pandolfi, L. &
+
+544   Ellero, A., 2012. The Ayli dağ ophiolite sequence (central Northern Turkey): a
+
+545   fragment of middle Jurassic oceanic lithosphere within the intra-Pontide suture
+
+546   zone. Ofioliti 37:77-92
+
+
+547   Görür N, Okay A. (1996) A fore-arc origin for the Thrace Basin, NW Turkey.
+
+548   Geologische Rundschau 85:662-668
+
+
+549   Kuşçu İ, Okamura M et al. (2009) Recognition of active faults and stepover
+
+550   geometry in Gemlik Bay, Sea of Marmara, NW Turkey. Marine Geology 260:90-
+
+551   101
+
+
+552   Le Pichon X., Şengör AMC, Demirbağ E, Rangin C, İmren C, Armijo R, Görür N,
+
+553   Çağatay N, Mercier de Lepinay B, Meyer B, Saatçilar R, Tok B (2001) The active
+
+554   Main Marmara Fault. Earth Planet Sci Lett 192:595-616
+
+
+555   Le Pichon X, Kreemer C (2010) The Miocene-to-Present Kinematic evolution of
+
+556   the Eastern Mediterranean and Middle East and Its Implications for Dynamics.
+
+557   Ann Rev Earth Plant Sci 38:323-351
+
+
+                                                                                        24
+558   Marathon Petroleum Turkey Limited (1975) Final well report. TPAO unpublished
+
+559   report
+
+
+560   Okay AI, Satır M, Maluski H, Siyako M, Monie P, Metzger R, Akyüz S (1996)
+
+561   Paleo- and Neo-Tethyan events in northwest Turkey: geological and
+
+562   geochronological constraints. In: Yin A, Harrison M (eds) Tectonics of Asia,
+
+563   Cambridge University Press, pp 420-441
+
+
+564   Okay AI (2000) Was the Late Triassic orogeny in Turkey caused by the collision
+
+565   of an oceanic plateau? In: Bozkurt E, Winchester JA, Piper JAD (eds) Tectonics
+
+566   and Magmatism in Turkey and Surrounding Area, Geological Society, London,
+
+567   Special Publication, 173:25-41
+
+
+568   Okay AI, Göncüoğlu MC (2004) Karakaya Complex: a review of data and
+
+569   concepts. Turkish Journal of Earth Sciences 13:77-95
+
+
+570   Şengör AMC (1979) The North Anatolian Transform Fault: its age, offset and
+
+571   tectonic significance. Jour Geol Soc London 136:269-282
+
+
+572   Şengör AMC, Görür N, Şaroğlu F (1985) Strike-slip faulting and related basin
+
+573   formation in zones of tectonic escape: Turkey as a case study. In: Biddle KT,
+
+574   Christie-Blick N (eds) Strike-slip Deformation, Basin Formation, and
+
+575   Sedimentation, Soc Econ Paleont Min Special Publication 37 (in honor of J.C.
+
+576   Crowell), pp 227-264
+
+
+577   Şengör AMC, Tüysüz O, İmren C, Sakınç M, Eyidoğan H, Görür N, Le Pichon X,
+
+578   Rangin C (2005) The North Anatolian Fault: A new look. Annual Review of Earth
+
+579   and Planetary Sciences, 33:37-112
+                                                                                      25
+580   Şengör AMC, Yılmaz Y (1981) Tethyan evolution of Turkey: a plate tectonic
+
+581   approach. Tectonophysics 75:181–241
+
+
+582   Şen Ş, Yıllar S, Kerey İ.E. (2009) Allochtonous blocks misidentified as the
+
+583   basement: Implication for petroleum exploration in the SW Thrace Basin
+
+584   (Turkey). J Petrol Sci and Engineering 64:55 - 66
+
+
+585   Ustaömer PA, Ustaömer T et al. (2009). Lutetian arc-type magmatism along the
+
+586   southern Eurasian margin: New U-Pb LA-ICPMS and whole-rock geochemical
+
+587   data from Marmara Island, NW Turkey. Miner Petrol 96:177-196
+
+
+588   Weertman J (1980) Unstable slippage across a fault that separates elastic media of
+
+589   different elastic constants. J Geophys Res 85:1455– 1461
+
+
+590   Yaltırak C, Sakınç M, Oktay FY (2000) Westward propagation of North
+
+591   Anatolian fault into the northern Aegean: timing and kinematics: Comment.
+
+592   Geology 28:187–188
+
+
+
+
+                                                                                     26
+593   Captions
+
+594   Figure 1a: Map showing the setting of the South Marmara Fault within the
+
+595   context of the North Anatolian Shear Zone (Şengör et al., 2005).
+
+
+596   Figure 1b: A schematic map showing the tectonic ecology of the newly-
+
+597   discovered South Marmara Fault (SMF). Everything before the Miocene is here
+
+598   considered ‘basement’ i.e., the edifice all branches of the North Anatolian Fault
+
+599   had to disrupt to come into existence. Black lines are medial Miocene to younger
+
+600   right-lateral strike slip faults (all belonging to the north Anatolian Shear Zone).
+
+601   Blue lines mark the location of the faults belonging to the South Marmara Fault.
+
+602   Note that the northern branch of the North Antolian Fault closely follows the
+
+603   contact between the Palaeozoic of Istanbul and the Sakarya basement and then
+
+604   jumps to follow the northern boundary of the Intra-Pontide suture. It is clear that
+
+605   the fault has chosen here a bimaterial boundary as it did farther in the east (see
+
+606   Şengör et al., 2005). The newly-discovered SMF does the same thing in the south,
+
+607   following the contact between the Sakarya basement and the Intra-Pontide suture.
+
+608   This map shows how critically important it is to set neotectonic features into the
+
+609   framework of palaeotectonic ones to establesh what controlled the course of the
+
+610   former. The extent of the Intra-Pontide suture in submarine areas is drawn by
+
+611   interpolating the land-basen observations, except south of the Lagoon of
+
+612   Büyükçekmece (just north of the letter N where it is written NAF), where the
+
+613   seismic reflexion data show the edge of the Thracian Basin clearly.
+
+
+614   Figure 2: Synthetic structural map with locations of well holes and seismic
+
+615   profiles.
+
+
+
+                                                                                            27
+616   Figure 3: Logs of drill holes Marmara 1, Işıklar 1, Doluca 1. For each well, log
+
+617   to the right and seismic section to the left.
+
+
+618   Figure 4. Simplified log of Marmara 1 well.
+
+
+619   Figure 5: Seismic section 32. See location in figure 1. Bottom: TPAO seismic
+
+620   section. Top: Line drawing. Thick black, Upper Cretaceous basement. Green,
+
+621   Upper Miocene (Kirazlı) rifting faults at the origin of the southern shelf basin. See
+
+622   location of Marmara-1 well. Red, Lower Pliocene (Alçıtepe) mostly reverse and
+
+623   transcurrent faults associated with the formation and evolution of the South
+
+624   Marmara Fault (SMF). Blue, post-Alçıtepe normal faults associated with the
+
+625   subsidence of the Marmara basin to the north. Note the Lower Pliocene uplift of
+
+626   the central part of the section, which is syntectonic with the activity of the MSS
+
+627   Fault (figure 1).
+
+
+628   Figure 6: Seismic section 70. See location in figure 1. Bottom: TPAO seismic
+
+629   section. Top: Line drawing. See figure 4 for legend. Note that units 2 and 3 are
+
+630   folded conformably with the uplifted Upper Cretaceous basement. The uplift and
+
+631   consequent folding is syn- to post Alçıtepe.
+
+
+632   Figure 7: Seismic section 60. See location on figure 1. Bottom: TPAO section.
+
+633   Top: line drawing. See figure 4 for legend. Note the strong uplift and folding of
+
+634   the basement and its sedimentary cover to the south with the apex of folding just
+
+635   south of shot point 300. The profile is more difficult to interpret to the north and
+
+636   the interpretation we propose there may be discussed.
+
+
+
+
+                                                                                           28
+637   Figure 8 is a chirp profile across the northern portion of profile 60 from cruise
+
+638   Marnaut (courtesy of Pierre Henry 2010). Note the eroded sedimentary layers
+
+639   with a component of dip to the SE. They probably belong to unit 2.
+
+
+640   Figure 9: Seismic section 102. See location in figure 1. Bottom: TPAO seismic
+
+641   section. Top: Line drawing. Doluca-1 well is close to the northern extremity of the
+
+642   profile. Thick black, Upper Cretaceous basement. Red, Lower Pliocene (Alçıtepe)
+
+643   mostly reverse and transcurrent faults associated with the formation and evolution
+
+644   of the South Marmara Fault (SMF). Note the strong erosion of the Late Miocene
+
+645   section at the northern end of the section and the absence of the whole Neogene
+
+646   section, the acoustic basement coinciding in well Doluca-1 with what is described
+
+647   as an ophiolitic mélange of probable Upper Cretaceous age.
+
+
+648   Figure 10: Seismic section 114. See location in figure 1. Bottom: TPAO seismic
+
+649   section. Top: Line drawing. Işıklar-1 well lies in the middle of the profile. Thick
+
+650   black, Upper Cretaceous basement. Red, Lower Pliocene (Alçıtepe) mostly
+
+651   reverse and transcurrent faults associated with the formation and evolution of the
+
+652   South Marmara Fault (SMF). Note the erosion of the Uppermost Miocene and the
+
+653   Lower Pliocene in the central part of the section.
+
+
+654   Figure 11: The synthetic structural map of figure 1 with locations of well holes
+
+655   and seismic profiles is complemented by a bathymetric map over the Sea of
+
+656   Marmara and a topographic map on land. Structures in the Sea of Marmara are
+
+657   after Le Pichon et al. (2001). The structures on land in the SW Thrace Basin are
+
+658   after Ş. Şen et al. (2009). Structures in the Gulf of Gemlik are after İ. Kuşçu et al.
+
+659   (2009).
+
+
+
+
+                                                                                          29
+Figure 1a
+
+
+
+
+            30
+Figure 1b
+
+
+
+
+            31
+Figure 2
+
+
+
+
+           32
+Figure 3
+
+
+
+
+           33
+Figure 4
+
+
+
+
+           34
+Figure5
+
+
+
+
+          35
+Figure 6
+
+
+
+
+           36
+Figure 7
+
+
+
+
+           37
+Figure 8
+
+
+
+
+           38
+Figure 9
+
+
+
+
+           39
+Figure 10
+
+
+
+
+            40
+Figure 11
+
+
+
+
+            41
+

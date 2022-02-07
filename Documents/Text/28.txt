@@ -1,0 +1,749 @@
+        Automatic Generation of Geological Stories from a
+                        Single Sketch
+     Maxime Garcia, Marie-Paule Cani, Rémi Ronfard, Claude Gout, Christian
+                                                Perrenoud
+
+
+
+      To cite this version:
+    Maxime Garcia, Marie-Paule Cani, Rémi Ronfard, Claude Gout, Christian Perrenoud. Automatic
+    Generation of Geological Stories from a Single Sketch. Expressive ’18 - The Joint Symposium on Com-
+    putational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation
+    and Rendering, Aug 2018, Victoria, Canada. pp.17-19, �10.1145/3229147.3229161�. �hal-01817923�
+
+
+
+
+                                   HAL Id: hal-01817923
+                           https://hal.inria.fr/hal-01817923
+                                      Submitted on 18 Jun 2018
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+Automatic Generation of Geological Stories from a Single Sketch
+                     Maxime Garcia                                   Marie-Paule Cani                             Rémi Ronfard
+       Univ. Grenoble Alpes, CNRS, Inria,                   Ecole Polytechnique, CNRS, LIX                Univ. Grenoble Alpes, CNRS, Inria,
+              Grenoble INP*, LJK                                9128, Palaiseau, France                           Grenoble INP*, LJK
+            38000 Grenoble, France                                                                              38000 Grenoble, France
+
+                                                    Claude Gout                                Christian Perrenoud
+                                                      Total                     Museum national d’Histoire naturelle,
+                                                F-64000 Pau France                      UMR 7194 CNRS
+                                                                                             France
+ABSTRACT                                                                         1         INTRODUCTION
+Describing the history of a terrain from a vertical geological cross-            Hand-drawn sketches are the most extensively used mode of com-
+section is an important problem in geology, called geological restora-           munication among geologists, and are also an easy way to convey
+tion. Designing the sequential evolution of the geometry is usually              some geological knowledge to the public (eg. [Fossen 2016]). They
+done manually, involving many trials and errors. In this work,                   bring a simple, yet powerful way of expressing geological settings,
+we recast this problem as a storyboarding problem, where the                     enabling experts to illustrate, share and test hypotheses. Manually
+different stages in the restoration are automatically generated as               drawn sketches can be used to represent 2D vertical cross-sections
+storyboard panels and displayed as geological stories. Our sys-                  of the layers of rocks composing the earth crust, and eventually
+tem allows geologists to interactively explore multiple scenarios                help reconstructing 3D models of the subsurface using an inter-
+by selecting plausible geological event sequences and backward                   polation between a collection of such sketches, or to appropriate
+simulating them at interactive rate, causing the terrain layers to be            annotations combined with maps of the actual terrain (eg. [Amorim
+progressively un-deposited, un-eroded, un-compacted, un-folded                   et al. 2014]).
+and un-faulted. Storyboard sketches are generated along the way.                    Figure 1 shows a sketch of a cross-section of the Chartreuse
+When a restoration is complete, the storyboard panels can be used                mountain range, a part of the French Alps,provided by geologists
+for automatically generating a forward animation of the terrain                  highlighting the different parts of the geological structure .
+history, enabling quick visualization and validation of hypotheses.
+As a proof-of-concept, we describe how our system was used by                     2000 m
+                                                                                           W                                            E
+
+geologists to restore and animate cross-sections in real examples
+at various spatial and temporal scales and with different levels of                  0m
+
+
+
+
+complexity, including the Chartreuse region in the French Alps.                  -2000 m
+
+
+
+                                                                                 -4000 m
+
+
+
+CCS CONCEPTS                                                                     -6000 m
+
+                                                                                                5000 m
+
+•Computing methodologies → Planning for deterministic
+actions; Physical simulation; •Applied computing → Envi-                         Figure 1: Our system generates geological stories from a sin-
+ronmental sciences;                                                              gle sketch such as this cross-section of the Chartreuse moun-
+                                                                                 tain. Layers (and maximum ages) are indicated with differ-
+KEYWORDS                                                                         ent colors: Yellow - Miocene ( −23 × 106 years), Khaki - Late
+Sketch-based animation, storytelling, geology, simulation                        Cretaceous (−90×106 years), Red - Urgonian (−130×106 years),
+                                                                                 Green - Hauterivian (−133 × 106 years), Light green - Berri-
+ACM Reference format:                                                            asian (−145 × 106 years), Light blue - Tithonian (−152 × 106
+Maxime Garcia, Marie-Paule Cani, Rémi Ronfard, Claude Gout, and Chris-          years), Blue - Oxfordian (−163 × 106 years).
+tian Perrenoud. 2018. Automatic Generation of Geological Stories from
+a Single Sketch. In Proceedings of the Joint Symposium on Computational
+Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Ani-       Geometry and ages related colors of a single cross-section are
+mation and Rendering, Victoria, BC, Canada, Aug. 17–19 (EXPRESSIVE 2018),        however too limited for fully expressing and visualizing hypothe-
+15 pages.                                                                        ses on the past history of a terrain. In this work, we focus on the
+DOI: 10.475/123 4                                                                problem of geological restoration which consists in representing
+                                                                                 the geometry of the same 2D vertical slice of a terrain at different
+∗ Institute
+                                                                                 periods in time. Standard restoration requires manually creating a
+              of Engineering Univ. Grenoble Alpes
+                                                                                 series of sketches, representing the hypotheses on the main steps
+                                                                                 of the terrain formation. More precisely, the process used by ge-
+                                                                                 ologists consists in progressively undeforming the cross-section
+EXPRESSIVE 2018, Victoria, BC, Canada
+2018. 123-4567-24-567/08/06. . . $15.00                                          that represents their hypothesis on the current state of soil lay-
+DOI: 10.475/123 4                                                                ers back to its initial state - when the existing geological layers
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                               Garcia et al.
+
+
+                                                                         terrain formation process, enabling geologists to quickly validate
+                                                                         or refine their hypotheses.
+                                                                            Rather than providing a fully automatic method, which would
+                                                                         require expressing the entire restoration process with precise rules,
+                                                                         a seemingly impossible task, we instead propose an interactive
+                                                                         tool enabling geologists to draw a cross-section, choose between
+                                                                         geological events suggested by our system and undo each event
+                                                                         in turn by running an approximate backward simulation of it. At
+                                                                         each stage, the input cross-section is deformed and simplified until
+                                                                         it becomes fully restored. More precisely, starting from a single
+                                                                         vector graphics sketch and a small number of geological hypotheses
+Figure 2: Cross section restoration process: From left to                such as the materials and ages of the different strata, our system
+right, the original terrain from several million years ago               automatically generates a list of geological events that need to be
+undergoes events that will transform it to its current state.            undone, partially orders them, and allows the user to iteratively
+From right to left, the current terrain is restored and under-           choose the next event to undo at every stage of the restoration. Each
+goes undo events that will transform it back to its original             of these undo event - including un-sedimenting, un-eroding, un-
+state. The bottom and top parts show different restoration               compacting, un-folding and un-faulting - is then simulated using a
+paths.                                                                   pseudo-physical backward simulation. At the end of the simulation,
+                                                                         the new geological cross-section is stored as a possible step of
+                                                                         the restoration storyboard. At each iterative step, the user can
+                                                                         backtrack her choices and select other events to undo, exploring
+were flat (deposition time of layers). The intermediate sketches are     new restoration scenarios. This process ends when the user is
+drawn by progressively deforming terrain layers to undo geological       satisfied with the scenario and there is no more event to undo. The
+events such as erosion, sedimentation, folding and faulting (see         resulting storyboard can be used to create a forward simulation
+Figure 7). The consistency of the result enables them to validate or     explaining the formation of the input terrain, as we show on the
+to unvalidate and improve the interpretation used to build the input     complex example of the Chartreuse mountain range.
+cross-section sketch. Restoring a cross-section is a labor intensive        After reviewing related work (Section 2), we give a more detailed
+task, which requires many trials and errors.                             description of the cross section restoration process and an overview
+    Geological restoration is a very challenging, ill-posed problem,     of our system (Section 3). We then describe how we extract and
+due to the large number of unknown parameters and to the lack            sort geological events from the input drawing (Section 4), how we
+of ground truth data for validation. As a result, it is a relatively     iteratively update a story graph of geological events to be undone
+under-explored problem in academic research [Bulnes and McClay           (Section 5) and how we generate keyframes of the geological story-
+1999; Dahlstrom 1969; Erickson et al. 2000; Groshong 1999; Yamada        board with a backward pseudo-physical simulation (Section 6). We
+and McClay 2003]. It is nonetheless a topic with a high practical        present experimental results in Section 7 and discuss limitations
+importance in applied geology for the exploration of hydrocarbons        and directions for future work in Section 8.
+and rare materials. Several commercial tools have been proposed to
+assist geologists in geological restoration tasks [Exploration 2014;
+Halliburton 2009; Schlumberger 2011], using one geological cross-        2     RELATED WORK
+section and additional geological knowledge as input, depending
+on the technique used for partial restoration. They are either a
+support for mostly manual manipulation and editing, or provide
+off-line simulation mechanisms. In the last case, they model a single    2.1    Terrain and geological modeling
+geological behavior (such as soil layers sliding over each other) and    Terrain and geological modeling has been a topic of interest in
+require knowledge of the physical properties of the layers, which        Computer Graphics research for several decades [Natali et al. 2013].
+may not be readily available. In a separate line of research, Lidal et   While early work made use of fractals or noise models for modeling
+al. have proposed a system allowing geologists to freely organize        terrains [Musgravet et al. 1989; Olsen 2004], recent frameworks
+their sketches into storyboardlike graphical representations, called     used geological knowledge and/or simulation of geological or hy-
+geological stories [lster Lidal et al. 2012]. While their system can     drological laws to create compelling landscapes [Cordonnier et al.
+be used to illustrate the restoration process, the task remains labor-   2016; Génevaux et al. 2013]. In parallel, sketch-based modeling
+intensive since it requires geologists to draw every single step in      techniques, either for terrain-surfaces [Tasse et al. 2014] or for
+the restoration process as a separate storyboard panel without a         full layer-cake models [Lopes et al. 2016; Ronan 2017] emerged as
+way to keep the geometrical consistency across storyboards.              new trends for providing intuitive interfaces, making the modeling
+    The goal of our work is to provide an interactive tool enabling      process more intuitive and efficient.
+geologists to automatize most of their task during geological restora-      In contrast with these works, we are not tackling the problem of
+tion. Our method can be used to generate one or several possible         sketch-based terrain modeling, but of sketch-based animation of the
+geological storyboard(s) from one single input cross section. The        evolution of a terrain over time, based on geological knowledge.
+storyboard can then be used to generate a forward animation of the
+Geological Stories from Sketch                                                         EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+
+
+Figure 3: Process Overview (from left to right): (i) input sketch analysis for geological structure extraction; (ii) generation of
+branching geological story graph; (iii) Undo event simulation and storyboard sketch generation.
+
+
+2.2    Geological restoration                                             section restoration, enabling to organize sketches into story trees.
+Geological restoration has not been explored much in computer             Starting from an initial sketch, geologists draw several hypotheses
+graphics research, but commercial tools exist to help geologists in       on different branches of the tree, the last sketch being displayed
+this difficult task. These tools ease the consistent restoration of a     with semi-transparent opacity to help maintaining geometric con-
+specific terrain cross-section using either geometric constraints,        sistence. This method reduces the time spent drawing cross-sections
+physically-based simulation, or sketch-based interfaces.                  and gives geologists the opportunity to explore multiple scenar-
+   Geometric based methods allow the user to directly manipu-             ios more easily. The method remains labor-intensive since every
+late the cross section of a terrain to undo geological events while       step of every restoration hypothesis needs to be drawn by hand. It
+maintaining consistency thanks to dedicated kinematic algorithms.         is nonetheless attractive to geologists for quickly comparing and
+Geologists can undo a large range of events - even complex ones           communicating restoration scenarios.
+such as isostasy and compaction. Move2D [Exploration 2014] uses
+this kind of technique to tackle the cross restoration problem and        2.3    Automatic story-boarding
+extend it to 2.5D using several slightly shifted cross sections to undo
+                                                                          Automatic story-boarding, ie. automatically generating storyboards
+3D events. However, this technique is not automatic and requires
+                                                                          or story lines from natural language or image sequences or videos
+time and efforts from geologists. Typically, skilled geologists can
+                                                                          is not a new idea. Previous work has described interactive methods
+spend up to one week to draw and restore a cross-section of the
+                                                                          for generating storyboards from existing movies [Goldman et al.
+scale of the Chartreuse.
+                                                                          2006] using computer vision techniques. Others have attempted to
+   In contrast, physics-based methods run either forward or back-
+                                                                          automatically generate animation storyboards from movie scripts
+wards mechanical simulations over a cross section using Coulomb
+                                                                          [Ye and Baldwin 2008] using natural language processing. The
+theory and finite elements schemes in order to simulate a wide range
+                                                                          Darkshak system generates storyboards from a given story and a 3D
+of geological phenomena while preserving mechanical consistence.
+                                                                          environment [Jhala and Young 2015] and uses them to plan camera
+Forward simulation [Mary 2012] takes a hypothetic restoration of
+                                                                          shot sequences for interactive storytelling environment. Other
+the current terrain as input and run a simulation over it to enable
+                                                                          researchers have used a 3D environment and the relation between
+comparison with the current terrain, and validate or unvalidate the
+                                                                          characters to generate a structured and paced story [Dominguez
+restoration. On the opposite side of the spectrum, Dynel2D [Schlum-
+                                                                          et al. 2015]. Our geological story graphs are most similar to the
+berger 2011] runs a backward simulation on the terrain’s current
+                                                                          branching story graphs introduced by Riedl and Young [Riedl and
+cross-section by inverting the way forces were supposedly applied
+                                                                          Young 2006] who use classical partial order planning methods for
+to the original terrain state. While these methods are automatic,
+                                                                          dynamically piecing together storyboard-like sequences in response
+they are compute-intensive, which prevents the user from interact-
+                                                                          to user events in narrative games. Borrowing from their previous
+ing with the simulation. Moreover, they tackle a single geological
+                                                                          work, we dynamically generate geological story graphs in response
+event and require precise knowledge of the material and mechanical
+                                                                          to interactive event sequencing hypotheses from the geologist. In
+properties of the terrain.
+                                                                          contrast with previous sketch-based restoration methods, the user
+   Closer to computer graphics research, Lidal and al. [lster Lidal
+                                                                          does not need to draw storyboard panels one by one and manually
+et al. 2012] proposed a sketch based method for visualizing cross
+                                                                          maintain their consistency.
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                                  Garcia et al.
+
+
+3   SYSTEM OVERVIEW
+Figure 3 shows a representation of our storyboarding and animation
+process, which involves three main parts: (i) a sketch interpreta-
+tion stage parses the input cross-section into meaningful geological
+structures, and recovers the list of geological events that needs to be
+undone for restoring the cross section (Section 4); (ii) a story graph
+generation stage offers choices of events to be undone to the geolo-         Non sedimented yellow layer      Yellow layer sedimentation
+gist and updates the list of events until the sketch is fully restored
+(Section 5); (iii) a pseudo-physical simulation stage is used to undo
+geological events and build novel keyframes into the restoration
+storyboard (Section 6). Steps (ii) and (iii) are repeated until the
+cross-section is restored, as represented in Figure 3.
+   In this process, the geologist is allowed to backtrack from his
+previous choices and explore alternative restoration scenarios, fol-
+lowing a branching story graph as defined by [Riedl and Young                    Non compacted units         Green/Blue units compaction
+2006]. As a result, one or more complete paths may be generated,
+each one corresponding to a different possible geological history.
+Using keyframes along each path, we finally recompute animations,
+this time in direct chronological order, in order to explain and il-
+lustrate all the possible histories (see the accompanying video for
+details and examples).
+                                                                                   Non faulted block                 Faulted block
+4 SKETCH INTERPRETATION
+4.1 Structural depiction of subsurface geology
+Geological cross sections are geometric descriptions of the distribu-
+tion of rock material in a terrain, usually defined by their geological
+age interval. They are structured in a way that geologists are able
+to restore them within one or several annotated sketches. They
+divide the terrain into several geological elements delimited by lines             Non folded block                   Folded block
+and curves, in particular layers, blocks, faults and units. A layer
+represents a geological surface made of a single material identified
+by its age and represented by colored areas (one specific color for
+each layer). Faults represents breaks dividing the cross sections
+into blocks. Each portion of layer contained in a block is called a
+geological unit. Geologists distinguish three types of faults: nor-
+mal, reverse or strike-slip [Fossen 2016]. Normal and reverse faults
+                                                                                    Non eroded unit                   Eroded unit
+correspond to mostly vertically oriented breaks which make blocks
+slide relative to each other. Normal faults occur during extension
+while reverse faults happen during compression. Strike-slip faults,       Figure 4: Geological events effects. During sedimentation,
+where the offset is predominantly horizontal, are a more difficult        layers deposit on the ground horizontally; here the yellow
+case that cannot be easily restored in a 2D context. We therefore         layer deposits on the red ones. Compaction arises when sed-
+focus on reverse and normal faults.                                       iments are loaded on underlying layers; the green and blue
+   This structural choice fits the cross section restoration process      layers are being compacted while the yellow layer is sedi-
+because, at its birth, any terrain is composed of only one block          menting. Erosion removes units sediments on the contact
+containing one layer. Therefore, restoring a cross section consists       surface with air or water. Folds occur during terrain com-
+in transforming, removing and merging its units over time, until          pression where blocks start to deform and can reach critical
+only one layer contained into a single block remains.                     points where they break, giving birth to faults which makes
+   These transformations are equivalent to undoing geological events      block sliding against each other.
+that occurred during the history of the cross-section. In our system,
+we consider the five most frequent geological events which can be
+represented in the 2D case: sedimentation, compaction, erosion,
+                                                                          4.2    Geological structure extraction
+faulting and folding. The effect of each event is presented in Fig-
+ure 4. Our system includes mechanisms for automatically detecting         The first step of our multi-scenario restoration system is to extract
+these events as well as automatically undoing them.                       a geological structure from a hand-drawn cross-section. More
+                                                                          precisely, we extract the structure in terms of blocks, layers, faults
+                                                                          and units.
+Geological Stories from Sketch                                                            EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+    To do so, the input sketch is drawn using the Vpaint vector graph-       and Norvig 2003]. In our case, we use a non deterministic approach
+ics software1 and stored as a Vector Graphics Complex (VGC) [Dal-            where a user will successively execute actions whose preconditions
+stein et al. 2014] which is adapted to our cross section case because        are satisfied until she either reaches the expected goal, or reaches a
+it can represent arbitrarily complex topological relations between           threat (failure case). In the last case the user can backtrack from
+faces (blocks, units and layers), edges (faults and boundaries) and          her previous choices and explore a new plan.
+vertices. Additionally, we can store color-based annotations on ver-            To solve this problem efficiently, we make the assumption that ge-
+tices, edges and faces which contribute to the geological structure          ological history is an invertible planning problem, in the sense that
+extraction. Units are represented as colored faces, where each unit          each geological event can be inverted with a corresponding undo
+of the same layer has the same color. Furthermore, we color in               event. We use the definition of invertible plans from Koehler and
+white shared edges between each unit of the same block enabling              Hoffman [Koehler and Hoffmann 2000], who state that a planning
+to identify blocks as a set of units with only white shared edges.           problem is invertible iff ∀s, a ∃a −1 result(result(s, a), a −1 ) = s.
+Therefore, faults are colored in any color other than white and              In other words, for all states and actions, there is inverse action
+black, clearly dividing neighboring units into different blocks.             that returns the world to its previous state.
+    Finally, the user specifies the age of each layer, giving to our            In terms of planning operators, we represent direct geological
+system temporal information about sedimentation events and con-              events and inverse undo events using the classical STRIPS rep-
+sequently about events occurring between two sedimentations. By              resentation [Fikes and Nilsson 1971], which consists of a list of
+using all this information and by reading our VGC file starting from         preconditions (describing necessary conditions on the state of the
+the youngest units, we can easily build a geological structure with          world for the event to take place) and a list of effects (describing
+blocks containing units and identifying where the faults are located.        how the state of the world changes as a result of the event). Effects
+Figure 3 (left) shows the structure we extract from an input VGC of          are described with a list of facts that must be added to the state
+the Chartreuse cross-section inspired from Figure 1.                         of the world and a list of facts that must be deleted from the state
+    Using the previous extracted structure, we compute the state of          of the world. If a direct event has preconditions pre(e) and effects
+all units, layers and blocks, which together summarize the state             add(e) and del(e) then the corresponding inverse event has precon-
+of the terrain in the cross-section. All layers in the cross-section         ditions pre(e) + add(e) − del(e) and effects add(e −1 ) = del(e) and
+are marked as ”sedimented”, and the top layer is marked as ”non-             del(e −1 ) = add(e). This allows us to easily derive preconditions and
+covered” while all other layers are marked as ”covered”. Units               effects for all undo events using available geological knowledge.
+adjacent to a fault are marked as either ”left-faulted” or ”right-           See Figure 4 for details.
+faulted”. Other units are marked as ”non-faulted”. Units with                   As a result, we can find a partial order plan for the restora-
+constant thickness are marked as ”non-eroded” while units with               tion problem using progressive state-search (in the direction of
+non-constant thickness are marked as ”eroded”. Disconnected units            restoration time), as in classical STRIPS planning [Fikes and Nils-
+from the same layer are also marked as ”left-eroded” or ”right-              son 1971] where we iteratively choose available undo events whose
+eroded” (in this case the block unit has been eroded to the point            preconditions are satisfied, and update the state of the restoration
+that it as been divided into several sub-units). Units with a torsion        accordingly. Computing a complete story graph of all available
+energy - as defined in Section 6 - above a threshold are marked              story plans in this fashion would be possible. But for our purpose,
+as ”folded” while units under the same threshold are marked as               we rather allow the geologist to choose at each step the next undo
+”non-folded”.                                                                event from a short list, enabling her to generate one path in the
+                                                                             story graph at a time. In some cases, the geologist may choose to
+5    STORY GRAPH GENERATION                                                  backtrack to a previous state and explore a different path. Our sys-
+In this Section we describe the interactive process of generating            tem will then generate a story tree with a (small) subset of the entire
+and updating a story graph of possible restoration steps, which the          story graph. Note that the resulting story trees are similar to the
+geologist can choose, view and validate.                                     ones that would be drawn by hand using previous methods [lster
+   We formulate restoration as a classical partial order planning            Lidal et al. 2012], except that they run backwards in time. We show
+problem, where the possible actions are the undo events inferred             examples of story trees generated by our system in Figure 11.
+from the cross-section, the starting state is the present state of
+the terrain as depicted in the cross-section, and the goal state is
+the restored cross-section consisting of the oldest layer alone, in
+its original condition (non-folded, non-faulted, non-eroded and
+                                                                             5.1    Event generation
+non-compacted).                                                              In our current implementation, we are able to simulate the inverse
+   A partial ordered plan (POP) is a quadruplet (A, Po , L, Bv ) where       of 5 geological events : sedimentation, folding, faulting, compaction
+A is a set of actions that progressively lead to a predefined goal, Po is    and erosion. Considering this set of events, we build the set of undo-
+a partial order of the action set, L is a set of causal links defining ac-   able phenomena that lead a given cross-section to its current state.
+tion consequences with respect to other actions preconditions and               More precisely, we create un-sediment events for all layers, un-
+Bv is a set of variable bindings defining a set variable constraints.        fold events for all folded units, un-fault events forall left-faulted
+Previous works has proposed a variety of algorithms for automati-            and right-faulted blocks, un-erode events for eroded units and un-
+cally generating partial order plans and total order plans [Russell          compact events for all compacted units (we consider all covered
+                                                                             units as being compacted and let the user evaluate the plausibility
+1 https://www.vpaint.org/                                                    of a compaction when un-sedimenting covering layers).
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                                 Garcia et al.
+
+
+   Our system first adds an un-sediment event to action set for each         In order to evaluate un-faults events we compute the side length
+different layer contained in the cross section. Then, for each newly      of each corresponding units (same layer) of the two concerned
+un-sediment event added, we add a partial order link from the             blocks. The smaller the sum of the differences of each corresponding
+considered event to each of the older un-sediment event which is          unit side length is the greater is the probability for the un-fault
+deduced from the layer ages. The next step, consist in adding other       event to occur. We justify this function by the fact that most of the
+events and complete the list of partial time and causal ordering          time, when a fault is closing, it is done almost instantly with few
+constraints progressively. Faulting events are directly deduced from      unit height change. Un-sedimentation event evaluation function
+the VGC sketch where faults are highlighted and divide the slice          for one layer returns a probability of 1 the slice contains only one
+into blocks annotated cross section which highlight faults which          unit (thus one layer) of the considered layer and 0 otherwise. This
+divide the slice into blocks. As faulting events split one module         function is equivalent to testing if the layer has been broken or
+into two, we create a time ordering constraint from each faults           highly eroded. Additionally this function returns 0 if the upper
+event whose faults divide modules exactly into two parts to faults        bound of the layer is folded because sediments always deposit in a
+which divide them into more than two parts . This ordering can be         flat manner.
+interpreted as un-faulting faults that are adjacent to two blocks or         Un-erode event are evaluated using the amount of lacking height
+contained inside one block before others.                                 a unit needs to have a constant height over all of its surface and
+   Folded event are extracted by checking for each block if at least      which correspond to the eight of its corresponding layer itself. If a
+one of its unit is folded. If that is the case, our system adds a fold    unit has been divided into two or more parts, this function return
+event in the POP as well as a time constraint with all sedimentation      1. Finally un-folding events are measured using the sum of torsion
+events that occurred after the youngest folded unit.                      energy accumulated by each unit of a block (see Section 6). The
+                                                                          higher the energy, the higher the probability.
+                                                                             When an event is selected, we run a backward physical simula-
+5.2    Event ordering                                                     tion of it, as described in Section 6. At the end of the simulation,
+After creating the undo events, we create a partial temporal order        our system stores the resulting sketch as a keyframe in the story-
+between them based on layer ages, level of erosion and faults con-        board. At the same time, the undo event list is updated, removing
+figuration. Indeed, younger layers obviously sedimented after older       events that cannot occur anymore because of terrain changes, and
+ones and erosion of units occurred after the sedimentation of the         adding new ones by running a new sketch analysis similar to the
+layer they are part of.                                                   one described in Section 4. Finally, the process loops to the next
+   Furthermore, geologically speaking, faults occurs only between         event choice.
+two blocks, one sliding against the other. This feature allows our           At this point, the user is given the opportunity to cancel previous
+system to order faults events where those which are dividing the          undo events and backtrack to an alternative event choice. This
+slice in only two blocks will be undone before the others. Further-       feature enables geologists to explore multiple restoration scenarios,
+more, we can establish a correlation between un-sediment events           building a story tree where each node represents a storyboard
+and un-fault ones by noticing that faults can appear to not fully         panel and each tree path represents a restoration storyboard. The
+divide a block into two, with higher units being laterally continuous     iterative process ends when the user is satisfied with one or several
+(not divided into several parts); this situation implies that the fault   restoration scenarios. Figure 11 shows examples of generated story
+event occurred before the sedimentation of the lowest united unit.        trees containing one complete restoration scenario and several
+   Using those time dependencies, we are able to generate, at a           incomplete alternatives proposed at different steps.
+given sketch state, an ordered list of plausible event to undo where
+events with no time dependencies are placed to the front of the list      6     BACKWARD PHYSICAL SIMULATION
+while the others (less plausible at the current state of the sketch)
+                                                                          At each step in the restoration process, we perform a backward
+are placed to the back. The ordering will be pushed further in the
+                                                                          simulation which takes the current state of the cross-section and
+next section, when iteratively restoring the cross-section, by giving
+                                                                          updates it to take into account the effects of the corresponding
+more hints to the user before choosing an event to undo.
+                                                                          event.
+   Furthermore, as our system only treats events sequentially and
+not in parallel, we impose a time dependency between un-fault and
+un-erode events; before un-faulting a block which contains several        6.1    Mass-spring system
+units of the same layer, un-erode events should be applied before in      We consider the terrain as a deformed elastic system during each
+order to trigger the un-fault event with a more stable structure. At      event, and compute its equilibrium state by simulating a mass
+this stage, our system proposes the same ordered list as in section       spring system on each block of the cross-section. Mass-spring sys-
+4 but is more adapted to our looping process as it is updated using       tems are more versatile and faster to solve than the more common
+a partially-ordered plan structure.                                       approaches used in geological restoration, such as finite element
+   Because events are only partially ordered, there is usually a large    methods (FEM) and boundary element methods (BEM). This allows
+number of choices offered to the geologist at any point in time.          to run each simulation at interactive rate and to present the results
+To make this choice easier, we rank the possible events according         to the geologist in real-time.
+to their geological plausibility. Thus, our system sorts the most            We map mass-spring systems to all blocks using rectangular
+plausible events using heuristic evaluation functions, which awe          grids since the final shape of the slice must be rectangular or trape-
+now describe.                                                             zoidal. We add torsion springs on all vertices, with the effect of
+Geological Stories from Sketch                                                       EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+
+
+                       Figure 5: Direct and inverse geological events, with their pre-conditions and effects.
+
+
+un-folding the blocks by applying a torque (torsion force) around          6.1.2 Un-Erode. Un-eroding a unit correspond to gradually in-
+the z-axis (pointing in front of the screen) and making horizon-        creasing the equilibrium length of vertical and shear springs of
+tal (respectively vertical) springs reach an horizontal (respectively   parts whose height is lower than the final height of the correspond-
+vertical) direction.                                                    ing layer. This final height is computed when importing the initial
+   We build the mapping of each geological unit to a mass-spring        sketch; it corresponds to the the maximum height of each corre-
+system in three steps: first, we put masses at the borders in a         sponding layer’s units.
+uniform way; we then compute Hermite curves between each pair
+mass of the two level boundaries and place masses uniformly on             6.1.3 Un-Fold. Un-folding is a event which is applied to blocks
+those curves; finally, we link neighboring masses with torsion          and is easily simulated by activating the torsion force of the con-
+springs. The resulting network is illustrated in Figure 6 .             cerned block as by construction this force un-fold the block and
+                                                                        give it its original trapezoidal shape.
+
+                                                                           6.1.4 Un-Compact. The Un-compact operator reverses the effect
+                                                                        of the weight of the upper units on the lower units, resulting in
+                                                                        thickness variations. During the Un-Compaction of one unit, we
+                                                                        change the rest-length of the vertical springs to match the average
+                                                                        thickness of the unit. In addition, we also change the rest length
+                                                                        of the horizontal springs to match the upper left corner-upper right
+                                                                        corner distance of the unit, which removes unwanted bulges and
+                                                                        cavities in the unit.
+         Figure 6: Chartreuse mass-spring mapping
+                                                                           6.1.5 Un-Fault. Un-fault is a two-step event composed on a slid-
+                                                                        ing sub-event and a merging sub-event. Our system first simulates
+   Using this common framework, we are able to simulate the
+                                                                        the sliding event by making one block slide relative to the other. To
+different geological events as follows.
+                                                                        simulate this effect we run the physical loop described in Section
+   6.1.1 Un-Sediment. Un-sedimenting a layer is simulated by de-        6, apply a compression or extension force (depends on the slice)
+creasing gradually, depending on how long the material sedimented,      on the sliding block and compute collision with others. When the
+the equilibrium length of vertical and shear springs until it reaches   corresponding units of the two blocks approximately face each
+0. Horizontal springs are preserved in order to keep the layer flat     other, we merge them. This merging occurs nearly at the same time
+during the simulation.                                                  for all corresponding units.
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                                                            Garcia et al.
+
+
+6.2    Numerical solution                                                                      creates a rotational movement that we compensate with another
+In terms of physical equations, for a single mass spring system, we                            force. Thus, the induced angular momentum δT is compensated
+use an implicit Euler scheme modified using a method proposed                                  with correcting forces:
+by Desbrun et al. [Desbrun et al. 1999]. This is more stable that                                            Ficor r ect ed = (xG − x i ) ∧ δTdt
+an explicit scheme and makes it possible to use a larger time step
+                                                                                                                               n               n
+(dt = 0.02).                                                                                                                  Õ                Õ
+                                                                                                                        δT =     (xG − x i ) ∧   F ji Wi j
+   All particles in our mass-spring system have the same mass m                                                              i=1              i=1
+and are described at step n with a position x in , a velocity vin , and
+an applied force Fin (containing all filtered, corrected and external                             In addition, we introduce a torsion force creating an angular
+forces).                                                                                       moment towards a desired angle which gives our simulation a
+   At each time step we solve the second Newton’s law:                                         better control over units deformation:
+
+                                               dt                                                                   Fitor
+                                                                                                                       j
+                                                                                                                          sion
+                                                                                                                               = −ktor sion ∆θ n®
+                           vin+1 = vin + Fin+1                                           (1)
+                                               m                                                  where ∆θ is the angle between a unit vector depending on the
+                            x in+1 = x in + vin+1dt                                      (2)   spring type (Vertical, Horizontal, DownShear or UpShear) and the
+   with:                                                                                       vector x i − x j . n® is the normal vector to x i − x j pointing toward
+                                                                                               the unit vector. In addition, from this torsion force we can extract
+                                                                        (x i − x j )           a deformation energy E = 21 ∗ (ktor sion ∆θ )2 which can give to the
+       Fin+1 = −                      ki j (x i − x j ) + ki j li0j
+                         Õ
+                                                                                               user of our system, hints about the success rate of the simulation
+                                                                      ||(x i − x j )||
+                   j ∈N eiдhb(i)                                                               where highly deformed units are not desired.
+   Those equations cannot be integrated as such because forces at
+step n + 1 are unknown as we don’t know the position of the masses                             7     EXPERIMENTAL RESULTS
+at this step. Instead, we use a first order approximation to solve the                         We applied our method to three examples of very different space
+problem at step n + 1:                                                                         and time scales: Caune de l’Arago, Tautavel Fields and Chartreuse
+                                                                                               mountains.
+                                 ∂F n+1                                                           These examples were created and restored by two professional
+                      F n+1 = F n +  (x     − xn)
+                                 ∂x                                                            geologists, respectively working in geological research and in the
+Thus we need to compute J = ∂F  ∂x which is the Jacobian of F .                                oil industry, using our prototype system. These two experts users
+By using (1) (2) and (4) we obtain the following system:                                       are co-authors of this paper. In each case, they were familiar enough
+             (x n+1 − x n ) = (v n + (v n+1 − v n ))dt                                         with the geology of the tested terrain to attest the plausibility of
+                                                                                               the choices for the next undo event provided by our system and to
+                                   dt 2 −1 n              dt                                   have their own hypotheses to express on the most plausible history
+            (v n+1 − v n ) = (I −      J ) (F + dt Jv n )
+                                    m                     m                                    of the site. For each example we show a complete restoration
+  We now have approximated our equations into a solvable system                                storyboard (Figures 8, 9 and 10) as well as the corresponding story
+and we can notice that an additional force came from this approxi-                             tree (Figure 11).
+mation dt Jv n . It is an implicit viscosity that takes into account the
+movement of the neighboring particles. Consequently we have for                                7.1    Caune de l’Arago
+each particle i a new force:
+                                                                                               Caune de l’Arago is a cave located in the South of France yielding
+                                                                                               the oldest to date French human remains. We simplified the original
+                      F˜i = kdt
+                                    Õ
+                                            (v j − vi )
+                                                                                               8 meters wide and 6.5 meters high cross section into nine layers,
+                                      j ∈N eiдhb(i)
+                                                                                               which illustrate the sedimentation and its evolution since 550 ka.
+  Following [Desbrun et al. 1999], we approximate the Jacobian J                                  Using our interactive system, our expert user was able to easily
+by integrating the linear part of the elastic force:                                           build a consistent story of the site in ten steps, namely nine periods
+                                         (x i − x j )                                          of sedimentation - six of them taking place in conjunction with
+              F (i, j) = −ki j (x i − x j ) + ki j li0j                                        compaction phases, plus one erosion episode.
+                                       ||(x i − x j )||
+                                                                                                  Figure 8 shows the storyboard of the cave output by our system.
+  Consequently, J represents the Jacobian of F = −ki j (x i − x j )                            The initial sketch was drawn in 30 minutes using the Vpaint software
+where:                                                                                         Both the storyboard and a forward animation (see the attached
+                                                                                               video) were generated in only 11 minutes using our semi-automatic
+                               Ji j      = ki j if i , j
+                           (
+                                                                                               restoration process. The user only had to successively validate the
+                               Jii       = − ki j
+                                               Í
+                                               j,i                                             undo events automatically proposed by the system and to specify his
+                                                                                               hypotheses on the de-compaction phases. In comparison, restoring
+Integrating only the linear part implies that we will have some
+                                                                                               the cross-section by drawing each storyboard sketch would have
+error at the end of the integration. However we can notice that the
+                             (x −x )                                                           taken 5 hours on standard software spending 30 minutes per step
+non linear part ki j li0j | |(x i −x j ) | | has a constant magnitude during                   sketch, without any means to generate a continuous, forwards
+                                i    j
+the simulation between two steps. Consequently, this force only                                animation of the history of the site. While he pointed out that the
+Geological Stories from Sketch                                                        EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+top layer representing the current state of sedimentation should         produced in a total of four hours. Being familiar with industrial
+have been flat at all stages, the expert user was very satisfied with    restoration software, the user asserted that it would have taken one
+the use of our system, enabling him to easily express his knowledge      week to produce the same results from the initial sketch drawing
+on the history of the site and to visually explain it to collaborators   using an existing restoration software. More precisely, drawing the
+and to the public in a few moments.                                      initial sketch could take up to one day, gathering data necessary to
+                                                                         run an accurate physical simulation would have taken 4 days while
+7.2    Tautavel Fields                                                   the restoration stage using such software would have taken 2 days
+                                                                         of trials and errors. In addition, it would have taken approximately
+In a second experiment with the same expert user, we tested our
+                                                                         16 hours to draw the storyboard frame by frame. The second ex-
+method on the Tautavel fields, the region where the Caune de
+                                                                         pert user was therefore really happy with the use of our system,
+l’Arago is located. This terrain, whose cross-section is 5.7 km wide
+                                                                         enabling him to quickly express hypotheses and to validate them
+and 1 km high, is composed of five main layers of sediments and is
+                                                                         visually. He noted that the generated animation could be useful for
+fractured by three faults.
+                                                                         communication purposes as well, such as for teaching geology.
+   This example is more complex than the Caune de l’Arago since
+the three independent faults lead to several possible choices of
+chronological order for the undo events. Using our system, the
+expert user was able to restore the cross-section in 9 steps. Drawing    8   LIMITATIONS AND FUTURE WORK
+the cross-section with Vpaint took him 40 minutes. Exploring the
+                                                                         The combination of interactive storytelling techniques with physi-
+different scenarios described in Figure 11 (middle) while taking into
+                                                                         cal simulation provides an effective approach for quickly and sys-
+account existing geological knowledge to select the most plausible
+                                                                         tematically generating geological cross sections storyboards from
+sequence of events, took another 40 minutes. In total, we created
+                                                                         a single input VGC sketch. As observed on different real cases, we
+and restored the cross-section in 1 hour and 20 minutes, resulting
+                                                                         were able to generate restoration scenarios at least seven times
+into both the storyboard in Figure 9 and a full animation sequence.
+                                                                         faster using our system than using traditional means. However our
+The user estimated the time needed to draw the entire storyboard by
+                                                                         method comes with several limitations, which we would like to
+hand to approximately 14 hours and the time needed to restore the
+                                                                         address as future work. Firstly, even though our backward simula-
+cross-section using the available digital modeling and simulation
+                                                                         tion method is general and robust enough as a tool to interactively
+software to three days. Although our results may not be as accurate
+                                                                         generate consistent storyboards, more constraints could be added
+as with standard software, this second experiment validated the
+                                                                         to improve visual plausibility, such as imposing that sedimentation
+usefulness of our tool to quickly express and visually test geological
+                                                                         events always results in a horizontal top layers, which our cur-
+hypotheses.
+                                                                         rent implementation with soft physically-based constraint cannot
+                                                                         achieve. Moreover, our system does not guarantee to produce geo-
+7.3    Chartreuse                                                        logically consistent animations when played back in the opposite
+Finally, we applied our method to a cross-section of the Chartreuse      (forward) direction. Better results could be obtained by recomput-
+mountain range as shown in Figure 1, with the help of a second           ing a new simulation in the opposite (forward) time direction, using
+expert user, and experienced geologist working in the industry.          the storyboard sketches as boundary conditions. Since this final
+Chartreuse is the largest scale and most complex example we tested       step does not require user interaction, we could use more sophisti-
+with our prototype system. The selected cross-section represents         cated methods to produce more convincing results. Alternatively,
+the actual geometry of the subsurface structure, here widely out-        we could use the space-time interpolation method readily available
+cropping in the ”Cluse de l’Isère”, downstream of Grenoble city,        in the Vpaint software to directly produce animations in the Vector
+as a stack of rock layers, highly deformed by the alpine tectonic        Graphics Animation format [Dalstein et al. 2015].
+compression between Oligocene (30 Ma) and present time [Philippe            As most often done in geological restoration, we assume that the
+et al. 1998]. This cross-section is 15 km wide and 5 km high and         geological history of the terrain is a sequence of invertible events,
+is composed of seven sediment layers which deposited from the            which is indeed a simplification of the irreversible processes at work
+Jurassic to the Neogene period.                                          in geodynamics. As a result, coping with simultaneous events and
+    For simplicity reasons, we divided the cross-section into the west   parallel geometric processes which are common ground in geology
+and the east sides on the range, which can be restored indepen-          is difficult. Our current prototype system only allows for simultane-
+dently. The west side is composed of six layers, three eroded units      ous de-sedimendation and de-compaction processes, showing that
+and two faults while the east side is composed seven layers, two         jointly modeling simultaneous event would be possible within our
+eroded units and one fault. In total, the full Chartreuse example        framework. Lastly, our system is currently limited to five geological
+was restored using 17 undo events. Again, our system enabled the         event types. More complex geological events such as strike-slip
+geologist expert to explore several consistent stories and to express    faults should also be taken in consideration in future work. This is
+his hypotheses. See Figure 11 and the accompanying video for an          difficult because they typically require knowledge of the local 3D
+illustration of the full restoration process, where we assembled back    structure of the terrain. A possible extension of our work would
+the results for the two sides of the range.                              use at least two offset cross sections of the same terrain to take into
+    Drawing the full Chartreuse cross-section using Vpaint took one      account horizontal 3D events. Alternatively, a top view could be
+hour. The story graph generation took another three hours. As a          used to reconstruct the 3D structure of the terrain as in [Amorim
+result, the storyboard and the associated animation sequence were        et al. 2014].
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                                                                  Garcia et al.
+
+
+9     CONCLUSION                                                                           Arnav Jhala and R. Michael Young. 2015. Cinematic Visual Discourse: Representation,
+                                                                                               Generation, and Evaluation. IEEE Transactions on Computational Intelligence and
+We have proposed a novel approach for automatically generating                                 AI in Games (2015), 69–81.
+complete geological stories from a single sketch. Our work bridges                         Jana Koehler and Jörg Hoffmann. 2000. On Reasonable and Forced Goal Orderings and
+                                                                                               Their Use in an Agenda-driven Planning Algorithm. J. Artif. Int. Res. 12, 1 (June
+the gap between traditional geological restoration methods and                                 2000), 339–386.
+the emerging approaches for geological storytelling. Our interac-                          Daniel Simoes Lopes, Daniel Mendes, Mauricio Sousa, and Joaquim Jorge. 2016. Expe-
+tive solution combines artificial intelligence planning techniques                             ditious illustration of layer-cake models on and above a tactile surface. Computers
+                                                                                               and Geosciences (2016).
+with physically-based simulation methods to enable the user to                             Endre Mølster Lidal, Mattia Natali, Daniel Patel, Helwig Hauser, and Ivan Viola. 2012.
+systematically, yet quickly explore the space of all possible geologi-                         Geological storytelling. Computers & graphics 37, 445-459 (2012).
+cal stories compatible with a given input sketch, and express their                        Baptiste Mary. 2012. SLAMTec. https://www.u-cergy.fr/fr/laboratoires/laboratoire-gec/
+                                                                                               equipement/logiciels.html. (2012).
+hypotheses. Our early prototype was tested on three real examples                          F. Kenton Musgravet, Craig E. Kolb, and Robert S. Mace. 1989. The Synthesis and
+of geological restoration problems at different time and space scales,                         Rendering of Eroded Fractal Terrains. Tansactions on Graphics (1989), 41–50.
+                                                                                           Mattia Natali, Endre M. Lidal, and Daniel Patel Julius Parulek, Ivan Viola. 2013. Model-
+and was found to be expressive and responsive enough to guide the                              ing Terrains and Subsurface Geology. NPROCEEDINGS, EuroGraphics 2013 State of
+geologist towards the depiction of a plausible geological history in                           the Art Reports (STARs) (2013), 445–459.
+each case.                                                                                 Jacob Olsen. 2004. Realtime Procedural Terrain Generation. Department of Mathematics
+                                                                                               And Computer Science (IMADA) University of Southern Denmark (2004).
+                                                                                           Y. Philippe, E. Deville, and A. Mascle. 1998. Thin-skinned inversion tectonics at oblique
+                                                                                               basin margins: example of the western Vercors and Chartreuse Subalpine massifs.
+ACKNOWLEDGMENTS                                                                                Geological Society Special Publication (1998), 239–262.
+The work was supported by the European Research Council ad-                                Mark Riedl and Michael Young. 2006. From Linear Story Generation to Branching
+                                                                                               Story Graphs. IEEE Computer Graphics and Applications Special Issue on Interactive
+vanced grant EXPRESSIVE (ERC-2011-ADG 20110209) and a grant                                    Narrative (2006).
+by TOTAL FRANCE. Special thanks to Marie-Christine CACAS-                                  Amorim Ronan. 2017. 3D Geological Modeling from Concept Sketches and Annotations.
+                                                                                               University of Calgary.
+STENTZ, Tristan CORNU and Sebastien SCHNEIDER for their                                    Stuart J. Russell and Peter Norvig. 2003. Artificial Intelligence: A Modern Approach (2
+advice and encouragement, and Estelle CHARLEROY for her ani-                                   ed.). Pearson Education.
+mation of the Chartreuse mountain in the accompanying video.                               Schlumberger. 2011. Dynel2D. http://www.software.slb.com/-/media/software/
+                                                                                               documents/external/product%20sheets/dynel 2d ps.pdf. (2011).
+                                                                                           Flora Ponjou Tasse, Arnaud Emilien, Marie-Paule Cani, Stefanie Hahmann, and Neil
+                                                                                               Dodgson. 2014. Feature-based Terrain Editing From Complex Sketches. Computers
+REFERENCES                                                                                     and Graphics (2014), 101–115.
+Ronan Amorim, Emilio Vital Brazil, Faramarz Samavati, and Mario Costa Sousa. 2014.         Y. Yamada and K. McClay. 2003. Application of geometric models to invert listric fault
+    3D geological modeling using sketches and annotations from geologic maps. Sketch-          systems in sandbox experiments: hanging wall deformation and section restoration.
+    Based Interfaces and Modeling (2014).                                                      Journal of Structural Geology 25 (2003), 1551–1560.
+M. Bulnes and K. McClay. 1999. Benefits and limitations of different 2d algorithms used    Patrick Ye and Timothy Baldwin. 2008. Towards Automatic Animated Storyboard-
+    in cross-section restoration of inverted extensional faults: application to physical       ing. In Proceedings of the 23rd National Conference on Artificial Intelligence - Vol-
+    experiments. Tectonophysics 312 (1999), 175–189.                                           ume 1 (AAAI’08). AAAI Press, 578–583. http://dl.acm.org/citation.cfm?id=1619995.
+Guillaume Cordonnier, Jean Braun, Marie-Paule Cani, Bedrich Benes, Eric Galin, Adrien          1620089
+    Peytavie, and Eric Guérin. 2016. Large Scale Terrain Generation from Tectonic
+    Uplift and Fluvial Erosion. Computer Graphics Forum 35, 2 (May 2016), 165–175.
+C.D.A. Dahlstrom. 1969. Balanced cross sections. Canadian Journal of Earth Sciences 6
+    (1969), 743–757.
+Boris Dalstein, Remi Ronfard, and Michiel Van De Panne. 2014. Vector Graphics
+    Complexes. ACM transactions on Graphics, Proceedings of ACM SIGGRAPH (2014).
+Boris Dalstein, Remi Ronfard, and Michiel Van De Panne. 2015. Vector Graphics
+    Animation with Time-Varying Topology. ACM Transactions on Graphics, Proceedings
+    of ACM SIGGRAPH 34, 4 (2015).
+Mathieu Desbrun, Peter Schr fkoder, and Alan Barr. 1999. Interactive animation of
+    structured deformable objects. Graphic Interface (1999).
+Carlos Antonio Dominguez, Yuya Ichimura, and Mubbasir Kapadia. 2015. Automated
+    interactive narrative synthesis using dramatic theory. Proceedings of the 8th ACM
+    SIGGRAPH Conference on Motion in Games (2015), 103–112.
+S. Erickson, S. Hardy, and J. Suppe. 2000. Sequential restoration and unstraining of
+    structural cross sections: Application to extensional terranes. AAPG Bulletin 84
+    (2000), 234–249.
+Midland Valley Exploration. 2014. 2DMove. http://www.mve.com/software/
+    2d-kinematic. (2014).
+Richard E. Fikes and Nils J. Nilsson. 1971. STRIPS: A New Approach to the Application
+    of Theorem Proving to Problem Solving. In Proceedings of the 2Nd International
+    Joint Conference on Artificial Intelligence (IJCAI’71). 608–620.
+Clauzon G. Vaudin J.-L. Berger G.-M.et Fonteilles M., Leblanc D. 1993. Carte géologique
+    de la France (1/50 000), feuille Rivesaltes (1090). BRGM éd., Orláns, France.
+Haakon Fossen. 2016. Structural Geology, 2nd Ed. Cambridge University Press.
+Jean-David Génevaux, Éric Galin, Eric Guérin, Adrien Peytavie, and Bedrich Benes.
+    2013. Terrain Generation Using Procedural Models Based on Hydrology. ACM TOG
+   (Siggraph 2013) 32, 4 (July 2013), 143:1–143:13.
+Dan B Goldman, Brian Curless, David Salesin, and Steven M. Seitz. 2006. Schematic
+    Storyboarding for Video Visualization and Editing. ACM Trans. Graph. 25, 3 (July
+    2006), 862–871.
+R. Groshong. 1999. Structural validation, restoration and prediction. In 3D Structural
+    Geology: A Practical Guide to Surface and Subsurface Map Interpretation. Springer,
+    Berlin, Heidelberg, 305–372.
+Halliburton. 2009.                 Lithotect.            https://www.landmark.solutions/
+    LithoTect-Advanced-Structural-Modeling. (2009).
+Geological Stories from Sketch                                                    EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+
+
+Figure 7: Manual cross section restoration process. Represented by a sketch sequence, geologists, Alain Fournier in this case,
+undo all geological event sequentially, retrieving all of terrain’s past states. The sketches are then displayed in the reverse order,
+following the chronological order of the terrain formation. The example illustrated here represent a cross-section restoration
+process of the Caune de l’Arago described in Figure 8.
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                Garcia et al.
+
+
+
+
+Figure 8: Caune de l’Arago restoration Storyboard. Caune de l’Arago is a cave located in the South of France, 40 km to the
+NE of the Pyrenees and 25 km west from the Mediterranean Sea, where 11 m of a 17 m thick Pleistocene infilling has been
+excavated since 1964, under the successive supervision of Henry de Lumley, Marie-Antoinette de Lumley, Anne-Marie Moigne
+and Christian Perrenoud. It yielded the oldest to date French human remains, together with hundreds of thousands of animal
+bone fragments and stone tools. This cross-section compiles lithostratigraphy, directly drawn from the field (sedimentary
+and postdepositionnal features, i.e. bedding, texture, color, cimentation, FeMn oxides,…) and informations obtained after the
+study of the components of the layers (sedimentology, biostratigraphy, ethnostratigraphy). This example was simplified into
+9 layers that deposited and caused the compaction of the above layers.
+Geological Stories from Sketch                                               EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+
+
+                                                                                                                    -
+
+Figure 9: Tautavel Fields restoration Storyboard. Those fields have the same location than the Caune de l’Arago (below the
+arrow in (j) Original Sketch) but they extend to a 100 times wider scale. Being 5.7 km wide and 1 km high, this cross section
+is composed of 5 sediment layer as well as 3 Faults. In this generated story board, we present one restoration scenario where
+we un-sedimented the Khaki Layer, then closed successively all faults, un-folded the whole terrain and un-sedimented the
+remaining layers. Original Sketch modified from [Fonteilles M. 1993]
+EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada                                                                      Garcia et al.
+
+
+
+
+Figure 10: Chartreuse restoration Storyboard. Located in the French Alps, across the ”Cluse de l’Isère”, downstream to the city
+of Grenoble, this cross-section is 15 km wide and 5 km high and contains 7 sediment layers, 3 Faults and 5 Eroded units. In the
+chronological order, the first five layers (blue, light blue, light green, green and red) deposited. Then, after two small erosions,
+a faulting occurred on the east side. Two new layers (Khaki and Yellow) deposited before some local erosions on the west side.
+Finally, two faulting events occurred on the west side, making the Chartreuse fit its current state.
+Geological Stories from Sketch                                                EXPRESSIVE 2018, Aug. 17–19, Victoria, BC, Canada
+
+
+
+
+Figure 11: Story trees: (a) Caune de l’Arago; (b) Tautavel fields; (c) Chartreuse. The story tree describes the storyboard gen-
+eration process where at each node, several undo events are proposed, letting the user choose one of them and continue the
+iterative process at the end of each event simulation. Un-Sed (respectively Un-Er and Un-Cp) represents an un-sedimentation
+(respectively un-erosion and un-Compaction) event of the layer corresponding to the circle filling color. Colored arrows cor-
+respond to the user’s chosen events, while black ones correspond to alternative choices that were not chosen.
+

@@ -1,0 +1,760 @@
+                                          Earth and Planetary Science Letters 252 (2006) 119 – 137
+                                                                                                                www.elsevier.com/locate/epsl
+
+
+
+
+              Paleo sea levels reconsidered from direct observation of
+                  paleoshoreline position during Glacial Maxima
+                              (for the last 500,000 yr)
+           Marina Rabineau a,⁎, Serge Berné b , Jean-Louis Olivet b , Daniel Aslanian b ,
+                           François Guillocheau c , Philippe Joseph d
+                                      a
+                                       CNRS, UMR6538,Domaines Océaniques, IUEM, 29280 Plouzané, France
+                                                b
+                                                  IFREMER, DRO/GM,BP 70, 29280 Plouzané, France
+                                        c
+                                          Géosciences Rennes, Université de Rennes 1, 35042 Rennes, France
+                                  d
+                                      IFP, Division Géologie-Géochimie, BP311, 92 506 Rueil Malmaison, France
+                        Received 7 September 2005; received in revised form 13 June 2006; accepted 18 September 2006
+                                                     Available online 3 November 2006
+                                                             Editor: V. Courtillot
+
+
+
+  Abstract
+
+      The drastic climatic changes which characterise the cooling trend of the last few million years of Earth history led to variations
+  in eustatic sea level that had tremendous impact on the geology and ecology of continental margins. Reconstructing a sea-level
+  curve back in time is not an easy task. Observations of shoreline positions are always a local measurement of Relative Sea Level
+  that needs to be corrected from the effect of tectonic and thermal subsidence, sediment loading, compaction and glacio-hydro
+  isostasy. Extensive studies have been done for the last deglaciation and for the last 100,000 yr cycle. But very few studies deal with
+  position of sea level during earlier cycles, simply because conditions are very rarely favourable for the preservation of such
+  witnesses. The shelf of the Golfe du Lion (Western Mediterranean) reveals a unique record of shoreline paleopositions during
+  glacial maxima of at least the last five circa 100 kyr glacial/interglacial cycles. In fact it is the entire glacial deltaic lobe of up to
+  50 m thick (from delta front or shoreface to prodelta) that has been preserved in place and which provides direct and independent
+  constraints for relative sea-level minima. We measure a relative sea level of: − 112m, −128, − 134, −246 and −262 m for MIS 2, 6,
+  8, 10 and 12 respectively. After corrections taking into account postdepositional movement of strata (subsidence), we find, that sea
+  level dropped to a depth of − 102 ± 6 m during the last three glaciations (MIS2, MIS6, MIS8) but reached exceptionally low values
+  of more than −150 ± 10 m during the preceding glaciations MIS10 and MIS 12 at about 340 and 434 kyr BP. This general time
+  framework and sedimentological interpretation has been confirmed by preliminary results from two deep drillings during the
+  PROMESS cruise (july 2004), which validate our methodology. However, no detailed and absolute datings of such witnesses are
+  available so far, so that we cannot prove that these levels are the lowest ever reached during each glacials, but they correspond
+  undoubtedly to the last preserved shoreface before rapid sea-level rise. We also suggest that the abrupt change in sea-level maxima
+  might be the overprint of 400 kyr orbital periodicity cycles. Last but not least, these results prove that the Golfe du Lion is indeed a
+  unique laboratory to study paleoclimates and sea-level variations on a larger time scale. Further work is needed for a complete
+
+
+
+
+⁎ Corresponding author. Tel.: +33 2 98 49 87 28; fax: +33 2 98 49 87 60.
+     E-mail address: marina.rabineau@univ-brest.fr (M. Rabineau).
+
+  0012-821X/$ - see front matter © 2006 Elsevier B.V. All rights reserved.
+  doi:10.1016/j.epsl.2006.09.033
+120                              M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+glacio-hydro-sedimento isostatic modelling of each sequence and each glacial to further constraint local sea level versus global sea
+level and quantify, in particular the relative effect of glacio-hydro isostatic effect (which differ according to ice sheet extend) but
+also of erosion–sedimentation isostatic effect (erosion on land and deposition on the outer shelf and slope).
+© 2006 Elsevier B.V. All rights reserved.
+
+Keywords: sea-level changes; sea-level amplitudes; glacioeustatism; shoreline position; climatic cycles; glacial maxima; subsidence; Golfe du Lion;
+Gulf of Lions; Mediterranean Sea
+
+
+
+
+1. Introduction                                                              well constrained and that discrepancies subsist between
+                                                                             estimates (Table 1 and Fig. 1). On a longer time scale,
+    Throughout the Quaternary, sea-level evolution is                        apart from the original study of Rohling [27] using
+directly linked to climate variations and the induced                        variations in salinity in the Red Sea as observed in cores
+throb of ice sheets. During the last decades, extensive                      and related to sea-level variations for the last 500,000 yr
+efforts have been made to obtain a subcontinuous record                      and the following work of Siddall using hydraulic
+of paleoclimatic changes from the study of marine,                           modelling in the Red Sea [13], and the new long
+continental or ice cores with, in particular, great progress                 drillings in reefs [28], there have been very few studies
+in the use of isotopic ratios. However, such data do not                     using direct geological field evidence to estimate
+give direct access to sea-level history. A simple linear                     quantitative paleo-sea-level amplitudes, especially for
+relationship between the oxygen isotope record and                           low stands and earlier glacials (Table 1). The work of
+global continental ice volume [1] or a more elaborate                        Ferland [29] is one of the few attempts based on
+relationship [2] is often taken as a first approximation                     sediment cores on the shelf. The present work provides
+but is known to be too simplistic [3,1,2]. Direct proofs                     new estimates of Corrected sea-level amplitude for the
+of sea-level position such as morphologic, diagenetic or                     last five glacials on the outer shelf of the Golfe du Lion,
+organic features (e.g. marine notches, terraces, arche-                      Western Mediterranean Sea.
+ological data, beach rocks, peats or coral construc-
+tions…) can be obtained from geological evidence on                          2. Method: using seismic images to measure sea-
+continental margins to calibrate the curves. But sea level                   level amplitude
+obtained in that way is a local Relative Sea level (RSL)
+as the Earth surface is subject to subsidence or uplift.                         Many factors of global, regional or local scale have
+This Relative Sea level needs to be corrected from the                       long been recognised to control the overall geometry and
+effects of tectonic and thermal subsidence, sediment                         deposition of sediments. Seismic stratigraphy was
+loading and compaction, glacio-hydro isostasy, gravita-                      developed at the end of the 70′s, to address part of those
+tional potential, in order to obtain a Corrected Sea level                   questions that were critical for petroleum exploration
+(CSL). To do so with confidence, the geological context                      [30–36] but this type of work deals with long-term evo-
+of the studied area needs to be chosen carefully and                         lution of sea level with sequences of the order of 1 Ma.
+known in great detail. In any case, neither of these two                         On shorter time scales, (i.e. Pleistocene), many studies
+approaches alone (isotopic and geological) is sufficient                     have also been undertaken on continental margins. They
+to reconstruct a continuous calibrated sea-level curve;                      are too numerous to be cited. However, we note that, to
+we need to compare and combine their results. This has                       our knowledge, very few attempts have been made to use
+been done successfully for the last deglaciation (from                       these observations to estimate sea level. This was also
+20 to 0 cal-kyr BP) using corals, dating methods (14C                        partly due to the inability to drill in shallow water, that has
+and U/Th) [4–9], glacio-hydro-isostatic models [10–12]                       long hampered progress in reconstructing sea-level
+or hydraulic model of water exchange [13]. Few studies                       history [37]. So, in most studies paleoclimatic curves
+also tried to calibrate the last interglacial and the entire                 derived from isotopic data were used as a reference and
+last glacial cycle (OIS 5 to OIS 3) in the same way using                    sequences observed on the field were correlated directly
+corals and dating methods [5,14–21] but also stalag-                         to the paleoclimatic curves (e.g. [38,39]). One attempt of
+mites, speleothems and dating methods [22,23] or again                       amplitude determination after the work of [40,41] was
+using glacio-hydrostatic models [24–26]. However, the                        proposed by Skene using numerical stratigraphic model-
+comparison of all these studies shows that even the sea                      ling [42] that led him to a modification of sea-level curves
+level at the Last Glacial Maximum (LGM) is still not so                      (see his curve in Fig. 1).
+                                  M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                                121
+
+
+Table 1
+Synthesis of results for the estimation of Sea level at glacial maxima during LGM, MIS 6 to MIS12 from literature using different methods
+Oxygen      Age             Sea-level estimates   Ice            Authors                    Location                   Method
+isotope     (kyr)           (meters below         equivalent
+stage                       present SL)           sea level
+                                                  (meters
+                                                  below PSL)
+Stage 2.2   18 14C-kyr                            127            CLIMAP, 1981               Global                     Climate models
+            (=21 cal-kyr)                         163
+                                                  160            Hughes et al. 1977   Global                           Ice sheets
+            20 cal-kyr                            140            Lambeck et al., 2002 Barbados, Bonaparte              RSL records and isostasy
+                                                                 (Fig. 11)            Gulf, Sunda shelf, Tahiti,
+            21 cal-kyr                            123                                 Huon, Christchurch
+            22 cal-kyr                            146
+            30–19 cal-kyr                         130 to 140  Lambeck and Chappell                                     RSL records and isostasy
+                                                              2001 (Fig. 3b)
+                                                  125 ± 5     Fleming et al., 1998                                     RSL records and isostasy
+                            105                               Peltier, 1994;         Barbados                          RSL records and isostasy
+                                                  113.5–116.5 Peltier, 2002-QSR
+                                                  b120 m      Peltier, 2002 (reply)
+                                                  115–135     Milne et al., 2002     Barbados, Bonaparte               RSL records and isostasy
+                                                                                     Gulf, Huon peninsula,
+                                                                                     Tahiti
+                          RSL = 105–115                       Lambeck and Bard, 2000 Mediterranean Sea                 RSL records and isostasy
+            18–17 cal-kyr RSL = 135–143                       Camoin et al., 2001    Moruroa, French Polynesia         Corals
+            18–17 cal-kyr 110–115                             Camoin et al., 2004    Indian Ocean, Mayotte             Corals (Acropora +
+                                                                                                                       Galasea + lithophyllum +
+                                                                                                                       hydrolithon)
+            19 cal-kyr      125                                  Fairbanks, 1989            Barbados                   Drilled coral reefs,
+                                                                                                                       Porites
+            19 cal-kyr    118                                    Bard et al., 1990 (nat)    Barbados                   Drilled Palmata coral
+            21 cal-kyr    116                                    Hanebuth, 2000             Sunda shelf                Sed cores
+            19 cal-kyr    114
+            19–22 cal-kyr                         − 130 to       Yokoyama et al., 2000      Bonaparte Gulf
+                                                  − 135
+            19–22 cal-kyr 121 to 125 (±4)                        Yokoyama et al., 2001a     Bonaparte Gulf             RSL records and isostasy
+                          Discuss those results                  Shennan and Milne, 2003    Bonaparte Gulf             Cores analysis
+            18 14C-kyr    130                                    Chappell and Shackleton,
+                                                                 1986
+            20 cal-kyr      120                                  Rohling, 1998              Red Sea                    Salinities in sed cores
+                                                                 Siddall, 2003              Red Sea                    Hydro Model
+                            Above 130 m                          Ferland et al., 1995       Shelf Southeastern         Core analysis
+                            Above 125 m                                                     Australia
+Stage 6.2   135 kyr         125                                  Schackleton, 1987                                     Oxygen isotopes
+            135 kyr         130                                  Chappell and Shackleton,   Huon peninsula             Uplifted sequences
+                                                                 1986                       Deep Pacific               oxygen isotopes
+            135 kyr         125                                  Rohling, 1998              Red Sea                    Salinities in sed cores
+                            Above 130 m                          Ferland et al., 1995       Shelf Southeastern         Core analysis
+                                                                                            Australia
+Stage 8.2   270 kyr         Above 120 m                          Rohling, 1998              Red Sea                    Salinities in sed cores
+                            Above 130 m                          Ferland et al., 1995       Shelf Southeastern         Core analysis
+                                                                                            Australia
+Stage 10.2 340 kyr          122–134                              Rohling, 1998              Red Sea                    Salinities in sed cores
+Stage 12.2 440 kyr          139                                  Rohling, 1998              Red Sea                    Salinities in sed cores
+Note the discrepancies in the results. References (as appearing in column 5) [65,81,26,82–87,45,28,9,4,5,64,11,68,88,69,27].
+
+
+
+   Our study gives an estimate of relative sea-level                        high quality and very high resolution Sparker Seismic
+magnitudes during the last five glacial maxima from                         data acquired in a unique geological context: the Golfe
+unique direct seismic observation of delta front using                      du Lion (see details in Sections 3 and 4).
+122                               M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+3. Studied site: the Golfe du Lion, an unique site to                          significantly impact on global sea level but their
+study sea-level variations                                                     presence led to important erosion and scouring providing
+                                                                               an important source of sandy sediments, to be trans-
+    The Golfe du Lion offers a perfect natural laboratory                      ported by rivers and ultimately deposited in the Golfe du
+for sea-level calibration of glacial maxima for the                            Lion; (e) The western part of the Gulf, on which we will
+climatic cycles during Plio-Pleistocene (Fig. 2) as: (a)                       focus our study, is not under the direct influence of
+the Mediterranean Sea has been connected to the global                         deposits coming from the Rhone (Figs. 2-C and 3); the
+ocean throughout Plio-Quaternary time, so that sea-level                       reduced sediment input, together with a wide shelf (up to
+variations are directly linked to Arctic and Antarctic ice                     70 km) and ongoing subsidence, favoured a progressive
+caps fluctuations (b) The Golfe du Lion is a young                             filling of the available space, and therefore the recording
+margin resulting from the rotation of the Corso-Sardinian                      of the comings and goings of shorelines, and the rise and
+block between about 21 Myr and 15 Myr [43,44]. The                             fall of sea levels.
+subsidence is still underway at present and continually                            As a result, previous attempts have been successfully
+creates a large amount of space to be filled by sediments                      undertaken to estimate LGM sea level and Deglacial
+(i.e. an accommodation); (c) During the Last Glacial                           sea-level curves in the Golfe du Lion and nearby, using
+Maximum, mountain glaciers covered a large part of the                         shallow core data [46–48] and glacio-hydro isostatic
+Alps, and there were smaller glaciers in the Pyrenees and                      modelling: during LGM, sea levels along the coast and
+the Massif Central. However, neither the drainage basins                       immediate off-shore areas stood at between 105–115 m
+nor the shelf was covered by ice (Fig. 2-B). Moreover,                         below present sea level [45]. The glacio-hydro isostatic
+the Golfe du Lion is situated sufficiently far from former                     signals in this region, at LGM, are of the order of 10–
+ice sheets (hundreds of kilometers) for important glacio-                      15% of the eustatic contribution and vary significantly
+isostasy of the margin to be excluded, so that sea level                       across the shelf because of the water loading.
+follows, in a first approximation, the eustatic changes                            So far, no estimates were available in the Golfe du
+(Cit. [45], p.204); (d) The mountain glaciers did not                          Lion for earlier cycles and earlier glacial maxima.
+
+
+
+
+Fig. 1. Synthesis of sea-level data (from isotopic curves, [4,5,71,2,72–74] glacioisostatic modelling [26], stratigraphic modelling [42], or punctual
+measurements (corals, spéléothems, salinities…). Crosses are sea-level estimates for the last glacial-interglacial cycle based on U–Th dated coral reefs
+and other evidence (full references in Waelbroeck [2]), other punctual measurements ([27,69,19,21]. Scale on right axis: variations in mean ocean
+water δ18O derived from atmospheric δ18O. Scale on left axis (RSL) for punctual measurements. Note the differences and the uncertainties associated
+with the different curves and measurements for sea-level estimates.
+                            M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                     123
+
+
+4. Defining Paleoshoreline positions through time                    (Ostracodes (mostly infralittoral species, 60 m water
+and duration of sequences                                            depth) dated at 45 cal-kyr BP, steppic pollens and
+                                                                     Dinokystes of cold period). PII-t2 and PI-t2 are
+   The recent compilation of bathymetric data [49]                   deposited during MIS2: paleoenvironments of PI-t2 in
+shows that the continental shelf comprises three main                C12 are shallow (30–40 m according to Pteropodes and
+areas (Figs. 2-C and D and 3).                                       Foraminifera) and dated at 23.1 cal-kyr BP, Paleoenvir-
+                                                                     onment of PII-t2 is very shallow (delta front-upper
+  (a) On the inner part, between the present coast 0 m               shoreface (5–10 m water depth) with in some places the
+      and isobath 90 m (around 30 km seaward of the                  formation of beachrocks at the top (0 m water depth)
+      coast), bathymetric contour lines indicate a step              dated between 21 cal-kyr and 15.5 cal-kyr [55,56]. PIII-
+      from 0–10 m corresponding to present day prism                 t3 is very limited in thickness, it takes the form of
+      PII (shoreface sandy deposits), then smooth                    reworking sand dunes that are deposited during MIS1
+      contour lines with bulges related to the subaqueous            (C9 shows both cold and warm Foraminifera, dated at
+      part (prodeltas) of transgressive and high stand               14,139 cal-kyr). A full description of this data set is
+      deltaic lobes that have been mapped, sampled and               published in Rabineau et al. [54]. More detailed work
+      dated (post 18 kyr-C14) ([46,50–52]).                          has also been undertaken for the transgressive dunes
+  (b) On the outer part, between 90 and 100 m,                       [57] and the last sequence [56].
+      bathymetric contour lines indicate a very flat                    The geometry of this area represents the ancestral
+      area with smaller scale rough morphology. A                    landscape as it stood some 20 thousand years ago (during
+      distinct notch or step occurs at the end of this area          MIS2) with little reworking during the subsequent rapid
+      at 110 m (Fig. 3). Shallow cores (few meters long)             transgression [58,59]. We showed [60,54] that the motif
+      indicate that sediments outcropping (from 90 to                PI/PII/(PIII) is complete, only, in the western part of the
+      110 m) are sands [53] (see also Fig. 2 in [54]).               Gulf (around the Aude-Hérault canyons). Towards the
+  (c) Between 120 and 160 m, isobaths are smooth                     East (the Rhône) and to the South (Cap Creus) PII is
+      again on interfluves with silty to muddy prodeltaic            often missing (not deposited or eroded).
+      offshore deposits.                                                In depth, seismic profiles show a total of five
+                                                                     sequences of prisms PI/PII/(PIII)(S1 to S5), separated
+    The compilation and 3D analysis of Very High                     by major erosional surfaces: D30, D40, D50, D60, D70
+Resolution seismic data (Sparker and 2.5 kHz data)                   (Figs. 3 and 4). Each prism PII corresponds to the
+combined with the analysis of shallow cores, shows that              deposition and preservation of the shoreline–shoreface
+the sedimentation repeats through time with a distinct               of glacial times. The preservation of the shoreline–
+sedimentary motif PI/PII/(PIII) developed between                    shoreface is not the same everywhere, i.e. erosion occurs
+major erosion surfaces D30, D40, D50, D60 and D70                    (subaerial and submarine) (Fig. 5). So, defining the zone
+[54] (Fig. 4-A and B). Five sequences S1, S2, S3, S4 and             where shoreline is the most well preserved needs a
+S5 are therefore stacked vertically and separated by the             detailed 3D interpretation of all seismic lines. This has
+erosion surfaces, clearly identifiable on seismic profiles.          been done in great detail in the Aude-Hérault area with
+    Evidence integrating lithology, palynology, micropa-             detailed maps of all units and surfaces [59,60,54]. This
+leontology, from 21 cores sampling the last sequence S5              work enables us to map the shoreline at the time of
+with 14 radiocarbon datings together with seismic                    glacial maxima and to define the outer limit of best
+stratigraphy and numerical stratigraphic modelling dem-              preserved glacial delta front as seen on seismic profiles
+onstrate that the top of PII-t2, which corresponds to the            (Fig. 5) and mapped in 3D (Fig. 6).
+step observed on the outer shelf (Fig. 3) represents the                We tested the hypothesis that each of the sequences
+preserved position of the delta front/shoreface during the           was being deposited during a cycle of the same order of
+LGM and that the outcome motif preserved on the outer                magnitude and duration as S5, i.e.: 100 000 yr. This
+shelf is the result of one 100,000 yr climatic cycle [54].           hypothesis effectively enabled us to reproduce correct
+    S5 is the result of deposition/erosion throughout a              geometries using numerical stratigraphic modelling
+cycle of variation of sea level (MIS3/MIS2/MIS1) as                  [60,54]. So the last 5 erosion surfaces and preserved
+summarised on Fig. 4-B. MIS5 was deposited during the                delta front-shoreface correspond to delta front related to
+high stand on the inner shelf (as in present day                     MIS2, MIS6, MIS8, MIS10 and MIS12.
+conditions), and eroded during following sea level                      Preliminary results from two deep drillings realised
+lowering. PI-t1 was deposited during MIS3, (Core VK-                 during the PROMESS cruise (july 2004) confirm the
+20 shows a prodeltaic, upper offshore paleoenvironment               overall chronostratigraphic framework for the last
+124   M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+                                  M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                                       125
+
+
+
+
+Fig. 3. Detailed bathymetry of the study zone on the outer shelf in the area of the Aude-Hérault canyons (modified from Berné et al. [49]). A2: head 2
+of the Aude canyon; H1 to H4: heads of the Herault canyons (nomenclature from Berné et al. [79]. Crosses represent core samples, crosses with
+circles represent cores with datings (core numbers in red). The black line represents the location of the seismic profile shown in Fig. 3. Black dots on
+orange and yellow colours represent the extension of sandy littoral deposits of Last Glacial Maximum (MIS 2).
+
+
+500,000 yr (originally based on seismic stratigraphy                           slope” [Promess cruise Newsletter 3], [61] which
+interpretation and numerical stratigraphic modelling):                         corresponds to D30 at the top of S1 (http://www.
+“The occurrence of Pseudoemiliana lacunosa below                               pangaea.de/Projects/PROMESS1/Cruise).
+270 mbsf indicates that Marine isotope stage MIS 12                               The preservation of such paleoshorelines–shoreface
+was reached at the bottom of the hole GL1 on the upper                         through successive glacial/interglacials is unique (a
+
+Fig. 2. Location and bathymetry of the Golfe du Lion. A) Location of the Golfe du Lion within the Mediterranean Sea. B) The Golfe du Lion with its
+present day simplified drainage basins (mainly the Rhone to the North, the pyreneolanguedocian rivers to the West) delimited by thick red lines. In
+white: average and simplified maximum extension of the mountainous glaciers during last glacial maximum (LGM) (drawn and simplified using data
+from [75–77]). The dotted white line shows the extension of the alpine glaciers during the penultimate Riss glaciation (MIS 6). C) Detailed
+bathymetric map (modified from Berné et al. [49]. A: Aude (or Bourcart) canyon; H: Hérault canyon. Note the three distinct morphologic areas from
+coast to shelf break and slope: (a) an area coloured in orange on the inner shelf (between the present coast and isobath 90 m) (around 30 km seaward of
+the coast) with smooth bathymetric contours and a regular dip with an average slope of 0.3–0.45% (i.e. 0.17–0.25°). The deposits there correspond to
+post 18 kyr-14C sediments [46,47,78]; (b) a very flat area on the outer shelf (depth 90–100 m, width 20 to 40 km) coloured in yellow with rough
+isobaths and a very low angle of slope 0.05–0.25% (0.015–0.03°). At the end of (b), a clear step occurs at a depth of about 112 m (in the western area
+of the gulf) and reaches dips of 4°. Surficial cores (several meters) indicate that sediments outcropping between 98–112 m are sand deposits (black
+dots in Fig. 3); (c) an area coloured in blue with steeper slopes and smooth isobaths, between 120 and 160 m on interfluves (with slopes around 0.4%).
+The blue line represents the location of seismic profile interpreted in D). D) Profile from present day Coast (with present day sandy yellow prism PII),
+to the outer shelf (with regressive sandy yellow prism PII from MIS2). Note the three areas (a), (b), and (c) previously described. Grey deposits
+correspond to transgressive and high stand deposits (post 18 kyr-14C).
+126   M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+                                   M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                                          127
+
+
+clear position of the shoreline was not the case for Skene                           This “total” subsidence measured from a geometrical
+et al., 1998 for example, or in Adriatic where there is                           point of view is the overall outcome of any processes by
+very little sands): and enables a quantification of sea-                          which the ground surface has moved on average at the
+level amplitude because we really can “see” the                                   margin scale.
+shoreface (or the delta front) preserved at each glacials.
+                                                                                  6. From RSL to CSL at successive glacial maxima
+5. Defining “total subsidence”
+                                                                                      The measurement of Relative Sea Level (RSL) from our
+    Previous studies in the area have shown that tectonic                         data can be done relative to present day Sea Level (t= 0). It
+subsidence associated with rifting was small and that most                        is defined as the difference between present water depth
+of the subsidence, which takes the form of a seaward tilting                      W(0) and paleo-waterdepth of the soil (b) at time of depo-
+of the shelf, only started in Miocene time as a consequence                       sition t. RSL(t) =W(0) −b(t), (Fig. 3B). Paleobathymetry b(t)
+of postrift thermic cooling enhanced by sediment loading                          is not an easy parameter to define in sediments, it is usually
+[62,63]. This subsidence effect is clearly shown on seismic                       estimated from cores with a description and evolution of
+profiles where erosion surfaces, which represent the same                         sedimentary facies with microfossil assemblages defining
+environment at different times, show angles of inclination                        open marine, shallow marine, marginal marine and
+that increase with age (with depth below earth surface)                           brackish environment e.g. [29,11,64]. In the western part
+(Fig. 7). The present day depth of paleoshorelines therefore                      of the Golfe du Lion, seismic data images directly provide
+corresponds to the depth below SL at time of deposition                           the position of the delta front at glacial maximum (prism
+plus the movement of the floor after deposition. Here we                          PII) and its present day depth W(0). This point has been
+can measure the tilting on the seismic profiles by the                            taken on the most seaward position of prism PII, where it
+inclination of successive erosion surfaces (Fig. 7). This                         has last been deposited and most well preserved, i.e. near
+analysis has been done at the Plioquaternary scale (for the                       the Hérault H1 and H2 canyon heads (Figs. 5 and 6). This
+last 5.3 Ma) using a dense grid of industrial petroleum                           position corresponds to the mouth of the paleoriver feeding
+seismic data and industrial drillings that give access to                         and building this lobe (the MIS2 shelf edge delta lobe)
+paleobathymetries and thicknesses of deposits through                             (Figs. 3 and 5). This last lobe is the most well preserved and
+time. The seismic shows that our studied area (in the                             has not been eroded afterwards, as pictured on the seismic
+languedocian region) subsided regularly without substan-                          images (Figs. 4 and 5). Therefore, at that point, the paleo-
+tial local deformation; this enables us to propose a model                        waterdepth b is equal to 0 (with an uncertainty of 10 m; i.e.
+for the subsidence with a linear tilt. The rate increases with                    b = 5± 5 m), we measure a water depth of 112 m, RSL at
+the distance from the Coast, it reaches a rate of 250 m/Ma at                     LGM was 5 +/– 5m above the measured point.
+70 km from the coast, for the last 5.3 Ma [60].
+    Of course, an uncertainty is associated with the                              So; RSLðLGMÞ ¼ Wð0Þ −bðLGMÞ ¼ 112−5
+estimate of subsidence, corresponding to errors in the                                                ¼ 107F5 m below present day sea level
+measurements, time-depth conversion, paleomorphol-
+ogy variations, and the linear interpolation. We                                     As paleoshoreface (or delta front) are all recorded
+estimated this error to ± 10 m/Ma.                                                in this area of the Golfe du Lion, and as we
+Fig. 4. A) Seismic profile (vertical cross section) through the outer shelf in the western area of the Golfe du Lion (see position on Fig. 3). Vertical scale
+is two way travel time in milliseconds (left axis) and depth in meters (right axis). Black rectangles represent core positions with their names. Three
+kinds of seismic facies have been identified: in blue, low angle clinoforms made up of silts and clays (PI); in yellow, high angle clinoforms made up of
+sands (PII); in green dunes made up of reworked sand (PIII). The paired prisms PI–PII + (PIII)(blue-orange + green) form a sedimentary motif that
+repeats itself [54]. On the profile in A) three sequences (S3 to S5) are clearly identified. (the sandy prisms of Sequences S1 and S2, not visible on this
+profile, are on the Aude-Hérault interfluve area). V.E: vertical exaggeration (ratio between vertical and horizontal scale). Conversions to meters
+assume sound velocity of 1500 m/s in water and 1600 m/s in sediments. Dotted black line is the multiple. B) Formation of the sedimentary motif
+throughout a cycle of sea-level variations. The sea-level curve is derived from Labeyrie, 1987 [71]. Black rectangles represent core positions with
+their names and red stars represent key cores with datings (red stars, ages in cal kyr as published in Rabineau et al. [54]). At t1 (MIS3) the shoreline is
+on the middle shelf of the Gulf, the depositional profile of deltaic sediments consists of a sandy prism PII (the shoreline) that evolves seaward to a silty
+prism PI (offshore deposits), both deposited during t1 and therefore called PII-t1 and PI-t1. Sea-level drops during MIS2 (t2), and induces intense
+erosion on the shelf that completely erases prism PII-t1, further on the outer shelf a new prism PII-t2 and PI-t2 is deposited. Sea level rises rapidly
+during MIS1 (t3), and reworks previously deposited sediments on top of PI-t1 and PII-t2. So, the final sedimentary motif preserved is a triplet PI/PII/
+PIII capped by a major erosional surface (in red). Note, that PIII is often absent in older sequences, because of erosion during subsequent lowering of
+sea level in the next sequence. This scenario has been fully described in Rabineau et al. [54], using evidence from lithology, palynology,
+micropaleontology, radiocarbon datings from 21 cores sampling the last sequence S5 together with seismic stratigraphy and numerical stratigraphic
+modelling core analysis.
+128                                  M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+interpreted seismic lines in 3D, we are able to define                               the effect of subsidence. CSL = RSL − S, where
+the point where the shoreline is most well preserved                                 S = total subsidence.
+and therefore to calculate RSL during glacial maxima                                    At 69 km from the present coast, total subsidence
+related to MIS 6,8,10 and 12 (Fig. 5 and Table 2).                                   rate is 245 ± 10 m/Myr (see Section 5 and Table 2 for
+But those measurements need to be corrected from                                     details). For MIS 2 (20 calendar-ka); this tilt reaches
+
+
+
+
+Fig. 5. Seismic profiles (vertical cross sections) (A) P_1052; (B) P_1055 and (C) P_1036 through the outer shelf in the western area of the Golfe du Lion
+(see position on Fig. 3). Vertical scale is two way travel time in milliseconds (left axis) and depth in meters (right axis) (A) and (B) are at the same scale; the
+scale in (C) is twice as small (but same vertical exaggeration). Conversions to meters assume sound velocity of 1500 m/s in water and 1600 m/s in
+sediments. Three kinds of seismic facies have been identified: in blue, low angle clinoforms made up of silts and clays (PI); in yellow, high angle clinoforms
+made up of sands (PII); in green dunes made up of reworked sand (PIII). The paired prisms PI–PII + (PIII) (blue-orange + green) form the sedimentary motif
+that repeats itself. The Major discontinuities are in red between sequences. On the profile in A) two sequences (S4 and S5) are clearly identified with the
+paired prisms PI–PII (blue-orange). But prism PII of S5 and prism PII of S4 have different geometries. Prism PII of S5 is less than 10 m thick on its outer
+limit and this step is not so steep. We interpret this geometry as due to erosion of PII in this area (probably submarine erosion during transgression). On the
+contrary, PII of S4 is thick (reaching 40 m) with a very steep step and very well defined and preserved sigmoïde shape. Here, prism PII has not been eroded.
+On the profile in B) the five sequences are identified. In this area, prism PII of S5 is very well preserved from erosion, its top and outer limit represents the
+Coast at LGM (bathymetry= 0), it lies at −112 m below present day sea level (RSL = −112 m). On the profile in C) the two first sequences S1 and S2 are
+identified. The interfluve Aude-Hérault is the only place where their prisms PII (yellow) can be observed in this area.
+M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                         129
+
+
+
+
+                                                                              Fig. 5 (continued).
+130                                 M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+
+
+Fig. 6. 3D Mapping of the most seaward limits (maximum progradation) of prisms PII associated to the last five major 100,000 yr cycles (S1 to S5, MIS12
+to MIS2). The location of the area is the same as Fig. 3. The limits correspond to the maximum progradation of preserved shoreface during glacials. The
+black dots represent the most well preserved shoreline where measurements of RSL and CSL have been performed (see Table 2) D30, D40, D50, D60 and
+D70 correspond respectively to MIS12, MIS10, MIS8, MIS6, MIS2. (D30)= 434 ka, (D40)= 341 ka, (D50)= 248, (D60) = 135, (D70) = 20 cal-age in ka.
+Age of deposit is taken from the interpretation of Rabineau, [60,54] the ages are from isotope stages as defined on the SPECMAP curve [73,80]. Note the
+absolute necessity to do a 3D analysis of seismic data, as the prisms are not all visible on one single profile. Dotted lines correspond to a zone were the prism
+PII is eroded at the top.
+
+5 ± 1 m. Thus, corrected sea level at isotope stage 2.2                             compensated by the sediment loading at the same time.
+(LGM) is                                                                            During LGM, sea level is about − 100–120 m below
+                                                                                    present, this creates a deficit in water loading on the
+CSLðLGMÞ ¼ 102F6 m: at MIS 2:2
+                                                                                    shelf. But, at the same time, sediment has also been
+   This value is consistent with previous estimates in the                          deposited on the outer shelf, on the slope and in the deep
+region based on molluscs ages [46–48] and also based                                sea (see thickness of S5, about 30 m, on Figs. 4 and 5 for
+on glacio-hydro isostatic modelling: during LGM, sea                                example); these deposits induce an extra loading that
+levels along the coast and immediate off-shore areas                                could well compensate the water-loading deficit (as
+stood at between 105–115 m below present sea level                                  density of sediment is higher than density of water).
+[45]. More recent studies suggested a RSL of at least                               This calculation ought to be modelled in details in the
+− 115 m [56] but this value is not corrected from                                   near future, also taking into account the timing of events
+subsidence of the shelf.                                                            (deposition versus sea-level drop).
+   The question, now, is whether or not our measured                                   As calculated for stage 2, we defined the
+and corrected sea level corresponds to the global value                             Corrected Local position of sea level during succes-
+of sea level? As noted in Lambeck and Bard, the                                     sive glacial maxima MIS12, MIS10, MIS8 and MIS 6
+isostatic correction is of the order of 10–15 m so that                             that give respective values of 149, 150, 86, and 92 m
+the Global glacio-hydro-isostatically corrected value                               (see Table 2 and Figs. 5 and 8). Glacio-hydro-
+would be about 112–117 ± 7 or 8, which is not very                                  sediment isostatic corrections should also be done.
+different from that found elsewhere. However, part                                  They will not be the same for each glacial maximum
+of this isostatic correction due to the water unloading                             and will depend on the location of ice margins, on
+                                   M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                                        131
+
+
+
+
+Fig. 7. A) Line drawing of a seismic profile from present day coast to the outer shelf with a preservation of LGM shoreline position. The location of
+the profile is drawn on Fig. 1. The profile shows several erosional surfaces (in red) and preserved paleoshoreface (prisms PII, in yellow). Sediments
+stack vertically thanks to the tilt of the margin as imaged by the increasing angles of erosional surfaces. Black dots represent the preserved position of
+delta front (or top of shoreface) B) Sketch showing the effect of total subsidence (S) and the relation between measured Relative Sea Level (RSL) and
+Corrected Sea Level (CSL) after corrections from subsidence.
+
+
+the sea level itself, and on the quantity of sediment                                   the maximum scenario of CLIMAP, sea level at
+eroded and deposited.                                                                   the LGM was only between − 120 and − 135 m.
+                                                                                        Our study, based on paleoshorelines, suggests that
+7. Paleoclimatic implications                                                           this value is still overestimated. However our
+                                                                                        estimate is still local and no isostatic corrections
+   If our model of subsidence is correct, our results                                   were applied. Previous estimates for sea-level
+show that:                                                                              position at the LGM were very weakly con-
+                                                                                        strained by direct observations and were often
+  (1) Corrected sea level at LGM fell to − 102 ± 6 m on                                 dependent on strong assumptions inherent to
+      the outer shelf of the Golfe du Lion during MIS2.                                 indirect methods. The studies on corals, that
+      The CLIMAP project provided two possible                                          have proven to be very efficient for the last
+      scenarios for ice sheet extent and volumes [65] a                                 deglaciation, present only two measures for the
+      minimum scenario with restricted ice sheets                                       LGM: − 118 m [6] and N− 125 m [8] (Table 1 and
+      leading to a LGM of − 127 m and a maximum                                         Fig. 1). The latter value could be decreased by an
+      scenario with expanded marine ice-sheets ac-                                      amount of 20 m (and therefore be − 105 m),
+      counting for − 163 m of sea-level lowering. Clark                                 because the Porites corals seem to be able to live
+      et al. [66], in an introduction to a recent issue of                              down to 20 m [68]. A recent study on the Sunda
+      QSR, dedicated to the results of the EPILOG                                       shelf [64] gives a value of − 116 m (at 21 ka) but
+      project [66,67], concluded that even though the                                   as stated by the authors it is “poorly defined.”
+      now well-constrained ice-sheet extent was near                                    Rohling also found a value of − 120 m but his
+132                               M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+Table 2
+Estimate of Corrected Sea Level (CSL) from the depth of successive shorelines and subsidence corrections
+1 DI 2 MIS          3 D 4 We 5 Ws                6 Wm 7 b        8 RSL         9 RSL       10 R       11 A        12 S     13 CSL           14 CSL
+                    (km) (ms) (ms) on            (m)  (m)        (m)           (m)         (m/Ma)     (ka)        (m)      (m)              (m)
+                              profile
+D70    Stage 2.2    69      150    150 P1055     112     0–10 − 102–112        − 107 ± 5 245 ± 10        20 ± 5     5 ± 1 (97) − 107 ± 1    − 102 ± 6
+                                   150-P1047
+D60    Stage 6.2    66      157    168 P1052     128     0–10 − 11 8–128 − 123 ± 5 232 ± 9              135 ± 5    31 ± 2 (85)–97 ± 2        − 92 ± 7
+                            140    170 P1046     128
+D50    Stage 8.02 53        122    174-P1046     134     0–10 − 124–134        − 129 ± 5 175 ± 7 247,6 ± 5 43 ± 3 (81)–91 ± 3     − 86 ± 8
+D40    Stage10.2 74         182    323-P1036     246     0–10 − 236–246        − 241 ± 5 267 ± 10 341 ± 5 91 ± 5 (145)–155 ± 5 − 150 ± 9
+D30    Stage 12.2 70        157    342-P1036     262     0–10 − 252–262        − 257 ± 5 250 ± 10 434 ± 5 108 ± 5 (144)− 154 ± 5 − 149 ± 10
+Column 1: Di Erosional surface names as interpreted from seismic profiles [60,54]. Column 2: MIS: Marine Isotope Stage. Column 3: D (km):
+distance from the present day coast as measured along the profile. Column 4: We: Water-column height above shorelines (in ms twtt). Column 5: Ws
+top shoreline depth below present sea level is measured on seismic profiles P (in milliseconds two way travel time). Column 6: Wm Top shoreline
+depth below present sea-level calculation in meters, considering a velocity in water V1 = 1500 m/s and in the sediments V2 = 1600 m/s. Wm =
+(We × 0.75) + (Ws − We × 0.8). Column 8: b Paleobathymetry (m) and uncertainty in measurement. Column 9: RSL Relative Sea-Level calculation.
+Column 10: R: Subsidence rate that varies as a function of the tilt of the margin (from 0 m/Myr at 13 km to 250 m/Myr (±10 m/Myr) at 70 km from
+present day coast). The rate is constant through time but varies according to the position along the profile: R (m/Myr) = (D − 13) ⁎ 250 / (70–13). The
+uncertainty reflects the uncertainty in the calculation. Column 11: A: Age of deposit is taken from dated isotope stages as defined on the SPECMAP
+curve and is associated with an average error of 5 kyr [73,80]. Column 12: S: The amount of subsidence (tilt) is calculated from subsidence rate and
+the age of the deposit (the associated error is related to errors on the age and on the subsidence). Corrected sea level (CSL) (column 13 and 14) is
+calculated from the shoreface depth W (m) (column 6) minus the amount of subsidence (column 12) minus a correction for paleobathymetry
+estimates: b (column 8).
+
+       estimation is dependent on the a priori that sea                                LGM, would imply that ice sheets were therefore
+       level was − 125 m at MIS-6. Combining the large                                 much thinner than presently assumed. One could
+       ice sheet extent (near the maximum CLIMAP                                       also argue that the observed shoreface does not
+       value) and our value for lowstand sea level for the                             correspond to the lowest sea level during MIS2. It
+
+
+
+
+Fig. 8. Sea-level curves and geological calibration. Composite sea-level curve (SL) in grey with maximum variability interval (grey zone) derived
+from isotopic records as shown in Fig. 1. Empty circles: sea level low stands estimated by Rohling [27]. Red filled circles: estimated sea level low
+stands from this study.
+                          M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                       133
+
+
+    is true that no detailed and absolute datation of                     present evidence (see Fig. 5C for example where
+    such shoreface is available so far, so that we do                     sequences are fully preserved on the upper slope
+    not prove that these levels are the lowest ever                       at the location of GL1 PROMESS core).
+    reached during each glacials. However, we do not
+    observe shoreface at lower depth on the shelf.                 8. Conclusions
+(2) Corrected sea level during MIS6 on the outer shelf
+    of the Golfe du Lion, is also much higher, − 92 ±                  Knowledge of glacio-eustatic changes is essential for
+    7 m, than usually assumed (around −125 m). In                  the estimation of ice volumes, for a better understanding
+    fact, sea level during MIS 6 is even more poorly               of the rates and amplitudes of glacial build-up and decay.
+    constrained; most studies are indirect, mainly                     Direct field evidence gathered in the Golfe du Lion,
+    based on oxygen isotopic data, which are not a                 gives a geological validation of 100,000 yr glacial–
+    direct function of sea level [69,1]. The study from            interglacial cycles, which are recorded by the prograda-
+    Ferland et al., gives a sea-level drop to a depth less         tion–retrogradation of the shoreline as a consequence of
+    than 125 m because cores showed no evidence of                 sea-level fluctuations. The record and preservation of
+    subaerial erosion. No glacio-hydro isostatic mod-              paleoshorelines and shorefaces on the outer shelf corrected
+    elling has ever been undertaken for MIS6, the ice              from the model of subsidence of the margin allow the
+    volume of the Eurasian ice sheet may have been                 assessment of sea-level lowering during successive
+    larger than during stage 2, this isostatic contribu-           glaciations. We conclude that glaciations were much
+    tion may also well have been larger and the                    milder during MIS 8, 6, 2, with a drop of sea level smaller
+    calculation needs to be done.                                  than glaciations during MIS 10 and MIS 12 with a drop
+(3) Our local sea-level measurement on the outer shelf             of sea level much higher than previously published
+    of the Golfe du Lion, imply important differences              estimates. These results are conditioned by our global
+    in sea-level minima: MIS 2, 6, 8 are of the same               model for subsidence. As no detailed and absolute
+    magnitude and the lowstands dropped to a much                  datations of such shorefaces are available so far, we
+    lower value during MIS 10 and 12. This abrupt                  cannot prove that these levels are the lowest ever reached
+    change occurs around 350-kyr and we suggest that               during each glacials.
+    it could be related (together with the change in                   We also suggest that the abrupt change in these
+    cycles duration and magnitude at 800-kyr) to the               extreme glaciations recorded in the sedimentary pattern
+    400 kyr cycles associated with the excentricity of             of the Golfe du Lion may mark the imprint of 400,000 yr
+    the Earth that have surprisingly rarely been                   cycles associated with orbital excentricity [70]. We
+    observed in most paleoclimatic records [70].                   further raise the question: could the transition from
+(4) At MIS 10 and 12, sea level dropped to − 150 ± 9               40,000 to 100,000 yr cycles that occurred around
+    and − 149 ± 10 m respectively. Rohling [27] using              800 kyr have the same origin ? Further attention needs to
+    a very different and original method (extreme                  be drawn to the 400,000 yr cycle and its consequences
+    high-salinity conditions recorded in cores from                on the Earth's climate.
+    the Red Sea) also found greater glaciations during                 The preliminary results of the very recent drilling
+    MIS 10 and 12 (Table 2). Not taking into account               PROMESS seem to be in agreement with all our results
+    the absolute value (based on the a priori that SL              and validate our methodology. They also show that all
+    was − 125 at MIS6), Rohling found glaciations                  sequences are preserved in the Golfe du Lion. Such a
+    15 m greater during MIS10 and 12 compared to                   record is outstanding on continental margins, the Golfe du
+    MIS6 (Fig. 8). Our lowstand estimates reflect                  Lion is therefore a unique Laboratory to study sea level in
+    much more extreme glaciations during MIS 10                    relation to paleoclimates, because of a subtle and rare
+    and MIS12 (60 m greater) than MIS6. Previous                   combination of factors (shelf width, high subsidence rate,
+    studies always concluded that MIS 12 is more                   sandy sediment flow but lower than in front of the Rhône,
+    intense than stage 10. Here, we found the same                 moderate wave energy, no tides). In our study, only the
+    order of magnitude. One could argue that the                   uppermost part of the sedimentary column in the Golfe du
+    sequence deposited during MIS 10 was totally                   Lion has been studied in detail. Deeper sediments need to
+    eroded, implying a misdating of the oldest two                 be explored and dated for sea-level research in order to test
+    sequences which would then be older. However,                  and extend our results further back in time and to
+    this hypothesis would require an especially                    investigate important events such as the onset of Northern
+    intense glaciation during MIS 8 in order to                    Hemisphere glaciations (around 2.6 Ma). Our results
+    erode a complete sequence, for which there is no               provide a step towards using sea-level minima from
+134                         M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+continental margin sediment patterns to calibrate oxygen             References
+isotope data for the entire Plioquaternary.
+    We insist on the need to take into account subsidence             [1] N.J. Shackleton, Oxygen isotopes, ice volume and sea level,
+                                                                          Quat. Sci. Rev. 6 (1987) 183–190.
+effect (s.l.), which is important even in this tectonically
+                                                                      [2] C. Waelbroeck, L.D. Labeyrie, E. Michel, J.-C. Duplessy, J.
+stable passive margin and relatively short time intervals                 McManus, K. Lambeck, E. Balbon, M. Labracherie, Sea level
+(500,000 yr). If the subsidence did not exist, sequences                  and deep water changes derived from benthic Foraminifera
+would not be preserved, erosion during successive                         isotopic record, Quat. Sci. Rev. 21 (1–3) (2002) 295–305.
+lowstands would completely erase previously deposited                 [3] A.C. Mix, W.F. Ruddiman, Oxygen-isotope analyses and
+                                                                          Pleistocene ice volumes, Quat. Res. 21 (1) (1984) 1–20.
+sequences (as this is the case on the shelf of the Bay of
+                                                                      [4] R.G. Fairbanks, A 17,000-year glacio-eustatic sea level record:
+Biscay margins during Quaternary for example). This is                    influence of glacial melting ates on the Younger Dryas event and
+the reason why this place, the Golfe du Lion, is unique.                  deep-ocean circulation, Nature 342 (1989) 637–642.
+Preservation of sequences is only due to subsidence.                  [5] E. Bard, B. Hamelin, R.G. Fairbanks, U–Th ages obtained by
+Preservation of glacial shoreface is also due to the rapid                mass spectrometry in corals from Barbados: sea level during the
+                                                                          past 130,000 years, Nature 346 (1990) 456–458.
+rise in sea level after deposition. These observation and
+                                                                      [6] E. Bard, B. Hamelin, M. Arnold, L. Montaggioni, G. Cabioch, G.
+results ought to be used for a detailed “glacio-hydro-                    Faure, F. Rougerie, Deglacial sea-level record form Tahiti corals
+sedimento” isostatic modelling of each sequence and                       and the timing of global meltwater discharge, Nature 382 (1996)
+each glacial to further constraint local sea level versus                 241–244.
+global sea levels, and quantify, in particular the relative           [7] J. Chappell, A. Omura, T. Esat, M. McCulloch, J. Pandolfi, Y.
+                                                                          Ota, B. Pillans, Reconciliation of late Quaternary sea levels
+effect of glacio-hydro isostatic effect (which differ
+                                                                          derived from coral terraces at Huon Peninsula with deep sea
+according to ice sheet extend) but also of erosion–                       oxygen isotope records, Earth Planet. Sci. Lett. 141 (1996)
+sedimentation isostatic effect (erosion on land and                       227–236.
+deposition on the outer shelf and slope).                             [8] E. Bard, M. Arnold, B. Hamelin, N. Tisnerat-Laborde, G.
+                                                                          Cabioch, Radiocarbon calibration by means of mass spectromet-
+                                                                          ric 230Th/234U and 14C ages of corals, An updated data base
+Acknowledgements
+                                                                          including samples from Barbados, Mururoa and Tahiti, Radio-
+                                                                          carbon 40 (3) (1998) 1085–1092.
+    The final manuscript greatly benefited from the                   [9] G.F. Camoin, L.F. Montaggioni, C.J.R. Braithwaite, Late glacial
+comments and advices of Kurt Lambeck. We thank                            to post glacial sea levels in the Western Indian Ocean, Mar. Geol.
+David Needham for fruitful discussions and a critical                     206 (1_ 4) (2004) 119–146.
+                                                                     [10] K. Lambeck, Sea-level change along the French Atlantic and
+review of the manuscript. Didier Granjeon for guidance
+                                                                          Channel coasts since the time of the Last Glacial Maximum,
+and help on stratigraphic simulation. M. Rotuno, T.                       Palaeogeogr. Palaeoclimatol. Palaeoecol. 129 (1997) 1–22.
+Marsset, G. Lericolais, J-F. Bourillet, J-L Rubino, F.               [11] Y. Yokoyama, K. Lambeck, D.D. P., P. Johnston, L.K. Fifield,
+Trincardi, for useful discussions at an early stage of this               Timing of the Last Glacial Maximum from observed sea-level
+work; D. Paillard, E. Michel and C. Waelbroeck and J-C.                   minima, Nature 406 (2000) 713–716.
+                                                                     [12] Y. Yokoyama, K. Lambeck, P. De Deckker, P. Johnston, L.K.
+Duplessy for advice on the manuscript and data on
+                                                                          Fifield, Timing of the Last Glacial Maximum from observed sea-
+isotopic curves. E. Ledrezen for her long-term assis-                     level minima: correction, Nature 412 (2001) 99.
+tance. David Needham and Barbara Harris for their final              [13] M. Siddall, R. E. J., A. Almogi-Labin, C. Hemleben, D.
+review as English native speakers. This research was                      Meischner, I. Schmelzer, D.A. Smeed, Sea-level fluctuations
+mainly funded by IFREMER and CNRS. Additional                             during the last glacial cycle, Nature 423 (2003) 853–858.
+                                                                     [14] M. Stein, G.J. Wasserburg, P. Aharon, J.H. Chen, Z.R. Zhu, A.
+support comes from IFP (Christian Ravenne, Rémi
+                                                                          Bloom, J. Chappell, TIMS U-series dating and stable isotopes of
+Eschard), the French GDR Marges (French “Margins”                         the Last Interglacial event in Papua New Guinea, Geochim.
+programme) and from the European Community through                        Cosmochim. Acta 57 (1993) 2541–2554.
+the Eurostrataform (EVK3-CT-2002-00079) and Pro-                     [15] Z.R. Zhu, K.-H. Wyrwoll, L.B. Collins, J.H. Chen, G.J.
+mess 1 (EVR1-CT-2002-40024) projects. This is con-                        Wasserburg, A. Eisenhauer, High-precision U-series dating of
+                                                                          Last Interglacial events by mass spectrometry: Houtman
+tribution 1014 to IUEM publication European Institute
+                                                                          Abrolhos Islands, western Australia, Earth Planet. Sci. Lett.
+for Marine Studies (Brest, France) and contribution 2172                  118 (1–4) (1993) 281–293.
+of French “GDR Marges” program.                                      [16] C.D. Gallup, R.L. Edwards, R.G. Johnston, The timing of high
+                                                                          sea levels over the past 200,000 years, Science 263 (1994)
+Appendix A. Supplementary data                                            796–800.
+                                                                     [17] B.J. Szabo, K.R. Ludwig, D.R. Muhs, K.R. Simmons, Thorium-
+                                                                          230 ages of corals and duration of the last interglacial sea-level
+   Supplementary data associated with this article can                    high stand on Oahu, Hawaii, Science 266 (1994) 93–96.
+be found, in the online version, at doi:10.1016/j.                   [18] C.H. Stirling, T.M. Esat, M.T. McCulloch, K. Lambeck, High-
+epsl.2006.09.033.                                                         precision U-series dating of corals from western Australia and
+                                     M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                                   135
+
+
+       implications for the timing and duration of the Last Interglacial,      [36] J. Hardenbol, J. Thierry, M.B. Farley, P.-C. de Graciansky, P.R.
+       Earth Planet. Sci. Lett. 135 (1995) 115–130.                                 Vail, Mesozoic and Cenozoic sequence chronostratigraphic
+[19]   M.A. Toscano, J. Lundberg, Submerged Late Pleistocene reefs on               framework of European basins, in: P.-C. de Graciansky, J.
+       the tectonically-stable S.E. Florida margin: high precision                  Hardenbol, T. Jacquin, P.R.E. Vail (Eds.), Mesozoic and
+       geochronology, stratigraphy, resolution of Substage 5a sea-level             Cenozoic Sequence Stratigraphy of European Basins, SEPM,
+       elevation, and orbital forcing, Quat. Sci. Rev. 18 (1999) 753–767.           Special Publication, vol. 60, 1998, pp. 11–18, Charts 11-18.
+[20]   J. Chappell, Sea level changes force by ice breakouts in the Last       [37] IODP-IPSC, Earth, oceans and life, Scientific Investigation of the
+       Glacial cycle: new results from coral terraces, Quat. Sci. Rev. 21           Earth System Using Multiple Drilling Platforms and New
+       (2002) 1229–1240.                                                            Technologies, 2001, 110 pp.
+[21]   K.B. Cutler, R.L. Edwards, F.W. Taylor, H. Cheng, J. Adkins, C.D.       [38] J. Torres, B. Savoye, P. Cochonat, The effects of Late Quaternary
+       Gallup, P.M. Cutler, G.S. Burr, A.L. Bloom, Rapid sea-level fall and         sea-level changes on the Rhône slope sedimentation (northwestern
+       deep-ocean temperature change since the last interglacial period,            Mediterranean), as indicated by seismic stratigraphy, J. Sediment.
+       Earth Planet. Sci. Lett. 206 (2003) 253–271.                                 Res., Sect. B Stratigr. Glob. Stud. 65 (3) (1995) 368–387.
+[22]   E. Bard, F. Antonioli, S. Silenzi, Sea-level during the penultimate     [39] F. Trincardi, A. Correggiari, Quaternary forced-regression
+       interglacial period based on submerged stalagmite from Argenta-              deposits in the Adriatic Basin and the record of composite sea-
+       rola Cave (Italy), Earth Planet. Sci. Lett. 196 (3–4) (2002) 135–146.        level cycles, in: D. Hunt, R. Gawthorpe (Eds.), Sedimentary
+[23]   F. Antonioli, E. Bard, E.-K. Potter, S. Silenzi, S. Improta, 215-ka          Responses to Forced Regressions, vol. 134, Geological Society
+       History of sea-level oscillations from marine and continental                Special Publication, London, 2000.
+       layers in Argentarola Cave Speleothems (Italy), Glob. Planet.           [40] A.E. Aksu, T.J. Calon, D.J.W. Piper, S. Turgut, E. Izdar,
+       Change 43 (2004) 57–78.                                                      Architecture of late orogenic Quaternary basins in the northeast-
+[24]   Y. Yokoyama, T.M. Esat, K. Lambeck, Coupled climate and sea-                 ern Mediterranean Sea, Tectonics 210 (1992) 191–213.
+       level changes deduced from Huon Peninsula, Papua New                    [41] J.A. Berry, D.J.W. Piper, Seismic stratigraphy of the Scotia Rise:
+       Guinea, Earth Planet. Sci. Lett. 193 (2001) 579–587.                         record of continental margin glaciation, Geo Mar. Lett. 13 (1993)
+[25]   Y. Yokoyama, T.M. Esat, K. Lambeck, Last Glacial sea-level                   197–206.
+       change deduced from uplifted coral terraces of Huon Peninsula,          [42] K.I. Skene, D.J.W. Piper, A.E. Aksu, J.P.M. Syvitski, Evaluation
+       Papua New Guinea, Quat. Int. 83–85 (2001) 275–283.                           of the global oxygen isotope curve as a proxy for Quaternary sea
+[26]   K. Lambeck, J. Chappell, Sea level change through the Last                   level by modeling of delta progradation, J. Sediment. Res. 68 (6)
+       Glacial Cycle, Science 292 (2001) 679–686.                                   (1998) 1077–1092.
+[27]   E.J. Rohling, M. Fenton, F.J. Jorissen, P. Bertrand, G. Ganssen, J.P.   [43] J.L. Olivet, La cinematique de la plaque Iberique | Kinematics of
+       Caulet, Magnitudes of sea level lowstands of past 500,000 years,             the Iberian Plate, Bull. Cent. Rech. Explor. Prod. Elf-Aquitaine
+       Nature 394 (1998) 162–165.                                                   20 (1) (1996) 131–195.
+[28]   G.F. Camoin, P. Ebren, A. Eisenhauer, E. Bard, G. Faure, A              [44] F. Speranza, I.M. Villa, L. Sagnotti, F. Florindo, D. Cosentino, P.
+       300,000-yr coral reef record of sea-level changes, Mururoa atoll             Cipollari, M. Matei, Age of the Corsica-Sardinia rotation and
+       (Tuamotu archipelago, French Polynesia), Palaeogeogr. Palaeo-                Liguro-Provencal Basin spreading: new paleomagnetic and Ar/
+       climatol. Palaeoecol. 175 (2001) 325–341.                                    Ar evidence, Tectonophysics 347 (4) (2002) 231–251.
+[29]   M. Ferland, P. Roy, C. Murray-Wallace, Glacial lowstand                 [45] K. Lambeck, E. Bard, Sea-level change along the French
+       deposits on the outer continental shelf of Southeastern Australia,           Mediterranean coast fro the past 30 000 years, Earth Planet.
+       Quat. Res. 44 (1995) 294–299.                                                Sci. Lett. 175 (2000) 203–222.
+[30]   C.E. Payton, Seismic stratigraphy – applications to hydrocarbon         [46] J.C. Aloïsi, A. Monaco, J. Thommeret, Y. Thommeret, Evolution
+       exploitation, Amer. Assoc. Petroleum Geol. Memoir, vol. 26,                  paléogéographique du plateau continental languedocien dans le
+       AAPG, Tulsa, Oklahoma, 1977, 516 pp.                                         cadre du golfe du Lion; Analyse comparée des données sismiques,
+[31]   H.W. Posamentier, M.T. Jervey, P.R. Vail, Eustatic controls on               sédimentologiques et radiométriques concernant le Quaternaire
+       clastic deposition I. Conceptual framework, in: C.K. Wilgus,                 récent, Rev. Géogr. Phys. Géol. Dyn. 17 (1) (1975) 13–22.
+       B.S. Hastings, C.G.S.C. Kendall, H.W. Posamentier, C.A.                 [47] J. Labeyrie, C. Lalou, A. Monaco, J. Thommeret, Chronologie
+       Ross, J.C. Van Wagoner (Eds.), Sea-Level Changes-an                          des niveaux eustatiques sur la côte du Roussillon de-33000 ans
+       Integrated Approach, SEPM Spec. Pub., vol. 42, SEPM,                         B.P. à nos jours, C. R. Acad. Sci. Paris 282 (1976) 349–352.
+       Tulsa, 1988, pp. 102–124.                                               [48] J.C. Aloïsi, Sea Level Variations on the French Mediterranean
+[32]   H.W. Posamentier, P.R. Vail, Eustatic controls on clastic deposition         Margin during the Holocene, Paleoclimate Research; Paläklima-
+       II. Sequences and system tract models, in: C.K. Wilgus, B.S.                 forshung n°spec, 1993, 25 pp.
+       Hastings, C.G.S.C. Kendall, H.W. Posamentier, C.A. Ross, J.C.           [49] S. Berné, D. Carré, B. Loubrieu, J.-P. Mazé, A. Normand, Carte
+       Van Wagoner (Eds.), Sea-Level Changes-an Integrated Approach,                morphobathymétrique du Golfe du Lion à l' échelle 1/100 000
+       SEPM Spec. Pub., vol. 42, SEPM, Tulsa, 1988, pp. 125–154.                    ème (2001), IFREMER et Région Languedoc Roussillon, Brest.
+[33]   P.R. Vail, J.P. Colin, R.J. Du Chene, J. Kuchly, F. Mediavilla, V.      [50] B. Gensous, D. Williamson, M. Tesson, Late-Quaternary
+       Trifilieff, La stratigraphie séquentielle et son application aux             transgressive and highstand deposits of a deltaic shelf (Rhône
+       corrélations chronostratigraphiques dans le Jurassique du Bassin             delta, France), in: H.W. Posamentier, C.P. Summerhayes, B.A.
+       de Paris, Bull. Soc. Géol. Fr. 8 (7) (1987) 1301–1321.                       Haq, G.P. Allen (Eds.), Sequence Stratigraphy and Facies
+[34]   B.U. Haq, J. Hardenbol, P. Vail, Chronology of fluctuating sea               Associations, International Association of Sedimentologists
+       levels since the Triassic (250 million years ago to present),                Spec. Pub., vol. 18, Blackwell, Oxford, 1993, pp. 97–212.
+       Science 235 (1987) 1156–1167.                                           [51] T. Marsset, V. Bellec, Late Pleistocene–Holocene deposits of the
+[35]   B.U. Haq, J. Hardenbol, P. Vail, Mesozoic and Cenozoic                       Rhône inner continental shelf (France): detailed mapping and
+       chronostratigraphy and cycles of sea-level change, SEPM                      correlation with previous continental and marine studies,
+       Special Publication, vol. 42, 1988, pp. 71–108.                              Sedimentology 49 (2002) 255–276.
+136                               M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137
+
+
+[52] S. Berné, J.C. Aloïsi, J. Baztan, B. Dennielou, L. Droz, T. Dos       [66] P.U. Clark, A.C. Mix, E. Bard, Ice sheets and sea level of the Last
+     Reis, J. Lofi, Y. Méar, M. Rabineau, Notice de la carte morpho-            Glacial Maximum, EOS Transactions (2001) 241-246-247.
+     bathymétrique du Golfe du Lion, vol. 1, IFREMER et Région             [67] A.C. Mix, E. Bard, R. Schneider, Environmental processes of the
+     Languedoc Roussillon, Brest, 2002, 48 pp.                                  ice age: land, oceans, glaciers (EPILOG), Quat. Sci. Rev. 20
+[53] J.C. Aloïsi, H. Got, A. Monaco, C. Duboul-Razavet, Carte                   (2001) 627–657.
+     géologique du précontinent pyrénéo-languedocien au 1/250 000          [68] Y. Yokoyama, P. De Deckker, K. Lambeck, P. Johnston, L.K. Fifield,
+     (1973) pp., Musée Océanographique de Monaco.                               Sea-level at Last Glacial Maximum: evidence from northwestern
+[54] M. Rabineau, S. Berne, D. Aslanian, J.-L. Olivet, P. Joseph, F.            Australia to constrain ice volumes for oxygen isotope stage 2,
+     Guillocheau, J.-F. Bourillet, E. Ledrezen, D. Granjeon, Sedi-              Palaeogeogr. Palaeoclimatol. Palaeoecol. 165 (2001) 281–297.
+     mentary sequences in the Gulf of Lion: a record of 100,000 years      [69] J. Chappell, N.J. Shackleton, Oxygen isotopes and sea level,
+     climatic cycles, Mar. Pet. Geol. 22 (6–7) (2005) 775–804.                  Nature 324 (6093) (1986) 137–140.
+[55] P. Bernier, S. Berné, M. Rabineau, J. Baztan, Les Pierres de Sète :   [70] D. Paillard, Glacial cycles: toward a new paradigm, Rev.
+     un indicateur paléobathymétrique et paléoenvironnemental,                  Geophys. 39 (3) (2001) 325–346.
+     Atelier Golfe du Lion du GDR Marges, 2000, pp. 8, Paris.              [71] L.D. Labeyrie, Variations in mode of formation and temperature
+[56] G. Jouet, S. Berné, M. Rabineau, M.-A. Bassetti, P. Bernier, B.            of oceanic deep waters over the past 125,000 years, Nature 327
+     Dennielou, Flores-Jose-Abel, Sierro-Francisco-Javier and M.                (6122) (1987) 477–482.
+     Taviani, Shoreface migrations at the shelf edge and sea-level         [72] N.J. Shackleton, The 100,000-year Ice-Age cycle found to lag
+     changes around the Last Glacial Maximum (Gulf of Lions, NW                 temperature, carbon dioxide, and orbital eccentricity, Science 289
+     Mediterranean), Mar. Geol. (in press).                                     (2000) 1897–1902.
+[57] M.-A. Bassetti, G. Jouet, F. Dufois, S. Berné, M. Rabineau, M.        [73] J. Imbrie, J.D. Hays, D.G. Martinson, A. McIntyre, A.C. Mix, J.J.
+     Taviani, De-glacial sedimentary processes and deposits in the              Morley, N.G. Pisias, W.L. Prell, N.J. Shackleton, The orbital
+     outer continental shelf of the Gulf of Lions (western Mediter-             theory of Pleistocene climate: support from a revised chronology
+     ranean), Mar. Geol. (in press).                                            of the marine δ O18 record, in: A. Berger, J. Imbrie, J. Hays, G.
+[58] S. Berné, G. Lericolais, T. Marsset, J.F. Bourillet, M. de Batist,         Kukla, B. Saltzman (Eds.), Milankovitch and climate. Series C:
+     Erosional offshore sand ridges and lowstand shorefaces:                    Mathematical and Physical Sciences, vol. 126, Kluwer Academic
+     examples from tide and wave dominated environments of                      Publishers, Hingham, Mass., 1984, pp. 269–305.
+     France, J. Sediment. Res. 68 (4) (1998) 540–555.                      [74] F. Bassinot, L. Labeyrie, E. Vincent, X. Quidelleur, N.J.
+[59] M. Rabineau, S. Berné, E. Ledrezen, G. Lericolais, T. Marsset,             Lancelot, Y. Lancelot, The astronomical theory of climate and
+     M. Rotunno, 3D architecture of lowstand and transgressive                  the age of the Brunhes-Matuyama magnetic reversal, Earth
+     Quaternary sand bodies on the outer shelf of the Gulf of Lion,             Planet. Sci. Lett. 126 (1994) 91–108.
+     France, Mar. Pet. Geol. 15 (5) (1998) 439–452.                        [75] J. Ehlers, Quaternary and Glacial Geology, 1996 578 pp.
+[60] M. Rabineau, Un modèle géométrique et stratigraphique des             [76] E. Chapron, Contrôle climatique et sismo-tectonique de la
+     séquences de dépôts quaternaires de la plate-forme du Golfe du             sédimentation lacustre dans l'avant-pays alpin (Lac du Bourget)
+     Lion : enregistrement des cycles glacioeustatiques de 100 000              durant le Quaternaire récent, 1999, 261 pp.
+     ans, Thèse de Doctorat, Université de Rennes 1, IFREMER and           [77] P. Antoine, J.L. De Beaulieu, P. Bintz, J.P. Brugal, M. Girard, J.L.
+     IFP, (2001), (392+ 370) p. (392 vols), http://www.ifremer.fr/              Guadelli, M.T. Morzadec-Kerfourn, J. Renault-Miskovsky, A.
+     docelec.                                                                   Roblin-Jouve, B. Schmider, B. Van Vliet-Lanoe, J.D. Vigne, La
+[61] E. Colmenero-Hidalgo, J. Gravalosa, J.-A. Flores, F.-J. Sierro, S.         france pendant les deux derniers extrêmes climatiques, variabilité
+     Berne, M. Canals, A. Cattaneo, G. Floch, B. Dennielou, J.                  naturelle des environnements, 1999, 59 pp.
+     Frigola, R. Gelfort, D. Ridente, T. Schoolmeester, N. Sultan, G.      [78] B. Gensous, M. Tesson, M. Arnold, Analyse en stratigraphie
+     Tulloch, H.-J. Wallrabe-Adams, PROMESS 1 preliminary                       séquentielle des dépôts pléistocènes de la plateforme orientale du
+     results; new high resolution coccolithophore records for the last          Rhône (France): confrontation de l'analyse sismique et des
+     half million years, J. Nannoplankton Res. 26 (2) (2004) 22.                données de terrain, C. R. Acad. Sci. Paris 317 (1993) 803–810.
+[62] B. De Voogd, R. Nicolich, J.L. Olivet, F. Fanucci, J. Burrus, A.      [79] S. Berné, B. Loubrieu, and the shipboard scientific party,
+     Mauffret, G. Pascal, A. Argnani, J.M. Auzende, M. Bernabini, C.            Canyons et processus sédimentaires récents sur la marge du
+     Bois, L. Carmignani, A. Fabbri, I. Finetti, A. Galdeano, C.Y.              Golfe du Lion occidental. Premiers résultats de la compagne
+     Gorini, P. Labaume, D. Lajat, P. Patriat, B. Pinet, J. Ravat, F.           CALMAR. Canyons and recent sedimentary processes on the
+     Ricci Lucchi, S. Vernassa, First deep seismic reflection transect          western Gulf of Lions margin. First results of the Calmar cruise,
+     from the Gulf of Lions to Sardinia (ECORS-CROP profiles in                 C. R. Acad. Sci. Paris 328 (1999) 471–477.
+     Western Mediterranean), in: R. Meissner (Ed.), Continental            [80] D.G. Martinson, N.G. Pisias, J.D. Hays, J. Imbrie, T.C. Moore Jr.,
+     Lithosphere: Deep Seismic Reflections, Geodynamic Series,                  N.J. Shackleton, Age dating and the orbital theory of the ice ages:
+     vol. 22, American Geophysical Union, 1991, pp. 265–274.                    development of a high-resolution 0 to 300,000-year chronos-
+[63] C. Gorini, A. Mauffret, P. Guennoc, A. Le Marrec, Structure of             tratigraphy, Quat. Res. 27 (1987) 1–29.
+     the Gulf of Lions (Northwestern Mediterranean Sea), in: A.            [81] T. Hughes, G.H. Denton, M.G. Grosswald, Was there a late
+     Mascle (Ed.), Hydrocarbon and Petroleum Geology of France,                 Würm Artic ice sheet? Nature 266 (5603) (1977) 596–602.
+     Springer-Verlag, Berlin, 1994, pp. 223–243.                           [82] K. Lambeck, Y. Yokoyama, A. Purcell, Into and out of the Last
+[64] T. Hanebuth, K. Stattegger, P.M. Grootes, Rapid flooding of the            Glacial Maximum: sea-level change during the Oxygen Isotope 3
+     Sunda Shelf: a Late-Glacial sea-level record, Science 288 (2000)           and 2, Quat. Sci. Rev. 21 (2002) 343–360.
+     1033–1035.                                                            [83] K. Fleming, P. Johnston, D. Zwartz, Y. Yokoyama, K. Lambeck,
+[65] P.M. Climap, Seasonal Reconstruction of the Earth's Surface at             J. Chappell, Refining the eustatic sea-level curve since the Last
+     the Last Glacial Maximum, Geological Society of America Map                Glacial Maximum using far-and intermediate-field sites, Earth
+     and Chart Series, vol. 36, 1981.                                           Planet. Sci. Lett. 163 (1998) 327–342.
+                                  M. Rabineau et al. / Earth and Planetary Science Letters 252 (2006) 119–137                             137
+
+
+[84] W.R. Peltier, Ice age paleotopography, Science 265 (1994) 195–201.    [87] G.A. Milne, J.X. Mitrovica, D.P. Schrag, Estimating past
+[85] W.R. Peltier, On eustatic sea level history: last Glacial Maximum          continental ice volume from sea-level data, Quat. Sci. Rev. 21
+     to Holocene, Quat. Sci. Rev. 2 (2002) 377–396.                             (2002) 361–376.
+[86] W.R. Peltier, Comments on the paper of Yokoyama et al. (2000),        [88] I. Shennan, G.A. Milne, Sea-level observations around the Last
+     entitled “Timing of the Last Glacial Maximum from observed sea             Glacial Maximum from the Bonaparte Gulf, NW Australia, Quat.
+     level minima”, Quat. Sci. Rev. 21 (2002) 409–414.                          Sci. Rev. 22 (2003) 1543–1547.
+

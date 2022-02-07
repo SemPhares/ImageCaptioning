@@ -1,0 +1,850 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/272438219
+
+
+
+Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien : une
+conséquence de la crise messinienne ?
+
+Article in Géomorphologie relief processus environnement · November 2012
+DOI: 10.4000/geomorphologie.9911
+
+
+
+CITATIONS                                                                                              READS
+
+4                                                                                                      1,115
+
+1 author:
+
+             Abdeljalil Sghari
+             Université Sfax
+             19 PUBLICATIONS 29 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                           Evolution des mileux géomorphologiques en Tunisie depuis le Messinen View project
+
+
+                           The Messinian-Pliocene passage 5.3 Ma a decisive period in the morphogenesis and organization of natural environments in the mediterranean and in the world View
+                           project
+
+
+
+
+ All content following this page was uploaded by Abdeljalil Sghari on 25 May 2015.
+
+ The user has requested enhancement of the downloaded file.
+                            Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+
+
+
+
+    Un dépôt évaporitique du Miocène supérieur dans le Sud
+     tunisien : une conséquence de la crise messinienne ?
+    An evaporitic deposit dating from the Upper Messinian in
+    southern Tunisia: a consequence of the Messinian crisis?
+                                                           Abdeljalil Sghari*
+
+Résumé
+  La Tunisie est exposée aux différentes variations eustatiques de la Méditerranée ; les conséquences géologiques et géomorphologiques
+  de ce phénomène sont multiples. Nous avons montré récemment (Sghari et al., 2008 ; Sghari, 2009) et ce, pour la première fois, que la
+  crise de salinité messinienne (CSM ; 5,96-5,33 Ma) avait intensifié la dynamique d’érosion/sédimentation puis nous avons mis en évi-
+  dence l’extension considérable de la transgression pliocène dans le Sud tunisien. Dans cet article, nous ajoutons un événement
+  sédimentologique continental durant le Messinien supérieur du Sud tunisien. Au cours de la CSM, l’aridité a atteint un stade remar-
+  quablement exprimé par la formation d’une dalle évaporitique dans le synclinal de Bou Omrane, région de Gafsa. De nombreuses
+  conditions ont été réunies (endoréisme, confinement, évaporation intense, disponibilité de roches salifères dans la série géologique anté-
+  rieure) pour que ce chott puisse se former puis permettre un important stockage de gypse continental alors que, dans le même temps,
+  se déposaient d’importantes quantités de sel dans les fosses profondes de la Méditerranée.
+
+  Mots clés : Messinien, chott, Bou Omrane, Sud tunisien, évaporites, Pliocène.
+
+
+Abstract
+  Tunisia has always been exposed to sea-level variations of the Mediterranean; geological and geomorphological consequences of this
+  phenomenon are frequent. For the first time (Sghari et al., 2008; Sghari, 2009), we have recently shown the Messinian salinity crisis
+  (MSC; 5.96-5.33 Ma) had consequences for the intensification of the dynamics of erosion and sedimentation and we have highlighted
+  the considerable extension of the Pliocene transgression in southern Tunisia. In this paper, we present tangible evidence in the nature
+  of the arid climate during Messinian in southern Tunisia. During the MSC, aridity lead to the formation of a saline lake in the syncline
+  of Bou Omran, Gafsa. Many conditions have been met, such as endoreism, containment, intense evaporation and the availability of
+  evaporitic rocks in the geological series for chott to form and then allow a large storage of continental gypsum. During the same time,
+  large amounts of salt were deposited in deep depressions in the Mediterranean.
+
+  Key words: Messinian, chott, Bou Omran, southern Tunisia, evaporites, Pliocene.
+
+
+Abridged English version                                                  cochain, 2007). This is the case of south-eastern France where
+                                                                          a number of geomorphological research have brought new
+  The Messinian salinity crisis (MSC) is considered as one                and remarkable precision the behaviour of large rivers like
+of the most spectacular marine events that occurred in the                the Rhône, facing the spectacular collapse of the Mediter-
+Mediterranean region. Geomorphological expressions are                    ranean base level (Clauzon, 1982, 1990; Clauzon et al., 1990,
+frequent, but mostly of a dynamic nature, through increased               1996). Faced with this unprecedented eustatic crisis, rivers
+erosion in areas uncovered by the sea, following the rapid                and their tributaries have been forced to entrench by regres-
+lowering of sea level, or on the continent in connection with             sive erosion, which was at the root of the digging of deep
+the Mediterranean basin. After highlighting of MSC by K.J.                canyons (Clauzon, 1982; Mocochain, 2007).
+Hsü et al. (1973), particular interest has been granted to the              The Tunisian territory, despite a geographic location con-
+functioning of river basins in areas opening onto northern                ducive to granting it the registration of the MSC, has been
+Mediterranean (Clauzon, 1982, 1990; Clauzon et al. 1990; Mo-              the object only a few geological and geomorphological stud-
+
+
+  * Université de Sfax – Faculté des Lettres et Sciences Humaines – Département de Géographie – Laboratoire de Géomorphologie – Tunisie (sghariab-
+  deljalil@yahoo.fr).
+                                                          Abdeljalil Sghari
+
+
+
+ies to trace this remarkable event. Widely spread in central        formation phase an unprecedented undergoing eustatic and
+and southern Tunisia, the continental sediments of Messinian        climate crisis.
+age has always been stored in an integrated Mio-Pliocene se-
+ries (Castany, 1951) and upper limb interposed between the          Introduction
+Tortonian and the Quaternary has been classified in the
+‘Segui formation’ by P.-F. Burollet (1956). This drew our at-          Les expressions géomorphologiques de la crise de salini-
+tention (Sghari, 1991) by the regular presence of gypsum in         té messinienne (CSM) sont multiples mais surtout d’ordre
+all the sediment whose thickness can reach 500 m. These sed-        dynamique, à travers l’intensification de l’érosion dans des
+iments show fluvial-deltaic facies marked by the frequent           zones découvertes par la mer, suite à l’abaissement rapide du
+presence of sedimentary features indicating a disruption of         niveau marin, ou en domaine continental en relation avec le
+the river system. Complementing these geomorphological ob-          bassin méditerranéen. Après la mise en évidence de la CSM
+servations, morphoscopic analysis shows a clear predomi-            par K.J. Hsü et al. (1973), un intérêt particulier a été accor-
+nance of broken quartz grains, indicating a high energy of the      dé au fonctionnement des bassins fluviaux dans des régions
+environment (Sghari, 1991). But the idea to link these de-          s’ouvrant sur la Méditerranée septentrionale (Clauzon, 1982,
+posits with the MSC has actually materialised when the re-          1990 ; Clauzon et al., 1990 ; Mocochain, 2007). C’est le cas
+sults of the biostratigraphic analysis showed that fossil oys-      du sud-est français où un certain nombre de recherches géo-
+ters from the top of the ‘Segui formation’, long considered as      morphologiques ont apporté de nouvelles et remarquables pré-
+removed were actually in place and were of late Pliocene age.       cisions sur le comportement des grands fleuves tels que le
+Remaining unexplored in Tunisia, for a long time the MSC            Rhône face à l’effondrement spectaculaire de leur niveau de
+has had more impact in the geological and geomorphological          base qu’était la Méditerranée (Clauzon, 1982, 1990 ; Clauzon
+studies conducted in the regions of the Northern Mediter-           et al., 1990, 1996). Face à cette crise eustatique sans précé-
+ranean shore. The works done later in the work of K.J. Hsü et       dent, les fleuves et leurs affluents se sont trouvés dans l’obli-
+al. (1973) basically focused on the study of marine facies of the   gation de s’encaisser sur place avant d’entraîner un important
+Tunisian, Messinian platform (Bismuth, 1984; Beseme and             phénomène d’érosion régressive à l’origine du creusement de
+Kamoun, 1987; Mannai-Tayech, 2006; Gaaloul and Razghal-             profonds canyons (Clauzon, 1982 ; Mocochain, 2007).
+lah, 2008). Long marginalised because of their monotonous              Le territoire tunisien, malgré une situation géographique le
+and azoic continental facies, deposits usually attributed to the    rendant propice à l’enregistrement de la CSM, n’a fait l’objet
+continental Mio-Pliocene of the south Tunisia may be, after         que de quelques études géologiques et géomorphologiques per-
+our discovery of the marine Pliocene, proofread, as was al-         mettant de retracer cet événement remarquable. Largement
+ready the case for their analogues on the north shore of the        étendus en Tunisie centrale et méridionale, les sédiments conti-
+Mediterranean (Clauzon et al., 1996; Mocochain et al., 2006;        nentaux d’âge messinien ont toujours été intégrés dans une
+Berggren, 2008; Garcia et al., 2009).                               série « mio-pliocène » (Castany, 1953) et le membre supé-
+   In Tunisia, because of the Messinian aridity, the continuity     rieur intercalé entre le Tortonien et le Quaternaire a été clas-
+of water transfers during the Messinian was not assured at all      sé par P.-F. Burollet (1956) dans la « formation Ségui ».
+times, clastic sedimentation was then done mostly in a conti-       Celle-ci a attiré notre attention (Sghari, 1991) par la présen-
+nental environment, as in other Mediterranean regions (Fau-         ce régulière de gypse dans la totalité des sédiments dont
+quette et al., 2006; Costeur et al., 2007; Favre et al., 2007,      l’épaisseur peut atteindre 500 m. Ces sédiments affichent un
+Gladstone et al., 2007). However, despite this climate crisis       faciès fluvio-deltaïque marqué par la présence fréquente de
+erosion had deeply affected surrounding reliefs. In southern        figures sédimentaires (i.e., chenaux argileux, bancs sableux)
+Tunisia, regressive erosion has been the source of the incision     indiquant un réseau hydrographique peu organisé. Complé-
+several folds during the uprising and many gullies were in-         tant ces observations géomorphologiques, l’analyse mor-
+cised (Sghari and Mercier, 2010). Most of them are located in       phoscopique montre une très nette prédominance des grains
+the southern Tunisian Atlas (i.e., basin of Gafsa).                 de quartz cassés significatifs d’une forte énergie du milieu
+   This note is part of an extensive study started several years    (Sghari, 1991). Mais l’idée de rattacher ces dépôts à la CSM
+ago on the identification and kinematics of the major geo-          s’est véritablement concrétisée quand les résultats des ana-
+morphological changes imposed by the MSC and its impli-             lyses biostratigraphiques ont montré que des fossiles du som-
+cations in the Pliocene, in an area of over 50,000 km2 refer-       met de la « formation du Segui », longtemps considérés comme
+ring to the Sahel and the corresponding Tunisian south. The         remaniés, étaient en réalité bien en place et d’âge pliocène.
+hot and dry nature of climate during this exceptional event rep-    Longtemps restée inexplorée en Tunisie, la CSM (Hsü et al.,
+resented the MSC remains hypothetical for now, through the          1973) a donc eu plus de retentissements dans les travaux
+ubiquity of gypsum crystals scattered in the silt and sand of       géologiques et géomorphologiques conduits dans les ré-
+powerful deltaic azoic deposits. Our recent surveys in the south    gions de la rive nord-méditerranéenne. Les travaux réalisés
+of Tunisia for the first time demonstrated continental mass in-     ultérieurement aux travaux de K.J. Hsü et al. (1973) ont
+terposed in the evaporitic Mio-Pliocene (Sghari, 1991). This        surtout porté sur l’étude du faciès marin du Messinien de la
+discovery of marine Pliocene in southern Tunisia deepens the        plateforme tunisienne (Bismuth, 1984 ; Beseme et Kamoun,
+characterisation of the chott, dry climate of the Messinian.        1987 ; Gaaloul et Razghallah, 2008 ; Mannai-Tayech, 2006).
+The letter must be seen in its global context, namely that of       Longtemps marginalisés en raison de leur faciès continental
+a region of the Saharan Atlas in its entirety in a tectonic de-     monotone et azoïque, les dépôts usuellement attribués au
+
+
+280                           Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                                      Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+Mio-Pliocène continental du Sud tunisien pourraient faire                   localisation et l’origine d’une formation gypseuse identifiée
+l’objet, après notre découverte du Pliocène marin, d’une re-                par A. Sghari (1991). En outre, la découverte du littoral Plio-
+lecture, comme cela a été déjà le cas pour leurs analogues de               cène marin dans le sud tunisien permet d’approfondir la ca-
+la rive nord de la Méditerranée (Clauzon et al., 1996 ; Mo-                 ractérisation du climat chaud et sec du Messinien. Ce dernier
+cochain et al., 2006 ; Berggren, 2008 ; Garcia et al., 2009).               doit être replacé dans son contexte global, à savoir celui
+  En Tunisie, à cause de l’aridité messinienne, la continuité               d’une région de l’Atlas saharien dans sa totalité en phase de
+des transferts d’eau au cours du Messinien n’étant pas assu-                déformation tectoniques et subissant une crise eustatique et
+rée en permanence, la sédimentation détritique s’est alors                  climatique sans précédent.
+faite majoritairement en milieu continental, tout comme dans
+d’autres régions méditerranéennes (Fauquette et al., 2006 ;                 Une dépression isolée depuis
+Costeur et al., 2007 ; Favre et al., 2007 ; Gladstone et al.,               le Miocène inférieur
+2007). Mais, en dépit de cette crise climatique, en amont des
+vallées, l’érosion avait profondément affecté des reliefs en                  La zone étudiée, la dépression de Bou Omrane, fait partie
+cours de formation. Dans le sud de la Tunisie, l’érosion ré-                intégrante de la terminaison orientale de l’Atlas saharien tuni-
+gressive a été à l’origine de l’incision de plusieurs plis en cours         sien qui surplombe les plaines littorales du Sahel méridional
+de soulèvement et de nombreuses cluses ont été entaillées                   tunisien s’ouvrant directement sur la Méditerranée (fig. 1A).
+(Sghari et Mercier, 2010). La plupart d’entre elles se trouvent             Elle s’intercale entre deux principaux massifs montagneux, le
+dans l’Atlas méridional tunisien (i.e., bassin de Gafsa).                   Jebel Orbata, qui culmine à 1 164 m, et le Jebel de Chemsi,
+  Cette note s’insère dans le prolongement d’une étude en-                  qui culmine à 730 m en s’allongeant parallèlement à la pre-
+tamée depuis plusieurs années sur l’identification et la ciné-              mière chaîne (fig. 1B). Il s’agit d’une dépression ceinturée
+matique des principales modifications géomorphologiques                     par des massifs montagneux avec, à l’ouest, les jebels Orba-
+imposées par la CSM et ses consé-
+quences au Pliocène, dans un territoi-
+re vaste de plus de 50 000 km2 cor-
+respondant au Sahel et au sud tuni-
+siens. Le caractère chaud et sec du cli-
+mat durant cet événement exceptionnel
+que constitue la CSM reste pour l’ins-
+tant hypothétique, à travers l’omnipré-
+sence des cristaux de gypse disséminés
+dans les limons et les sables des puis-
+sants dépôts deltaïques azoïques. Nos
+dernières prospections nous ont permis
+de comprendre pour la première fois la
+
+
+Fig. 1 – Localisation de la Tunisie dans le
+bassin méditerranéen (A). Détail de la
+zone étudiée, intercalée entre deux
+chaînes de montagne, la chaîne de Gafsa
+au nord et la chaîne de Chemsi au sud
+(B). Une couronne de chotts et de sebkhas
+entoure le synclinal de Chemsi, plus élevé
+que le compartiment occidental (Sebkhet el
+Guettar) et le compartiment oriental (Sebket
+Naoual). 1 : Jebel ; 2 : dépression fermée et
+salée (sebkha) ; 3 : zone dʼétude (Bou Om-
+rane) ; 4 : tracé des profils topographiques
+in fig. 3 ; 5 : localisation des coupes in fig. 4,
+fig. 6 et fig. 7.
+Fig. 1 – Location of Tunisia in the Medi-
+terranean basin (A). Detail of the study
+area, between two mountain chains: north
+Gafsa chain and south Chemsi chain (B).
+The Chemsi syncline higher than the western
+compartment (Sebkhet el Guettar) and the
+East bay (Sebkhet Naoual) is rounded by a
+belt of saline lakes and sebkhas. 1: Jebel; 2:
+closed, salty depression (sebkha); 3: study
+area (Bou Omrane); 4: location of topogra-
+phic profiles in fig. 3; 5: location of the section
+in fig. 4, fig. 6 and fig. 7.
+
+
+
+                                      Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                        281
+                                                         Abdeljalil Sghari
+
+
+
+
+Fig. 2 – Carte des principales structures géologiques de lʼAtlas méridional tunisien et des limites des chotts et sebkhas (A). Carte
+géologique du synclinal dʼOrbata-Chemsi (Tunisie méridionale) réalisé à partir de la carte géologique au 1/200 000 (B). A noter le
+remplissage messinien inclus dans le Mio-Pliocène (en gris clair).
+Fig. 2 – Map of the main geological structures of the southern Tunisian Atlas and limits of chotts and Sebkhas (A). Geological map
+of the Orbata Chemsi syncline (southern Tunisia) derived from the 1:200000 geological map (B). Note that Messinian deposit is inclu-
+ded in the Mio-Pliocene.
+
+
+
+ta, Hamadi et Biadha ; à l’est, la chaîne de Chemsi-Belkhir         orogénique du Plio-Gélasien, la dépression de Bou Omrane
+dont le passage avec le Jebel Orbata se fait par le col du          est efficacement abritée des vents sahariens chauds, de sorte
+Jebel Ank et dont la terminaison septentrionale se fait par le      qu’elle ne présente pas aujourd’hui les caractéristiques d’une
+Petit Jebel de Maizila (fig. 2 et fig. 3). Le fond de cette dé-     sebkha. En revanche, les dépressions salées prédominent dans
+pression est à une altitude de 250-350 m (i.e., sensiblement        les secteurs plus méridionaux, largement plus ouverts sur le Sa-
+plus élevée que celle des plaines environnantes de Talah au         hara et aux conditions optimales d’évaporation. De nombreuses
+nord-est et de Gafsa au sud-ouest). Depuis la dernière phase        sebkhas entourent la dépression de Bou Omrane comme celles
+
+
+282                           Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                              Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+
+Fig. 3 – Physiographie de la dépression de Bou Omrane (voir aussi fig. 2B). A : Dépression de Bou Omrane enserrée entre deux mas-
+sifs montagneux orientés SW-NE. B : Topographie au sud-ouest et au nord-est de la dépression de Bou Omrane.
+Fig. 3 – Topographical features of the depression of Bou Omran (see also fig. 2B). A: Depression of Bou Omrane between two moun-
+tains oriented SW-NE. B: Topographic elements in the southwest and northeast of the depression of Bou Omran.
+
+
+
+de Sebkhet Naoual au nord-est, de Sebkhet sidi Mansour à           le réseau hydrographique n’a pas réussi à s’encaisser. Les écou-
+l’est, de Chott el Guettar ou de Sebkhet el Melah près de          lements se font souvent en nappe sur des terrains inondables.
+Gafsa, qui forment ainsi une couronne autour de notre zone         L’hydronyme oued kébir (grand oued) est trompeur car il
+d’étude. Plus vers le sud s’étend l’un des plus grands chotts      fait référence aux grands oueds seulement présents dans la
+du monde : le chott el Jerid (fig. 1B et fig. 3).                  région de Gafsa.
+   Dans la dépression de Bou Omrane, le réseau hydrogra-              La géologie de la dépression de Bou Omrane est parfaite-
+phique actuel se distingue de celui des régions limitrophes        ment conforme à celle de l’Atlas saharien tunisien, avec une
+par l’absence d’artère ou de collecteur principal, la faible       épaisse série sédimentaire en structure plissée, composée de
+densité de drainage et l’insignifiance de l’incision dans cette    la succession suivante : argiles salifères du Trias ; alternances
+dépression, qui fait office de bassin versant entouré par des      argilo-calcaires du Jurassique ; sables et grès sur lesquels re-
+reliefs imposants (cf. supra). L’hypothèse pour expliquer          pose la puissante série calcaire et marneuse du Crétacé infé-
+cette originalité est essentiellement d’ordre géomorpholo-         rieur. Les terrains éocènes affleurent largement dans le Jebel
+gique, en relation avec l’arrêt de la subsidence du bassin de      Chemsis sous la forme de calcaires, de marnes et de gypse.
+Bou Omrane depuis la fin du Pliocène. Cette hypothèse vaut         La structure est contrôlée par de deux accidents tectoniques
+également pour justifier l’absence de plusieurs modelés et         majeurs (Burollet, 1956 ; Coque, 1962 ; Zargouni, 1985 ;
+formations quaternaires, tels les grands glacis du Pléisto-        Sghari, 1991) : la faille sud-atlasique, affectant les plis méri-
+cène inférieur scellés par des coûtes calcaires, par ailleurs      dionaux de l’Atlas saharien à environ 200 km au sud de la
+observés dans des secteurs proches de Bou Omrane, les cônes        zone d’étude, et la faille de Gafsa située à proximité du bas-
+de déjection du Pléistocène moyen ou les limons du Pléis-          sin de Bou Omrane, d’ampleur régionale et de rejet vertical
+tocène supérieur décrits par R. Coque (1962) et A. Sghari          de plus de 1 000 m est (fig. 4B). Les rejets répétés de la faille
+(1991). En revanche, la subsidence est toujours active dans        de Gafsa, en soulevant le compartiment nord et abaissé le
+les bassins limitrophes dont les épicentres sont occupés par       compartiment sud, ont eu des impacts sédimentaires puis-
+des sebkhas (fig. 1B et fig. 3). Les eaux pluviales s’écoulent     qu’ils ont contribué à réduire considérablement le remblaie-
+donc aisément vers les zones basses. Ces dernières consti-         ment détritique miocène à proximité de la faille. C’est le cas
+tuent des zones d’accumulation sédimentaire dans lesquelles        par exemple des sables de Beglia, d’âge Langhien-Serrava-
+
+
+                             Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                         283
+                                                                Abdeljalil Sghari
+
+
+
+
+Fig. 4 – Coupe géologique montrant la succession des couches géologiques plissées et lʼemplacement des dépôts messiniens
+dans le synclinal de Bou Omrane (A). Localisation sur la fig. 1B. 1 : calcaires, sables et marnes sableusec de lʼAptien ; 2 : calcaires dolo-
+mitiques de lʼAlbien-Cénomanien ; 3 : marnes et gypses du Cénomanien-Turonien ; 4 : calcaires dolomitiques du Turonien ; 5 : argiles
+calcaires, phosphates et gypses de lʼEocène ; 6 : argiles gréseuses assez gypseuses (rouge à ocre, continentale) du Messinien ; 7 : argiles
+gréseuses beaucoup moins gypseuses (rouge à ocre, continental) du Messinien surmontées par le Pliocène marin (Sghari et Mercier 2008).
+Coupe géologique longitudinale montrant lʼaffaissement des blocs occidental (bassin de Gafsa) et oriental (bassin de Naoual) et
+le soulèvement du bloc central (Bou Omrane ; B). Localisation in fig. 1B. Cette structuration est postérieure au Messinien au cours duquel
+sʼest formé un chott à Bou Omrane (zone centrale de la coupe). 1 : argiles rouges de lʼAquitanien (Miocène inférieur) ; 2 : sables fluvio-deltaïques
+du Langhien-Serravalien (Miocène moyen) ; 3 : argiles vertes marines du Tortonien (Miocène supérieur) ; 4 : argiles gréseuses ocres légèrement
+gypseuses, conglomératiques au sommet du Messinien ; 5 : argiles limoneuses ocres très gypseuses (banc de 20 à 25 m de gypse), sous contrô-
+le de la CSM ; 6 : argiles sableuses à huitres (voir fig. 8 et fig. 9) mises en évidence par A. Sghari et J.-L. Mercier (2008).
+Fig. 4 – Geological section showing the sequence of folded strata and location of Messinian deposits in the Bou Omrane syncline
+(A). Location in fig. 1B. 1: Aptian limestone, sand and sandy marl; 2: Albian-Cenomanian dolomitic limestone; 3: Cenomanian-Turonian clay
+and gypsum; 4: Turonian dolomitic limestone, 5: Eocene clay, limestone, gypsum and phosphate; 6: Messinian continental red ocher clayed
+sandstone including abundant gypsum; 7: Messinian continental red ocher clay sandstone including rare gypsum recovered by marine Plio-
+cene (Sghari and Mercier, 2008). Longitudinal geological section showing the collapse of the western (Gafsa basin) and eastern
+(Naoual basin) compartments and elevation of the central compartment (Bou Omran; B). Location in fig. 1B. This structure is post-Mes-
+sinian during which Chott Bou Omrane formed (central zone of the section). 1: Aquitanian (Lower Miocene) red clay; 2: Langhian-Serravalien
+(Middle Miocene) fluvio-deltaic sands; 3: marine Tortonian (Upper Miocene) green clay; 4: Messinian ocher sandy clay with rare gypsum and
+conglomerate at the top; 5: silty clay including abundant gypsum (thickness of gypsum: 20-25 m) under control of the MSC; 6: sandy clay
+with oysters (see fig. 8 and fig. 9) revealed by A. Sghari and J.-L. Mercier (2008).
+
+
+
+lien, et des argiles gypseuses marines ou lagunaires du Tor-                Omrane a fonctionné indépendamment du bassin de Gafsa.
+tonien dont l’extension est considérable dans le bassin méri-               Cet isolement s’est poursuivi durant le Messinien et le Plio-
+dional de Gafsa mais qui, ne s’étendant pas au delà d’un seuil              cène. Ces deux périodes sont plus particulièrement étudiées
+situé au niveau de l’actuel Jebel Ank, n’atteignaient donc pas              ici car elles encadrent la CSM durant laquelle l’isolement a
+la dépression de Bou Omrane (fig. 2A et fig. 4).                            permis d’atteindre le stade de confinement, donnant lieu à la
+   Tous ces arguments permettent d’avancer que, durant une                  formation d’un dépôt d’évaporites. Les preuves d’une ferme-
+grande partie du Miocène, la dépression synclinale de Bou                   ture totale [i.e., au nord-est (Maizila) et au sud-ouest (Jebel
+
+
+284                              Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                               Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+Ank)] de la dépression de Bou Omrane sont toujours per-                 Le Messinien de la zone continentale du Sud tunisien n’a
+ceptibles (fig. 1B et fig. 2A). C’est l’une des causes déter-        pas fait l’objet de recherches géologiques et géomorpholo-
+minantes de la concentration exclusive des évaporites dans           giques. Pourtant, de nombreux arguments comme les basses
+cette dépression.                                                    altitudes, le caractère endoréique des cours d’eau au Messi-
+                                                                     nien et l’ouverture de vastes plaines sur la Méditerranée mon-
+La CSM et ses conséquences                                           trent que la CSM a largement bouleversé les zones continen-
+en Tunisie méridionale                                               tales situées en arrière des lignes de rivage. D’autant plus que
+                                                                     de nombreux événements géomorphologiques, sédimentaires
+   Ouvert à la fois sur les bassins occidental et oriental de la     et paléoclimatiques se rapportant à cette période mio-plio-
+Méditerranée (fig. 1A), le territoire sur lequel se trouve au-       quaternaire demeuraient obscurs malgré de nombreuses
+jourd’hui la Tunisie a subi les effets des variations eusta-         études ayant abordé la caractérisation du Villafranchien sous
+tiques. La plus ample variation eustatique, mise en évidence         l’angle de la chronostratigraphie (Vaufray, 1934 ; Laffite et
+par K.J. Hsü et al. (1973), est incontestablement celle pro-         Dumone, 1948 ; Coque, 1962 ; Coque et Jauzein, 1965 ; Ben
+voquée par la CSM, en lien avec une crise eustatique dé-             Ouezdou, 1987 ; Sghari, 1991), celui des croûtes et encroûte-
+clenchée dès l’arrêt des communications entre la Méditerra-          ments calcaires et gypseux (Coque, 1962), de l’âge de l’en-
+née et l’Atlantique, consécutivement à la fermeture du dé-           taille des cluses, et de leur concentration dans le sud-ouest tu-
+troit de Gibraltar entre 5,96 Ma et 5,33 Ma. C’est l’un des          nisien (Coque, 1962 ; Sghari, 1991) ou de la formation des
+événements marquants de l’histoire de la Méditerranée, as-           chotts et des sebkhas (Coque, 1962 ; Amari et Bedir, 1989).
+socié à la tectonique, la sédimentogenèse, la stratigraphie et       L’éclaircissement de ces différents points, du fait de leur im-
+la géomorphogenèse. G. Clauzon et al. (1996) ont proposé             portance pour la compréhension de la géomorphologie du
+un schéma d’évolution de la CSM dont on rappelle ici les             Sud tunisien, passait par une nouvelle analyse des sédiments
+principaux temps forts : début de la CSM vers 7,25 Ma ;              mio-pliocènes. Des faunes marines pliocènes avaient déjà
+prolongement au Messinien par la crise eustatique liée à             été identifiées dans de nombreuses localités (Sghari et al.,
+l’effondrement du niveau marin. L’abaissement du niveau              2008 ; Sghari, 2009 ; Sghari et Mercier, 2010). Les récentes
+marin, de 1 500 m dans le bassin occidental et de 1 500-             déterminations biostratigraphiques et analyses sédimentolo-
+2 000 m dans le bassin oriental de la Méditerranée, a eu des         giques que nous avons effectuées ont permis de lever l’ambi-
+effets morphologiques majeurs : sur la rive nord et dans les         guïté sur l’enregistrement des étapes de la CSM avec toutes
+régions humides abondamment alimentés par les fleuves,               ses conséquences eustatiques, géologiques, paléogéographiques
+l’érosion régressive a creusé d’impressionnants canyons              et géomorphologiques.
+(Rhône, Var, Tech, Têt, Orb, Hérault, Durance...) qui se sont           En effet, lors de fouilles effectuées dans les niveaux du som-
+transformés en rias lors de la transgression du Zancléen. Des        met du Messinien et du conglomérat terminal, du reste long-
+analyses biostratigraphiques réalisées dans le nord de la Tu-        temps considéré d’âge villafranchien (Coque, 1962), nous
+nisie sur le Messinien marin (Beseme et Kammoun, 1987 ;              avons reconnu (Sghari, 1991) une biocénose composée es-
+Mannai-Tayech, 2006 ; Gaaloul et Razghallah, 2008) ont               sentiellement d’huîtres et, en particulier, de l’espèce littorale
+apporté des éléments de précision concernant la biostrati-           pliocène Ostrea lamellosa var. Offreti (Kilian, 1889), récoltées
+graphie marine de la CSM.                                            d’abord dans le Jebel Oum el Kecheb (fig. 5) puis sur plus de
+
+
+
+
+Fig. 5 – Le Messinien et le Pliocène marin du Jebel Om el Kecheb (34°19”25N ; 8°27ʼ34”E), 40 km au sud-ouest de Gafsa dans le
+Sud-ouest tunisien (A : Sghari A. et Mercier J.-L., 2008). Huîtres pliocènes (Ostrea lamellosa var. Offretti ; Kilian, 1889) longueur 5
+cm (B : Sghari et Mercier, 2008).
+Fig. 5 – Messinian and Pliocene marine deposits of Jebel Om el Kecheb (34°19ʼ25”N; 8°27ʼ34"E), 40 km southwest of Gafsa in the
+south-western part of Tunisia (A: Sghari and Mercier, 2008). Pliocene oysters (Ostrea lamellosa var. Offretti; Kilian, 1889) length 5
+cm (B: Sghari and Mercier, 2008).
+
+
+
+                               Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                          285
+                                                           Abdeljalil Sghari
+
+
+
+20 sites dans le Sahel méridional et dans le bassin de Gafsa.         dépression de Bou Omrane, qui a pu évoluer de façon indé-
+Dès lors, cette découverte permet de reconstituer autrement           pendante par rapport aux régions environnantes. Sur le pié-
+l’évolution géomorphologique au Messinien et au Pliocène              mont septentrional du Jebel Chemsi, les coupes stratigra-
+puis de la corréler avec les résultats issus des travaux réali-       phiques levées dans les affleurements les plus complets de la
+sés sur la rive nord de la Méditerranée, en particulier avec          série messinienne montrent que cette série, épaisse de 300 m,
+ceux du bassin du Rhône et de l’Ebre. C’est dans ce cadre             est composée, de bas en haut, des termes suivants (fig. 7) :
+que les dépôts gypseux du Mio-Pliocène du Jebel Chemsi                   - a : calcaires dolomitiques et gypse de l’Eocène ;
+prennent toute leur importance.                                          - b : argiles sableuses vertes à oogones de characées, épaisses
+                                                                      de 4 m et datant de l’Oligocène (Sghari, 1991) ;
+Un chott formé lors de la crise                                          - c : argiles gréseuses rouge-brique à taches blanches, car-
+de salinité Messinienne                                               bonatées, épaisses de 20 m à 30 m et renfermant d’abon-
+                                                                      dantes empreintes de gastéropodes continentaux pouvant
+   En Tunisie, des faciès évaporitiques (gypse et anhydrite)          être attribués à la « formation Messiouta » (Aquitanien ;
+avaient été signalés dans le golfe d’Hammamet (Gaaloul et             Biely et al. 1972) ;
+Razgallah, 2008). En revanche, nous avons été les premiers               - d : 3 niveaux conglomératiques de 0,5-0,6 m d’épaisseur
+à découvrir en 1985 la présence d’évaporites continentales            alternant avec des limons rouges de même épaisseur (épais-
+énigmatiques, à les signaler entre 1985 et 1989 dans diffé-           seur totale : 3 m), pouvant avoir une origine climatique ou
+rents rapports trimestriels internes rédigés pour la Compa-           tectonique du début du Messinien puisque ces niveaux
+gnie des Phosphates de Gafsa et le Projet de Cartographie             conglomératiques reposent sensiblement en discordance de
+Géologique du Bassin de Gafsa ou lors d’excursions scien-             ravinement sur les argiles rouges aquitaniennes ;
+tifiques puis à les publier (Sghari, 1991 ; fig. 6). Notre coupe         - e : limons ocres monotones à cristaux de gypse (épais-
+géologique du Jebel Chemsi (fig. 7) fut mentionnée dans les           seur totale : 110 m) ;
+travaux géologiques des rapports sus-mentionnés et par des               - f : 5 à 7 lames de gypse, ne dépassant pas chacune 7 cm
+collègues ayant participé à la cartographie géologique de             d’épaisseur, interstratifiées dans des limons ocres (épaisseur
+Gafsa (Mannaï-Tayech, 2006).                                          totale 30 m ;
+   Dans le Sud tunisien, les dépôts continentaux argilo-limo-            - g : gypse massif d’épaisseur variable (15-25 m) compo-
+neux plus ou moins gypseux, azoïques, de couleur ocre à               sé de 3 niveaux : un niveau basal (4 m d’épaisseur) compo-
+beige, de quelques centaines de mètres d’épaisseur, rem-              sé de gypse fibreux consolidé, un niveau moyen (5-7 m
+blaient de vastes synclinaux (Burollet, 1956 ; Coque, 1962 ;          d’épaisseur) composé de gypse friable saccharoïde et un ni-
+Sghari, 1991). Ils sont l’expression d’un intense phénomène           veau supérieur (6 m d’épaisseur) composé de gypse conso-
+d’érosion affectant des structures tectoniques en cours de for-       lidé. Ce terme est comparable au terme « f » mais il com-
+mation, qui formeront ultérieurement (au Pliocène) le corps           prend en plus des passées conglomératiques qui pourraient
+de l’Atlas saharien. Au Messinien supérieur, des conditions           traduire une tectonique limitée (la répétitivité de ces passées
+optimales pour la concentration du gypse ont permis le dépôt          conglomératiques semble être en rapport avec un mouve-
+d’une couche pouvant atteindre jusqu’à 25 m d’épaisseur               ment de soulèvement lent associé à chaque fois à des pro-
+(fig. 6). Cette épaisseur est unique et fait l’originalité de la      cessus d’érosion d’origine continentale des strates géolo-
+
+
+
+
+Fig. 6 – Vue générale de la couche de gypse dans les limons continentaux messiniens du piémont nord du Jebel Chemsi (A) (Photo :
+A. Sghari). Localisation in fig. 1B. Détail du gypse messinien (blanc) contrastant avec les limons ocres du Jebel Chemsi (nord ; B)
+(Photo : A. Sghari).
+Fig. 6 – General view of the gypsum layer in the Messinian, continental silts northern piedmont of Jebel Chemsi (A) (Photo: A. Sghari).
+Location in fig. 1B. Detail of the Messinian gypsum (white), opposed to reddish-brown silts in Jebel Chemsi (north; B) (Photo: A. Sghari).
+
+
+
+286                            Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                                Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+
+Fig. 7 – Coupe du Miocène supérieur sur le piémont nord du Jebel Chemsi (Sud tunisien ; localisation in fig. 1B). A : description géné-
+rale de la coupe. B : Gypse messinien (terme g). C : Lames de gypse intercalées dans le Messinien limoneux (terme f). D : Conglomérat à
+la base du Messinien légèrement discordant sur lʼAquitanien (terme d).
+Fig. 7 – Section of the late Miocene in the northern foothills of Jebel Chemsi (southern Tunisia; location in fig. 1B). B: Messinian gyp-
+sum (unit g). C: Gypsym laminae inserted in Messinian silt (unit f). D: Conglomerate at the base of the Messinian slightly discordant with
+Aquitanian (unit d).
+
+
+
+                               Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                             287
+                                                          Abdeljalil Sghari
+
+
+
+giques calcaires/calcaires dolomitiques d’âge
+tertiaire ou crétacé supérieur. Cependant,
+la nature limoneuse du matériel encais-
+sant n’est pas commode pour des me-
+sures de discordance. Pour ce faire, il est
+indispensable de se déplacer sur quelques
+dizaines de kilomètres le long du flanc
+sud du Jebel Chemsi en sélectionnant des
+sites de mesure) ;
+   - h : limons ocres plus grossiers à pas-
+sées conglomératiques et à rares lames de
+gypse (épaisseur totale : 100 m) ;
+   - i : conglomérat sommital mal cimenté
+et fortement érodé.
+   S’il apparaît que les couches gypseuses
+de l’Eocène constituent la principale origi-
+ne des évaporites messiniennes, leur condi-
+tion de mise en place dans la paléocuvette
+de Bou Omrane reste plus difficile à expli-
+quer. En effet, la dissolution d’un impor-
+tant volume d’évaporites (fig. 8A) et leur
+stockage dans la cuvette de Bou Omrane
+(fig. 8B) au cours de la CSM nécessite-
+raient des quantités non négligeables d’eau
+pluviale, ce qui reste contradictoire avec ce
+que l’on sait du climat au cours du Messinien
+(Clauzon, 1982 ; Rouchy, 1982 ; Orszag-
+Sperber et al., 2000). Le premier épisode
+correspond au dépôt de plus de 5 m de
+gypse dans des conditions d’aridité in-
+tenses avant l’arrêt du phénomène qui per-
+met la consolidation du dépôt à l’air libre.
+Le deuxième épisode correspond à la re-
+prise d’une sédimentation évaporitique,
+peut-être effectuée sous une tranche d’eau
+salée à partir d’une altération des premières Fig. 8 – Paléoenvironnements contemporains de la CSM et formation du paléochott
+accumulations gypseuses (la présence pro- de Bou Omrane (A). 1 : gypse et marnes (Crétacé) ; 2 : dolomies, calcaires et marnes
+longée d’eau probablement par émergence (Crétacé) ; 3 : calcaires (Eocène) ; 4 : gypse (Eocène) ; 5 : argiles rouges encroûtées
+de la nappe souterraine n’a pas permis une (Oligo-Miocène). Messinien à lʼapogée de la crise. 6 : limons ; 7 : gypse continental dépo-
+                                              sé lors de la CSM. Bloc diagramme de la chronostratigraphie messinienne dans la
+cristallisation suffisante du CaSO4-2H2O). dépression de Bou Omrane (B).
+Le troisième épisode correspond à l’assè-
+chement du chott de Bou Omarane et au Fig. 8 – Palaeoenvironments during the MCS and palaeochott of Bou Omran (A). 1:
+                                              gypsum and marl (Cretaceous); 2: dolomitic limestone and marl (Cretaceous); 3: limesto-
+durcissement des horizons supérieurs de la ne (Eocene); 4: gypsum (Eocene); 5: red encrusted clay (Oligo-Miocene). Messinian at the
+couche gypseuse continentale.                 maximum of the MCS. 6: silt; 7: continental gypsum deposited during the MCS. Diagram
+   L’intervention de la nappe phréatique block of the Messinian chronostratigraphy in Bou Omran depression (B).
+pourrait alors être envisagée pour expli-
+quer l’épaisseur du gypse accumulé au
+Messinien dans cette paléocuvette. Dans ce cas, l’eau de associés des carbonates. Très vite, le gypse commence à
+la nappe phréatique, assez proche de la surface chargée en précipiter et des plaques de gypse ou de halite cristallisés
+sel, se serait évaporée, conduisant aux accumulations d’éva- peuvent se former et durcir eu égard à la présence du cal-
+porites et, en particulier, celles de gypse (CaSO4-2H2O) et caire (Pierre et Ortlieb, 1980). Pour D.J. Shearman (1971),
+de chlorure de sodium (NaCl) mais aussi de carbonate de l’habitus cristallin du gypse est le plus souvent celui de
+calcium (CaCO3). Ce phénomène caractérise les sebkhas cristaux allongés ou de prismes trapus souvent maclés,
+actuelles, affectées par la remontée capillaire des eaux sou- formes caractéristiques d’une cristallisation sous-aquatique.
+terraines qui forment, à terme, des croûtes de sel (Tricart, Dans le cas des évaporites de Bou Omrane, des analyses
+1979). C’est également le cas lorsque les sebkhas sont géochimiques approfondies pourraient préciser leur com-
+inondées par des eaux pluviales qui atteignent rapidement position minéralogique et les conditions du milieu de
+le seuil de saturation en sulfates auxquels peuvent être cristallisation.
+
+
+288                           Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                              Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+Chronologie simplifiée                                              ils sont localisés dans une petite unité synclinale affectée d’une
+des événements messiniens                                           tectonique synsédimentaire. Pour R. Riding et al. (1998), qui
+                                                                    décrivent le petit bassin marginal de Sorbas (Espagne), le sys-
+   La série de Bou Omrane est continentale et azoïque, sa data-     tème comporte une phase d’évaporites périphériques, la se-
+tion faunistique est impossible : nous tenterons donc une ap-       conde correspondant aux évaporites profondes, la troisième à la
+proche stratigraphique puis chronostratigraphique. Par ailleurs,    restauration de la circulation marine avec le dépôt des gypses de
+une discordance d’environ 13 Ma de l’Aquitanien au Messi-           Yesares. Pour Bou Omrane, l’intérêt de cette construction
+nien implique une émersion précoce et l’existence d’une phase       comme de la précédente est la présence d’évaporites conti-
+d’érosion à la base du Messinien (niveau d) ; le Pliocène           nentales antérieures à la crise de salinité principale ; à l’oppo-
+n’étant pas identifié dans cette coupe, cette série, sans réfé-     sé, à Bou Omrane, la présence de 110 m de sédiments conti-
+rences au mur ni au toit mais caractérisée par son banc de          nentaux (niveaux h-i) au-dessus du niveau évaporitique s’op-
+gypse, est très difficilement datable.                              pose aux interprétations de R.W.H. Butler et al. (1995) et à
+                                                                    celle de R. Riding et al. (1998). Dans ces deux derniers cas, il
+Situation probable des gypses                                       s’agit d’interprétations géographiques limitées au centre de la
+de Bou Omrane dans le Messinien                                     Sicile pour R.W.H. Butler et al. (1995) et au bassin de Sorbas
+péri-méditerranéen : discussion                                     pour R. Riding et al. (1998).
+                                                                       A l’opposé, G. Clauzon et al. (1996) ont une interprétation
+   Un état des lieux et une synthèse ont été proposés (CIESM,       à la fois marine et continentale car ils tiennent compte du
+2007 ; Roveri et al., 2008). J.-M. Rouchy et A. Caruso (2006)       creusement des fleuves péri-méditerranéens et de la mise en
+ont fait la synthèse des travaux réalisés en zone méditerra-        place de surfaces d’abandon ; la fin de la sédimentation mar-
+néenne continentale et marine ; cinq schémas différents ont         ginale serait datée de 5,7 Ma et ces dépôts seraient tronqués
+été identifiés par ces auteurs. De ces descriptions, aucune ne      par une surface d’érosion. Ce schéma ne correspond qu’en
+correspond complétement avec l’affleurement décrit à Bou            partie à Bou Omrane : en effet, la partie supérieure des dépôts
+Omrane : certaines sont proches, d’autres sont plus éloignées.      est tronquée par des conglomérats (niveau i) discordants sur
+Néanmoins, quelques accords existent : sur le début du Mes-         les formations sous-jacentes. Mais l’existence de 100 m de dé-
+sinien à 7,246 Ma (Hilgen et al., 2000) ; sur le début des éva-     pôts continentaux (niveau h) séparant le niveau à gypse (g) des
+porites à 5,96 Ma (Krijgsman et al., 1999). Le dernier accord       conglomérats supérieurs n’est décrite par aucun autre auteur.
+porte sur la transgression pliocène (Zancléen) datée à 5,33 Ma      L’inadaptation partielle du schéma « Clauzon et al. (1996) »
+(Van Couvering et al., 2000), ceci étant dû à la rapidité de        vient de l’origine continentale des gypses, de la faible exten-
+l’ouverture du détroit de Gibraltar et à la brutalité du rem-       sion géographique de la dépression de Bou Omrane et de la
+plissage du bassin méditerranéen.                                   tectonique d’effondrement. Ces caractéristiques qui associent
+   Les différends entre auteurs sont dus à 1) des conceptions       tectonique et séquences marines sont décrites par de nom-
+générales différentes, 2) des espaces différents, 3) une tecto-     breux auteurs (Murcia : Krijgsman et al., 2006 ; Sicile : Manzi
+nique différente. W. Krijgsman et al. (1999) donnent les            et al. 2011 ; Grèce et Chypre : Stefano et al., 2010).
+épaisseurs de sédiments pré-évaporites : 125 m à Sorbas,               L’existence de dépôts marins cycliques au Messinien a per-
+31 m à Gavdos (Grèce) et 50 m en Sicile, ces grandeurs cor-         mis un fort développement de la chronologie astronomique.
+respondant à celles de Bou Omrane (niveaux d-e-f). Ces au-          Par ailleurs, l’analyse des faciès continentaux peut apporter
+teurs décrivent les évaporites marginales superposées aux           des éléments. En effet, si en l’absence de Tortonien, trois
+évaporites profondes : la durée de dépôt des évaporites su-         conglomérats (niveau d) ravinent l’Aquitanien, ceux-ci ne
+périeures est de 175 ka mais ce schéma ne s’applique pas à          peuvent exactement correspondre au début du Messinien, il
+Bou Omrane. Le schéma proposé par J.-M. Rouchy (1982)               s’agit alors de dépôts associés à la fin d’une phase de tecto-
+et J.-M. Rouchy et J.-P. Saint-Martin (1992) sépare plusieurs       nique active ou à une période « glaciaire » du Messinien
+niveaux d’évaporites profondes d’un niveau d’évaporites             associant érosion et accumulation. Ces phases (« glaciaires »
+supérieures : ce second schéma ne s’applique pas à Bou              pour l’Atlantique 65°N) sont connues à partir de 7 Ma au
+Omrane. Les schémas de G. Clauzon et al. (1996),                    Groenland (Larsen et al., 1994) et le site ODP 982 montre
+R.W.H. Butler et al. (1995, 1999) et R. Riding et al. (1998)        18 oscillations « glaciaire-interglaciaire » entre 6,29 et 5,5 Ma
+s’appliquent mieux car ils séparent la sédimentation évapo-         (Hodell et al., 2001 ; Vidal et al., 2002 ; Van der Laan et al.,
+ritique des bassins profonds de la sédimentation marginale.         2005) ; ces cycles seraient contrôlés par l’obliquité avec une
+Pour G. Clauzon et al. (1996), les évaporites marginales            périodicité à 41 ka et les plus importants seraient TG20
+s’installent au début de l’abaissement du niveau marin à            (5,75 Ma), TG12 (5,51 Ma), TG28, TG32 (5,95 Ma). Dans
+5,96 Ma et sont antérieures de 260 ka aux évaporites pro-           cette série, une glaciation « ancienne » à 6,29 Ma ou TG34
+fondes ; pour R.W.H. Butler et al. (1995), un niveau d’éva-         à 5,98 Ma (Shackleton et Crowhurst, 1997 ; Shackleton et
+porites s’établit antérieurement à la fermeture de la méditer-      Hall, 1997) seraient de bons candidats pour la mise en place
+ranée vers 6,88 Ma ; un second niveau s’établit à la fois dans      de ces conglomérats. La tectonique ne serait lisible que sur
+les fosses profondes et dans des sous bassins continentaux          une plus longue durée.
+entre 5,8 et 5,5 Ma ; un troisième niveau évaporitique cor-            Pour la mise en place des 15-25 m de gypse (niveau g),
+respond à la fin du Messinien. La dépression de Bou Omra-           F.J. Hilgen et al. (2007) ont montré que les deux paramètres
+ne et le bassin de Sicile ont des caractéristiques communes :       de précession et d’obliquité contrôlaient le climat. La pré-
+
+
+                              Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                          289
+                                                           Abdeljalil Sghari
+
+
+
+cession avec une périodicité de 21,7 ka (Krijgsman et al.,            pas compte des 100 m de dépôts continentaux sus-jacents
+1999) serait liée aux formations à cyclicité plus réduite et          aux gypses.
+aux dépôts de gypse. Les dépôts de gypse correspondraient
+aux précessions maximales (insolations minimales) et à un             Origine et signification des dépôts
+climat relativement sec (Krijgsman et al., 2001). Dans le             continentaux
+cas de Bou Omrane, l’épaisseur de la formation n’implique-
+rait qu’une à deux phases de précession. Deux pics pourraient            A. Sghari et al. (2008) ont montré que cette région a sans
+satisfaire cette double condition : autour de 5,75 Ma et              doute subi « de plein fouet » les impacts de la CSM dont les
+5,59 Ma (Laskar et al., 2004), mais ces dates correspondent           principales signatures ont été l’érosion à l’amont et la sédi-
+à l’installation des évaporites profondes et ne permettraient         mentation à l’aval. C’est à notre sens ce qu’expriment les
+pas le dépôt de 110 m de sédiments (niveau e). Les pics sui-          dépôts continentaux messiniens rouges du Sud tunisien que
+vants d’insolation minimale sont à 5,48 Ma et 5,37 Ma, la             P.-F. Burollet (1956) a classé dans la « formation Segui ».
+plus ancienne pourrait être propice à la mise en place de la          En effet, à l’opposé du versant Nord de la méditerranée, et
+dalle de gypse dans un chott messinien. Inversement, on               même du Nord de la Tunisie, dans cette région, la régression
+pourrait associer le banc de gypse aux UE « Upper Evapo-              eustatique messinienne n’a pas permis le creusement de ca-
+rites » formées de 5 à 7 cycles de dépôts durant 175 ka. Pour         nyons comme ceux des fleuves bien alimentés en eau. Dans le
+intéressant qu’il soit, ce schéma de E. Van der Laan et al.           sud-tunisien, l’aridité, l’éloignement des isobathes profonds et
+(2005, 2006) et F.J. Hilgen et al. (2007) n’est pas totalement        l’existence de synclinaux ou de fossés sédimentaires ont favo-
+applicable à Bou Omrane car il introduit la transgression             risé un endoréisme. Ces dépôts (e, f) correspondent donc à une
+pliocène dès la base des évaporites supérieures et ne tient           sédimentation continentale de piémont contemporaine de l’as-
+
+
+
+
+Fig. 9 – Limites de la transgression zancléenne en Tunisie méridionale (dʼaprès Sghari et al., 2010). 1 : incursion de la mer zancléen-
+ne ; 2 : situation du paléochott messinien de Bou Omrane ; 3 : aucune donnée disponible sur le Pliocène marin du sud de lʼAlgérie.
+Fig. 9 – Limits of the Zanclean transgression in southern Tunisia (after Sghari et al., 2010). The Messinian palaeochott of Bou Omran
+is situated between the edge of the Pliocene sea. 1: incursion of Zanclean sea; 2: location of Messinian palaeochott of Bou Omrane; 3: no
+data are available concerning the marine Pliocene situated in the south of Algeria.
+
+
+
+290                            Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                              Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+sèchement de la Méditerranée. Sans avoir l’importance qu’el-        dant sur de vastes dépressions. Ces chotts ont été mis en eau à
+le a en Italie et en Sicile, la tectonique a aussi joué son rôle    plusieurs reprises lors d’émergences d’eau souterraine (sources)
+dans le dépôt du niveau h-i. Postérieurement, la transgression      et/ou par des eaux pluviales au cours de périodes humides
+et la répartition des gisements fossilifères pliocènes (mis en      propices au développement de milieux saumâtres (e.g., ni-
+évidence dans nos travaux) dessinent un important golfe marin       veaux à Cardium edule, observés dans de nombreux en-
+signalant la large extension de la transgression zancléenne         droits à faibles profondeurs, autour des grands chotts, sur les
+dans le Sud tunisien (fig. 9). Ces observations s’accordent         rivages de Chott el Jerid et de Chott el Gharsa en particulier,
+avec l’évolution géologique à cette période dans l’ensemble         et à proximité des palmeraies). La décantation de limons
+du bassin méditerranéen.                                            gypseux et salés a été possible dans le courant du Messinien.
+                                                                    Ces mêmes zones, qui sont toujours très basses et parfois
+Du chott Messinien aride et froid                                   même à des altitudes négatives comme Chott el Gharsa à -
+aux chotts actuels arides et chauds                                 19 m, ont été occupées par la mer pliocène.
+                                                                       Les pulsations climatiques humides au cours du Quater-
+   Les évaporites constituent des roches omniprésentes dans         naire n’ont pas fondamentalement modifié la tendance cli-
+la série lithostratigraphique sédimentaire du nord au sud de        matique générale à l’aridification. Rien n’indique pour autant
+la Tunisie (Burollet, 1956 ; Busson, 1967). Elles se présen-        que la fin du paléochott de Bou Omrane soit due à un chan-
+tent sous la forme de gypses massifs à la transition Trias-         gement climatique notable. Il ne s’agissait peut-être que du
+Jurassique et d’argiles bariolées gypseuses anhydritiques           raccourcissement de la saison de précipitation du gypse au
+dans le Wealdien (Castany, 1953). Elles associent les carac-        profit de l’allongement de la saison de l’alluvionnement li-
+téristiques habituelles d’aridité et d’isolation (Rouchy et         moneux. En dépit de nouvelles conditions climatiques (recru-
+Blanc-Valleron, 2007). À Metlaoui (région de Gafsa), les            descence de l’humidité) et paléogéographiques acquises dès
+gypses éocènes sont composés des minéraux suivants : SiO2           le début du Pliocène, la dépression de Bou Omrane n’a pas
+(3,2 %) ; Al2O3 (0,5 %) ; CaO (30,1 %) ; Fe2O3 (0,08 %) ;           beaucoup changé. Les dépôts restent imprégnés par le gypse
+SO3 (46,1 % ; CPG et SOMMI, 2000). Ces dépôts éocènes,              et conservent un caractère azoïque franc, alors que, ailleurs,
+qui affleurent largement dans le Jebel Chemsi, constituent la       dans les montagnes en particulier, s’est amorcée une phase de
+principale source de gypse du paléochott de Bou Omrane              karstogenèse. Au cours du Gélasien-Pléistocène, la dépres-
+durant la CSM. À cette période, le plissement de la série sédi-     sion de Bou Omrane a joué un rôle non négligeable dans l’ex-
+mentaire n’en n’était encore qu’à ses débuts et les couches         portation de gypse et de sels par le ruissellement vers les
+éocènes étaient en surface et en position relativement tabu-        zones basses du nord et du sud, contribuant ainsi à la forma-
+laire : le paléopaysage de cette zone correspondait alors au        tion des sebkhas. Cependant, le point climatique reste enco-
+Messinien à un vaste plateau gypseux. L’analyse géochim-            re à travailler. En effet, il s’agit de relier la dynamique ac-
+ique des matériaux évaporitiques de Bou Omrane pourrait             tuelle chaude et aride des chotts à la dynamique froide et
+permettre de préciser d’avantage « le » ou « les » types de         aride que propose l’astro-chronologie pour le dépôt des éva-
+climats au Messinien, en particulier celui à l’origine des ac-      porites du Messinien.
+cumulations du niveau « g » de la coupe de Bou Omrane et
+des variations inverses des deux éléments principaux, CaO           Conclusions
+et SO3. La proportion du premier élément serait sensible-
+ment élevée à la base et au sommet du terme « g » alors que            La coupe du Jebel Chemsi (dépression de Bou Omrane)
+le second serait dominant dans la partie médiane. C’est ce          constitue l’un des rares secteurs mettant en évidence la for-
+qui explique la consolidation des deux couches inférieures          mation d’un chott due à de stricts processus continentaux
+et supérieures et le caractère pulvérulent du membre moyen.         (i.e., endoréisme total, bilan hydrologique négatif, aridité)
+   Les sebkhas holocènes sont aujourd’hui disposées en cou-         durant le Messinien. La coupe étudiée montre les faits sui-
+ronne, à quelques kilomètres autour de la dépression de Bou         vants : l’Aquitanien serait le niveau « c » ; il serait raviné en
+Omrane (fig. 1B à fig. 3) : ce phénomène ne nous paraît pas         discordance par un niveau « d » messinien ; l’absence du
+être le fruit du hasard mais sans doute lié à l’évolution géo-      Tortonien indiquerait que Bou-Omrane était en phase d’éro-
+morphologique de la dépression de Bou Omrane après le               sion continentale au début du Messinien. À ce niveau se pla-
+Messinien. En effet, les sebkhas de la région doivent leur          cerait la surface d’érosion pré-messinienne (Clauzon et al.,
+formation entre autres au désenclavement de la cuvette de           1996) ; les niveaux conglomératiques « e-f » seraient asso-
+Bou Omrane dès la fin du paroxysme tectonique de la fin du          ciés à l’une des phases glaciaires du Messinien inférieur
+Pliocène. Profitant du rajeunissement des reliefs pour en-          (6,29 Ma ou TG34 ≈ 6 Ma ?) ; le niveau gypseux « g » da-
+tailler profondément les deux extrémités sud-occidentale et         terait des phases sèches et froides vers 5,48 Ma ; les dépôts
+nord-orientale de la cuvette de Bou Omrane, les cours d’eau         continentaux (niveaux e-f) correspondraient à une série flu-
+ont contribué à l’érosion d’une grande partie de la série mes-      vio-deltaïque mise en place sur le continent durant la ré-
+sinienne, dont les évaporites. Enfin, au moins deux grandes         gression marine et correspondraient à des taux de sédimen-
+sebkhas (el Guettar et Naoaul) se sont précocement for-             tation de 20-30 cm/ka ; les sédiments (niveau « h ») sur
+mées dès le retrait de la mer pliocène (fig. 5B). On est alors      100 m correspondraient à la poursuite de la subsidence du
+entré dans la période de formation des grands chotts du Sud         bassin de Bou Omrane avec un taux de sédimentation de
+tunisien, qui se sont développés progressivement en s’éten-         60 cm/ka environ. Les taux de sédimentation sont donc
+
+
+                              Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                         291
+                                                              Abdeljalil Sghari
+
+
+
+beaucoup plus élevés à la fin de la crise qu’à son début. La               sins of Sicily. Journal of the Geological Society (London) 156,
+tendance à l’humidification se poursuit d’une façon soute-                 827-835.
+nue au Pliocène inférieur et conduit même à une importante               Castany G. (1953) – Notice explicative de la carte géologique de
+karstogenèse dans l’ensemble de la Tunisie, y compris dans                 la Tunisie au 1/500000. SEFAN, Tunis, 143 p.
+des régions aujourd’hui présahariennes (Sghari, 2011). Pour              CIESM (2007) – The Messinian Salinity Crisis from mega-deposits
+l’instant, en l’absence de traces de la transgression pliocène             to microbiology. A consensus report. In Briand F. (Ed.) CIESM
+dans cette dépression, il est impossible d’attribuer une limi-             Workshop Monographs 33, Monaco, 168 p.
+te d’âge aux conglomérats supérieurs (niveau « i ») comme                Clauzon G. (1982) – Le canyon messinien du Rhône : une preuve
+cela a été fait dans le bassin de Gafsa (Sghari et al., 2008 ;             décisive du « Dessicated deep basin model » [Hsü, Cita, Ryan,
+Sghari, 2009 ; Sghari et Mercier, 2010).                                   1973]. Bulletin de la Société Géologique de France, 24, 597-610.
+                                                                         Clauzon G. (1990) – Restitution de l’évolution géodynamique
+Remerciements                                                              néogène du bassin du Roussillon et de l’unité adjacente des Cor-
+   Au terme de ce travail, je tiens à remercier les deux relec-            bières d’après les données écostratigraphiques et paléogéogra-
+teurs anonymes et Gilles Arnaud-Fassetta, rédacteur en chef                phiques. Paléobiologie continentale, XVII, 125-155.
+de la Revue, pour l’intérêt qu’ils ont porté à mon travail et            Clauzon G., Mandier P., Aaguillard J.-P., Delannoy J.-J., Guen-
+pour leurs remarques pertinentes qui ont contribué à l’amé-                don J.-L., Klein C., Michaux J., Rubino J.-L., Vaudour J.
+lioration sensible de cet article, tant sur le fond que sur la             (1990) – Genèse et évolution du piémont néogène subalpin du
+forme. Qu’ils trouvent ici l’expression de toute ma gratitude              Bas-Dauphiné. Livret-guide de l’excursion préforum du 3e Forum
+et ma reconnaissance. Je remercie également Blaise Videt                   National de Géomorphologie, Aix-en-Provence., 26-27/9/90. Tra-
+(université Rennes 1), recommandé par Danièle Groshény                     vaux URA 903 du CNRS, XIX, Aix-en-Provence, 71 p.
+(université Strasbourg 1), pour la détermination de Ostrea               Clauzon G., Roubino J.-L., Suc J.-P. (1996) – Les rias pliocènes
+lamellosa var. Offreti.                                                    du var et de Ligure : comblement sédimentaire et évolution géo-
+                                                                           dynamique. Excursion du Groupe Français d’Etude du Néogène
+Références                                                                 et du Groupe Français de Géomorphologie, 44 p.
+                                                                         Coque R. (1962) – La Tunisie présaharienne : étude géomorpho-
+Amari A., Bedir M. (1989) – Les bassins quaternaires du Sahel              logique. Armand Colin, Paris, 476 p.
+  central tunisien. Genèse et évolution des sebkhas en contexte          Coque R., Jauzein A. (1965) – Carte néotectonique de la Tunisie.
+  décrochant compressif et distensif. Géodynamique (ORSTOM),               Revue de Géographie Physique et de Géologie Dynamique, 2,
+  4-1, 49-65.                                                              VII, 196-255.
+Ben Ouezdou H. (1987) – Etude morphologique et stratigraphique           Costeur L., Legendre S., Aguilar J.-P., Lécuyer C. (2007) –
+  des formations quaternaires des alentours du Golfe de Gabès.             Marine and continental synchronous climatic records: towards a
+  Revue des Sciences de la Terre (Tunisie), 5, 159 p.                      revision of the European Mid-Miocene Mammalian biochrono-
+Berggren W.A. (2008) – Astro-bio-radio-magneto-tectono-clima-              logical framework. Geobios 40, 781-790.
+  to chronology of the Messinian: framework for marine-terres-           CPG [Compagnie des Phosphates de Gafsa) et SOMMI (Socié-
+  trial correlations. Séance spécialisée de la Société Géologique          té de Montage et Maintenance Industrielle de Gafsa,
+  de France, Lyon, volume des résumés, 13.                                 Tunisie)] (2000) – Fiche technique des substances utiles du bas-
+Beseme P., Kammoun Y. (1987) – Les dépôts marins accompa-                  sin de Gafsa, 8 p. (http://membres.multimania.fr/cciso/IG.htm).
+  gnant l’épisode messinien préévaporitique (Formation Béni-Khiar)       Fauquette S., Suc J.-P., Bertini A., Popescu S.-M., Warny S.,
+  à Ksour Essaf (Sahel de Tunisie). 8e Congrès International de Sé-        Bachiri-Taoufiq N., Perez Villa M.J., Chikhi H., Feddi N.,
+  dimentologie, IAS, Tunis, 94.                                            Subally D., Clauzon G., Ferrier J. (2006) – How much did cli-
+Biely A., Rakus M., Robinson P., Salaj J. (1972) – Essai de cor-           mate force the Messinian salinity crisis? Quantified climatic con-
+  rélation des formations miocènes au sud de la Dorsale tunisien-          ditions from pollen records in the Mediterranean region. Palaeo-
+  ne. Notes du Service Géologique de Tunis, 45, 73-92.                     geography, Palaeoclimatology, Palaeoecology 238, 281-301.
+Bismuth H. (1984) – Les ostracodes de Tunisie : recensement              Favre E., François L., Fluteau F., Cheddadi R., Thévenod L.,
+  bibliographique. Bulletin des Centres de Recherches Explora-             Suc J.-P. (2007) – Messinian vegetation maps of the Mediter-
+  tion-Production Elf-Aquitaine, 8, 425-534.                               ranean region using models and interpolated pollen data. Geo-
+Burollet P.-F. (1956) – Contribution à l’étude stratigraphique de la       bios 40-3, 433-443.
+  Tunisie centrale. Annales des Mines et Géologie, Tunis, 18, 195-223.   Gaaloul N., Razgallah S. (2008) – Les paléoenvironnements du
+Busson G. (1967) – Le Mésozoïque saharien. L’extrême sud-                  Messinien de la Tunisie orientale (Sahel et Golfe de Hamma-
+  tunisien. Publications CRZA-CNRS, Paris, 196 p.                          met). Geo-Eco-Trop 32, 91-100.
+Butler R.W.H., Lickorish W.H., Grasso M., Pedley H.M., Ram-              Garcia-Castellanos D., Estrada F., Jimenez-Munt I., Gorini C.,
+  berti L. (1995) – Tectonics and sequence stratigraphy in Messi-          Fernandez M., Vergés J., De Vicente R. (2009) – Catastrophic
+  nian Basins, Sicily: constraints on the initiation and termination       flood of the Mediterranean after the Messinian salinity Crisis.
+  of the Mediterranean salinity crisis. Geological Society of Ame-         Nature 462, 778-781.
+  rica Bulletin 107, 425-439.                                            Gladstone R., Flecker R., Valdes P., Lunt D., Marwick P. (2007)
+Butler R.W.H., McClelland E., Jones R.E., (1999) – Calibrating             – The Mediterranean hydrologic budget from a Late Miocene
+  the duration and timing of the Messinian salinity crisis in the          global climate simulation. Palaeogeography, Palaeoclimatolo-
+  Mediterranean: linked tectonoclimatic signals in thrust-top ba-          gy, Palaeoecology 251, 254-267.
+
+
+292                              Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+                                 Un dépôt évaporitique du Miocène supérieur dans le Sud tunisien
+
+
+
+Hilgen F.J., Iaccarino S., Krijgsman W., Villa G., Langereis              nature des faciès confinés) dans le cadre du thème Apports de la
+  C.G., Zachariasse W.J. (2000) – The Global Boundary Strato-             géochimie à l’étude des évaporites, 22-23 avril, Paris, 130-155.
+  type Section and Point (GSSP) of the Messinian Stage                  Riding R., Braga J.C., Martin J.M., Sanchez-Almazo I.M.,
+  (uppermost Miocene). Episodes 23, 172-178.                              (1998) – Mediterranean Messinian Salinity Crisis: constraints
+Hilgen F.J., Kuiper K., Krijgsman W., Snel E., van der Laan E.            from a coeval marginal basin, Sorbas, southeastern Spain. Mari-
+  (2007) – Astronomical tuning as the basis for high resolution           ne Geology 146, 1-20.
+  chronostratigraphy: the intricate history of the Messinian Salini-    Rouchy J.-M. (1982) – La genèse des évaporites messiniennes de
+  ty Crisis. Stratigraphy 4, 231-238.                                     Méditerranée. Mémoire du Muséum National d’Histoire Natu-
+Hodell D.A., Curtis J.H., Sierro F.J., Raymo M.E. (2001) – Corre-         relle de Paris, NS, série C, L, 267 p.
+  lation of late Miocene to early Pliocene sequences between the Me-    Rouchy J.-M., Saint-Martin J.-P., (1992) – Late Miocene events
+  diterranean and North Atlantic. Paleoceanography 16, 164-178.           in the Mediterranean as recorded by carbonate – evaporite rela-
+Hsü K.J., Ryan W.B.F., Cita M.B. (1973) – Late Miocene desic-             tions. Geology 20, 629-632.
+  cation of the Mediterranean. Nature 242, 240-244.                     Rouchy J.-M., Caruso A. (2006) – The Messinian salinity crisis
+Krijgsman W., Hilgen F.J., Raffi I., Sierro F.J., Wilson D.S.             in the Mediterranean basin: A reassessment of the data and inte-
+  (1999) – Chronology, causes and progression of the Messinian            grated scenario. Sedimentary Geology 188-189, 35-67.
+  salinity crisis. Nature 400, 652-655.                                 Rouchy J.-M., Blanc-Valleron M.-M. (2007) – Les évaporites :
+Krijgsman W., Fortuin A.R., Hilgen F.J., Sierro F.J., (2001) -            matériaux singuliers, milieux extrêmes. Vuibert, Paris, 190 p.
+  Astrochronology for the Messinian Sorbas Basin (SE Spain) and         Roveri M., Bertini A., Cosentino D., Di Stefano Agata,, Genna-
+  orbital (precessional) forcing for evaporite cyclicity. Sedimenta-      ri R., Gliozzi E., Grossi F., Iaccarino S.M. Lugli S., Manzi V.,
+  ry Geology 140, 43-60.                                                  Taviani M. (2008) – A high-resolution stratigraphic framework
+Krijgsman W., Leewis M.E., Garces M., Kouwenhoven T.J.,                   for the latest Messinian events in the Mediterranean area. Strati-
+  Kuiper K.F., Sierro F.J. (2006) – Tectonic control for evapori-         graphy 3, 323-342.
+  te formation in the Eastern Betics (Tortonian; Spain). Sedimen-       Sghari A. (1991) – Sédimentation et morphogenèse au Néogène-
+  tary Geology 188-189, 155-170.                                          Quaternaire en Tunisie méridionale. Thèse de doctorat, univer-
+Laffite E.R., Dumon T. (1948) – Plissements pliocènes supérieurs          sité Louis-Pasteur (Strasbourg), 201 p.
+  et quaternaires en Tunisie. Comptes Rendus de l’Académie des          Sghari A. (2009) – À propos de la présence d’une steppe tropicale
+  Sciences de Paris, CCXXVII, 138-140.                                    à Acacia raddiana au Jebel Bouhedma en Tunisie présaharienne
+Larsen H.C., Saunders A.D., Clift P.D., Beget J., Wei W., Spez-           : approche géomorphologique. Quaternaire 20-2, 243-252.
+  zaferri S. (1994) – Seven millions years of glaciation in Green-      Sghari A. (2011) – Observations préliminaires de Karsts pliocènes
+  land. Science 264, 952-955.                                             fossilisés par des limons éoliens quaternaires dans les monts de
+Laskar J.F., Robutel P., Joutel F., Gastineau M., Correia                 Matmata (sud-est tunisien). Karstologia, sous presse.
+  A.C.M., Levrard B. (2004) – A long-term numerical solution            Sghari A., Mercier J.-L. (2008) – Le Messinien de la formation
+  for the insolation quantities of the Earth. Astronomy and Astro-        Segui du Sahel tunisien : un équivalent des « Gilbert-deltas » ?
+  physics 428, 261-285.                                                   Séance spécialisée de la Société Géologique de France « Géody-
+Mannaï-Tayech B. (2006) – Les séries silicoclastiques miocènes            namique et paléogéographie de l’aire méditerranéenne au Mio-
+  du nord-est au sud-ouest de la Tunisie : une mise au point. Geo-        Pliocène : l’interférence eustatisme-tectonique, Lyon, 5-6 mai,
+  bios 39-1, 71-84.                                                       volume des résumés, 70.
+Manzi V., Lugli S., Roveri M., Schreiber B.C., Gennari R.               Sghari A., Mercier J.-L. (2010) – Les formations sédimentaires
+  (2011) – The Messinian « Calcare di base » (Sicily, Italy) revisi-      du Messinien-Pliocène-Gélasien de la Tunisie méridionale : nou-
+  ted. GSA Bulletin 123, 347-370.                                         velles données lithostratigraphiques. Revue de l’Office National
+Mocochain L. (2007) – Les manifestations géodynamiques – ex-              des Mines, 80, sous presse.
+  ternes et internes – de la crise de salinité messinienne sur une      Sghari A., Bouaziz S., Mercier J.-L. (2008) – Mio-Plio-Quater-
+  plate-forme carbonatée péri-méditerranéenne : le karst de la Basse-     nary of Tunisian Atlas: Geomorphological consequences. 22nd
+  Ardèche (Moyenne vallée du Rhône ; France). Thèse de doctorat,          Colloquium of Geology. Tunisie Hammamet, 4-6 November 2008.
+  université de Provence (Aix-Marseille 1), 221 p.                        Abstract volume, 139.
+Mocochain L., Clauzon G., Bigot J.-Y. (2006) – Réponse de l’en-         Shackleton N.J., Crowhurst S. (1997) – Sediment fluxes based on
+  dokarst ardéchois aux variations eustatiques générées par la crise      an orbitally tuned time scale 5 Ma to 14 Ma, site 926. Proceedings
+  de salinité messinienne. Bulletin de la Société Géologique de           of the Ocean Drilling Program, Scientific Results, 154, 69-82.
+  France, 177-1, 27-36.                                                 Shackleton N.J., Hall M.A. (1997) – The late Miocene stable iso-
+Orszag-Sperber F., Rouchy J.-M., Blanc-Valleron M.M. (2000) –             tope record, site 926. Proceedings of the Ocean Drilling Program,
+  La transition Messinien–Pliocène en Méditerranée orientale              Scientific Results, 154, 367-373.
+  (Chypre) : la période du Lago-Mare et sa signification. Comptes       Shearman D.J. (1971) – Marine evaporites. The calcium sulphate
+  Rendus de l’Académie des Sciences de Paris, 331, 493-490.               facies. A.S.P.G. Seminar, University of Calgary, unpublished re-
+Pierre C., Ortlieb L. (1980) – Sédimentation et diagenèse dans            port, 65 p.
+  trois lagunes évaporitiques de basse Californie (Mexique) : don-      Stefano L., Manzi V., Roveri M., Schreiber B.C. (2010) – The
+  nées géochimiques et isotopiques sur les sédiments et les sau-          primary Lower Gypsum in the Mediterranean: A new facies in-
+  mures interstitielles. Note présentée à la réunion organisée par la     terpretation for the stage of the Messinian salinity crisis. Pa-
+  Recherche Coopérative sur Programme numéro 459 (Genèse et               laeogeography, Palaeoclimatology, Palaeoecology 297, 83-99.
+
+
+                                Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294                              293
+                                                           Abdeljalil Sghari
+
+
+
+Tricart J. (1979) – Les géographes de Stuttgart dans le Sud          Van der Laan E., Snel E., de Kaenel E., Hilgen F.J., Krijgsman
+  tunisien : Meckelein (W.). Annales de Géographie, 88, 756-           W. (2006) – No major deglaciation across the Miocene-Pliocene
+  758.                                                                 boundary: Integrated stratigraphy and astronomical tuning of the
+Van Couvering J.A., Castradori D., Cita M.B., Hilgen F.J., Rio         Loulja sections (Bou regreg area, NW Morocco). Paleoceano-
+  D. (2000) – The base of the Zanclean Stage and of the Pliocene       graphy 21, PA3011.
+  Series. Episodes 23, 179-187.                                      Vaufray R. (1934) – Les plissements acheuléo-moustériens des
+Van der Laan E. (2010) – Integrated stratigraphy, astronomical         alluvions de Gafsa. Revue de Géographie Physique et de Géolo-
+  dating and proxy records of the Ain el Beida and Loulja sections     gie Dynamique, 1934-3, 299-320.
+  (NW Morocco). Implications for regional climate change, gla-       Vidal L., Bickert T., Wefer G., Röhl U. (2002) – Late Miocene
+  cial history and the Messinian Salinity Crisis. Thesis Universi-     stable isotope stratigraphy of SE Atlantic ODP Site 1085: Rela-
+  teit Utrecht 188 p.                                                  tion to Messinian events. Marine Geology 180, 71-85.
+Van der Laan E., Gaboardi S., Hilgen F.J., Lourens L.J. (2005)       Zargouni F. (1985) – Tectonique de l’atlas méridional de Tunisie : évo-
+  – Regional climate and glacial control on high-resolution oxy-       lution géométrique et cinématique des structures en zone de cisaille-
+  gen isotope records from Ain el Beida (latest Miocene, north-        ment. Thèse d’Etat, université Louis-Pasteur (Strasbourg), 292 p.
+  west Morocco): A cyclostratigraphic analysis in the depth and
+  time domain. Paleoceanography 20, PA1001.                                     Article soumis le 1er décembre 2010, accepté le 31 août 2011.
+
+
+
+
+294                            Géomorphologie : relief, processus, environnement, 2012, n° 3, p. 279-294
+
+
+
+View publication stats
+

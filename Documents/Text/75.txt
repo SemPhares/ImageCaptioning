@@ -1,0 +1,1086 @@
+Geologica Acta, Vol.16, Nº 4, December 2018, 375-390
+DOI: 10.1344/GeologicaActa2018.16.4.3
+ J.M. Parés, D. Anastasio, 2018 CC BY-SA
+
+
+
+      The extent of penetrative Pyrenean deformation in the Ebro
+     foreland Basin: Magnetic fabric data from the eastern sector
+
+
+                                                    J.M. PARÉS1      and     D. ANASTASIO2
+
+
+                                              1
+                                               Geochronology & Geology Program, CENIEH
+                                           Paseo Sierra de Atapuerca 3, 09002 Burgos, Spain
+
+                                    2
+                                     Earth and Environmental Sciences Department, Lehigh University
+                                            1 West Packer Ave, Bethlehem, PA, 18015, USA
+
+
+
+
+                                                               ABSTRACT
+
+We studied Cenozoic sedimentary rocks in the NE Ebro foreland Basin using the Anisotropy of Magnetic
+Susceptibility (AMS) as a proxy for grain preferred orientation. Our new data, in combination with existing
+results, reveal that penetrative strain by layer-parallel shortening extends well beyond the Pyrenean thrust-wedge
+front into the Ebro foreland Basin, challenging the concept of the location of “deformation front” in the Southern
+Pyrenees. Penetrative strain, as revealed by the magnetic fabrics, seems to reach larger distances into the Ebro
+foreland Basin where stiffer layers constitute the main detachment level, whereas to the East strain dissipates
+closer to the deformation front when the detachment is mostly due to salt deposits.
+
+KEYWORDS       South-Pyrenean frontal thrust. Anisotropy of Magnetic Susceptibility. Cenozoic. Layer parallel shortening.
+
+
+
+
+INTRODUCTION                                                                 crystallographic fabrics has prevented the broad usage
+                                                                             of such concept. Instead, the notion of “cleavage front”,
+    Deformation is critical to understanding the dynamic Earth               observable at mesoscopic scale has been more widely used
+and mountain building. Convergence at plate boundaries is                    as far as establishing the deformation front in orogens (e.g.
+responsible for the growth of most mountain ranges on Earth,                 Holl and Anastasio, 1995). The Anisotropy of Magnetic
+where contractional strains deform the crust producing folds                 Susceptibility (AMS) is possibly the most sensitive proxy
+and faults that shorten and thicken the lithosphere. Rock                    for penetrative rock deformation at the microscale, as it
+deformation in such convergent zones decays away from                        is able to sense feeble grain preferred orientation in rocks
+the topographic mountain front to where no contractional                     where no deformation appears at the mesoscopic scale (e.g.
+structures are observed in the foreland (e.g. Lacombe and                    Kissel et al., 1986; Aubourg et al., 1991; Tarling and Hrouda,
+Mouthereau, 1999). However, when appropriate proxies for                     1993 and references therein). AMS has evidenced that Layer
+penetrative deformation are used, it becomes apparent that                   Parallel Shortening (LPS) extends well beyond the observed
+horizontal shortening extends well beyond the thrust front in                deformation front in foreland basins (e.g. Parés et al., 1999).
+most forelands, leading us to re-consider the concept of the                 In this study we report and discuss new and existing AMS
+location of the “deformation front” in orogens. For example,                 results from different locations in the Ebro foreland Basin
+the concept of “tectonite front” was born to refer to the onset              that help us understanding the development of penetrative
+of a preferred crystallographic orientation (Fourmarier,                     deformation in Cenozoic sedimentary rocks in the Southern
+1923; Fellows, 1943), although the challenge in determining                  Pyrenean foreland Basin.
+
+
+
+
+                                                                                                                                       375
+J.M. Parés and D. Anastasio                                             Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+METHODS                                                         grade rocks (Robion et al., 1995, 1997, 1999; Lüneburg
+                                                                et al., 1999; Gil-Imaz et al., 2000; Parés and van der
+Anisotropy     of    Magnetic     Susceptibility     (AMS):     Pluijm, 2003; Debacker et al., 2004; Hirt et al., 2004).
+Principles                                                      Although Borradaile and Tarling (1981) reported
+                                                                results from “weakly deformed slates”, the study by
+    Rock-forming minerals are magnetically anisotropic          Kissel et al. (1986) is possibly the first to demonstrate
+in that the magnetic susceptibility (or K=M/H, M: ratio         the great potential of AMS in weakly deformed rocks,
+of magnetization to the applied field H) is directionally       as these authors showed that by using this technique
+dependent. The so-called AMS defines a symmetric,               it is possible to detect very subtle deformation in
+second-rank tensor that has six independent matrix              mudstones otherwise seemingly undeformed. Further
+elements. When the coordinate system is referred to the         contributions by Aubourg et al. (1991); Averbuch et al.
+eigenvectors, these trace an ellipsoid that is known as the     (1992); Owens (1993); Parés and Dinarès-Turell (1993);
+magnitude ellipsoid (Nye, 1957) whose semi-axes are             Sagnotti and Speranza (1993); Collombat et al. (1995);
+the three principal susceptibilities (Kmax≥Kint≥Kmin). An       Parés et al. (1999); Sagnotti et al. (1999); Anastasio
+intrinsic property of most of rock-forming minerals is that     et al. (2015) (also see Borradaile and Jackson, 2004
+their magnetic susceptibility is anisotropic (Nye, 1957) and    for a review) take advantage of the sensitivity of AMS
+thus Kij=Mi/Hj. For example, it has been demonstrated that      to identify and define the orientation of weak tectonic
+magnetic axes in biotite crystals conform to the density        magnetic fabrics. In most of these examples, the
+distributions of mineral lattice planes obtained by x-ray       studied mudrocks are uncleaved, typically flat-lying,
+goniometry (Richter et al., 1993, Schmidt et al., 2009).        and macroscopically undeformed. Despite the field
+These results reveal that densities from x-ray for chlorite     appearance of these mudrocks, a subtle, weak tectonic
+and mica are perfectly reflected by the distribution of         fabric is observed when using magnetic anisotropy
+the minimum susceptibility axes. The study by Richter           methods. In an effort to merge all these models for
+et al. (1993) was possibly the first demonstration              fabric development arising from tectonic deformation
+that the normalized magnetic parameters (Mi=ln(Ki/              with magnetic fabrics, Parés et al. (1999) proposed
+[Kmax*Kint*Kmin]1/3) correlate directly with March strains as   a pattern for progressive stages in AMS evolution in
+obtained from x-ray texture goniometry. The study was an        strained mudrocks, complementing the previous models
+important step forward showing the AMS as a sensitive and       envisioned by Averbuch et al. (1992) and Bakhtari et al.
+rapid gauge for bulk crystallographic preferred orientation     (1998). The model includes four type of magnetic fabrics
+in rocks, with the advantage of using large sample volumes      that develop in weakly deformed mudrocks undergoing
+(typically about 1lcm3), as opposed to the essentially two-     progressive deformation and has subsequently been
+dimensional slice used in optical and x-ray methods.            observed and adopted in later studies of similar rock
+                                                                types (Frizon de Lamotte et al., 2002; Souqué et al.,
+    As far as the source of magnetic susceptibility, whereas    2002; Saint-Bezar et al., 2002; Sans et al., 2003;
+ferromagnetic, moderate to high susceptibility minerals         Aubourg et al., 2004; Larrasoaña et al., 2004; Robion
+(e.g. magnetite, hematite) are minor components in most         et al., 2007; Oliva-Urcia et al., 2009; Soto et al., 2009;
+pelitic rocks, the dominant mineralogy corresponds to           Weil and Yonkee, 2009; Mochales et al., 2010; Pueyo-
+paramagnetic, lower magnetic susceptibility phases.             Anchuela et al., 2010; Kanamatsu et al., 2012). All
+Indeed, the average value of bulk magnetic susceptibility       these studies highlight that AMS is a proxy for fabric
+of mudrocks (10-4–10-5SI) suggests that the concentration       and strain in that it records preferred grain orientation
+of iron oxides such as magnetite is typically less than         in sedimentary rocks even before the appearance of
+0.01wt.% (e.g. Parés, 2015) which is consistent with the        weakly penetrative cleavage. The deformation pathway
+dominance of paramagnetic susceptibility in mudrocks.           represented in Figure 1 summarizes the magnetic fabric
+Numerous rock-magnetic studies where paramagnetic and           path of siliciclastic rocks under progressive deformation
+ferromagnetic susceptibilities have been quantified revealed    (layer parallel shortening).
+that typically the former dominates in mudstones (e.g.
+Martín-Hernández and Hirt, 2001 and references therein),            A summary of the AMS studies in deformed mudrocks
+therefore the AMS is dominated by the paramagnetic              where paramagnetic phyllosilicates control the fabric is as
+component, and most specifically by the shape anisotropy        follows (Parés, 2015):
+of clay minerals although very fine magnetic particles
+attached to the clay fabric might also contribute (Kodama          i) Principal axes of maximum susceptibility (Kmax)
+and Sun, 1992).                                                 are particularly sensitive to tectonic shortening, as they
+                                                                develop a magnetic lineation that mimics the intersection
+    AMS has been shown to have great potential in               of bedding and tectonic flattening plane (the strain XY
+tracking early deformation stages in anchimetamorphic           plane).
+
+
+
+
+376                                                                        Geologica Acta, 16(4), 375-390 (2018)
+                                                                           DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                                   Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+                                      AMS axes evolution in mudrocks under stress
+                                                                             Composite/Intermediate                              Tectonic
+                                                                         Type IIa                    Type IIb                     Type III
+
+
+
+
+                   Compaction                               l
+                                                         le
+                       Type I                         al
+                                                   Par ng
+                                                 r- i
+                                              ye ten
+                                            La or
+                                               S h
+
+
+
+
+                                            La
+                                              y
+                                           Sh er-P
+                                             ea ar
+                                               rin all
+                                                  g el
+
+
+
+
+                                Principal axes of maximum susceptibility
+                                Principal axes of minimum susceptibility                         X/Z section of the strain ellipsoid
+
+FIGURE 1. Conceptual model of Anisotropy of Magnetic Susceptibility (AMS) development in mudrocks undergoing progressive deformation (modified from
+Parés, 2015) (squares: principal maximum susceptibility axes (Kmax); dots: principal minimum susceptibility axes (Kmin); Green ellipse: strain ellipse). Type
+I fabric is essentially a compaction, sedimentary fabric with Kmin axes normal to the deposition plane and Kmax axes scatter along it. Type II (a and b) fabric
+reveals the imprint of the first lateral shortening on the initial sedimentary fabric where both the Layer Parallel Shortening (LPS) or flattening plane and
+depositional plane compete to define the total magnetic fabric. Kmax axes parallel the intersection direction between these two planes. Kmin axes eventually
+show a girdle that is parallel to the maximum shortening direction. Ultimately Kmin axes become parallel to the shortening direction and Kmax axes remain
+parallel to the intersection direction and not necessarily to the maximum extension direction (Type III). Rocks deformed by layer-parallel shearing, Types
+IIa and IIb ellipsoids show a girdle of Kmin axes that are plunging away from the tectonic extension direction.
+
+
+
+   ii) Layer parallel shortening extends well beyond the                            Data acquisition
+“deformation front” in orogenic settings.
+                                                                                        AMS was measured on a 1-FA Kappabridge (AGICO
+    iii) An intermediate fabric (Type IIa and IIb) is very                          Instruments), a fully automated inductive bridge, at
+common where bedding and flattening planes compete to                               a frequency of 976Hz and a field of 200A/m, at the
+define the finite magnetic anisotropy ellipsoid.                                    Geochronology Laboratory of the CENIEH (Burgos,
+                                                                                    Spain). The instrument measures the susceptibility of
+    A corollary of all these existing results is that because                       a slowly spinning specimen. The operator has to adjust
+AMS in weakly deformed rocks senses preferred grain                                 the specimen only in three perpendicular positions. The
+orientation (mostly from phyllosilicate grains), grain                              measurement takes about 2 minutes per specimen and is
+slippage and rotation must have occurred to develop such                            very precise, due to many susceptibility determinations
+tectonic fabric. Early studies have already experimentally                          in each plane perpendicular to the axis of specimen
+documented that strain causes parallel orientation of platy                         rotation. Special software combines the measurements
+minerals perpendicular to the direction of shortening (e.g.                         in three perpendicular planes plus one bulk value to
+Sorby, 1908; Clark, 1970; Fernández, 1987). Still, what                             create a complete susceptibility tensor. The errors
+requires further research are the implications of such grain                        in determination of this tensor are estimated using a
+sliding and rotation, as they require a reduction in shear                          method based on multivariate statistics principles Jelinek
+strength in order to facilitate the grains to slide past each                       (1978). There is a plethora of parameters to describe
+other. These aspects need still to be further investigated.                         the axial magnitude relationships of the susceptibility
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                                                     377
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                           Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+ellipsoid (see also Tarling and Hrouda, 1993; Tauxe,          GEOLOGICAL SETTING
+1998). The simplest expressions are the axial ratios
+L (Kmax/Kint) (Balsley and Buddington, 1960), F (Kint/             In the Eastern Pyrenees along the footwall of the
+Kmin) (Stacey et al., 1960) and P (Kmax/Kmin) (Nagata,        Vallfogona Thrust, continental sediments of the Ebro foreland
+1961). Alternatively, other authors use the parameters        Basin include the Berga Formation (Fm.) conglomerates
+P’ (P’=exp2(a12+a22+a32)]1/2 (Jelinek, 1981) where            (Riba, 1973; Puigdefàbregas et al., 1986, 1992) (Fig. 2). To
+a1=ln(Kmax/Kb), etc. and Kb=(Kmax+Kint+Kmin)/3 (Nagata,       the South, the Berga conglomerates become progressively
+1961) to express the fabric intensity as a measure of         finer grained and thinner bedded and grade into the fluvial
+eccentricity and T (T=2(lnKint-lnKmin)/[lnKmax-lnKmin]-1)     conglomerates, sandstones, and claystones of the Solsona
+(Jelinek, 1981) to define the degree to which the ellipsoid   Fm. (Saez, 1987; Saez et al., 2007; Barrier et al., 2010).
+is oblate or prolate, both adopted in this study.             The footwall of the Vallfogona thrust exposes a spectacular,
+                                                              regional-scale, growth fault-propagation fold in the syntectonic
+Layer-Parallel-shortening and Penetrative Strain              Berga conglomerates. At a regional scale, unconformity
+                                                              geometries vary from angular to the West at Serres de Lord
+    Layer-Parallel Shortening (LPS) in fold-and-thrust        to progressive East of Serres de Busa. Across the structure,
+belts can be regarded as the mechanism by which the           bedding dips change from 70° overturned to upright and
+layers above a décollement accommodate the decreasing         horizontal over a few kilometers of section (Fig. 3). In a classic
+displacement forelandward away from the mountain              study, Riba (1976) defined “progressive unconformities” or
+front (Engelder and Engelder, 1977; Cooper et al., 1983;      cumulative wedge systems at this location and showed that
+Williams and Chapman, 1983; Geiser, 1988; Evans and           they developed on a tilting depositional surface when the
+Dunne, 1991; Lacombe and Mouthereau, 1999; Koyi et            sediment accumulation rate is higher than uplift. Williams et
+al., 2004; Tavani et al., 2015). Nickelsen (1983) noticed     al. (1998) have thoroughly studied the depositional genesis of
+LPS in the Appalachians thanks to deformed fossils,           the Berga Fm. growth section and showed that the growth of
+and he referred as to “lateral compaction”. Penetrative       the Puig-reig anticline and Busa syncline was unsteady based
+Strain (PES) includes microscale LPS mechanisms, and          on relative dating. Balanced and restored cross sections and
+its distribution during a deformation sequence is not yet     forward geometric modeling by Ford et al. (1997), Suppe et
+well understood (e.g. Burberry, 2015). Also, the extent       al. (1997) and later Alonso et al. (2011) agree on the geometry
+to which penetrative strain and hence LPS depend on           of the fault propagation fold pair but not on all the kinematic
+the décollement tip still remains an open question. The       details. Kinematic uncertainty remains as to whether limb
+importance of including the penetrative strain in, for        rotation or limb lengthening produced the fold amplification
+example, balanced cross-sections has become apparent          during fault slip, although Carrigan et al. (2016) argue for a
+(Hossack, 1978; Woodward et al., 1986; Mitra, 1990;           fixed limb length.
+Homza and Wallace, 1997). A number of studies indicate
+that balanced cross-sections that consider macroscopic             Just North of the town of Sant Llorenç de Morunys (Fig.
+structures alone can underestimate cumulative                 4), the Berga Conglomerates lie conformably on the marine
+shortening (e.g. Mitra, 1994; McNaught and Mitra,             marls and marly limestones assigned to the Bartonian-
+1996; Yonkee and Weil, 2009). Layer-parallel shortening       Lower Priabonian (Solé-Sugrañes and Mascareñas, 1970).
+magnitudes vary significantly, typically between ca. 5        Magnetostratigraphic results (Carrigan et al., 2016; Parés
+and 30%, so LPS encompasses a high percentage of the          et al., 2016) reveal that the Berga Conglomerates have an
+total deformation in some cases, and depends strongly         age of Eocene-Oligocene and that the onset of deformation
+on the mechanical strength of the strata being deformed       of the growth strata occurred at 33.85Ma.
+(Crosby, 1969; Engelder, 1979; Nickelsen, 1983;
+Craddock, 1992; Mitra, 1994; McNaught and Mitra,                  Further South of Busa syncline there is a set of long-
+1996; Mukul and Mitra, 1998; Faill and Nickelsen,             wavelength anticlines and associated synclines, with an
+1999; Yonkee and Weil, 2009). Tavani et al. (2006; 2008;      oblique trend to the Pyrenean direction, mostly formed
+2011) reported pressure solution cleavage that accounts       as ramp anticlines (Fig. 2). In the southern area, a thrust
+for 80% of the total shortening. It follows that the          wedge related to salt tectonics or triangle zone is defined
+development and distribution of PES is of importance          by folds and faults striking NW-SE (e.g. Puig-reig anticline,
+to balance cross-sections, for total shortening estimates,    Solsona), and SW-NW to WSW-ENE (Cardona Salt unit, El
+and in addition it has implications on the porosity and       Guix anticlines) (Figs. 2; 4). The Southern Pyrenean Triangle
+permeability of reservoirs. AMS can reveal penetrative        Zone (Sans et al., 1996) dies out to the E and to the W where
+strain at the scale of 10cc or even less, and therefore is    the thrust front emerges. The tip line of the thrust front is
+an unprecedented proxy for establishing and potentially       considered to be located 40km South of the South Pyrenean
+quantifying PES in sedimentary rocks (see review in           Main Thrust (Vergés et al., 1992). The orientation of the
+Parés, 2015).                                                 frontal thrust wedge is controlled by the southern pinch-outs
+
+
+
+
+378                                                                       Geologica Acta, 16(4), 375-390 (2018)
+                                                                          DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                                 Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+of three evaporitic horizons (Vergés et al., 1992), including                     magnetic fabrics, are discussed in detail in Carrigan et al.
+Beuda Fm., Cardona Salt unit and Barbastro Fm. (Fig. 2C).                         (2016). Essentially, the Busa syncline and associated North
+These three horizons constitute the basal detachment of the                       and South limbs, reveal Type II and IIb magnetic fabrics.
+triangle zone, where wide flats develop in the evaporitic                         AMS data reveal a rather persistent subhorizontal, ESE-
+formations (Vergés et al., 1992; Sans and Vergés, 1995).                          WNW trending magnetic lineation parallel to bedding
+                                                                                  strike (Fig. 3C), and mostly oblate magnetic ellipsoids
+                                                                                  with an anisotropy degree typically lower than 6%. Site
+RESULTS                                                                           SLM1 is located further South of the Busa syncline, on
+                                                                                  gently northwest-dipping strata, and still shows magnetic
+  AMS results from sites SLM1, SLM3, SLM8, SLM10,                                 lineation trending ENE-WSW, parallel to the fold axis.
+LC and LD (Fig. 3) including magnetic mineralogy and                              In the majority of sites, principal axes of minimum
+
+
+    A
+
+
+
+
+                                                                                                                            2B
+
+
+
+
+                                                                                      C
+    B
+                                                   Figure 4
+
+
+
+
+FIGURE 2. A) Geological setting of the study area in the Pyrenean fold and thrust belt. Red bar denotes “Ter-Freser section” (see text) B) Detailed geologic
+map with major folds and deformation front in the Eastern Pyrenees with the location of the Figure 4A. Red bar denotes location of the cross- section
+of Figure 3A. C) Synthetic stratigraphy showing the main formations including detachment levels in the study area (re-draw from Carola et al., 2017).
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                                                  379
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                                    Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+       A
+                                                                                                                SLM3
+
+
+                                      LD
+
+
+                                                                          LC
+                                                  NNE
+                                                                                                     Serra de Busa
+                                           1300                                                                                       SSW
+
+
+                                           1100      NNE                                                   Mirador
+                                                                                                                 Llobeta Fm.
+                                           900
+
+
+                                                                                                                                          .
+                                            700                                                              Les Cases Altes Fm
+                                            500
+
+                                                                                               Pont de les Cases Fm.
+
+
+
+                   SLM10
+                                                                               SLM8
+
+
+
+                                                                                                            SLM1
+
+
+
+        B                                                         C
+                                                                                                 Cl
+                                                                                                   ea
+                                                                                                      va
+                                                                                                           ge
+
+
+
+
+                                                                   Be d din g
+
+
+
+
+                                                                   S                                                                               N
+
+          Principal axes of maximum susceptibility         Principal axes of intermediate susceptibility        Principal axes of minimum susceptibility
+
+
+FIGURE 3. A) Profile through the western scarp of Serra de Busa viewed toward the East showing the main stratigraphic units and some representative
+Anisotropy of Magnetic Susceptibility (AMS) sites. Bedding is shown with a solid great-circle and cleavage with a dashed line great-circle. Star
+indicate approximate location of the picture in Figure 3C. AMS data reveal a rather persistent subhorizontal, ESE-WNW trending magnetic lineation
+parallel to bedding strike and dominantly oblate magnetic ellipsoids with an anisotropy degree typically lower than 6%. Site SLM1 is located further
+South, on gently North-dipping strata (modified from Carrigan et al., 2016) (squares: Kmax, triangles: Kint, dots: Kmin). B) Principal axes of minimum
+susceptibility (Kmin) typically plunge to the N after bedding correction in the northern limb of the syncline, which is consistent with layer parallel, top-
+to-North shear in the North limb. C) Photograph showing the spatial relationship between bedding (solid line) and cleavage (dashed line) in the field.
+Cleavage develops preferentially in the incompetent beds.
+
+
+
+
+380                                                                                                Geologica Acta, 16(4), 375-390 (2018)
+                                                                                                   DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                              Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+   A
+                   N                        N                                 N                                 N                                N
+
+
+
+
+                                                                                                                                     SLM21
+           SLM23                    SLM24                           SLM22b                         SLM22
+
+
+
+
+                       IP02                                                                           Solsona
+
+
+                                                                                                                         SLM22
+                                                                                                                SLM22b
+                                                                                         SLM23                                          SLM21
+
+
+
+
+                                                                            Ca
+                                                                               rd
+                                                                Suria                                                                          St. Llorenç M.
+
+
+
+
+                                                                                  on
+                                                                                     a
+ Catala
+
+
+
+
+                                                                                                        SLM24
+                                                        Cal
+   n Coa
+
+
+
+
+                                                          slú
+
+
+
+
+                                                                                              Cardona
+         stal
+
+
+
+
+                                                                                                                                                     Pyrenean
+       Range
+
+
+
+
+                                                           B                                                                                         Thrust
+                                                         4
+                                                     ure                                           na                                                Sheets
+                                                 Fig                                           l so
+                                                                                            So
+          s
+
+
+
+
+                                                                                                                                      Ripoll
+                                                          El G
+                                                             uix
+
+
+
+
+                                                                                                           g
+                                                                                                         -rei
+
+                                                                        SNT1,2
+                        SNT1,2
+
+
+
+                                                                                                                          Bellmunt
+                                                                                                        Puig
+
+
+
+
+                                                                         Sallent
+                                                                                                                                                     N
+
+   B
+
+
+
+
+          5km
+
+
+
+
+FIGURE 4. A) Location of the new study sites and results of the anisotropy of magnetic susceptibility (SNT1, SNT2 data modified from Sans et al.,
+2003) South of the Busa syncline and along the Cardener Valley with location of the cross section of Figure 4B. Same symbols as in Figure 3C. B)
+Geological cross-section (modified from Vergés, 1993) including selected and simplified magnetic anisotropy results shown in A.
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                                                       381
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                                    Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+susceptibility (Kmin) are slightly off from pole to bedding.                        anticline (Fig. 4). Further South, site SLM24 displays
+This feature is more apparent when beds are restored to                             a well-developed tectonic fabric, with a pronounced
+horizontal. Hence, Kmin axes typically plunge to the North                          magnetic lineation that trends ENE-WSW, in flat-lying
+after bedding correction in the northern limb of the syncline.                      rocks. Last, site SLM23, although having somewhat higher
+Kmin axes distribution is consistent with layer parallel, top-                      axes dispersion, shows a similar orientation compared to
+to-North shear in the North limb. Such N-S shortening                               the average magnetic lineation. The former site is located
+would post-date folding and is coherent with the observed                           just few kilometers North of the Cardona anticline.
+microstructures such as spaced cleavage and small-scale
+shear zones. A Flinn diagram (Flinn, 1962) shows that the                               Overall, magnetic anisotropy factors (Pj and T) are
+magnetic ellipsoids in the hinge of the fold are dominantly                         similar to the values obtained by Carrigan et al. (2016) in the
+oblate and have higher degree of anisotropy (Carrigan et                            subhorizontal limb of the Busa syncline. It is worth pointing
+al., 2016). Cleavage is also quite pervasive in the hinge of                        out are the results from site SLM22, on the southern limb of
+the syncline which overall is suggestive of higher strain in                        the Puig-reig anticline. At this locality Kmin axes (Fig. 3B)
+that zone. These results are compatible with a limb rotation                        are normal to bedding in the geographic reference frame and
+folding model and a pinned hinge zone (Ford et al., 1997;                           Kmax axes cluster around a WSW direction (Fig. 4). Upon
+Carrigan et al., 2016). The tilt of the magnetic foliation                          bedding correction, the magnetic lineation has a WSW-ESE,
+poles (after bedding correction) also suggests shortening                           as bedding angle is only 20 degrees to the SW. It is somewhat
+after folding, post-dating bedding-parallel shearing.                               surprising that the magnetic lineation in the southern limb
+Because AMS deformation occurs in incompletely lithified                            of the Puig-reig and Solsona folds, which trend ~NW-SE,
+sediments that are being folded, AMS most likely was                                forms a high angle to the respective fold axes. The magnetic
+mostly accommodated by intergranular slip, leading to                               lineation is neither parallel to the bedding strike before
+preferred grain orientation of phyllosilicates.                                     bedding correction, which at first value could suggest that
+                                                                                    the magnetic lineation was first developed, by a NNW-SSE
+    The new study sites are located further South of the                            layer parallel shortening, and later folded by the Puig-reig
+Busa syncline and along the Cardener Valley (SLM21,                                 anticline. We will return to this point in the next section.
+SLM22, SLM22b, SLM23 and SLM24, see Table 1) (Fig.
+4). In this area, the Solsona Fm. sandstones and siltstones                           We also consider the results of Sans et al. (2003) who
+record a Type IIa tectonic fabric (Fig. 4). All the localities                    report internal deformation in the Cenozoic units on the
+that we have studied show Kmin axes normal to bedding,                            El Guix anticline (Fig. 4). This is a NE–SW trending fold
+whereas the Kmax axes are grouped and striking around an                          detached above the Cardona salts that represents the frontal
+ENE-WSW direction. Sites SLM21 and SLM22 reveal a                                 structure of the Pyrenean fold-and-thrust belt (Sans and
+slightly different pattern. These two sites are located on the                    Vergés, 1995). At all studied localities (Fig. 4) the magnetic
+South limb of the Puig-reig anticline, with a fold axis of                        lineation strikes between E-W to NE-SW, depending on the
+WNW-ESE direction. The Puig-reig anticline is located on                          specific position within the complex structure. Two sites of
+the footwall of the Vallfogona thrust (Vergés, 1993). AMS                         that study (SNT1 and SNT2, Sans et al., 2003) on the northern
+strain at both sites does not record the Puig-reig anticline                      limb of the anticline, show a well-developed magnetic
+trend, as they show a WSW-ENE trending magnetic                                   lineation with a mean direction of ENE-WSW on beds that
+lineation (Fig. 4). Site SLM22b, on the northern limb of                          are sub-horizontal (Fig. 4). Such arrangement is interpreted
+the Solsona syncline, shows a well-developed magnetic                             as due to layer parallel shortening and is coherent with the
+lineation which conforms the orientation of the Solsona                           orientation of the El Guix anticline axis (Sans et al., 2003).
+Table 1: Anisotropy of magnetic susceptibility results. See site locations in Figure 4A. Kmax , Kint, Kmin are the principal
+susceptibilities. Dec: declination; Inc: inclination; L: Magnetic lineation; F: Magnetic foliation; Pj: Anisotropy degree; T: Shape
+TABLE 1. Anisotropy of magnetic susceptibility results. See site locations in Figure 4A. Kmax, Kint, Kmin are the principal susceptibilities. Dec: declination;
+Inc: Inclination; L: magnetic Lineation; F: magnetic Foliation; Pj: Anisotropy degree; T: Shape parameter
+parameter
+ Site                           Kmax                        Kint                        Kmin                      Anisotropy Ratios and Parameters
+                    N        Dec        Inc             Dec          Inc            Dec         Inc              L             F             Pj            T
+ SLM21              9        60.0       1.3            329.6        13.7          155.5        76.2          1.018         1.018         1.037         0.007
+ SLM22             18      259.0       12.9            164.2        19.8            20.0       66.0          1.013         1.015         1.029         0.079
+  SLM22b           13      276.6        1.9            186.3         9.3            18.0       80.5          1.015         1.043         1.061         0.472
+  SLM23            11       229.9       2.0            320.1         4.1          113.3        85.4          1.016         1.032         1.049         0.316
+  SLM24            15        66.8       0.1            156.8         1.5          334.0        88.5          1.019         1.039         1.060         0.350
+
+
+
+
+382                                                                                               Geologica Acta, 16(4), 375-390 (2018)
+                                                                                                  DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                               Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+    Last, we also include site IP02 in our study (Pascual         out of the Beuda Fm. (Fig. 2C) (Vergés, 1993; Sans et al.,
+and Parés, 1990), which is on flat-lying fine-grained             1996). On the other hand, the NE-SW Cardona anticline
+sandstones and siltstones of upper Eocene age and which           develops where the homonymous formation is thickest
+has sedimentary fabric. Kmax axes conform a NW-SE                 (aprox. 300m) and where the basal slope of the Cardona
+trend, which is consistent with the observed paleocurrent         Fm. is almost horizontal (Vergés et al., 1992). Anticlines
+directions (e.g. Anadón et al., 1989). This locality is           such El Guix and Súria are related to the southern pinch-
+located about ~20km South of the Cardona anticline, is            out of the Cardona salt.
+found on flat lying fine-grained sandstones and siltstones
+of Oligocene age.                                                     Taken at first value, the bulk of the magnetic data
+                                                                  suggests that PES dissipates few kilometers South of the
+                                                                  Callús syncline (Fig. 4), the southernmost deformation
+DISCUSSION                                                        front in the studied sector, so somewhere North of site
+                                                                  IP02, which records a sedimentary fabric. Such observation
+    Our new AMS data support and complement previous              somewhat contrasts with existing magnetic fabric results
+results by Carrigan et al. (2016) in the Busa syncline to         East and West of the studied sector. NW of Zaragoza,
+the North of the study area (Fig. 3). The maximum axes            Pueyo-Anchuela et al. (2010) report a tectonic magnetic
+of susceptibility (Kmax) typically but not always reflect the     fabric in flat-lying sediments several tens of kilometers
+intersection between horizontal shortening and bedding            South of the deformation front (“Sos section” of Pueyo-
+plane and record the progression of the ~N-S tectonic             Anchuela et al., 2010; Teletzke et al., 2011; Teletzke, 2012)
+shortening towards the thrust front. Such magnetic                (Fig. 5). Similar results were reported by Soto et al. (2009),
+lineation roughly keeps an E-W to ENE-WSW orientation,            in Miocene sediments NW and NE of Zaragoza, which
+which is consistent with the kilometric-scale structure. In       show WNW-ESE trending Kmax axes which are normal to
+detail though, magnetic lineation experiences a change in         the main tectonic shortening. On the other hand, in the NE
+orientation from North to South. The bulk of the magnetic         of the Ebro foreland Basin, Parés et al. (1999) reported
+ellipsoids in the North (Carrigan et al., 2016) are coherent      penetrative strain in the flat-lying marls of the Igualada
+with the fault-related Busa fold, with Kmax axes ~E-W             Fm., in localities that are South of the Bellmunt anticline,
+trending, i.e. parallel to the fold axis, and the Kmin either     the southernmost expression of tectonic shortening at
+normal to bedding or describing a N-S girdle. Nevertheless,       the surface (Ter-Freser section, Fig. 2B). The corollary
+few kilometers South of the Busa syncline, sites SLM21 and        of all these results from the Ebro foreland Basin are that
+SLM22 reveal a different pattern, as they do not conform          localities as far as 60km from the deformation front show
+the Puig-reig anticline fold axis. The Cardona anticline          penetrative strain according to the magnetic fabric data
+trends NE-SW and is a South-verging detachment fold               that is consistent with Pyrenean shortening directions.
+developed where the Cardona Fm. salt is thickest. Given           Nevertheless, our own study along the Cardener valley
+the coincidence between the orientation of the Cardona            (South of Busa) suggests that PES, as recorded in the
+fold axis and site SLM23 magnetic lineation, it is plausible      magnetic fabrics, is absent at a distance not longer than
+that this site records the shortening related to the anticline.   ~20km from the southernmost fold. The distance between
+Otherwise, sites located North of the Cardona anticline,          observed PES and the deformation front changes along
+disagree with the structural data, in that magnetic lineation     strike as it varies from ~20 to ~60km. What we observe in
+is oblique to the main structures: Kmax in sites SLM21            the Pyrenean foreland Basin is that shortening is revealed
+and SLM22, between Puig-reig anticline and the Solsona            by the magnetic fabrics in areas relatively far away from
+syncline, form an acute angle with the Puig-reig anticline.       the frontal fold. The lateral (N to S) extent of PES in the
+Nevertheless, few kilometer South at locality SLM24, on           sedimentary cover should reflect the strain propagation in
+the South limb of the Solsona syncline, Kmax forms an acute       these areas, so it is possible that differences in the strength
+angle with its fold axis and is rather parallel to the next       of the basal décollment level that allows strain propagation
+major structure, the Cardona anticline. Both folds, Puig-reig     determines the development and extent of PES. In the
+and Solsona, are major structures in the eastern Pyrenees.        northeastern region (Ter-Freser), the southernmost
+In fact, Sans et al. (1996) distinguish two regions in this       contractional structure (Bellmunt anticline, Fig. 4) is located
+area according to the folding and thrusting orientation: A        above the Beuda Fm. The Beuda thrust-front has as a main
+northeastern region with ESE-WNW trending structures              detachment level sediments consisting of shales, gypsum
+(e.g. Puig-reig anticline, Solsona syncline), and a central       and some salt (Sans, 2003). In the central region, where
+region with NE-SW trending structures (e.g. Cardona,              Cardona, Solsona, etc folds are found, the detachment is
+Suria, El Guix folds) (Fig. 2A), owing to the pinch-outs          the Cardona Fm., which consists of anhydrite massive
+of the evaporitic horizons. In this scenario, the Puig-reig       halite and potassium salt (Pueyo, 1975). Further West, in
+anticline represents the surface structure of the ramp of the     the West-Central Pyrenees (Sos section), the Peña flexure
+northern thrust wedge that is located at the southern pinch-      is the southernmost expression of deformation. Although
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                           383
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                                  Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+      A
+                                                                   Py
+                                                                      renees
+
+
+                                                 Huesca
+                 1
+                                 2
+
+                                                                                                         6                   8
+       Ib
+
+
+
+
+                                 Zaragoza
+           e
+
+
+
+
+                                                                                Lleida
+                                                           1                                                7                    es
+             ri
+
+
+
+
+                                                                                                                            g
+                                                                                                 5                       an
+                                                                                                                    lR
+                an
+
+
+
+
+                     R                                                                                         ta
+                         a                                            3
+                                                                                                        o   as
+                             n                                              4
+                                                                                               la    nC
+                                 g
+                                     e                                                    Cata
+                                                                                                                         0        25   50km
+
+
+
+
+      B
+                                                                                                        Deformed
+                                                Foreland
+                                                                                                        hinterland
+                                                Outermost                          Structural
+                     PS decrease
+                                                structure                                front
+
+
+
+
+                                  Potential                                                                        Deep
+                                 décollement                                                                    décollement
+
+FIGURE 5. A) Sketch of the Ebro foreland Basin, including the areas where penetrative strain has been established with anisotropy of magnetic
+susceptibility. Ellipses represent the Y/Z plane of the strain ellipsoid. 1: Soto et al. (2009); 2: Pueyo-Anchuela et al. (2010); 3: Gomis (1997); 4 and
+5: Barberà (1999); 6: Sans et al. (2003); 7: Pascual and Parés (1990); 8: Parés et al. (1999). B) Conceptual cross section (not to scale) across an
+imbricated thrust wedge, showing the extent of the Penetrative Strain (PES) forelandward away from the structural front, in relation to the outermost
+structure (modified from Lacombe and Mouthereau, 1999).
+
+
+
+
+this structure has been interpreted as a décollement fold                         in both NE sector (Ter-Freser) and West-Central Pyrenees
+cored by Triassic evaporites (Oliva-Urcia et al., 2016), it                       (Sos section), sedimentary cover is shortened on a still
+could alternatively represent an antiformal stack. Be that                        weak but more competent detachment layer (Triassic and
+as it may, a deeper detachment in the region is thought to                        Paleogene clays and gypsum).
+be found in the Keuper facies (clays and gypsum) (Teixell,
+1996; Oliva-Urcia et al., 2012, 2016). Hence, whereas the                             Rheology of the detachment has a strong influence on
+detachment level includes gypsum-rich formations in the                           the PES of the hangingwall rock units (e.g. Aubourg et al.,
+NE and W sectors, salt is more abundant in the central                            2004; Robion et al., 2007; Nilforoushan et al., 2008). For
+sector. A consequence of the variation in the detachment                          example, Nilforoushan et al. (2008) developed sandbox
+level rheology within the basin is that in the Cardener-                          models of fold-thrust belts and accretionary prisms and
+Solsona area the sedimentary cover is deformed on a very                          results show a clear correlation between décollement basal
+incompetent detachment, the Cardona Fm. On the contrary,                          friction on surface and volumetric strain in the models. It
+
+
+
+
+384                                                                                              Geologica Acta, 16(4), 375-390 (2018)
+                                                                                                 DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                              Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+appears that high-friction décollements promote PES in          axes, is generally consistent with thrust and fold axes that
+the cover. If extrapolated to nature, the results indicate      have an ENE-WSW orientation, and not the set of NW-SE
+that PES is expected to be greater in fold-thrust belts         trending structures that are also prominent in the Eastern
+shortened above stiffer décollements than in areas that         Pyrenees. Although several other options are possible,
+were shortened above a weaker décollement. Robion et al.        a two stage-deformation, with a slight change of the
+(2007) and Aubourg et al. (2010) have also noticed that         maximum shortening direction is a possible mechanism.
+the efficiency of the detachment seems to determine the         In the Busa area, the appearance of cleavage that is not
+magnetic fabric in the sedimentary cover. Hence, according      strictly axial planar to the Busa fold might suggest that
+to their results, when stronger (stiffer) layers such as        there is a time lag between the onset of folding and the
+gypsum dominate in the detachment, strain develops              development of cleavage, or that folding developed within
+further out into the foreland, whereas when more efficient      a transpressive regime (Ford et al., 1997).
+rocks such as salt dominate, then strain is confined closer
+to the thrust front. Although the balance between orogenic          Both in the easternmost part of the Ebro foreland
+wedges to décollement strength is critical, it follows that     Basin (Ter-Freser transect), and in the western-Central
+friction often determines the PES that is observed in the       Pyrenees (Sos section), penetrative deformation, as
+sedimentary cover, even though strain develops mostly           revealed by the magnetic fabrics, extents much farther
+by linear viscous deformation. Hence, where friction            South than in the eastern region (Cardoner transect).
+is high the tendency is that sediments develop a layer          The possible role of both the Iberian Range and the
+parallel shortening fabric Type IIb or even Type III (Fig.      Catalan Coastal Ranges as a buttress effect on the PES
+1), whereas when the detachment is more efficient and           needs to be further explored. We acknowledge that more
+the friction is lower, a Type IIa develops and is preserved     observations are necessary to determine the location
+in the sediments. Sans (2003) used analogue models to           of the southernmost sediments having PES, and what
+document how the rheology of the detachment horizons            minimum differential stress level is necessary to produce
+controls the deformation front in the eastern Pyrenees. In      a tectonic fabric in the AMS but a possible explanation
+that experiment very ductile detachments promote folding,       resides in the effectiveness of the detachment levels.
+whereas when detachment is less ductile (higher friction)       When stronger layers dominate in the detachment
+thrusting is the dominant deformation mechanism, in             (e.g. Keuper facies), penetrative strain seems to reach
+agreement with natural examples as in the Rockies               larger distances into the foreland, whereas when the
+(Anastasio et al., 1997). In natural examples real examples,    detachment is mostly due to salt (e.g. Cardona Fm.),
+in a similar way, localized lower efficiency detachment in      then internal strain seems to dissipate closer to the
+the South Pyrenean foreland Basin could possibly promote        deformation front. Such hypotheses need to be further
+a further extent forelandwards of penetrative strain as seen    tested with additional AMS fabric studies in particular
+by the magnetic fabrics.                                        along the southern margin of the Ebro foreland Basin.
+
+    The control that the detachment strength exerts onto the
+strain in the sedimentary cover has been noticed for years      ACKNOWLEDGMENTS
+in several fold and thrust belts. For example, in the Central
+Appalachians large wavelength detachment folds occur                We thank the reviewers (Charles Aubourg and anonymous)
+underlain by Silurian evaporates, whereas in the Southern       and the editors (Josep M. Casas and Eduard Roca) for their helpful
+Appalachians thrust faults dominate (Gwinn, 1964; Davis         constructive comments and suggestions. Josep M. Parés would
+and Engelder, 1985; Hatcher et al., 1989). In the Northern      like to thank his former advisor Prof. Pere Santanach for all the
+Canadian Rockies folding dominates in areas where thick         enjoyable and fruitful days in the field, and the guidance that he
+evaporate levels are found (e.g. Thompson, 1981), whereas       gave him over the early stage of his career. Research partially
+to the South thrusting is more abundant (e.g. Price and         funded by Ministerio de Economía, Industria y Competitividad
+Mountjoy, 1970).                                                (MINECO) Grant CGL2014-62296-EXP to JMP.
+
+
+
+CONCLUSIONS                                                     REFERENCES
+
+    Both Berga and Solsona formations, in the Eastern           Alonso, J.L., Colombo, F., Riba, O., 2011. Folding mechanisms
+Pyrenees, display magnetic fabric ellipsoids whose axes            in a fault-propagation fold inferred from analysis of
+orientation can be taken as a proxy for internal deformation.      unconformity angles: The Sant Llorenç growth structure
+Deformation occurred as layer parallel shortening ahead            (Pyrenees, Spain). In: McClay, K., Shaw, J., Suppe, J.
+of the Pyrenean thrust sheets (Vallfogona Thrust). The             (eds.). Thrust fault-related folding, American Association of
+magnetic lineation, as defined by the grouping of Kmax             Petroleum Geologists Memoir, 94, 137-151.
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                          385
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                    Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+Anadón, P., Cabrera, L., Colldeforns, B., Saez, A., 1989. Los             Applications, Geological Society of London, 238 (Special
+   sistemas lacustres del Eoceno superior y Oligoceno del sector          Publications), 299-360.
+   oriental de la Cuenca del Ebro. Acta Geologica Hispanica,          Burberry, C.M., 2015. Spatial and temporal variation in
+   24, 205-230.                                                           penetrative strain during compression: insights from analog
+Anastasio, D., Parés, J.M., Kodama, K., Troy, J., Pueyo, E.,              models. Lithosphere, 7, 611-624. DOI: 10.1130/L454.1
+   2015. Anisotropy of Magnetic Susceptibility (AMS) records          Carola, E., Ferrer, O., Vidal-Royo, O., Muñoz, J.A., 2017.
+   synsedimentary deformation kinematics at Pico del Aguila               Interpretation of salt-cored frontal structures in the Southern
+   anticline, Pyrenees, Spain. In: Pueyo, E., Cifelli, F., Sussman,       Pyrenees guided by analog modeling, surface and subsurface
+   A.J., Oliva-Urcia, B. (eds.). Palaeomagnetism in Fold and              data. Interpretation, 5(1), SD39-SD54. DOI: 10.1190/INT-
+   Thrust Belts: New Perspectives. Geological Society of                  2016-0093.1
+   London, 425 (Special Publications), 129-144. DOI: 10.1144/         Carrigan, J., Anastasio, D., Kodama, K., Parés, J.M., 2016. Fault-
+   SP425.8                                                                related fold kinematics recorded by terrestrial growth strata,
+Aubourg, C., Rochette, P., Vialon, P., 1991. Subtle stretching            Sant Llorenç de Morunys, Pyrenees Mountains, NE Spain.
+   lineation revealed by magnetic fabric of Callovian-Oxfordian           Journal of Structural Geology, 91, 161-176.
+   black shales (French Alpes). Tectonophysics, 185, 211-223.         Clark, B.R., 1970. Mechanical formation of preferred orientation
+Aubourg, C., Smith, B., Bakhtari, H., Guya, N., Eshragi, A.,              in clays. American Journal of Science, 269, 250-266.
+   Lallemant, S., Molinaro, M., Braud, X., Delauny, S., 2004.         Collombat, H., Rochette, P., Vialon, P., 1995. Magnetic fabric
+   Post-Miocene shortening pictured by magnetic fabric across             as a strain indicator in unconsolidated sediments of the
+   the Zagros-akran syntaxis, Iran. In: Sussman, A.J., Weil,              Chile Triple Junction area. In: Lewis, S.D., Behrmann, J.H.,
+   A.B. (eds.). Orogenic Curvature: Integrating aleomagnetic              Musgrave, R.J., Cande, S.C. (eds.). Proceedings of the Ocean
+   and Structural Analyses. Geological Society of America, 383            Drilling Program, Scientific Results, 141, College Station,
+   (Special Paper), 17-40.                                                TX (Ocean Drilling Program), 29-49.
+Aubourg, C., Smith, B., Eshraghi, A., Lacombe, O., Authemayou,        Cooper, M.A., Garton, M.R., Hossack, J.R., 1983. The origin of
+   C., Amrouch, K., Bellier, O., Mouthereau, F., 2010. New                the Basse Normandie duplex, Boulonnais, France. Journal of
+   magnetic fabric data and their comparison with palaeostress            Structural Geology, 5(2), 139-152.
+   markers in the Western Fars Arc (Zagros, Iran): tectonic           Craddock, J.P., 1992. Transpression during tectonic evolution
+   implications. Geological Society of London, 330 (Special               of the Idaho-Wyoming fold-and- thrust belt. In: Link, P.K.,
+   Publications), 97-120.                                                 Kuntz, M.A., Platt, L.B. (eds.). Regional Geology of Eastern
+Averbuch, O., Frizon de Lamotte, D., Kissel, C., 1992. Magnetic           Idaho and Western Wyoming. Geological Society of America
+   fabric as a structural indicator of the deformation path within        Memoir, 179, 55-81.
+   a fold thrust structure: a test case from the Corbieres (NE        Crosby, G.W., 1969. Radial movements in the western Wyoming
+   Pyrenees, France). Journal of Structural Geology, 14, 461-             salient of the Cordilleran overthrust belt. Geological Society
+   474.                                                                   of America Bulletin, 80(6), 1061-1078.
+Bakhtari, H.R., de Lamotte, D.F., Aubourg, C., Hassanzadeh, J.,       Davis, D.M., Engelder, T., 1985. The role of salt in fold-and-
+   1998. Magnetic fabrics of tertiary sandstones from the Arc of          thrust belts. Tectonophysics, 119, 67-88.
+   Fars (Eastern Zagros, Iran). Tectonophysics, 284, 299-316.         Debacker, T.N., Robion, P, Sintubin, M., 2004. The anisotropy of
+Balsley, J.R., Buddington, A.F., 1960. Magnetic susceptibility            magnetic susceptibility (AMS) in low-grade, cleaved pelitic
+   and fabric of some Adirondack granites and orthogneisses.              rocks: influence of cleavage/bedding angle and type and
+   American Journal of Science, 258, 6-20.                                relative orientation of magnetic carriers. In: Martin-Hernandez,
+Barberà, X., 1999. Magnetoestratigrafia del Oligocè del                   F., Lüneburg, C.M., Aubourg, C., Jackson, M. (eds.). Magnetic
+   sector sud-oriental de la Conca del Ebre: implicacions                 Fabrics: Methods and Applications. Geological Society of
+   magnetocronològiques i sequencials. PhD Thesis. Barcelona,             London, 238 (Special Publications), 77-107.
+   University of Barcelona, 337pp.                                    Engelder, T., 1979. The nature of deformation within the outer
+Barrier, L., Proust, J.N., Nalpas, T., Robin, C., Guillocheau, F.,        limits of the central Appalachian foreland fold and thrust belt
+   2010. Control of Alluvial Sedimentation at Foreland-Basin              in New York State. Tectonophysics, 55, 289-310.
+   Active Margins: A Case Study from the Northeastern Ebro            Engelder, T., Engelder, R., 1977. Fossil distortion and decollement
+   Basin (Southeastern Pyrenees, Spain). International Journal            tectonics of the Appalachian Plateau. Geology, 5, 457-460.
+   of Sediment Research, 80, 728-749.                                 Evans, M.A., Dunne, W.M., 1991. Strain factorization and
+Borradaile, G.J., Tarling, D.H., 1981. The influence of deformation       partitioning in the North Mountain thrust sheet, central
+   mechanisms on magnetic fabrics in weakly deformed rocks.               Appalachians, USA. Journal of Structural Geology, 13, 21-
+   Tectonophysics, 77, 151-168.                                           35.
+Borradaile, G.J., Jackson, M., 2004. Anisotropy of magnetic           Faill, R.T., Nickelsen, R.P., 1999. Appalachian mountain section
+   susceptibility (AMS): magnetic petrofabrics of deformed                of the Valley and Ridge province. In: Schultz, C.H. (ed.). The
+   rocks. In: Martin-Hernandez, F., Lüneburg, C.M., Aubourg,              Geology of Pennsylvania. Pennsylvania Geological Survey, 1
+   C., Jackson, M. (eds.). Magnetic Fabrics: Methods and                  (Special Publication), 268-285.
+
+
+
+
+386                                                                                Geologica Acta, 16(4), 375-390 (2018)
+                                                                                   DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                     Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+Fellows, R.E., 1943. Recrystallization and flowage in Appalachian      Homza, T.X., Wallace, W.K., 1997. Detachment folds with fixed
+    quartzite. Bulletin of the Geological Society of America, 54,          hinges and variable detachment depth, northeastern Brooks
+    1399-1432.                                                             Range, Alaska. Journal of Structural Geology, 19, 337-354.
+Fernández, A., 1987. Preferred orientation developed by rigid          Hossack, J.R., 1978. The correction of stratigraphic sections for
+    markers in two-dimensional simple shear strain: A theoretical          tectonic finite strain in the Bygdin area, Norway. Journal of
+    abd experimental study. Tectonophysics, 136, 151-158.                  the Geological Society, 135, 229-241.
+Flinn, D., 1962. On folding during three-dimensional progressive       Jelinek, V., 1978. Statistical processing of anisotropy of magnetic
+    deformation. Quarterly Journal of the Geological Society of            susceptibility measured on groups of specimens. Studia
+    London, 118, 385-428.                                                  Geophysica et Geodaetica, 22, 50-62.
+Fourmarier, P., 1923. De l’importance de la Charge dans le             Jelinek, V., 1981. Characterization of the magnetic fabrics of
+    developpement du Clivage schisteux. Bulletins de l’Académie            rocks. Tectonophysics, 79, T63-T67.
+    royal Des Sciences, des lettres et des beaux-arts de Belgique,     Kanamatsu, T., Parés, J.M., Kitamura, Y., 2012. Pliocene
+    Classe des sciences sciences et belles-lettres de Bruxelles, 5,        shortening direction of Nankai Trough off Kumano southwest
+    454.                                                                   Japan, Sites IODP C0001 and C0002, Expedition 315,
+Ford, M., Williams, E.A., Artoni, A., Vergés, J., Hardy, S., 1997.         anisotropy of magnetic susceptibility analysis for paleostress.
+    Progressive evolution of a fault-related fold pair from growth         Geochemistry Geophysics Geosystems, 13, Q0AD22. DOI:
+    strata geometries, Sant Llorenç de Morunys, SE Pyrenees.               10.1029/2011GC003782
+    Journal of Structural Geology, 19, 413-634.                        Kissel, C., Barrier, E., Laj, C., Lee, T.Q., 1986. Magnetic fabric
+Frizon de Lamotte, D., Souqué, C., Grelaud, S., Robio, P., 2002.           in ‘undeformed’ marine clays from compressional zones.
+    Early record of tectonic magnetic fabric during inversión              Tectonics, 5, 769-781.
+    of a sedimentary basin. Short review and examples from             Kodama, K.P., Sun, W.W., 1992. Magnetic Anisotropy as a
+    the Corbières transfer zone (France). Bulletin de la Société           Correction for Compaction-caused Paleomagnetic Inclination
+    géologique de France, 173, 461-469.                                    Shallowing. Geophysical Journal International, 111, 465-469.
+Geiser, P.A., 1988. Mechanisms of thrust propagation: some             Koyi, H.A., Sans, M., Teixell, A., Cotton, J., Zeyen, H., 2004.
+    examples and implications for the analysis of overthrust               The significance of penetrative strain in the restoration of
+    terranes. Journal of Structural Geology, 10, 829-845.                  shortened layers—insights from sand models and the Spanish
+Gil-Imaz, A., Pocoví, A., Lago San José, M., Parés, J.M., 2000.            Pyrenees. Thrust, tectonics and hydrocarbon systems,
+    Effect of lithostatic pressure and tectonic deformation on             American Association of Petroleum Geologists Memoir, 82,
+    the magnetic fabric (anisotropy of magnetic susceptibility)            207-222.
+    in low-grade metamorphic rocks. Journal of Geophysical             Lacombe, O., Mouthereau, F., 1999. What is the real front of
+    Research, 105, 21.305-21.317.                                          orogens? The Pyrenean orogen case. Comptes Rendus de
+Gomis, E., 1997. Precisión sobre la magnetoestratigrafía de                l’Académie des Sciences, 329(II), 889-896.
+    las sucesiones dl Oligoceno Superior-Mioceno inferior en           Larrasoaña, J.C., Pueyo, E.L., Parés, J.M., 2004. An integrated
+    los valles del Cinca, Segre y Ebro (Sector SE de la cuenca             AMS, structural, palaeo- and rockmagnetic study of
+    del Ebro, provincias de Lleida, Zaragoza y Huesca). M.Sc.              the Eocene marine marls from the Jaca-Pamplona basin
+    Thesis. Barcelona, Universitat de Barcelona, 104pp.                    (Pyrenees, N Spain): new insights into the timing of magnetic
+Gwinn, V.E., 1964. Thin-skinned tectonics in the Plateau and               fabric acquisition in weakly deformed mudrocks. In: Martin-
+    northwestern Valley and Ridge provinces of the central                 Hernandez, F., Lüneburg, C.M., Aubourg, C., Jackson, M.
+    Appalachians. Geological Society of America Bulletin, 75,              (eds.). Magnetic Fabrics: Methods and Applications. The
+    863-900.                                                               Geological Society of London, 238 (Special Publications),
+Hatcher, R.D., Jr., Thomas, W.A., Geiser, P.A., Snoke, A.W.,               127-144.
+    Mosher, S., Wiltschko, D.V., 1989. “Alleghanian orogen”.           Lüneburg, C.M., Lampert, S.A., Lebit, H.D., Hirt, A.M., Casey,
+    In: Hatcher, R.D., Thomas, W.A.Jr., Viele, G.W. (eds.).                M., Lowrie, W., 1999. Magnetic anisotropy, rock fabrics and
+    The Appalachian-Ouachita orogen in the United States.                  finite strain in deformed sediments of SW Sardinia (Italy).
+    Geological Society of America (GSA), Boulder, 233-318.                 Tectonophysics, 307, 51-74.
+Hirt, A.M., Lowrie, W., Lüneburg, C., Lebit, H., Engelder, T., 2004.   McNaught, M.A., Mitra, G., 1996, The use of finite strain data
+    Magnetic and mineral fabric development in the Ordovician              in constructing a retrodeformable cross-section of the Meade
+    Martinsburg Formation in the Central Appalachian Fold                  thrust sheet, southeastern Idaho, U.S.A. Journal of Structural
+    and Thrust Belt, Pennsylvania. In: Martin-Hernandez, F.,               Geology, 18, 573-583.
+    Lüneburg, C.M., Aubourg, C., Jackson, M. (eds.). Magnetic          Martín-Hernández, F., Hirt, A.M., 2001. Separation of
+    Fabrics: Methods and Applications. Geological Society of               ferrimagnetic and paramagnetic anisotropies using a high-
+    London, 238 (Special Publications), 109-126.                           field torsion magnetometer. Tectonophysics, 337, 209-221.
+Holl, J.E., Anastasio, D.J., 1995. Cleavage development within         Mitra, S., 1990. Fault propagation folds: Geometry, kinematic
+    a foreland fold and thrust belt, southern Pyrenees, Spain.             evolution and hydrocarbon traps. American Association of
+    Journal Structural Geology, 17, 357-369.                               Petroleum Geologists Memoir, 74, 921- 945.
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                                 387
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                     Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+Mitra, G., 1994. Strain variation in thrust sheets across the Sevier   Parés, J.M., van der Pluijm, B., Dinarés-Turell, J., 1999. Evolution
+    fold-and-thrust belt (Idaho-Utah-Wyoming): implications                of magnetic fabrics during incipient deformation of mudrocks
+    for section restoration and wedge taper evolution. Journal of          (Pyrenees, northern Spain). Tectonophysics, 307, 1-14.
+    Structural Geology, 6, 51-61.                                      Parés, J.M., van der Pluijm, B.A., 2003. Magnetic fabrics in
+Mochales, T., Pueyo, E.L., Casas, A.M., Barnolas, A., Oliva-               low-strain mudrocks: AMS of pencil structures in the Knobs
+    Urcia, B., 2010. Anisotropic magnetic susceptibility record of         Formation, Valley and Ridge Province, US Appalachians.
+    the kinematics of the Boltaña Anticline (Southern Pyrenees).           Journal of Structural Geology, 25, 1349-1358.
+    Geological Journal, 45, 562-581.                                   Parés, J.M., Carrigan, J., Anastasio, D., Kodama, K., 2016. Rock
+Mukul, M., Mitra, G., 1998. Finite strain and strain variation             magnetic and reversal stratigraphy in terrestrial deposits:
+    analysis in the Sheeprock Thrust Sheet: an internal thrust             Recovering fault slip rates in growth strata. IX Congreso
+    sheet in the Provo salient of the Sevier Fold-and-Thrust belt,         geológico de España. Huelva, 2016, 234.
+    Central Utah. Journal of Structural Geology, 20, 385-405.          Pascual, O., Parés, J.M., 1990. Estudio preliminar de los
+Nagata, T., 1961. Rock magnetism. 2nd edition, Maruzen (Tokyo),            materiales comprendidos en el tránsito Eoceno-Oligoceno en
+    350pp.                                                                 el borde SE de la Cuenca del Ebro. Revista de la Sociedad
+Nickelsen, R.P., 1983. Aspects of Alleghanian deformation. In:             Geológica de España, 3, 323-333.
+    Nickelsen, R.P., Cotter, E., (eds.). Silurian Depositional         Price, R.A., Mountjoy, E.W., 1970. Geologic structure of the
+    History and Alleghanian Deformation in the Pennsylvania                Canadian Rocky Mountains between Bow and Athabasca
+    Valley and Ridge. Field Conference of Pennsylvania                     Rivers-a progress report. Geological Association of Canada,
+    Geologists 49th Annual, Danville, Guidebook, 29-39.                    6 (Special Paper), 7-25.
+Nilforoushan, F., Koyi, H.A., Swantesson, J.O.H., Talbot, C.J.,        Pueyo, J.J., 1975. Estudio petrológico y geoquímico de los
+    2008. Effect of basal friction on surface and volumetric strain        yacimientos potásicos de Cardona, Súria, Sallent (Barcelona,
+    in models of convergent settings measured by laser scanner.            España). PhD Thesis. Barcelona, Universitat de Barcelona,
+    Journal of Structural Geology, 30, 366-379.                            300pp.
+Nye, J.F., 1957. The Physical Properties of Crystals. Oxford,          Pueyo-Anchuela, O., Pocoví A., Gil Imaz, A., 2010. Tectonic
+    Clarendon Press, 322pp.                                                imprint in magnetic fabrics in foreland basins: a case study
+Oliva-Urcia, B., Larrasoaña, J.C., Pueyo, E.L., Gil-Imaz, A.,              from the Ebro Basin, N Spain. Tectonophysics, 492, 150-163.
+    Mata, P., Parés, J.M., Schleicher, A., 2009. Disentangling         Puigdefàbregas, C., Muñoz, J.A., Marzo, M., 1986. Thrust
+    magnetic subfabrics and their link to deformation processes            Belt Development in the Eastern Pyrenees and Related
+    in cleaved sedimentary rocks from the Internal Sierras (west           Depositional Sequences in the Southern Foreland Basin. In:
+    central Pyrenees, Spain). Journal of Structural Geology, 31,           Allen, P.A., Homewood, P. (eds.). Foreland Basins. Oxford
+    163-176.                                                               (UK), Blackwell Publishing Ltd., 229-246.
+Oliva-Urcia, B., Casas, A.M., Pueyo, E.L., Pocoví-Juan, A.,            Puigdefàbregas, C., Muñoz, J.A., Vergés, J., 1992. Thrusting
+    2012. Structural and paleomagnetic evidence for non-                   and foreland basin evolution in the Southern Pyrenees. In:
+    rotational kinematics of the South Pyrenean Frontal Thrust at          McClay, K.R. (ed.). Thrust Tectonics. Dordrecht, Springer,
+    the western termination of the External Sierras (southwestern          247-254. DOI: 10.1007/978-94-011-3066-09
+    central Pyrenees). Geologica Acta, 10(2), 125-144.                 Riba, O., 1973. Las discordancias sintectónicas del Alto Cardener
+Oliva-Urcia, B., Beamud, E., Garcés, M., Arenas, C., Soto,                 (Prepirineo Catalán), ensayo de interpretación evolutiva.
+    R., Pueyo, E., Pardo, G., 2016. New magnetostratigraphic               Acta Geológica Hispánica, 8, 90-99.
+    dating of the Paleogene syntectonic sediments of the West-         Riba, O., 1976. Syntectonic unconformities of the Alto Cardener,
+    Central Pyrenees: Tectonostratigraphic implications. In:               Spainish Pyrenees: A genetic interpretation. Sedimentary
+    Pueyo, E.L., Cifelli, F., Sussman, A.J., Oliva-Urcia, B.               Geology, 15, 213-233. DOI: 10.1016/0037-0738(76)90017-8
+    (eds.). Palaeomagnetism in Fold and Thrust Belts: New              Richter, C., van der Pluijm, B., Housen, B., 1993. The quantification
+    Perspectives. The Geological Society of London, 425 (Special           of crystallographic preferred orientation using magnetic
+    Publications), 107-128. DOI: 10.1144/SP425.5                           anisotropy. Journal of Structural Geology, 15, 113-116.
+Owens, W., 1993. Magnetic fabric studies of samples from Hole          Robion, P., Frizon de Lamotte, D., Kissel, C., Aubourg, C., 1995.
+    808C, Nankai Trough. In: Hill, I.A., et al. (eds.). Proceedings        Tectonic versus mineralogical contribution to the magnetic
+    of the Ocean Drilling Program. Science Results, 131, Ocean             fabrics of epimetamorphic slaty rocks: an example from the
+    Drilling Program, College Station, TX, 301-310. DOI:                   Ardennes Massif (France-Belgium). Journal of Structural
+    10.2973/odp.proc.sr.131.130.1993                                       Geology, 17, 1111-1124.
+Parés, J.M., 2015. Sixty Years of Anisotropy of Magnetic               Robion, P., Kissel, C., Frizon de Lamotte, D., Lorand, J.P., Guézou,
+    Susceptibility in deformed sedimentary rocks. Frontiers of             J.C., 1997. Magnetic mineralogy and metamorphic zonation
+    Earth Science, 3(4), 1-13. DOI: 10.3389/feart.2015.00004               in the Ardennes Massif (France-Belgium). Tectonophysics,
+Parés, J.M., Dinarès-Turell, J., 1993. Magnetic fabric in two              271, 231-248.
+    sedimentary rock types from the Southern Pyrenees. Journal         Robion, P., Averbuch, O., Sintubin, M., 1999. Fabric development
+    of Geomagnetism and Geoelectricity, 45, 193-205.                       and metamorphic evolution of lower Palaeozoic slaty rocks
+
+
+
+
+388                                                                                 Geologica Acta, 16(4), 375-390 (2018)
+                                                                                    DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                    Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+    from the Rocroi massif (French–Belgian Ardennes): new             Solé-Sugrañes, L., Mascareñas, P., 1970. Sobre las formaciones
+    constraints from magnetic fabrics, phyllosilicate preferred           Ager y Bagà, del Eoceno del Cadí (Perpirineo oriental) y
+    orientation and illite crystallinity data. Tectonophysics, 309,       de unos pretendidos olistolitos del mismo. Acta Geologica
+    257-273.                                                              Hispanica, 4, 97-101.
+Robion, R., Grelaud, S., Frizon de Lamotte, D., 2007. Prefolding      Sorby, 1908. On the application of quantitative methods to the
+    magnetic fabrics in fold-and-thrust belts: Why the apparent           structure and history of rocks. Geological Society of London
+    internal deformation of the sedimentary rocks from the                Quaterly Journal, 64, 171-233.
+    Minervois basin (NE - Pyrenees, France) is so high compared       Soto, R., Larrasoaña, J.C., Arlegui, L.E., Beamud, E., Oliva-
+    to the Potwar basin (SW-Himalaya). Sedimentary Geology,               Urcia, B., Simón, J.L., 2009. Reliability of magnetic fabrics
+    196, 181-200.                                                         of weakly deformed mudrocks as a palaeostress indicator in
+Saez, A, 1987, Estratigrafia y sedimentologia de las formaciones          compressive settings. Journal of Structural Geology, 31, 512-
+    lacustres del tránsito Eoceno-Oligoceno del NE de la Cuenca           522.
+    del Ebro. PhD Thesis. Barcelona (Spain), Universitat de           Souqué, C., Robion, P., Frizon de Lamotte, D., 2002. Cryptic
+    Barcelona, 353pp.                                                     magnetic fabric of tectonic origin revealed by heating of
+Saez, A., Anadon, P., Herrero, M.J., Moscariello, A., 2007.               sedimentary samples from the Corbières, France. Physics and
+    Variable style of transition between Paleogene fluvial fan and        Chemistry of the Earth, Parts A/B/C, 27, 1253-1262.
+    lacustrine systems, southern Pyrenean foreland, NE Spain.         Stacey, F.D., Joplin, G., Lindsay, J., 1960. Magnetic anisotropy
+    Sedimentology, 54, 367-390.                                           and fabric of some foliated rocks from S.E. Australia.
+Sagnotti, L., Speranza, S., 1993. Magnetic fabrics analysis of the        Geofisica pura e applicata, 47, 30-40.
+    Plio-Pleistocene clayey units of the Sant’ Arcangelo basin,       Suppe, J., Sàbat, F., Muñoz, J.A., Poblet, J., Roca, E., Vergés,
+    Southern Italy. Physics of the Earth and Planetary Interiors,         J., 1997. Bed-by-bed fold growth by kink-band migration:
+    77, 165-176.                                                          Sant Llorenc¸ de Morunys, eastern Pyrenees. Journal of.
+Sagnotti, L., Winkler, A., Montone, P., Di Bella, L.D., Florindo,         Structural Geology, 19, 443-461. DOI: 10.1016/S0191764
+    F., Mariucci, M.T., Marra, F., Alfonsi, L., Frepoli, A., 1999.        8141(96)00103-4
+    Magnetic anisotropy of Plio-Pleistocene sediments from            Tarling, D.H., Hrouda, F., 1993. The magnetic anisotropy of
+    the Adriatic margin of the northern Apennines (Italy):                rocks. London, Chapman and Hall, 217pp.
+    implications for the time-space evolution of the stress field.    Tauxe, L., 1998. Paleomagnetic Principles and Practice. Kluwer
+    Tectonophysics, 311, 139-153.                                         Academic Publishers, 299pp.
+Saint-Bezar, B., Hebert, R.L., Aubourg, C., Robion, P., Swennen,      Tavani, S., Storti, F., Salvini, F., 2006. Double-edge fault-
+    R., Frizon de Lamotte, D., 2002. Magnetic fabric and                  propagation folding: geometry and kinematics. Journal of
+    petrografic investigation of hematite-bearing sandstones              Structural Geology, 28, 19-35.
+    within ramp-related folds: examples from the Southern Atlas       Tavani, S., Storti, F., Salvini, F., Toscano, C., 2008. Stratigraphic
+    Front (Morocco). Journal of Structural Geology, 24, 1507-             versus structural control on the deformation pattern associated
+    150.                                                                  with the evolution of the Mt. Catria anticline, Italy. Journal of
+Sans, M., 2003. From thrust tectonics to diapirism: the role of           Structural Geology, 30, 664-681.
+    evaporites in the kinematic evolution of the eastern South        Tavani, S., Mencos, J., Bausà, J., Muñoz, J.A., 2011. The fracture
+    Pyrenean front. Geologica Acta, 1, 239-259.                           pattern of the Sant Corneli Bóixols oblique inversion anticline
+Sans, M., Vergés, J., 1995. Fold development Related to                   (Spanish Pyrenees). Journal of Structural Geology, 33, 1662-
+    Contractional Salt Tectonics: Southeastern Pyrenean Thrust            1680.
+    Front, Spain. In: Jackson, M.P.A., Roberts, D.G., Snelson,        Tavani, S., Storti, F., Lacombe, O., Corradetti, A., Muñoz,
+    S. (eds.). Salt tectonics: a global perspective. American             J.A., Mazzoli, S., 2015. A review of deformation pattern
+    Association of Petroleun Geologists Memoir, 369-378.                  templates in foreland basin systems and fold-and-thrust belts:
+Sans, M., Muñoz, J.A., Vergés, J., 1996. Triangle zone and thrust         Implications for the state of stress in the frontal regions of
+    wedge geometries related to evaporitic horizons (Southern             thrust wedges. Earth-Science Reviews, 141, 82-104.
+    Pyrenees). Canadian Petroleum Geology Bulletin, 4, 375-           Teixell, A., 1996. The Ansó transect of the southern Pyrenees:
+    384.                                                                  basement and cover thrust geometries. Journal of Geophysical
+Sans, M., Vergés, J., Gomis, E., Parés, J.M., Schiattarella, M.,          Research, 102, 20,325-20,342.
+    Travé, F.A., Calvet, F., Santanach, P., Doulcet, A., 2003.        Teletzke, A.L., Parés, J.M., Kodama, K.P., Anastasio, D.J., 2011.
+    Layer parallel shortening in salt-detached folds: constraint on       Unsteady deformation along the southwest Spanish Pyrenean
+    cross-section restoration. Tectonophysics, 372, 85-104.               thrust front. American Geophysical Union Fall Meeting
+Schmidt, V., Hirt, A.M., Leiss, B., Burlini, L., Walter, J., 2009.        Abstract, T51B-2321.
+    Quantitative correlation of strain, texture and magnetic          Teletzke, A., 2012. Sedimentary and tectonic evolution of the
+    anisotropy of compacted calcite-muscovite aggregates.                 Peña flexure, southwest Pyrenean mountain front, Spain.
+    Journal of Structural Geology, 31, 1062-1073. DOI:                    Theses and Dissertations, Paper 1305, Lehigh University,
+    10.1016/j.jsg.2008.11.012                                             68pp.
+
+
+
+
+Geologica Acta, 16(4), 375-390 (2018)                                                                                                 389
+DOI: 10.1344/GeologicaActa2018.16.4.3
+J.M. Parés and D. Anastasio                                                    Penetrative strain in the Ebro foreland Basin from AMS data
+
+
+
+
+Thompson, R.J., 1981. The nature and significance of large ‘blind’     Williams, G., Chapman, T., 1983. Strains developed in the
+   thrusts within the northern Rocky mountains of Canada. In:             hanging walls of thrusts due to their slip/propagation rate: a
+   McClay, K.R., Price, N.J. (eds.). Thrust and Nappe Tectonics.          dislocation model. Journal of Structural Geology, 5, 563-571.
+   The Geological Society of London, Special Publications              Williams, E.A., Ford, M., Vergés, J., Artoni, A., 1998. Alluvial
+   (Black- well Scientific Publications, Oxford), 9, 449-62.              gravel sedimentation in a contractional growth fold setting,
+Vergés, J., 1993. Estudi geologic del vessant sud del Pirineu             Sant Llorenç de Morunys, southestern Pyrenees. Geological
+   oriental i central. Evolucio 1050 cinemàtica en 3D. PhD                Society of London, 134 (Special Publications), 69-106.
+   Thesis. Barcelona (Spain), Universitat de Barcelona, 203pp.         Woodward, N.B., Grey, D.R., Spears, D.B., 1986. Including
+Vergés, J., Martínez, A., Muñoz, J.A., 1992. South Pyrenean fold          strain data in balanced cross-sections. Journal of Structural
+   and thrust belt: The role of foreland evaporitic levels in thrust      Geology, 8, 313- 324.
+   geometry. In: McClay, K. (ed.). Thrust Tectonics. London,           Yonkee, A., Weil, A.B., 2009. Reconstructing the kinematic
+   Chapman and Hall, 255-264.                                             evolution of curved mountain belts: Internal strain patterns
+Weil, A.B., Yonkee, A., 2009. Anisotropy of magnetic susceptibility       in the Wyoming salient, Sevier thrust belt, U.S.A. Geological
+   in weakly deformed red beds from the Wyoming salient, Sevier           Society of America Bulletin, 122, 24-49.
+   thrust belt: Relations to layer-parallel shortening and orogenic
+   curvature. Lithosphere, 1, 235-256.                                 Manuscript received November 2017;
+                                                                       revision accepted April 2018;
+                                                                       published Online November 2018.
+
+
+
+
+390                                                                                Geologica Acta, 16(4), 375-390 (2018)
+                                                                                   DOI: 10.1344/GeologicaActa2018.16.4.3
+

@@ -1,0 +1,1054 @@
+Bull. Soc. géol. Fr., 2010, t. 181, no 6, pp. 547-563
+
+
+
+
+     New structural constraints on the southern Provence thrust belt (France):
+      evidences for an Eocene shortening event linked to the Corsica-Sardinia
+                                    subduction
+                                          1,2                         1,3
+                 LOUIS ANDREANI                 , NICOLAS LOGET             , CLAUDE RANGIN1 and XAVIER LE PICHON1
+
+
+          Key-words. – Tectonics, Southern Provence, La Nerthe anticline, Northern Provence Unit, Paleogene, Corsica-Sardinia subduction.
+          Abstract. – The Eocene shortening directions along the Southern Provence fold-and-thrust belt are commonly assumed
+          to be N-S. We present here new observations and data that allow reinterpreting the structure of the La Nerthe range as a
+          right-lateral transpressive flower structure. Structural data collected along the range argue for an Eocene N145o shorten-
+          ing event. The age of this shortening event is constrained by the fact that faulting and folding affect the Late Creta-
+          ceous-Paleocene continental deposits along the northern flank of the La Nerthe range and is sealed by the Miocene
+          marine deposits. Moreover striated fault planes display both horizontal and vertical striae suggesting that they were re-
+          activated during the Oligocene extensional event. We question here the shortening directions along the Southern Pro-
+          vence thrust belt. Structural data suggest both N-S and NNW-SSE shortening directions during the Eocene. During the
+          Eocene the Provence area was in the foreland of a complex orogenic belt that extended from the Betic Cordillera to the
+          Corsica-Sardinia block. This orogenic belt developed along the subduction linked to the convergence between Africa
+          and Eurasia. Although the convergence vector was nearly N-S the NE-SW orientation of the trench may have led to a
+          complex deformation pattern along the orogenic belt with NW-SE and N-S shortening directions that reflected both the
+          along-trench compression and the regional convergence.
+
+
+                 Nouvelles contraintes structurales sur la ceinture de plis de la Provence méridionale
+           (France) : Arguments en faveur d’un raccourcissement Eocène liée à la subduction corso-sarde
+
+
+          Mots-clés. – Tectonique, Provence méridionale, Anticlinal de La Nerthe, Unité Nord-Provençale, Paléogène, subduction Corso-Sarde.
+          Résumé. – Il est généralement admis que les directions de raccourcissements à l’origine des chaînons sud-provençaux
+          étaient N-S. Nous présentons ici de nouvelles observations permettant de réinterpréter le chaînon de La Nerthe comme
+          une structure transpressive dextre. Les données structurales collectées suggèrent un raccourcissement éocène orienté
+          N145o. L’âge de la déformation est contraint par le fait que les structures affectent les dépôts continentaux d’âge crétacé
+          supérieur-paléocène et sont scellés par les dépôts marins miocènes. De plus certains plans présentent des stries vertica-
+          les recoupant les stries décrochantes ce qui suggère une réactivation durant la distension oligocène. Nous abordons la
+          question des directions de raccourcissement à l’origine des chaînons sud-provençaux. Les données collectées suggèrent
+          à la fois un raccourcissement N-S et NW-SE pendant l’Eocène. Durant l’Eocène la Provence était en position d’a-
+          vant-pays par rapport à la ceinture orogénique qui s’étendait de la cordillère bétique jusqu’au bloc Corso-Sarde. Cette
+          dernière est liée à la subduction résultant de la convergence entre l’Afrique et l’Eurasie. Bien que le vecteur conver-
+          gence ait été N-S l’orientation NE-SW de la fosse peut avoir engendré un partitionnement de la déformation avec des
+          directions NW-SE et N-S reflétant à la fois la composante normale à la fosse et la convergence régionale.
+
+
+
+
+INTRODUCTION                                                                  south-verging thrusts (the so-called “subalpine chains”), re-
+                                                                              lated to the tectonic evolution of the Alps, that affected
+The southern France area, and more particularly Provence,                     mainly the northern and northeastern Provence (fig. 1 and 2).
+coincides with two orogenic fold-and-thrust belts: (1) late
+Cretaceous to Eocene north-verging thrusts (the so-called                         The Pyrenees-Provence belt and the Alps were both ac-
+“Pyrenean” belt), commonly related to the northward mi-                       tive in the late Eocene. Tectonic reconstructions before the
+gration of the Iberia and Corsica-Sardinia blocks, that af-                   Oligo-Miocene opening of the Liguro-Provençal Basin
+fected mainly the southern Provence and (2) post-Oligocene                    [e.g., Stampfli, 1993; Gueguen et al., 1998; Stampfli et al.,
+
+
+
+
+1. Collège de France – Chaire de Géodynamique, CNRS/Aix-Marseille University, Europôle de l’Arbois Bâtiment Trocadéro, BP 80, 13545 Aix-en-Provence,
+France.
+2. Now at TU Bergakademie Freiberg, Fakultät 3 / Institut für Geologie, Fernerkundung, Bernhard von Cotta Straße 2, D 09596 Freiberg / Sa., Germany,
+andreani@cdf.u-3mrs.fr
+3. Now at UPMC, UMR 7193, 4 place Jussieu, 75252 Paris cedex 05
+Manuscrit déposé le 15 décembre 2009; accepté après révision le 29 avril 2010.
+
+                                                                                                                       Bull. Soc. géol. Fr., 2009, no 6
+548                                                               ANDREANI L. et al.
+
+
+
+
+FIG. 1. – Present day tectonic setting of the western Mediterranean domain. The enclosed region indicates the location of the Provence area (fig. 2). Abre-
+viations: AC: Alpine Corsica, CPA: Calabro-Peloritan arc, CR: Catalan ranges.
+FIG. 1. – Cadre tectonique actuel de la Méditerranée occidentale. Le cadre indique la localisation de la Provence (fig. 2). Abréviations : AC : Corse al-
+pine, CPA : Arc calabro-peloritain, CR : Chaînes catalanes.
+
+
+
+
+FIG. 2. – Structural map of the Provence area showing the late Cretaceous to present day main tectonic features.
+FIG. 2. – Carte structurale de la Provence montrant les principales structures crétacées à actuelles.
+
+
+
+
+1998; Lacombe and Jolivet, 2005; Schettino and Turco,                          eastward termination of the so-called Pyrenean belt and its
+2006] show that at the same time, the Southern Provence                        connection to the Alps in the Provence-Corsica-Sardinia
+fold-and-thrust belt (with a thin-skinned geometry) was lo-                    area during the late Eocene is still a matter of debate.
+cated on the foreland of an orogenic belt resulting from the                       We discuss in this paper the Eocene geometry and kine-
+subduction along the Corsica-Sardinia block (the so-called                     matics of the Southern Provence fold-and-thrust belt. Struc-
+“Apennine subduction”). In spite of many works the                             tural data collected along three distinct areas indicate a
+
+Bull. Soc. géol. Fr., 2010, no 6
+                        NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                             549
+
+
+N140o-N155o Eocene shortening. During the Eocene the            Sardinia blocks [e.g., Mattauer and Seguret 1971;
+Provence and Catalan ranges were in the foreland of a com-      Choukroune and Mattauer 1978; Arthaud and Séguret,
+plex orogenic belt that extended from the Betic Cordillera      1981; Tempier and Durand, 1981; Tempier, 1987; Lacombe
+to the Corsica-Sardinia block. This orogenic belt developed     et al., 1992; Séranne et al., 1995; Olivet, 1996]. Lutaud
+along the subduction linked to the convergence between Af-      [1935] proposed an initiation of anticline ridges during the
+rica and Eurasia. We also discuss the role of this fold-        Maastrichtian-Montian, followed by a major shortening
+and-thrust belt for the post-Oligocene tectonics. Le Pichon     event overprinting the former structures during the Late
+et al. [2010] proposed a new hypothesis, which relates the      Eocene (Bartonian event).
+post-Oligocene shortening of Provence with the collapse of           The Senonian-Paleocene event is marked by E-W folds
+the western Alps. The limit between the post-Oligocene          associated with deposition of syntectonic breccias. This
+(“Alpine”) and late Cretaceous-Eocene (“Pyreneo-Provençal”)     event is well recorded along the Arc basin filled with thick
+compressive structures corresponds broadly to the southern      (> 1000 m) Campanian-Eocene continental sediments over-
+limit of the southeastern France Basin. The late Creta-         lying Jurassic-Upper Cretaceous (Coniacian-Santonian) shal-
+ceous-Eocene structures were developed on a basement            low-marine carbonates [Durand and Guieu, 1983; Babinot
+high that probably has acted as a buttress for the south-       and Durand, 1984]. During the Upper Cretaceous and
+verging post-Oligocene structures.                              Eocene the northern and southern margins of the Arc basin
+                                                                were controlled by tectonically active compressional struc-
+                                                                tures (Sainte-Victoire range to the north and La Nerthe,
+GEODYNAMIC AND STRATIGRAPHIC SETTINGS                           L’Étoile and Mont Aurélien ranges to the south). Preserved
+                                                                Upper Cretaceous-Paleocene conglomerate successions
+Triassic to Mid-Cretaceous evolution of the                     (representing ancient transverse alluvial fans draining into
+southeastern France Basin                                       the Arc basin) were recognized along the southern flank of
+The studied area extends on the southern margin of the          the Sainte-Victoire range (‘Brèche du Tholonet’, [e.g.,
+southeastern France Basin. During Trias and early Lias, the     Durand and Tempier, 1962; Chorowicz and Ruiz, 1979;
+southeastern France area underwent rifting along NE-trending    Leleu et al., 2005]) and the northern flank of the La Nerthe
+normal faults. These faults were inherited from the late        and L’Étoile ranges (‘Brèche des Cadenaux’ [Guieu,
+Variscan tectonics [Arthaud and Matte, 1975]. Rifting led to    1968]).
+the extension of the Tethyan marine area and subsequently            During the major Late Eocene (Bartonian) “Pyrenean”
+to the development of the southeastern France Basin on          shortening the Mesozoic cover of southern Provence was
+its western margin [e.g., Lemoine, 1985; Lemoine and            detached from its underlying basement above the Triassic
+Graciansky, 1988; Ziegler, 1992; Razin et al., 1996;            evaporites [Bertrand, 1899; Lutaud, 1957; Aubouin and
+Thierry, 2000]. This basin was approximately triangular         Chorowicz, 1967; Guieu, 1968]. The Pyrenean compressive
+and structured in enclosed grabens: the Languedocian and        phase divided the Mesozoic sedimentary strata into three
+southern Provence sub-basins were delimited from the            northward-thrusted units [Tempier, 1987; Guieu and
+deeper Dauphinois basin by NE-SW Nîmes and                      Roussel, 1990], which are, from north to south: (1) the
+Aix-Moyenne Durance major faults. The whole rifted area         northern Provence unit (Sainte-Victoire, Grand Sambuc and
+extended between the southeastern margin of the Paleozoic       Mont Major thrusts); (2) the southern Provence unit (La
+Massif Central and the northwestern margin of the               Nerthe, L’Étoile, Sainte-Baume and Mont Aurélien thrusts)
+Corsica-Sardinia block, which both corresponded to struc-       and (3) the northern Toulonnais unit (Bandol and Cap Sicié
+tural highs. Triassic deposits, including shales and            thrusts). Balanced and restored cross-sections through the
+evaporites, are related to the transgression over the           southern Provence sub-basin [Tempier, 1987] show that the
+peneplained Paleozoic basement. The Triassic evaporites         total shortening reached a maximum of 25 ± 2 km (i.e. 25%
+are overlain by thick Middle to Late Jurassic sequences of      of the initial area). Folds and thrusts are geometrically
+marine shales and carbonates deposited during the post-rift     linked to major NE-SW trending faults inherited from the
+(or thermal) subsidence of the western Tethyan margin           late Variscan tectonics, such as the Cévennes, Nîmes, or the
+[e.g., Graciansky et al., 1998; Léonide et al., 2007].          Aix-Moyenne Durance faults [Arthaud and Matte, 1975].
+Neocomian sequences include shales and marls intervals,         These faults were reactivated as transpressional left-lateral
+overlain by massive platform-related carbonates (the            strike-slip faults during the Pyrenean shortening [Tempier,
+so-called ‘Urgonian facies’). During Mid Cretaceous to          1972 and 1987] and belong to a regional pattern of
+Lower Eocene times the evolution of the Provence area was       strike-slip faults extending from the eastern Pyrenees to NE
+marked by the accumulation of 3-4 km thick Late Creta-          Provence [Mauffret and Gennesseaux, 1989].
+ceous marine to fluvio-deltaic and lacustrine sediments
+[Debrand-Passard and Courbouleix, 1984] evolving into           Oligocene evolution of the Provence area
+continental Paleocene-Eocene deposits in the northern part
+of Provence.                                                    In the studied area Oligocene deposits (alluvial fan breccias
+                                                                and lacustrine limestone) unconformably lie over late
+                                                                Eocene and Mesozoic strata and are mainly located along
+Late Cretaceous to Eocene tectonic evolution of the             NE-SW and N-S extensional faults resulting from the
+“Pyrenean belt” in Provence
+                                                                Oligocene distension. The Oligocene sediments also overlie
+It is generally assumed that in Provence the so-called “Pyre-   major compressional structures inherited from the Late
+nean” shortening occurred from the late Senonian to the         Eocene (Bartonian) “Pyreneo-Provençal” shortening [Aubouin
+Eocene. This deformation phase has been commonly related        and Chorowicz, 1967; Gouvernet et al., 1979; Guieu and
+to the northward migration of the Iberia and Corsica-           Roussel, 1990]. The Oligocene distension is well recorded
+
+                                                                                                  Bull. Soc. géol. Fr., 2010, no 6
+550                                                              ANDREANI L. et al.
+
+
+
+along the Marseille basin filled with thick (> 1000 m) conti-                 evidence unambiguously supports a pre-Oligocene fit of the
+nental sediments overlying Jurassic and Upper Cretaceous                      Corsica-Sardinia block with Languedoc and Provence
+carbonates. These deposits are interpreted as syntectonic                     [Westphal et al., 1976], controversies on the timing,
+sediments deposited in depressions controlled by tectoni-                     amount, and rate of Oligo-Miocene rotation have given rise
+cally active extensional structures. Other large syntectonic                  to numerous kinematic reconstructions [see discussions in
+Oligocene basins are those of Apt and Aix-en-Provence                         Chamot-Rooke et al., 1999; Speranza et al., 2002;
+produced along the NE-SW Durance and Aix faults.                              Gattacceca et al., 2007]. However recent reconstructions
+Smaller basins were also reported in St Pierre, Le Rouet,                     based on paleomagnetic data [Gattacceca, 2001; Gattacceca
+St Zacharie, Nans-les-Pins and Méounes (see the complete                      et al., 2007] suggest that most of the Corsica-Sardinia rota-
+description of all these basins in Nury [1988]). The                          tion (50 o-60o for Sardinia and 40o-50o for Corsica) occurred
+time-space analysis of the Oligocene deposits distribution                    during the post-rift period.
+[Nury, 1988] combined with the paleostress analysis of the
+associated faults [Hippolyte et al., 1991; Hippolyte et al.,
+1993] show contrasting directions of extensions                               STRUCTURE AND KINEMATICS OF THE
+(ESE-WNW and N155o) due to the succession of two major                        LA NERTHE RANGE
+extensional events.
+                                                                              The La Nerthe range (fig. 3) lies along the southern margin
+     The first one is the evolution of the NNE-SSW Euro-
+                                                                              of the late Cretaceous-Eocene Arc basin. To the south the
+pean Cenozoic rift system that began during middle and late
+                                                                              structure is bounded by the Oligocene Marseille basin. The
+Eocene times in response to the build-up of compressional
+                                                                              overall trend of the range changes from E-W to the West to
+stresses that were exerted by the evolving Pyrenean and Al-
+                                                                              NE-SW to the East where it connects with the L’Étoile
+pine orogens on their northern forelands [e.g., Dèzes et al.,
+                                                                              range. This change in the trend of the La Nerthe range re-
+2004; Ziegler and Dèzes, 2007]. The European Cenozoic
+                                                                              flects structural differences between the occidental and ori-
+rift system extends from the coast of the North Sea to the
+                                                                              ental part of the range (fig. 4).
+Mediterranean over a distance of some 1100 km and
+transects most of the Variscan massifs. It includes the
+Rhine, Massif Central and Rhône Valley rift systems.                          Structure of the occidental part of the La Nerthe range
+     The second major event is the Oligo-Aquitanian rifting                   According to previous studies [Repelin, 1900; Repelin,
+between Europe and the Corsica-Sardinia block that was                        1933; Denizot, 1935; Denizot, 1962; Guieu et al., 1964;
+followed, during the Burdigalian, by oceanic accretion in                     Froget et al., 1966; Guieu, 1968; Guieu, 1973] the western
+the Liguro-Provençal basin. This latter is interpreted as a                   part of the La Nerthe range displays several N090o to
+back-arc basin formed above the northwestward dipping                         N100o-trending major faults (fig. 3 and cross-section A-A’
+subduction of the African plate beneath Europe [Auzende et                    on fig. 4) which are, from North to South, the Valtrède
+al., 1973; Olivet et al., 1984; Rehault et al., 1984; Séranne,                fault, the Laurons-Ensuès fault and the La Folie-Valapaux
+1999]. Although structural, petrographic, and paleomagnetic                   faulted zone.
+
+
+
+
+FIG. 3. – Geological and structural map of the La Nerthe Range. Microtectonic stations and locations of the cross-sections on figure 4 are also reported.
+FIG. 3. – Carte géologique et structurale du chaînon de La Nerthe. Les stations microtectoniques et la localisation des coupes géologiques (fig. 4) sont
+également reportées.
+
+Bull. Soc. géol. Fr., 2010, no 6
+                              NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                                 551
+
+
+    The rectilinear Valtrède fault trace indicates a                                 The La Folie-Valapaux faulted zone is a complex struc-
+subvertical fault plane. North to the fault the Early Creta-                    ture. It corresponds in fact to two thrusts. The surface trace
+ceous deposits, including massive platform-related carbon-                      pattern of the northern one indicates a N-dipping fault plane
+ates (the so-called ‘Urgonian facies’), are dipping 20o to 30 o                 (that progressively became subvertical to the east) while the
+to the north. Between the Valtrède and the Laurons-Ensuès                       southern thrust is S-dipping. The Upper Cretaceous marine
+faults the same Lower Cretaceous deposits form a gently                         succession (mainly shales) is thrusted by the Late Jurassic
+folded synclinorium. Cretaceous deposits are unconform-                         to Urgonian limestones of the ‘Chapats anticline’ to the
+ably covered with Early Oligocene lacustrine deposits (the                      north and by the Early Cretaceous monoclinal succession of
+so-called ‘St Pierre limestones’) and Late Oligocene-Early                      Sausset-les-Pins to the south [Guieu, 1968]. The C.F.P. La
+Miocene continental conglomerates (the ‘St Julien con-                          Folie borehole implanted along the Chapats anticline axis
+glomerates’) forming the St Pierre basin [Catzigras, 1953].                     allows constraining the thrust geometry at depth. It crosses
+Most of these Oligocene deposits were affected by normal                        first the Tithonian-Kimmeridgian normal series and then the
+faults.                                                                         thrusted Mid- Cretaceous (Albo-Aptian and Turonian) se-
+                                                                                ries [Guieu, 1968]. To the west, the La Folie-Valapaux
+    The Late Jurassic (mainly Tithonian and Kimmeridgian)                       faulted zone is sealed by the Early Miocene (Aquitanian and
+and Early Cretaceous deposits form a strongly curved E-W                        Burdigalian) marine sediments.
+anticline (the ‘Chapats anticline’) between the Laurons-
+Ensuès fault and the La Folie-Valapaux faulted zone. The                        Structure of the oriental part of the La Nerthe range
+surface trace pattern of the Laurons-Ensuès fault indicates a
+subvertical fault plane that progressively became strongly                      The eastern part of the La Nerthe range (fig. 3 and cross-
+S-dipping to the East. According to previous studies                            section B-B’ on fig. 4) shows a more complex structure with
+[Humbert, 1962, 1963; Guieu, 1968] the Laurons-Ensuès                           superposition of a NW-verging Eocene major thrust and
+fault is a north-verging thrust that put in contact the Late Ju-                N045o to N090o-trending Oligocene normal faults [Repelin,
+rassic and Early Cretaceous series of the ‘Chapats anticline’                   1900; Denizot, 1935; Guieu, 1964; Froget et al., 1966;
+with the Urgonian and Aptian deposits outcropping in the St                     Guieu, 1968; Guieu, 1973].
+Pierre basin. However, associated N110o to N120o-trending                           The La Nerthe ridge anticline refolds the synclinorium
+secondary faults, which can be interpreted as synthetic                         shape of the Arc basin. The fold is roughly oriented NE-SW
+Riedel shears, argue for a right-lateral displacement along                     and is highly asymmetric. Its backlimb is almost homoclinal
+the main fault. This right lateral motion is also evidenced by                  and subhorizontal to gently S-dipping excepted to the SW
+fault slip data measured at several sites (see the section                      were Fournier [1900] and Guieu [1968] described a strongly
+‘Fault kinematics’ below).                                                      reclined coastal anticline with a N045 o trend. Its forelimb is
+
+
+
+
+FIG. 4. – Geological cross-sections across the La Nerthe range showing the structural differences between the western and eastern parts of the range. The
+western part can be interpreted as a right-lateral transpressive structure (AA’) while the eastern part displays a NW-verging thrust (BB’). Locations of the
+cross-sections on figure 3.
+FIG. 4. – Coupes géologiques du chaînon de La Nerthe montrant les différences structurelles entre la partie orientale et occidentale. La partie occidentale
+correspond à une structure transpressive dextre (AA’) tandis que la partie orientale montre un chevauchement à vergence NW (BB’). Localisation des cou-
+pes sur la figure 3.
+
+                                                                                                                           Bull. Soc. géol. Fr., 2010, no 6
+552                                                                ANDREANI L. et al.
+
+
+
+gently N-dipping to the SW and became strongly reclined                          region between the two nodal planes of fault plane
+and sheared along a major frontal thrust to the NE. At the                       solutions. A first-order distribution of the strain axes can
+front of the structure the Upper Jurassic to Lower Creta-                        determine whether the faults are kinematically compatible.
+ceous series are thrusting the Mid-Cretaceous (i.e.                                   In the eastern part of the La Nerthe range, fault slip data
+Albo-Aptian) marine series, which are unconformably cov-                         show three different faults kinematics. Two sites (9 and 7
+ered with the Campanian to Eocene continental deposits.                          on fig. 5) along the frontal thrust show well-developed
+Along the anticline axis the verticalized Upper Jurassic to                      striae. Reverse fault striae occur along south dipping N030o
+Lower Cretaceous series are in turn thrusted by the Triassic                     to N080o-trending planes. For the two data sets the P-axes
+and Lower Jurassic series. The Jas-de-Rhodes borehole                            have a subhorizontal NW orientation while the T-axes are
+(1968) implanted along the anticline axis allows to con-                         subvertical. Other sites (2, 3, 11, and 12 on fig. 5 and table I)
+strain the two thrusts geometry at depth [Guieu, 1968]. It                       display right-lateral subhorizontal striae along subvertical
+crosses through the meridional Bathonian to Triassic units                       N090o to N140o-trending planes and left-lateral sub-
+first. Then between 300 and 990 meters it encounters the                         horizontal striae along subvertical NW-trending planes.
+verticalized frontal unit (Upper Jurassic) thrusting the                         These sites are characterized by subhorizontal P-axes and
+Berriasian to Barremian inverted series and finally reaches                      T-axes. P-axes have a NW-SE orientation while T-axes have
+the Upper Cretaceous unconformably deposited ‘Brèche des                         a NE-SW orientation. Finally, fault slip data were collected
+Cadenaux’ (fig. 4).                                                              along large scale normal fault planes in the Le Rove graben
+    The homoclinal back limb of the La Nerthe ridge                              (site 1 on fig. 5), the La Nerthe depression (site 8 on fig. 5)
+anticline is affected by normal faults related with the                          and along the L’Estaque cove (site 10 on fig. 5). For all
+Oligocene Marseille basin [e.g., Guieu, 1977; Nury and                           these sites T-axes are subhorizontal with a NW-SE to
+Raynaud, 1985; Hippolyte et al., 1991, Hippolyte et al.,                         NNW-SSE orientation.
+1993]. In this area N045o to N070o normal faults produced                             In the western part of the La Nerthe range, fault slip data
+a horst and graben geometry. Along the coast a major nor-                        were mainly collected along the La Folie-Valapaux faulted
+mal fault described by Nury and Raynaud [1985] puts in                           zone (fig. 5 and 6). Although macroscale observations sug-
+contact the Upper Jurassic with the breccias and conglomer-                      gest a south verging thrust, many N080o to N110o-trending
+atic limestones of the L’Estaque formation [Deperet, 1889;                       fault planes display right-lateral subhorizontal striae (fig. 6).
+Vasseur, 1894; Nury, 1988] attributed to the Stampian.                           This right-lateral motion is consistent with the mapped
+                                                                                 N110o to N120o-trending secondary faults, which were inter-
+                                                                                 preted above as synthetic riedel shears along a main dextral
+Faults kinematics                                                                fault. Fault slip data are characterized by subhorizontal
+In order to further constrain the tectonic regime of the faults                  P-axes and T-axes. P-axes have a NW-SE orientation while
+and the associated stress state, we have performed a fault                       T-axes have a NE-SW orientation. In site 18 reverse fault
+kinematic study at sixteen sites (fig. 5 and table I). Using                     striae also occur along N080o to N100o-trending planes. The
+the attitude of the fault plane, the orientation of the slip di-                 P-axes have a subhorizontal NW orientation while the T-axes
+rection, and the sense of slip, we apply the kinematic graph-                    are subvertical.
+ical reconstruction of Marrett and Allmendinger [1991]                                We relate reverse and right-lateral faulting to the late-
+to obtain the P- and T-axes (the principal incremental                           Eocene major shortening event while the normal faulting is
+shortening axis P and the principal incremental extensional                      clearly linked with the well-known Oligocene distension
+axis T). The P- and T-axes are located in the movement                           [Hippolyte et al., 1991; Hippolyte et al., 1993]. Except in
+plane at a 45o angle to the nodal planes of fault plane solu-                    site 2 all the sites with right-lateral faulting display quite
+tions. In a stereoplot, P- and T-quadrants are defined by the                    homogeneous orientations in the calculated P- and T-axes.
+
+
+TABLE I. – Microtectonic data location. The tectonic regime and the age of the outcropping rocks are given for each site. (n) is the number of faults. P, T, I
+are the linked Bingham axes calculated from the individual P-axes and T-axes which are obtained by the right dihedral method.
+TABL. I. – Localisation des données microtectoniques. Le régime de contraintes et l’âge des affleurements sont donnés pour chaque site. (n) le nombre de
+plans. P, T, I sont les axes de Bingham calculés à partir des axes P et T obtenus pour chaque plan par la méthode des dièdres droits.
+
+
+
+
+Bull. Soc. géol. Fr., 2010, no 6
+                               NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                                   553
+
+
+We assumed thus that no major rotations took place along                         the strike-slip faults were formed rather belatedly with
+the strike-slip faults.                                                          respect to the folding. This suggests either the reactivation
+    Fault slip data in the La Nerthe area display evidences                      of an earlier thrust by the strike-slip faults or a dextral
+of kinematics compatibility between the western and east-                        transpressional regime along an E-W flower structure.
+ern part of the range in a bulk, NW-oriented compression.                            By using Bingham analysis, we calculated the tensor
+N080o to N110o-trending dextral fault planes observed                            axes for each fault slip data set (table I). In order to assess
+along the La Nerthe range may result from the same NW                            the average directions of Eocene shortening and Oligocene
+compression as the NE-oriented thrusting unit of the orien-                      extension we also calculated the tensor axes for two com-
+tal part of the range (the La Nerthe ridge anticline). How-                      bined fault slip data set (fig. 7), assuming that the right-lat-
+ever, the dextral fault planes in the occidental part of the                     eral strike-slip faulting along the N080o to N110o-trending
+range are associated with E-W folding and reverse faults.                        faults of the occidental part of La Nerthe range was coeval
+But we do not know at this time the ratio between the                            with the main NW-verging thrusting event of the eastern
+right-lateral and thrust components. Relations between the                       area. We also assumed that no major rotations took place
+sub-vertical fault planes and the folded strata suggest that                     along the strike-slip faults. For the first group, the results
+                                                                                 show a N144o-trending, subhorizontal P-axis. For the second
+                                                                                 group, a N342o-trending, subhorizontal T-axis was obtained.
+
+                                                                                 ADDITIONAL STRUCTURAL DATA ALONG THE
+                                                                                 NORTHERN PROVENCE UNIT
+                                                                                 The Sainte-Victoire range culminates at 1000 m and consti-
+                                                                                 tutes one of the most important mountains of the Southern
+                                                                                 Provence thrust belt. For this reason the structure of this
+                                                                                 range was studied and debated in details since the end of the
+                                                                                 XIXth century. In spite of these numerous works data about
+                                                                                 the Eocene state of stress that produced this important
+                                                                                 range were mainly collected along the southern flank of the
+                                                                                 mountain and the shortening directions are generally as-
+                                                                                 sumed to be N-S. We present here a short description of this
+                                                                                 range and additional structural data which suggest a
+                                                                                 N155o-N145o shortening direction along the northern front
+                                                                                 of the range. Although these data have been collected in
+                                                                                 much fewer sites than in the La Nerthe range (and so could
+                                                                                 seem incomplete), they could indicate a different state of
+                                                                                 stress between the northern and southern thrusts of the
+                                                                                 northern Provence unit.
+
+
+
+
+FIG. 5. – Structural map of the La Nerthe range and results from kinematic
+graphical reconstruction of the structural data using the right dihedral me-
+thod [Marrett and Allmendinger, 1991]. Lower hemisphere, equal area ste-
+reograms of microtectonic data are shown. The white quadrants contain the
+P-axes (white dots) while the grey ones contain the T-axes (black squares).
+Arrows on the map show the calculated mean P-axes in grey and T-axes in          FIG. 6. – Picture showing E-trending sub-vertical fault planes (indicated by
+white (cf. table I).                                                             black arrows) affecting the south-dipping Barremian limestones in the wes-
+FIG. 5. – Carte structurale du chaînon de La Nerthe et résultats de l’ana-       tern part of the La Nerthe range (site 5 in table I). The fault planes display
+lyse des plans striés à l’aide de la méthode des dièdres droits [Marrett and     right-lateral sub-horizontal striae.
+Allmendinger, 1991]. Pour chaque diagramme (projection stéréographique,          FIG. 6. – Illustration montrant des plans faillés sub-verticaux (indiqués par
+hémisphère inférieur) les quadrants blancs contiennent les axes P (points        des flèches) orientés E-W et affectant les calcaires barrémiens à pendage
+blancs) et les quadrants noirs contiennent les axes T (carrés noirs). Les flè-   sud dans la partie occidentale du chaînon de La Nerthe (site 5 dans le ta-
+ches sur la carte montrent les directions moyennes des axes P en gris et T       bleau I). Les stries sub-horizontales sur le plan de faille indiquent un mou-
+en blanc (cf. tabl. I).                                                          vement dextre.
+
+                                                                                                                             Bull. Soc. géol. Fr., 2010, no 6
+554                                                               ANDREANI L. et al.
+
+
+
+The northern Provence unit                                                     detail [e.g., Collot, 1892; Lutaud 1935; Corroy et al., 1964;
+                                                                               Touraine, 1964; Rousset, 1973; Ruiz-Barragan, 1978;
+The northern Provence unit (fig. 8) lies along the northern
+                                                                               Chorowicz and Ruiz, 1984; Biberon, 1988; Chorowicz et
+margin of the late Cretaceous-Eocene Arc basin. To the
+                                                                               al., 1989]. As the La Nerthe range, the northern Provence
+north the structure is bounded by the late Cretaceous-
+                                                                               unit displays a complex structure with superposition of late
+Eocene continental deposits of the Rians basin. It is consti-
+                                                                               Cretaceous-Eocene major folding and thrusting and
+tuted by the south-verging Sainte-Victoire range and by the
+                                                                               Oligocene normal faulting.
+north-verging La Guardiole and Grand Sambuc thrusts. The
+overall trend of the La Guardiole-Grand Sambuc thrust                               The Sainte-Victoire range is commonly interpreted as
+changes from ENE-WSW to the west to E-W to the east                            being due to the thrust development of a former fold.
+while the Sainte-Victoire range is mainly oriented E-W.                        Lutaud [1935] proposed the initiation of an anticline ridge
+From a structural point of view the northern Provence unit                     during the Maastrichtian-Montian. Preserved Upper Creta-
+(and overall the Sainte-Victoire range) has been studied in                    ceous-Paleocene conglomerate successions (representing
+                                                                               ancient transverse alluvial fans draining into the Arc basin)
+                                                                               that uncomformably cover the late Jurassic series were rec-
+                                                                               ognized along the southern flank of the Sainte-Victoire
+                                                                               range (‘Brèche du Tholonet’, [e.g., Durand and Tempier,
+                                                                               1962; Chorowicz and Ruiz, 1979; Leleu et al., 2005]). This
+                                                                               event was followed by a major shortening event overprint-
+                                                                               ing the former structure during the Late Eocene (Bartonian
+                                                                               event). The structure was finally compartimented by
+                                                                               NNE-SSW and ENE-WSW late Oligocene normal faults
+                                                                               [e.g., Chorowicz and Ruiz, 1984]. However a controversy
+                                                                               still exists concerning the post-Oligocene motions along the
+                                                                               Sainte-Victoire range [e.g., Ricour et al., 2005].
+                                                                                    Surface studies show that the overall structure of the
+                                                                               northern Provence unit corresponds to an anticline ridge
+                                                                               that affects the Mesozoic to late Eocene series. The late Ju-
+                                                                               rassic marine deposits and the uncomformably deposited
+                                                                               late Cretaceous to Eocene continental deposits that form the
+                                                                               southern flank of the anticline (the Sainte-Victoire range)
+                                                                               are gently S-dipping to the E and became progessivelly
+                                                                               strongly reclined and sheared along a major frontal thrust to
+                                                                               the W. Here the anticline axis is complicated by a
+                                                                               south-verging thrust that affects the Lower Jurassic series.
+                                                                               The northern flank of the northern Provence unit corre-
+                                                                               sponds to the north-verging La Guardiole and Grand
+                                                                               Sambuc thrusts. These latter ones recline the Late Creta-
+                                                                               ceous to Eocene continental deposits that form the Rians
+                                                                               basin.
+                                                                                    In spite of many works the deep large-scale structure of
+                                                                               the northern Provence unit is still a matter of debate.
+                                                                               Tempier [1987] interpreted it to correspond essentially to an
+                                                                               anticline that formed over a ramp during a north-verging
+                                                                               thrusting within the sedimentary cover sequence; south-
+                                                                               verging thrusts were related to subordinate backthrusting
+                                                                               [Tempier, 1987; Biberon, 1988]. Other authors proposed a
+FIG. 7. – Data-set used in order to assess the average Eocene shortening
+and Oligocene extension along the La Nerthe range. We assumed that the         pop-up model with inversion along inherited faults of either
+right-lateral strike-slip faulting along the N080o to N110o-trending faults    Jurassic [Chorowicz et al., 1989] or basement/Permian age
+of the occidental part of La Nerthe range were coeval with the main            [Roure and Coletta, 1996] to explain the overall structure of
+NW-verging thrusting event of the eastern area. Lower hemisphere, equal        the Sainte-Victoire range. More recently Leleu et al. [2008]
+area stereograms of microtectonic data are shown on the left. Individual
+P-axes (white dots) and T-axes (black squares) obtained with the right dihe-   proposed a compartmented geometry for the structure with,
+dral method are plotted on the right. Linked Bingham axes (P, T and I) and     from West to East, an increasing wavelength and an inver-
+Kamb contours of the axes are also plotted. The average Eocene shortening      sion of the vergence from South to North. According to
+direction obtained from this analysis is N144o while the Oligocene exten-
+sion is N342o.                                                                 Leleu et al. [2008] the overall Sainte-Victoire source/basin
+FIG. 7. – Données utilisées afin d’estimer les directions du raccourcisse-     margin system originated as a result of reactivation of a
+ment éocène et de l’extension oligocène pour l’ensemble du chaînon de la       rift-related relay zone between the two Aix and Durance
+Nerthe. Nous avons supposé que les décrochements dextres N080o à N110o
+dans la partie occidentale du chaînon de La Nerthe sont synchrones avec le
+                                                                               basement faults.
+chevauchement à vergence NW de la partie orientale. Les plans striés sont
+reportés à gauche (projection stéréographique, hémisphère inférieur). Les      Late Cretaceous to Eocene state of stress
+axes P (ronds blancs) et T (carrés noirs) obtenus pour chaque plan par la
+méthode des dièdres droits sont reportés à droite. Les axes principaux (P, T   The paleostress evolution along the Sainte-Victoire area
+et I) et les contours de Kamb sont également représentés. Les directions
+moyennes obtenues sont N144o pour le raccourcissement éocène et N342o          was studied in detail by Lacombe et al. [1992]. From
+pour l’extension oligocène.                                                    fault-slip and calcite twin analysis combined with
+
+Bull. Soc. géol. Fr., 2010, no 6
+                             NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                               555
+
+
+macroscale observations they identified three major                           collected south of the Rians town, where the late Creta-
+paleostress systems: (1) Late Cretaceous to Eocene N-S                        ceous to Eocene continental deposits of the Rians basin are
+compression, (2) Oligocene E-W extension and (3) Mio-                         thrusted by the Upper Jurassic marine series. Close to the
+cene NW-SE to ENE-WSW compression. However these                              main contact Upper Jurassic rocks were mainly affected by
+data cover only the southern flank of the Sainte-Victoire                     ~N045 o reverse faults while 200 m to the south the same
+range and the northern part of the Arc basin. They cannot                     rocks were affected by N070o to N100o right-lateral and by
+constrain the state of stress along the ENE-WSW late                          N160o to N200o left-lateral strike-slip faults. These fault
+Oligocene normal faults described by Chorowicz and Ruiz                       slip data are characterized by subhorizontal N290 o to
+[1984] and the NE-SW La Guardiole and Grand Sambuc                            N340o-trending P-axes. Finally data were collected along
+thrusts.                                                                      the Grand Sambuc thrust, close to the contact between the
+                                                                              Upper Jurassic series and the thrusted Lower Cretaceous se-
+    In order to further constrain the tectonic regime and the                 ries. In this site the Upper Jurassic is affected by N085o to
+associated state of stress of the faults along the north-verg-                N140o fault planes with oblique striae reflecting a
+ing La Guardiole and Grand Sambuc thrusts, we have per-                       transpressive right-lateral motion. These fault slip data are
+formed a fault kinematic study at four sites (fig. 8). We                     characterized by subhorizontal N320 o to N000o-trending
+applied the kinematic graphical reconstruction of Marrett                     P-axes. In order to assess the average directions of the
+and Allmendinger [1991] to obtain the P- and T-axes (the                      Eocene shortening associated to the La Guardiole and
+principal incremental shortening axis P and the principal in-                 Grand Sambuc thrusts we also calculated the tensor axes for
+cremental extensional axis T). Structural data were col-                      a combined fault slip data set, with the assumption that all
+lected north to the Vauvenargues town. Here N080 o to                         the data sets were coeval. This assertion is mainly based on
+N110o small reverse faults are associated to a N-verging                      the fact that for all the data sets presented above the P-axes
+kink fold that affects the Late Jurassic and corresponds to                   are oriented between NW-SE and N-S. These data seems
+the western termination of the La Gardiole thrust. These                      then to reflect the same shortening event. The mean tensor
+fault slip data are characterized by subhorizontal N160 o-                    axes, calculated by using Bingham analysis, show that the
+trending P-axes and subvertical T-axes. Other data were                       average shortening direction along the NE-trending La
+
+
+
+
+FIG. 8. – A. – Geological and structural map of the northern Provence Unit including the Sainte-Victoire, La Gardiole and Grand Sambuc thrusts. Arrows
+show the shortening directions from Lacombe et al. [1992] (grey ones) and this study (white ones). B. – Lower hemisphere, equal area stereograms of mi-
+crotectonic data using the kinematic graphical reconstruction of Marrett and Allmendinger [1991]. The white quadrants contain the P-axes (red dots) while
+the blue ones contain the T-axes (blue squares).
+FIG. 8. – A. – Carte géologique et structurale de l’unité Nord-provençale incluant les chevauchements de la Sainte-Victoire, la Gardiole et le Grand Sam-
+buc. Les flèches montrent les directions de raccourcissement tirées de Lacombe et al. [1992] en gris et de cette étude en blanc. B. – Analyse des plans
+striés à l’aide de la méthode des dièdres droits Marrett and Allmendinger [1991]. Pour chaque diagramme (projection stéréographique, hémisphère infé-
+rieur) les quadrants blancs contiennent les axes P (points rouges) et les quadrants bleus contiennent les axes T (carrés bleus).
+
+                                                                                                                        Bull. Soc. géol. Fr., 2010, no 6
+556                                                               ANDREANI L. et al.
+
+
+
+Guardiole-Grand Sambuc thrust was ~N145o (fig. 9). This                         N-S. Fault-slip data from Lacombe et al. [1992] indicate a
+direction must be used carefully because it is only based on                    N-S compression during the Late Cretaceous-Eocene along
+four sites but is seems to be different with the one obtained                   the Sainte-Victoire range and the Arc basin. Other data
+by Lacombe et al. [1992] and could be mainly explained by                       from Bergerat [1987], show that this shortening direction
+differences of orientations between the E-W south-verging                       was the same in the whole European platform during this
+Sainte-Victoire range and the ENE-WSW north-verging La                          same period. However we present here structural data that
+Guardiole-Grand Sambuc thrust.                                                  suggest a N145 o to N155o shortening along the La Nerthe
+                                                                                range. The age of this shortening event is constrained by the
+                                                                                fact that faulting and folding affect the Late Creta-
+DISCUSSION: STATE OF STRESS AND                                                 ceous-Paleocene continental deposits along the northern
+SIGNIFICANCE OF THE SOUTHERN PROVENCE                                           flank of the La Nerthe range and are sealed by the Miocene
+THRUST BELT IN THE EOCENE AFRICA-EURASIA                                        marine deposits. Moreover some striated fault planes dis-
+CONVERGENCE                                                                     play both horizontal and normal striae suggesting that they
+                                                                                were reactivated during the Oligocene extensional event.
+Eocene shortening directions of the southern Provence                           We thus assume that this N145 o to N155o shortening is
+thrust belt                                                                     Eocene in age. Other data collected along the La
+The Late Cretaceous-Eocene tectonic structure of Provence                       Guardiole-Grand Sambuc thrust also indicate a ~N145o
+has classically been described as a N-vergent fold-and-                         shortening direction. However these data must be used care-
+thrust belt that consists of a succession of wide                               fully and their age is less well constrained. It is also inter-
+E-W-trending synclinal troughs bounded by narrower and                          esting to notice that some of the southern Provence thrusts
+strongly deformed anticlinal ranges [e.g., Lutaud, 1935;                        (like the Sainte-Baume range, the Aurelien range and the
+Lutaud, 1957; Aubouin and Chorowicz, 1967; Guieu,                               Istres thrust) do not have an E-W orientation but an
+1968]. These structures have been commonly referred to the                      ENE-WSW to NE-SW orientation, which is most compati-
+“Pyreneo-Provencal” phase, including all the Late Creta-                        ble with a N145 o to N155o shortening.
+ceous-middle Eocene (pre-Nummulitic) deformation events.                             We question here the shortening directions along the
+At this time southern Provence was located in the back arc                      southern Provence thrust belt. Structural data suggest both
+domain of the future Apennine subduction before the rifting                     N-S and NNW-SSE shortening directions during the
+of the Liguro-Provençal Basin [Lacombe and Jolivet, 2005].                      Eocene. Are these two directions the result of a polyphasic
+This domain corresponded to a complete double-verging                           deformation or the result of some kind of slip partitioning
+mountain belt with internal zones (including the Alpine                         along major structures inherited from the late Variscan and
+Corsica and the Calabro-Peloritan arc) and external zones                       Triassic tectonics?
+(the present day Provence and Catalan margin).                                       Along the whole Iberian microplate previous structural
+    The Eocene shortening directions along the southern                         works show both NW-SE and N-S shortening directions
+Provence fold-and-thrust belt are commonly assumed to be                        [e.g., Guimerà, 1984; Lepvrier and Mougenot, 1984]. These
+
+
+
+
+FIG. 9. – Data-set used in order to assess the average Eocene shortening along the La Gardiole and Grand Sambuc ranges. We assumed that the data were
+coeval. Lower hemisphere, equal area stereograms of microtectonic data is shown on the left. Individual P-axes (white dots) and T-axes (black squares) ob-
+tained with the right dihedral method are plotted on the right. Linked Bingham axes (P, T and I) and Kamb contours of the axes are also plotted. The ave-
+rage shortening direction obtained from this analysis is N145o.
+FIG. 9. – Données utilisées afin d’estimer la direction du raccourcissement éocène pour La Gardiole et le Grand Sambuc. Nous avons supposé que les don-
+nées sont synchrones. Les plans striés sont reportés à gauche (projection stéréographique, hémisphère inférieur). Les axes P (ronds blancs) et T (carrés
+noirs) obtenus pour chaque plans par la méthode des dièdres droits sont reportés à droite. Les axes principaux (P, T et I) et les contours de Kamb sont éga-
+lement représentés. La direction moyenne obtenue pour le raccourcissement est N145 o.
+
+Bull. Soc. géol. Fr., 2010, no 6
+                        NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                              557
+
+
+directions were interpreted as resulting from two shortening     Oligocene times took place the emplacement of a major
+events. The first one (NW-SE) occurred during the Early          northwest-directed, thick-skinned, thrust sheet. This
+and Mid-Eocene and was followed during the late Eocene           contractional structure was inverted and compartmentalized
+by a N-S shortening. In contrast structural data along the       during the latest Oligocene Aquitanian in a system of
+European platform [see Bergerat, 1987 for a complete re-         NE-SW oriented horsts and grabens.
+view] are homogeneous and result from a single Late                  During the late Eocene the shortening directions along
+Eocene N-S shortening event. During the Eocene the Pro-          the Pyrenees and the Catalan margin were mainly oriented
+vence area was in the foreland of a complex orogenic belt        SSE-NNW to SE-NW. These directions are very close to the
+that extended from the Betic Cordillera to the Corsica-Sar-      ones observed along the southern Provence area (N145o to
+dinia block (fig. 10). This orogenic belt developed along the    N155o). However the transition between the contractional
+subduction linked to the convergence between Africa and          and extensional episodes occurred later along the Catalan
+Eurasia. Although the convergence vector was nearly N-S          margin (late Oligocene) than in the southern Provence area
+[Rosenbaum et al., 2002] the NE-SW orientation of the            (early Oligocene). This may be the result, as suggested by
+trench may have led to a complex deformation pattern along       Roca et al. [1999], of a southwestward migration of the
+the orogenic belt with NW-SE and N-S shortening direc-           extension.
+tions that reflect both the along-trench compression and the
+regional convergence. In southern Provence this setting
+                                                                 Alpine Corsica
+would have resulted in a regional N-S shortening reflecting
+the convergence vector. NW-SE shortening would be ob-            The main part of the Corsica Island is made of Paleozoic to
+served in highly deformed areas located along major struc-       Permo-Triassic granitoids correlated with the continental
+tures inherited from the late Variscan and Triassic tectonics    basement of western Europe while the northeastern part of
+and could be the result of some kind of slip partitioning.       the island is occupied by the “Schistes Lustrés” nappe
+                                                                 thrusting the continental basement of western Corsica
+                                                                 [Durand Delga, 1984]. As shown by Mattauer et al. [1981]
+Comparison with the Eocene shortening directions of              the contact between the Variscan and Alpine parts of the is-
+other deformed areas                                             land is a southern extension of the Penninic front of the
+                                                                 Alps. However, in Corsica the shortening stopped in the
+                                                                 Oligocene and followed by the extensional tectonics linked
+Iberian microplate
+                                                                 to the Liguro-Provençal basin opening [Jolivet et al., 1990,
+By combining the identification of seafloor spreading            1991]. The tectonic evolution of Alpine Corsica was thus
+anomalies A33o to M0 (80 to 118 Ma) in the Bay of Biscay         disconnected from the main Alpine belt when back arc ex-
+with those in the North Atlantic, Sibuet et al. [2004] have      tension related to northward subduction of the remaining
+derived a position of a mean pole of rotation for the entire     part of Alpine Tethys under the Iberian plate started in
+opening of the Bay of Biscay and gave new kinematics con-        the late Oligocene in response to the Africa-Eurasia
+straints on the motion of the Iberian microplate with respect    convergence.
+to the Eurasian plate. According to the model of Sibuet et            Radiometric ages for the peak of pressure in the
+al. [2004], late Santonian (85 Ma) might correspond to           “Schistes Lustrés” vary from 80 Ma in the highest pressure
+some kinematic change as suggested by the directions of          eclogites to 45 Ma in the blueschists [Lahondére and
+magnetic lineations (between M0 and A34) in the Bay of           Guerrot, 1997]. Younger ages around 35 Ma are also re-
+Biscay. Since 85 Ma, after the total closure of the              ported in the Tenda massif where Eocene sediments display
+neo-Tethys ocean, compression inverted previous Pyrenean         HP/LT metamorphic imprint [Bézert and Caby, 1988; Bru-
+back arc basins. The opening of the Bay of Biscay ended at       net et al., 2000]. All other ages are related to the late
+80 Ma. Though compression in the Pyrenees seems to con-          Oligocene exhumation during the formation of the
+tinue along the same lines, there is a major change in the ki-   Liguro-Provençal and northern Tyrrhenian basins between
+nematics of Iberia at this date with a shift of the IB/EU pole   25 and 33 Ma [Brunet et al., 2000].
+of rotation from the SE corner of the Bay of Biscay to west           According to Lacombe and Jolivet [2005] the late
+of Portugal and a change in stress direction from SW-NE to       Eocene tectonic history of northeastern Corsica was con-
+SSE-NNW in the Pyrenees. The maximum uplift was ob-              trolled by the southward subduction of Europe under
+served during the middle Eocene–middle Oligocene [e.g.,          Apulia. At the same time the southern Provence area was in
+Fitzgerald et al., 1999; Mattauer, 1968; Roure and               the foreland of Alpine Corsica before the rifting of the
+Choukroune, 1998]. In the Iberian and Catalan ranges, com-       Liguro-Provençal basin. During the Eocene the evolution of
+pression occurred later from the middle Eocene to the late       Corsica resulted from a NW shortening marked by NW
+Miocene [Muñoz and Casas, 1997].                                 trending lineations associated to the NW directed emplace-
+     The Catalan margin (fig. 10) belongs to the northern        ment of Alpine Corsica ophiolitic and “Schistes Lustrés”
+sector of the margin that separates the extremely thinned        nappes.
+continental crust of the Valencia trough from the
+undeformed or thickened crust of the Iberian microplate. Its     Calabro-Peloritan arc
+evolution is very similar to the one of the southern Provence
+area, although the timing of the deformation is not exactly      The Calabro-Peloritan arc [e.g., Amodio-Morelli et al.,
+the same. The integration of the available onshore and off-      1976; Van Dijk et al., 2000; Bonardi et al., 2001] located
+shore data [e.g., Roca et al., 1999] shows that the present      astride the southern end of continental Italy and northeast-
+structure of the central Catalan margin is the result of two     ern Sicily corresponds to a segment of the former south-Eu-
+successive evolutionary episodes. During Eocene-middle           ropean active margin (fig. 10). This area, together with the
+
+                                                                                                   Bull. Soc. géol. Fr., 2010, no 6
+558                                                  ANDREANI L. et al.
+
+
+
+Kabylian and Betico-Rifan massifs, was involved succes-             As pointed out by Lacombe and Jolivet [2005] a signifi-
+sively in shortening tectonics, associated to the subduction    cant left-lateral obliquity of the convergence has to be taken
+of the Tethyan oceanic lithosphere, and in extensional tec-     into account. Considering the nearly N-S orientation of the
+tonics during the opening of the western Mediterranean bas-     convergence vector of Africa relative to stable Eurasia in
+ins. The Calabro-Peloritan arc is a nappes-pile made of         the Eocene (35 Ma) recalculated from recent reconstruc-
+Alpine oceanic-derived units tectonically overlain by           tions [Rosenbaum et al., 2002], the along-strike change in
+Hercynian metamorphism. The Calabro-Peloritan arc edi-          trench orientation leads to a northeastward increase in
+fice was then transported onto the Apennine chain during        obliquity of convergence from the Betics to the Alps, which
+the opening of the Tyrrhenian basin [e.g. Lonergan and          superimposed onto the Iberia-Corsica-Sardinia collision
+White, 1997; Gelabert et al., 2002; Rosenbaum and Lister,       and onto the coeval Alpine obduction in eastern Corsica.
+2004; Michard, 2006].                                           Taking into account the along-the-trench obliquity,
+     Based on thermobarometric estimates of the successive      Lacombe and Jolivet [2005] proposed a model in which the
+metamorphic phases and their dating by 40Ar/39Ar geo-           kinematics of the upper plate have probably been domi-
+chronology, Rossetti et al. [2004] and Heymes et al. [2008]     nated by collisional strain partitioning and/or transpression.
+[see also Heymes, 2008] show a two-steps evolution. The         However in their model Lacombe and Jolivet [2005] as-
+first step corresponds to a stacking phase and the second       sumed a mainly N-S shortening along the Iberia-Corsica-
+one to an extensional reworking of the entire structure.        Sardinia domain that favorized a transpressive stress regime
+Metamorphic and geochronological data suggest that the
+piling was initiated in the middle Eocene (~45 Ma), while
+extension started probably in the lower Oligocene (~33 Ma)
+and lasted until the middle Oligocene (27 Ma) without
+change in orientation. This second deformation phase leads
+to the progressive exhumation of the deepest units, partly
+controlled by a strong tectonic denudation. The kinematical
+directions of this reconstituted structural evolution, re-
+placed in their initial position and orientation (i.e. before
+the opening of the Ligurian basin) imply an approximate
+NW-SE shortening direction, the vergence of the nappe
+being to the southeast.
+
+Eocene kinematics of the Iberian-Provence-Corsica-
+Sardinia domain
+Recently Lacombe and Jolivet [2005] analyzed the Eocene
+geometry of the Provence area on the basis of the observa-
+tion that the southern Provence area was in the foreland of
+Alpine Corsica before the rifting of the Liguro-Provençal
+basin (fig. 10). In their model Corsica and Provence re-
+corded a progressive shortening between 60 and 30 Ma ow-
+ing to Africa-Eurasia convergence at the junction of the
+Pyrenean and the Alpine thrust belts. The continental crust
+was shortened in the back arc domain of the future
+Apennine subduction with backthrusts verging toward Eu-
+rope and western Corsica being overthrust onto the Pro-
+vence foreland. Corsica, the future Apennines, and
+Provence together thus make a complete double-verging
+mountain belt with internal zones in Alpine Corsica and
+northern foreland in Provence in the Eocene.
+    Structural data presented here strongly suggest a
+N140o-N150o shortening along the southern Provence area.        FIG. 10. – Schematic diagram showing the particular setting of the southern
+These shortening directions are very similar to the ones ob-    Provence belt at the front of the Apennine subduction and the Alpine fronts
+                                                                in late Eocene times. The convergence (green vector) was oblique to the
+served along the Catalan margin [e.g., Roca et al., 1999],      trench and may have been partitioned between a normal component to the
+also located in the foreland of the Corsica-Sardinia domain,    trench (violet vector), which may be responsible for the NW compression
+and in the Calabro-Peloritan arc [Heymes et al., 2008] that     observed in the La Nerthe Range, and a strike-slip component (red vector)
+                                                                accommodated along the Variscan reactivated faults. Numbers 1 to 4 refer
+was part of the former south-European active margin. It         to the areas discussed in the text : 1 – Calabro-Peloritan arc, 2 – Alpine
+seems thus that the whole orogenic belt that extended dur-      Corsica, 3 – Southern Provence belt, 4 – Catalan Ranges.
+ing the Eocene from the Catalan area to the Provence            FIG. 10. – Schéma illustrant la position de la chaîne provençale au front de
+                                                                la subduction apennine durant l’Eocène supérieur. La convergence (vec-
+Corsica domain was submitted to a main NW shortening.           teur vert) était oblique à la fosse et peut avoir été partitionné entre une
+According to the Eocene reconstructions [Stampfli et al.,       composante normale à la fosse (vecteur violet), responsable de la compres-
+1998; Schettino and Scotese, 2002; Stampfli et al., 2002;       sion NW observée dans le chaînon de la Nerthe, et une composante décro-
+Lacombe and Jolivet, 2005] for the western Mediterranean        chante (vecteur rouge) accommodée sur d’anciennes structures varisques
+                                                                réactivées. Les nombres renvoient aux régions discutées dans le texte :
+domain this orogenic belt was parallel to the trench and thus   1 – arc calabro-peloritain, 2 – Corse Alpine, 3 – chaînons provençaux,
+the shortening directions were perpendicular.                   4 – chaînons catalans.
+
+Bull. Soc. géol. Fr., 2010, no 6
+                         NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                559
+
+
+in the upper plate. On the other hand, if we consider that the     Oligocene Durance fault were also reactivated as left-lateral
+whole orogenic belt that extended during the Eocene from           transfer faults [Guignard et al., 2005].
+the Catalan area to the Provence Corsica domain was sub-                The tectonic significance of the still active Provence
+mitted to a main NW shortening the kinematics of the upper         shortening is a matter of debate. The post-Oligocene com-
+plate have probably been dominated by a complete slip par-         pressive structures results from a thin-skinned tectonics as-
+titioning (fig. 10). The normal component to the trench was        sociated to a mainly Triassic decollement level (the
+accommodated by NW to NNW-verging thrusts and by E-W               so-called “Panneau Provençal”). The “Panneau Provençal”
+right-lateral flower structures mainly located in the internal     is limited to the west by the right-lateral Nîmes fault and to
+and foreland part of the mountain belt. The along-the-             the east by the left-lateral Durance fault (fig. 11). The
+trench component was mainly accommodated by NE-SW                  post-Oligocene shortening of Provence was generally as-
+left-lateral faults located in the front of the belt, like the     sumed to be a consequence of the convergence between the
+Cévennes and Nîmes faults. These faults were inherited             Africa and Eurasia plates, although the slip rates are very
+from the late Variscan tectonics [Arthaud and Matte, 1975]         low. The N-S shortening rate of the Provence area obtained
+and were reactivated as transpressional left-lateral strike-slip   by restoring the Miocene strata on a regional cross section
+faults during the Pyrenean shortening. These faults belong         of Provence is of the order of 0.1 mm/yr over the last 20 Ma
+to a regional pattern of strike-slip faults extending from         [Champion et al., 2000]. Similar values were obtained by
+the eastern Pyrenees to NE Provence [Mauffret and                  estimating slip rates along the Moyenne Durance river and
+Gennesseaux, 1989] and are associated with basins and              Nîmes faults (location on fig. 2) based on the offset of Neo-
+thrusts, which developed in releasing-restraining bends and        gene stratigraphic markers, Plio-Quaternary drainage net-
+relay zones.                                                       works or alluvial terraces [Peulvast et al., 1999; Baroux,
+                                                                   2000; Hippolyte and Dumont, 2000; Schlupp et al., 2001].
+                                                                   More recently Le Pichon [2010] proposed a new hypothe-
+STRUCTURAL RELATIONS WITH THE ALPINE                               sis, which relates the post-Oligocene shortening of
+THRUSTS LINKED TO THE BUILDING AND                                 Provence with the collapse of the western Alps.
+COLLAPSE OF THE ALPS                                                    The folds and thrusts of Provence are usually classified
+                                                                   in two groups: potentially active northern compressive E-W
+During the late Eocene the Pyrenees belt and the Alps were         structures linked to the Alpine orogeny and southern com-
+both active. The compilation of data presented above show          pressive E-W structures linked to the Cretaceous-Eocene
+that during the late Eocene the domain that extended be-           “Pyreneo-Provençal” fold-and-thrust belt [e.g., Terrier,
+tween the Catalan margin and the Alpine Corsica (including         1991]. These structures are also delimited by transfer faults
+the southern Provence fold-and-thrust belt) was submitted          inherited from the late Variscan tectonics [Arthaud and
+to a NW-SE shortening linked to the subduction along               Matte, 1975], like the Nîmes and Aix-Durance faults. The
+the Corsica-Sardinia block (the so-called “Apennine                limit between the “Alpine” and “Pyreneo-Provençal” com-
+subduction”). During the late Eocene the Provence area was         pressive structures corresponds to the late Creta-
+in the foreland of both the “Apennine subduction” and the          ceous-Eocene Arc basin west of the Aix-Durance fault and
+Alpine belt (fig. 10). The Alpine belt results from the            to the Rians basin east of the same Aix-Durance fault. It is
+subduction of the Tethyan and Valaisan ocean seafloors and         interesting to notice that the two domains do not override (if
+the subsequent collision between the European and Apulian          we except the recent controversies on the post-Oligocene
+margin since the upper Cretaceous [e.g., Tricart, 1984;            tectonic evolution of the Sainte-Victoire range [Ricour et
+Lemoine et al., 1986; Schmid and Kissling, 2000]. From             al., 2005]). Moreover the late Cretaceous-Eocene structures
+the Oligocene the tectonic evolutions of these two domains         were mainly developed on the southern limit of the south-
+were disconnected. While the first one evolved in back arc         eastern France basin that marks an increasing thickness of
+extension related to northward subduction of the remaining         the Mesozoic sediments to the north. The La Nerthe and the
+part of Alpine Tethys the second one evolved in an orogenic        Sainte-Victoire ranges both correspond to a basement high
+belt that then collapsed [e.g., Sue et al., 1999; Sue and          and probably have acted as a buttress for the south-verging
+Tricart, 2003; Delacou et al., 2005]. We question here the         post-Oligocene structures (fig. 11).
+structural relations between the southern Provence
+fold-and-thrust belt (linked to the “Apennine subduction”)
+and the other structures linked to the Alpine belt during and      CONCLUSION
+after the Eocene.
+                                                                   The Late Cretaceous-Eocene tectonic structure of Provence
+    During the Miocene the tectonics of Provence is marked         has classically been described as a N-vergent fold-and-
+by the westward motion of the Alpine arc over its foreland         thrust belt that consists of a succession of wide E-W-
+basins and by the evolution of the foreland Digne and              trending synclinal troughs bounded by narrower and
+Castellane nappes [Gidon and Pairis, 1986; Faucher et al.,         strongly deformed anticlinal ranges. The Late Cretaceous-
+1988; Chabert-Pelline, 1996; Laurent et al., 2000]. It is          Eocene shortening directions along the southern Provence
+generally assumed that in Provence the post-Oligocene              fold-and-thrust belt are commonly assumed to be N-S.
+shortening was oriented N000o to N020o [Combes, 1984;              However we present here structural data that suggest a
+Ritz, 1991; Baroux, 2000; Guignard et al., 2005] and was           N145 o to N155o shortening along the La Nerthe range. The
+localized on south-verging thrusts like the Luberon,               western part of the range can be interpreted as a right-lat-
+Alpilles, Trévaresse, and Costes ranges (location on fig. 2        eral transpressive flower structure while the eastern part
+and 11) [e.g., Clauzon, 1996; Champion et al., 2000;               consists in a NW-vergent thrust. The age of this shortening
+Chardon and Bellier, 2003]. Structures like the normal             event is constrained by the fact that faulting and folding
+
+                                                                                                      Bull. Soc. géol. Fr., 2010, no 6
+560                                                               ANDREANI L. et al.
+
+
+
+
+FIG. 11. – Map showing the relations between the potentially active northern compressive E-W structures linked to the Alpine orogeny and the southern
+compressive E-W structures linked to the Cretaceous-Eocene “Pyreneo-Provençal” fold-and-thrust belt. The limit between the two domains corresponds
+broadly to the southern limit of the Triassic-Early Jurassic southeastern France basin. The late Cretaceous-Eocene structures were mainly developed on a
+basement high that probably has acted as a buttress for the south-verging post-Oligocene structures.
+FIG. 11. – Carte montrant la relation entre les structures potentiellement actives liées à l’orogenèse alpine au nord et les structures d’âge Crétacé supé-
+rieur-Eocène issues de la phase Pyrénéo-Provençale au sud. La limite entre les deux domaines correspond à la limite sud du bassin du Sud-Est formé pen-
+dant le Trias et le Jurassique inférieur. Les structures d’âge Crétacé supérieur-Eocène se sont formées principalement sur un haut structural qui a par la
+suite agit comme un buttoir pour les structures post-oligocènes à vergence sud.
+
+
+
+
+affect the Late Cretaceous-Paleocene continental deposits                      deformation pattern along the orogenic belt with NW-SE
+along the northern flank of the La Nerthe range and are                        and N-S shortening directions that reflected both the
+sealed by the Miocene marine deposits. Moreover some stri-                     along-trench compression and the regional convergence.
+ated fault planes display both horizontal and vertical striae                       The late Cretaceous-Eocene Southern Provence fore-
+suggesting that they were reactivated during the Oligocene                     land fold-and-thrust belt was mainly developed on the
+extensional event. We thus assume that this N145o to N155o                     southern limit of the southeastern France basin that marks
+shortening is Eocene in age. Other data collected along the                    an increasing thickness of the Mesozoic sediments to the
+La Guardiole-Grand Sambuc thrust also indicate a ~N145 o                       north. The limit between the post-Oligocene (“Alpine”) and
+shortening direction. However these data must be used                          late Cretaceous-Eocene (“Pyreneo-Provençal”) compressive
+carefully and their age is less well constrained.                              structures corresponds broadly to the southern limit of the
+    The Eocene deformation along the southern Provence                         southeastern France basin. The late Cretaceous-Eocene
+fold-and-thrust belt is characterized by both N-S and                          structures were developed on a basement high that probably
+NW-SE shortenings. During the Eocene the Provence area                         has acted as a buttress for the south-verging post-Oligocene
+was in the foreland of a complex orogenic belt that ex-                        structures.
+tended from the Betic Cordillera to the Corsica-Sardinia
+block. This orogenic belt developed along the subduction
+                                                                               Acknowledgements. – The authors thank Jean-Claude Sibuet and Laurent
+linked to the convergence between Africa and Eurasia. Al-                      Jolivet for their constructive reviews of an earlier version of the manus-
+though the convergence vector was nearly N-S the NE-SW                         cript. The authors also thank Stéphane Molliex for his help in finding old
+orientation of the trench may have led to a complex                            but good papers.
+
+
+
+
+Bull. Soc. géol. Fr., 2010, no 6
+                              NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                                      561
+
+
+                                                                        References
+
+
+AMODIO-MORELLI L., BONARDI G., COLONNA V., DIETRICHT D., GIUNTA G.,              CHOROWICZ J., MEKARNIA A. & RUDANT J.-P. (1989). – Inversion tectonique
+          IPPOLITO F., LIGUORI V., LORENZONI S., PAGLIONICO A., PERRONE                     dans le massif de la montagne Sainte-Victoire (Provence,
+          V., PICCARRETTA G., RUSSO M., SCANDONE P., ZANETTIN-LOREN-                        France). Apport de l’imagerie Spot. – C. R. Acad. Sci., Paris,
+          ZONI E. & Z UPPETTA A. (1976). – L’Arco Calabro-Peloritano                        308, (II), 1179-1185.
+          nell’orogene Appenninico-Maghrebide. – Mem. Soc. Geol. It.,            CHOUKROUNE P. & MATTAUER M. (1978). – Tectonique des plaques et Pyré-
+          17, 1-60.                                                                         nées ; sur le fonctionnement de la faille transformante Nord-Py-
+ARTHAUD F. & MATTE P. (1975). – Les décrochements tardi-hercyniens du                       rénéenne ; comparaison avec les modèles actuels. – Bull. Soc.
+          Sud-Ouest de l’Europe. Géométrie et essai de reconstitution des                   géol. Fr., (7), XX, 689-700.
+          conditions de la déformation. – Tectonophysics, 25, 139-171.           CLAUZON G. (1996). – Limites de séquences et évolution géodynamique. –
+ARTHAUD F. & SÉGURET M. (1981). – Les structures pyrénéennes du Lan-                        Géomorphologie: relief, processus, environnement, 1, 3-22.
+          guedoc et du golfe du Lion (Sud de la France). – Bull. Soc. géol.      COLLOT L. (1892). – Plis couchés de la feuille d’Aix. – Bull. Soc. géol. Fr.,
+          Fr., (7), XXIII, 51-63.                                                           3, XIX, 1134-1152.
+AUBOUIN J. & CHOROWICZ J. (1967). – Le chevauchement sud-provençal: de           COMBES P. (1984). – La tectonique récente de la Provence occidentale: mi-
+          l’Étoile à la Sainte-Baume. – Bull. Soc. géol. Fr., (7), IX, 4,                   crotectonique, caractéristiques dynamiques et cinématiques. Mé-
+          600-609.                                                                          thodologie de zonation tectonique et relations avec la sismicité.
+                                                                                            – Thèse de Doctorat, Strasbourg, 182p.
+AUZENDE J.-M., BONNIN J. & OLIVET J.-L. (1973). – The origin of the wes-
+          tern Mediterranean basin. – J. Geol. Soc. London, 19, 2,               CORROY G., TEMPIER C. & DURAND J.-P. (1964). – Evolution tectonique de
+          607-620.                                                                          la montagne Sainte-Victoire en Provence. – Bull. Soc. géol. Fr.,
+                                                                                            (7), VI, 91-106.
+BABINOT J.-E & DURAND J.-P. (1984). – Crétacé supérieur fluvio-lacustre.
+                                                                                 DEBRAND-PASSARD S. & COURBOULEIX S. (1984). – Synthèse géologique du
+          In: J. PHILIP, Ed., Synthèse géologique du Sud-Est de la France,
+                                                                                            Sud-Est de la France. – Mém. BRGM, Orléans, 126, 615 p.
+          Crétacé supérieur. – Mém. BRGM, Orléans, 125, 362–367.
+                                                                                 DELACOU B., SUE C., CHAMPAGNAC J.-D. & BURKHARD M. (2005). – Origin
+BAROUX E. (2000). – Tectonique active en région à sismicité modérée: le                     of the current stress field in the western/central Alps: role of gra-
+          cas de la Provence (France). Apport d’une approche pluridisci-                    vitational re-equilibration constrained by numerical modelling.
+          plinaire. – Thèse de Doctorat, Université Paris XI, 327 p.                        In: D. GAPAIS, J.-P. BRUN & P.R. COBBOLD, Eds, Deformation
+BERGERAT F. (1987). – Paléo-champs de contrainte tertiaires dans la                         mechanisms, rheology and tectonics: from minerals to the lithos-
+          plate-forme européenne au front de l’orogène alpin. – Bull. Soc.                  phere. – Geol. Soc., London, Spec. Publ., 243, 295-310.
+          géol. Fr., (8), III, 611-620.                                          DENIZOT G. (1935). – Sur la tectonique de la Nerthe et de l’Etoile. – C. R.
+BERTRAND M. (1899). – La grande nappe de recouvrement de la Basse Pro-                      Acad. Sci., Paris, 200, 1961-1963.
+          vence. – Bull. Serv. Carte géol. Fr., 10, 68, 397-467.                 DENIZOT G. (1962). – Feuille de Martigues, et extensions au 50 000o. –
+BÉZERT P. & CABY R. (1988). – Sur l’âge post-bartonien des événements                       Bull. Serv. Carte géol. Fr., LIX, 269, 325-328.
+          tectono-métamorphiques alpins en bordure orientale de la Corse         DEPERET C. (1889). – Note stratigraphique sur le bassin tertiaire de Mar-
+          cristalline (Nord de Corte). – Bull. Soc. géol. Fr., (8), VI,                     seille. – Bull. Serv. Cart. géol. Fr., I, 5, 1-19.
+          965-971.                                                               DÈZES P., SCHMID S.M. & ZIEGLER P.A. (2004). – Evolution of the Cenozoic
+BIBERON B. (1988). – Mécanismes et évolution de chevauchements à ver-                       rift system: interaction of the Alpine and Pyrenean orogens with
+          gences opposées. Exemple de la Montagne Sainte-Victoire. –                        their foreland lithosphere. – Tectonophysics, 389, 1-33.
+          PhD thesis, Université Joseph Fourier, Grenoble.                       DURAND J.-P. & GUIEU G. (1983). – Cadre structural du bassin de l’Arc. In:
+BONARDI G., CAVAZZA W., PERRONE V. & ROSSI S. (2001). – Calabrian-Pe-                       J. ARCAMONE et al., Eds, Le gisement de charbon du bassin de
+          loritani Terrane and northern Ionian Sea. In: G.B. VAI, J.-P.                     l’Arc (Provence occidentale). – Mém. BRGM, Orléans, 122, 3-12.
+          MARTINI, Eds., Anatomy of an orogen: The Apennines and adja-           DURAND J.-P. & TEMPIER C. (1962). – Etude tectonique de la région des
+          cent Mediterranean basins. – Kluwer Acad., Norwell, Mass.,                        brèches du massif de Sainte-Victoire dans la région du Tholonet
+          287-306.                                                                          (Bouches du Rhône). – Bull. Soc. géol. Fr., (7), IV, 1, 97-101.
+BRUNET C., MONIÉ P., JOLIVET L. & CADET J.-P. (2000). – Migration of             DURAND DELGA M. (1984). – Principaux traits de la Corse alpine et corréla-
+          compression and extension in the Tyrrhenian Sea, insights from                    tion avec les Alpes ligures. – Mem. Soc. Geol. It., 28, 285-329.
+          40 Ar/ 39 Ar ages on micas along a transect from Corsica to Tusca-     FAUCHER T., GIDON M., PAIRIS J.-L. & MASCLE G. (1988). – Directions de
+          ny. – Tectonophysics, 321, 127-155.                                               transport au front de la nappe de Digne (Chaînes subalpines mé-
+                                                                                            ridionales). – C. R. Acad. Sci., Paris, 306, 227-230.
+CATZIGRAS F. (1953). – Le bassin d’effondrement de Saint-Julien et
+          Saint-Pierre-les-Martigues dans la chaîne de la Nerthe. – Trav.        FITZGERALD P.G., MUÑOZ J.A., CONEY P.J. & BALDWIN S.L. (1999). –
+          Lab. Géol. Fac. Sc. Marseille, IV, 43-59.                                         Asymmetric exhumation across the Central Pyrenees: Implica-
+                                                                                            tions for the tectonic evolution of a collisional orogen. – Earth
+CHABERT-PELLINE C. (1996). – Géométrie et cinématique de la branche oc-                     Planet. Sci. Lett., 173, 157-170.
+          cidentale de l’arc de Castellane (Chaînes subalpines de
+                                                                                 FORD M., LICKORISH W.H. & KUSZNIR N.J. (1999). – Tertiary foreland sedi-
+          Haute-Provence, France). – Thèse de Doctorat, université de
+                                                                                            mentation in the southern Subalpine chains, SE France: a geody-
+          Nice-Sophia Antipolis.
+                                                                                            namic analysis. – Basin Res., 11, 315-336.
+CHAMOT-ROOKE N., GAULIER J.M. & JESTIN F. (1999). – Constraints on               FORD M., DUCHÊNE S., GASQUET D. & VANDERHAEGHE O. (2006). –
+          Moho depth and crustal thickness in the Liguro-Provençal basin                    Two-phase orogenic convergence in the external and internal
+          from a 3D gravity inversion: Geodynamic implications. In:                         SW Alps. – J. Geol. Soc. London, 163, 815-826.
+          B. DURAND, L. JOLIVET, F. HORVÁTH & M. SÉRANNE, Eds., The
+                                                                                 FOURNIER E. (1900). – Etude synthétique sur les zones plissées de
+          Mediterranean basins: Tertiary extension within the Alpine orogen.
+                                                                                            Basse-Provence. – Bull. Soc. géol. Fr., (3), XXVIII, 927-985.
+          – Geol. Soc. Spec. Publ., 156, 37-62.
+                                                                                 FROGET C., GUIEU G. & ROUX M. (1966). – Etude tectonique de la région
+CHAMPION C., CHOUKROUNE P. & CLAUZON G. (2000). – La déformation                            sud de la Nerthe. – Bull. Soc. géol. Fr., (7), VIII, 734-748.
+          post-Miocène en Provence occidentale. – Geodin. Acta, 13, 67-95.
+                                                                                 GATTACCECA J. (2001). – Cinématique du bassin Liguro-Provençal entre 30
+CHARDON D. & BELLIER O. (2003). – Geological boundary conditions of                         et 12 Ma. Implications géodynamiques. – Thèse de doctorat,
+          the 1909 Lambesc (Provence, France) earthquake: Structure and                     Ecole des Mines de Paris, Paris, 293 p.
+          evolution of the Trévaresse ridge anticline. – Bull. Soc. géol. Fr.,   GATTACCECA J., DEINO A., RIZZO R., JONES D.S., HENRY B., BEAUDOIN B. &
+          174, 497-510.                                                                     VADEBOIN F. (2007). – Miocene rotation of Sardinia: New paleo-
+CHOROWICZ J. & RUIZ R. (1979). – Observations nouvelles sur la structure                    magnetic and geochronological constraints and geodynamic im-
+          des “brèches” de Sainte-Victoire (Provence). – C. R. Acad. Sci.,                  plications. – Earth Planet. Sci. Lett., 258, 359-377.
+          Paris, 288, 207-210.                                                   GELABERT B., SÀBAT F. & RODRIGUEZ-PEREA A. (2002). – A new proposal
+CHOROWICZ J. & RUIZ R. (1984). – La Sainte-Victoire (Provence): observa-                    for the Late Cenozoic geodynamic evolution of the western Me-
+          tions et interprétations nouvelles. – Géol. France, 4, 41-55.                     diterranean. – Terra Nova, 14, 93-100.
+
+                                                                                                                              Bull. Soc. géol. Fr., 2010, no 6
+562                                                                 ANDREANI L. et al.
+
+
+GIDON M. & PAIRIS J.-L. (1986). – La nappe de Digne (Chaînes subalpines          LAHONDÉRE D. & GUERROT C. (1997). – Datation Sm-Nd du métamor-
+          méridionales): origine, déplacement et signification régionale. –                phisme éclogitique en Corse alpine: Un argument pour l’exis-
+          C. R. Acad. Sci., Paris, 309, 621-626.                                           tence au Crétacé supérieur d’une zone de subduction active
+GOUVERNET C., GUIEU G. & ROUSSET C. (1979). – La Provence. – Guides                        localisée sous le bloc corso-sarde. – Geol. France, 3, 3-11.
+          géol. régionaux, Masson, Paris, 2nd ed., 229 p.                        LAURENT O., STEPHAN J.-F. & POPOFF M. (2000). – Modalités de la structu-
+GRACIANSKY P.C., DARDEAU G., BODEUR Y., ELMI S., FORTWENGLER D.,                           ration miocène de la branche sud de l’arc de Castellane (chaînes
+          JACQUIN T., MARCHAND D. & THIERRY J. (1998). – Les Terres                        subalpines méridionales). – Géol. France, 3, 33-65.
+          Noires du Sud-Est de la France (Jurassique moyen et supérieur):        LE PICHON X., RANGIN C., HAMON Y., LOGET N., LIN J. Y., ANDRÉANI L. &
+          Interprétation en termes de stratigraphie séquentielle. – Bull.                  FLOTTÉ N. (2010). – Geodynamics of the France Southeast Ba-
+          Centre Rech. Elf Explor.-Prod. , 22, 1, 35-69.                                   sin. In: X. LE PICHON and C. RANGIN, Eds, Geodynamics of the
+GUEGUEN E., DOGLIONI C. & FERNANDEZ M. (1998). – On the post 25 Ma                         France Southeast Basin: Importance of gravity tectonics. – Bull.
+          geodynamic evolution of the western Mediterranean. – Tectono-                    Soc. géol. Fr., 181, 6, 477-501.
+          physics, 298, 259-269.                                                 LELEU S., GHIENNE J.-E. & MANATSCHAL G. (2005). – Upper Creta-
+GUIEU G. (1964). – La structure de l’extrémité occidentale de la chaîne de                 ceous-Palaeocene basin-margin alluvial fans documenting inte-
+          l’Etoile au N de Marseille. – Bull. Soc. géol. Fr., (7), VI,                     raction between tectonic and environmental processes
+          412-418.                                                                         (Provence, SE France). In: A.M. HARVEY, A.E. MATHER & M.
+                                                                                           STOKES, Eds, Alluvial fans: geomorphology, sedimentology, dy-
+GUIEU G. (1968). – Étude tectonique de la région de Marseille. – Thèse                     namics. – Geol. Soc., London, Spec. Publ., 251, 217-239.
+          Doctorat d’Etat, Marseille, 604 p.
+                                                                                 LELEU S., GHIENNE J.-E. & MANATSCHAL G. (2008). – Alluvial fan develop-
+GUIEU G. (1973). – L’évolution tectonique de la chaîne de la Nerthe, au                    ment and morpho-tectonic evolution in response to contractional
+          nord-ouest de Marseille. – C. R. Acad. Sci., Paris, D, 276, 13-16.               fault reactivation (Late Cretaceous-Palaeocene), Provence, France. –
+GUIEU G. (1977). – La tectonique du bassin de Marseille à l’Oligocène. –                   Basin Res., 21, 157-187, doi: 10.1111/j.1365-2117.2008.00378.x.
+          Géol. Mediterr., Marseille, IV, 1, 9-24.                               LEMOINE M. (1985). – Structuration jurassique des Alpes occidentales et
+GUIEU G., FROGET C. & ROUX M. (1964). – Observations nouvelles sur la                      palinspastique de la Téthys ligure. – Bull. Soc. géol. Fr., (8), I,
+          structure de la partie sud-ouest de la chaîne de la Nerthe, à                    126-137.
+          l’ouest de Marseille (B.d.R.). – C. R. Acad. Sci., Paris, 258,         LEMOINE M., BAS T., ARNAUD-VANNEAU A., ARNAUD H., DUMONT T., GIDON
+          2360-2362.                                                                       M., GRACIANSKY P.-C., RUDKIEWICZ J.-L., MÉGARD-GALLI J. &
+GUIEU G. & ROUSSEL J. (1990). – Arguments for the pre-rift uplift and rift                 TRICART P. (1986). – The continental margin of the Mesozoic Te-
+          propagation in the Ligurian-Provencal basin (northwestern Me-                    thys in the western Alps. – Mar. Pet. Geol., 3, 179-199.
+          diterranean) in the light of Pyrenean provençal orogeny. – Tecto-      LEMOINE M. & GRACIANSKY P.-C. de (1988). – History of a passive conti-
+          nics, 9, 1113-1142.                                                              nental margin: the western Alps in the Mesozoic. Introduction. –
+GUIGNARD P., BELLIER O. & CHARDON D. (2005). – Géométrie et cinéma-                        Bull. Soc. géol. Fr., (8), IV, 597-600.
+          tique post-oligocène des failles d’Aix et de la moyenne Durance        LÉONIDE P., FLOQUET M. & VILLIER L. (2007). – Interaction of tectonics,
+          (Provence, France). – C. R. Géoscience, 337, 375–384.                            eustasy, climate and carbonate production on the sedimentary
+GUIMERÀ J. (1984). – Palaeogene evolution of deformation in the northeas-                  evolution of an early/middle Jurassic extensional basin (southern
+          tern Iberian peninsula. – Geol. Mag., Londres, 121, 1(5), 413-420.               Provence Sub-basin, SE France). – Basin Res., 19, 125-152.
+HEYMES T. (2008). – La transition raccourcissement-extension Oligocène           LEPVRIER C. & MOUGENOT D. (1984). – Déformations cassantes et champs de
+          dans l’édifice de nappes de l’arc Calabro-Péloritain (Italie méri-               contrainte post-hercyniens dans l’ouest de l’Ibérie (Portugal). –
+          dionale): Nouvelles données structurales, métamorphiques et                      Rev. Géol. dyn. Géogr. phys., 25, 4, 291-305.
+          géochronologiques sur le massif de l’Aspromonte. – Thèse de            LONERGAN L. & WHITE N. (1997). – Origin of the Betic-Rif mountain belt. –
+          Doctorat, Univ. Joseph Fourier, Grenoble, 348 p.                                 Tectonics, 16, 504-522.
+HEYMES T., BOUILLIN J.-P., PÊCHER A., MONIÉ P. & COMPAGNONI R. (2008). –         LUTAUD L. (1935). – Sur la genèse des chevauchements et écailles de la
+          Middle Oligocene extension in the Mediterranean Calabro-                         Provence calcaire. – C. R. somm. Soc. géol. Fr, 16, 261-263.
+          Peloritan belt (southern Italy). Insights from the Aspromonte nap-     LUTAUD L. (1957). – La tectogenèse et l’évolution structurale de la Pro-
+          pes-pile. – Tectonics, 27, TC2006, doi: 10.1029/2007TC002157.                    vence. – Rev. Géogr. phys. Géol. dyn., 2, 1, 103-112.
+HIPPOLYTE J.-C., NURY D., ANGELIER J. & BERGERAT F. (1991). – Relation           MARRETT R. & ALLMENDINGER R.W. (1991). – Kinematic analysis of fault
+          entre tectonique extensive et sédimentation continentale:                        slip data. – J. Struct. Geol., 12, (8), 973-986.
+          exemple des bassins oligocènes de Marseille et de Basse-Pro-           MATTAUER M. (1968). – Les traits structuraux essentiels de la chaîne Pyré-
+          vence. – Bull. Soc. géol. Fr., 162, 6, 1083-1094.                                néenne. – Rev. Géol. dyn. Géogr. phys., 10, 3-11.
+HIPPOLYTE J.-C., ANGELIER J., BERGERAT F., NURY D. & GUIEU G. (1993). –          MATTAUER M. & SÉGURET M. (1971). – Les relations entre la chaîne pyré-
+          Tectonic-stratigraphic record of paleostress time changes in the                 néenne et le golfe de Gascogne. In: J. DEBYSER , X. LE PICHON &
+          Oligocene basins of the Provence, southern France. – Tectono-                    L. MONTADERT, Eds, Histoire structurale du golfe de Gascogne. –
+          physics, 226, 15-35.                                                             Technip, Paris, IV.4-1-IV.4-24.
+HIPPOLYTE J.-C. & DUMONT T. (2000). – Identification of Quaternary               MATTAUER M., FAURE M. & MALAVIEILLE J. (1981). – Transverse lineation and
+          thrusts, folds and faults in a low seismicity area: examples in the              large scale structures related to Alpine obduction in Corsica. – J.
+          southern Alps (France). – Terra Nova, 12, 156-162.                               Struct. Geol., 3, 401-409.
+HUMBERT S. (1962). – La dépression d’Ensuès (B.d.R.) et ses environs. Dé-        MAUFFRET A. & GENNESSEAUX M. (1989). – Compression, décrochements
+          tails de structure. – Bull. Soc. géol. Fr., (7), IV, 559-564.                    et distension sur le pourtour Méditerranéen nord-occidental. – C.
+HUMBERT S. (1963). – Etude géologique de la Nerthe aux environs                            R. Acad. Sci., Paris, II, 308, 961-967.
+          d’Ensuès. – Ann. Fac. Sc. Marseille, XXXIV, 107-116.                   MICHARD A. (2006). – Extension in Alpine western Europe and West Medi-
+JOLIVET L., DUBOIS R., FOURNIER M., GOFFÉ B., MICHARD A. & JOURDAN C.                      terranean. – C. R. Geoscience, 338 (4), 225-228.
+          (1990). – Ductile extension in Alpine Corsica. – Geology, 18,          MUÑOZ J. A. & CASAS A.M. (1997). – The Rioja trough: Tectonosedimenta-
+          1007-1010.                                                                       ry evolution of a foreland symmetric basin. – Basin Res., 9,
+JOLIVET L., DANIEL J.-M. & FOURNIER M. (1991). – Geometry and kinema-                      65-85.
+          tics of ductile extension in Alpine Corsica. – Earth Planet. Sci.      NURY D. (1988). – L’Oligocène de Provence méridionale. Stratigraphie-dy-
+          Lett., 104, 278-291.                                                             namique sédimentaire. Reconstitutions paléogéographiques. –
+LACOMBE O., ANGELIER J. & LAURENT P. (1992). – Determining paleostress                     Doc. BRGM, Orléans, 163, 411 p.
+          orientations from faults and calcite twins: A case-study near the      NURY D. & RAYNAUD S. (1985). – Tectonique et sédimentation du bassin
+          Sainte-Victoire range (southern France). – Tectonophysics, 201,                  oligocène de Marseille. La Provence géologique. – Doc. BRGM,
+          141-156.                                                                         Orléans, 94, 41-68.
+LACOMBE O. & JOLIVET L. (2005). – Structural and kinematic relationships         OLIVET J.-L., BEUZART P., AUZENDE J.-M. & BONNIN J. (1984). – Cinéma-
+          between Corsica and the Pyrenees-Provence domain at the time of the              tique de l’Atlantique Nord et Central. – Rapport Scientifique et
+          Pyrenean orogeny. – Tectonics, 24, TC1003 doi: 10.1029/2004TC001673.             Technique du CNEXO, 54, 107.
+
+Bull. Soc. géol. Fr., 2010, no 6
+                              NEW STRUCTURAL CONSTRAINTS ON THE SOUTHERN PROVENCE THRUST BELT (FRANCE)                                                 563
+
+
+OLIVET J.-L. (1996). – La cinématique de la plaque ibérique. – Bull. Centre     SÉRANNE M. (1999). – The Gulf of Lion continental margin (NW Mediter-
+           Rech. Elf Explor.-Prod., 20, 131-195.                                          ranean) revisited by IBS: an overview. In: B. DURAND, L. JOLI-
+PEULVAST J.-P., B AROUX E., BELLIER O. & SÉBRIER M. (1999). – Le pro-                     VET, F. H ORVÁTH & M. S ÉRANNE , Eds., The Mediterranean
+           blème de l’activité des failles de Nîmes, Salon-Cavaillon et de la             basins: Tertiary extension within the Alpine orogen. – Geol.
+           Moyenne Durance (SE de la France): apports de la géomorpho-                    Soc., London, sp. Publ., 156, 15-36.
+           logie structurale. – Géomorphologie, 4, 327-358.                     SÉRANNE M., BENEDICTO A., TRUFFERT C., PASCAL G. & LABAUME P.
+RAZIN P., BONIJOLY D., LE STRAT P., COUREL L., POLI E., DROMART G. &                      (1995). – Structural style and evolution of the Gulf of Lion Oli-
+           ELMI S. (1996). – Stratigraphic record of the structural evolution             go-Miocene rifting: Role of the Pyrenean orogeny. – Mar. Petrol.
+           of the western extensional margin of the Subalpine Basin during                Geol., 12, 809-820.
+           the Triassic and Jurassic, Ardèche, France. – Mar. Petrol. Geol.,    SIBUET J.-C., SRIVASTAVA S.P. & SPAKMAN W. (2004). – Pyrenean orogeny
+           13, 6, 625-652.                                                                and plate kinematics. – J. Geophys. Res., 109, doi:
+REHAULT J.-P., B OILLOT G. & MAUFFRET A. (1984). – The western Mediter-                   10.1029/2003JB002514.
+           ranean basin geological evolution. – Mar. Geol., 55, 447-477.        SPERANZA F., VILLA I.M., SAGNOTTI L., FLORINDO F., COSENTINO D., CIPOL-
+REPELIN J. (1900). – Nouvelles observations sur la tectonique de la chaîne                LARI P. & M ATTEI M. (2002). – Age of Corsica-Sardinia rotation
+           de la Nerthe. – Ibid., 28, 3, 236-267.                                         and Liguro-Provençal basin spreading: New paleomagnetic and
+                                                                                          Ar/Ar evidence. – Tectonophysics, 347, 231-251.
+REPELIN J. (1933). – Observations au sujet de la tectonique de la partie oc-
+           cidentale de la chaîne de la Nerthe. – C. R. Acad. Sci., Paris,      STAMPFLI G.M. (1993). – Le Briançonnais, terrain exotique dans les
+           196, 197-198.                                                                  Alpes ? – Eclogae Geol. Helv., 86, 1, 1-45.
+RICOUR J., ARGYRIADIS I. & MONTEAU R. (2005). – Nouvelle interprétation         STAMPFLI G.M., MOSAR J., MARQUER D., MARCHANT R., BAUDIN T. &
+           tectonique de la montagne Sainte-Victoire (Provence, France). –                BOREL G. (1998). – Subduction and obduction processes in the
+           C. R. Geoscience, 337, 1277-1283.                                              Swiss Alps. – Tectonophysics, 296, 159-204.
+RITZ J.-F. (1991). – Évolution des champs de contraintes dans les Alpes du      STAMPFLI G., BOREL G.D., MARCHANT R.D. & MOSAR J. (2002). – Western
+           Sud depuis la fin de l’Oligocène. Implications sismotectoniques.               Alps geological constraints on western Tethyan reconstructions.
+           – Thèse de Doctorat, université de Montpellier.                                – J. Virt. Expl., 8, 77-106.
+ROCA E., SANS M., CABRERA L. & MARZO M. (1999). – Oligocene to                  SUE C., THOUVENOT F., FRECHET J. & TRICART P. (1999). – Widespread ex-
+           Middle Miocene evolution of the central Catalan margin (nor-                   tension in the core of the western Alps revealed by earthquake
+           thwestern Mediterranean). – Tectonophysics, 315, 209-233.                      analysis. – J. Geophys. Res., 104, 25611-25622.
+ROSENBAUM G., LISTER G.S. & DUBOZ C. (2002). – Relative motions of              SUE C. & TRICART P. (2003). – Neogene to current normal faulting in the in-
+           Africa, Iberia and Europe during Alpine orogeny. – Tectonophy-                 ner western Alps: a major evolution of the late Alpine tectonics.
+           sics, 359, 117-129.                                                            – Tectonics, 22, doi: 10.1029/2002TC001426.
+ROSENBAUM G. & LISTER G.S. (2004). – Neogene and Quaternary rollback            TEMPIER C. (1972). – Les faciès calcaires du jurassique provençal. – Trav.
+           evolution of the Tyrrhenian Sea, the Apennines, and the Sicilian               Lab. Sci. Terre, St. Jérôme, Marseille, 4, 361 p.
+           Maghrebides. – Tectonics, 23, doi: 10.1029/2003TC001518.             TEMPIER C. (1987). – Modèle nouveau de mise en place des structures pro-
+ROSSETTI F., GOFFÉ B., MONIÉ P., FACCENNA C. & VIGNAROLI G. (2004). –                     vençales. – Bull. Soc. géol. Fr., III, 3, 533-540.
+           Alpine orogenic P-T-t-deformation history of the Catena Costie-      TEMPIER C. & DURAND J.-P. (1981). – Importance de l’épisode tectonique
+           ra area and surrounding regions (Calabrian arc, southern Italy):               d’âge Crétacé supérieur dans la structure du versant méridional
+           The nappe edifice of north Calabria revised with insights on the               de la Montagne Ste Victoire (Provence). – C. R. Acad. Sci., Pa-
+           Tyrrhenian-Apennine system formation. – Tectonics, 23, doi:                    ris, II, 293, 629-632.
+           10.1029/2003TC001560.                                                TERRIER M. (1991). – Néotectonique de la Provence occidentale (France):
+ROURE F. & CHOUKROUNE P. (1998). – Contribution of the Ecors seismic                      Vers une analyse multicritère des déformations récentes. Appli-
+           data to the Pyrenean geology: Crustal architecture and geodyna-                cation à la classification des structures sismogènes. – Doc.
+           mic evolution of the Pyrenees. – Mem. Soc. géol. Fr., 173, 37-52.              BRGM, Orléans, 207, 320 p.
+ROURE F. & COLLETTA B. (1996). – Cenozoic inversion structures in the fo-       THIERRY J. (2000). – Middle Toarcian. In: J. DERCOURT, M. GEATINI,
+           reland of the Pyrenees and Alps. In: P.A. ZIEGLER & F. HORVATH,                B. VRIELYNCK, E. BARRIER, B. BIJU-DUVAL, M.-F. BRUNEt,
+           Eds., Peri Tethys Memoir 2, Structures and Prospects of Alpine                 J.-P. C ADET, S. C RASQUIN & M. S ANDULESC u, Eds., Atlas Peri-
+           Basin and Forelands. – Mem. Mus. Nat. Hist. Nat., Paris, 170,                  tethys, Paleogeographical Maps. Map 8, 61-70. Paris.
+           173-209.                                                             TOURAINE F. (1964). – Les grands traits d’une structure nouvelle proposée
+ROUSSET C. (1973). – La faille de la Tour de César, au Nord-Est                           pour le massif de la Sainte-Victoire. – Bull. Soc. géol. Fr., VII,
+           d’Aix-en-Provence, sépare l’unité allochtone de l’Arc des plis                 6, 545-553.
+           de la Provence septentrionale ; conséquences structurales: le        TRICART P. (1984). – From passive margin to continental collision: A tecto-
+           chevauchement nord-provençal. – C. R. Acad. Sci., Paris, D, 277,               nic scenario for the western Alps. – Am. J. Sci., 284, 97-120.
+           765-768.                                                             VAN DIJK J., BELLO M., BRANCALEONI G.P., CANTARELLA G., COSTA V.,
+RUIZ-BARRAGAN R. (1978). – Etude structurale en Provence: le Massif de la                 FRIXA A., GOLFETTO F., MERLINI S., RIVA M., TORRICELLI S.,
+           Sainte-Victoire. – Thèse de Doctorat, Univ. Paris VI, 135 p.                   TOSCANO C. & ZERILLI A. (2000). – A regional structural model
+SCHETTINO A. & SCOTESE C. (2002). – Global kinematic constraints to the                   for the northern sector of the Calabrian arc (southern Italy). –
+           tectonic history of the Mediterranean region and surrounding                   Tectonophysics, 324, 267-320.
+           areas during the Jurassic and Cretaceous. – J. Virt. Expl., 8,       VASSEUR G. (1894). – Compte-rendu d’excursions géologiques aux Marti-
+           149-168.                                                                       gues et à l’Estaque (Bouches-du-Rhône). – Bull. Soc. géol. Fr.,
+SCHETTINO A. & TURCO E. (2006). – Plate kinematics of the western Medi-                   (3), XXII, 413-444.
+           terranean region during the Oligocene and Early Miocene. –           W ESTPHAL M., ORSINI J. & VELLUTINI J. (1976). – Le microcontinent cor-
+           Geophys. J. Int., 166, 1398-1423.                                              so-sarde, sa position initiale: Données paléomagnétiques et rac-
+SCHLUPP A., CLAUZON G. & AVOUAC J.-P. (2001). – Mouvement post-messi-                     cords géologiques. – Tectonophysics, 30, 141-157.
+           nien sur la faille de Nîmes: implications pour la sismotectonique    ZIEGLER P.A. (1992). – Plate tectonics, plate moving mechanisms and rif-
+           de la Provence. – Bull. Soc. géol. Fr., 172, 697-711.                          ting. – Tectonophysics, 215, 9-34.
+SCHMID S. M. & KISSLING E. (2000). – The arc of the western Alps in the         ZIEGLER P.A. & DÈZES P. (2007). – Cenozoic uplift of Variscan Massifs in
+           light of geophysical data on deep crustal structure. – Tectonics,              the Alpine foreland: Timing and controlling mechanisms. – Glo-
+           19, 62-85.                                                                     bal Planet. Change, 58, 237-269.
+
+
+
+
+                                                                                                                           Bull. Soc. géol. Fr., 2010, no 6
+

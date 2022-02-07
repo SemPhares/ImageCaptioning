@@ -1,0 +1,1314 @@
+    Influence des paléo-structures pyrénéo-
+     provençales sur l’amortissement de la
+déformation miocène à actuelle des Alpes du Sud
+
+
+
+
+                         Jocelyn BALANSA
+                          Mémoire de stage
+
+            Sous la direction de N. Espurt et J-C. Hippolyte
+
+               En collaboration avec S. Caritg (BRGM)
+
+
+
+
+                                                               Master 2 STPE Réservoirs
+
+                                                                            2018-2019
+1
+                                              RESUME
+          Si les paramètres contrôlant les mécanismes de déformation sont de mieux en mieux contraints,
+ce n’est toujours pas le cas du couplage entre socle et couverture. Les travaux de ces dernières années
+ont prouvé que le style de déformation en thick-skin avait été largement sous-estimé, et que l’influence
+du raccourcissement du socle était importante sur la quantité de raccourcissement mais aussi sur les
+mécanismes de propagation et d’accommodation de la déformation. Or, la déformation est contrôlée
+dans le socle par la structuration de ce dernier, structuration héritée des évènements antérieurs.
+          Partant de ces principes, nous avons réalisé une coupe équilibrée de la Provence (SE de la
+France), du bassin de l’Arc jusqu’à l’unité de Barles. Une restauration séquentielle a été effectuée, afin
+de remonter à la structuration initiale et de caractériser le rôle de l’héritage structural. Elle a aussi permis
+de différencier la part respective de la compression pyrénéenne et de la compression alpine. Il apparaît
+que la déformation en Basse-Provence septentrionale, dite domaine Pyrénéo-Provençal, du fait de la
+présence d’importants niveaux évaporitiques, est quasi-totalement découplée entre le socle et la
+couverture et a lieu principalement durant la phase pyrénéenne. A l’inverse, la déformation de la zone
+du bassin de Valensole se produit principalement à l’alpin, bien que réactivant des structures initiées au
+pyrénéen. Le raccourcissement total est de 14,1 km dans la zone étudiée, dont 3,9 km issus de la phase
+alpine.
+          Le faible raccourcissement du plateau de Valensole est hérité de son histoire structurale : en
+position haute au Trias, les évaporites n’ont pas pu se déposer en quantité. L’absence de niveau de
+décollement dans la couverture, et une structure crustale globalement cohésive a servi de bouclier
+structural et inhibé le raccourcissement alpin en Basse-Provence septentrionale, imposant une
+accommodation de la déformation latéralement dans et le long des Arcs Nord-Provençal et de Digne-
+Castellane.
+
+
+
+
+                                                                                                              2
+Table des matières
+
+     1. INTRODUCTION……………………………………………………………………….5
+     2. CONTEXTE GÉOLOGIQUE…………………………………………………………..10
+           2.1. Cadre général…………………………………………………………………..10
+           2.2. Synthèse tectonique……………………………………………………………10
+           2.3. Synthèse sédimentologique……………………………………………………12
+                  2.3.1. Vue générale………………………………………………………….12
+                  2.3.2. Formation de Valensole………………………………………………13
+     3. MÉTHODOLOGIE………………………………………………………………………14
+     4. RÉSULTATS……………………………………………………………………………..15
+           4.1. Structure générale……………………………………………………………..15
+           4.2. Le domaine sud-provençal……………………………………………………16
+           4.3. Bassin de Valensole-Zone de Barles…………………………………………..18
+           4.4. Chronologie des déformations………………………………………………...21
+           4.5. Restauration séquentielle et estimation des raccourcissements pyrénéo-
+           provençal et alpin…………………………………………………………………..22
+     5. EVOLUTION TECTONIQUE ET STRUCTURATION DE L’AVANT-PAYS
+     PYRENEO-ALPIN DE PROVENCE……………………………………………………..24
+           5.1. Extensions anté-pyrénéennes…………………………………………………24
+           5.2. Compression pyrénéenne……………………………………………………..24
+           5.3. Phase extensive liguro-piémontaise………………………………………….25
+           5.4. Phase alpine…………………………………………………………………...26
+     6. DISCUSSION……………………………………………………………………………27
+           6.1. Une contrainte du socle incertaine…………………………………………..27
+           6.2. Style et distribution de la déformation pyrénéenne………………………...27
+           6.3. Chronologie de la mise en place de la nappe de Digne et structure en
+           profondeur…………………………………………………………………………27
+            6.4. Préservation du bassin de Valensole et de la Basse-Provence
+     septentrionale………………………………………………………………………………28
+           6.5. Tectonique active……………………………………………………………..29
+     7. CONCLUSION………………………………………………………………………….30
+     8. BIBLIOGRAPHIE……………………………………………………………………...31
+
+
+
+
+                                                                                         3
+Table des Figures
+
+Figure 1 - Vue conceptuelle des styles tectoniques dans les avant-pays orogéniques………………….5
+Figure 2 - Modèle d'inversion où des structures extensives (syn-rift) sont reprises en compression…..5
+Figure 3 – Exemples de structures salifères dans les marges passives…………………………………6
+Figure 4 - Carte structurale synthétique de la Provence………………………………………………..8
+Figure 5 – Coupes du plateau de Valensole (même échelle) mettant en évidence la tectonique de socle
+de la faille des Mées……………………………………………………………………………………………………………………………………..9
+Figure 6 - Carte géologique structurale synthétique de la zone d'étude………………………………11
+Figure 7 – Log synthétique de la Provence Centrale et septentrionale………………………………..13
+Figure 8 – Coupe équilibrée réalisée………………………………………………………………….17
+Figure 9 – Chevauchement de Vinon à proximité du village de St-Julien-le-Montagnié…………….18
+Figure 10 - Ligne sismique 75-DV1 à travers les Mées réinterprétée………………………………...19
+Figure 11 - Déformation des séries mio-pliocènes dans la partie Nord du bassin de Valensole……...20
+Figure 12 - Conglomérats syn-tectoniques d'âge Miocène supérieur structurés en discordances
+progressives……………………………………………………………………………………………21
+Figure 13 - Restauration séquentielle de la coupe équilibrée entre le bassin de l'Arc au Sud et la zone
+de Barles au Nord à travers le bassin de Valensole…………………………………………………….23
+Figure 14 - Carte structurale simplifiée de la Basse-Provence…………………………………………25
+Figure 15 - Coupe du substrat de la Robine……………………………………………………………28
+Figure 16 - Modèle géodynamique et paléogéographique expliquant la propagation de la déformation
+alpine vers le Sud en Provence…………………………………………………………………………29
+Figure 17 - Coupe de Bauduen E-W des bassins oligocènes………………………………………….30
+
+
+
+
+                                                                                                     4
+ 1. INTRODUCTION
+
+          Les avant-pays sont des zones complexes contrôlant au premier ordre la propagation des
+ chevauchements vers les zones externes, et eux-mêmes contrôlés par l’héritage structural (sédimentaire,
+ salifère, de socle et/ou thermique). Si, à l’échelle la plus large, le moteur interne des déformations
+ observées dans les orogènes est conduit par la convection mantellique et les propriétés intrinsèques de
+ la lithosphère, rhéologie et âge en particulier (e.g Mouthereau et al, 2013 ; Burov et al, 2015),
+ l’expression de la déformation en surface est contrôlée par les couches superficielles. La collision de
+ marges continentales généralement à l’origine des chaînes de montagnes dépend donc fortement des
+ propriétés thermo-tectoniques et de la géométrie de la marge (Mouthereau et al, 2014). Or, l’imagerie
+ géophysique de ces marges a mis en évidence qu’elles ne peuvent pas être considérées homogènes en
+ composition, épaisseur, et thermicité (e.g Mohn et al, 2012 ; Vacherat et al, 2014, 2016 ; Clerc et al,
+
+
+
+
+Figure 1 - Vue conceptuelle des styles                 Figure 2 - Modèle d'inversion où des structures extensives
+tectoniques dans les avant-pays orogéniques. A         (syn-rift) sont reprises en compression : inversion de la
+: thin-skin, décollements de couverture. B :           faille normale principale, mise en place de
+Thick-skin, chevauchements de socle et                 chevauchements aveugles, rétro-chevauchements et
+accommodation de la déformation dans la                short-cut dans le socle, d’imbrications dans la couverture.
+couverture. (Lacombe et Mouthereau, 2002)              (d’après Fossen, 2010)
+
+ 2015). C’est pourtant dans ces systèmes que se forment principalement les chaînes plissées, par
+ l’empilement d’unités crustales de marges bien différenciées et préstructurées. Alors que le débat a
+ longtemps porté sur l’expression des styles structuraux en surface et dans les zones externes des chaînes
+ de montagne via les deux pôles thick- et thin-skin (Fig. 1), il apparaît aujourd’hui de plus en plus
+ évident que le socle, et donc le style thick-skin, est impliqué dans la quasi-totalité des chaînes. Le défi
+ actuel est donc de comprendre les mécanismes et les modes de raccourcissement qui s’exercent dans le
+ socle en relation avec son passé tectonique (e.g Lacombe et Bellahsen, 2016). Il s’avère alors que la pré-
+
+
+
+
+                                                                                                              5
+organisation des unités reprises en collision joue bien souvent un rôle primordial, notamment par
+l’inversion tectonique de failles de socle (Fig.2).
+
+        Paradoxalement, les travaux sur coupes équilibrées concluent que le raccourcissement de la
+couverture est fréquemment supérieur à celui du socle sous-jacent où il est distribué à travers l’ensemble
+de la croûte. La transmission de la déformation du socle vers la couverture est donc soumise à des
+mécanismes d’accommodation, de propagation et de distribution, liées aux propriétés rhéologiques de
+
+
+
+
+Figure 3 – Exemples de structures salifères dans les marges passives. Niveau salifère en noir (modifié d'après
+Fossen, 2010). Il est important de noter la déformation syn-tectonique des bassins sédimentaires soit en
+extension soit en compression en pied de marge.
+
+la pile sédimentaire. L’épaisseur de la pile sédimentaire joue par exemple sur l’espacement des failles :
+une forte épaisseur induira des structures dites imbricates ; une faible, une propagation lointaine des
+chevauchements (Hinsch, 2013). La présence de niveaux évaporitiques facilite et concentre les
+déformations sur des décollements (Hudec et Jackson, 2007 ; 2009), potentiellement enracinés sur des
+failles de socle (« la tectonique de voussoir », Mennessier, 1959). Ces niveaux de décollements sont
+souvent localisés dans des roches à faibles densités, et le poids des sédiments sus-jacents peut induire la
+formation de dômes et diapirs, contrôlant rétroactivement la structure des dépôts (Fig.3). Les accidents
+anciens constituent des zones de faiblesse où se localisent les déformations. Ils sont préférentiellement
+réactivés lors d’évènements suivants, même dans des conditions d’orientation de contraintes globales
+peu favorables (Holyoke and Tullis, 2006). La question du rôle de la gravité se pose aussi, son influence
+et ses mécanismes ont été soulignés en Provence par des travaux récents avec l’effondrement gravitaire
+du panneau provençal vers le Sud sur les évaporites triasiques (Le Pichon et al, 2010).
+
+        S’il existe potentiellement et ponctuellement des données profondes, puits ou profils sismiques,
+la majorité des indices nécessaires à la caractérisation de l’avant-pays se trouvent en surface, et par
+conséquent, dans la couverture. Il devient alors indispensable de la contraindre et de modéliser au mieux
+son expression en surface, afin de la traduire en profondeur pour caractériser la déformation interne au
+socle. L’évolution dans le temps des faciès et déformations de la pile sédimentaire permet de discriminer
+les différentes phases tectoniques et, in fine, de reconstruire la géométrie du socle et l’histoire tectonique
+liée. Cette problématique est particulièrement intéressante dans les Alpes du Sud où interfèrent des
+structures des chaînes pyrénéenne et alpine, sur un socle structuré dès le Carbonifère.
+
+
+
+
+                                                                                                                 6
+        Les Alpes sont un modèle mondial de chaîne de collision avec à leur front un exemple typique
+de système d’avant-pays. Cette chaîne résulte de l’inversion de la marge Européenne de l’Océan
+Téthysien à la suite de la convergence du promontoire adriatique de la plaque Africaine et de la plaque
+européenne en subduction vers le Sud-Est, à partir du Crétacé supérieur.
+
+        En Provence, les Alpes externes, d’âge Miocène à actuel, viennent interférer avec les structures
+pyrénéo-provençales d’âge Campanien à Eocène (Fig. 3). Alors que l’architecture et l’évolution de la
+chaîne pyrénéo-provençale ont été bien étudiées et quantifiées à partir de plusieurs coupes équilibrées
+(Tempier, 1987; Roure et Colletta, 1996; Lacombe et Mouthereau, 2002; Espurt et al, 2012; Guyonnet-
+Benaize et al, 2015; Bestani et al, 2015, 2016; Espurt et al, 2019), notre connaissance de l’évolution
+alpine de ce segment de la chaîne pyrénéenne reste très peu contrainte (Villeger et Andrieux, 1987;
+Hippolyte et Dumont, 2000; Le Pichon et al, 2010; Bestani et al, 2016). Le front orogénique des Alpes
+du Sud s’est propagé vers le SSE sur un substratum très hétérogène, tant d’un point de vue géométrique
+que thermique (Garibaldi et al, 2010), hérité des épisodes tectoniques successifs qui ont affecté la marge
+provençale depuis la fin du Paléozoïque. Le front des déformations alpines se caractérise par deux arcs
+chevauchants majeurs déplacés vers le Sud et détachés sur les évaporites du Trias : l’arc Nord Provençal
+à l’Ouest (Villeger et Andrieux, 1987) et l’arc de Digne-Castellane à l’Est (Laurent et al, 2000), qui
+interfèrent avec le haut structural du bassin de Valensole, curieusement peu déformé à l’exception de
+quelques failles de socle (Hippolyte et Dumont, 2000). Cette variation latérale dans la géométrie des
+chevauchements est accommodée par des systèmes en décrochement orientés NNE-SSW tels que le
+système de failles de la moyenne Durance (Guignard et al, 2005 ; Cushing et al, 2008 ; Guyonnet-
+Benaize et al, 2015) ou encore de la faille du Bès (Hippolyte et al., 2012), se superposant à des structures
+héritées du Paléozoïque et du Mésozoïque (Roure et Colletta, 1996). Des données structurales et
+sédimentologiques indiquent que des structures compressives pyrénéennes ont été partiellement
+réactivées lors de la compression alpine dans l’arc Nord Provençal (Champion et al, 2000 ; Lemoine et
+al, 2000 ; Bestani et al, 2016). Sur la base de profils sismiques retraités et de données de forages, Le
+Pichon et al (2010) proposent que les structures géologiques de l’arc Nord Provençal résultent d’une
+dynamique gravitaire, associée à l’effondrement des Alpes, caractérisée par un glissement de l’arc
+Provençal vers le SSE sur les évaporites du Trias depuis l’Oligocène terminal. Un tel modèle pourrait
+être aussi envisagé pour la mise en place de l’arc de Digne-Castellane au moins dans sa partie ouest. La
+déformation dans la région Est de l’arc serait plutôt contrôlée par des chevauchements impliquants le
+socle (Jourdon et al, 2014). Des structures pyrénéennes sembleraient exister sous les séries mio-
+pliocènes du plateau de Valensole (Dubois et Curnelle, 1978) et probablement au sein de l’arc de Digne-
+Castellane (Gigot et al, 1974).
+
+
+
+
+                                                                                                          7
+        Afin de mieux comprendre les causes structurales de la faible déformation du bassin de
+Valensole, il est nécessaire de déterminer sa structure profonde et ses relations avec les arcs Nord-
+Provençal et de Digne-Castellane, et donc de mettre en évidence l’origine des hétérogénéités les
+différenciant. Dans ce but, nous avons construit et restauré une coupe équilibrée allant du bassin de l’Arc
+(Est de la montagne Sainte-Victoire), jusqu’au Vélodrome d’Esclangon (Localisation Fig.4). La
+réalisation de cette coupe s’appuie des travaux antérieurs (localisation Fig. 4) bien qu’aucune coupe
+équilibrée longitudinale et perpendiculaire aux structures cartographiques n’existait jusqu’à présent à
+travers le bassin de Valensole pour y décrire la relation de la couverture avec de potentielles profondes
+structures héritées. Par exemple, la coupe réalisée par Dubois et Curnelle (1978 ; Figs. 4 et 5a) repose
+sur les données des forages des Mées et de Mirabeau (Figs. 4, 5a et 6) et une sismique de mauvaise
+qualité présentant des artefacts. Dans cette coupe où la déformation est concentrée dans la couverture
+via des décollements dans les évaporites triasiques, le socle est représenté de manière superficielle, et
+sans rejet le long des failles de socle. Cette coupe non équilibrée ne permet pas la quantification du
+raccourcissement mais donne une bonne synthèse sédimentaire de la couverture. La coupe de Hippolyte
+et Dumont (2000 ; Figs. 4 et 5b), basée sur la précédente, apporte une vision plus structurale du sous-
+sol du bassin de Valensole, avec la mise en évidence d’une tectonique de socle couplée à des
+décollements de couverture et une accommodation des chevauchements dans la pile sédimentaire. A
+l’extrémité Sud du bassin de Valensole, les structures chevauchantes pyrénéo-provençales de
+Vautubières, Vinon et Gréoux sont illustrées par la coupe de Guyonnet-Benaize et al (2015) montrant
+essentiellement un style thin-skin.
+
+
+
+
+          Figure 4 - Carte structurale synthétique de la Provence. Historique et localisation des
+          principales coupes réalisées dans la région. (Modifié d’après Bestani et al, 2016)
+
+
+
+
+                                                                                                         8
+Figure 5 - Coupes du plateau de Valensole (même échelle) mettant en évidence la tectonique de socle de la faille des Mées. (a) Coupe
+Dubois et Curnelle, 1978 (modifiée d’après Philip, 2012). (b) Coupe Hippolyte et Dumont, 2000.
+                   A l’inverse, un certain nombre de travaux d’équilibrage à travers le front alpin et les arcs Nord-
+          Provençal et de Digne-Castellane jusqu’à l’avant-pays de Provence ont été réalisés ces vingt dernières
+          années, selon des approches de modélisation diverses. Bestani et al (2016) soulignent un style tectonique
+          mixte dans l’avant-pays lors de la compression pyrénéenne. La restauration séquentielle des coupes
+          montrerait que le raccourcissement alpin est mineur au regard de la phase pyrénéenne. Ces derniers
+          auteurs proposent cependant un style structural en thin-skin en Provence occidentale sur les niveaux
+          évaporitiques du Trias, configuration que l’on retrouve dans les coupes de Castellane de Laurent et al
+          (2000). C’est tout l’opposé de Jourdon et al (2014), qui y voient une composante de thick-skin
+          dominante en inversion tectonique de failles de socle permiennes.
+
+                   Les interprétations par des coupes équilibrées, variées, sont donc concentrées sur les arcs
+          latéraux à la structure de Valensole et les travaux existants sur le plateau sont bien souvent localisés. Il
+          nous semble donc important de nous intéresser aux relations du bassin de Valensole avec le front alpin,
+          la nappe de Digne en particulier, au Nord et avec les autres unités d’avant-pays alpin plus externes vers
+          le Sud, pour comprendre pourquoi le front alpin ne s’est pas propagé dans cette zone, ou bien
+          différemment, et comment la déformation s’accommode. Il s’agira donc de contraindre le
+          raccourcissement alpin et le mode tectonique du bassin de Valensole, la part d’héritage structural des
+          évènements antérieurs, notamment pyrénéens, et l’influence de la mise en place de la nappe de Digne,
+          ainsi que dans la partie au Sud du bassin, où le diapirisme des régions de Rians et La Verdière (Angelier,
+          1971 ; Angelier et Aubouin, 1976), vient fortement interférer. La coupe sera construite à partir des
+          données structurales préexistantes, de nouvelles acquisitions de terrain et de l’identification de relations
+          tectono-sédimentaires, et restaurée à différentes périodes : 1) au Serravalien, pour mettre en évidence
+
+
+
+
+                                                                                                                         9
+les déformations les plus récentes (tardi-miocène à pliocène) ; 2 ) au Miocène basal, afin de quantifier
+la déformation alpine et la tectono-sédimentologie de cette zone de l’avant-pays alpin ; 3) à l’interface
+Jurassique-Crétacé, permettant de quantifier la déformation pyrénéo-provençale et l’influence du rifting
+du Mésozoïque et tardi-Paléozoïque.
+
+2. CONTEXTE GÉOLOGIQUE
+
+2.1. Cadre général
+
+        L’avant-pays pyrénéo-alpin de Provence est situé dans le Sud-Est de la France, entre les Alpes
+au Nord-Est, le Massif Central à l’Ouest et la Méditerranée au Sud (Figs. 4 et 6). La structure du bassin
+est contrôlée par la succession importante d’évènements tectoniques de la fin du Paléozoïque à l’actuel,
+phases aussi bien compressives (phases tardi-hercynienne, pyrénéenne, alpine) qu’extensives (fin-
+Paléozoïque-Mésozoïque polyphasées, rifting oligocène), induisant des périodes d’enfouissement,
+d’érosion et d’aplanissement. La structure actuelle de la zone d’étude se caractérise par plusieurs unités
+(Fig. 6).
+
+        A l’Est, une grande unité constituée de matériel majoritairement mésozoïque vient chevaucher
+les parties les plus externes vers le Sud et l’Ouest, dont le bassin de Valensole, grand saillant central
+mio-pliocène. Au Nord-Ouest et au Sud-Est, deux grandes unités, respectivement la montagne de Lure
+et le Grand Plan de Canjuers, elles aussi principalement mésozoïques, subsistent. L’imposant système
+diapirique méridien Barjols/La Verdière se développe au Sud. Le bassin de l’Arc, au Sud-Ouest, est
+composé de dépôts du Crétacé supérieur. Plusieurs bassins éocènes sont préservés, en particulier, les
+bassins E-W de Rians-Artigues, ainsi que les bassins NNW-SSE de Quinson et Bauduen. Enfin, de
+grands bassin oligo-miocènes sont présents dans la partie Ouest : notamment celui d’Aix-en-Provence
+et celui de Manosque-Forcalquier, ce dernier séparé du bassin de Valensole par la faille de la moyenne
+Durance (FMD).
+
+2.2. Synthèse tectonique
+
+        Vers 300 Ma, le rifting post-hercynien s’initie, en lien avec la fragmentation du Gondwana
+(Delfaud et al, 1989). Une deuxième phase de rift s’opère à partir du Trias et pendant le Jurassique avec
+l’ouverture de l’océan Téthys. Dans la partie nord-provençale, le développement de la fosse vocontienne
+est associée à des structures salifères (Graciansky et Lemoine, 1988 ; Ford et Stahel, 1995). Enfin, le
+rifting du domaine Valaisan est corrélé à l’ouverture de l’océan Atlantique central, bien souligné en
+Provence par les niveaux à bauxite et la formation du bombement durancien à l’interface entre le Crétacé
+inférieur et supérieur (Masse et Philip, 1976 ; Schettino et Turco, 2011).
+
+        La collision du bloc corso-sarde avec l’Europe engendre la compression pyrénéo-provençale de
+80 à 40 Ma (Tempier, 1987 ; Lacombe et Jolivet, 2005). Cette inversion tectonique réactive les structures
+extensives héritées des phases antérieures. Elle est à l’origine de la formation des principales structures
+géologiques de la Provence actuelle. Le bloc corso-sarde se détache de la Provence lors du rifting liguro-
+
+
+
+
+                                                                                                        10
+ provençal vers 35-28 Ma, produisant les bassins syn-rifts du Sud-Est tel que celui de Marseille
+ (Hippolyte, 1993 ; Séranne et al, 1995) et les fossés Nord-Varois (Touraine, 1967). S’ensuit un
+ aplanissement généralisé jusqu’au Messinien, comme en attestent les travaux de Besson (1995). La
+ compression alpine N-S du Miocène à l’actuel va réactiver des structures anciennes et donner les forts
+ reliefs actuels des Alpes du Sud et de Provence. Les causes en Provence de cette structuration et de
+ l’activité sismique sont toujours débattues : raccourcissement Afrique/Europe (Bergerat, 1987) et/ou
+ effondrement gravitaire des Alpes (Le Pichon et al, 2010).
+
+
+
+
+Figure 6 - Carte géologique structurale synthétique de la zone d'étude. FMD : Faille de la Moyenne Durance ;
+CG : Chevauchement de Gréoux ; CV : Chevauchement de Vinon ; FG : Faille de Ginasservis ; FO : Faille d’Ollières
+
+
+
+
+                                                                                                                   11
+2.3. Synthèse sédimentologique
+
+        2.3.1. Vue générale
+
+        La pile sédimentaire de cette partie de la Provence est fortement influencée par la succession
+des phases tectoniques (Fig. 7). Le socle métamorphique varisque, subsistant par exemple dans le massif
+des Maures, a été découpé par des bassins extensifs tardi-carbonifères à permiens lors du démantèlement
+de la Pangée. Ce rifting, contemporain de celui de la Néotéthys, débute avec des dépôts gréseux au tardi-
+Paléozoïque et perdure jusqu’au Trias Inférieur à possiblement moyen, l’âge du Buntsandstein étant
+toujours relativement mal contraint (Brocard et Philip, 1989 ; Brocard, 1991 ; Toutin-Morin et al, 1993,
+1994). Ce Trias, dit germanique, se poursuit avec d’importantes formations évaporitiques du Trias
+moyen à supérieur : l’anhydritgruppe, et une puissante formation carbonatée au Muschelkalk ; puis de
+nouveau des évaporites au Keuper. Du Rhétien au Crétacé inférieur, la sédimentation est principalement
+carbonatée, avec des couches marneuses ou calcaires de compétence variable. Le Jurassique, à
+l’exception de quelques intercalations marno-argileuses (e.g. Black Shales à l’Oxfordien), est
+généralement massif et souvent dolomitique (Tempier, 1972). Ses épaisseurs sont cependant très
+variables, sans doute du fait d’une configuration imposée par le diapirisme des formations triasiques
+(Espurt et al, 2019). De plus, des niveaux brêchiques sont ponctuellement présents dans le Dogger et le
+Tithonien, montrant une instabilité du système. Le Néocomien présente lui aussi des faciès carbonatés
+compétents au Sud du bassin de Valensole, mais des faciès carbonatés plus fins au Nord du bassin de
+l’Arc, surmontés par un niveau bauxitique et un hiatus associé au bombement durancien jusqu’au Valdo-
+Fuvélien. Ce faciès du Crétacé Supérieur est surmonté par le Bégudo-Rognacien en discordance
+progressive, induite par la compression pyrénéenne. Cette phase contrôle les faciès de dépôt dans
+l’avant-pays du Danien à l’Yprésien et notamment la mise en place des sables bleutés, dans lesquels
+s’intercalent un niveau de calcaire à bithynies (Touraine, 1971 ; Philip et al, 2017).
+
+        Dans le Var, le rifiting liguro-provençal est marqué par l’ouverture de bassins à remplissage
+majoritairement conglomératique à l’Oligocène (Bassins de Gigery, Bourdas, La Combe, Angelier,
+1971 ; Philip et al, 2017 ; Figs. 6 et 7). Au Miocène, l’Aquitano-Burdigalien est globalement peu
+représenté, mais se retrouve néanmoins sous le bassin de Valensole, et sous le chevauchement de
+Valavoire, dans des faciès tidaux. La formation conglomératique de Valensole se met en place
+progressivement du Nord au Sud du Langhien au Pliocène.
+
+
+
+
+                                                                                                      12
+     Figure 7 - Log synthétique de la Provence Centrale et Septentrionale (Modifié de Espurt et al, 2019)
+
+
+
+        2.3.2. Formation de Valensole
+
+        A partir du Miocène, la sédimentation en Provence est contrôlée par la mise en place de
+l’orogène alpin et en particulier par le remplissage du bassin de Valensole. Cette formation de Valensole
+correspond à du remplissage grossier de matériel issu de la surrection alpine, et se différencie en
+plusieurs unités, généralement conglomératiques séparées par des surfaces d’érosion notables. Un
+aperçu faciologique en est donné par les forages des Mées et de Mirabeau (1 et 2). L’Aquitano-
+Burdigalien se compose de faciès tidaux, décrits dans le Nord de la vallée des Duyes en migration vers
+la bordure Ouest du bassin de Valensole, à fort taux de sédimentation (Couëffé et al, 2004). Ces dépôts
+migrent progressivement vers le Sud où l’Helvétien a un faciès de molasse marine dans les forages,
+présentant des alternances marno-gréseuses, parfois calcaires (Beaudouin et al, 1970). Cette variation
+Nord-Sud de l’âge des unités sédimentaires est cohérente avec un environnement de dépôt type foredeep
+induit par la progression d’un prisme sédimentaire au front des Alpes (Clauzon, 1998). Ces faciès
+
+
+
+
+                                                                                                            13
+s’initient au Burdigalien (Demarcq et al, 1974) et perdurent jusqu’au Langhien dans le Nord, mais
+persistent jusqu’au Tortonien inférieur au Sud du bassin de Valensole, vers Cucuron (Beaudouin et al,
+1966 ; Clauzon et al, 1989). Les datations sur des microfaunes à rongeurs attestent du remplacement à
+partir du Serravalien des dépôts marins par de la molasse continentale en progradation vers le Sud
+jusqu’au Tortonien (ibid ; Aguilar et Clauzon, 1981). Les sites du Colombier, en bordure méridionale
+de l’anticlinal de Mirabeau-Mallemoisson, permettent de situer le Serravalien dans les forages de
+Mirabeau. Ce niveau molassique continental est surmonté du Serravalien au Messinien pré-évaporitique,
+toujours en progradation, par les conglomérats subalpins continentaux de l’unité I de Valensole (Clauzon
+et al, 1989 ; Dubois et Curnelle, 1978). Le sommet de ces conglomérats est entamé par la surface
+d’érosion de grande envergure induite par la crise messinienne (surface d’abandon définie par Georges
+Clauzon), accompagnée de l’incision de profonds canyons le long des principales rivières (Asse,
+Durance, Bléone) (Clauzon, 1996 ; Dubar, 1984 ; Besson, 2005 ; Hippolyte et al, 2011).
+
+           Au Zancléen, la transgression marine transforme les canyons en rias (Mercier, 1979 ; Clauzon ;
+1975). Durant tout le Pliocène, l’aval des canyons messiniens ennoyés par les rias marines va être
+comblé par une sédimentation en mode Gilbert-Delta. Dans les Alpes du sud, ce remplissage va déborder
+et recouvrir la surface d’abandon messinienne du bassin de Valensole. Cette deuxième phase de
+remplissage du bassin de Valensole correspond au dépôt de l’unité conglomératique II de Valensole
+(Mercier, 1979 ; Clauzon, 1975). La distinction des unités conglomératiques 1 et 2 est parfois impossible
+lorsque la surface d’érosion messinienne n’est pas visible. La cartographie détaillée de l’unité
+conglomératique II de Valensole n’est pas disponible actuellement, mais dans le nord du plateau de
+Puimichel les marnes rouges d’Ajonc sont signalées comme sus-jacentes à une surface d’érosion (Gigot
+et al, 1981) et sont considérées dans notre travail comme un équivalent latéral de l’unité
+conglomératique II de Valensole terminant le remplissage du bassin de Valensole.
+
+3. MÉTHODOLOGIE
+
+           Pour contraindre la géométrie des structures de la zone étudiée, nous avons acquis de nouvelles
+données de terrain (12 journées de terrain). Elles complémentent des données déjà existantes sur les
+cartes géologiques au 1/50 000 du Bureau de Recherches Géologiques et Minières (BRGM) et apportent
+ponctuellement des corrections à ces cartes. Les données acquises lors de l’étude de terrain comportent
+environ 150 mesures de pendages, dont les plus proches des tracés de coupes ont été utilisées pour leur
+construction, ainsi que des données de micro-tectonique non présentées ici (5 sites). Les forages ont été
+utilisés lorsqu’ils étaient disponibles sur le site InfoTerre : Gréoux 1 à 4, Les Mées 1 et Mirabeau 1 et
+2. Il en va de même pour des sondages de faibles profondeurs afin de contraindre les épaisseurs des
+unités sédimentaires de surface : 1 et 2/S au Sud des Maurras et PZ-2 au NE de Ginasservis. La ligne
+sismique 75 DV1 disponible à proximité des Mées a été réinterprétée. Enfin, les données sismiques
+issues de Cushing et al (2008) ont permis la localisation approximative en profondeur des structures
+actives.
+
+
+
+
+                                                                                                       14
+        L’ensemble de ces données a été utilisé pour la construction d’une coupe équilibrée (position :
+Fig. 5). Notre but était de représenter au mieux la géométrie et les relations entre les différentes unités
+tectoniques à l’actuel, mais aussi à des stades antérieurs. Nous avons effectué des restaurations à
+l’interface Jurassique/Crétacé, à la base du Miocène et au sommet du Serravalien. Ces étapes de
+restauration ont été choisies stratégiquement 1) afin de différencier au mieux les différents héritages
+tectoniques que sont l’extension téthysienne et la compression pyrénéenne, l’extension oligocène et la
+phase miocène de l’orogène alpin ; 2) selon la qualité et la répartition des données disponibles pour
+limiter au maximum des biais d’extrapolation.
+
+        Les techniques quantitatives d'équilibrages des coupes géologiques permettent, en appliquant
+des règles géométriques et cinématiques simples, de proposer des géométries cohérentes aux structures
+géologiques profondes (Dahlstrom, 1969). Les coupes équilibrées permettent de valider les états final
+et initial de la déformation (reconstructions palinspastiques) et d'estimer les taux de raccourcissement
+ou d'extension des structures géologiques. Leur développement numérique ces quatre dernières
+décennies a favorisé indéniablement le succès de l'exploration dans les chaînes de montagne (Boyer et
+Elliot, 1982 ; Suppe et Medwedeff, 1990 ; Coward, 1996 ; Midland Valley Exploration Ltd, 2014). La
+coupe équilibrée présentée dans ce rapport a été construite en utilisant des techniques géométriques
+standards (Suppe, 1983 ; Jamison, 1987) et restaurée en utilisant les méthodes du "flexural slip". La
+restauration par "flexural slip" permet le dépliage d'une structure par rapport à un niveau de référence
+(niveau régional ou "datum") et une "pin line" le long de laquelle les points ne sont pas translatés. Lors
+du dépliage, un cisaillement parallèle aux couches permet de supprimer l'effet du glissement bancs-sur-
+bancs. L'algorithme du "flexural slip" préserve les longueurs, les aires et les épaisseurs des bancs.
+L’équilibrage et les restaurations ont été réalisés avec le logiciel « Move ».
+
+        Pour appliquer cette méthodologie, la coupe doit être orientée de manière à recouper
+orthogonalement les principales structures plissées et faillées, de direction globale WNW-ESE dans la
+zone d’étude, tout en évitant au maximum les structures obliques et décrochantes.
+
+4. RÉSULTATS
+
+4.1. Structure générale
+
+        La coupe réalisée d’environ 94 km à travers le bassin d’avant-pays pyrénéo-alpin de Provence
+(Fig. 8a) recoupe différentes unités structurales avec respectivement du Sud au Nord : le bassin de l’Arc,
+l’unité d’Ollières, l’unité d’Artigues, le bassin de Rians, le massif du Mont-Major, la partie nord-est du
+diapir de Rians, l’unité de Vinon, l’unité de Gréoux, la zone de Saint-Martin-de-Bromes enfouie sous la
+formation de Valensole et enfin le bassin de Valensole. Le bassin de Valensole se divise en une unité
+vraisemblablement plio-quaternaire en surface et peu déformée au Sud, puis vers le Nord les anticlinaux
+à matériel miocène de Lambruissier, Mirabeau-Mallemoisson et Aiglun, la klippe jurassique de la
+Robine (nappe de Digne) chevauchant la bordure nord du bassin de Valensole (Vélodrome
+
+
+
+
+                                                                                                        15
+d’Esclangon), pour atteindre finalement les unités plissées de la région de Barles (anticlinal de La
+Maurière et la Grande Cloche). Dans le texte qui suit, nous allons d’abord décrire les structures du
+domaine sud-provençal puis la structure du bassin de Valensole.
+
+4.2. Le domaine sud-provençal
+
+        A l’extrémité Sud de la coupe se développent principalement des unités structurales à affinité
+pyrénéo-provençale caractérisées généralement par des vergences vers le Nord et détachées dans les
+évaporites du Trias (Tempier, 1987). Le synclinal du bassin de l’Arc est transporté vers le Nord sur le
+chevauchement d’Ollières, qui correspond à la continuité vers l’Est du système chevauchant de la
+montagne Sainte-Victoire. Vers l’Est, ce chevauchement place les formations marines du Jurassique et
+du Crétacé inférieur sur les formations continentales du Valdo-Fuvélien et du Bégudien du bassin
+d’Ollières. La géométrie et les variations d’épaisseur des dépôts berriasiens visibles sur le terrain et par
+image satellite suggèrent une activité initiale en faille normale de ce chevauchement. Cette unité
+chevauche vers le Nord l’unité d’Artigues. L’unité d’Artigues chevauche par le biais d’une écaille
+intermédiaire le bassin de Rians, composé en son cœur par les sables bleutés éocènes (Philip et al, 2017).
+La profondeur du toit du socle sous le bassin est estimée à environ 2 km à partir des données
+aéromagnétiques. La structure synclinale du bassin de Rians peut avoir été contrôlée par des
+mouvements des évaporites Trias comme décrit plus à l’Est par Espurt et al (2019).
+
+        La bordure nord du bassin de Rians est chevauchée vers le Sud par le massif Jurassique du Mont-
+Major. Le Mont-Major présente en son sommet des séries d’âge Miocène avec des pendages avoisinant
+les 20° vers le Nord. Cette déformation post-miocène du massif est corrélée avec une sismicité sous le
+Mont-Major (Cushing et al, 2008). Vers le Nord, le diapir de Rians sépare le massif du Mont-Major de
+l’unité de Vinon. La mise en place du diapir semble avoir commencé dès le Jurassique comme l’indique
+les variations d’épaisseurs des séries jurassiques et la discordance du jurassique moyen-supérieur sur les
+évaporites du Trias. L’inversion du diapir de Rians pendant les compressions pyrénéo-provençale et
+alpine s’effectue sous la forme d’un pop-up. L’unité de Vinon forme un chevauchement majeur à
+vergence nord. Les séries mésozoïques de cette unité sont déformées par deux failles normales
+mésozoïques majeures à pendage nord et mineures à pendage sud. Le puits PZ-2 au Nord de l’unité
+permet de déterminer l’épaisseur du Néocomien subsistant. Au Nord, le chevauchement de Vinon est
+parfaitement visible dans la région de Saint-Julien. Dans cette zone, on peut voir les calcaires du Dogger
+plissés chevauchant les séries éocènes continentales du synclinal des Maurras (Fig. 9). Les puits 1 et 2/S
+dans ce synclinal contraignent les épaisseurs du Paléogène et du recouvrement miocène du
+chevauchement de Vinon. Nos observations de terrain, en accord avec la carte géologique, confirment
+que le chevauchement est scellé par les séries miocènes. Les données de ces forages et les données de
+surface suggèrent d’importantes variations d’épaisseurs des séries jurassiques sous le bassin des
+Maurras. Nous interprétons ces variations d’épaisseur comme résultant de l’activité de failles normales
+synsédimentaires et/ou liées au diapirisme. Le synclinal des Maurras est transporté vers le Nord sur le
+
+
+
+
+                                                                                                         16
+         chevauchement de Gréoux. La géométrie du système chevauchant de Gréoux est bien contrainte en
+         profondeur par quatre forages présents latéralement vers l’Ouest dont un atteignant le socle varisque
+         (Fig. 8b). Ce système correspond à l’imbrication de deux chevauchements, avec des rejets de 700 m
+         pour la faille supérieure et 3 km pour l’inférieure. L’unité de Gréoux chevauche une puissante formation
+         mésozoïque peu déformée qui forme un monoclinal faiblement incliné vers le Nord. Ce monoclinal
+         s’ennoie vers le Nord sous les formations du bassin de Valensole.
+
+
+
+
+(b)
+
+
+
+
+(c)
+
+
+
+
+      Figure 8 - : (a) Coupe équilibrée entre le bassin de l’Arc au Sud et la région de Barles au Nord. (b) Détails en 3D
+      de la zone sud-provençale et (c) du bassin de Valensole-zone de Barles. Voir la localisation de la coupe sur la
+      Fig.6). MtM : Mont-Major ; DR : Diapir de Rians ; Gi : Ginasservis ; SM : Saint-Martin-de-Bromes.
+
+
+
+
+                                                                                                                            17
+           Figure 9 - Chevauchement de Vinon à proximité du village de St-Julien-le-
+           Montagnié. Route départementale 35.
+
+4.3. Bassin de Valensole-Zone de Barles
+        Le bassin de Valensole est composé essentiellement sur la quasi-totalité de sa surface par la
+formation de Valensole (Fig. 6). Il est considéré que dans l’ensemble de cette zone, les dépôts miocènes
+puis pliocènes sont discordants et érosifs sur les formations sous-jacentes. Aucune déformation
+n’apparaît dans la partie Sud jusqu’à l’anticlinal de Lambruissier (Fig. 8c). Latéralement à la coupe, à
+proximité d’Oraison, le top du Miocène a été identifié à 507 m d’altitude suivant la géométrie du
+remplissage du canyon messinien de l’Asse (Dubar, 1984). Ce point a été projeté sur la coupe.
+Considérant ainsi que la surface d’abandon messinienne, qui est le sommet du Miocène, pouvait être
+subparallèle à la surface actuelle du bassin, mais en contrebas, nous avons tracé une surface basale de
+pente 0,55° vers le Sud passant par le point 507 m d’Oraison jusqu’à l’extrémité Sud du plateau où elle
+a été corrélée avec les limites d’affleurement. Le prolongement vers Lambruissier a été effectué jusqu’à
+la limite Nord des marnes d’Ajoncs, attendu que d’après Gigot et al (1981) cette formation remplit les
+canyons antécédant et se dispose par conséquent sous le toit altitudinal du Miocène. Ce niveau basal est
+de pente supérieur, 3°S. Etant donné qu’il se situe à l’aplomb de la structure des Mées, cette
+augmentation de la pente de la surface d’abandon messinienne pourrait être la conséquence d’une
+réactivation mineure quaternaire.
+
+        La structure profonde des Mées est bien contrainte par la sismique (Fig. 10) et le forage des
+Mées atteignant le socle (Dubois et Curnelle, 1978). Elle consiste en une paléo-faille normale de socle
+à pendage nord aujourd’hui partiellement inversée. Au Nord de la structure des Mées se développe
+l’anticlinal de Lambruissier, dont, si l’activité miocène est avérée, l’initiation est possiblement
+antérieure. Le forage des Mées indique une quasi-absence des formations triasiques au Sud de
+l’anticlinal de Lambruissier. Les données de surface nous amènent à interpréter l’anticlinal de
+Lambruissier comme un pli de détachement détaché sur les évaporites du Trias. La localisation du pli
+semble avoir été ainsi contrôlée par le biseau sédimentaire du Trias. Vers le Nord, l’anticlinal de
+propagation de Mirabeau-Mallemoisson (Fig. 11) présente un flanc sud court et un flanc nord long. La
+géométrie en profondeur est contrainte par les deux forages dans son cœur, dont un atteint le socle. Les
+
+
+
+
+                                                                                                     18
+forages traversent une puissante série miocène, puis le Mésozoïque, dans lequel une faille a été reconnue
+dans chacun des sondages, sans atteindre la surface. Il n’y a pas de preuves directes que ces
+chevauchements aveugles se propagent dans les formations miocènes. Cependant, les fortes variations
+de pendage et l’équilibrage le suggèrent. Enfin, les forages montrent que ces plis sont détachés sur les
+évaporites du Trias. Ce système structural se répète au Nord avec l’anticlinal d’Aiglun (Fig. 7c).
+
+        Vers le Nord, le bassin de Valensole est déformé par la zone de Barles et la Nappe de Digne.
+Sur la bordure nord du bassin, les séries d’âge Miocène à Pliocène sont déformées et forment un éventail
+sédimentaire, le synclinal du Vélodrome d’Esclangon, qui enregistre la migration vers le Sud du front
+alpin. En latéral de la coupe vers l’Ouest, dans la vallée des Duyes, de puissantes séries
+conglomératiques sont plissées et enregistrent la propagation de la Nappe de Digne. Des biseaux
+sédimentaires sont bien marqués dans l’Helvéto-Tortonien (Fig. 12). A l’extrémité septentrionale de
+cette vallée et dans le synclinal du Vélodrome d’Esclangon, le Miocène inférieur est inversé jusqu’au
+Langhien sous le chevauchement de la Nappe de Digne. La demi-klippe de la Robine issue de la Nappe
+de Digne se met en place par-dessus ce bassin Miocène dans lequel apparaissent latéralement des plis
+d’interférence. Enfin, au Nord, la compression sur les diapirs de Barles induit la formation de plis pincés,
+au niveau de la Maurière et de la Grande Cloche. Les plis de la zone de Barles ne seront pas dépliés. De
+même, la demi-klippe de la Robine de la nappe de Digne ne le sera pas non plus, car provenant du Nord
+et n’étant pas comprise, de facto, dans l’avant-pays alpin.
+
+
+
+
+       Figure 10 - Ligne sismique 75-DV1 à travers les Mées réinterprétée (procurée par M. Cushing).
+
+
+
+
+                                                                                                         19
+                               Le Vélodrome
+
+
+
+
+Figure 11 - Déformation des séries mio-pliocènes dans la partie Nord du bassin de Valensole. (a) détail de la coupe. (b) vue
+panoramique des plis de propagation de Mirabeau-Mallemoisson et d'Aiglun depuis la chapelle d'Aiglun. (c) Vue panoramique du
+Vélodrome d’Eslangon chevauché par la nappe de Digne aujourd’hui érodée (Modifiéé d’après Graham et al, 2012).
+
+
+
+
+                                                                                                                 20
+Figure 12 - Conglomérats syn-tectoniques d'âge Miocène supérieur structurés en discordance progressive au Nord
+du village de Thoard près du lieu-dit les Féraud. Ces dépôts enregistrent la mise en place de la nappe de Digne
+vers le Sud. La photo regarde vers le Sud-Est.
+
+
+
+4.4. Chronologie des déformations
+
+        Dans la zone sud-provençale, on observe des dépôts syntectoniques paléogènes uniquement
+dans le synclinal de Rians (Philip et al, 2017). Ces dépôts enregistrent la mise en place des
+chevauchements d’Artigues et de Mont-Major. Au nord, la quasi-totalité des structures compressives
+sont scellées par des dépôts d’âge Miocène. Le seul indice de déformation post-miocène est visible au
+niveau du massif du Mont-Major et peut-être dans le diapir de Rians où les cartes géologiques indiquent
+des séries miocènes fortement basculées. Cependant, les conditions actuelles d’affleurement dans le
+diapir de Rians ne permettent pas d’observer les séries miocènes anciennement cartées comme
+déformées. Les séismes actuellement enregistrés dans cette zone (Cushing et al, 2008) montrent aussi
+une déformation active sous le diapir de Rians. Hormis la déformation récente du système Mont-
+Major/diapir de Rians et la sismicité actuelle, on peut considérer que la structuration des
+chevauchements de la zone sud-provençale est principalement d’âge pyrénéo-provençal (Campanien à
+Eocène).
+
+        Dans la zone du bassin de Valensole, les plis de propagation de Mirabeau-Mallemoisson et
+d’Aiglun, de par leur géométrie, sembleraient s’être déjà formés lors de la compression pyrénéo-
+provençale (Dubois et Curnelle, 1978). De même l’anticlinal de socle des Mées serait d’âge pyrénéo-
+
+
+
+
+                                                                                                            21
+provençal. Les données de sismique réflexion montrent que les séries d’âge Mio-Pliocène du bassin de
+Valensole sont discordantes sur ces structures déjà existantes (Dubois et Curnelle, 1978). Une croissance
+précoce est aussi proposée pour les plis de la zone de Barles comme le montrent plusieurs biseaux
+sédimentaires dans les formations d’âge Eocène-Oligocène (Gigot et al, 1974). La réactivation des
+anticlinaux de la Maurière, de Mirabeau-Mallemoisson et d’Aiglun et la formation du pli de détachement
+de Lambruissier s’effectuent principalement à partir du Serravalien, suivie de la mise ne place de la
+Nappe de Digne à la fin de Miocène ou au début du Pliocène (Schwartz et al, 2017). La propagation
+vers le Sud se poursuit encore aujourd’hui comme l’atteste la sismicité actuelle sous le bassin de
+Valensole et l’arc de Digne.
+
+4.5. Restauration séquentielle et estimation des raccourcissements pyrénéo-provençal et alpin
+
+        Les dépôts syntectoniques et les surfaces d’érosions majeures couplés à la technique des coupes
+équilibrées nous ont permis de réaliser le modèle évolutif de la Fig. 13. La construction de la coupe à
+l’état actuel et sa restauration en séquences permettent de quantifier la déformation au cours du temps
+et dans l’espace. Le raccourcissement du socle ne peut être déterminé avec précision par manque de
+contraintes et de temps mais fera l’objet d’une étude future. Seul le raccourcissement dans la couverture
+a été estimé. La coupe équilibrée a été restaurée pour trois périodes clés de l’évolution du bassin (Fig.
+13) : au Tithonien-Berriasien (état du système avant la compression pyrénéo-provençale) puis à la base
+du Miocène (après la compression pyrénéo-provençale et avant la compression alpine) et enfin au
+Serravalien (étape pendant la compression alpine). Nous avons calculé les valeurs de raccourcissement
+en considérant une pin-line (repère fixe) à l’extrémité sud du bassin de Valensole en prenant le toit du
+Jurassique comme repère pour les mesures de longueurs (régional connu).
+
+        La restauration base Miocène (Fig. 13c) montre un raccourcissement pyrénéo-provençal de 9.1
+km dans la zone sud-provençale et de 1.1 km dans le bassin de Valensole (Les Mées, Mirabeau-
+Mallemoisson, Aiglun et La Maurière) soit un total de 10.2 km (soit 10%). A partir du Serravalien la
+déformation alpine commence à se propager dans le bassin de Valensole avec la réactivation des
+structures de La Maurière, Aiglun et Mirabeau-Mallemoisson (0.84 km de raccourcissement). Ces
+structures déforment les séries miocènes précédemment déposées dans le dépocentre d’un système
+d’avant-pays classique (foredeep) se biseautant vers le sud sur un hypothétique bourrelet périphérique
+(forebulge). A la fin du Serravalien, la compression alpine continue de se propager vers le Sud mais
+essentiellement dans la partie Nord de la coupe avec un raccourcissement additionnel de 3.1 km. Le
+raccourcissement total alpin atteint ainsi 3.9 km (soit 4 %) entre la fin du Miocène et l’actuel le long de
+cette coupe. A cela, il faudrait ajouter le faible raccourcissement enregistré dans le diapir de Rians et le
+Mont-Major au Sud (< 100 m).
+
+        En résumé, le raccourcissement total N-S calculé le long de notre coupe pour les deux phases
+compressives atteint 14.1 km.
+
+
+
+
+                                                                                                         22
+Figure 13 - Restauration séquentielle de la coupe équilibrée entre le bassin de l'Arc au Sud et la zone de Barles
+au Nord à travers le bassin de Valensole. (a) état actuel. (b) restauration au Serravalien. (c) restauration en base
+du Miocène. (d) restauration au toit des séries Tithonien-Berriasien. Voir explications et interprétations dans le
+texte de la séquence de déformation.
+
+
+
+
+                                                                                                                 23
+5. EVOLUTION TECTONIQUE ET STRUCTURATION DE L’AVANT-PAYS PYRENEO-
+ALPIN DE PROVENCE
+
+        Deux zones principales ont été identifiées lors des restaurations, situées de part et d’autre de la
+bande Verdon/limite Sud du bassin de Valensole. La partie méridionale se distingue par un
+raccourcissement essentiellement pyrénéen, tandis que dans la partie septentrionale, le
+raccourcissement, bien qu’initié par l’orogène des Pyrénées, a eu lieu principalement à l’alpin. Dans les
+deux cas, la déformation est influencée par des structures, aussi bien de socle que de couverture, héritées
+des évènements précédents.
+
+5.1. Extensions anté-pyrénéennes
+
+        Le démantèlement de la Pangée structure de forts dépôts évaporitiques dans les zones basses
+créées par le jeu en failles normales lors de la formation de la marge. La charge sédimentaire qui
+s’accumule à partir du Rhétien entraîne le fluage des évaporites qui vont structurer les bassins
+sédimentaires. La restauration de la coupe à la limite Tithonien-Berriasien met en évidence la présence
+de deux bassins triasiques séparés par le haut structural de l’Asse : un bassin sud, épais et déformé par
+de nombreuses failles de socle et associé à du diapirisme et à la formation de dômes et mini-bassins au
+Jurassique et peut être au Berriasien (future zone sud-provençale) ; un bassin nord qui forme un prisme
+qui s’ouvre vers le nord et qui se biseaute au niveau des Mées (future zone des chevauchements alpins).
+Si la faille d’Ollières ne semble pas forcement liée à une faille de socle, c’est le cas pour toutes les autres
+unités de manière non continue par transposition et accommodation de la déformation par les unités
+salifères. L’unité de la montagne d’Artigues, de faible épaisseur de Lias, pourrait se superposer à un
+appareil salifère imposé par la topographie du socle et les charges sédimentaires des deux unités Nord
+et Sud, dont les bordures biseautées leur donnent une allure en mini-bassins. C’est particulièrement le
+cas pour le bassin de Rians. Il en est de même au Nord du Mont-Major, où les dépôts jurassiques viennent
+s’amincir au sommet du dôme diapirique de Rians, probablement en association avec une faille de socle,
+mais aussi pour le bassin de Ginasservis. Une structure salifère de type dôme pourrait s’être développée
+entre les unités de Vinon et de Gréoux en association avec une faille normale de couverture à pendage
+sud opposée à la faille de socle sous-jacente. Cette faille normale affectant la couverture sédimentaire
+jurassique pourrait être une normale synsédimentaire jurassique accommodant la mise en place du dôme.
+
+5.2. Compression pyrénéenne
+
+        La phase pyrénéenne se concentre particulièrement dans la zone sud-provençale qui se
+superpose au bassin triasique sud provençal (Fig. 13). L’inversion des unités de socle est mineure mais
+contrôle les décollements dans le Trias provenant du Sud et de la butée de l’écaille de socle détachant
+le bassin de l’Arc vers le Nord (Espurt et al, 2012). Ce déplacement contrôle par propagation et
+accommodation dans les décollements évaporitiques la structuration de toute cette zone, où la couverture
+se découple du socle avec un différentiel de 8 km de raccourcissement. Les chevauchements d’Artigues
+
+
+
+
+                                                                                                            24
+et Vinon décapitent des dômes mésozoïques. Le fluage du sel et le serrage tectonique induisent la mise
+en place du diapir de Rians. Le bassin de Rians se comporte en mini-bassin intra-montagneux et est
+rempli de matériel du Crétacé supérieur et du Paléogène, décrit par Philip et al (2017). On retrouve de
+l’Eocène syn-tectonique sous le chevauchement de Vinon. Au Nord, la restauration fait apparaître une
+mise en place possible des anticlinaux de Mirabeau-Mallemoisson et Aiglun dès la phase de compression
+pyrénéo-provençale. L’unité de socle des Mées est inversée. La phase pyrénéo-provençale est marquée
+par la distribution de la déformation en Provence méridionale en de nombreuses unités décollées sur le
+Trias avec un fort héritage structural de socle. Ce contrôle n’est pas favorable à la mise en place d’un
+bassin d’avant-pays sensu stricto (Roure et Colletta, 1996).
+
+5.3. Phase extensive liguro-piémontaise
+
+        Si l’impact de cette phase sur notre coupe n’est pas établi du fait de l’absence de dépôt Oligocène
+à proximité de la coupe étudiée, elle n’est pour autant pas négligeable. Un certain nombre de bassins
+extensifs existent en effet (Angelier, 1971 ; Philip et al, 2017 ; Fig. 14). Ils peuvent être associés au vu
+de leurs directions dans l’aire La Verdière-Barjols au fonctionnement diapirique durant le rifting, lors
+duquel les dépôts oligocènes se déposent en discordance dans des grabens NNW-SSE. Les bassins de
+Quinson et de Bauduen, de même orientation, sont sans doute synchrones mais n’ont pas conservé
+l’enregistrement sédimentaire oligocène.
+
+
+
+
+       Figure 14 - Carte structurale simplifiée de la Basse-Provence mettant en évidence les
+       bassins oligocènes (Philip et al, 2017)
+
+
+
+
+                                                                                                         25
+5.4. Phase alpine
+
+          Après l’initiation de l’orogène alpin, au Serravalien, la Basse-Provence septentrionale ne semble
+pas impactée par la propagation du front alpin. Le remplissage type de bassin d’avant-pays du bassin de
+Valensole a lui bien débuté (Fig. 13). Il s’organise sous forme d’un foredeep au Nord discordant sur
+toutes les séries antérieures, au remplissage limité par un forebulge à l’aplomb de la ville actuelle de
+Valensole. La zone pyrénéo-provençale n’enregistre apparemment pas de système backbulge.
+L’extrémité Nord, au niveau du Vélodrome, prend déjà une forme synclinale, affectée par la migration
+du front alpin. Le Langho-Serravalien en vallée des Duyes enregistre bien cet évènement, avec la mise
+en place de biseaux sédimentaires progressifs (Ravin de Mauduech par exemple ; Haccard et al, 1989),
+mais aussi localement de growth-strata imposantes au Serravalo-Tortonien (Fig. 12) quand le Langhien
+se déposait auparavant en milieu marin plus profond. Le déplacement vertical des unités et l’avancée
+vers le Sud des Alpes se fait donc à une vitesse conséquente à ce moment. Les anticlinaux de Mirabeau-
+Mallemoisson et Aiglun commencent peut-être à rejouer à ce moment.
+
+          Le remplissage miocène continue au Tortonien et au début du Messinien. Le bassin en éventail
+de la vallée des Duyes se termine en continuité par des conglomérats de l’unité 1 de Valensole tortono-
+messinienne, avec des galets principalement issus de formations liasiques. Il est donc possible que la
+nappe de Digne débute son mouvement à cette période. L’anticlinal de Lambruissier est déjà en place
+au Pliocène, comme en attestent les marnes d’Ajoncs : sa formation doit être aussi datée de la fin du
+Miocène. Le coeur du pli est formé par un bourrage de sel issu du détachement sur les évaporites à son
+initiation, peut-être contrôlé par la géométrie du flanc Nord du horst des Mées.
+
+          La partie Sud de la coupe est principalement structurée au pyrénéen comme nous l’avons noté,
+à l’exception des unités associées au diapirisme. Les bassins oligocènes de Gigeri et de la Combe (Fig.
+14), au contact occidental du diapir de La Verdière, subissent eux aussi une forte déformation postérieure
+à leur mise en place (Angelier et Aubouin, 1976). A l’extrémité Nord et dans l’alignement structural du
+diapir, les bassins syn-rifts de Bourdas et du Plan d’Auron soulignent un serrage relativement important
+(Angelier, 1971), mais difficilement quantifiable. Latéralement de la coupe, les dépôts miocènes
+sommitaux des diapirs de Barjols/La Verdière et de Rians dans la plaine de Valavès montrent des
+pendages témoignant d’une activité diapirique syn à post-miocène. A l’inverse, le Miocène entre Vinon
+et Ginasservis, dans la gouttière des Maurras ou encore à Tavernes, ne présente pas de pendages
+significatifs, inférieurs à 10°. Or, près des Maurras, des foresets d’un tel ordre de grandeur sont
+parfaitement visibles, tandis qu’entre Vinon et Ginasservis ou au Nord de St-Julien-le-Montagnié, les
+dépôts paraissent plutôt draper en discordance des reliefs préexistants. Il apparaît donc que le Miocène
+de Basse-Provence est déformé uniquement s’il est lié à du diapirisme, en accord avec Mennessier
+(1959).
+
+
+
+
+                                                                                                        26
+6. DISCUSSION
+
+6.1. Une contrainte du socle incertaine
+
+        Le socle est très mal contraint dans la zone étudiée. Un profil aéromagnétique nous donne sa
+profondeur dans la région de Rians, de la sismique dans la région des Mées avec un forage, un puits à Gréoux
+et un autre à Mirabeau-Mallemoisson. A part ces quelques points déterminant la profondeur du toit du socle,
+cette dernière n’est pas connue en continu le long de la coupe. Des données supplémentaires, notamment en
+Basse-Provence, seraient nécessaires : elles permettraient notamment de mieux caractériser les relations avec
+le diapirisme et l’épaisseur des formations évaporitiques triasiques, très incertaines au niveau de
+Ginasservis/Vinon par exemple. Des lignes sismiques existent dans la zone, mais seulement une partie est en
+cours de retraitement tandis que des lignes longitudinales au plateau de Valensole ne sont pas disponibles.
+
+        La structuration interne du socle est encore plus incertaine. La sismicité nous permet de supposer une
+faille de socle à l’aplomb de Valensole (Cushing et al, 2008), et une autre sous Vinon avec un séisme en latéral
+de la coupe. A part la faille des Mées de Dubois et Curnelle (1978) qui laisse peu de place au doute, les
+vergences sont établies par extrapolation des structures des Maures, où les accidents E-W sont majoritairement
+à pendage fort vers le Nord (e.g Toutin-Morin et al, 1992 : Rollet et al, 2002 ; Rolland et al, 2009) si l’on
+excepte l’accident de Tanneron fermant le graben du Bas-Argens. L’existence d’un réel horst près de la ville
+de Valensole, avec une faille permo-carbonifère à pendage Sud dans la zone de Gréoux et la faille des Mées
+au Nord, pourrait expliquer le haut-structural existant et la faiblesse voire l’inexistence des dépôts mésozoïques
+et paléogènes dans la moitié méridionale du bassin de Valensole. De même, une telle faille n’est pas
+contradictoire avec la déformation de couverture pyrénéenne en Basse-Provence, en servant de butée Nord,
+d’où l’empilement structural de Vinon-Gréoux.
+
+6.2. Style et distribution de la déformation pyrénéenne
+
+        Nous mettons ici en évidence une déformation thin-skin en Basse-Provence septentrionale durant
+l’orogène des Pyrénées avec un décollement situé dans les évaporites du Trias. Si cela n’est pas opposé à la
+mise en place d’un prisme d’accrétion en aval de la chaîne, quand la partie plus en amont est en thick-skin, et
+qu’il est certain que le raccourcissement de couverture est largement dominant ici, sans une meilleure
+contrainte du socle et une réelle quantification de son raccourcissement, il est impossible d’assurer pleinement
+que la part thick-skin est totalement négligeable (Bestani et al, 2016 ; Espurt et al, 2019).
+
+        Concernant le bassin de Valensole, notre restauration semble indiquer une initiation de la déformation
+au pyrénéen dans les anticlinaux de Mirabeau-Mallemoisson et d’Aiglun. Un biais de dépliage sur ces
+structures emboîtées en rampes n’est pas à exclure. Toutefois, il est établi que des plis anté-oligocènes existent
+plus au Nord dans les unités de la Nappe de Digne (Gigot et al, 1974), attestant d’une propagation très distante
+au Nord de l’orogène pyrénéen.
+
+6.3. Chronologie de la mise en place de la nappe de Digne et structure en profondeur
+
+        Si la structuration et les environnements de dépôt des formations de l’Helvétien dans la vallée des
+Duyes attestent d’un foredeep progressant rapidement vers le Sud à cet époque, l’unité 1 de Valensole
+
+
+
+                                                                                                               27
+serravalo-tortonienne dans la même zone avec la dominante de galets liasiques montre un état avancé de
+l’érosion des structures plus internes des Alpes. L’Helvétien peut donc être considéré comme concomitant de
+l’initiation de la nappe de Digne. Ses déformations internes, des plis d’interférences notamment, témoignent
+cependant de l’état consolidé au moment de la mise en place de l’unité de la Robine. Hippolyte et al (2011)
+ont pu restreindre encore cet intervalle via l’étude de paléo-rivières et des canyons de la crise messinienne et
+du Zancléen : cette unité vient chevaucher le bassin de Valensole après le creusement des canyons messiniens,
+mais avant la phase zancléenne. Il apparaît donc que la Robine se met en place au Pliocène précoce. Ces mêmes
+auteurs ont également confirmé une déformation quaternaire hors-séquence de la nappe de Digne par le
+décalage de canyons le long de la faille du Bès. Si une rotation des structures du bassin est envisageable, il
+l’est aussi de proposer que la déformation compressive du bassin de Valensole n’est à ce moment plus active.
+
+         Concernant la structure en profondeur des unités sous-jacentes à la Robine et au Vélodrome
+d’Esclangon, si les auteurs s’accordent généralement sur l’idée d’une écaille de socle « bulldozer » venant tout
+compresser du Nord (Goguel, 1944 ; Gigot et al, 1974 ; Fournier et al, 2008 ; Graham et al, 2012), on peut
+constater certaines divergences. Graham et al (2012) proposent un écaillage de la couverture sous le
+Vélodrome (Fig. 15). Si l’épaisseur des niveaux sédimentaires est sans doute réellement importante au regard
+du passé en bassin flexural du bassin de Valensole, il semble que ces auteurs surestiment la profondeur du
+socle en contradiction avec la profondeur de socle estimée par Schwartz et al (2017). Nous avons donc choisi
+ici un modèle basé sur les interprétations plus traditionnelles, tout en tenant compte des corrections
+chronologiques effectuées depuis les travaux de MM. Goguel et Gigot.
+
+
+     S                                             La Robine                                                N
+
+
+
+
+                      Figure 15 - Coupe du substrat de la Robine d'après Graham et al (2012).
+
+6.4. Préservation du bassin de Valensole et de la Basse-Provence septentrionale
+
+         Il convient enfin de se demander pour quelles raisons le bassin de Valensole est si peu déformé par
+l’orogène alpin relativement aux deux unités les bordant à l’Est à l’Ouest. La position haute du socle sous le
+bassin de Valensole peut apporter des éléments de réponse, en servant de butée à la déformation alpine et dans
+la transmission de la déformation crustale vers le Sud. Si dans un premier temps, les contraintes sont telles que
+le front alpin s’amortit avec la formation des plis de Lambruissier, Mirabeau-Mallemoisson et Aiglun grâce à
+des décollements dans les évaporites triasiques, ainsi qu’en mettant en place l’unité de la Robine issue de la
+nappe de Digne au Miocène/début Pliocène, les déformations depuis lors ne semblent pas être conséquentes.
+En conséquence, la Basse-Provence septentrionale paraît ne pas subir non plus de déformation du fait de la
+présence du bouclier crustal qu’est l’unité de Valensole (Fig. 16).
+
+
+
+                                                                                                                28
+        Dans un second temps, il est bien acquis désormais que les unités aux bordures, les arcs Nord-
+Provençaux et de Digne-Castellane, dont la base de la pile sédimentaire est évaporitique, continuent leur
+propagation (Le Pichon et al, 2010 ; Hippolyte et al, 2011) le long de grandes structures décrochantes : Faille
+de la Moyenne-Durance à l’Ouest, du Bès à l’Est. L’orientation de ces structures faillées permet la
+concentration de la déformation aux extérieurs du bassin de Valensole. En Basse-Provence, il apparaît
+cartographiquement que les deux arcs viennent se propager en provenance du Nord-Est et du Nord-Ouest. Ceci
+peut ajouter à la théorie de la tectonique gravitaire ou à un transfert latéral par accommodation des unités plus
+avancées.
+
+
+
+
+Figure 16 - Modèle géodynamique et paléogéographique expliquant la propagation de la déformation alpine vers le Sud
+en Provence. On peut voir que le front Sud de déformation alpin se superpose aux bassins évaporitiques triasiques. Le
+haut structural de Valensole qui ne présente pas de série triasique permettant le décollement des séries mésozoïques
+agit comme un « bouclier » sur la propagation des chevauchements. Le seul moyen pour expliquer la réactivation de
+structures plus au Sud (Diapir de Rians-Mont-Major et Sud des régions du bassin de l’Arc et de Barjols), est de supposer
+un décollement intra-crustal sous le bassin de Valensole, un raccourcissement provenant du Sud en relation avec la
+géodynamique globale Eurasie/Afrique ou bien une activité diapirique autonome liée à la charge sédimentaire.
+6.5. Tectonique active
+
+        Dans le cas précédent, comment expliquer l’activité à proximité des diapirs de Rians et La Verdière,
+ou encore la sismicité sous Valensole ? Concernant les diapirs, les phénomènes d’accommodation de la
+déformation provenant des Alpes peuvent éventuellement transférer et concentrer la déformation dans les
+niveaux évaporitiques, exhumés donc pouvant fluer aisément dans des structures précédemment déformées et
+favorables.
+
+
+
+
+                                                                                                                     29
+        Toutefois, cela n’explique pas la sismicité sous Valensole. Il peut alors s’agir d’une déformation
+crustale alpine toujours active. A l’opposé, et dans une échelle géodynamique plus globale, cette activité peut
+résoudre de la remontée vers le Nord de la plaque africaine (Bergerat, 1987), qui réactiverait en prisme
+intercutané une structure héritée.
+
+7. CONCLUSION
+
+        Aussi faible au regard de la chaîne alpine soit-elle, la déformation alpine s’est exercée sur le bassin de
+Valensole notamment via des structures héritées du socle telles que la faille des Mées. Le raccourcissement
+alpin, à hauteur de 3.9 km, se concentre sur ce bassin, très peu affecté par la phase pyrénéo-provençale, elle-
+même dominante en Basse-Provence septentrionale et d’environ 10.2 km. Cette dernière déformation
+s’apparente principalement à des décollements de couverture impulsés par une tectonique de socle plus
+méridionale, et qui viennent structurer les unités en fonction du diapirisme et de la disposition préalable des
+unités de socle, elles-mêmes apparemment peu raccourcies mais contrôlant via la paléogéographie mésozoïque
+la mise en place du diapirisme des évaporites triasiques. La déformation totale représente 14.1 km.
+
+        La relation de cette zone de l’avant-pays pyrénéo-alpin de Provence avec le front alpin n’est toujours
+pas clairement établie, bien que précisée. Une coupe équivalente à travers l’arc Nord-Provençal à l’Ouest est
+en cours de réalisation, appuyée par davantage de données de sous-sol, afin d’établir un parallèle de
+comparaison et de mettre à jour de la coupe de Bestani et al (2016). De même, une troisième coupe dans la
+région du Verdon vers l’Est, recoupant le diapir de Barjols, les structures oligocènes et le bassin de
+Montmeyan, est en passe de se terminer (Fig. 17). Elle permettra d’établir l’influence réelle de la phase liguro-
+provençale, et de mieux caractériser la structure de la Basse-Provence septentrionale par une vision 3D.
+
+
+
+
+           Figure 27 - Coupe de Bauduen E-W des bassins oligocènes. (Coupe « C » localisée sur la Fig. 16)
+
+
+
+
+                                                                                                               30
+8. BIBLIOGRAPHIE
+
+AGUILAR, J.-P. et CLAUZON, G., 1981, Découverte de trois nouveaux gisements à rongeurs d’âge miocène
+en Provence nord-orientale. Implications géodynamiques et paléogéographiques, C. R. Acad. Sc. Paris, t.292,
+p 909-912
+ANGELIER, J., 1971, La partie septentrionale de la bande triasique de Barjols (Var). Thèse de 3e cycle,
+Paris. Première partie, 194 p.
+ANGELIER, J., AUBOUIN, J., 1976, Contribution à l’étude géologique des bandes triasiques provençales :
+de Barjols (Var) au bas Verdon. Bulletin du BRGM, (2), I, n° 3, 187-217.
+BEAUDOUIN, B., GIGOT, P., HACCARD, D., 1970, Flysch et Molasse, approche sédimentologique, Bull.
+Soc. Géol. de France (7), Xii, n°4, p. 664-672.
+BEAUDOUIN, B., CAVELIER, C., HACCARD, D., LANTEAUME, M., PERRIN, M., 1966, A propos de
+l’âge des molasses de Tanaron (Basses-Alpes) : la redécouverte du gisement de Cérithes et ses conséquences
+structurales, Bull. Soc. Géol. de France (7), VIII, p 458-460.
+BESSON, D., 2005, Architecture du bassin rhodano-provençal miocène (Alpes, SE France). Relations entre
+déformation, physiographie et sédimentation dans un bassin molassique d’avant-pays, Thèse, Ecole des Mines
+de Paris – ParisTech, 438 p.
+
+BERGERAT, F., 1987, Paléo-champs de contrainte tertiaires dans la plate-forme européenne au front de
+l’orogène alpin, Bull. Soc. Géol. Fr., 8, III, n°3, 611-620.
+BESTANI, L., ESPURT, N., LAMARCHE, J., FLOQUET, M., PHILIP, J., BELLIER, O., HOLLENDER, F.,
+2015. Structural style and evolution of the Pyrenean-Provence thrust belt, SE France, Bull. Soc. Géol. Fr.,
+186, 223–241.
+BESTANI, L., ESPURT, N., LAMARCHE, J., BELLIER, O., HOLLENDER, F., 2016, Reconstruction of the
+Provence Chain evolution, southeastern France, Tectonics, 35, http://dx.doi.org/10.1002/2016TC004115.
+BOYER, S. E., ELLIOTT, D., 1982, The geometry of thrust systems, AAPG Bull., 66, 1196–1230.
+BROCARD, C., PHILIP, J., 1989. Précisions stratigraphiques sur le Trias de la Provence orientale :
+conséquences structurales et paléogéographiques, Géologie de la France, 3, 27-32.
+BROCARD, C., 1991, La plate-forme provençale au Trias moyen : un modèle de rampe carbonatée en milieu
+restreint. Thèse de l’Université de Provence. 227 p. XIII pl.
+BUROV, E.B., 2015, Plate Rheology and Mechanics dans Treatise on Geophysics (second edition), chapitre
+6.03, vol.6: Crustal and Lithosphere Dynamics.
+
+CHAMPION, C., CHOUKROUNE, P., CLAUZON, G., 2000, La déformation post-Miocène en Provence
+Occidentale, Geodinamica Acta 13 (2000) 67–85.
+
+CLAUZON, G., 1975, Sur l’âge villafranchien du chevauchement subalpin au droit de Puimoisson (Alpes-de-
+Haute-Provence), C.R. Acad. Sci., Paris, 280, 2433-2436.
+
+CLAUZON, G., AGUILAR, J.-P., MICHAUX, J., 1989, Relation temps-sédimentation dans le Néogène
+méditerranéen français, Bull. Soc. Géol. de France (8), t. V, p. 361-372.
+
+CLAUZON, G., 1996, Limites de séquences et évolution géodynamiques, Géomorphologie : Relief,
+processus, environnement, 1996, n°1, p. 3-22.
+
+CLAUZON, G., 1998, L’impact des variations eustatiques du bassin de Méditerranée occidentale sur
+l’orogène alpin depuis 20 Ma, Et. Géogr. Phys. n°XXVIII, Actes du colloque « La montagne
+méditerranéenne ».
+
+
+
+                                                                                                        31
+CLERC, C., LAHFID, A., MONIÉ, P., LAGABRIELLE, Y., CHOPIN, C., POUJOL, M., BOULVAIS, P.,
+RINGENBACH, J-C., MASINI, E., DE SAINT-BLANQUAT M., 2015, High-temperature metamorphism
+during extreme thinning of the continental crust: a reappraisal of the North Pyrenean paleo-passive margin,
+Solid Earth.
+
+COLOMB, E., DURAND, J.-P., ROUIRE, J., 1969, Notice explicative de la feuille AIX-EN-PROVENCE à
+1/50 000, BRGM.
+
+COUËFFÉ, R., TESSIER, B., GIGOT, P., BEAUDOUIN, B., 2004, Tidal rhytmites as possible indicators of
+very rapid subsidence in a foreland basin: an example from the Miocene marine molasse formation of the
+Digne foreland basin, SE France, Journal of Sedimentary research, vol. 74, n°6, p 746-759.
+
+COWARD, M. P., 1996, Balancing sections through inverted basins, Geol. Soc. Spec. Pub., 99, 51–77.
+
+CUSHING, E. M., BELLIER, O., NECHTSCHEIN, S., SEBRIER, M., LOMAX, A., VOLANT, P., DERVIN,
+P., GUIGNARD, P., BOVE, L., 2008. A multidisciplinary study of a slow-slipping fault for seismic hazard
+assessment: The example of the Middle Durance Fault (SE France), Geophys. J. Int., 172, 1163–1178,
+http://dx.doi.org/10.1111/j.1365-246X.2007.03683.x.
+DAHLSTROM, C. D. A., 1969, Balanced cross-sections, Can. J. Earth Sci., 6(4), 743–757.
+DELFAUD, J., TOUTIN-MORIN, N., MORIN, R., 1989. Un cône alluvial en bordure d’un bassin
+intramontagneux : La formation permienne du Rocher de Roquebrune (Bassin du Bas-Argens, Provence
+orientale), C. R. Acad. Sci., Ser. II: Mec., Phys., Chim., Sci. Terre Univers, 309, 1811–1817.
+DEMARCQ, G., MAGNE, J., ANGLADA, R., CARBONNEL, G., 1974, Le Burdigalien stratotypique de la
+Vallée du Rhône : sa position biostratigraphique, B.S.G.F., (7), XVI, 1974, n°5, p. 509-515.
+DUBAR, M., 1984, Chronologie et signification des dépôts continentaux du Néogène supérieur du bassin de
+Riez-Valensole (Alpes-de-Haute-Provence, France), Bull. Soc. géol. Fr., (7), XXVI, 971-978.
+
+DUBOIS, P. et CURNELLE, R., 1978, Résultats apportés par le forage les Mées no. 1 sur le plateau de
+Valensole (Alpes de Haute-Provence), C. R. Soc. Géol. Fr., 4, 181-184.
+
+DURAND, J.-P., GUIEU, G., MENNESSIER, G., ROUIRE, J., DAMIANI, L., FERAUD, J., DUROZOY, G.,
+1979, Notice explicative de la feuille BRIGNOLLES à 1/50 000, BRGM.
+
+ESPURT, N., HIPPOLYTE, J.-C., SAILLARD, M., BELLIER, O., 2012. Geometry and kinematic evolution
+of a long-living foreland structure inferred from field data and cross section balancing, the Sainte-Victoire
+system, Provence, France: Tectonics, v. 31, p. TC4021, http://dx.doi.org/10.1029/2011TC002988.
+
+ESPURT, N., WATTELLIER, F., PHILIP, J., HIPPOLYTE, J.-C., BELLIER, O., BESTANI, L., 2019,
+Mesozoic halokinesis and basement inheritance in the eastern Provence fold-thrust belt, SE France,
+Tectonophysics, https://doi.org/10.1016/j.tecto.2019.04.027
+
+FORD, M., STAHEL, U., 1995, The geometry of a deformed carbonate slope-basin transition : The Ventoux-
+Lure fault zone, SE France, Tectonics, vol. 14, n°5, pp 1393-1410.
+
+FOURNIER, M., AGARD, P., PETIT, C., 2008, Micro-tectonic constraints on the evolution of the Barles half-
+window (Digne nappe, southern Alps). Implications for the timing of folding in the Valensole foreland basin,
+Bull. Soc. géol. Fr., 2008, t. 179, no 6, pp. 551-568
+
+FOSSEN, H., 2010, Structural Geology, Cambridge University Press.
+
+GARIBALDI, C. GUILLOU-FROTTIER, L., LARDEAUX, J.-M., BOUCHOT, V., 2010, Combination of
+Numerical Tools to Link Deep Temperatures, Geological Structures and Fluid Flow in Sedimentary Basins:
+
+
+
+
+                                                                                                          32
+Application to the Thermal Anomalies of the Provence Basin (South-East France), Proceedings World
+Geothermal Congress 2010, Bali, Indonesia, 25-29 April 2010.
+
+GIGOT, P., GRANDJACQUET, C., HACCARD, D., 1974, Evolution tectono-sédimentaire de la bordure
+septentrionale du bassin tertiaire de Digne depuis l’Eocène, B.S.G.F., 7, XVI, n°2.
+
+GIGOT, P., THOMEL, G., COLOMB, E., DUBAR, M., DUROZOY, G., DAMIANI, L., 1981, Carte
+géologique de la France à 1/50.000. FORCALQUIER. Notice explicative, 27 p.
+
+de GRACIANSKY, DUROZOY, G., GIGOT, P., 1982, Notice explicative de la feuille DIGNE à 1/50 000,
+BRGM.
+
+de GRACIANSKY, P.-C., LEMOINE, M., 1988. Early Cretaceous tectonics in the southwestern French Alps:
+a consequence of North-Atlantic rifting during Tethyan spreading. Bull. Soc. géol. Fr., 8, IV, 5, 733-737.
+GOGUEL, J., 1944, La tectonique de fond dans la zone externe des Alpes, B.S.G.F., 5, XIV, p. 201-218.
+
+GOUVERNET, C., ROUIRE, J., ROUSSET, C., 1970, Notice explicative de la feuille PERTUIS à 1/50 000,
+BRGM.
+
+GRAHAM, R., JACKSON, M., PILCHER, R., KILSDONK, B., 2012, Allochthonous salt in the sub-Alpine
+fold-thrust belt of Haute Provence, France, Geological Society, London, Special Publications 2012, v.363,
+p595-615, doi: 10.1144/SP363.30.
+
+GREGOIRE, J.-Y., BELLEVILLE, J.-M., PACHOUD, A., SAVORNIN, J., DORKEL, A., 1966, Notice
+explicative de la feuille REILLANNE à 1/50 000, BRGM.
+
+GUIGNARD, P., BELLIER, O., CHARDON, D., 2005, Géométrie et cinématique post-oligocène des failles
+d’Aix et de la moyenne Durance (Provence, France), C. R. Geoscience 337 (2005) 375–384.
+
+GUYONNET-BENAIZE, C., LAMARCHE, J., HOLLENDER, F., VISEUR, S., MÜNCH, P.,
+BORGOMANO, J., 2015. Three-dimensional structural modeling of an active fault zone based on complex
+outcrop and subsurface data: The Middle Durance Fault Zone inherited from polyphase Meso-Cenozoic
+tectonics (southeastern France), Tectonics, 34, 265–289, http://dx.doi.org/10.1002/2014TC003749.
+
+HACCARD, D., BEAUDOUIN, B., GIGOT, P., JORDA, M., 1989, Notice explicative de la feuille LA JAVIE
+à 1/50 000, BRGM.
+
+HINSCH, R., 2013, Laterally varying structure and kinematics of the Molasse fold and thrust bel of the Central
+Eastern Alps: Implications for exploration, AAPG Bulletin, v. 97, n°10, pp 1805-1931.
+
+HIPPOLYTE, J.-C., ANGELIER, J., NURY, D., BERGERAT, F., GUIEU, G., 1993, Tectonic-stratigraphic
+record of paleostress time changes in the Oligocene basins of the Provence, southern France, Tectonophysics,
+226, 15–35, http://dx.doi.org/10.1016/0040-1951(93)90108-V.
+HIPPOLYTE, J.-C. et DUMONT, T., 2000, Identification of Quaternary thrusts, fold and faults in a low
+seismicity area: examples in the Southern Alps (France), Terra Nova, 12, 156-162.
+
+HIPPOLYTE, J.-C., CLAUZON, G., SUC, J.-P., 2011, Messinian-Zanclean canyons in the Digne nappe
+(southwestern Alps): tectonic implications, Bull. Soc. géol. Fr., 2011, t. 182, no 2, pp. 111-132
+
+HIPPOLYTE, J.-C., BERGERAT, F., GORDON, M.B., BELLIER, O., ESPURT, N., 2012, Keys and pitfalls
+in mesoscale fault analysis and paleostress reconstructions, the use of Angelier's methods, Tectonophysics
+581 (2012) 144–162.
+
+HOLYOKE, C.W. III et TULLIS, J., 2006, Formation and maintenance of shear zones, Geology, vol. 34, No.
+2, p. 105-108.
+
+
+
+
+                                                                                                           33
+HUDEC, M. R. et JACKSON, M. P. A., 2007, Terra Infirma: Understanding Salt Tectonics, Earth-Science
+Reviews 82, 1–28.
+
+HUDEC, M. R. et JACKSON, M. P. A., 2009, Interaction between spreading salt canopies and their
+peripheral thrust systems, Journal of Structural Geology, 31 1114–1129.
+
+JAMISON, W. R., 1987, Geometric analysis of fold development in overthrust terranes, Journal of Structural
+Geology, v. 9, p. 207–219.
+
+JOURDON, A., ROLLAND, Y., PETIT, C., BELLAHSEN, N., 2014, Style of Alpine tectonic deformation in
+the Castellane fold-and-thrust belt (SW Alps, France): Insights from balanced cross-sections, Tectonophysics
+633, 143-155.
+
+KERCKHOVE, C., ROUX, M., 1978, Notice explicative de la feuille MOUSTIERS-STE-MARIE à 1/50 000,
+BRGM.
+
+LACOMBE, O., MOUTHEREAU, F., 2002. Basement involved shortening and deep detachment tectonics in
+forelands of orogens: Insights from recent collision belts (Taiwan, Western Alps, Pyrenees), Tectonics, 21(4),
+1030, http://dx.doi.org/10.1029/2001TC901018.
+LACOMBE, O., JOLIVET, L., 2005, Structural and kinematic relatoionships between corsica and the
+Pyrenees-Provence domain at the time of the Pyrenean orogeny. Tectonics, 24, TC 1003, http://dx.doi.org/10,
+1029/2004TC001673.
+LACOMBE, O. et BELLAHSEN, N., 2016, Thick-skinned tectonics and basement-involved fold–thrust
+belts: insights from selected Cenozoic orogens, Geol. Mag. 153 (5/6), 2016, pp. 763–810.
+
+LAURENT, O., STEPHAN, J.-F., POPOFF, M., 2000, Modalités de la structuration miocène de la branche
+sud de l’arc de Castellane (chaînes subalpines méridionales), Géologie de la France, n°3, pp. 33-65.
+
+LEMOINE, M., MENNESSIER, G., 1963, Notice explicative de la feuille SALERNES à 1/50 000, BRGM.
+
+LEMOINE, M., GRACIANSKY, P.C. de, TRICART, P., 2000, De l´océan à la chaîne de montagnes.
+Tectonique des plaques dans les Alpes, Paris, Gordon and Breach Science Publishers.
+
+LE PICHON, X., RANGIN, C., HAMON, Y., LOGET, N., LIN, J.Y., ANDREANI, L. and FLOTTE, N.,
+2010, Geodynamics of the France Southeast Basin, Bull. Soc. géol. Fr., 2010, t. 181, no 6, pp. 477-501.
+
+MASSE, J.-P., PHILIP, J., 1976, Paléogéographie et tectonique du Crétacé moyen en Provence, Rev. Geogr.
+Phys. Geol. Dyn., 2, 49–66.
+MENNESSIER, G., 1959. Etude tectonique des confins alpino-provenc¸aux entre le Verdon et l’Argens.
+Mémoire de la Société géologique de France XXXVIII 4 (87), 1–174.
+
+MENNESSIER, G., 1966, Notice explicative de la feuille TAVERNES à 1/50 000, BRGM.
+
+MERCIER, H., 1979, Le Néogène et le Pléistocène inférieurs duranciens, Géologie Alpine, t. 55, p. 111-132.
+
+MERCIER, H., COLOMB, E., DESTOMBES, J.-P., GERVAIS, J., GIGOT, P., MENNESSIER, G., PHILIP,
+J., ROUIRE, J., 1972, Notice explicative de la feuille MANOSQUE à 1/50 000, BRGM.
+
+MOHN, G., MANATSCHAL G., BELTRANDO M., MASINI E., et KUSZNIR N., 2012, Necking of
+continental crust in magma-poor rifted margins: Evidence from the fossil Alpine Tethys margins, Tectonics,
+31, TC1012, doi:10.1029/2011TC002961.
+
+MOUTHEREAU, F., WATTS, A. B. ET BUROV, E., 2013, Structure of orogenic bel controlled by
+lithosphere age, Nature Geosciences, 6(9), 785-789.
+
+
+
+
+                                                                                                           34
+MOUTHEREAU, F., FILLEAUDEAU P.-Y., VACHERAT A., PIK R., LACOMBE O., FELLIN M. G.,
+CASTELLTORT S., CHRISTOPHOUL F. et MASINI E., 2014, Placing limits to shortening evolution in the
+Pyrenees: Role of margin architecture and implications for the Iberia/Europe convergence, Tectonics, 33,
+doi:10.1002/2014TC003663.
+
+PHILIP, J., 2012, L’Exploration géologique de la Provence. Deux siècles et demi de débats et de
+controverses. Presses des Mines, 978-2911256882.
+
+PHILIP, J., VIANEY-LIAUD, M., MARTIN-CLOSAS, C., TABUCE, R., LÉONIDE, P., MARGEREL, J. P.,
+NOËL, J., 2017. Stratigraphy of the Haut Var Paleogene continental series (Northeastern Provence, France):
+New insight on the age of the ‘Sables bleutés du Haut Var’ Formation. Geobios, 50(4), 319-339
+
+ROLLAND, Y., CORSINI, M., DEMOUX, A., 2009, Metamorphic and structural evolution of the Maures-
+Tanneron massif (SE Variscan chain): evidence of doming along a transpressional margin, Bull. Soc. géol.
+Fr., 2009, t. 180, no 3, pp. 217-230.
+
+ROLLET, N., DÉVERCHÈRE, J., BESLIER, M.-O., GUENNOC, P., RÉHAULT, J.-P., SOSSON, M.,
+TRUFFERT, C., 2002, Back arc extension, tectonic inheritance, and volcanism in the Ligurian Sea, Western
+Mediterranean, Tectonics, vol. 21, n°3, 10.1029/2001TC900027.
+
+ROUIRE, J., BLANC, J.-J., 1973, Notice explicative de la feuille SAULT-DE-VAUCLUSE à 1/50 000,
+BRGM.
+
+ROURE, F., COLLETTA, B., 1996. Cenozoic inversion structures in the foreland of the Pyrenees and Alps,
+in Peri-Tethys Memoir 2: Structure and Prospects of Alpine Basins and Forelands, Mem. du Mus. Natl. Hist.
+Nat. 170, edited by P. A. Ziegler, 173–209, Mus. Natl. Hist. Nat., Paris.
+SCHETTINO, A., TURCO, E., 2011. Tectonic history of the western Tethys since the Late Triassic, Geol. Soc.
+Am. Bull., 123, 89–105, http://dx.doi.org/10.1130/B30064.1.
+SCHWARTZ, S., GAUTHERON, C., AUDIN, L., DUMONT, T., NOMADE, J., BARBARAND, J., PINNA-
+JAMME, R., van der BEEK, P., 2017, Foreland exhumation controlled by crustal thickening in the Western
+Alps, Geology, Vol. 45, n°2, P. 139-142.
+SERANNE, M. BENEDICTO, A., TRUFFERT, C., PASCAL, G. & LABAUME, P. 1995, Structural style
+and evolution of the Gulf of Lion Oligo-Miocene rifting: Role of the Pyrenean orogeny. Marine and petroleum
+Geology, 12, 80%820.
+
+SUPPE, J., 1983, Geometry and kinematics of fault-bend folding, Am. J. Sci., 283, 684–721,
+doi:10.2475/ajs.283.7.684.
+
+SUPPE, J., ET MEDWEDEFF, D. A., 1990, Geometry and kinematics of fault propagation folding, Eclogae
+Geol. Helv., 83(3), 409–454.
+
+TEMPIER, C., 1972, Les faciès calcaires du Jurassique Provençal, Thèse, Université Paul Cézanne, Aix-en-
+Provence
+
+TEMPIER, C., 1987. Modèle nouveau de mise en place des structures provençales, Bull.Soc.Geol.Fr., 8, 533–
+540.
+TOURAINE, F., 1967, Les rapports de l’Oligocène avec les structures N-S du Nord-Varois, Bull. Soc. Géol.
+De France, (7), IX, p 530-536.
+
+TOURAINE, F., 1971. L’Oligocène nord-varois sa position stratigraphique et sa signification dans la
+tectogenèse subalpine. Annales Guébhard 47, 394–421.
+
+
+
+
+                                                                                                        35
+TOUTIN-MORIN, N., BONIJOLY, D., BROCARD, C., DARDEAU, G., DUBAR, M., 1993, Enregistrement
+sédimentaire de l’évolution post-hercynienne, en bordure des Maures et du Tanneron, du Carbonifère
+supérieur à l’Actuel, Géologie de la France, n° 2, 3-22.
+TOUTIN-MORIN, N., BONIJOLY, D., BROCARD, C., BROUTIN, J., CREVOLA, G., DARDEAU, G.,
+DUBAR, M., FERAUD, J., GIRAUD, J.D., GODEFROY P., LAVILLE, P., MEINESZ, A., 1994, Carte
+géologique de la France à 1/50.000. Fréjus- Cannes 2e édition. Notice explicative, 187 p.
+VACHERAT, A., 2014, Inversion d'une marge hyper-amincie : Contexte thermo-cinématique et interactions
+tectonique-érosion au Nord des Pyrénées, These, Universite Pierre et Marie Curie, Institut des Sciences de la
+Terre de Paris, 545 p.
+
+VACHERAT, A., MOUTHEREAU F., PIK R., BELLAHSEN N., GAUTHERON C., BERNET M.,
+DAUDET M., BALANSA J., TIBARI B., PINNA JAMME R. ET RADAL J., 2016, Rift-to-collision transition
+recorded by tectonothermal evolution of the northern Pyrenees, Tectonics, 35, 907–933,
+doi:10.1002/2015TC004016.
+
+VILLEGER, M., ANDRIEUX, J., 1987. Phases tectoniques post-éocènes et structuration polyphasée du
+panneau de couverture nord provençal (Alpes externes méridionales), Bull. Soc. Géol. Fr. III, 8(1), 147–156.
+
+
+
+
+                                                                                                          36
+

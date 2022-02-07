@@ -1,0 +1,486 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/262417411
+
+
+
+Deep Injection of Waste Water in the Western Canada Sedimentary Basin
+
+Article in Ground Water · May 2014
+DOI: 10.1111/gwat.12198
+
+
+
+
+CITATIONS                                                                                              READS
+
+19                                                                                                     784
+
+
+1 author:
+
+            Grant Andrew George Ferguson
+            University of Saskatchewan
+            89 PUBLICATIONS 1,947 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+              Prairie Water View project
+
+
+
+
+ All content following this page was uploaded by Grant Andrew George Ferguson on 11 May 2018.
+
+ The user has requested enhancement of the downloaded file.
+Issue Paper/
+
+
+Deep Injection of Waste Water in the Western
+Canada Sedimentary Basin
+by Grant Ferguson
+
+
+
+
+   Abstract
+        Injection of wastes into the deep subsurface has become a contentious issue, particularly in emerging regions
+   of oil and gas production. Experience in other regions suggests that injection is an effective waste management
+   practice and that widespread environmental damage is unlikely. Over the past several decades, 23 km3 of water
+   has been injected into the Western Canada Sedimentary Basin (WCSB). The oil and gas industry has injected
+   most of this water but large amounts of injection are associated with mining activities. The amount of water
+   injected into this basin during the past century is 2 to 3 orders magnitude greater than natural recharge to deep
+   formations in the WCSB. Despite this large-scale disturbance to the hydrogeological system, there have been few
+   documented cases of environmental problems related to injection wells. Deep injection of waste appears to be a
+   low risk activity based on this experience but monitoring efforts are insufficient to make definitive statements.
+   Serious uncharacterized legacy issues could be present. Initiating more comprehensive monitoring and research
+   programs on the effects of injection in the WCSB could provide insight into the risks associated with injection in
+   less developed sedimentary basins.
+
+
+
+
+Introduction                                                          flow rates. Large increases in subsurface water storage
+     Injection wells can be effective waste management                have occurred in many locations. Injection wells occur
+tools (Rozell and Reaven 2012), but the risks associated              throughout the WCSB (Figure 1) and are completed in
+with these wells are poorly understood. Gaps in our                   a variety of settings. This offers the opportunity to study
+scientific understanding have been become apparent as                 basin-scale impacts, such as changes in groundwater flow
+the need to handle waste water from unconventional                    patterns and threats to fresh groundwater resources. While
+oil and gas development has increased (Vidic et al.                   some types of data are plentiful, monitoring and investiga-
+2013). Emerging areas of oil and gas development often                tions conducted to date do not allow for a comprehensive
+lack injection infrastructure and the experience needed               assessment of the effects in injection in the WCSB.
+to predict the response of the subsurface to injection
+(Howarth et al. 2011; Jackson et al. 2013; Lutz et al.
+2013). Of particular concern is the possibility of potable
+groundwater contamination (Freeze 1972; Myers 2012;                   The Western Canada Sedimentary Basin
+Warner et al. 2012).                                                       The WCSB is a northeasterly tapering wedge of
+     There is a long history of injection in the Western              sedimentary rocks up to 6 km thick that covers most
+Canada Sedimentary Basin (WCSB). Cumulative injection                 of Alberta and parts of British Columbia, Saskatchewan,
+volumes are large when compared to natural groundwater                and Manitoba (Porter et al. 1982) (Figures 1 and 2).
+                                                                      The term WCSB is often restricted to Canada but this
+      Department of Civil and Geological Engineering, University of   sedimentary basin extends into North Dakota, South
+Saskatchewan, Saskatoon, Saskatchewan, Canada; 306-966-7427;
+fax: 902-867-2414; grant.ferguson@usask.ca                            Dakota, Wyoming, and Montana in the United States.
+      Received October 2013, accepted February 2014.                  This basin hosts some of the world’s largest oil and
+      © 2014, National Ground Water Association.                      natural gas reserves (Giesy et al. 2010), as well as some
+      doi: 10.1111/gwat.12198                                         of the largest potash deposits (USGS 2013).
+
+NGWA.org                                             Vol. 53, No. 2–Groundwater–March-April 2015 (pages 187–194)             187
+                                                               (Hendry et al. 2013). A review of low permeability clays
+                                                               and shales by Neuzil (1994) documented very low per-
+                                                               meabilities in these Cretaceous units in the WCSB and
+                                                               adjacent areas of the United States. The low velocities
+                                                               and permeabilities indicate reservoirs beneath these Creta-
+                                                               ceous shales are effectively isolated from shallow ground-
+                                                               water sources.
+
+
+                                                               Injection Wells
+                                                                    Provincial governments in Canada collect data on
+                                                               well installation and operation. This data is compiled
+Figure 1. Location of the WCSB (orange area) (Mossop
+and Shetsen 1994) along with distribution of injection wells
+                                                               in the commercially available AccuMap database (IHS
+(dots). Trace of cross section shown in Figure 2 is denoted    Energy 2012). Various queries of this database were used
+by line A-A’.                                                  to produce the results presented here.
+                                                                    A total of 700,000 wells have been installed in the
+                                                               WCSB as part of oil and gas development or other
+     The WCSB hosts a regional groundwater flow system         industrial activities. Of these, 50,000 wells have been
+extending over nearly 2000 km (Hitchon 1969; Gar-              used as injection wells for part of their operational life
+ven 1995). Large-scale flow originates at high elevation in    (Figure 1). Most injection wells are used for disposal
+the west and southwest of the basin and discharges at the      of coproduced oilfield waters and enhanced oil recovery
+edge of the basin in northern Alberta and Saskatchewan,        or injection of industrial waste. These are equivalent to
+and into the large lakes in Manitoba (Hitchon 1969;            USEPA Class II and Class I respectively (US EPA 2013).
+Grasby and Chen 2005). This pattern has been confirmed         Several high capacity wells (rates >40 L/s) are used for
+by various studies that have mapped the distribution of        solution mining of potash (equivalent to USEPA Class III).
+hydraulic head in the deeper formations in the WCSB            Injection wells have disposed of 23 km3 of water since
+(Tóth 1978; Schwartz et al. 1981; Anfort and Bachu            development of the WCSB began. The injected volume
+2001; Grasby and Betcher 2002; Ferguson et al. 2007).          exceeds the amount of coproduced water by 3.0 km3 . This
+Typical groundwater recharge rates over much of Alberta        surplus water mainly originates as fresh water used for
+and Saskatchewan are less than 10 mm/year (Hayashi             enhanced oil recovery or other industrial uses (Canadian
+et al. 1998) and slightly higher in Manitoba (Grasby           Association of Petroleum Producers 2011). Recent figures
+and Betcher 2002; Ferguson et al. 2007). Discharge has         indicate that nearly 20% of this surplus injected water
+not been studied in detail except for selected springs in      is fresh groundwater (Canadian Association of Petroleum
+Manitoba (Grasby and Chen 2005). A study of the stable         Producers 2011). While there have been concerns about
+isotopes present in the waters in the clays beneath Lake       water shortages in this region, the injected volume is small
+Winnipeg indicated that groundwater discharge to the           compared to other fresh water uses, particularly irrigation
+lake is negligible (Buhay and Betcher 1998).                   (Schindler and Donahue 2006). The surplus of water is
+     Low permeability geological units act as barriers         slightly less than the 4.2 km3 of oil that has been produced
+between the surface and deep reservoirs over much of the       in the WCSB. This has resulted in an overall decrease in
+WCSB. Numerous studies have documented old ground-             fluid storage in the WCSB. These changes in fluid storage
+waters in deeper units in the WCSB (Hendry and Schwartz        are small compared to the estimated 200,000 km3 of pore
+1988; Grasby et al. 2000; Grasby and Betcher 2002;             volume in the basin (Hitchon 1968).
+Ferguson et al. 2007; Hendry et al. 2013). Of particular            Injection wells are distributed across the Mesozoic
+interest are the extensive Upper Cretaceous shales in the      and Paleozoic units of the WCSB (Figure 3). Seventy-
+WCSB. Groundwater velocities of 0.005 mm/year have             two percent of injection wells have been completed in
+been estimated in these units using isotopic techniques        Mesozoic units, while 28% are present in Paleozoic
+
+
+
+
+Figure 2. Cross section of the WCSB (see Figure 1 for trace of cross section) (after Wright et al. 1994; Grasby and Chen
+2005).
+
+
+188       G. Ferguson Groundwater 53, no. 2: 187–194                                                            NGWA.org
+                                                               interval corresponds to many of the Devonian reservoirs
+                                                               in Alberta, including productive oil reservoirs such as
+                                                               the Lecuc and Nisku Formations (Paleozoic carbonates).
+                                                               Below 1000 m injection exceeds production by 5 km3 .
+                                                                    Over 75% of this excess water in the WCSB is
+                                                               contained within six formations. These formations can be
+                                                               divided into those that produce significant amounts of oil
+                                                               and those that do not (Figure 5). The Cardium Formation,
+                                                               a Cretaceous clastic unit, and the Swan Hills, Leduc and
+                                                               Nisku Formations, which are Paleozoic carbonate units,
+                                                               are examples oil and gas reservoirs that also host injection
+                                                               wells. The Interlake Formation, a Paleozoic carbonate
+                                                               reservoir, and the Deadwood Formation, a Cambrian
+                                                               clastic unit have produced very little oil or gas but are
+                                                               targets for injection wells.
+                                                                    Oil producing formations tend to have injection
+                                                               patterns linked to oil extraction. Excess water in these
+                                                               formations results from injection of water during
+                                                               enhanced oil recovery or injection of coproduced waste
+                                                               water from other formations. Injection into the four
+                                                               formations listed above has occurred in 2110 wells.
+                                                               Average injection rates vary from 1.3 × 104 m3 /year
+                                                               in the Cardium Formation to 4.4 × 105 m3 /year in the
+Figure 3. Injection wells have similar distributions in the    Leduc Formation. These rates are very high compared to
+Mesozoic and Paleozoic units of the WCSB.                      the 20 m3 of fluid injected during the hydraulic fracturing
+                                                               of a typical well (Howarth et al. 2011).
+                                                                    The Interlake and Deadwood Formations produce
+                                                               very little oil but account for 25% of the excess injected
+                                                               water in the WCSB. The bulk of the water injected into
+                                                               these reservoirs is brine produced by the potash industry.
+                                                               These brines are primarily created as effluent from
+                                                               processing, which generally uses fresh surface water.
+                                                               Minor amounts of coproduced oil field water and waste
+                                                               water from other industries are injected into these
+                                                               formations. There are only 57 injection wells present in
+                                                               these formations. Injection rates are high, with average
+                                                               injection rates of 1.4 × 106 m3 /year.
+                                                                    The cumulative injection volume from decades of
+                                                               industrial activity is equivalent to 16 mm of recharge dis-
+                                                               tributed evenly over 1.5 × 106 km2 of the WCSB. The
+                                                               total net injection is equivalent to 2 mm of recharge. Both
+                                                               figures are similar to a few years of natural recharge.
+                                                               However, injection mainly occurs at depths greater than
+Figure 4. Distribution of produced (blue) and injected water
+(red) in the WCSB. White areas represent net injection         1000 m, which is below the regional shale and clay
+values. Injection exceeds production at depths below 1000 m.   aquitards. Recharge rates through these aquitards are less
+                                                               than 0.005 mm/year in many cases (Hendry et al. 2013).
+                                                               Injection wells are likely responsible for the bulk of
+formations. Very few injection wells are completed in          recharge to deeper formations in the WCSB. Insuffi-
+Cenozoic sediments. Most production and injection take         cient time may have passed to observe noticeable impacts
+place around 1000 m below ground surface (Figure 4).           to regional groundwater flow but we are currently ill
+Formations at this depth include the Mannville Group           equipped to observe such effects. Past attempts to map
+(Lower Cretaceous sandstone), Cardium, Swan Hills, and         regional groundwater flow in the WCSB have used mea-
+Milk River Formations (Upper Cretaceous sandstones),           surements taken from wells at different times, relying on
+which have been the major producers of oil and gas             the assumption that hydraulic head does not change sig-
+historically. At and above this depth, production volumes      nificantly over periods of a few decades. This approach
+exceed injection volumes, leading to a decrease in             may work where background conditions exist but will not
+stored fluid. Beneath 1000 m depth both production             reveal changes in the flow system. These changes will dif-
+and injection decrease, although there is a zone of            fer based on the nature of development. Formations where
+increased activity at approximately 3000 m depth. This         injection and production are approximately balanced may
+
+NGWA.org                                                         G. Ferguson Groundwater 53, no. 2: 187–194            189
+Figure 5. Fraction of WCSB surplus water in various reservoirs (pie chart) and time series of water production (blue), water
+injection (red), and oil production (black) in those reservoirs. Oil producing reservoirs tend to have injection histories that
+track production of water. Non-producing reservoirs such as the Interlake and Deadwood have experienced large changes in
+storage while producing little to no water.
+
+
+not experience significant regional changes in flow rates        potential for cross-formational flow (Tóth 1978) but a
+and head but will experience local changes in groundwater        series of aquitards (Hendry et al. 2013) will normally
+flow. Well interference tests in the Deadwood and Inter-         protect shallow groundwater resources. Attention must be
+lake Formations indicate that pressure effects are very          given to pathways that allow for passage through these
+limited in extent (Ruse 2008). However, such formations          aquitards, such as improperly completed or abandoned
+that have only been developed as disposal reservoirs could       wells (Javandel et al. 1988; Gasda et al. 2004) or faults,
+see extensive plumes of injected water and increases in          which commonly occur in association with dissolution
+pressure.                                                        of the Prairie Evaporite in the WCSB (Grasby and Chen
+     The extent and distribution of injected water is            2005).
+currently unknown. Reported cases of contamination
+of shallow groundwater associated with handling waste
+water from oil, gas, and mining in the WCSB are most             The Bigger Picture: WCSB vs. Other
+often associated with pipeline failures (Freeman 2007)           Environments
+or seepage from surface storage facilities (Tallin et al.             The WCSB is not unique. There has been more
+1990; Parks and Bentley 1996). The largest plumes of             injection in Texas since 1998 than there has been in
+injected brine likely exist around some of the disposal          the history of the WCSB (Data & Statistics for The
+wells at potash mines in Saskatchewan. At a few of these         Railroad Commission of Texas 2013). The bulk of
+sites, over 5 × 107 m3 of brine has been injected. For           the injected water is coproduced water and this water
+known formation thicknesses and estimated porosities of          is often injected into different reservoirs to those from
+the Deadwood Formation at these locations (Ferguson and          which it was produced. Approximately 33% of this water
+Grasby 2013), this would result in plume covering areas of       is injected into non-producing formations (Clark and Veil
+slightly more than 1 km2 . This assumes that the injection       2009), suggesting rearrangement of water in a similar
+and transport occur uniformly over the vertical extent of        manner to that taking place in the WCSB. A similar
+the Deadwood and overlying Winnipeg Formation. Shale             pattern occurs across the United States. Forty percent
+interbeds are common in these geological units (Carlson          of coproduced water is injected into non-producing
+1958; Paterson 1971), suggesting that these brines may           formations (Clark and Veil 2009).
+spread out over larger areas.                                         The situation from emerging unconventional oil and
+     Injected water likely remains within the formations         gas developments is somewhat different. Many of these
+hosting injection wells in the WCSB. There is some               areas have not been the subject of extensive oil and gas
+
+190       G. Ferguson Groundwater 53, no. 2: 187–194                                                                NGWA.org
+                                                                present but the example of the Deadwood and Interlake
+                                                                Formations in the WCSB indicates that his can be a viable
+                                                                option. Sandstone units in the Appalachian Basin, such
+                                                                as the Mount Simon and Rose Run sandstones, could be
+                                                                suitable targets for injection wells in some areas. Both of
+                                                                these units are potential targets for carbon sequestration
+                                                                projects (Lucier and Zoback 2008; Medina et al. 2011).
+                                                                The Appalachian Basin lacks a thick cover of low per-
+                                                                meability Cretaceous and Tertiary sediments (Ryder et al.
+                                                                2008, 2009, 2012) similar to that present over much of the
+                                                                WCSB. The lack of these aquitards could have implica-
+                                                                tions to migration of injected water on longer timescales.
+                                                                     Injection is known to have induced earthquakes in a
+                                                                variety of environments (Nicholson and Wesson 1992).
+                                                                There are only rare cases in where oil and gas activities
+                                                                are thought to have induced earthquakes in the WCSB
+                                                                (Milne and Berry 1976; Baranova et al. 1999; BC Oil and
+                                                                Gas Commission 2012). The situation is quite different in
+                                                                the United States, where increases in the frequency of
+                                                                seismic events have been linked to injection by recent
+                                                                studies (Frohlich 2012; Ellsworth 2013; Zhang et al.
+Figure 6. Injected volumes in selected oil and gas producing    2013). The stability of the WCSB could be atypical.
+regions along with values for carbon capture and sequestra-
+                                                                Alternatively, monitoring networks in the WCSB might
+tion (CCS) in Saskatchewan, Canada (Verdon et al. 2013),
+annual injection for a typical well in Saskatchewan’s Dead-     not be appropriately designed to capture events arising
+wood Formation and the Geysers geothermal field in Califor-     from injection activities.
+nia, USA (Main California Oil and Gas Search Page 2012).             The apparent success of injection as a waste man-
+                                                                agement practice in the WCSB indicates that this practice
+                                                                could be successful in other areas. However, injection
+development in the past. As a result, there is a lack           practices and associated responses of hydrogeological
+of injection infrastructure to handle waste water (Rahm         systems are not well known. There has been little mon-
+et al. 2013). The lack of experience with injection wells       itoring of formation pressures, particularly in dedicated
+has created difficulties with projecting performance and        observation wells, and almost no effort dedicated to
+environmental impacts in these areas. The amount of             tracking injected brine in the subsurface. In the deeper
+injection associated with the development of the Marcellus      portions of the Winnipeg and Deadwood Formations,
+Shale has been very small to date. The volume of injected       the only dedicated observation well in existence was
+water is approximately 4 orders of magnitude less than          installed in 2012 as part of the Aquistore carbon storage
+the volume injected in Texas (Lutz et al. 2013; Data &          project. There are no public records of observation wells
+Statistics for The Railroad Commission of Texas 2013).          in the Interlake Formation west of Manitoba. Because
+This amount is similar to annual injection in a typical         of the dearth of monitoring, factors leading to this
+well in either the Deadwood or Interlake Formation              apparent success are not clear. In many respects, a poorly
+(Figure 6). However, 99% of Marcellus Shale remains             thought-out large-scale experiment has been conducted
+untested (EIA 2011), suggesting that the need for injection     in the WCSB but nobody has bothered to look at the
+capacity in this region could expand by a large amount.         results yet. Similar knowledge gaps exist in many deep
+The cumulative injection volume associated with the             regional groundwater flow systems. New techniques must
+Marcellus Shale is also similar to individual carbon            be developed and adopted in these situations (Alley et al.
+capture and sequestration pilot projects (Verdon et al.         2013; Tsang and Niemi 2013).
+2013) or a geothermal plant (Main California Oil and Gas             The apparent success of widespread injection in
+Search Page 2012). The similarity in injected volumes           environments such as the WCSB suggests that current
+is noteworthy, given the need to address competition for        concern about injection practices in emerging oil and
+pore volume (Elliot and Celia 2012; Nicot and Duncan            gas producing regions is misplaced or widespread
+2012; Ferguson 2013).                                           uncharacterized legacy issues exist in developed basins.
+     Comparing injection practices in established oil and       Documented incidents of groundwater contamination are
+gas regions to emerging ones is complicated by the nature       uncommon, suggesting that the latter possibility seems
+of unconventional production. Low permeability units that       improbable. However, increased competition for use
+are stimulated to allow for sufficient fluid production are     of this deep pore volume may result in increases in
+probably unsuitable targets for injection wells. As a result,   pressures and groundwater flow rates. Such increases
+deep aquifers that have not been subject to depressuriza-       may not be sustainable into the future. Far-reaching
+tion through hydrocarbon production will likely be targets      impacts including interference between licenses or effects
+for injection wells. Such formations may not always be          crossing provincial or international boundaries could also
+
+NGWA.org                                                          G. Ferguson Groundwater 53, no. 2: 187–194           191
+occur. However, the lack of a comprehensive monitoring               Ferguson, G., and S.E. Grasby. 2013. The geothermal potential
+scheme makes it difficult to dismiss concerns about the                   of the basal clastics of Saskatchewan, Canada. Hydrogeol-
+environmental impacts of injection. A third possibility                   ogy Journal 22, no. 1: 143–150. DOI:10.1007/s10040-013-
+                                                                          1061-5.
+exists, which is that the viability of injecting liquid              Ferguson, G., R.N. Betcher, and S.E. Grasby. 2007. Hydroge-
+waste into the subsurface is dependent on geological                      ology of the Winnipeg Formation in Manitoba, Canada.
+factors. This is likely the case and emphasizes the need                  Hydrogeology Journal 15: 573–587. DOI:10.1007/s10040-
+for increased monitoring and research, including field                    006-0130-4.
+experiments (Jackson et al. 2013).                                   Freeman, J.T. 2007. The use of bromide and chloride
+                                                                          mass ratios to differentiate salt-dissolution and formation
+                                                                          brines in shallow groundwaters of the Western Canadian
+                                                                          Sedimentary Basin. Hydrogeology Journal 15: 1377–1385.
+Acknowledgments                                                           DOI:10.1007/s10040-007-0201-1.
+                                                                     Freeze, R.A. 1972. Subsurface hydrology at waste disposal sites.
+    The author is indebted to Mike Wireman, Richard                       IBM Journal of Research and Development 16: 117–129.
+Jackson, and Denis Peach for their insightful reviews on                  DOI:10.1147/rd.162.0117.
+an earlier version of this manuscript. This manuscript also          Frohlich, C. 2012. Two-year survey comparing earthquake
+benefited from thoughtful reviews from Grant Garven and                   activity and injection-well locations in the Barnett Shale,
+one anonymous reviewer.                                                   Texas. Proceedings of the National Academy of Sciences
+                                                                          of the United States of America 109: 13934–13938.
+                                                                          DOI:10.1073/pnas.1207728109.
+References                                                           Garven, G. 1995. Continental-scale groundwater flow and
+                                                                          geologic processes. Annual Review of Earth and Planetary
+Alley, W.M., E. Scott Bair, and M. Wireman. 2013. “Deep”
+                                                                          Sciences 23: 89–118.
+     groundwater. Groundwater 51: 653–654. DOI:10.1111/
+                                                                     Gasda, S.E., S. Bachu, and M.A. Celia. 2004. Spatial characteri-
+     gwat.12098.
+                                                                          zation of the location of potentially leaky wells penetrating
+Anfort, S.J., and S. Bachu. 2001. Regional-scale hydrogeol-
+                                                                          a deep saline aquifer in a mature sedimentary basin. Envi-
+     ogy of the Upper Devonian-Lower Cretaceous sedimentary
+                                                                          ronmental Geology 46: 707–720. DOI:10.1007/s00254-
+     succession, south-central Alberta basin, Canada. Amer-
+                                                                          004-1073-5.
+     ican Association of Petroleum Geologists Bulletin 85:
+                                                                     Giesy, J.P., J.C. Anderson, and S.B. Wiseman. 2010. Alberta oil
+     637–660. http://archives.datapages.com/data/bulletns/2001/
+                                                                          sands development. Proceedings of the National Academy
+     04apr/0637/0637.htm (accessed June 10, 2013).
+Baranova, V., A. Mustaqeem, and S. Bell. 1999. A model for                of Sciences of the United States of America 107: 951–952.
+     induced seismicity caused by hydrocarbon production in the           DOI:10.1073/pnas.0912880107.
+     Western Canada Sedimentary Basin. Canadian Journal of           Grasby, S.E., and Z. Chen. 2005. Subglacial recharge into
+     Earth Sciences 36: 47–64. DOI:10.1139/cjes-36-1-47.                  the Western Canada Sedimentary Basin—Impact of Pleis-
+BC Oil and Gas Commission. 2012. Investigation of Observed                tocene glaciation on basin hydrodynamics. Geological Soci-
+     Seismicity in the Horn River Basin. Victoria, British                ety of America Bulletin 117: 500. DOI:10.1130/B25571.1.
+     Columbia: BC Oil and Gas Commission.                            Grasby, S.E., and R.N. Betcher. 2002. Regional hydrogeo-
+Buhay, W.M., and R.N. Betcher. 1998. Paleohydrologic implica-             chemistry of the carbonate rock aquifer, southern Mani-
+     tions of 18O enriched Lake Agassiz water. Journal of Pale-           toba. Canadian Journal of Earth Sciences 39: 1053–1063.
+     olimnology 19: 285–296. DOI:10.1023/A:1007938200730.                 DOI:10.1139/E02-021.
+Canadian Association of Petroleum Producers. 2011. Water             Grasby, S.E., K.G. Osadetz, R.N. Betcher, and F.W. Render.
+     Conservation, Efficiency and Productivity Plan - Upstream            2000. Reversal of the regional-scale flow system of
+     Oil and Gas Sector. Calgary, Alberta: Canadian Association           the Williston basin in response to Pleistocene glacia-
+     of Petroleum Producers.                                              tion. Geology 28: 1. DOI:10.1130/0091-7613(2000)
+Carlson, C.G. 1958. The stratigraphy of the deadwood-winnipeg             28<635:ROTRFS>2.0.CO;2.
+     interval in North Dakota and Northwestern South Dakota.         Hayashi, M., G. Van Der Kamp, and D.L. Rudolph. 1998.
+     In Second Williston Basin Symposium, 20–26. http://                  Water and solute transfer between a prairie wetland and
+     archives.datapages.com/data/ndgs_sgs/data/0002/0020/                 adjacent uplands: 1. Water balance. Journal of Hydrology
+     0020.html (accessed April 4, 2013).                                  207: 42–55.
+Clark, C.E., and J.A. Veil. 2009. Produced water volumes             Hendry, M.J., S.L. Barbour, K. Novakowski, and L.I. Wasse-
+     and management practices in the United States. (No.                  naar. 2013. Palaeo-hydrogeology of the cretaceous sed-
+     ANL/EVS/R-09-1). Lemont, IL: Argonne National Labo-                  iments of the Williston Basin using stable isotopes of
+     ratory.                                                              water. Water Resources Research 49, no. 8: 4580–4592.
+Data & Statistics for the Railroad Commission of Texas.                   DOI:10.1002/wrcr.20321.
+     2013. http://www.rrc.state.tx.us/data/online/ (accessed July    Hendry, M.J., and F.W. Schwartz. 1988. An alternative
+     11, 2013).                                                           view on the origin of chemical and isotopic patterns
+EIA. 2011. 2012 Annual energy outlook. http://www.eia.gov/                in groundwater from the Milk River Aquifer, Canada.
+     forecasts/aeo/er/executive_summary.cfmwww.eia.doe.gov/               Water Resources Research 24: 1747–1763. DOI:10.1029/
+     oiaf/ieo/highlights.html. (accessed August 20, 2013).                WR024i010p01747.
+Elliot, T.R., and M.A. Celia. 2012. Potential restrictions for CO2   Hitchon, B. 1969. Fluid flow in the Western Canada sedimentary
+     sequestration sites due to shale and tight gas production.           basin: 1. Effect of topography. Water Resources Research
+     Environmental Science and Technology 46: 4223–4227.                  5: 186–195. DOI:10.1029/WR005i001p00186.
+     DOI:10.1021/es2040015.                                          Hitchon, B. 1968. Rock volume and pore volume data for
+Ellsworth, W.L. 2013. Injection-induced earthquakes. Science              plains region of Western Canada sedimentary basin
+     341: 1225942–1225942. DOI:10.1126/science.1225942.                   between latitudes 49◦ and 60◦ N. American Association
+Ferguson, G. 2013. Subsurface energy footprints. Environ-                 of Petroleum Geologists Bulletin 52: 2318–2323. http://
+     mental Research Letters 8: 014037. DOI:10.1088/1748-                 archives.datapages.com/data/bulletns/1968-70/data/pg/
+     9326/8/1/014037.                                                     0052/0012/2300/2318.htm (accessed September 24 2013).
+
+192        G. Ferguson Groundwater 53, no. 2: 187–194                                                                      NGWA.org
+Howarth, R.W., A. Ingraffea, and T. Engelder. 2011. Nat-                 com/science/article/pii/S0301479713001175          (accessed
+     ural gas: Should fracking stop? Nature 477: 271–275.                December 13, 2013).
+     DOI:10.1038/477271a.                                           Rozell, D.J., and S.J. Reaven. 2012. Water pollution risk
+IHS Energy. 2012. IHS Accumap. Calgary, AB.                              associated with natural gas extraction from the Marcellus
+Jackson, R.E., A.W. Gorody, B. Mayer, J.W. Roy, M.C. Ryan,               Shale. Risk Analysis 32: 1382–1393. DOI:10.1111/j.1539-
+     and D.R. Van Stempvoort. 2013. Groundwater protection               6924.2011.01757.x.
+     and unconventional gas extraction: The critical need for       Ruse, D.C. 2008. Review of disposal well expansion at Mosaic
+     field-based hydrogeological research. Ground Water 51, no.          Belle Plaine Solution Mine. Report to Saskatchewan
+     4: 488–510. DOI:10.1111/gwat.12074.                                 Ministry Environment. http://www.environment.gov.sk.ca/
+Javandel, I., C.F. Tsang, P.A. Witherspoon, and D. Morganwalp.           2008-101ProjectProposal (accessed June 13, 2013).
+     1988. Hydrologic detection of abandoned wells near             Ryder, R.T., M.H. Trippi, C.S. Swezey, R.D. Crangle, R.S.
+     proposed injection wells for hazardous waste disposal.              Hope, E.L. Rowan, and E.E. Lentz. 2012. Geologic
+     Water Resources Research 24: 261–270. DOI:10.1029/                  cross-section C-C’ through the Appalachian Basin from
+     WR024i002p00261.                                                    Erie County, North-Central Ohio, to the Valley and
+Lucier, A., and M. Zoback. 2008. Assessing the economic                  Ridge Province, Bedford County, South-Central Pennsyl-
+     feasibility of regional deep saline aquifer CO2 injection           vania. USGS Scientific Investigations Map 3172. Reston,
+     and storage: A geomechanics-based workflow applied to               Virginia.
+     the Rose Run sandstone in Eastern Ohio, USA. The Inter-        Ryder, R.T., R.D. Crangle, M.H. Trippi, C.S. Swezey, E.E.
+     national Journal of Greenhouse Gas Control 2: 230–247.              Lentz, E.L. Rowan, and R.S. Hope. 2009. Geologic cross-
+     http://www.sciencedirect.com/science/article/pii/S175058            section D-D’ through the Appalachian Basin from the
+     3607001223 (accessed September 25, 2013).                           Findlay Arch, Sandusky County, Ohio, to the Valley and
+Lutz, B.D., A.N. Lewis, and M.W. Doyle. 2013. Generation,                Ridge Province, Hardy County, West Virginia. USGS
+     transport, and disposal of wastewater associated with Mar-          Scientific Investigations Map 3067. Reston, Virginia.
+     cellus Shale gas development. Water Resources Research         Ryder, R.T., C.S. Swezey, R.D. Crangle, and M.H. Trippi.
+     49: 647–656. DOI:10.1002/wrcr.20096.                                2008. Geologic cross-section E-E’ through the Appalachian
+Main California Oil and Gas Search Page. 2012. http://opi.               basin from the Findlay Arch, Wood County, Ohio, to
+     consrv.ca.gov/opi/opi.dll (accessed July 11, 2013).                 the Valley and Ridge Province, Pendelton County, West
+Medina, C.R., J.A. Rupp, and D.A. Barnes. 2011. Effects of               Virginia. USGS Scientific Investigations Map 2985. Reston,
+     reduction in porosity and permeability with depth on stor-          Virginia.
+     age capacity and injectivity in deep saline aquifers: A case   Schindler, D.W., and W.F. Donahue. 2006. An impending water
+     study from the Mount Simon Sandstone aquifer. The Inter-            crisis in Canada’s western prairie provinces. Proceedings
+     national Journal of Greenhouse Gas Control 5: 146–156.              of the National Academy of Sciences of the United States
+     http://www.sciencedirect.com/science/article/pii/S175058
+                                                                         of America 103: 7210–7216. DOI:10.1073/pnas.0601
+     361000037X (accessed September 25, 2013).
+                                                                         568103.
+Milne, W.G., and M.J. Berry. 1976. Induced seismicity in
+                                                                    Schwartz, F.W., K. Muehlenbachs, and D.W. Chorley. 1981.
+     Canada. Engineering Geology 10: 219–226. DOI:10.1016/
+                                                                         Flow-system controls of the chemical evolution of ground-
+     0013-7952(76)90022-3.
+                                                                         water. Journal of Hydrology 54: 225–243. DOI:10.1016/
+Mossop, G.D., and I. Shetsen (Eds). 1994. Geological Atlas
+                                                                         0022-1694(81)90162-1.
+     of the Western Canada Sedimentary Basin. Calgary,
+     Alberta: Canadian Society of Petroleum Geologists/Alberta      Tallin, J.E., D.E. Pufahl, and S.L. Barbour. 1990. Waste manage-
+     Research Council.                                                   ment schemes of potash mines in Saskatchewan. Canadian
+Myers, T. 2012. Potential contaminant pathways from hydrauli-            Journal of Civil Engineering 17: 528–542. http://cat.inist.
+     cally fractured shale to aquifers. Groundwater 50, no. 6:           fr/?aModele=afficheN&cpsidt=19391215 (accessed July
+     872–882. DOI:10.1111/j.1745-6584.2012.00933.x.                      12, 2013).
+Neuzil, C.E. 1994. How permeable are clays and shales?              Tóth, J. 1978. Gravity-induced cross-formational flow of for-
+     Water Resources Research 30: 145–150. DOI:10.1029/                  mation fluids, red earth region, Alberta, Canada: Analy-
+     93WR02930.                                                          sis, patterns, and evolution. Water Resources Research 14:
+Nicholson, C., and R.L. Wesson. 1992. Triggered earthquakes              805–843. DOI:10.1029/WR014i005p00805.
+     and deep well activities. Pure and Applied Geophysics 139:     Tsang, C.-F., and A. Niemi. 2013. Deep hydrogeology: A
+     561–578. DOI:10.1007/BF00879951.                                    discussion of issues and research needs. Hydrogeology
+Nicot, J.-P., and I.J. Duncan. 2012. Common attributes of                Journal 21, no. 8: 1687–1690. DOI:10.1007/s10040-013-
+     hydraulically fractured oil and gas production and CO 2             0989-9.
+     geological sequestration. Greenhouse Gases: Science and        USEPA. (n.d.). Classes of Wells. http://water.epa.gov/type/
+     Technology 2: 352–368. DOI:10.1002/ghg.1300.                        groundwater/uic/wells.cfm (accessed September 24, 2013).
+Parks, K.P., and L.R. Bentley. 1996. Enhancing data worth of        USGS. 2013. Mineral Commodity Summaries 2013 . Reston,
+     EM survey in site assessment by cokriging. Ground Water             Virginia: USGS.
+     34: 597–604. DOI:10.1111/j.1745-6584.1996.tb02046.x.           Verdon, J.P., J.-M. Kendall, A.L. Stork, R.A. Chadwick, D.J.
+Paterson, D.F. 1971. The stratigraphy of the winnipeg formation          White, and R.C. Bissell. 2013. Comparison of geomechan-
+     (Ordovician) of Saskatchewan. Regina, Saskatchewan:                 ical deformation induced by megatonne-scale CO2 storage
+     Saskatchewan Department of Mineral Resources Geological             at Sleipner, Weyburn, and In Salah. Proceedings of the
+     Report 140.                                                         National Academy of Sciences 110, no. 30: E2762–E2771.
+Porter, J.W., R.A. Price, and R.G. McCrossan. 1982. The                  DOI:10.1073/pnas.1302156110.
+     Western Canada Sedimentary Basin. Philosophical Trans-         Vidic, R.D., S.L. Brantley, J.M. Vandenbossche, D. Yox-
+     actions of the Royal Society A: Mathematical, Physical              theimer, and J.D. Abad. 2013. Impact of shale gas devel-
+     and Engineering Sciences 305: 169–192. DOI:10.1098/                 opment on regional water quality. Science 340: 6134.
+     rsta.1982.0032.                                                     DOI:10.1126/science.1235009.
+Rahm, B.G., J.T. Bates, L.R. Bertoia, A.E. Galford, D.A.            Warner, N.R., R.B. Jackson, T.H. Darrah, S.G. Osborn, A.
+     Yoxtheimer, and S.J. Riha. 2013. Wastewater management              Down, K. Zhao, A. White, and A. Vengosh. 2012.
+     and Marcellus Shale gas development: Trends, drivers,               Geochemical evidence for possible natural migration of
+     and planning implications. Journal of Environmental                 Marcellus Formation brine to shallow aquifers in Pennsyl-
+     Management 120: 105–113. http://www.sciencedirect.                  vania. Proceedings of the National Academy of Sciences of
+
+NGWA.org                                                               G. Ferguson Groundwater 53, no. 2: 187–194               193
+    the United States of America 109: 11961–11966. DOI:10.                ab.ca/publications/wcsb_atlas/a_ch03/ch_03.html (accessed
+    1073/pnas.1121181109.                                                 September 24, 2013).
+Wright, G.N., M.E. McMechan, and D.E.G. Potter. 1994. Struc-          Zhang, Y., M. Person, J. Rupp, K. Ellett, M.A. Celia, C.W.
+    ture and architecture of the Western Canada Sedimen-                  Gable, B. Bowen, J. Evans, K. Bandilla, P. Mozley, T.
+    tary Basin. In Geological Atlas of the Western Canada                 Dewers, and T. Elliot. 2013. Hydrogeologic controls on
+    Sedimentary Basin. ed. G.D. Mossop and I. Shetsen,                    induced seismicity in crystalline basement rocks due to fluid
+    25–40. Calgary, Alberta: Canadian Society of Petroleum                injection into basal reservoirs. Groundwater 51: 525–538.
+    Geologists/Alberta Research Council. http://www.ags.gov.              DOI:10.1111/gwat.12071.
+
+
+
+
+194                      G. Ferguson Groundwater 53, no. 2: 187–194                                                        NGWA.org
+View publication stats
+

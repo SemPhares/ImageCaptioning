@@ -1,0 +1,922 @@
+Please note that this is an author-produced PDF of an article accepted for publication following peer review. The definitive publisher-authenticated version is available on the publisher Web site
+
+
+
+
+                                                                                                                                                                                                      Basin Research                                                     Archimer, archive institutionnelle de l’Ifremer
+                                                                                                                                                                                                      March 2004; 16(1) : 101-116                                                        http://www.ifremer.fr/docelec/
+                                                                                                                                                                                                      http://dx.doi.org/10.1111/j.1365-2117.2003.00224.x
+                                                                                                                                                                                                      © 2004 Blackwell Publishing, Inc.
+
+                                                                                                                                                                                                      The definitive version is available at www.blackwell-synergy.com
+
+
+
+                                                                                                                                                                                                          Polygonal faults-furrows system related to early stages of compaction –
+                                                                                                                                                                                                              upper Miocene to recent sediments of the Lower Congo Basin
+                                                                                                                                                                                                                                A. Gay1*, M. Lopez2, P. Cochonat3 and G. Sermondadaz4
+                                                                                                                                                                                                      1
+                                                                                                                                                                                                       Laboratoire Sédimentologie et Géodynamique, Université de Lille I, FRE 2255, Bât SN5, 59655
+                                                                                                                                                                                                      Villeneuve d'Ascq, France
+                                                                                                                                                                                                      2
+                                                                                                                                                                                                       Laboratoire Géophysique Tectonique et Sédimentologie, Université de Montpellier II, CC60, Bât 22,
+                                                                                                                                                                                                      place E. Bataillon, 34095 Montpellier cedex, France
+                                                                                                                                                                                                      3
+                                                                                                                                                                                                       Laboratoire Environnements Sédimentaires, IFREMER, Département Géosciences Marines, BP70,
+                                                                                                                                                                                                      29280 Plouzané, France
+                                                                                                                                                                                                      4
+                                                                                                                                                                                                       Total-Fina-Elf, 64018 Pau Cedex, France
+                                                                                                                                                                                                      *: Corresponding author : Correspondence: Aurélien Gay, Laboratoire Dynamique de la Lithosphère, Université
+                                                                                                                                                                                                      Montpellier 2, Case 060, Place Eugène Bataillon, 34095 Montpellier Cedex 05, France.
+                                                                                                                                                                                                      E-mail: gay@dstu.univ-montp2.fr
+
+
+
+
+                                                                                                                                                                                                      Abstract: A new polygonal fault system has been identified in the Lower Congo Basin. This highly
+                                                                                                                                                                                                      faulted interval (HFI), 700±50 m thick, is characterized by small extensional faults displaying a
+                                                                                                                                                                                                      polygonal pattern in plan view. This kind of fracturing is attributed to volumetric contraction of
+                                                                                                                                                                                                      sediments during early stages of compaction at shallow burial depth. 3-D seismic data permitted the
+                                                                                                                                                                                                      visualization of the progressive deformation of furrows during burial, leading to real fractures, visible
+                                                                                                                                                                                                      on seismic sections at about 78 m below seafloor. We propose a new geometrical model for
+                                                                                                                                                                                                      volumetrical contraction of mud-dominated sediments. Compaction starts at the water–sediment
+                                                                                                                                                                                                      interface by horizontal contraction, creating furrows perpendicular to the present day slope. During
+                                                                                                                                                                                                      burial, continued shrinkage evolves to radial contraction, generating hexagonal cells of dewatering at
+                                                                                                                                                                                                      21 m below seafloor. With increasing contraction, several faults generations are progressively initiated
+                                                                                                                                                                                                      from 78 to 700 m burial depth. Numerous faults of the HFI act as highly permeable pathways for
+                                                                                                                                                                                                      deeper fluids. We point out that pockmarks, which represent the imprint of gas, oil or pore water
+                                                                                                                                                                                                      escape on the seafloor, are consistently located at the triple-junction of three neighbouring hexagonal
+                                                                                                                                                                                                      cells. This is highly relevant for predictive models of the occurrence of seepage structures on the
+                                                                                                                                                                                                      seafloor and for the sealing capacity of sedimentary cover over deeper petroleum reservoirs.
+
+                                                                                                                                                                                                      Keywords: Fault system, Furrow, Geometrical model, Sedimentary basin, Seafloor, Water sediment
+                                                                                                                                                                                                      interface
+
+
+
+
+                                                                                                                                                                                                                                                                                                                      1
+                                          A.Gay et al
+
+
+INTRODUCTION
+
+
+        Over large areas of the Lower Congo Basin, mud-dominated upper Miocene to
+lower Quaternary sequences, 700 m (± 50 m) thick, are affected by closely spaced
+small extensional faults displaying a polygonal pattern in plan view. Within this
+Highly-Faulted Interval (HFI), the polygonal fault system consists of small-scale
+normal faults with throws from 5 to 20 m and small spacing of 100 to 500 m. As
+previously shown in the North Sea, the presence of polygonal fault systems seems to
+be controlled by the fine-grained nature of the faulted sediments and their
+mineralogy; in particular a high smectite content is considered to play an important
+role in the development of such structures (Dewhurst et al., 1999). The faults are
+often arranged in stratigraphycally bound layers characterized by a distinct spacing
+between faults (Lonergan et al., 1998), which could be due to different lithologies
+within the layers (Dewhurst et al., 1999).
+        The first mechanism suggested for polygonal faulting formation was that the
+highly overpressured sediments of the slope and basin failed through a basinwide
+hydrofracture mechanism (Henriet et al., 1991; Cartwright, 1994a,b). This hypothesis
+has subsequently been revised and the faulted intervals are now interpreted as being
+caused by layer-parallel volumetric contraction of fine-grained sediments leading to
+pore fluid escape (Cartwright & Lonergan, 1996). This kind of shrinkage is also
+known in other environments, such as cooling of lavas, ice-wedge polygons
+(Lachenbruch, 1962) or desiccation cracks (Weinberger, 1999). Cartwright &
+Dewhurst (1998) conducted a worldwide review of published and unpublished
+seismic data from approximately 200 basins, in order to determine whether this type
+of small-scale faulting is more widely developed than currently appreciated. They
+identified several examples of such faulting in the North Sea (Cartwright, 1994a,b;
+Lonergan et al., 1998; Clausen et al., 1999), in the northern Danish Central Trough
+(Clausen & Korstgard, 1993) in the Eromanga Basin (Cartwright & Lonergan, 1997;
+Oldham & Gibbins, 1995), on the New Jersey continental margin (Klitgord & Grow,
+1980; Poag et al., 1987). They also discussed the presence of polygonal fault
+systems in the northern Bay of Biscay, in the Rockall Trough in Ireland, or in the
+Vøring Basin on the Norwegian continental margin. All of these basins are
+characterized by a similar sedimentary environment suggesting that the polygonal
+fault systems could have formed through equivalent processes.
+        We propose in this paper a geometrical model of differential dewatering during
+early stages of compaction, related to heterogeneous compaction in the first 700 m
+below seafloor. A detailed study of the organisation of faults and furrows shows that
+the pockmarks are consistently located at the intersection of three neighbouring
+hexagons, representing a preferential pathway for upwards-fluid migration from
+deeper levels (biogenic gases, thermogenic gases and oils, pore fluids or a
+combination of the three). This could be indicative of deeper prospective reservoirs
+and improve our knowledge of the sealing capacity of sedimentary cover over the
+reservoirs.
+
+
+
+
+                                                                                    1
+                                           A.Gay et al
+
+
+GEOLOGICAL SETTING
+
+
+        The West African passive margin was initiated during the opening of the South
+Atlantic Ocean in the Early Cretaceous (130 Ma) (Jansen et al., 1984; Marton et al.,
+2000). Subsequent to large accumulation of evaporites (up to 1000m) during mid-
+Aptian time, the post-rift stratigraphy was characterized by two architectures that
+reflect a major change in ocean circulation and climate. From the Late Cretaceous to
+the early Oligocene, an aggradational carbonate/siliciclastic ramp developed in
+response to low-amplitude/low-frequency sea-level changes and a uniform climate
+(greenhouse period). From early Oligocene to Recent, sedimentation was dominated
+by the progradation of a terrigenous wedge that reflect high-amplitude/high-frequency
+sea-level changes and an alternating drier and wetter climate (Icehouse period)
+leading to subaerial exposure of wide parts of the ramp on the West African margin
+(Séranne et al., 1992; Séranne, 1999; Lavier et al., 2000; 2001). These high-
+frequency alternating climate conditions triggered deep incision on the shelf and
+erosion of the hinterland, and large amounts of terrigenous material were supplied to
+the margin leading to the formation of a 2-3 km-thick progradational wedge. In
+particular, the increased terrigenous input to the margin was responsible for the
+formation of the large turbiditic fan off the Congo and Angola slope directly fed by the
+Zaire River (Brice et al., 1982; Uchupi, 1992; Droz et al., 1996). It extends from the
+Zaire River estuary to the lower fan, 5000 m water depth (Fig. 1). The shelf and the
+slope are deeply incised by a canyon that directly connects the Zaire River with the
+basin floor at the toe of the continental slope. The Zaire canyon crosses the Lower
+Congo Basin (Fig. 1) and is characterized by a straight erosional trough (Droz et al.,
+1996). Recent drilling carried out in ODP Leg 175 has supplied new information
+about the nature and age of these sediments. Three sites were drilled at varying
+positions from the shelf break (sites 1075, 1076 and 1077) within the Lower Congo
+Basin (see Fig. 1 for location). The lithofacies of the Late Cenozoic sediments
+suggests that turbidity currents played a minimal role in transporting sediment within
+the Lower Congo Basin (Giraudeau et al., 1998; Pufahl et al., 1998). Sediments fed
+through the canyon were carried far onto the lower fan, starving the shelf of coarse
+detritus (Jansen et al., 1984; Uenzelmann-Neben, 1998; Savoye et al., 2000). On the
+slope and shelf, fine sediments not confined to the canyon were deposited, perhaps
+from riverine plumes, through sedimentation by aggregates and in fecal pellets
+(Wefer et al., 1998; Cooper, 1999) and mixed with hemipelagic sediments.
+
+
+
+
+                                                                                      2
+                                                  A.Gay et al
+
+Figure 1: Bathymetric map of the Zaire turbidite system, extending from the Zaire estuary to the deep
+sea fan. The shaded circle represents the study area in the Lower Congo Basin. The three sites of the
+Leg ODP175 in this zone are indicated.
+
+
+
+
+        One of the main tectonic features of the West African margin is the
+gravitational sliding of post-rift sediments above a décollement layer made up of
+Aptian evaporites (Duval et al., 1992; Lundin, 1992; Liro & Coen, 1995). In the Lower
+Congo Basin, gravitational processes created two structural domains each about 100
+km wide: an extensional domain on the upper slope and a compressive domain
+located downslope (Fig. 2). The extensional domain is locally associated with large
+amounts of extension across listric faults creating individual rafts (Burollet, 1975;
+Duval et al., 1992; Rouby et al., 2002). The compressive domain is characterized by
+reverse faults leading to the intrusion of salt diapirs that partly control turbidite
+distribution and basin sedimentation.
+
+
+
+
+                                                                                                   3
+                                                    A.Gay et al
+
+Figure 2: Seafloor Dip map, representing the area covered by 3D seismic data used in this study. In
+the southwestern part, the salt thrust intensively deforms the seafloor. In the central part of the study
+area, the Zaire canyon, oriented SE-NW currently incises the slope of the Lower Congo Basin. The
+seafloor is characterized by numerous rectilinear depressions, named furrows, that are mainly oriented
+NS and a large number of pockmarks seems to be in close association with these furrows. All seismic
+profiles and detailed study area used in this study are located on this map.
+
+
+
+
+DATA BASE AND PROCESSING
+
+
+       This study was primarily based on 3D seismic datasets from the Lower Congo
+Basin acquired by TotalFinaElf. Complementary data have been collected during the
+ZAIANGO project (co-sponsored by IFREMER and TotalFinaElf) and partly focused
+on a better understanding of the Quaternary Zaire fan and slope processes. Further
+data from ODP leg 175 on the West African Margin helped to constrain stratigraphy,
+sedimentation rates and mechanical properties of Pliocene to Recent sediments
+(Wefer et al., 1998).
+       The selected 3D-dataset covers an area of 4150 km² with inline and crossline
+spacing of 12,5 m (Fig. 2). 3D-seismic analysis consists in extraction of continuous
+horizons by correlation through the 3D seismic block (Brown, 1996; Kidd, 1999). This
+process correlates the shape of the wavelength from each trace to the neighbours
+within a time interval determined by the interpreter. Other horizon attributes, derived
+
+                                                                                                       4
+                                           A.Gay et al
+
+from the seismic signal, have been calculated. In particular, we mainly used
+geometrical attributes such as the Dip attribute and the Curvature attribute (Brown,
+1996).
+
+
+
+FABRIC OF THE HIGHLY-FAULTED INTERVAL (HFI)
+
+
+             The seismic section AB (Fig. 3) is representative of some seismic key
+features of the Highly-Faulted Interval (HFI) in the investigated area. It is
+characterized by numerous closely spaced normal faults, which have small offsets,
+ranging from 5 (limit of vertical resolution) to 20 m, and an average spacing of 100-
+500 m. This pattern has been identified throughout the study area, at water depths
+ranging from 400 m to 2600 m (dataset limits), indicating that the occurrence of this
+interval is not controlled by the bathymetry. The faults of the HFI disappear
+downward close to the base of the Pliocene and upward towards the base of the
+Quaternary, affecting an interval with an average thickness of 700 m (± 50 m). As
+previously shown in the North Sea (Cartwright, 1994a,b), the faults do not abruptly
+end at a specific horizon. Some faults can locally offset the base of the Quaternary
+and the base of the Pliocene, suggesting that the vertical extent of the HFI is not
+stratigraphically bounded. Vertically, the discontinuous reflection character of the
+faulted system is not homogeneous. The HFI is ordered into individual layers of
+faults, named tiers by Cartwright (1994b), characterized by a distinct fault spacing
+and vertical extent (Fig. 3). In the North Sea, Dewhurst et al. (1999) have shown that
+the maximum fault frequency occurs in layers that include high amplitude reflectors
+corresponding to very fine-grained sediments. However, this high concentration of
+faults at highly reflective interval may be a bias caused by the increased detectability
+at such intervals. It thus appears that, although the vertical extent of the HFI is not
+stratigraphically controlled in the Lower Congo Basin, lithology could play a key role
+in the development and in the inhomogeneous frequency of faults.
+
+
+
+
+                                                                                      5
+                                                   A.Gay et al
+
+Figure 3: Seismic profile AB in the Lower Congo Basin. The upper Miocene to lower Quaternary
+interval is affected by closely spaced extensional faults, displaying a polygonal pattern in plan view.
+This Highly-Faulted Interval (HFI) consists of small scale normal faults with offsets from 5 m to 30 m
+and small spacing of 100 to 500 m. The polygonal fault system is organized in stratigraphically defined
+layers, with the deformation apparently being decoupled between the layers. Each layer of faults is
+characterized by a distinct acoustic character.
+
+
+
+
+            In the northern part of the study area, a large number of rectilinear
+depressions a few hundred metres long are visible on a dip map of seafloor (Fig. 4).
+These furrows are widely distributed on the seafloor (Fig. 4A) with a N-S trend and a
+spacing of about 1 to 3 km. In the same area, a dip map of a horizon about 20 m
+below seafloor (Fig. 4B) displays parallel furrows in the West evolving to a polygonal
+network in the East. The later observation confirms the spatial close relationship
+between the furrows and the polygonal faulting. The base of the Quaternary (Fig. 4C)
+corresponds to a regionally well-defined high amplitude reflector that can be easily
+mapped by automatic correlation. The dip map of this horizon also displays a dense
+polygonal fault pattern at the difference with the base of Pliocene (Fig. 4D), where
+only regional tectonic and sedimentological structures are visible: 1) normal faults
+oriented NW-SE bounding a graben in the northeastern part of the study area; 2)
+reverse faults in the central and in the western part, related to the intrusion of salt
+diapirs; 3) the imprint of underlying (i.e. upper Miocene) turbiditic channels.
+
+
+
+
+                                                                                                     6
+                                                   A.Gay et al
+
+Figure 4: Dip maps of seafloor, a intra-Quaternary horizon, the base Quaternary and the base
+Pliocene. The seafloor is characterized by numerous furrows that are mainly N-S oriented. The dip
+map of intra Quaternary displays furrow organization 1) similar to the seafloor in the western part and
+2) forming a polygonal pattern in the eastern part. We have measured the length and the azimuth of all
+furrows located within the black frame (Area A) on the seafloor and on the intra Quaternary horizon.
+The dip map of the base Quaternary displays polygonal faults. The base Pliocene may be not affected
+by the polygonal pattern.
+
+
+
+
+                                                                                                     7
+                                           A.Gay et al
+
+            In order to constrain the fabric of the HFI, five horizons have been mapped
+within the 195 km² Area A (see Fig. 4 for location): Seafloor, intra Quaternary, base
+Quaternary, intra Pliocene and base Pliocene (Fig. 5). As previously demonstrated,
+the furrows branch downward to the N-S edges of the polygonal network. Polygons
+range from 1 to 3 km in size and they share their edges with the adjacent polygons.
+The polygons fragment downward into smaller polygons. In particular, smaller
+polygons, 200-500 m wide, fit into larger polygons, 1-3 km wide, within the Pliocene
+interval. At the base of the Pliocene, only small polygons (<200 m) remain slightly
+visible. They locally fit into larger one (200-500 m or 1-3 km). At deeper burial depth,
+smaller polygons may exist but it is not possible to identify them, due to the vertical
+resolution of seismic data. We consider that the underlying horizons are not affected
+by the polygonal faulting.
+
+
+
+
+                                                                                      8
+                                                  A.Gay et al
+
+Figure 5: Detailed dip maps of five horizons (Seafloor, intra Quaternary, base Quaternary, intra
+Pliocene and base Pliocene) within Area A. The polygonal pattern of furrows appears on the intra
+Quaternary horizon. The polygons are vertically correlated with underlying polygonal faults, 1 to 3 km
+wide, on the base Quaternary horizon and on the intra Pliocene horizons. On the intra Pliocene
+horizon, smaller polygons, 100-200 m wide, fit into larger polygons (1 to 3 km). On the base Pliocene,
+only very small polygons (<200 m) are visible and they fit into larger polygons (200-500 m or 1-3 km).
+An example is shown with a bold black polygon.
+
+
+
+
+                                                                                                    9
+                                                  A.Gay et al
+
+            On seismic profiles, the seafloor furrows are seen as small depressions, a
+few metres deep (Fig. 6). The comparison between the furrows on the seafloor and
+the intra-Quaternary horizon demonstrates that a large number of furrows are
+common to both horizons. They are vertically superposed but their depth increases
+with burial. A remarkable feature of the HFI in the Lower Congo Basin is that the
+superposed N-S furrows are consistently located above “major” faults affecting the
+entire faulted interval. Deformation increases with depth: it starts on the seafloor with
+the formation of shallow N-S furrows, and evolves downwards to deeper and deeper
+furrows, until a fracture characterized by reflectors offsets can be seen from the base
+Quaternary at about 78 m below seafloor and below.
+
+
+Figure 6: Detailed morphological structure of furrows on cross section. In the Quaternary section, the
+furrows are vertically superposed. This seismic profile shows that the depth of furrows increased with
+burial, suggesting an increase of deformation. At 78 m below seafloor, the furrows are correlated with
+a major fault affecting the entire HFI. This level corresponds to depth where faults are visible on
+seismic section.
+
+
+
+
+EVOLUTION FROM FURROWS TO SMALL EXTENSIONAL FAULTS
+
+
+           In order to clarify the organization of the upper part of the HFI, the length
+and the azimuth of each furrow have been measured on curvature maps on the
+seafloor and on the shallow intra Quaternary horizon within the Area A.
+
+
+
+
+                                                                                                  10
+                                                 A.Gay et al
+
+       Statistical analyses of seafloor-furrows within Area A
+
+        The systematic mapping of furrows displays a complex organisation in plan
+view (Fig 7). The axes of depressions are not exactly rectilinear; they result from the
+coalescence of several shorter furrows or segments. Although mapping of the
+furrows on the curvature map shows a main N-S orientation, other directions can be
+identified on the seafloor. For the statistical measurements, each segment was
+considered as an individual furrow. This allows 520 furrows to be identified in Area A
+with a density of 2.7 furrows/km². The graph of the frequency of furrows versus length
+and azimuth points out: 1) one dominant population of furrows, mainly oriented N-S
+with an average length of 270 m; 2) an accessory population of furrows with azimuths
+ranging from N100 to N140 and an average length of 270 m.
+
+Figure 7: Mapping of furrows within Area A on the seafloor. The furrows resulted from the
+       coalescence of several shorter segments. The graph of the frequency of furrows versus length
+       and azimuth allows the identification of two main populations: 1) a dominant population of
+       furrows oriented N-S with an average length of 270 m and 2) an accessory population of
+       furrows with azimuth ranging from N100 to N140 and an average length of 270 m.
+
+
+
+
+       Statistical analyses of intra-Quaternary-furrows within Area A
+
+           The same method has been applied to the shallow buried intra-Quaternary
+horizon (Fig 8). A total amount of 1644 furrows have been counted, representing a
+density of 8.4 furrows/km². The graph of the frequency of furrows versus length and
+azimuth displays three distinct populations: 1) the same population as on the
+seafloor, with an azimuth of N0 and an average length of 270 m; 2) another
+population previously identified on seafloor, with an azimuth of N120 and an average
+length of 270 m; and 3) an accessory population with shorter furrows characterized
+by a new azimuth of N40 and an average length of 200 m. The detailed mapping of
+furrows shows that they form a hexagonal pattern. The three identified directions (N0,
+N120 and N40) approach the directions necessary to form a hexagon, as shown on
+Figures 7 and 8.
+
+
+
+
+                                                                                                11
+                                                   A.Gay et al
+
+Figure 8: Mapping of furrows within Area A on the intra Quaternary horizon. The total number of
+furrows is greater than on the seafloor and they are organised to form a polygonal pattern. The furrows
+previously mapped on the seafloor have been identified on the shallow buried Horizon 1. However, the
+graph of the frequency of length versus azimuth allows the identification of three well-defined
+populations of furrows: 1) a dominant population of furrows oriented N-S, 270 m long, 2) another
+dominant population of furrows oriented N120 with an average length of 270 m and 3) an accessory
+population of shorter furrows, 200 m long and oriented N40. The detailed mapping displays that the
+majority of furrows follows these directions to form an hexagonal network rather than a polygonal
+pattern in plan view.
+
+
+
+
+REAL GEOMETRIES OF THE HEXAGONAL PATTERN: INTERNAL
+ORGANIZATION OF THE HFI
+
+
+            In order to investigate geometrical relations between the furrows/HFI
+system and the slope, we have generated a random profile (Profile CD, Fig. 9) that is
+close to dip-parallel and oblique to perpendicular to the furrows on the seafloor. This
+profile indicates that furrows are located above the major faults, which affect the
+entire HFI. They are represented with a bold black line on Figure 9 and they are
+named “first order faults”. These faults are consistently N-S oriented and they dip
+towards the East, i.e. away from the basin. As clearly visible on this seismic profile,
+the throw along the faults increases with depth, reaching its maximum at 300 m
+below seafloor (marked by a high amplitude reflection on the interpreted line drawing
+of Figure 9, corresponding to the intra Pliocene horizon). From this level down to the
+base of the HFI the throw along the first order faults decreases but the number of
+smaller order faults increases. The seismic profile CD discloses that the polygonal
+fault system is organized in stratigraphically defined layers, with the deformation
+apparently being decoupled between the layers. The other families of faults are
+concentrated in a layer characterized by a distinct acoustic character and are not
+correlated with overlying furrows (Fig. 9). Faults that affect two or more layers are
+named “second order faults”, with an average spacing of 200-500 m. Faults that
+affect only one layer are very closely spaced (<200 m); they are named “third order
+faults”. The particularity of this system is that the third order faults fit into the second
+order faults and in the same way the second order faults fit into larger first order
+
+                                                                                                   12
+                                                    A.Gay et al
+
+hexagonal cells. Hence, the HFI represents an assemblage of hexagonal prisms,
+such as exhibited by “Russian dolls”. Each of them represents a cell, which is
+isolated from the neighbouring hexagonal cells by faults. The seismic horizons within
+the HFI exhibit faults consistently dipping towards the East, suggesting a dominoes-
+style rotation for each hexagonal cell.
+
+
+Figure 9: Random seismic profile CD, parallel to the slope and perpendicular to the furrows. The
+superposed furrows are located above the top of faults that affect all the HFI (order 1 faults). The
+profile displays that the other families of faults are concentrated in layers characterized by a distinct
+acoustic character and are not correlated with overlying furrows. Faults that affect two or more layers
+are named order 2 faults and faults concentrated in one layer are named order 3 faults. In a general
+sense, the frequency of faults increases with depth, suggesting that the volumetrical contraction is
+better developed at deeper levels. The seismic horizons affected by the HFI exhibit faults consistently
+dipping towards the East and giving the impression of an anticlockwise domino-style rotation of each
+hexagonal cell.
+
+
+
+
+            The seismic profile EF corresponds to a random line, simultaneously
+parallel to the strike of the slope and oblique to the N-S furrows (Fig. 10). Seismic
+markers, as on profile CD, shows a maximum offset across the first order faults. The
+second and third order faults are organized in layers corresponding to distinct
+acoustic characters. However, the main difference between profiles CD and EF is the
+dip of faults and their relationship with other order of faults. Successive first order
+faults display alternate dips (i.e. to the NE and to the SW) as shown in the Eromanga
+Basin (Watterson et al., 2000; Goulty, 2001). Second and third orders of faults are
+often conjugated.
+
+
+
+
+                                                                                                     13
+                                                      A.Gay et al
+
+Figure 10: Random seismic profile EF, simultaneously perpendicular to the slope and to the edges of
+hexagons. As previously described on the Figure 7, three orders of faults, organised in layers, have
+been identified on this profile. Faults of a lower order are often conjugated to faults of the same order
+(3 to 3 or 2 to 2) or to faults of the upper order (3 to 2, 3 to 1 and 2 to 1). The high position of a cell of
+the bedding marker could be explained by a differential rotation of neighbouring hexagonal cells.
+
+
+
+
+            Although the three orders of faults are organized in layers, the
+interpretation of both profiles CD and EF displays that the concentration of faults
+increases with depth reaching its maximum nearby the base of the HFI. At this level
+(~ 700 m below seafloor) the throw of faults is minimum but the deformation of
+hexagonal cells is maximum.
+            Both seismic profiles CD and EF have been depth converted using a TWT-
+depth function, based on well-seismic calibration. The line drawing of the profiles CD
+and EF can therefore be shown without any vertical exaggeration (Fig. 11). A
+prevailing feature on both profiles is that all faults are not consistently rectilinear. On
+
+                                                                                                          14
+                                                  A.Gay et al
+
+the seismic profile CD (i.e. parallel to the strike of the slope), all faults are convex to
+the East and they dip eastwards. Although the profiles are distorted by the depth
+conversion, furrows are always located exactly above the upper end of first order
+faults.
+
+Figure 11: Seismic profiles EF and GH, represented with the real vertical scale in metres. On both
+profiles, the faults are not exactly rectilinear. The curved shape of faults suggests a progressive
+throwing during burial and sediment loading. The arrows represent the location of furrows on seafloor.
+
+
+
+
+                                                                                                  15
+                                           A.Gay et al
+
+
+
+
+DISCUSSION
+
+
+
+In most basin models, compaction and related phenomena are assumed to be
+due to mechanical effects in the first 0-2000 m in response to the progressive
+loading of sediments (Vasseur et al., 1995). As sediment porosity decreases
+with compaction, so does the permeability, due to a set of processes involving
+particle re-orientation and fluid expulsion leading to the decrease of void
+spaces between particles (Maltman, 1994; Vasseur et al., 1995). Overpressure
+development in sedimentary basins is thus directly related to lithology,
+sedimentation rate, thermal expansion of fluids, transformation of clay
+minerals and hydrocarbon generation or bacterial methanogenesis (Yu &
+Lerche, 1996). Among these factors, grain size and sedimentation rates are of
+primary importance in controlling fluid pressure development in a basin.
+
+
+      Mechanisms controlling fault development
+
+
+            ODP Leg 175 results showed an overall seaward decrease of the
+sedimentation rate towards the basin (Wefer et al., 1998). The isopach map between
+seafloor and the intra-Quaternary horizon illustrates the progradational wedge
+formation (Fig. 12): the sediment thickness decreases from 46 m in the East to a few
+m in the West corresponding to the basinward decrease of the terrigenous input. On
+this figure, the thick zone (46 to 21 m) exactly corresponds to the eastern zone of the
+intra Quaternary horizon intensively affected by the polygonal pattern of furrows (Fig.
+4). The previously described western zone, which is only deformed by rectilinear
+furrows, corresponds to a thin cover (< 21 m). It thus appears that there is a close
+relationship between the occurrence of the polygonal fault network and the sediment
+loading.
+
+
+
+
+                                                                                    16
+                                                 A.Gay et al
+
+Figure 12: Isopach map of the Seafloor-Horizon 2 interval, illustrating the formation of a
+progradational wedge during the Late Quaternary. The thickness decreases from 46 m in the East to a
+few metres in the West corresponding to the progressive disappearance of the terrigenous input
+basinward. The limit between blue and grey corresponds exactly to the western limit of the area
+characterized by a polygonal pattern identified on the intra Quaternary horizon. There is a close
+relationship between the occurrence of the polygonal network of furrows and the sediment loading.
+
+
+
+
+           Cartwright & Lonergan (1996) discussed two distinct strain paths as
+alternative explanations for the observed strain in the North Sea. Their first
+hypothesis considers a finite bed length extension and the development of conjugate
+shear planes with extensional offsets due to the loss of pore fluids. This process
+leads to a thinned sequence, which is partly compacted. In the second hypothesis,
+the authors consider that there is no change in the horizontal length and shear
+planes represent an apparent extension. For these reasons the authors argue that
+the complex polygonal fault system in the Palaeocene-Miocene mudstone-dominated
+sequences in the North Sea formed due to volumetric contraction during
+compactional dewatering (Cartwright & Lonergan, 1996). This process is believed to
+occur in response to fluid expulsion during early compaction. The shallow origin of
+the faults can be evidenced by the recognition of growth sequences developed in
+their hangingwalls (Cartwright & Lonergan, 1996). However, Early Tertiary mudrock-
+dominated sequences affected by the polygonal system correspond to fossil systems,
+presently buried beneath overlying deposits.
+           Unlike the North Sea examples of faulted intervals (Cartwright & Lonergan,
+1996), our detailed study of the shallow polygonally faulted system in the Lower
+Congo Basin helps to improve the understanding of early processes of compaction. A
+curvature map of small-scale furrows on seafloor shows a bulge of the sediments
+immediately downslope of the furrow axis (Fig. 13), suggesting a contribution of
+gravitational processes. During early stages of compaction, sediments may contract
+volumetrically, opening cracks within shallow sediments and forming the furrows on
+seafloor. The orientation of furrows (i.e. the direction of opening) may be driven by
+
+                                                                                                17
+                                                  A.Gay et al
+
+the stress anisotropy of shallow sediments due to the gravitational sliding of the
+slope. In the study area, the occurrence of furrows on the seafloor may represent the
+first evidence of compaction mechanisms by slope-parallel volumetric contraction.
+This phenomenon leads to a bulk volume loss. The layer-parallel contraction of
+sediments during burial corresponds to a process of dewatering in which pore fluids
+are partly expelled near furrows. The low permeability of fine-grained argillaceous
+sediments would impede the pore fluid expulsion during burial. Cartwright (1994a)
+suggests that this process allows an increase in pore fluid pressure in the sealed
+layer, which could have triggered failure. Increased dewatering during burial may
+have caused more displacement along faults, which would continue to grow as long
+as the dewatering cell contracted volumetrically. This mechanism induces a
+component of tensile stress within the sediment mass resulting in the reduction of the
+horizontal effective stress. The Mohr circle can intersect the failure envelope in the
+shear domain leading to the propagation of non-vertical faults (Cartwright &
+Lonergan, 1996; Dewhurst et al., 1999). The progressive reduction in bed length
+through contraction is balanced by an incremental increase in the amount of
+displacement distributed along the faults.
+
+
+Figure 13: Detailed morphological structure of furrows in plan view. The curvature map of furrows
+shows that a bulge develops consistently basinward, suggesting a formation by gravitational sliding of
+shallow sediments. The orientation of furrows could be driven by the strain state of the shallow
+sedimentary column.
+
+
+
+
+     A geometrical model for early stages of mud-dominated sediments
+compaction
+
+
+           The development of polygonal fault systems seems highly dependent on a
+combination of the grain size and the mineralogy as demonstrated in the Early
+Tertiary mudrocks from the North Sea Basin (Dewhurst et al., 1999). In the North
+Sea, lithological analyses conducted on wells show that the amount of shrinkage in
+layers appears to increase as the grain size decreases and smectite content
+increases. In a more general sense, analyses of cuttings and XRD data point to grain
+size being a more important parameter than burial depth (Dewhurst et al., 1999).
+           The mud-dominated nature of slope sediments suggests that the
+deformation mechanism may be related to colloidal properties of such fine-grained
+sediments (Dewhurst et al., 1999). Current theories of one dimensional consolidation
+
+                                                                                                  18
+                                            A.Gay et al
+
+are based on the concept of gravitational loading with concomitant expulsion of pore
+fluid as a result of mechanical rearrangements of particles and porosity reduction. In
+the Lower Congo Basin, the horizontal volumetrical contraction of fine-grained
+sediments starts at the sediment-water interface in only one direction and it is driven
+by gravitational processes on the slope, as suggested by Dewhurst et al. (1999).
+            We propose for the Lower Congo Basin a geometrical model, which takes
+into account that the compaction rate is not laterally homogeneous within the first 700
+± 50 m below seafloor (Fig. 14). From the seafloor down to 21 m, N-S furrows open
+perpendicular to the slope (i.e. E-W), following the direction of cracks opening due to
+the horizontal sliding of the sedimentary cover. From 21 m down to the base
+Quaternary, the deformation progressively increases with depth, leading to the
+formation of other families of furrows oriented N40 and N120. The three orientations
+of first order faults define hexagonal cells and the volumetrical contraction starts to be
+radial. All furrows are vertically correlated with first order faults also making up
+hexagonal pattern in plan view. From 78 m, the fault offset is visible on seismic
+sections and increases with depth. In the Lower Congo Basin, the maximum offset of
+first order fault is reached at 300 m. At deeper burial depths, compaction
+mechanisms need to develop other families of faults (second and third orders faults)
+for expelling pore fluids in the centre of first order hexagonal prisms. The fault
+frequency increases with depth, reaching its maximum at the base of the HFI (i.e.
+700 ± 50 m). The fault density is such that the bedding is flattened. This corresponds
+to a large amount of fluid expelled and to the locking of this system. Compaction
+through this process may be finished. At deeper burial, other compaction processes
+of argillaceous sediments, such as pure chemical or mechanical compaction, are
+involved.
+
+
+
+
+                                                                                       19
+                                                    A.Gay et al
+
+Figure 14: Schematic block diagram showing the imbricated pattern of hexagonal cells of dewatering.
+The volumetrical contraction starts at the sediment-water interface, creating rectilinear furrows. The
+mono-directional contraction is parallel to the slope, suggesting that shallow gravitational processes
+control the orientation of furrows. At 21 m below seafloor, radial shrinkage leads to the development of
+hexagonal pattern of furrows, defining individual dewatering cells. At the base Quaternary, hexagonal
+first order faults, 1 to 3 km wide, are initiated. Continued shrinkage provides a mechanism to drive slip
+along fault planes that reaches its maximum at 300 m below seafloor. Further pore fluid expulsion
+requires the formation of more closely spaced polygonal faults (order 2 and 3 faults), fitting into
+hexagonal order 1 cells. At 700 m below seafloor, the concentration of faults reaches its maximum and
+the compaction by shrinkage is finished.
+
+
+
+
+           The main factor controlling the development of polygonal fault systems is
+the grainsize (Dewhurst et al., 1999). However, the orientation of furrows and
+underlying faults as well as their bending in the slope direction suggests the
+interaction of gravity-driven shearing of the compacting interval. The appearance of
+hexagonal fault system reaching the seafloor could thus be indicative of the present
+day strain state within the sedimentary column (Tuckwell et al., 2003).
+
+        Implications for fluid migration from deeper levels
+
+
+            If the faults are not sealed, the HFI represents an interval with a high
+drainage potential for pore fluids. In this context, fluids migrating from deeper levels
+are preferentially driven through this interval along the pre-existing first order faults,
+which crosscut all of the HFI. Fluid venting related of deeper origin is expressed on
+seafloor by erosional features named pockmarks (Heggland, 1998). The fault
+attribute allows the mapping of vertical discontinuities, such as faults of the HFI and
+
+                                                                                                     20
+                                                  A.Gay et al
+
+fluid chimneys. In the study area, these chimneys are consistently located on the
+triple-junction of three hexagonal first order faults. Only faults that are N-S oriented
+are correlated with overlying superposed furrows reaching the seafloor.
+Consequently, pockmarks consistently appear at the extremity of furrows on seafloor
+(Fig 15). These observations are highly relevant to predictive models describing the
+occurrenc of pocekmarks on slopes characterized by fine-grained sediments.
+
+Figure 15: Schematic diagram representing the relationship between furrows, pockmarks and
+hexagonal cells of dewatering. Fluids from deeper levels migrate through conduits that consistently
+develop at the intersection of three adjacent order 1 hexagons, evidenced by dip or fault attributes.
+This triple-point is characterized by a high drainage potential and seafloor pockmarks are mainly
+located at the extremity of N-S furrows.
+
+
+
+
+CONCLUSION
+
+
+      3D-seismic data provide new insights on the margin history and improve the
+understanding of post-depositional processes that affect the sedimentary column in
+the Lower Congo Basin. Contrary to previous studies using time-slices, the spacing
+of 3D-seismic grids allows the mapping of reflectors. This method preserves internal
+geometrical relations and provides high quality images of the seafloor and buried
+horizons. Several cross sections in the Lower Congo Basin display a closely spaced
+normal fault system affecting the upper 700 m (± 50 m) of the sedimentary column,
+named a Highly Faulted Interval (HFI). These faults make up hexagonal network in
+
+                                                                                                  21
+                                           A.Gay et al
+
+plan view, which is characteristic of volumetric contraction of sediments in response
+to pore fluid escape. The process of compaction and dewatering is mainly due to the
+overburden load over fine-grained sediments. Although several faulted systems have
+been described worldwide (Cartwright & Dewhurst, 1998), the example in the Lower
+Congo Basin is the only description of an active process reaching the present day
+seafloor.
+        In the light of this study, we propose a complementary model that integrates
+with previous hypotheses (Cartwright & Lonergan, 1996; Lonergan et al., 1998;
+Dewhurst et al., 1999):
+        1) The volumetric contraction starts at the sediment-water interface, creating
+rectilinear furrows in the first 0-21 m. The contraction is horizontal, parallel to the
+slope, suggesting that shallow gravitational processes control the orientation of
+furrows.
+        2) As proposed by Dewhurst et al (1999), a radial shrinkage occurs at shallow
+burial depth (from 21 m). The layer-parallel contraction of the sediment leads to the
+formation of hexagonal pattern of furrows, outlining dewatering cells.
+        3) During burial, as the permeability decreases, the strength of the sediment
+increases, reaching a threshold at about 78 m, where faulting can be expressed and
+hexagonal first order faults are visible on seismic sections below this depth.
+        4) Continued shrinkage provides a mechanism to drive slip along fault planes
+that reaches its maximum at 300 m. Further pore fluid expulsion requires the
+formation of more closely spaced hexagonal faults (second and third order faults) and
+the hexagonal first order cells contain smaller hexagonal faults. Finally, the HFI is
+composed of small prisms fitting into larger prisms.
+        5) At an average depth of 700 m (± 50 m), as the fault frequency reaches its
+maximum, the compaction by lateral shrinkage is finished.
+        During early compaction of mud-dominated sediments, numerous hexagonal
+faults have been initiated. The triple-junction of three neighboring hexagonal cells
+represents a preferential pathway for fluid migration from deeper levels, in particular
+thermogenic gas or oil, leading to the formation of pockmarks on the seafloor. The
+detailed study of highly faulted intervals should improve our knowledge of early
+compaction processes and help to better understand the seafloor distribution of fluid
+seepage features, such as furrows and pockmarks.
+
+
+
+ACKNOWLEDGEMENTS
+
+
+           We gratefully acknowledge IFREMER and TOTAL for their financial
+support, seismic data supplies and for providing the seismic velocities polynomial law
+used to convert seismic profiles into depth profiles. Initial discussions with N. Sultan
+were invaluable in bridging the gap between mechanical constrains and geometrical
+model. M. Seranne provided insights into 3D model and tectonic point of view. M.
+Huuse and R. Davies are acknowledged for their critical reviews and their
+suggestions. We warmly thank J.A. Cartwright for his careful advice of faulted
+systems related to early stages of compaction.
+
+REFERENCES
+
+
+
+                                                                                     22
+                                            A.Gay et al
+
+BRICE, S. E., COCHRAN, M. D., PARDO, G. & EDWARDS, A. D. (1982) Tectonics and
+Sedimentation of the South Atlantic Rift Sequence: Cabinda, Angola. In: Studies in
+Continental Margin Geology (Ed. by W. a. Drake), AAPG Memoir, 34, 5-18.
+BROWN, A.R. (1996) Interpretation of three-dimensional seismic data. AAPG Memoir,
+42, 424 p.
+BUROLLET, P. F. (1975) Tectonique en radeaux en Angola. Bull. Soc. Géol. de
+France, XXII, 503-504.
+CARTWRIGHT, J. A. (1994a) Episodic basin-wide fluid expulsion from geopressured
+shale sequences in the North Sea basin. Geology, 22, 447-450.
+CARTWRIGHT, J. A. (1994b) Episodic basin-wide hydrofracturing of overpressured
+Early Cenozoic mudrock sequences in the North Sea Basin. Mar. Petr. Geol., 11, (5),
+587-607.
+CARTWRIGHT, J. & LONERGAN, L. (1996) Volumetric contraction during the compaction
+of mudrocks: a mechanism for the development of regional-scale polygonal fault
+systems. Basin Res., 8, 183-193.
+CARTWRIGHT, J. A. & LONERGAN, L. (1997) Seismic expression of layer-bound fault
+systems of the Eromanga and North Sea Basins. Expl. Geophys., 28, 323-331.
+CARTWRIGHT, J. A. & DEWHURST, D. N. (1998) Layer-bound compaction faults in fine-
+grained sediments. Geol. Soc. Am. Bull., 110, (10), 1242-1257.
+CLAUSEN, O. R. & J. A. KORSTGARD (1993). Small scale faulting as an indicator of
+deformation mechanism in the Tertiary sediments of the northern Danish Central
+Trough. J. Struct. Geol., 15, 1343-1358.
+CLAUSEN, J. A., R. H. GABRIELSEN, ET AL. (1999). Development of intraformational
+(Oligocene-Miocene) faults in the northern North Sea: influence of remote stresses
+and doming of Fennoscandia. J. Struct. Geol., 21, (10), 1457-1475.
+COOPER, C. K. (1999) Ocean currents offshore Northern Angola. OTC, paper 10749,
+DEWHURST, D. N., CARTWRIGHT, J. & LONERGAN, L. (1999) The development of
+polygonal fault systems by syneresis of colloidal sediments. Mar. Petr. Geol., 16,
+793-810.
+DROZ, L., RIGAUT, F., COCHONAT, P. & TOFANI, R. (1996) Morphology and recent
+evolution of the Zaire turbidite system (Gulf of Guinea). Geol. Soc. Am. Bull., 108, (3),
+253-269.
+DUVAL, B., CRAMEZ, C. & JACKSON, M. P. A. (1992) Raft tectonics in the Kwanza basin,
+Angola. Mar. Petr. Geol., 9, 389-404.
+GIRAUDEAU, J., CHRISTENSEN, B. A., HERMELIN, O., LANGE, C. B., MOTOYAMA, I. &
+PARTY, A. S. S. (1998) Biostratigraphic age models and sedimentation rates along the
+southwest African Margin. In: Proc. ODP, Initial reports (Ed. by G. Wefer, W. H.
+Berger and C. Richter), 175, p. 543-546.
+GOULTY, N. R. (2001). Mechanics of layer-bound polygonal faulting in fine-grained
+sediments. J. Geol. Soc. of London, 159, 239-246.
+HEGGLAND, R. (1998) Gas seepage as an indicator of deeper prospective reservoirs.
+A study based on exploration 3D seismic data. Mar. Petr. Geol., 15, 1-9.
+HENRIET, J.-P., BATIST, M. D. & VERSCHUREN, M. (1991) Early fracturing of
+Palaeogene clays, southernmost North Sea: Relevance to mechanisms of primary
+hydrocarbon migration. In: Generation, Accumulation and Production of Europe's
+Hydrocarbons (Ed. by A. M. Spencer), Eur. Ass. Petr. Geol., Sp. Pub., 1, 217-227.
+JANSEN, J. H., WEERING, T. C. E. V., GIELES, R. & IPRESEN, J. V. (1984) Middle and
+Late Quaternary oceanography and climatology of the ZAIRE-Congo fan and the
+adjacent eastern Angola Basin. Neth. J. Sea Res., 17, 201-249.
+
+
+                                                                                      23
+                                           A.Gay et al
+
+KIDD, G. D. (1999) Fundamentals of 3D seismic volume visualization. OTC, paper
+11054,
+KLITGORD, K. D. & GROW, J. A. (1980) Jurassic seismic stratigraphy and basement
+structure of the western Atlantic magnetic quiet zone. AAPG Bulletin, 64, 1658-1680.
+LACHENBRUCH, A. H. (1962) Mechanics of thermal contraction cracks and ice-wedge
+polygons. Geol. Soc. Am., Sp. Paper, 70.
+LAVIER, L., M. STECKLER, et al. (2000). An improved method for reconstructing the
+stratigraphy and bathymetry of continental margins: Application to the Cenozoic
+tectonic and sedimentary history of the Congo margin. AAPG Bulletin, 84, (7), 923-
+939.
+LAVIER, L., M. S. STECKLER, et al. (2001). Climatic and tectonic control on the
+Cenozoic evolution of the West African margin. Mar. Geol., 178, 63-80
+LIRO, L. M. & COEN, R. (1995) Salt deformation history and postsalt structural trends,
+offshore southern Gabon, West Africa. In: Salt Tectonics: a Global Perspective (Ed.
+by M. P. A. Jackson, D. G. Roberts and S. Snelson), AAPG Memoir, 65, 323-331.
+LONERGAN, L., CARTWRIGHT, J. & JOLLY, R. (1998) The geometry of polygonal fault
+systems in Tertiary mudrocks of the North Sea. J. Struct. Geol., 20, (5), 529-548.
+LUNDIN, E. R. (1992) Thin-skinned extensional tectonics on a salt detachment,
+northern Kwanza Basin, Angola. Mar. Petr. Geol., 9, 405-411.
+MALTMAN, A. (1994) The Geological Deformation of Sediments, Chapman & Hall,
+London.
+MARTON, L. G., TARI, G. C. & LEHMANN, C. T. (2000) Evolution of the Angola passive
+Margin, West Africa, with Emphasis on Post-Salt Structural Styles. In: Atlantic Rifts
+and Continental Margins (Ed. by W. Moriak and M. Talwani), Am. Geophys. Un., 129-
+149.
+OLDHAM, A. C. & GIBBINS, N. M. (1995) Lake Hope 3D: A case study. Expl. Geophys.,
+26, 383-394.
+POAG, C. W., WATTS, A. B. & OTHERS (1987) Initial Reports of the Deep Sea Drilling
+Project, 95. U.S. Government Printing Office, Washington D.C.
+PUFAHL, P. K., MASLIN, M. A., ANDERSON, L. & AL, E. (1998) Lithostratigraphic summary
+for LEG 175: Angola-Benguela upwelling system. In: Proc. ODP, Initial reports (Ed.
+by G. Wefer, W. H. Berger and C. Richter), 175, 533-542.
+ROUBY, D., RAILLARD, S., GUILLOCHEAU, F., BOUROULLEC, R. & NALPAS, T. (2002)
+Kinematics of a growth fault/raft system on the West African margin using 3-D
+restoration. J. Struct. Geol., 24, 783-796.
+SAVOYE, B., COCHONAT, P. & shipboard scientific party (2000) Structure et évolution
+récente de l'éventail turbiditique du Zaire: premier résultats scientifiques des
+missions d'exploration Zaiango 1 et 2 (Marge Congo-Angola). C-R. Ac. Sci. de la
+Terre et des Planètes, 331, 211-220.
+SÉRANNE, M. (1999) Early Oligocene stratigraphic turnover on the West Africa
+continental margin: a signature of the Tertiary greenhouse-to-icehouse transition ?
+Terra Nova, 11, 135-140.
+SÉRANNE, M., SÉGURET, M. & FAUCHIER, M. (1992) Seismic super-units and post-rift
+evolution of the continental passive margin of southern Gabon. Bull. Soc. Géol. de
+France, 163, (2), 135-146.
+TUCKWELL, G. W., L. LONERGAN AND R. JOLLY (2003). The control of stress history and
+flaw distribution on the evolution of polygonal fracture networks. J. Struct. Geol., 25,
+1241-1250.
+
+
+
+                                                                                     24
+                                           A.Gay et al
+
+UCHUPI, E. (1992) Angola Basin: Geohistory and Construction of the Continental
+Rise. In: Geologic Evolution of Atlantic Continental Rifts (Ed. by P. a. D. Graciansky),
+Nostrand Reinhold, 77-99.
+UENZELMANN-NEBEN, G. (1998) Neogene sedimentation history of the Congo Fan.
+Mar. Petr. Geol., 15, 635-650.
+VASSEUR, G., DJERAN-MAIGRE, I., GRUNBERGER, D., ROUSSET, G., TESSIER, D. &
+VELDE, B. (1995) Evolution of structural and physical parameters of clays during
+experimental compaction. Mar. Petr. Geol., 12, (8), 941-954.
+WATTERSON, J., J. WALSH, A. NICOL, P. A. R. NELL AND P. G. BRETAN (2000). Geometry
+and origin of a polygonal fault system. Journal of Geological Society 157, 151-162.
+WEFER, G., BERGER, W. H. & RICHTER, C. (1998) Proc. ODP, Initial Reports, 175.
+WEFER, G., BERGER, W. H., RICHTER, C. & PARTY, A. S. S. (1998) Facies patterns and
+authigenic minerals of upwelling deposits off Southwest Africa. In: Proc. ODP, Initial
+reports (Ed. by WEFER, G., BERGER, W. H. & RICHTER, C.), 175, 487-504.
+WEINBERGER, R. (1999) Initiation and growth of cracks during desiccation of stratified
+muddy sediments. J. Struct. Geol., 21, 379-386.
+YU, Z. & LERCHE, I. (1996) Modelling abnormal pressure development in
+sandstone/shale basins. Mar. Petr. Geol., 13, (2), 179-193.
+
+
+
+
+                                                                                     25
+

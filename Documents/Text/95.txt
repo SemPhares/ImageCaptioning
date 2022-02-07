@@ -1,0 +1,452 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/315671603
+
+
+
+Determination of Reservoir Play Fairway of the Lower Acacus Formation in the
+Ghadames Basin, NW Libya
+
+Article · January 2017
+DOI: 10.20431/2454-7980.0301009
+
+
+
+CITATIONS                                                                                              READS
+
+0                                                                                                      325
+
+1 author:
+
+            Omar Elfigih
+            University of Benghazi
+            16 PUBLICATIONS 8 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+              Gullebi Field Study -Ghadames Basin, NW Libya View project
+
+
+
+              NE-AlJabal AlAkhdar View project
+
+
+
+
+ All content following this page was uploaded by Omar Elfigih on 28 March 2017.
+
+ The user has requested enhancement of the downloaded file.
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)
+Volume 3, Issue 1, 2017, PP 60-69
+ISSN 2454-7980 (Online)
+DOI: http://dx.doi.org/10.20431/2454-7980.0301009
+www.arcjournals.org
+
+
+
+   Determination of Reservoir Play Fairway of the Lower Acacus
+          Formation in the Ghadames Basin, NW Libya
+                                               Omar B. Elfigih
+     Associate Professor, Petroleum Geologist, Department of Earth Sciences, Faculty of Science,
+                               University of Benghazi, Benghazi-Libya
+Abstract: The investigated well data sets have revealed that the Lower Acacus Formation in Ghadames Basin
+can be defined by two deltaic complexes correspond to two distinct prograded clastic wedges, that appear to
+exhibit significant differences in net sandstone thickness, lateral extension and lithofacies development. The play
+fairway of the Lower Acacus sandstones is considered to be wide enough and corresponding to a sequence of
+inter bedded fluvial-deltaic sandstones, marine sandstones and shale. To date, drilling activities targeting these
+reservoir sandstones have been concentrated in the central and northern part of the fairway. Production from
+these sandstones has been impressive. Average daily flow rate have increased from less than 300 BOPD and 0.1
+MMCFGPD to more than 1000 BOPD and 5 MMCFGPD. Analyses of well test performance on the level of
+Lower Acacus sandstone reservoirs suggest an ultimate oil reserves for the entire fairway in the Ghadames
+Basin.
+Keywords: Play, Fairway, Lower Acacus reservoirs, Ghadames Basin.
+
+1. INTRODUCTION
+The study area is called Ghadames (Hamada) Basin located in the northwestern part of Libya and
+occupied an area of 150,000km2. Structurally, it is bounded from the north by Nefusa Uplift, from the
+south by Gargaf Arch, from the east by Tripoli Soda Arch and from the west by the partial extension
+of Tihemboka Uplift (Fig.1).
+
+
+
+
+Figure1. Location map and the main structural elements of Ghadames Basin, NW Libya. (Arrows are indicting
+directions of sediments transportation from source areas, modified after [9])
+
+©ARC                                                                                                     Page | 60
+Omar B. Elfigih
+
+In the Ghadames (Hamada) Basin, several new and ongoing plays have exhibited considerable success,
+beginning in the 1980’sowing in the large part to the discovery of the multi-reservoirs in the
+Paleozoic-Mesozoic sequence. Among these sandstone reservoirs are the Lower Acacus sandstones
+(U. Silurian). In particular, the Lower Acacus sandstones are unique in terms of being most prolific
+and may represent one of the most prospective horizons in the Ghadames (Hamada) Basin. For these
+reasons this paper will be dealing with the possible definition, determination and spatial extension of
+the reservoirs play fairway of the Lower Acacus Formation.
+1.1. Previous Work
+A number of regional studies investigated potential play types and addressed new regional evaluations
+of the Ghadames (Hamada) Basin. Hammuda (1978) [1], summarized the results of a geological study
+conducted as part of an evaluation for recoverable reserve estimates for NOC. He concluded that
+AlHamada Al Hamra (Ghadames Basin) area had more traps than had been discovered to that time.
+Echikh and Sulieman (1982) [2], completed a geological study and petroleum evaluation of the
+Ghadames Basin for NOC, no new original work was contributed. Shah et al. (1988) [3], studied
+geological factors controlling the oil and gas deposits of the Ghadames (Hamada) Basin, and made
+recommendations for their future exploration. Santa Maria (1991) [4], completed a regional study on
+the Ghadames (Hamada) Basin. The main purpose of this study was to evaluate the hydrocarbon
+potential on the light of characteristic sedimentary cycles for the stratigraphic sequence in the
+Ghadames Basin. Elfigih (1991) [5], studied the reservoir characteristics of the Lower Acacus
+Formation in NC2 concession and furnished the idea of possible two deltaic pulses that may be
+contributed to the formation of the sandstones of Lower Acacus Formation. Cridland (1991) [6],
+completed a seismic stratigraphic evaluation of NC2 concession in which he integrated his seismic
+interpretation with existing studies, and referred to possible play types of Lower Acacus sandstone
+reservoirs in his study. Technica Exploitation Group (1995) [7], initiated an exploitation study for
+AGOCO regarding hydrocarbon pools of Lower Acacus sandstones in selected wells in the west of
+NC2 concession, and recommended these sandstones for their good reservoir quality. Elfigih (2000)
+[8], has completed a study leading to PhD degree entitled regional diagenesis and its relation to facies
+change in the Upper Silurian, Lower Acacus Formation, Hamada (Ghadames) Basin, NW Libya. He
+furnished the basis for approaches to the analysis of regional diagenesis and for establishment of
+parameters for basin-wide 3D geological model to achieve regional understanding of diagenetic
+change and for realistic reservoir representation and prediction. Elfigih (2010) [9], has published a
+paper entitled: regional aspects of the Lower Acacus sandstone play, Ghadames Basin, NW Libya, in
+which he interpreted fluvio-deltaic pulses in the Lower Acacus sandstones and said may be used to
+furnish the playground for the application of sequence stratigraphic analysis for the first time in the
+Ghadames Basin. Elfigih (2010) [10], has published a paper entitled: The prospectivity of the
+Devonian reservoirs in the concession NC8A, Hamada (Ghadames) Basin, NW Libya (a case study),
+in which he concluded that, the Devonian sandstones in concession NC8A could be regarded as of
+shallow targets and their prospectivity is largely dependent on vertical and lateral facies change.
+1.2. Purpose of the Study
+By using core data, well logs, isopach pattern maps and through detailed north-south cross section of
+the Lower Acacus Formation, the outcome of this study will provide a better understanding of
+depositional environment and distribution of deltaic facies complexes and will contribute to a better
+definition and prediction of the fairway of the Lower Acacus reservoirs in the Ghadames basin.
+2. METHODOLOGY
+To achieve the objectives of this study, methods employed were:
+Analysis, correlation, and calibration of conventional wireline logs, and cores to provide information
+for interpretation of the stratigraphic framework, units, and depositional environments of the Lower
+Acacus Formation. Stratigraphic cross-sections of wireline logs and stratigraphic/structural subsurface
+mapping of Lower Acacus Formation were used to reconstruct the configuration of strata; they form
+the basis for determination of play fairway in the study area.
+3. STRATIGRAPHY
+Extensive wireline data sets are loaded for each well and core description data results are incorporated.
+Based on these data, well correlation panels are built through N-S and NE-NWN regional cross
+sections (Figs.2 and 3). In both cross sections, Stacked fluvial-deltaic deposits are included within a
+foreland sequence and alternating with marginal(prodeltaic) to marine deposits from south to north and
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                        Page | 61
+Determination of Reservoir Play Fairway of the Lower Acacus Formation in the Ghadames Basin,
+NW Libya
+
+from northeast to northwest-north directions, sourced possibly from Cambrian-PreCambrian orogenic
+belt (high areas) to the south and to the northeast (Fig.1). Laterally from south to north (Fig.2) and
+from northeast to northwest-north (Fig.3); the Lower Acacus sandstones comprise proximal foreland
+fluvial channel deposits include conglomerates and sandstones (Af1-Af9 units). To the central part (in
+the vicinity of concessions NC2, NC3, NC4 and NC5) of the Ghadames Basin, Silurian seaway was
+acted as site for deltaic sandstones (A1-A14 units) accumulation which are changing N-NW direction
+to more marginal siltstone, shale and reworked marine sandstones (Am units). Vertically, underlying
+the Lower Acacus sandstones is the marine, thick Tanezzuft shale, where the overlaying deposits is the
+middle Acacus shale. Previous studies of the Lower Acacus interval have tended to focus either on its
+northern (NC2 concession) or southern part (NC7A and NC8A concessions). For this reason, the
+present paper has focused on the regional well data available throughout the Ghadames Basin.
+Meanwhile, to show that the Lower Acacus sandstones are typified by having complex architectures
+that involves facies changes, overlapping or truncation of individual facies especially northward.
+
+
+
+
+Figure2. North-South well-logs regional cross section illustrating the typical Gamma Ray signature associated
+with the depositional facies that make-up the possible prograded sequence of the southern delta of the Lower
+Acacus Formation, Ghadames Basin, NW Libya (after [9]).
+
+
+
+
+Figure3. Northeast-northwest-north stratigraphic cross section in the northern flank of the Ghadames Basin
+showing possible prograded eastern delta (after [9 ]).
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                           Page | 62
+Omar B. Elfigih
+
+4. LITHOFACIES ANALYSIS
+According to Elfigih (1991 and 2000), the Lower Acacus sandstones are divided into about 14
+sandstone units, where regional integration of wireline-logs and core description permits analysis of
+some specific units (A8, A10, A12, A14, Af3 and Am) as they appear the most thicker, of great
+extension, and most prolific units throughout the basin. The description of these units and their
+representative lithofacies is as following:
+4.1. Unit A8 (Parallel-Cross Laminated Sandstone Lithofacies)
+This unit have been examined in core #4, in well C1-NC2 at an interval of 9702’-9732’, (Fig. 4), and
+was described as fine-medium grained, subangular to rounded with parallel and cross lamination
+Sandstone with alternating shale lamination, of proximal delta front origin.
+4.2. Unit A10 (Wavy-Rippled Sandstone Lithofacies)
+This unit have been examined in core #2, in well B1-NC2 at an interval of 8637’-8650’, (Fig. 5), and
+was described as light grey-light green, fine-medium grained, friable at some places, subangular to
+rounded, well sorted sandstone, with mud clasts, wavy-rippled lamination at top, calcareous cement,
+shaly at the base of proximal delta front origin.
+4.3. Unit A12 (Cross Laminated, Carbonaceous Sandstone Lithofacies)
+This unit have been examined in core #1, in well C1-70 at an interval of 9710’-9730’, (Fig. 6), and was
+described as grey, grayish white, fine grained, subangular-subrounded, moderately sorted sandstone,
+occasionally with carbonaceous materials, cross laminated, rip-up clasts, calcareous, with oil stain, of
+proximal delta front origin.
+4.4. Unit A14 (Parallel To Indistinctive Laminated Sandstone Lithofacies)
+This unit have been examined in core #1&2, in well E1-NC2 at intervals of 9105’-9126’& 9126’-
+9146’, (Fig.7), and was described as “grey, occasionally tan, medium grained, subangular to rounded,
+moderately sorted sandstone, with mud clasts, parallel lamination with oil stain at top, indistinctive
+lamination and some burrows at bottom, of proximal delta front origin.
+4.5. Unit Af3 (Trough Cross Laminated To Ripple Laminated Sandstone Lithofacies)
+This unit have been examined in core #8, in well Z1-66 at an interval 9110’-9160’, (Fig.8), and was
+described as light grey, whitish cream, medium grained, Sandstone with trough cross lamination at
+base, non calcareous, getting finer grained at top, rippled at places, channel fill. Some silty shale at the
+most top, light grey, sticky, gummy, horizontal lamination, rootlets, of overbank deposits. Also this
+unit Af3 was described as massive, iron oxides-rich sandstone of fluvial fill origin in well C1-61 in
+core #3 at interval 7507’-7555’ (Fig. 9).
+4.6. Unit Am (Glauconitic, Rippled Sandstone Lithofacies)
+This unit have been examined in core #1&2, in well Q1-23 at intervals of 7440’-7470’ and 7470’-
+7485’, (Fig.10), and was described as whitish grey, fine grained, subangular-subrounded, moderately
+sorted sandstone, micaceous in parts, glauconitic, rippled, calcareous, reworked marine sandstone
+origin.
+
+
+
+
+   Figure4. Unit A8, C#4 of Lower Acacus Fm., in wellC1-NC2   Figure5. Unit A10, C#2 of Lower Acacus Fm., in well B1-NC2,
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                                           Page | 63
+Determination of Reservoir Play Fairway of the Lower Acacus Formation in the Ghadames Basin,
+NW Libya
+
+
+
+
+    Figure6. Unit A12, C#1 of Lower Acacus Fm., in well C1-70     Figure 7. Unit A14, C#1&2 of Lower Acacus Fm., in well E1-NC2
+
+
+
+
+    Figure8. Unit Af3, C#8 of Lower Acacus Fm., in well Z1-66     Figure9. Unit Af3, C#3 of Lower Acacus Fm., in well C1-61
+
+
+
+
+                                  Figure10. Unit Am, C#1&2 of Lower Acacus Fm., in well Q1-23
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                                              Page | 64
+Omar B. Elfigih
+
+5. SANDSTONE PATTERNS
+Regional net sandstone isopach patterns of the Lower Acacus Formation are showing in (Fig.11). The
+mapped sandstone units are recorded 75API or less on GR-Log. Isopach trends from thick to thin area
+are largely oriented to N-NW and E-W, to show a regional lobate morphology fashion gets more linear
+to the south as may infer from channel like contours configuration which reflect the accumulation of
+the fluvial channel deposits where the isopach maxima 220ft and extend at least 250km from south to
+north, compared with the eastern part (in the vicinity of NC2, NC3 &NC4) of about 130ft and extends
+about 100km to the west reflect a westerly shift to northern shoreline orientation. However, individual
+sand beds are observed to split or merge over short and long distances with thicker channel sands
+exhibiting good continuity between wells especially in the southern part of the basin.
+A fairly abrupt boundary is evident in the vicinity of (NC8A concession) extends to SW of well L-1,
+which have been interpreted as marking the southern limit of the Lower Acacus Formation as this
+formation have been truncated by erosion along this high relief area.
+
+
+
+
+      Figure11. Net sandstone isopach map of the Lower Acacus Formation, Ghadames Basin, NW Libya
+6. STRATIGRAPHIC INTEGRATION
+The integrated dataset including well logs, core description and thickness trend map is used to support
+the interpretation of possible two major deltaic complexes in the Lower Acacus sandstones (Fig. 12).
+These two deltaic complexes correspond to two distinct prograded clastic wedges (Figs.2 and 3), that
+appear to exhibit significant differences in thickness, extension and lithofacies development. The
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                      Page | 65
+Determination of Reservoir Play Fairway of the Lower Acacus Formation in the Ghadames Basin,
+NW Libya
+
+southern delta complex package is relatively of thicker sediments, river dominated and displaying
+evidence of south sediments source. The eastern deltaic complex is interpreted of thin sediments,
+storm-wave dominated, that has an eastern sourced area. This evolution of these two deltaic complexes
+consisting of several deltaic lobes or depocenters having major regional seaward/landward stepping,
+vertical stacking and flooding events that may cause shifting of depositional lobes.
+                              10°                                                     15°
+
+
+
+
+                                                              Tripoli
+                                                                                           Me
+                                                   Nefu                                      d i te
+                                                        sa Ar                                      r ra
+                                  ia
+
+
+
+
+                                                             ch                                        n ea
+                              ni s
+
+
+
+
+                                                                                                           nS
+                                                                  Eastern                                       ea
+                            Tu
+
+
+
+
+                                                                  Delta
+
+
+
+
+                                                                     Trip irt e H i
+                                        L.Acacus
+                                        Fairway
+
+                                                                         ol i -S
+                                                                          (S
+       30°                                                                      oda h)
+                                                                                   Ar ch
+                                                                                   g
+
+                                       Sout hern
+
+                                                                                                    L ib ya
+                                       Delta           Ham ada
+                                                        Basin
+                 Alge ria
+
+
+
+
+                                                                           h
+                                                                  ga f Arc
+                                                              Gar                               0     200       300km
+                            ++ ++
+                            ++
+Figure12. Interpreted regional extent of the two possible deltaic complexes in the Lower Acacus Formation,
+Ghadames Basin, NW Libya.
+7. DETERMINATION OF LOWER ACACUS RESERVOIR PLAY FAIRWAY
+The integrated dataset (wireline logs, cores and maps) is used to study the regional lateral and vertical
+evolution of the sedimentary system and the structural framework to identify areas that have
+hydrocarbon potential. From the database, the play fairway is estimated to be about 200km wide and
+350km long (grey shaded area), occupies a trend along the NW flank of the Ghadames Basin (Fig.13).
+To the east, the Lower Acacus sandstone terminates by Sirte high, which form the resistant eastern
+border of the Ghadames Basin. Southward, the fairway of the Lower Acacus was either eroded or
+terminated by series of orogenic events in the vicinity of Gargaf high. To the south of Gargaf high, the
+Lower Acacus sandstone outcrops almost continuously along the margin of Murzuk Basin, providing
+excellent exposure in Ghat area. Northward, the fairway margins are defined by increasing depth of
+burial, thinning and pinch out of the Lower Acacus sandstones to siltstone and shale beneath the
+Nefusa high. To date, drilling activities targeting these reservoir sandstones have been concentrated in
+the central (NC5, NC4, NC3 concessions), and northern part of fairway (NC2, NC1 concessions). The
+largest of these concessions is the NC2 which is have more than 20 wells. The Lower Acacus
+sandstone reservoirs in this concession average 25ft in thickness and occur at different depths as
+multiple pay zones (from 8000’to 9500’). Production from these sandstones in this NC2 concession
+has been impressive. Average daily flow rate have increased from less than 300BOPD and 0.1
+MMCFGPD to more than 1000BOPD and 5 MMCFGPD. These positive flow rates typified most
+wells in the concession NC2 with decreases in water production.
+Analyses of well test performance in the Ghadames (Hamada) Basin on the level of Lower Acacus
+sandstone reservoirs suggest an ultimate oil reserves in NC2 concession structures only are in range of
+150-200 MMSTBOIP and 75-100 MMMSCFGIP. This translates into as much as 300-400
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                                                Page | 66
+Omar B. Elfigih
+
+MMSTBOIP and of about 150-200 MMMSCFGIP for the entire fairway in the Ghadames Basin.
+However, the most northern part of concession NC2 in the vicinity of wells A1-NC2, Q1-23 and U1-
+23, also concession NC1 in the vicinity of well D1-23"Tigi area" are considered to be outside the
+interpreted play fairway of the Lower Acacus reservoirs (Fig. 13) as these wells are characterized by
+more low quality, silty-shaly sandstones of marginal part of the interpreted northward prograded delta.
+N-S structural cross section (Fig.14) is showing the structural style characterizing the Lower Acacus
+sandstone fairway. To the north and at the vicinity of NC2, NC3, NC4 and NC5 concessions, normal
+faulting, associated folding along with the development of good quality coastal-deltaic lobes are
+evident at Lower Acacus level. These faults appear to be associated with older basement rocks in the
+basin and are thus considered to be the effect of reactivation of older structures at Mesozoic or later
+age. in the vicinity of NC7A concession, fluvial channel sandstones of poor reservoir quality were
+dominating the area. Also, reverse faults are observed and display up to 100-150ft of vertical offset,
+they are generally strike parallel to the margins of the Silurian paleo-basins and may show some
+genetic relationship.
+
+
+
+
+  Figure13. Regional Structure Contour Map on Top of the Lower Acacus Formation, Ghadames, NW Libya.
+
+
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                      Page | 67
+Determination of Reservoir Play Fairway of the Lower Acacus Formation in the Ghadames Basin,
+NW Libya
+
+
+
+
+Figure14. North-South Cross Section Showing Structural Style of the Lower Acacus Fairway, Ghadames Basin,
+NW Libya (see figure 13 to locate line of N-S cross-section).
+
+8. CONCLUSIONS
+The integrated dataset including well logs, core description and regional structural and net thickness
+trend maps is used to support the interpretation of possible two major deltaic complexes in the Lower
+Acacus sandstones. These two deltaic complexes correspond to two distinct prograded clastic wedges,
+that appear to exhibit significant differences in thickness, lateral extension and lithofacies
+development. The play fairway of the Lower Acacus reservoirs is typified most drilled wells in the
+concessions NC2, NC3, NC4 and NC5 in which good reservoir quality and sandstones distribution
+may serve to build play concepts for future prospect identification.
+ACKNOWLEDGEMENTS
+I am grateful to the Arabian Gulf Oil Company (AGOCO) for their generous help for providing me
+unlimited access to the core storage facility, and technical data library (TDL). I express my sincere
+thanks and appreciation to all who helped me in whatever capacity in preparing this paper.
+                                            REFERENCES
+[1] Hammuda, O.S., 1980, Geologic factors controlling fluid trapping and anomalous freshwater
+    occurrence in Tadrart sandstone, Al Hamada Al Hamra area, Ghadames Basin, in Salem, M., and
+    Busrewil, M. (eds.), The Geology of Libya, Vol. II, p.501- 507.
+[2] Echikh, A, and A.S. Suleiman, 1982, Preliminary geological study and petroleum evaluation of
+    Ghadames Basin, NOC internal report.
+[3] Shah, H.A., Elfigih O.B., and Shahlool A., 1988, Geological factors controlling the oil and gas
+    deposits of Hamada Basin and recommendations for their future exploration, AGOCO internal
+    report, Benghazi, 34p.
+[4] Santa Maria, F.S., 1991, Ghadames Basin regional study, analysis and evaluation, AGOCO
+    internal report, Benghazi, 158 p.
+[5] Teknica Exploitation Group, Arabian Gulf Oil Company (AGOCO), 1995, Exploitation
+    evaluation study in the west half of concession NC2, Benghazi, 95p.
+[6] Elfigih, O.B., 1991, The sedimentology and reservoir characteristics of the Lower Acacus
+    Formation, NC2 concession, Hamada Basin, NW Libya, MSc. thesis, Memorial University of
+    Newfoundland, St.John’s, Newfoundland, Canada, 569p.
+[7] Cridland, R., 1991, Seismic stratigraphic evaluation of NC2 concession, Ghadames Basin,
+    AGOCO, Benghazi, 78p.
+
+International Journal of Petroleum and Petrochemical Engineering (IJPPE)                        Page | 68
+            Omar B. Elfigih
+
+            [8] Elfigih, O.B., 2000, Regional diagenesis and its relation to facies change in the Upper Silurian,
+                 Lower Acacus Formation, Hamada (Ghadames) Basin, northwestern Libya, Ph.D. thesis
+                 Memorial University of Newfoundland, St.John’s, Newfoundland, Canada, 399p.
+            [9] Elfigih O. B., 2010, Regional aspects of the Lower Acacus sandstone play, Ghadames Basin, NW
+                 Libya, Fifth international conference on the geology of the Tethys Realm, South Valley
+                 University, Egypt, January 2010, P. 445-454.
+            [10] Elfigih O. B., 2010, The prospectivity of the Devonian reservoirs in the concession NC8A,
+                 Hamada (Ghadames) Basin, NW Libya (a case study), Fifth international conference on the
+                 geology of the Tethys Realm, South Valley University, Egypt, January 2010, p. 455-468.
+            AUTHOR’S BIOGRAPHY
+                                Dr. Omar B. Elfigih, is an associated professor and petroleum geologist at the
+                                Department of Earth Sciences, University of Benghazi. Born on Dec. 16.1959, he
+                                has an MSc and PhD in petroleum geology from Memorial University of
+                                Newfoundland-Canada. Worked for the Arabian Gulf Oil Company (AGOCO) as
+                                petroleum geologist, technical advisor and led the Ghadames Basin group for
+                                hydrocarbon exploration researches. He worked as private consultant and
+                                exploration geologist with BP-Libya. He was the head of the Department of Earth
+                                Sciences-University of Benghazi from Oct. 2014 to Oct. 2016. Head of scientific
+            affairs at the University of Technical Research for Engineering Sciences (UTRES), Benghazi-Libya.
+            Research interests involve sedimentary basin analysis for hydrocarbons exploration, reservoir
+            characterization and evaluation and studies in petroleum system and stratigraphic models in
+            exploration. He is a member in many geological societies; the Geological Association of Canada
+            (GAC), the Earth Sciences Society of Libya (ESSL) and the American Association of Petroleum
+            Geologists (AAPG).
+
+
+
+
+            International Journal of Petroleum and Petrochemical Engineering (IJPPE)                    Page | 69
+
+
+View publication stats
+

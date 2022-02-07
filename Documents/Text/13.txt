@@ -1,0 +1,319 @@
+Asymmetric slip partitioning in the Sea of Marmara pull-apart:
+a clue to propagation processes of the North Anatolian Fault?
+Rolando Armijo,1* Bertrand Meyer,1 Sébastien Navarro,1 Geoffrey King1 and Aykut Barka2
+1
+ IPG, Paris (UMR. CNRS) 7578, Place Jussieu 4, Paris Cedex 75252,05, France; 2ITU, Eurasia Earth Sciences Institute, Ayazaga, 80626
+Istanbul, Turkey
+
+
+ABSTRACT
+Between 1939 and 1999 the North Anatolian fault (NAF)                for a single, continuous, purely strike-slip fault. This result is
+experienced a westward progression of eight large earthquakes        critical to understanding of the seismic behaviour of this region
+over 800 km of its morphological trace. The 2000-km-long             of the NAF, close to Istanbul. Additionally, morphological and
+North Anatolian transform fault has also grown by westward           geological evidence is found for a stable kinematics consistent
+propagation through continental lithosphere over a much              both with the long-term displacement field determined for the
+longer timescale (~10 Myr). The Sea of Marmara is a large            past 5 Myr and with present-day Anatolia/Eurasia motion
+pull-apart that appears to have been a geometrical/mechanical        determined with GPS. However, within the Sea of Marmara
+obstacle encountered by the NAF during its propagation. The          region the fault kinematics involves asymmetric slip partition-
+present paper focuses on new high-resolution data on the             ing that appears to have extended throughout the evolution of
+submarine fault system that forms a smaller pull-apart beneath       the pull-apart. The loading associated with the westward
+the Northern Sea of Marmara, between two well-known strike-          propagation process of the NAF may have provided a favour-
+slip faults on land (Izmit and Ganos faults). The outstandingly      able initial geometry for such a slip separation.
+clear submarine morphology reveals a segmented fault system
+including pull-apart features at a range of scales, which indicate   Terra Nova, 14, 80–86, 2002
+a dominant transtensional tectonic regime. There is no evidence
+
+
+
+                                              of the upper mantle. The Sea of               present-day motion determined using
+Introduction
+                                              Marmara pull-apart (Fig. 1) is an             GPS. This approach allows the de-
+Unlike oceans with magnetic anomal-           important structure on the NAF, but           gree of slip partitioning across the
+ies, active deformation of the conti-         detailed study of this feature has only       fault system to be determined and
+nents is determined from the evolution        been possible previously from data on         the possible mechanical evolution of
+of the morphology. Relief and other           both sides of the pull-apart where the        the pull-apart to be discerned. It is
+morphological features, such as oﬀset         structure is well constrained. Offset         of particular interest to assess whe-
+river valleys, result from accumulation       geological markers across the main            ther the structure of the Sea of
+of displacement increments during             faults provide estimates of the total         Marmara results chieﬂy from diffuse
+repeated earthquakes (e.g. King et al.,       lateral displacement (85 km) and of           extensional deformation of the Ae-
+1988; Stein et al., 1988; Yeats et al.,       slip rates over the past 5 Myr since the      gean domain, or from localized
+1997). A complete picture of an active        NAF propagated across the area (Ar-           lithospheric shear associated with
+region integrates morphological evi-          mijo et al., 1999). The occurrence of         the NAF.
+dence with the geological evolution. In       large earthquake ruptures [1912 Ga-
+recent years this perspective has been        nos earthquake (M 7.4) 1999 Izmit
+                                                                                            The Sea of Marmara pull-apart
+applied to the study of the main faults       and Düzce earthquakes (Mw 7.4; 7.2),
+                                                                                            system
+of Turkey and Greece and, more                [Fig. 1] has provided examples of
+speciﬁcally, to the North Anatolian           right-lateral slip increments corrobor-       In the Sea of Marmara region, the
+fault (NAF). Both the morphological           ating the strike-slip morphology of the       right-lateral NAF splays into two
+and the geological evidence require           active faults on land. However, large         major fault branches that are about
+localized deformation and indicate a          earthquake ruptures are likely to             100 km apart, before entering the
+westward, plate-scale propagation of          occur within the next decades along           Aegean westwards (Fig. 1, insert).
+the NAF over the past 10 Myr                  the submarine faults beneath the Sea          According to available geological and
+(Armijo et al., 1996,1999; Hubert-            of Marmara (e.g. Hubert-Ferrari               geodetic data (Armijo et al., 1999;
+Ferrari et al., 2002a). Such propaga-         et al., 2000; Parsons et al., 2000).          McClusky et al., 2000), most of the
+tion appears mechanically similar to          The new data comprise high-resolu-            lateral motion appears to be trans-
+the process of rift propagation associ-       tion bathymetry, seismic and sonar            ferred obliquely northward, from the
+ated with continental break-up                soundings, which enable the geometry          main to the northern branch, across
+(Hubert-Ferrari et al., 2002b) and            of the main active faults of the Mar-         the large rhomb-shaped basin that the
+seems to involve long-term strength           mara Basin to be determined and the           two branches embrace. Therefore, the
+                                              late Quaternary fault morphology and          Sea of Marmara is basically an
+*Correspondence: Rolando Armijo, IPG,         kinematics described. These kinemat-          extensional step-over, or pull-apart
+Paris (UMR. CNRS) 7578, Place Jussieu 4,      ics are compared both with the larger         structure (Fig. 1). Such a conﬁgur-
+Paris Cedex 75252,05, France. Fax: +33        scale displacement ﬁeld obtained              ation requires substantial subsidence
+144272440; e-mail: armijo@ipgp.jussieu.fr     for the past 5 Myr and with the               and localized crustal stretching.
+
+
+80                                                                                                              2002 Blackwell Science Ltd
+ 2002 Blackwell Science Ltd
+                                                                                                                                                                                                                                                                                                                                                                                   Terra Nova, Vol 14, No. 2, 80–86
+
+
+
+
+                               Fig. 1 Active tectonics in Sea of Marmara pull-apart (redrawn from Armijo et al., 1999) including the new EM300 bathymetry and the newly mapped submarine faults. The North
+                               Anatolian fault (NAF) splays westward into two main branches 100 km apart forming the larger pull-apart. Most of the lateral motion is transferred across Marmara to the
+                               northern branch (N). The sinuous southern branch (S) bypasses the pull-apart but accommodates much less motion. A smaller pull-apart called the North Marmara Fault System
+                               (NMFS) interconnects the deep northern basins (Tekirdag, Central and Cinarcik basins) with two large strike-slip faults on land (Izmit and Ganos faults). Recent earthquake
+                               breaks and fault plane solutions are outlined. Cuts (faults overlaid with grey) and geological markers (dashed blue) used for restoring slip in Fig. 5(b) are the same as discussed in
+                               Armijo et al. (1999). Details of the cuts within the NMFS follow the new data. Boxes indicate details enlarged in Figs 3, 4. Inset shows the tectonic setting of continental extrusion
+                               in eastern Mediterranean. The Anatolia–Aegean block escapes westward from the Arabia–Eurasia collision zone, towards the Hellenic subduction zone. EAF, East Anatolian fault;
+                               DSF, Dead Sea fault.
+
+
+
+
+81
+                                                                                                                                                                                                                                                                                                                                                                                  R. Armijo et al. • Asymmetric slip partitioning in the Sea of Marmara pull-apart
+                                                                                                                                                                                                                        .............................................................................................................................................................
+Asymmetric slip partitioning in the Sea of Marmara pull-apart • R. Armijo et al.                                          Terra Nova, Vol 14, No. 2, 80–86
+.............................................................................................................................................................
+Accordingly, the Marmara basin                        segmented and appears to intercon-
+contains signiﬁcant amounts of recent                 nect the largest pull-apart basins                    Fig. 2 Bathymetric map of the North
+sediment (average thickness 1–2 km),                  (Cinarcik, Central and Tekirdag                       Marmara Fault System (NMFS) (con-
+which is very thick in the deeper                     Basins) with the Izmit and Ganos                      tours in metres).
+northern basins (> 6 km) and is cut                   faults on land (Fig. 1).
+by large normal faults, as observed in                   In the middle of the Central Basin                 1000-m-high, 40-km-long, North
+seismic proﬁles (e.g. Parke et al.,                   (Fig. 3), distinct en echelon fault                   Cinarcik escarpment. Interestingly,
+1999). Within the larger Marmara                      scarps enclose a pull-apart with a                    two parallel fault traces 1–2 km apart
+pull-apart, a smaller pull-apart is                   characteristic rhomb shape. The indi-                 are observed over 10 km in the bend
+formed by an oblique submarine fault                  vidual scarps strike NW–SE and dis-                   area, suggesting slip partitioning:
+zone which links the two strike-slip                  play clear normal fault morphology                    almost purely right-lateral slip across
+branches that ruptured in 1912 and                    across the most recent sediment. They                 the southern linear fault; signiﬁcant
+1999 (Ganos and Izmit faults). This                   are, on average, 1–2 km long and the                  normal slip across the fault at the base
+oblique submarine zone is here                        ﬂat ﬂoor of the pull-apart is 20–60 m                 of the large escarpment. Similar fea-
+termed the North Marmara Fault                        deeper than the surrounding seaﬂoor.                  tures have been described elsewhere in
+System (NMFS). Within the NMFS                        Clear young fault scarps with similar                 basins under oblique extension
+two shallower ridges at about 700-m                   strike also run at the base of the                    (Armijo et al., 1986; Yeats et al.,
+depth separate an arrangement of                      much larger – probably longer term –                  1997).
+three deep basins (with depths over                   escarpments located at the edges of                      Finally, some compressional struc-
+1000 m; from east to west, Cinarcik,                  the Central Basin. Both the inner and                 tures can be deduced from the seaﬂoor
+Central and Tekirdag basins). Several                 outer faults of the basin thus have                   morphology and seismic proﬁles at the
+recent studies using seismic reﬂection                normal components of slip and appear                  appropriate contractional bends and
+proﬁles have proposed detailed maps                   to splay, in map view, from linear                    stepovers of the NMFS. These are
+of the submarine structure (e.g. Okay                 right-lateral fault segments striking                 minor features. Examples are found in
+et al., 1999; 2000; Parke et al., 1999;               ENE–WSW, which are located east                       the western half of the Sea of Mar-
+Imren et al., 2001). Although the                     and west of the pull-apart structure.                 mara, over the two sides of the central
+dataset is similar, each interpretation               Between these two segments, the                       pull-apart basin (Fig. 3). Thrusting
+is different and it is difﬁcult to                    extensional step-over is about 4 km.                  seems particularly prominent at the
+explain the discrepancies. The present                The nested graben structure that char-                Ganos bend, at the western end of the
+contribution uses high-resolution                     acterizes the geometry of the subsiding               NMFS (Fig. 1), where active folding
+data on the NMFS collected during                     Central Basin in cross section is well                has been described on land (Armijo
+the French–Turkish cruise carried out                 portrayed in the seismic proﬁles                      et al., 1999).
+aboard RV Suroıˆt in September–Oc-                    (Fig. 3, lower panel). Indeed, nested
+tober 2000. They include a EM-300                     pull-apart features are indicative of a
+                                                                                                            Kinematic reconstruction, slip
+multibeam bathymetry map with                         long-lived geological structure in the
+                                                                                                            partitioning within the pull-apart
+25 m gridding (Fig. 2), back-scatter                  Central Basin, controlled by a stable
+and side-scan sonar imagery, and                      mechanism.                                            The foregoing observations of the
+seismic reﬂection proﬁles using sur-                     The underlying kinematics govern-                  fault morphology and kinematics can
+face and deep-towed streamers. Le                     ing active faulting in the NMFS                       be used to make a simple reconstruc-
+Pichon et al. (2001) recently presen-                 appear to be well determined at the                   tion of the NMFS such as that pre-
+ted these data, a fault map and a                     sharp bend connecting two major                       sented in Fig. 5(a). The motion is
+tectonic interpretation. The present                  fault segments with diﬀerent strike,                  assumed to be localized on the larger
+contribution offers a discussion of the               south of Istanbul (Figs 1 and 4). The                 submarine faults and the strike-slip
+outstanding morphological features                    fault seen west of the bend is a linear               segments identiﬁed on land. This stage
+clearly exposed in two selected areas                 strike-slip fault striking N80E that                 of reconstruction incorporates neither
+(Figs 3 and 4) and provides a tectonic                crosses the shallower area separating                 deformation on smaller faults, nor slip
+interpretation consistent with our                    the Central and Cinarcik basins. A                    on faults whose trace does not deﬁn-
+knowledge of the NAF elsewhere.                       ridge intersecting the fault is oﬀset                 itely link with the larger faults.
+   The morphology of the active faults                3.5 km right-laterally. This feature                  Restoring the 3.5-km right-lateral slip
+is well preserved on the seaﬂoor. Fault               provides us with an estimate of dis-                  observed in the morphology (Fig. 5a)
+scarps probably resulting from many                   placement on the NMFS over the past                   indicates where and how extensional
+seismic events can be followed over                   few 105 years (see caption of Fig. 4).                (yellow) and compressional (pink)
+tens of kilometres and described in                   In contrast, the fault east of the bend               deformation should be accommoda-
+detail. Individual breaks that may                    is at the base of the large NW–SE-                    ted and deﬁnes the motion across the
+correspond to earthquakes in the                      striking escarpment forming the nor-                  NMFS over the past few 105 years.
+recent past are also distinguishable.                 thern edge of the Cinarcik Basin. An                  These kinematics can be compared
+Most scarps show clear normal and                     arrangement of en echelon normal                      with independently determined, lon-
+strike-slip fault morphology, forming                 fault scarps with throws of 60–100 m                  ger-term geological information and
+bends and pull-apart features at a                    is seen along this fault. This suggests               larger-scale kinematics.
+range of scales. As anticipated (e.g.                 that composite normal and strike-                        The reconstruction of the overall
+Barka and Kadinsky-Cade, 1988),                       slip during repeated earthquakes is                   Marmara pull-apart at » 5 Ma
+active faulting along the NMFS is                     responsible for the creation of the                   (Fig. 5b) is from Armijo et al. (1999)
+
+
+82                                                                                                                                2002 Blackwell Science Ltd
+Terra Nova, Vol 14, No. 2, 80–86                                         R. Armijo et al. • Asymmetric slip partitioning in the Sea of Marmara pull-apart
+.............................................................................................................................................................
+
+
+
+
+Fig. 3 Details of the Central Basin. An internal pull-apart has formed within the larger pull-apart structure. Outline (middle)
+shows en echelon normal faults and corresponding extension direction (yellow arrows). Subsidiary zones of compression (hatched)
+may exist on eastern and western sides of the pull-apart. Main strike-slip faults in bold. Slumped areas shown in red. Nested rift-in-
+rift structure and young sediment ﬁll are seen in the cross section (A–B; below, single-channel sparker proﬁle).
+
+
+ 2002 Blackwell Science Ltd                                                                                                                              83
+Asymmetric slip partitioning in the Sea of Marmara pull-apart • R. Armijo et al.                                          Terra Nova, Vol 14, No. 2, 80–86
+.............................................................................................................................................................
+
+
+
+
+Fig. 4 Connection between normal and strike-slip faulting at the fault bend north-west of Cinarcik basin (south of Istanbul).
+Scarps 50–100 m high, striking NW at the base of the steep rough slopes of the 1000-m-high basin margin (to the NE) turn into a
+right-lateral WSW-striking fault (to the SW). Note the ridge that is laterally oﬀset 3.5 km and the apparent slip partitioning at ‘sp’.
+The morphological oﬀset here is the clearest found in the bathymetry of the Sea of Marmara. Taking a possible slip-rate range of
+1–2.5 cm yr)1 (consistent with 50–100% of the rates derived from the geological observations and from the GPS measurements)
+gives possible offset ages of 1.4–3.5 · 105 yr.
+
+
+
+(slightly modiﬁed). The Anatolia–Eur-                 et al., 2000). No difference can be                   Sea of Marmara than elsewhere along
+asia direction of motion is the same as               resolved for the direction of motion                  the NAF (Ambraseys and Jackson,
+that determined with GPS (McClusky                    determined across the NMFS in the                     2000).
+et al., 2000; purple arcs in Fig. 5a and              two reconstructions shown in Fig. 5,                     Motions over 105 yr and 5 · 106 yr
+b). The model restores the initial                    despite the different timescales (see                 in the Sea of Marmara region are
+geometry of structural markers just                   caption of Fig. 5b).                                  consistent with the broader kinematics
+prior to the NAF propagation                                                                                of the extrusion of Anatolia derived
+through the Dardanelles region and                                                                          from space geodesy (McClusky et al.,
+                                                      Mechanical implications
+involves 85 km total right-lateral dis-                                                                     2000). Any overall opening attribut-
+placement of Anatolia relative to                     The North Marmara Fault System                        able to Aegean extension (e.g. Sengör
+Eurasia, most of it (70–90%) accom-                   involves oblique extension and is                     et al., 1985; Parke et al., 1999) is small
+modated across the Northern Branch.                   segmented. This is inconsistent with                  and the extension that has created the
+The displacement ﬁeld obtained in-                    the hypothesis of a single, through-                  Marmara basin results from the over-
+volves slip partitioning in the Sea of                going, purely strike-slip fault (Le                   all step-over formed with the northern
+Marmara. Speciﬁcally, a larger pro-                   Pichon et al., 2001). The NMFS in-                    branch of the NAF. The southern
+portion of strike-slip motion, relative               cludes signiﬁcant fault step-overs that               branch of the NAF takes up some
+to extension, appears to be accommo-                  could arrest propagation of large                     right-lateral motion, but this is no
+dated NE of the pull-apart, across the                seismic ruptures. Thus, the relatively                more than 20% of the total. Within
+NMFS. Conversely, a more extension-                   complex geometry and kinematics of                    the Marmara pull-apart, block motion
+al regime is expected across the shelf                active faults along the NMFS appear                   describes the kinematics with one
+SW of the pull-apart, consistent with                 consistent with the inference that                    block boundary (the NMFS) carrying
+the dominant         normal faulting                  destructive historical earthquakes                    a greater ratio of strike-slip to normal
+observed in the seismic proﬁles (Parke                have been generally smaller in the                    motion than others. The same asym-
+
+
+84                                                                                                                                2002 Blackwell Science Ltd
+Terra Nova, Vol 14, No. 2, 80–86                                         R. Armijo et al. • Asymmetric slip partitioning in the Sea of Marmara pull-apart
+.............................................................................................................................................................
+                   (a)
+
+
+
+
+                   (b)
+
+
+
+
+Fig. 5 Kinematic model of the Sea of Marmara pull-apart. (a) Reconstruction of the submarine NMFS in the late Quaternary (last
+few 105 yr). The 3.5-km-offset ridge of Fig. 4 is restored. Overlaps and gaps in the reconstruction (in yellow and pink, respectively)
+are regions where extension and compression have occurred leading to the present geometry. They emphasize the stepped pull-
+apart geometry. Large normal faulting along the north Cinarcik escarpment (2 km extension) and signiﬁcant thrusting at the
+Ganos bend (0.5 km contraction) are expected. Red arrows show the direction of motion of the southern block relative to Eurasia.
+The direction of Anatolia/Eurasia motion deduced from GPS measurements is also shown (purple arcs constructed with Euler pole
+from McClusky et al., 2000). Vertical grey lines indicate the simpliﬁed boundary used in (b). (b) Reconstruction at » 5 Ma with
+geological markers (in dashed blue) restored and the corresponding displacement ﬁeld (slightly modiﬁed from Armijo et al., 1999).
+The Anatolia–Eurasia direction of motion obtained in the previous reconstruction by Armijo et al. (1999) was, within errors, the
+same as that deduced from GPS (McClusky et al., 2000). To simplify, the Anatolia/Eurasia motion is taken strictly parallel to the
+GPS model [purple arcs as in (a)]; however, the average Anatolia/Eurasia velocity deduced across Marmara for the past 5 Myr is
+17 mm yr)1, somewhat less than the 22 ± 3 mm yr)1 determined using GPS (Kahle et al., 2000). Black vectors are relative to the
+northern block (Eurasia); red vectors are relative to the adjacent block. Vectors inside the pull-apart deviate from Anatolia/Eurasia
+circles because reconstruction requires slip partitioning. The Submarine NMFS is indicated by grey lines and the northern frame of
+A is rotated to its initial position. The reconstruction shows that signiﬁcant, long-term, oblique extension has occurred over the
+NMFS. The direction of motion across it (large red arrows, locally referred to Eurasia) is indistinguishable from that of the
+shorter-term motion determined in (a). This is because the two reconstructions (a) and (b) require primarily right-lateral slip along
+the Izmit and Ganos faults.
+
+
+
+metric slip separation seems to have                 quently migrates to new structures                    faults in the southern Sea of Marmara,
+persisted since the inception of the                 while strike-slip motion persists on                  which may have provided the initial
+NAF in the region.                                   the original feature.                                 asymmetry to the pull-apart. As the
+  Two overall explanations for slip                     2 Slip separation is attributed to                 motion propagates to the surface,
+separation are possible:                             asymmetric loading during propaga-                    strike-slip becomes more concentrated
+  1 Slip partitioning is an eﬀect of                 tion of the NAF. During a ﬁrst stage                  on the northern fault system, which has
+gravity. Faulting commences with                     the NAF at depth deviates to the north,               more adapted geometry, rather than on
+oblique slip on one feature. However,                instead of propagating further south-                 the early normal faults. This system
+with time the topography created by                  westwards along the arc determined by                 once established then persists as the
+the dip-slip component creates stresses              the rotation of Anatolia. This causes                 northern NAF propagates farther
+that resist further opening. The nor-                oblique extensional features to form,                 southwestward, across the Dardanelles
+mal component of motion conse-                       consistent with the NE-dipping normal                 into the Aegean (Armijo et al., 1999).
+
+
+ 2002 Blackwell Science Ltd                                                                                                                              85
+Asymmetric slip partitioning in the Sea of Marmara pull-apart • R. Armijo et al.                                          Terra Nova, Vol 14, No. 2, 80–86
+.............................................................................................................................................................
+   The two mechanisms are not mutu-                     Quaternary evolution of the Corinth Rift            McClusky, S., Balassanian, S., Barka, A.,
+ally exclusive, but for the ﬁrst, struc-                and its implication for the late Cenozoic             et al., 2000. Global Positioning System
+tures should evolve with time. In the                   evolution of the Aegean. Geophys. J. Int.,            constraints on the plate kinematics and
+absence of clear evidence for such                      126, 11–53.                                           dynamics in the eastern Mediterranean
+                                                      Armijo, R., Meyer, B., Hubert, A. and                   and Caucasus. J. Geophys. Res., 105,
+evolution, it is proposed that the
+                                                        Barka, A., 1999. Westwards Propagation                5695–5719.
+asymmetric slip partitioning within                     of the North Anatolian Fault into the               Okay, A., Demirbag, E., Kurt, H., Okay,
+the pull-apart is an eﬀect of propaga-                  Northern Aegean: Timing and kinemat-                  N. and Kuscu, I., 1999. An active, deep
+tion. A more detailed knowledge of                      ics. Geology, 27, 267–270.                            marine strike-slip basin along the North
+the structure and stratigraphy of the                 Barka, A.A. and Kadinsky-Cade, K., 1988.                Anatolian fault in Turkey. Tectonics, 18,
+Sea of Marmara, together with infor-                    Strike-slip fault geometry in Turkey and              129–147.
+mation from land studies should                         its inﬂuence on earthquake activity.                Okay, A.I., Kaslilar-Ozcan, A., Imren, C.,
+allow this scenario to be reﬁned and                    Tectonics, 7, 663–684.                                Boztepe-Guney, A., Demirbag, E. and
+modelled.                                             Hubert-Ferrari, A., Barka, A., Jacques, E.              Kuscu, I., 2000. Active faults and
+                                                        et al., 2000. Seismic hazard in the Mar-              evolving strike-slip fault basins in the
+                                                        mara Sea following the 17 August 1999                 Marmara Sea, northwest Turkey: a
+Acknowledgments                                         Izmit earthquake. Nature, 404, 269–272.               multichannel reﬂection study. Tectono-
+                                                      Hubert-Ferrari, A., Armijo, R., King,                   physics, 321, 189–218.
+This work is part of the collaborative                  G.C.P., Meyer, B. and Barka, A., 2002a.             Parke, J.R., Minshull, T.A., Anderson, G.
+programme on the seismic risk in the                    Morphology, displacement and slip rates               et al., 1999. Active faults in the Sea of
+Istanbul and Sea of Marmara region                      along the North Anatolian Fault (Tur-                 Marmara, western Turkey, imaged by
+coordinated by the Turkish TUBITAK                      key). J. Geophys. Res., in press.                     seismic reﬂection proﬁles, Terra Nova,
+and the French INSU-CNRS, with support                Hubert-Ferrari, A., King, G., Manighetti,               11, 223–227.
+from MTA, IFREMER, the French Min-                      I., Armijo, R., Meyer, B. and Tappon-               Parsons, T., Toda, S., Stein, R.S., Barka,
+istry of Foreign Aﬀairs (MAE) and the                   nier, P., 2002b. Long-term Elasticity in              A. and Dieterich, J.H., 2000. Heightened
+ECHO division of the EC. We are grateful                the Continental Lithosphere; Modelling                odds of large earthquakes near Istanbul:
+to all the crew of RV Le Suroı̂t. During and            the Aden Ridge Propagation and the                    an interaction-based probability calcu-
+after the cruise André Le Bot eﬃciently                Anatolian Extrusion Process, Geophys.                 lation. Science, 288, 661–665.
+processed the bathymetric data. We thank                J. Int. submitted.                                  Sengör, A.M.C., Görür, N. and Saroglu, F.,
+Sara Bazin for processing the seismic data.           Imren, C., Le Pichon, X., Rangin, C.,                   1985. Strike-slip faulting and related
+Gilles Peltzer and Jean-Philippe Avouac                 Demirbag, E., Ecevitoglu, B. and Görür,             basin formation in zones of tectonic
+are thanked for thorough reviews. Anne-                 N., 2001. The North Anatolian fault                   escape: Turkey as a case study. In: Strike-
+Claire Morillon helped substantially draft-             within the Sea of Marmara: a new                      Slip Faulting and Basin Formation (K.T.
+ing the ﬁgures. This is Institut de Physique            evaluation based on multichannel                      Biddke and N. Christie-Blick, eds). Spec.
+du Globe de Paris (IPGP) paper no. 1799.                seismic and multibeam data. Earth Pla-                Publ. Soc. Econ. Paleont. Miner., Tulsa,
+                                                        net. Sci. Lett., 186, 143–158.                        37, 227–264.
+References                                            Kahle, H.G., Cocard, M., Peter, Y. et al.,            Stein, R.S., King, G.C.P. and Rundle, J.B.,
+                                                        2000. GPS-derived strainrate ﬁeld within              1988. The growth of geological struc-
+Ambraseys, N.N. and Jackson, J.A., 2000.                the boundary zones of the Eurasion,                   tures by repeated earthquakes. 2. Field
+  Seismicity of the Sea of Marmara                      African and Arabian Plates. J. Geophys.               examples of continental dip-slip faults.
+  (Turkey) since 1500. Geophys. J. Int.,                Res., 105, 23,353–23,700.                             J. Geophys. Res., 95, 13,319–13,331.
+  141, F1–F6.                                         King, G.C.P., Stein, R.S. and Rundle, J.B.,           Yeats, R.S., Sieh, K. and Allen, C.R., 1997.
+Armijo, R., Tapponnier, P., Mercier, J.L.               1988. The growth of geological struc-                 The Geology of Earthquakes. Oxford
+  and Han Tonglin, 1986. Quaternary                     tures by repeated earthquakes. 1. Con-                University Press, New York.
+  extension in southern Tibet: ﬁeld obser-              ceptual framework. J. Geophys. Res.,
+  vations and tectonic implications.                    105, 5695–5719.                                     Received 25 October 2001; revised version
+  J. Geophys. Res., 91, 13,803–13,872.                Le Pichon, X., Sengör, A.M.C., Demirbag, E.          accepted 18 December 2001
+Armijo, R., Meyer, B., King, G.C.P., Rigo,              et al., 2001. The active main Marmara
+  A. and Papanastassiou, D., 1996.                      fault. Earth Planet. Sci. Lett., 192, 595–616.
+
+
+
+
+86                                                                                                                                2002 Blackwell Science Ltd
+

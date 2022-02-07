@@ -1,0 +1,925 @@
+                                                                 Journal of Structural Geology 116 (2018) 94–113
+
+
+                                                                   Contents lists available at ScienceDirect
+
+
+                                                             Journal of Structural Geology
+                                                          journal homepage: www.elsevier.com/locate/jsg
+
+
+
+
+Fault growth mechanisms and scaling properties in foreland basin system:                                                                                     T
+The case study of Monte Alpi, Southern Apennines, Italy
+Vincenzo La Brunaa,b,∗ , Fabrizio Agostab, Juliette Lamarchea, Sophie Viseura, Giacomo Prosserb
+a
+    CEREGE-UMR 34, Aix-Marseille University, Marseille, France
+b
+    Department of Sciences, University of Basilicata, Italy
+
+
+
+
+A R T I C LE I N FO                                        A B S T R A C T
+
+Keywords:                                                  The present work focuses on the comprehension of the growth mechanisms and dimensional properties of the
+Syn-sedimentary faults                                     pre-Pliocene Monte Alpi fault network by mean of integrated ﬁeld and laboratory analyses. After this multi-
+Orthogonal fault system                                    disciplinary approach, detailed throw proﬁles are computed for each fault belonging to the Monte Alpi network.
+Fault dimensional properties                               Subsequently, the dimensional properties of the individual faults are calculated. Data obtained from this work
+Apulian platform
+                                                           are discussed in terms of fault growth mechanisms and timing of deformation, and reported in a conceptual
+3D geological reconstruction
+                                                           tectonic evolution model of the Messinian foreland basin system. Data suggest that originally isolated fault
+                                                           segments developed during the earliest stages of foreland basin formation by re-activation of a pre-existing, Early
+                                                           Cretaceous fault set, and formation of an orthogonal one. These two fault sets formed a scale-independent
+                                                           network. Diﬀerently, the same fault sets were also active during its subsequent development forming a scale-
+                                                           dependent fault network characterized by T- and Y-shaped fault intersections. This deformation controlled the
+                                                           half-graben depocenters evolution ﬁlled by up to ca. 600 meters of terrigenous deposits during the Late
+                                                           Messinian time.
+
+
+
+
+1. Introduction                                                                             portion of the foreland basin system and its orthogonal fault network
+                                                                                            could experience orogenic compression and incorporated in FTBs.
+    Numerous studies have shed light on the evolution of the foreland                           In this paper, we present the results of a study performed in the
+basin systems ﬂanking orogenic belts, but some gaps remain in parti-                        Monte Alpi area which represent a key tectonic window of the southern
+cular related to the understanding of the fault growth mechanism and                        Apennines FTB of Italy (Alberti et al., 2001; Patacca and Scandone,
+fault dimensional properties related to the structural networks that                        2007). There, Mesozoic carbonates pertaining to the Inner Apulian
+control the foreland basin system evolution. This knowledge is im-                          Platform (Sartoni and Crescenti, 1962) and overlapping Lower Messi-
+portant to decipher the modalities of the extensional deformation as-                       nian carbonates and Upper Messinian siliciclastic rocks (Sgrosso, 1988;
+sociated to foreland ﬂexure, which is commonly due to migration of                          Taddei and Siano, 1992) crop out in the axial portion of the belt (Cello
+Fold-and-Thrust belts (FTB), and unveil the possible role exerted by pre-                   and Mazzoli, 1998).
+existing, inherited faults on development of foreland basin systems                             This peculiar site represents a unique opportunity to study and
+(Gawthorpe and Leeder, 2000). As documented in literature, long-                            unveil the structural control exerted by an orthogonal fault network
+itudinal extensional faults parallel to the main thrust front of the FTB                    which controlled the evolution of the Messinian foreland basin system
+are frequently observed across the whole foreland basin system                              (Patacca et al., 1992), subsequently involved in several tectonic phases
+(Harding and Tuminas, 1989; Lorenzo et al., 1998; Ranero et al., 2003).                     (Van Dijk et al., 2000; Mazzoli et al., 2006; La Bruna et al., 2017).
+Moreover, subordinated transverse extensional faults, which are per-                            The results of this work may provide useful insights in order to
+pendicular to the main thrust front can develop because of the stress                       better assess the timing of formation of the two aforementioned high-
+release in the fault hanging wall of longitudinal faults (Destro, 1995;                     angle fault sets, which pre-date Early-Middle Pliocene contractional
+Medwedeﬀ and Krantz, 2002; Tavani et al., 2015a,b), or be present as                        deformation associated to the FTB migration (Patacca and Scandone,
+transfer faults within linked extensional systems (Tavarnelli et al.,                       2007). In particular, data obtained after a detailed ﬁeld structural and
+1999).                                                                                      stratigraphic analyses are employed, together with available subsurface
+    Subsequently, during the migration of the orogenic chain this inner                     data, to perform 3D geological reconstruction of a ca. 320 km2 wide
+
+
+    ∗
+        Corresponding author. CEREGE-UMR 34, Aix-Marseille University, Marseille, France.
+        E-mail address: labruna@cerege.fr (V. La Bruna).
+
+https://doi.org/10.1016/j.jsg.2018.08.009
+Received 28 March 2018; Received in revised form 20 August 2018; Accepted 20 August 2018
+Available online 27 August 2018
+0191-8141/ © 2018 Elsevier Ltd. All rights reserved.
+V. La Bruna et al.                                                                                                     Journal of Structural Geology 116 (2018) 94–113
+
+
+area. As a result, both attitude and cumulative throw proﬁles are                    piggyback basins were involved in contractional deformation, and
+computed for the individual, outcropping, high-angle faults cross-                   currently crop out in the axial and outer portions of the belt (Ghisetti
+cutting the Monte Alpi Unit. By also considering the displacement of                 and Vezzani, 1981; Dewey et al., 1989; Boccaletti et al., 1990; Carbone
+speciﬁc chronostratigraphic surfaces, the dimensional properties of the              and Lentini, 1990; Van Dijk and Okkes, 1990, 1991; Monaco and Tansi,
+evolving pre-Pliocene fault network are discussed in terms of either                 1992; Catalano et al., 1993; Monaco and Tortorici, 1995; Monaco et al.,
+scale-independent (Schultz et al., 2008) or scale-dependent geometries               1998; Pescatore et al., 1999; Menardi Noguera and Rea, 2000; Patacca
+(Kim and Sanderson, 2005). In fact, as described in literature, when                 and Scandone, 2007). The Inner Apulian Platform was involved in Late
+initially isolated fault segments interact and, possibly, link together              Pliocene-Early Pleistocene thick-skinned tectonics (Mostardini and
+during ongoing deformation, they modify their dimensional properties                 Merlini, 1986; Cello and Mazzoli, 1998; Butler et al., 2004; Shiner et al.,
+(Walsh and Watterson, 1988; Peacock and Sanderson, 1991; Cartwright                  2004), whereas the Outer Apulian Platform is now days either exposed
+et al., 1995; Dawers and Anders, 1995; Mansﬁeld and Cartwright, 1996;                or buried underneath a Plio-Pleistocene sedimentary cover in the oro-
+Crider and Pollard, 1998; Cowie and Roberts, 2001; Walsh et al., 2003).              genic foreland of the Southern Apennines (Pieri et al., 1997;
+Considering the following relationship between the maximum fault                     Borgomano, 2000; Spalluto, 2012; Panza et al., 2016; Petrullo et al.,
+cumulative displacement (D) and its maximum linear dimension (L,                     2017). (insert Fig. 1).
+length)
+                                                                         (1)         2.2. Monte Alpi Unit
+D= c Ln
+where the c value is related to the rock mechanical properties, it is                    The study area is located in the axial portion of the southern
+possible to assess the geometrical properties of the fault network by                Apennines FTB (Fig. 1). Over the years, according to the presumed age
+considering the n value (Watterson, 1986; Walsh and Watterson, 1988;                 of the sedimentary cover, many authors proposed two conﬂicting hy-
+Cowie and Scholz, 1992a; b; Scholz et al., 1993; Schlische et al., 1996;             potheses on the origin of the Monte Alpi carbonates. Assigning a Lower
+Kim and Sanderson, 2005; Schultz et al., 2008). Values of n = 1 in-                  Miocene age to its sedimentary cover, the Mesozoic carbonates were
+dicate a linear scaling law (i.e. self-similarity), which implies that faults        interpreted as part of the Apennine Platform (Ogniben, 1969;
+grew under conditions of constant driving stress at diﬀerent scales,                 Mostardini and Merlini, 1986; Muller et al., 1988). Diﬀerently, by as-
+whereas values of n > 1 suggest a scale-dependent geometry. Re-                      signing a Messinian age, other authors included them in the Inner
+garding the study area of Monte Alpi, the contribution provided by the               Apulian Platform (Carbone et al., 1988; Sgrosso, 1988; Van Dijk et al.,
+diﬀerent angles among intersecting faults forming a scale dependent                  2000; Alberti et al., 2001; Mazzoli et al., 2006, 2014). Structurally, the
+geometry is investigated by considering both T- and Y-shaped inter-                  two most recent studies interpreted Monte Alpi as comprised of Apulian
+sections (Maerten et al., 1999). Finally, evolution of the pre-Pliocene              carbonates either forming a push-up structure (Van Dijk et al., 2000) or
+fault network is summarized in a conceptual model of Messinian fore-                 as the product of complex thin- and thick-skinned tectonics (Shiner
+land basin system evolution by taking the computed time-dependent                    et al., 2004; Mazzoli et al., 2006, 2014).
+activity of individual fault sets into account (sensu Gawthorpe and                      According to their inferred age of activity, La Bruna et al. (2017)
+Leeder, 2000).                                                                       recognized six diﬀerent structural networks and documented two main
+                                                                                     sets of high-angle faults pre-dating Early-Middle Pliocene emplacement
+2. Geological setting                                                                of the allochthon over the Mesozoic carbonates and their Upper Mio-
+                                                                                     cene cover (Cello and Mazzoli, 1998; Butler et al., 2004). The two high-
+2.1. Southern Apennines                                                              angle fault sets formed an almost orthogonal fault system, which de-
+                                                                                     veloped during either Cretaceous strike-slip and dip-slip tectonics (Pieri
+    The Apennines are an arc-shaped FTB that formed in response to the               and Laviano, 1989; Festa, 2003; Mazzoli et al., 2006; Bertok et al.,
+Oligocene-to-Pliocene continental collision between Eurasian and                     2012; Tavani et al., 2013; Korneva et al., 2014; Panza et al., 2015,
+African lithospheric plates (Royden et al., 1987; Locardi, 1988). Such a             2016; Laurita et al., 2016; Vitale et al., 2017), or Upper Miocene
+process caused the formation of east-propagating thrust sheets, which                foreland bulging (Doglioni, 1995) and/or along-foredeep stretching
+involved Meso-Cenozoic terranes originally pertaining to the Neo-Te-                 (Tavani et al., 2015a).
+thys Ocean, and of its south-eastern continental margin, and/or to the                   The Monte Alpi Unit is made up of ca. 2000 m-thick, Jurassic-to-
+subduction-related accretionary wedge (Patacca et al., 1990; Doglioni,               Lower Cretaceous limestones and dolostones, and Messinian carbo-
+1991). Commonly, the Apennines are sub-divided along-strike into                     nates-terrigenous rocks (Fig. 2). The Jurassic carbonates are Middle-to-
+three sectors named as northern, central, and southern, respectively,                Upper Jurassic in age, whereas the Lower Cretaceous ones are ascribed
+bounded by lithospheric discontinuities trending at high-angles with                 to the Neocomian (De Lorenzo, 1895; Selli, 1957; Sartoni and Crescenti,
+respect to the belt axis (Locardi, 1988; Ghisetti and Vezzani, 1997; Vai             1962; Grandjacquet, 1963; Roda, 1965; Ogniben, 1969). The Messinian
+and Martini, 2001; Cavazza et al., 2004; Patacca and Scandone, 2007).                sedimentary succession is stacked into two main intervals (Sgrosso,
+Most of the paleogeographic models proposed for the Mesozoic Neo-                    1988; Ortolani and Torre, 1971; Taddei and Siano, 1992; Van Dijk
+Tethys ocean invoked two main carbonate platforms commonly iden-                     et al., 2000). The Lower Messinian deposits, which form a para-
+tiﬁed as Apenninic, to the west, and Apulian, to the east, separated from            conformity with the Lower Cretaceous carbonates, consist of up to
+each other by communicating basins (D'Argenio et al., 1972; Ippolito                 35 m-thick skeletal grainstones and minor packstones, ﬂoatstones,
+et al., 1975; Mostardini and Merlini, 1986; Tavarnelli and Prosser,                  rudstones and bindstones. Diﬀerently, the Upper Messinian deposits,
+2003; Schettino and Turco, 2011).                                                    which form a 3°–5° angular unconformity with both Lower Messinian
+    The current structural setting of the southern Apennines FTB in-                 and Lower Cretaceous carbonates, include polygenic conglomerates,
+cludes the following tectono-stratigraphic units, from the top to the                litharenitic sandstones, and siltstones characterized by remarkable
+bottom, which respectively correspond to speciﬁc paleogeographic                     thickness and compositional variations. (insert Fig. 2).
+domains arranged from west to east, respectively (Patacca and
+Scandone, 2007): i) siltstones and claystones originally pertaining to               3. Data and methods
+the Liguride/Sicilide oceanic Basin; ii) carbonates derived from the
+Apennine Platform; iii) mixed terrigenous-carbonate rocks derived from                  The proposed integrated approach includes a variety of methods
+the Lagonegro basin, divided into two diﬀerent tectonic Units, Lago-                 such as geological mapping, ﬁeld structural and stratigraphic analyses,
+negro I and II; and iv) carbonates of the Apulian Platform (Fig. 1).                 well log correlation, seismic proﬁle interpretation, and 3D surfaces
+Miocene-to-Pliocene terrigenous inﬁll of foredeep, thrust-top, and                   reconstruction.
+
+                                                                                95
+V. La Bruna et al.                                                                                                    Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 1. Simpliﬁed geological map of the Southern Apennines, Italy, and NE-SW geological cross section (from Vitale and Ciarcia, 2013, and references therein).
+Location of the study area of Monte Alpi is shown both in the geological map and in the inset ﬁgure.
+
+
+3.1. Field analysis                                                               3.3. 3D geological reconstruction
+
+    The large-scale geological map was compiled at a 1:25,000 scale                   This work involved several steps of activities aimed at re-
+(Fig. 2) by taking into account available published data (Foglio IGM              constructing both stratigraphic and tectonic surfaces pertaining to the
+211, S. Arcangelo; Bonardi et al., 2009; Cavalcante et al., 2009; Lentini,        Monte Alpi Unit. First, the Digital Elevation Model (DEM), the large-
+1991), and the detailed geological map originally compiled at a                   scale geological map, and all the available subsurface data in jpeg
+1:10,000 scale by La Bruna et al. (2017). Field structural analyses fo-           format were imported into Gocad®, and then georeferenced for cali-
+cused on the fault zones exposed in the Monte Alpi area. Eight strati-            bration and consistency checking. The imported DEM was characterized
+graphic logs were measured in key sites, which expose signiﬁcant                  by a 20 × 20 m resolution. A triangulated mesh was built from the DEM
+portions of the Lower and Upper Messinian deposits.                               data points using both the Delaunay triangulation and interpolation in
+                                                                                  order to obtain a continuous and optimized representation of the to-
+                                                                                  pography (Mallet, 2002). Then, the georeferenced geological map was
+3.2. Seismic proﬁle interpretation                                                draped onto the topographic surface to obtain a textured topographic
+                                                                                  surface.
+    Interpretation of the four stacked seismic reﬂection proﬁles (cour-               In order to constrain the buried portions of the Apulian carbonates,
+tesy of Eni) was aimed at deciphering the geometry of the buried                  we performed time-to-depth conversion of four seismic proﬁles by using
+Apulian carbonates (Fig. 3). Due to the general poor quality of the               the      GeolToolbox       plugin     (www.ring-team.org/consortium).
+seismic proﬁles, such an interpretation was compared with published               Furthermore, six geological cross-sections obtained from the published
+well log data, seismic reﬂection proﬁle and isobaths maps (Mazzoli                geological map of Monte Alpi (La Bruna et al., 2017) and existing
+et al., 2006, 2014; Nicolai and Gambini, 2007). The original jpeg                 bibliography related to geometry of the buried Top Apula surface un-
+images were ﬁrst converted into seg-y ﬁles, by using the image2segy               derneath the southern Apennines FTB (Nicolai and Gambini, 2007)
+2.2.6 Matlab script developed by the Instituto de Cièncias del Mar                were taken into account. The eight stratigraphic logs performed in
+(Barcelona, Spain), and then imported into the Move™ software for                 correspondence of the outcropping mixed carbonate-terrigenous Mes-
+subsequent digitalization of the main stratigraphic horizons and fault            sinian cover were also imported in GOCAD. The 3D geological model of
+surfaces. Afterwards, the time-to-depth conversion was computed by                Monte Alpi was ﬁnally obtained by constructing the individual fault
+assigning a speciﬁc velocity value to the individual tectono-strati-              and stratigraphic surfaces by using the Discrete Smooth Interpolation
+graphic units (Dix, 1955; Improta et al., 2000). (insert Fig. 3).                 tool (Mallet et al., 1989; Mallet, 2002), which allowed to constrain on
+                                                                                  fault-fault and fault-stratigraphic surfaces in the light of the afore-
+                                                                                  mentioned data. Both resolution and convergence criteria were deﬁned
+
+
+                                                                             96
+V. La Bruna et al.                                                                                                          Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 2. (a) Geological map of the Monte Alpi area, and surrounding regions, at a 1:25.000 scale. Data after original ﬁeld survey and available bibliography (Foglio
+IGM 211, S. Arcangelo; Bonardi et al., 2009; Cavalcante et al., 2009; Lentini, 1991). (b) Location of the sites of stratigraphic logging analysis; (c) Traces of the main
+faults pertaining to the Monte Alpi structural network.
+
+
+according to the protocol recommended by Caumon et al. (2009).                          peritidal, whitish-to-dark grey limestones showing multiple dissolution
+                                                                                        evidences such as karst solution grooves and ﬁssures. Both Jurassic and
+3.4. Fault analysis                                                                     Lower Cretaceous limestone beds are quite tabular, 10's of cm-to m-
+                                                                                        thick, and commonly consist of grainstones and packstones, and less
+    Fault throw computation for individual faults was carried out by                    frequent mudstones, wackestones, bindstones, ﬂoatstones and rud-
+considering the cutoﬀ lines along the fault hanging walls (Fig. 4). This                stones (Dunham, 1962; Embry and Klovan, 1971). Results of thin sec-
+data was obtained by following the aforementioned procedure, in                         tion analysis are consistent with abundance of benthic foraminifera,
+which the individual stratigraphic surfaces were cut by the high-angle                  peloids, and fenestral structures within both Jurassic and Lower Cre-
+fault surfaces. Subsequently, as a ﬁrst step, the total amount of throw                 taceous carbonate rocks (Fig. 5b–f). In particular, the Jurassic lime-
+distribution (cumulative throw) was computed for each fault surface.                    stones include cm-sized stromatoporoids (Cladocoropsis mirabilis,
+This value corresponded to the current vertical oﬀset of the bottom                     Fig. 5b), whereas the Cretaceous ones contain oolites (Fig. 5c) and red
+Early Cretaceous surface. Then, the pre-Messinian throw distribution                    algae (Salpingoporella annulata, Fig. 5d and f). Dolomites are petro-
+was calculated by subtracting the amount of Early Messinian vertical                    graphically heterogeneous in texture, crystal size, and crystal shape
+displacement from the cumulative throw. Similarly, the Early Messinian                  (Rustichelli, personal communication); late diagenetic fabric-destruc-
+throw data were obtained by subtracting the amount of Late Messinian                    tive zebra (saddle) dolomites are also documented (Fig. 5g). Blocky
+vertical displacement from the pre-Messinian throw data. (insert                        calcite cement ﬁlls the pore space. Calcite veins, rare quartz veins, and
+Fig. 4).                                                                                dark microstylolites crosscut the Mesozoic carbonates (La Bruna et al.,
+                                                                                        2017). Along the western cliﬀ of the carbonate massif, within the Lower
+                                                                                        Cretaceous limestones, a ENE-striking, NNW-dipping, syn-sedimentary
+4. Results
+                                                                                        normal fault is documented (Fig. 5a and h). There, the carbonate suc-
+                                                                                        cession shows an increase of thickness toward the major slip surface
+4.1. Syn-sedimentary extensional faulting
+                                                                                        (Fig. 5h and i). (insert Fig. 5).
+
+4.1.1. Mesozoic carbonates
+    Mid-Upper Jurassic carbonates crop out only along the NW edge of                    4.1.2. Lower Messinian carbonates
+Monte Alpi (Fig. 5a), whereas the Lower Cretaceous ones are wide-                           Up to 35 m-thick, Lower Messinian limestones crop out along both
+spread in the study area (De Lorenzo, 1895; Selli, 1957; Sartoni and                    the western cliﬀ of Monte Alpi and the eastern slope of the Santa Croce
+Crescenti, 1962; Grandjacquet, 1963; Roda, 1965; Ogniben, 1969). The                    Peak (cf. Figs. 2 and 6a). These limestones consist mainly of grey-to-
+former carbonates consist of greyish-to- black limestones and minor                     dark grey skeletal grainstones with minor packstones, ﬂoatstones,
+dolomites, which are conformably overlain by Lower Cretaceous,                          rudstones and bindstones (Fig. 6b–g). Biota is dominated by red algal
+
+                                                                                   97
+V. La Bruna et al.                                                                                                           Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 3. Original and interpreted seismic reﬂection proﬁles available for the study area. Traces of individual seismic proﬁles are reported in Fig. 2. Interpreted sections
+show the main structural features crosscutting the Apulian Platform and allochthonous units. Interpretation of stratigraphic horizons and both low-angle and high-
+angle faults are based on available well log data.
+
+
+(Lithothamniun) debris with minor benthic foraminifera, echinoid plates                 causing roll over (higher dip angles towards the faults) of the limestone
+and spines, and fragments of serpulids (Ditrupa) and bivalves, collec-                  beds located at the hanging wall of the major, Early Messinian normal
+tively pointing to an inner-middle ramp depositional setting. The in-                   fault. (insert Fig. 6).
+dividual limestone beds are tabular, laterally continuous, characterized
+by a thickness variation comprised between 10's of cm and ca. 4 m, and                  4.1.3. Upper Messinian terrigenous deposits
+show thinning upward trends. The topmost portion of the Lower Mes-                          The Upper Messinian siliciclastic beds, which respectively form both
+sinian limestones is made up of thinly-bedded, bituminous, planktonic                   onlap and downlap geometries with the high-angle faults and low-angle
+foraminiferal wackestones including ﬁsh remains and intervening marl                    erosional surfaces crosscutting both Lower Cretaceous and Lower
+beds (Fig. 6b–f). The Lower Messinian limestones, which include blocky                  Messinian limestones (Fig. 7a and b), are made up of conglomerates,
+calcite cements, dark stylolites, and multiple sets of calcite veins, were              sandstones and siltstones. The heterometric conglomerates include sub-
+originally deposited in an outer ramp depositional setting, which be-                   rounded to ﬂattened, polygenic pebbles (Fig. 7c), whereas the lithar-
+came progressively deeper with time (Taddei and Siano, 1992; La Bruna                   enitic sandstones contain coarse-to-thin rock fragments arranged in
+et al., 2017). ENE-striking, and both NNW- and SSE-dipping, syn-sedi-                   either parallel or cross laminated beds (Fig. 7d). The former rocks are
+mentary normal faults are exposed along the north-eastern sector of                     located at the western and north-eastern edges of Monte Alpi, whereas
+Monte Alpi (Fig. 6a and h). These faults produced an accommodation                      the sandstones throughout its north-eastern and eastern sectors (La
+space in their hanging wall in which limestone beds were deposited                      Bruna et al., 2017). The exposed Upper Messinian succession is up to ca.
+(Fig. 6h and i). The two sets of ENE-striking faults form a conjugate                   300 m-thick. (insert Fig. 7). To better decipher its depositional archi-
+fault system that also crosscut the Lower Cretaceous limestone rocks,                   tecture, multiple stratigraphic logs have been measured throughout the
+
+                                                                                   98
+V. La Bruna et al.                                                                                                          Journal of Structural Geology 116 (2018) 94–113
+
+
+                                                                                        dipping limestone beds of the Canale del Grillone area, western sector
+                                                                                        of Monte Alpi, separated by a structural horst bounded by both F4 and
+                                                                                        F5 Faults from northeast-dipping beds of the Santa Croce area, eastern
+                                                                                        sector of Monte Alpi. (insert Fig. 9).
+
+                                                                                        4.2. Fault dimensional analysis
+
+                                                                                            The 3D geological model constructed for the whole study area
+                                                                                        consists of a 2*103 km3 volume that includes three stratigraphic sur-
+                                                                                        faces pertaining to the Monte Alpi Unit, and forty-three fault surfaces.
+                                                                                        Both dip azimuth and dip angle data were then computed for the lar-
+                                                                                        gest, twenty-seven fault surfaces (Fig. 10a, Table 1). Results are shown
+                                                                                        with histograms (Fig. 10b and c). (insert Fig. 10 and Table 1). Ac-
+                                                                                        cording to their strike direction, the twenty-seven fault surfaces are
+                                                                                        sorted into the following ﬁve sets:
+
+                                                                                           Set   1   -   NW-SE faults with throws between 100 and 1300 m;
+                                                                                           Set   2   -   NNW-SSE faults with throws between 100 and 1300 m;
+                                                                                           Set   3   -   ENE-WSW faults with throws between 50 and 800 m;
+                                                                                           Set   4   -   WNW-ESE faults with throws between 170 and 1100 m;
+                                                                                           Set   5   -   NNE-SSW faults with throws between 50 and 150 m.
+
+                                                                                            Results of mesoscale structural analysis performed at speciﬁc out-
+                                                                                        crops have been used to better constrain both attitude and kinematics of
+                                                                                        individual fault sets, as well as to document their relative abutting and
+                                                                                        crosscutting relationships (Fig. 11). Sets 1 and 2 mainly consist of left-
+                                                                                        lateral, strike-slip faults, which were then re-activated as normal faults
+                                                                                        during the latest exhumation stages (La Bruna et al., 2017). Sets 3 and 4
+                                                                                        comprise normal faults likely re-activated as reverse faults during Early
+                                                                                        Pleistocene times (Van Dijk et al., 2000), whereas Set 5 only includes
+                                                                                        normal faults. (insert Fig. 11).
+
+                                                                                        4.3. Fault throw analysis
+
+                                                                                            Fault throw analysis is carried out by taking the computed cumu-
+                                                                                        lative throw (D) and length (L) values into account. Error bars were
+                                                                                        estimated for the individual fault surfaces (cf. Fig. 4) on the basis of the
+                                                                                        resolution obtained. Errors are reported hereafter. D: ± 50 m (F1, F2,
+                                                                                        F3 and F5 Faults), ± 10 m (F4 Fault), ± 5 m (F6, F7, F9 and F12
+                                                                                        Faults), ± 2 m (F8 Fault), ± 1 m (F11 Fault), and ± 0,5 m (F10 Fault).
+                                                                                        L: ± 50 m (F1, F2, F3, F5, F11 and F12 Faults), ± 25 m (F4, F6, F7, F8,
+                                                                                        F9 and F10 Faults).
+                                                                                            Results of throw-length computations are consistent with diﬀerent
+                                                                                        shapes of the fault throw proﬁles (Fig. 12). In fact, both F10 and F3
+                                                                                        faults show symmetric, bell-shaped proﬁles, whereas F6, F8, and F12
+                                                                                        faults are characterized by ﬂat-topped proﬁles. Moreover, F1, F4, and
+                                                                                        F11 faults show asymmetric proﬁles with steep gradients towards one
+Fig. 4. (a) Modelled fault surface view due to west. Grey lines represent points
+                                                                                        of the fault tips, whereas F2, F5, F7, and F9 faults display asymmetric
+with similar amounts of throw present along the fault surface, whereas dashed
+lines show the cut-oﬀ of the bottom Lower-Cretaceous, Early Messinian and
+                                                                                        proﬁles with steep gradients toward both fault tips. (insert Fig. 12).
+Late Messinian surfaces. (b) Throw proﬁle computational process on the F1                   The computed pre-Messinian, Early Messinian, and post-Early
+Fault.                                                                                  Messinian throw proﬁles are reported in Fig. 13, and summarized in the
+                                                                                        following text (negative values correspond to either reverse displace-
+                                                                                        ments or rotated normal faults). (insert Fig. 13).
+study area. Logs #1 to #4 highlight the northward thinning of con-
+                                                                                            F1 Fault (Set 2): the post-Early Messinian throw proﬁle shows an
+glomerates along the southern sector of Monte Alpi, whereas logs #5 to
+                                                                                        asymmetric shape, with values increasing towards the NNW edge; along
+#7 show their westward thinning along its eastern sector (Fig. 8). (in-
+                                                                                        the central portion of the fault, the proﬁle is ﬂat-topped. The Early
+sert Fig. 8).
+                                                                                        Messinian throw proﬁle does not record any displacement, whereas the
+    By considering thickness variations of the Upper Messinian terri-
+                                                                                        pre-Messinian throw proﬁle shows two maxima separated by a ﬂat-
+genous deposits, an isopach map of the Upper Messinian deposit is
+                                                                                        topped throw proﬁle.
+computed, which shows that the two maxima located at the SW and NW
+                                                                                            F2 Fault (Set 1): the post-Early Messinian throw proﬁle shows a bell-
+edges of Monte Alpi are bound by the F2 and F3 Faults (Fig. 9a). A
+                                                                                        shaped geometry, with a very pronounced peak in the central portion of
+third, less pronounced maximum is also computed at the intersection of
+                                                                                        the fault. The Early Messinian throw proﬁle does not show any dis-
+the two aforementioned faults. In order to decipher the bedding atti-
+                                                                                        placement, whereas pre-Messinian throw proﬁle displays both a ﬂat-
+tude of both Lower Cretaceous and Lower Messinian limestones at the
+                                                                                        topped geometry at ca. −200 m-throw along the NW edge, and a bell-
+onset of deposition during Upper Messinian, data are restored accord-
+                                                                                        shaped geometry, with a peak at ca. 450 m-throw, along the SE edge.
+ingly (Fig. 9b). Results are consistent with the west- and southwest-
+                                                                                            F3 Fault (Set 3): the post-Early Messinian throw proﬁle shows a bell-
+
+                                                                                   99
+V. La Bruna et al.                                                                                                    Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 5. (a) Panoramic view of the western edge of Monte Alpi. There, Mesozoic platform carbonates are overlain by two Messinian sedimentary intervals. The lower
+interval is made up of ramp limestones, whereas the upper one includes shallow-marine siliclastics. (b to g) Photomicrographs of representative samples of the
+Mesozoic platform carbonates. (h, i) Outcrop view of a portion of the Monte Alpi western cliﬀ, along which a ENE-WSW striking, Early Cretaceous, syn-sedimentary
+normal fault is exposed.
+
+
+shaped geometry, with two nearby maxima in the central portion of the               throw proﬁles do not show any signiﬁcant displacement.
+fault. The Early Messinian throw proﬁle shows a slightly asymmetric                     F7 Fault (Set 3): the post-Early Messinian throw proﬁle displays an
+geometry, with higher values towards the WSW edge of the fault. The                 asymmetric shape, with a maximum towards the WSW edge of the fault.
+pre-Messinian throw proﬁle displays a ﬂat-topped geometry at around                 The Early Messinian throw proﬁle does not show any displacement,
+100 m-throw.                                                                        whereas the bottom pre-Messinian throw proﬁle displays an asym-
+    F4 Fault (Set 1): the post-Early Messinian throw proﬁle shows an                metric geometry characterized by two maxima localized at the fault
+asymmetric shape, with the greater values towards the NW edge of the                tips.
+fault. The Early Messinian throw proﬁle does not show any displace-                     F8 Fault (Set 3): the post-Early Messinian throw proﬁle shows an
+ment, whereas the bottom pre-Messinian throw proﬁle displays a                      asymmetric shape, with the greatest displacement localized at the WSW
+slightly pronounced, bell-shaped geometry towards the NW edge of the                edge of the fault. The Early Messinian throw proﬁle displays a very
+fault.                                                                              small amount of displacement, with a ﬂat-topped geometry at ca. 70 m-
+    F5 Fault (Set 1): the post-Early Messinian throw proﬁle shows a sort            throw. The pre-Messinian throw proﬁle shows an asymmetric shape,
+of asymmetric geometry, with the greatest values localized at the NW                with the greatest negative values towards the WSW edge of the fault.
+edge of the fault. The Early Messinian throw proﬁle shows a ﬂat-topped                  F9 Fault (Set 1): the post-Early Messinian throw proﬁle shows a bell-
+geometry, with values at ca. 100 m-throw. The pre-Messinian throw                   shaped geometry, with a maxima at around 100 m-throw. The Early
+proﬁle displays two ﬂat-topped geometries, localized at values of ca.               Messinian throw proﬁle shows a ﬂat-topped geometry at around 60 m-
+100 m. and −100 m-throw, respectively.                                              throw. The pre-Messinian throw proﬁle shows an asymmetric shape,
+    F6 Fault (Set 3): the post-Early Messinian throw proﬁle forms a                 with a maximum towards the SE edge of the fault.
+smooth, ﬂat-topped geometry. Both Early Messinian and pre-Messinian                     F10 Fault (Set 4): all stratigraphic horizons display a ﬂat-topped
+
+
+                                                                              100
+V. La Bruna et al.                                                                                                  Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 6. (a) Panoramic view of the western edge of the Monte Santa Croce peak (cf. Fig. 2). (b to g) Photomicrographs of representative samples of the Lower
+Messinian carbonates. (h and i) Outcrop view and line-drawing of a ENE-WSW striking, Early Messinian, syn-sedimentary normal fault.
+
+
+geometry, with a maximum of ca. 50 m-throw.                                        corresponds to the growth line of individual, isolated faults (Cartwright
+    F11 Fault (Set 2): all stratigraphic horizons display a ﬂat-topped             et al., 1995). As a result, a n value of ca. 1 is computed for the pre-
+geometry, with a maximum of ca. 90 m-throw (post-Early Messinian)                  Messinian faults. We note that a n value of ca. 0.8 is computed for the
+and 50 m-throw (pre-Messinian and Early Messinian), respectively.                  three faults active during Lower Messinian (Fig. 14b), which is ob-
+    F12 Fault (Set 3): the post-Early Messinian throw proﬁle shows a               viously not statistically signiﬁcant due to the small number of data
+bell-shaped geometry, with a maximum at ca. 200 m-throw. The Early                 points (Massot, 2002). Diﬀerently, a n value of ca. 1.5 was computed for
+Messinian proﬁle shows a ﬂat-topped geometry localized in the WSW                  the post-Early Messinian fault growth line (Fig. 14c). (insert Table 2 and
+portion of the fault at ca. 80 m-throw. The pre-Messinian proﬁle dis-              Fig. 14).
+plays a bell-shaped geometry, with negative values down to around
+−120 m-throw.
+                                                                                   5. Data interpretation and discussion
+
+4.4. Fault scaling properties                                                      5.1. Fault growth mechanisms
+
+    Based upon the fault throw proﬁles shown above, the maximum                        The most pronounced strike variations are computed for Set 1 Faults
+computed vertical Displacement (D) - Length (L) data for the twelve                (Table 1). Assuming that these faults developed by mean of subsidiary,
+faults (Table 2) that dissect the exposed Monte Alpi Unit are plotted in a         extensional faults localized at their releasing jogs and/or at the exten-
+log-log diagram (Fig. 14a). As reported in the ﬁrst section of the                 sional quadrants of mode-II edges (Segall and Pollard, 1980, 1983;
+manuscript, the slope of the computed power law, best-ﬁt line                      Molemma and Antonellini, 1999; Myers and Aydin, 2004; Flodin and
+
+                                                                             101
+V. La Bruna et al.                                                                                                         Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 7. (a) Outcrop view of the Solarino site (western edge of Monte Alpi). There, the Upper Messinian conglomerates form an onlap geometry with respect to the
+NNW-SSE striking F11 Fault, which is therefore interpreted as Late Messinian in age. (b) North-eastern edge of the Monte Santa Croce Peak (cf. Fig. 2). There, the
+Upper Messinian sandstones and conglomerates form a down-lap geometry with respect to the erosional surface topping the Lower Messinian carbonates. (c) Close up
+view of the Solarino site, where ﬂattened-polygenic conglomerates pertaining to the Upper Messinian deposit are exposed. (d) outcrop view of the Canale del Grillone
+site (western sector), where Upper Messinian laminated sandstones crop out.
+
+
+
+
+Fig. 8. Stratigraphic logs measured across the exposed sections of the Messinian mixed carbonates/terrigenous deposits. The location of each log is reported in Fig. 2.
+
+
+                                                                                 102
+V. La Bruna et al.                                                                                                    Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 9. (a) Isopach map computed for the Upper Messinian terrigenous deposit. Data are reported in meters. White lines represent the traces of the modelled Monte
+Alpi simpliﬁed fault network. (b) Lower hemisphere, equal area projections of both poles and planes related to unrestored and restored bottom Late Messinian
+surfaces. Bedding plane data were gathered in the ﬁeld from both western (Canale del Grillone) and eastern (Santa Croce) sectors of Monte Alpi. The cartoons show
+the unrestored and restored geological cross-sections elaborated for the study area. Data were restored according to the attitude of Upper Messinian beds.
+
+
+Aydin, 2004; Agosta and Aydin, 2006; Antonellini et al., 2008; Agosta               and Sanderson, 1991; Cowie and Scholz, 1992a; Cartwright et al., 1995;
+et al., 2010; Aydin et al., 2010), these variations could be due to either          Huggins et al., 1995; Nicol et al., 1996; McLeod et al., 2000; Manighetti
+Early Pleistocene or Middle Pleistocene strike-slip tectonics. In fact,             et al., 2001; Schlagenhauf et al., 2008).
+many authors assessed the occurrence of strike-slip along NW-SE                         A more detailed interpretation of the growth mechanisms can be
+striking faults exposed in the study area, and its surrounding regions,             deciphered by considering the pre-Messinian, Early Messinian, and
+during Quaternary times (Knott, 1987; Carbone et al., 1991; Monaco                  post-Early Messinian fault throw proﬁles (Fig. 13), and the results of
+and Tansi, 1992; Oldow et al., 1993; Monaco et al., 1998; Cello and                 stratigraphic ﬁeld logging (Fig. 8), Upper Messinian isopach map
+Mazzoli, 1998; Tavarnelli and Pasqui, 2000; Van Dijk et al., 2000;                  computation (Fig. 9), and detailed ﬁeld structural analyses (Figs. 5–7).
+Lentini et al., 2002; Mazzoli et al., 2006, 2014; La Bruna et al., 2017).           The pre-Messinian fault network was comprised of Sets 1, 2, and 3
+Bearing the aforementioned interpretation in mind, the modalities of                faults, respectively striking NW-SE, NNW-SSE, and ENE-WSW. Among
+growth of the Monte Alpi extensional fault network are discussed                    all the inferred syn-sedimentary Early Cretaceous faults, the greatest
+hereafter by considering the computed fault throw proﬁles. Bell-                    throw values were computed for Set 1 faults. The computed throw data
+shaped, ﬂat-topped, and asymmetric cumulative fault throw proﬁles                   for Sets 1 and 2 faults show that they were likely comprised of original,
+(Fig. 12) indicate presence of isolated fault segments that likely inter-           isolated fault segments, up to a few km-long, and characterized by bell-
+acted with each other during deformation (Muraoka and Kamata, 1983;                 shaped throw proﬁles. The computed n value, ca. 1, indicates that these
+Barnett et al., 1987; Walsh and Watterson, 1987, 1988; 1990; Peacock                faults grew under constant driving stress conditions (Schultz et al.,
+
+                                                                              103
+V. La Bruna et al.                                                                                                           Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 10. (a) Simpliﬁed traces of the Monte Alpi fault network. Dashed lines represent the traces of blind faults. Blue labels are assigned to the faults that are used for
+throw analysis. (b) Histograms showing both azimuth and dip variations computed for the F1 Fault surface. Both histograms describe the mean of the azimuth/dip
+value. (c) Snapshot of the 3D geological reconstruction, where the bottom Early Cretaceous surface, F1 Fault, and original geological map are shown. (For inter-
+pretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.)
+
+
+                                                                                   104
+V. La Bruna et al.                                                                                                            Journal of Structural Geology 116 (2018) 94–113
+
+
+Table 1
+Results of fault analysis performed on the 27 faults used for the 3D geological reconstruction. The 75, 50, and 25 percentile distributions of both dip azimuth and dip
+angle computed for the individual faults are shown, respectively. The two main clusters of dip azimuth values are computed on the basis of the obtained histograms
+(ie. Fig. 10b), in order to decipher the possible horizontal veering of the modelled 3D fault surfaces. In fact, the amount of strike variation reported in the last column
+is related to the diﬀerence between the two clusters computed, along a horizontal plane, for each modelled fault.
+  NAME      SET        DIP AZIMUTH     DIP AZIMUTH      DIP AZIMUTH      DIP ANGLE       DIP ANGLE   DIP ANGLE      DIP AZIMUTH      DIP AZIMUTH       STRIKE VARIATION
+                       75%             50%              25%              75%             50%         25%            CLUSTER 1        CLUSTER 2
+
+  F1        II         254.1           248.6            237.9            88.5            85.1        80.7           254              75                1°
+  F2        I          234.7           194.4            35.7             88.9            87.4        85             235              35                20°
+  F3        III        319.3           315.9            191.7            86.1            83.5        78.8           320              135               5°
+  F4        I          228.4           58.5             52.4             88              84.4        75.4           225              60                15°
+  F5        I          223.5           202.2            42.8             89              87.6        85.4           235              40                15°
+  F6        III        342             336.5            323              77.6            74.1        69.2           345              /                 /
+  F7        III        159.1           157.2            155.5            79.8            73.5        67.9           /                /                 /
+  F8        III        155.3           155.1            154.9            89.1            88.3        87.9           /                /                 /
+  F9        I          38.6            29.3             25.5             68.1            65.4        64.1           /                /                 /
+  F10       IV         203.1           23.3             22.5             89.6            89.3        87.6           204              23                1°
+  F11       II         76.9            74.1             70               87.4            85.6        81.5           70               260               10°
+  F12       III        344.8           188.9            180.4            87.3            83.6        81.5           170              345               5°
+  F13       I          228.6           227.5            223.5            87.5            86.1        84.4           /                /                 /
+  F14       V          187             12.7             8.6              89              88.3        87.5           180              8                 8°
+  F15       IV         97.1            89.4             76.5             61.4            59          55.7           /                /                 /
+  F16       IV         107.2           92.8             77.3             65.8            64          62.7           /                /                 /
+  F17       II         76.2            72.5             68.9             74.2            67.7        62.3           /                /                 /
+  F18       II         75.9            70.5             66.9             71.7            64.4        58.8           /                /                 /
+  F19       I          226.1           225.1            224              78.2            77.4        75.6           /                /                 /
+  F20       V          112.2           109.3            108.1            79.6            78.6        76.8           /                /                 /
+  F21       V          19.7            17.9             13.8             73.9            72.2        71.1           /                /                 /
+  F22       III        325.7           319.8            307.3            85.3            81.5        77.5           /                /                 /
+  F23       II         251.4           249.7            245.8            87.5            86.8        85.9           /                /                 /
+  F24       IV         193             249.7            12.7             88.2            86.7        84.2           193              20                7°
+  F25       IV         104.9           103.3            102.7            87.7            86.7        86             /                /                 /
+  F26       III        344.5           14.4             10.6             87              83.7        78.3           /                /                 /
+  F27       L.A.N.F.   135.2           86.3             53.6             25.5            22.4        18             /                /                 /
+
+
+
+2008), forming self-similar geometries (Mandelbrot and Pignoni, 1983;                    (Watterson, 1986; Walsh and Watterson, 1988; Cowie and Scholz,
+Torabi and Berg, 2011). However, interaction and possible linkage                        1992a; b; Scholz et al., 1993; Schlische et al., 1996; Kim and Sanderson,
+processes (Walsh and Watterson, 1988) occurred among the isolated                        2005; Schultz et al., 2008).
+fault segments, as suggested by the wide data point dispersion                               By considering both T- and Y-shaped intersections, we observe that
+(Fig. 14a). Such a dispersion shifted the power law best ﬁt line with                    the former geometry is quite common in the modelled fault system
+respect to the theoretical fault growth line, traced according to the                    (Figs. 10 and 14e). In fact, these types of intersection characterize F6,
+highest displacements values (Schultz et al., 2010). Linkage processes                   F7 and F8 faults, which are bounded on both sides by the F4 and F5 and
+took place in correspondence of stepover/relay zones (Trudgill and                       the F5 and F8 faults, respectively. On the other hand, the bounding F4
+Cartwright, 1994; Fossen and Rotevatn, 2016), and determined lower                       and F5 faults intersect southward the F3 fault also forming T-shaped
+D/L values for given fault lengths (Fig. 14d). Then, displacement lo-                    intersections. Among these, we focus on the detailed throw proﬁle
+calization within the linkage zones due to enhanced shear stress (Aydin                  analysis of both F7 and F5 faults (Fig. 14e), which downdrop the same
+and Schultz, 1990) caused higher D/L values up to the theoretical fault                  block but unfortunately do not show very signiﬁcant evidences of me-
+growth line (Cowie and Scholz, 1992a; b; Cartwright et al., 1995;                        chanical interaction (Walsh et al., 2003). Diﬀerently, the T-shaped in-
+Mansﬁeld and Cartwright, 1996).                                                          tersection formed by both F5 and F3 faults is characterized by a marked
+    Regarding the age of faulting, Sets 1 and 2 faults are ca. sub-parallel              increases of vertical displacement in the zone where the two fault
+to those crosscutting the Outer Apulian Platform, and exposed at the                     footwalls coincide (Fig. 14e). Y-shaped intersections are investigated by
+Gargano Promontory and Murge Plateau of southern Italy (cf. inset of                     considering small (ca. 30°) and large (ca. 130°) alpha angles (Maerten
+Fig. 1). Since the latter faults were interpreted as Cretaceous structures               et al., 1999). The former case is displayed by the F11 Fault intersecting
+(Bertotti et al., 2001; Korneva et al., 2014; Laurita et al., 2016; Petrullo             against the F4 Fault (Fig. 14e). There, a pronounced increase of vertical
+et al., 2017; Vitale et al., 2017), a similar age is hence proposed for the              displacement occurs in the zone where the two fault footwalls coincide
+study faults. In fact, these Sets 1 and 2 faults were likely coeval to the               (Fig. 13). The latter case if formed by the F12 Fault intersecting the F5
+Set 3 faults, which strike ENE-WSW, documented along the western cliﬀ                    Fault (Fig. 14e), but the two fault throw proﬁles do not show any
+of the Monte Alpi (Fig. 5a and h).                                                       variation in coincidence of the intersection line (Fig. 13).
+    The pre-Messinian, likely Early Cretaceous in age, fault system was
+re-activated during onset of the Monte Alpi foreland basin system, as
+                                                                                         5.2. Implication for the evolution of the Messinian foreland basin system
+suggested by both computed (Fig. 13) and measured structural data
+(Fig. 6a, h, i). This fault system included either isolated (ie. F5 and F12
+                                                                                             Results of the integrated ﬁeld and laboratory analyses are consistent
+faults), or interacting faults (ie. F3 Fault), which were characterized by
+                                                                                         with a pre-Messinian orthogonal fault system made up of isolated, in-
+ﬂat-topped and asymmetric proﬁles, respectively. Focusing on post-
+                                                                                         teracting faults (Fig. 15). During Early Messinian times, with ongoing
+Early Messinian times, all faults pertaining to the Monte Alpi network
+                                                                                         roll-back of the Apulian Platform (Royden, 1993; Doglioni et al., 1999),
+show evidences of slip. The computed n value is about 1.5 (Fig. 14c).
+                                                                                         shallow-water marine basins characterized by anoxic conditions
+This value, which is signiﬁcantly greater than those computed for both
+                                                                                         (Taddei and Siano, 1992) formed within the back-bulge deposition zone
+pre-Messinian and Early Messinian faults, is therefore consistent with a
+                                                                                         of the Inner Apulian Platform (Patacca et al., 1992; Critelli et al., 2011;
+scale-dependent geometry of the post-early Messinian fault network
+                                                                                         Vitale et al., 2012) or, alternatively, within outer secondary basins
+
+                                                                                   105
+V. La Bruna et al.                                                                                                           Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 11. (a) Outcrop view of the N-S striking F1 Fault, which bounds the north-western edge of Monte Alpi. The fault crosscut Jurassic carbonates, and it is
+characterized by both dip-slip and oblique-slip, extensional kinematics. (b, c) Close up of the F1 Fault. Kinematic indicators, such as calcite ﬁbers and abrasion striae,
+are visible along the main slip surface. (d) E-W striking, F3 Fault juxtaposing the Monte La Spina dolostones against Lower Cretaceous carbonate. The inset shows the
+polished slickenside, in which with dip-slip striae are visible. (e) Outcrop view of the F10 fault, which crosscut Lower Messinian carbonates. The inset shows the small
+veneer of cataclasites present along the polished slickenside.
+
+
+(sensu Flemings and Jordan, 1989). According to both basin geometry                      (Flemings and Jordan, 1989; Crampton and Allen, 1995). On the basis
+and inﬁll, similar conclusions were proposed for the Sunda shelf region,                 of the restored bottom Late Messinian surface (Fig. 6l), a structural
+Indonesia (Ben-Avraham and Emery, 1973), the Cordilleran foreland                        horst bounded by Set 1 faults formed at that time. This deformation
+basin, USA (DeCelles and Burden, 1992; Plint et al., 1993) and the                       caused emersion, and partial erosion, of both Mesozoic and Lower
+Taranaki foreland basin, New Zealand (Holt and Stern, 1994). The Early                   Messinian carbonates. Subsequently, the stratigraphy of the Late Mes-
+Messinian basin of Monte Alpi was mainly bounded by re-activated Set                     sinian deposit also suggests that nucleation of the Monte Alpi foredeep
+1 (NW-SE) and Set 3 (ENE-WSW) faults. Activity of an orthogonal fault                    basin was controlled by re-activation of Set 3 faults (ENE-WSW),
+system during the earliest stages foreland basin systems evolution was                   whereas as shown by the computed fault throw proﬁles its later de-
+already documented by Tavani et al. (2015b) in the Prenestini Mt. of                     velopment was mainly due to activity of Set 1 fault (NW-SE).
+central Apennines, Italy, and interpreted as due to along-foredeep                           According to Walsh et al. (2002), we interpret that the steeper slope
+stretching (Tavani et al., 2015a). This process commonly takes place in                  of the post-Early Messinian fault growth line with respect to both pre-
+correspondence of curved orogens (Doglioni, 1995; Zhao and Jacobi,                       Messinian and Early Messinian lines (Fig. 14a–c) reﬂects the higher
+1997; Whitaker and Engelder, 2006), such as the southern Apennines                       degree of maturity of the post-Early Messinian fault network
+FTB (Locardi, 1988).                                                                     (Cartwright et al., 1995; Nicol et al., 1996; Gupta and Scholz, 2000),
+    Diﬀerently, the erosional surface topping the Early Messinian                        and/or the pronounced lithostatic loading that occurred during post-
+limestones possibly formed in the forebulge (Fig. 15), which is an area                  Messinian times (Mazzoli et al., 2006). Focusing on Late Messinian
+commonly characterized by a signiﬁcant uplift (DeCelles and Giles,                       times, the foredeep basin was characterized by isolated depocenters, in
+1996), and considered as a non-depositional and/or erosional zone                        which up to 600 m-thick terrigenous sediments were deposited
+
+
+                                                                                   106
+V. La Bruna et al.                                                                                                     Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 12. Cumulative throw proﬁles computed for the 12 major faults pertaining to the Monte Alpi network, in which are present faults with diﬀerent shape regarding
+the computed throw proﬁles (symmetric, bell-shaped, ﬂat-topped and asymmetric proﬁles). See text for explanation.
+
+
+(Monaco et al., 1998; cf. well 2 of Fig. 2). Compared to the 1000's m-               to a ﬁrst-order stage of forebulge progradation (Catuneanu, 2004),
+thick Lower Pliocene (Casero, 2004; Shiner et al., 2004) and Upper                   which occurred during thrusting of the outermost portions of the
+Pliocene-Lower Pleistocene foredeep inﬁlls (Balduzzi et al., 1982;                   southern Apennines FTB (Marabini and Vai, 1985; Cavazza and
+Casnedi, 1988a; b), the Late Messinian succession is interpreted as due              DeCelles, 1998; Vitale and Ciarcia, 2013). It can be therefore argued
+
+
+                                                                               107
+V. La Bruna et al.                                                                                                          Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 13. Pre-Messinian (blue), Early Messinian (green), and post-Early Messinian (yellow) throw proﬁles computed for the 12 major faults pertaining to the Monte
+Alpi network. See text for explanation. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.)
+
+
+
+
+                                                                                  108
+V. La Bruna et al.                                                                                                      Journal of Structural Geology 116 (2018) 94–113
+
+
+Table 2                                                                               that the Messinian foreland basin system of Monte Alpi developed
+Name, length and vertical throw of the computed fault segments related to the         during a rapid migration of the southern Apennines FTB, which trig-
+Pre-Messinian (blue), Early Messinian (green), and post-Early Messinian               gered a predominant elastic response to ﬂexure of the Apulian plate due
+(yellow) structural network.                                                          to the low amount of its tectonic load (Crampton and Allen, 1995;
+                                                                                      DeCelles and Giles, 1996; Catuneanu, 2004). (insert Fig. 15).
+
+                                                                                      6. Conclusions
+
+                                                                                          The present work combined geological ﬁeld mapping and strati-
+                                                                                      graphic logging with subsurface seismic and well log data interpreta-
+                                                                                      tion to perform the 3D geological reconstruction of the Monte Alpi area,
+                                                                                      southern Italy. The goals were the assessment of both growth me-
+                                                                                      chanisms and scaling properties of the pre-Pliocene fault network, and
+                                                                                      the understanding of the structural control played by high-angle ex-
+                                                                                      tensional faults on the time-space evolution of the Messinian foreland
+                                                                                      basin system. Field analyses were aimed at assessing the stratigraphy of
+                                                                                      the Messinian mixed carbonate-terrigeneous deposits, and at doc-
+                                                                                      umenting Early Cretaceous, Early Messinian, and Late Messinian syn-
+                                                                                      sedimentary faults. Seismic reﬂection proﬁles and well logs were in-
+                                                                                      terpreted in order to decipher the geometry of the topmost surface of
+                                                                                      the Monte Alpi Unit. Results of both surface and subsurface analyses
+                                                                                      were then input in Gocad® to perform the 3D geological reconstruction
+                                                                                      of the Monte Alpi massif and its surrounding areas. This procedure was
+                                                                                      then followed by the computation of Late Messinian isopach map, and
+                                                                                      of throw proﬁles for the individual structures forming the Monte Alpi
+                                                                                      fault network. Results after 3D geological modelling and throw proﬁle
+                                                                                      analysis were discussed to assess its following time-dependent evolu-
+                                                                                      tion:
+
+                                                                                       • During pre-Messinian times, main NW-SE to NNW-SSE fault seg-
+                                                                                           ments were active as isolated structures, which likely interacted and
+                                                                                           linked together during ongoing deformation. According to literature
+                                                                                           data, these faults likely formed during Early Cretaceous times within
+                                                                                           the Inner Apulian Platform. Field evidences also show minor ENE-
+                                                                                           WSW, Early Cretaceous, syn-sedimentary extensional faults.
+                                                                                           Dimensional properties computed for the NW-SE to NNW-SSE faults
+                                                                                           showed that these features formed as isolated faults within a net-
+                                                                                           work characterized by self-similar geometries.
+                                                                                       •   During Early Messinian time, most of the pre-existing NW-SE and
+                                                                                           ENE-WSW faults were re-activated in the back-bulge zone during the
+                                                                                           earliest stages of foreland basin system evolution. These faults
+                                                                                           bounded shallow-water marine basins, in which carbonate sedi-
+                                                                                           ments were deposited under anoxic conditions. The computed di-
+                                                                                           mensional properties are also consistent with a self-similar fault
+                                                                                           network.
+                                                                                       •   Subsequently, isolated structural horsts formed in the forebulge
+                                                                                           zone of the foreland basin system. The horsts were bounded by NW-
+                                                                                           SE faults, which caused uplift, tilting, and partial erosion of both
+                                                                                           Mesozoic and Lower Messinian carbonates.
+                                                                                       •   During Late Messinian times, a 100's m-deep foredeep basin char-
+                                                                                           acterized by half-graben depocenters bounded by NW-SE faults de-
+                                                                                           veloped in the study area. Minor ENE-WSW faults were likely active
+                                                                                           during that time, forming a scale-dependent network in which the
+                                                                                           individual faults intersected the previously formed structures pro-
+                                                                                           ducing higher displacement/length values.
+
+                                                                                          The complex tectonic evolution that aﬀected the study area since
+                                                                                      Early Pliocene times profoundly modiﬁed the aforementioned struc-
+                                                                                      tural conﬁguration, and partially obliterated the original fault network.
+                                                                                      However, the results presented in this work shed a new light into the
+                                                                                      structural control exerted by inherited faults on the development of the
+                                                                                      Messinian foreland basin system of Monte Alpi. Further analysis fo-
+                                                                                      cused on the sedimentological and petrographic characterization of the
+                                                                                      Messinian mixed carbonate-terrigeneous deposits are required to better
+                                                                                      assess the geometry of the depositional environments, and their re-
+                                                                                      lationships with the bounding high-angle faults.
+
+                                                                                109
+V. La Bruna et al.                                                                                                        Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 14. Log-Log plots of displacement vs. length data computed for (a) pre-Messinian faults (y = 0.07 × 0.9; R2 = 0.42), (b) Early Messinian faults (y = 0.06 × 0.8;
+R2 = 0.86), and (c) post-Early Messinian faults (y = 0.08 × 1.5; R2 = 0.71). (d) Cartoons showing the main stages of fault growth, and their related log displacement/
+log length data, according to Cartwright et al. (1995). (e) Cartoons showing both T and Y-shaped intersections for some of the studied faults.
+
+
+Acknowledgments                                                                        author also acknowledges the great support provided by Paola
+                                                                                       Castelluccio, Alessandro Giuﬀrida, Arturo La Bruna, Andrea Rustichelli,
+   The present work is part of the ﬁrst author's Ph.D. Thesis                          Anthony Tendill, Christophe Matonti, and Sebastien Chatelée during
+Dissertation. Authors want to thank Enrico Tavernelli and an anon-                     ﬁeld and laboratory analyses. This work was supported by the Ministry
+ymous reviewer for their advices and their helpful correction on the                   of Education, University and Research (MIUR), and by the Reservoir
+paper manuscript. VLB acknowledges Stefano Mazzoli, Italo Sgrosso,                     Characterization Project, a consortium of universities and energy
+Marcello Schiattarella, Jean Borgomano, Sergio Longhitano and Carlos                   companies (www.rechproject.com). ENI is acknowledged for providing
+Pirmez for their thoughtful and constructive discussions. The ﬁrst                     seismic reﬂection data pertaining to the Monte Alpi and surrounding
+
+
+                                                                                 110
+V. La Bruna et al.                                                                                                                                 Journal of Structural Geology 116 (2018) 94–113
+
+
+
+
+Fig. 15. Time/space evolutionary model proposed for the Monte Alpi foreland basin system. The faults active during the main tectonic stages are illustrated in the 3D
+block diagrams, in which the geometry of the sedimentary depocenters is also reported.
+
+
+areas.                                                                                                      explanation for scatter in maximum displacement and trace lenght data from
+                                                                                                            Canyonlands Graben of SE Utah. J. Struct. Geol. 17, 1319–1326.
+                                                                                                        Casero, P., 2004. Structural setting of petroleum exploration plays in Italy. Spec. Vol. Ital.
+References                                                                                                  Geol. Soc. IGC 32, 189–199.
+                                                                                                        Casnedi, R., 1988a. La Fossa bradanica: origine, sedimentazione e migrazione. Mem. Soc.
+Agosta, F., Aydin, A., 2006. Architecture and deformation mechanism of a basin-                             Geol. Ital. 41, 439–448.
+    bounding normal fault in Mesozoic platform carbonates, central Italy. J. Struct. Geol.              Casnedi, R., 1988b. Subsurface basin analysis of fault-controlled turbidite system in
+    28, 1445–1467.                                                                                          Bradano trough, Southern Adriatic foredeep, Italy. AAPG Bull. 72, 1370–1380.
+Agosta, F., Alessandroni, M., Tondi, E., Aydin, A., 2010. Oblique normal faulting along                 Catalano, S., Monaco, C., Tortorici, L., Tansi, C., 1993. Pleistocene strike-slip tectonics in
+    the northern edge of the Majella anticline, central Italy: inferences on hydrocarbon                    the lucanian apennine (southern Italy). Tectonics 12, 656–665.
+    migration and accumulation. J. Struct. Geol. 32, 1317–1333.                                         Catuneanu, O., 2004. Retroarc foreland systems evolution through time. J. Afr. Earth Sci.
+Alberti, M., Lapenta, M.C., Maurella, A., 2001. New geological data on the basin units                      38, 225–242.
+    surrounding the Monte Alpi unit (southern Italy). Bollettino della Soc. Nat. Napoli                 Caumon, G., Collon-Drouaillet, P., De Veslud, C.L.C., Viseur, S., Sausse, J., 2009. Surface-
+    Nuova Ser. 1, 85–96.                                                                                    based 3D modeling of geological structures. Math. Geosci. 41, 927–945.
+Antonellini, M., Tondi, E., Agosta, F., Aydin, A., Cello, G., 2008. Failure modes in deep-              Cavalcante, F., Belviso, C., Finizio, F., Lettino, A., Fiore, S., 2009. Carta geologica delle
+    water carbonates and their impact for fault development: majella Mountain, Central                      Unità Liguridi dell’area del Pollino (Basilicata): Nuovi dati geologici, mineralogici e
+    Apennines, Italy. Mar. Petrol. Geol. 25, 1074–1096.                                                     petrograﬁci. Digilabs, Bari, pp. 36.
+Aydin, A., Schultz, R.A., 1990. Eﬀect of mechanical interaction on the development of                   Cavazza, W., DeCelles, P.G., 1998. Upper Messinian siliciclastic rocks in southeastern
+    strike-slip faults with echelon patterns. J. Struct. Geol. 12, 123–129.                                 Calabria (southern Italy): palaeotectonic and eustatic implications for the evolution
+Aydin, A., Antonellini, M., Tondi, E., Agosta, F., 2010. Deformation along the leading                      of the central Mediterranean region. Tectonophysics 298, 223–241.
+    edge of the Maiella thrust sheet in central Italy. J. Struct. Geol. 32, 1291–1304.                  Cavazza, W., Roure, F., Ziegler, P., 2004. The mediterranean area and the surrounding
+Balduzzi, A., Casnedi, R., Crescenti, U., Mostardini, F., Tonna, M., 1982. Il Plio-                         regions: active processes, remnants of former Tethyan oceans and related thrust belts.
+    Pleistocene del sottosuolo del bacino lucano (Avanfossa appenninica). Geol. Rom. 21,                    In: Cavazza, W., Roure, F., Spakman, W., Stampﬂi, G.M., Ziegler, P. (Eds.), The
+    1–28.                                                                                                   TRANSMED Atlas, pp. 1–29.
+Barnett, J.A., Mortiner, J., Rippon, J.H., Walsh, J.J., Waternson, J., 1987. Displacement               Cello, G., Mazzoli, S., 1998. Apennine tectonics in southern Italy: a review. J. Geodyn. 27,
+    geometry in the volume containing a single normal fault. AAPG Bull. 71, 925–937.                        191–211.
+Ben-Avraham, Z., Emery, K.O., 1973. Structural framework of Sunda shelf. AAPG Bull. 57,                 Cowie, P.A., Scholz, C.H., 1992a. Physical explanation for the displacement-lenght re-
+    2323–2366.                                                                                              lationship for faults using a post-yield fracture mechanics model. J. Struct. Geol. 14,
+Bertok, C., Martire, L., Perotti, E., d'Atri, A., Piana, F., 2012. Kilometre-scale pa-                      1133–1148.
+    laeoescarpements as evidence for Cretaceous synsedimentary tectonics in the external                Cowie, P.A., Scholz, C.H., 1992b. Displacement-length scaling relationships for fault: data
+    Briançonnais domain (Ligurian Alps, Italy). Sediment. Geol. 251–252, 58–75.                             synthesis and discussion. J. Struct. Geol. 14, 1149–1156.
+Bertotti, G., Picotti, V., Chilovi, C., Fantoni, R., Merlini, S., Mosconi, A., 2001. Neogene to         Cowie, P.A., Roberts, G.P., 2001. Constraining slip rates and spacings for active normal
+    Quaternary sedimentary basins in the south Adriatic (Central Mediterranean): fore-                      faults. J. Struct. Geol. 23, 1901–1915.
+    deeps and lithospheric buckling. Tectonics 20, 771–787.                                             Crampton, S.L., Allen, P.A., 1995. Recognition of forebulge unconformities associated
+Boccaletti, M., Ciaranﬁ, N., Cosentino, D., Deiana, G., Gelati, R., Lentini, F., Tortorici, L.,             with early stage foreland basin development: example from the North Alpine
+    1990. Palinspastic restoration and paleogeographic reconstruction of the peri-                          Foreland Basin. AAPG Bull. 79, 1495–1514.
+    Tyrrhenian area during the Neogene. Palaeogeogr. Palaeoclimatol. Palaeoecol. 77,                    Crider, J.G., Pollard, D.D., 1998. Fault linkage: three‐dimensional mechanical interaction
+    41–50.                                                                                                  between echelon normal faults. J. Geophys. Res. Solid Earth 103, 24373–24391.
+Bonardi, G., Ciarcia, S., Di Nocera, S., Matano, F., Sgrosso, I., Torre, M., 2009. Carta delle          Critelli, S., Muto, F., Perri, F., Tripodi, V., 2011. Relationships between Lithospheric
+    principali unità cinematiche dell'Appennino meridionale. Nota illustrativa. Boll. Soc.                  Flexure, Thrust Tectonics and Stratigraphic Sequences in Foreland Setting: the
+    Geol. Ital. 128, 47–60.                                                                                 Southern Apennines Foreland Basin System. InTech Open Access Publisher, Italy, pp.
+Borgomano, J.R.F., 2000. The Upper Cretaceous carbonates of the Gargano-Murge region,                       121–170.
+    southern Italy: a model of platform-to-basin transition. AAPG Bull. 84, 1561–1588.                  D'Argenio, B., Pescatore, T., 1972. Schema geologico dell'Appennino Meridionale
+Butler, R.W.H., Mazzoli, S., Corrado, S., De Donatis, M., Scrocca, D., Di Bucci, D.,                        (Campania e Lucania). Atti del Conv. Moderne vedute sulla geologia dell'Appennino
+    Gambini, R., Naso, G., Nicolai, C., Shiner, P., Zucconi, V., 2004. Applying thick-                      (Roma 16-18 Febbraio 1972). Accad. Naz. Lincei 183, 49–72.
+    skinned tectonic models to the Apennine thrust belt of Italy – limitations and im-                  Dawers, N.H., Anders, M.H., 1995. Displacement-length scaling and fault linkage. J.
+    plications. In: In: McClay, K.R. (Ed.), Thrust Tectonics and Hydrocarbon Systems, vol.                  Struct. Geol. 17, 607611–609614.
+    82. American Association of Petroleum Geologists, pp. 647–667.                                      De Lorenzo, G., 1895. Osservazioni geologiche nell'Appennino della Basilicata mer-
+Carbone, S., Catalano, S., Lentini, F., Monaco, C., 1988. Le unità stratigraﬁco-strutturali                 idionale. Atti Accad. Sci. Fisica. Mater. 27, 31.
+    dell'Alta Val d'Agri (Appennino lucano) nel quadro dell’evoluzione del sistema ca-                  Destro, N., 1995. Release fault: a variety of cross fault in linked extensional fault systems,
+    tena-avanfossa. Mem. Soc. Geol. Ital. 41, 331–341.                                                      in the Sergipe-Alagoas Basin, NE Brazil. J. Struct. Geol. 17, 615–629.
+Carbone, S., Lentini, F., 1990. Migrazione neogenica del sistema catena-avampaese                       DeCelles, P.G., Burden, E.T., 1992. Non-marine sedimentation in the overﬁlled part of the
+    nell'Appennino meridionale: problematiche paleogeograﬁche e strutturali. Riv. Ital.                     Jurassic-Cretaceous Cordilleran foreland basin: morrison and Cloverly Formations,
+    Paleontol. Stratigr. 96, 271–296.                                                                       central Wyoming, USA. Basin Res. 4, 291–313.
+Carbone, S., Catalano, S., Lentini, F., Monaco, C., 1991. Carta geologica del bacino del                DeCelles, P.G., Giles, K.A., 1996. Foreland basin systems. Basin Res. 8, 105–123.
+    ﬁume Agri. Scala 1:50.000. Cartograﬁa SELCA, Firenze.                                               Dewey, J.F., Helman, M.L., Turco, E., Hutton, D.H.W., Knott, S.D., 1989. Kinematics of
+Cartwright, J., Trudgill, B.D., Mansﬁeld, C.S., 1995. Fault growth by segment linkage: an                   the western mediterranean. In: In: Coward, M.P., Dietrich, D., Park, R.G. (Eds.),
+                                                                                                            Alpine Tectonics, vol. 45. Geological Society of London Special Publication, pp.
+
+
+                                                                                                  111
+V. La Bruna et al.                                                                                                                                 Journal of Structural Geology 116 (2018) 94–113
+
+
+    265–283.                                                                                            Massot, J., 2002. Implementation of 3D Balanced Restoration Methods. Ph.D.
+Dix, C.H., 1955. Seismic velocities from surface measurements. Geophysics 20, 68–86.                        Dissertation. Institut Polytechnique National de Lorraine, Nancy, France 157 pp.
+Doglioni, C., 1991. A proposal for kinematic modeling of W-dipping subductions - pos-                   Mazzoli, S., Aldega, L., Corrado, S., Invernizzi, C., Zattin, M., 2006. Pliocene-Quaternary
+    sible applications to the Tyrrhenian-Apennines system. Terra Nova 3, 423–434.                           thrusting, syn-orogenic extension and tectonic exhumation in the southern Apennines
+Doglioni, C., 1995. Geological remarks on the relationships between extension and con-                      (Italy): insights from the Alpi Mt. area. In: In: Mazzoli, S., Butler, R.W.H. (Eds.), Styles
+    vergent geodynamic settings. Tectonophysics 252, 253–267.                                               of Continental Contraction, vol. 414. Geological Society of America, pp. 55–77.
+Doglioni, C., Gueguen, E., Harabaglia, P., Mongelli, F., 1999. On the origin of west-di-                Mazzoli, S., Ascione, A., Buscher, J.T., Pignalosa, A., Valente, E., Zattin, M., 2014. Low-
+    rected subduction zones and applications to the western Mediterranean. Geol. Soc.                       angle normal faulting and focused exhumation associated with late Pliocene change
+    Lond. Spec. Publ. 156, 541–561.                                                                         in tectonic style in the southern Apennines (Italy). Tectonics 33, 1802–1818.
+Dunham, R., 1962. Classiﬁcation of carbonate rocks according to depositional textures.                  McLeod, A., Dawers, N.H., Underhill, J.R., 2000. The propagation and linkage of normal
+    In: In: Ham, W.E. (Ed.), Classiﬁcation of Carbonate Rocks, vol. 1. AAPG Memoir, pp.                     faults: insight from the Strathspey-Brent-Statfjord fault array, northern North Sea.
+    108–121.                                                                                                Basin Res. 12, 263–284.
+Embry III, A.F., Klovan, J.E., 1971. A late Devonian reef tract on northeastern Banks                   Medwedeﬀ, D.A., Krantz, R.W., 2002. Kinematic and long modelling of 3-D extensional
+    Island, NWT. Bull. Can. Petrol. Geol. 19, 730–781.                                                      ramps: observations and a new 3-D deformation model. J. Struct. Geol. 24, 763–772.
+Festa, V., 2003. Cretaceous structural features of the Murge area (Apulian Foreland,                    Menardi Noguera, A., Rea, G., 2000. Deep structure of the campanian-lucanian arc
+    southern Italy). Eclogae Geol. Helv. 96, 11–22.                                                         (southern Apennines). Tectonophysics 324, 239–265.
+Flemings, P.B., Jordan, T.E., 1989. A synthetic stratigraphic model of foreland basin                   Monaco, C., Tansi, C., 1992. Strutture transpressive lungo la zona trascorrente sinistra nel
+    development. J. Geophys. Res. Solid Earth 94 (B4), 3851–3866.                                           versante orientale del Pollino (Appennino calabro-lucano). Boll. Soc. Geol. Ital. 111,
+Flodin, E.A., Aydin, A., 2004. Evolution of a strike-slip fault network, valley of ﬁre state                291–301.
+    park, southern Nevada. Geol. Soc. Am. Bull. 116, 42–59.                                             Monaco, C., Tortorici, L., 1995. Tectonic role of ophiolitic-bearing terranes in the de-
+Foglio I.G.M. 211, S. Arcangelo. Istituto Geograﬁco Militare.                                               velopment of the Southern Apennine orogenic belt. Terra Nova 7, 153–160.
+Fossen, H., Rotevatn, A., 2016. Fault linkage and relay structures in extensional settings-A            Monaco, C., Tortorici, L., Paltrinieri, W., 1998. Structural evolution of the lucanian
+    review. Earth Sci. Rev. 154, 14–28.                                                                     Apennines, southern Italy. J. Struct. Geol. 20, 617–638.
+Gawthorpe, R.L., Leeder, M.R., 2000. Tectono-sedimentary evolution of active exten-                     Molemma, P.N., Antonellini, M., 1999. Development of strike-slip faults in the dolomites
+    sional basins. Basin Res. 12, 195–218.                                                                  of the sella group, northern Italy. J. Struct. Geol. 21, 273–292.
+Ghisetti, F., Vezzani, L., 1981. Contribution of structural analysis to understanding the               Mostardini, F., Merlini, S., 1986. Appennino centro-meridionale. Sezioni geologiche e
+    geodynamic evolution of the Calabrian Arc (Southern Italy). J. Struct. Geol. 3,                         proposta di modello strutturale. Memor. Soc. Geol. Ital. 35, 177–202.
+    371–381.                                                                                            Muller, C., Casero, P., Moretti, I., Roure, F., Sage, L., 1988. Signiﬁcance of the Alpi Mt. In
+Ghisetti, F., Vezzani, L., 1997. Interfering paths of deformation and development of arcs                   the geodynamic evolution of the southern Apennines. In: Atti 74th Congresso della
+    in the fold-and-thrust belt of central Apennines (Italy). Tectonics 16, 523–536.                        Società Geologica Italiana B, pp. 333–335.
+Grandjacquet, C., 1963. Schéma structural de l'Apennin campano-lucanien (Italie). Rev.                  Muraoka, H., Kamata, H., 1983. Displacement distribution along minor fault traces. J.
+    Geogr. Phys. Geol. Dyn. 25, 185–202.                                                                    Struct. Geol. 5, 483–495.
+Gupta, A., Scholz, C.H., 2000. A model of normal fault interaction based on observations                Myers, R., Aydin, A., 2004. The evolution of faults formed by shearing across joint zones
+    and theory. J. Struct. Geol. 22, 865–879.                                                               in sandstones. J. Struct. Geol. 26, 947–966.
+Harding, T.P., Tuminas, A.C., 1989. Structural interpretation of hydrocarbon traps sealed               Nicol, A., Watterson, J., Walsh, J.J., Childs, C., 1996. The shapes, major axis orientations
+    by basement normal block faults at stable ﬂank of foredeep basins and at rift basins.                   and displacement patterns of fault surfaces. J. Struct. Geol. 18, 235–248.
+    AAPG Bull. 73, 812–840.                                                                             Nicolai, C., Gambini, R., 2007. Structural architecture of the Adria platform-and-basin
+Holt, W.E., Stern, T.A., 1994. Subduction, platform subsidence, and foreland thrust                         system. Boll. Soc. Geol. Ital. 7, 21–37.
+    loading: the late Tertiary development of Taranaki Basin, New Zealand. Tectonics 13,                Ogniben, L., 1969. Schema introduttivo alla geologia del conﬁne calabro-lucano. Memor.
+    1068–1092.                                                                                              Soc. Geol. Ital. 8, 453–763.
+Huggins, P., Watterson, J., Walsh, J.J., Childs, C., 1995. Relay zone geometry and dis-                 Oldow, J.S., D'Argenio, B., Ferranti, L., Pappone, G., Marsella, E., Sacchi, M., 1993. Large-
+    placement transfer between normal faults recorded in coal-mine plans. J. Struct.                        scale longitudinal extension in the southern Apennines contractional belt, Italy.
+    Geol. 17, 1741–1755.                                                                                    Geology 21, 1123–1126.
+Improta, L., Iannaccone, G., Capuano, P., Zollo, A., Scandone, P., 2000. Inferences on the              Ortolani, F., Torre, M., 1971. Il Mt. Alpi (Lucania) nella paleogeograﬁa dell'Appennino
+    upper crustal structure of Southern Apennines (Italy) from seismic refraction in-                       meridionale. Boll. Soc. Geol. Ital. 90, 213–248.
+    vestigations and sub-surface data. Tectonophysics 317, 273–297.                                     Panza, E., Agosta, F., Zambrano, M., Tondi, E., Prosser, G., Giorgioni, M., Janiseck, J.M.,
+Ippolito, F., D'Argenio, B., Pescatore, T., Scandone, P., 1975. Structural-stratigraphic units              2015. Structural architecture and Discrete Fracture Network modelling of layered
+    and tectonic framework of Southern Apennines. In: SQUYRES, C. (Ed.), Geology of                         fractured carbonates (Altamura Fm., Italy). Ital. J. Geosci. 134, 409–422.
+    Italy, Earth Science. Society of Lybian Arabic Republic, pp. 317–328.                               Panza, E., Agosta, F., Zambrano, M., Tondi, E., Prosser, G., Giorgioni, M., Janiseck, J.M.,
+Kim, Y.S., Sanderson, D.J., 2005. The relationship between displacement and length of                       2016. Fracture stratigraphy and ﬂuid ﬂow properties of shallow-water, tight carbo-
+    faults. Earth Sci. Rev. 68, 317–334.                                                                    nates: the case study of the Murge Plateau (southern Italy). Mar. Petrol. Geol. 73,
+Knott, S.D., 1987. The Liguride complex of southern Italy-a cretaceous to paleogene ac-                     350–370.
+    cretionary wedge. Tectonophysics 142, 217–226.                                                      Patacca, E., Sartori, R., Scandone, P., 1990. Tyrrhenian basin and Apenninic arcs: kine-
+Korneva, I., Tondi, E., Agosta, F., Rustichelli, A., Spina, V., Bitonte, R., Di Cuia, R., 2014.             matic relations since late Tortonian times. Mem. Soc. Geol. Ital. 45, 425–451.
+    Structural properties of fractured and faulted Cretaceous platform carbonates, Murge                Patacca, E., Scandone, P., Bellatalla, M., Perilli, N., Santini, U., 1992. The numidian-sand
+    Plateau (southern Italy). Mar. Petrol. Geol. 57, 312–326.                                               event in the southern Apennines. Mem. Sci. Geol. Padova 43, 297–337.
+La Bruna, V., Agosta, F., Prosser, G., 2017. New insights on the structural setting of the              Patacca, E., Scandone, P., 2007. Geology of southern Apennines. Results of the CROP
+    Monte Alpi area, Basilicata, Italy. Ital. J. Geosci. 136, 220–237.                                      project. Sub-project CROP-04. In: In: Mazzotti, A., Patacca, E., Scandone, P. (Eds.),
+Laurita, S., Agosta, F., Cavalcante, F., Rustichelli, A., Giorgioni, M., 2016. Shearing of syn-             Bollettino Della Società Geologica Italiana, vol. 7. pp. 75–119.
+    sedimentary carbonate breccia along strike-slip faults, Altamura Fm., Southern Italy.               Peacock, D.C.P., Sanderson, D.J., 1991. Displacement, segment linkage and relay ramps
+    Ital. J. Geosci. 135, 41–54.                                                                            in normal fault zones. J. Struct. Geol. 13, 721–733.
+Lentini, F., 1991. Carta geologica del Bacino del Fiume Agri. Regione Basilicata-                       Pescatore, T., Renda, P., Schiattarella, M., Tramutoli, M., 1999. Stratigraphic and struc-
+    Dipartimento Assetto del Territorio. S.EL.CA, Firenze.                                                  tural relationships between Meso-Cenozoic Lagonegro basin and coeval carbonate
+Lentini, F., Carbone, S., Catalano, S., Monaco, C., 2002. Confronti sedimentologico-pet-                    platforms in southern Apennines, Italy. Tectonophysics 315, 269–286.
+    rograﬁci e posizione strutturale dei ﬂysch di Albidona e di Gorgoglione nella media                 Petrullo, A.V., Agosta, F., Prosser, G., Rizzo, E., 2017. Cenozoic tectonic evolution of the
+    val d'Agri (Appennino lucano). Memor. Soc. Geol. Ital. 38, 259–273.                                     northern Apulian carbonate platform (southern Italy). Ital. J. Geosci. 136, 296–311.
+Locardi, E., 1988. The origin of the apennine arcs. Tectonophysics 146, 105–123.                        Pieri, P., Laviano, A., 1989. Tettonica e sedimentazione nei depositi senomiani delle
+Lorenzo, J.M., O'Brien, G.W., Stewart, J., Tandon, K., 1998. Inelastic yielding and fore-                   Murge sud-orientali (Ostuni). Boll. Soc. Geol. Ital. 108, 351–356.
+    bulge shape across a modern foreland basin: north West Shelf of Australia, Timor Sea.               Pieri, P., Festa, V., Moretti, M., Tropeano, M., 1997. Quaternary tectonic activity of the
+    Geophys. Res. Lett. 25, 1455–1458.                                                                      Murge area (Apulian foreland-Southern Italy). Ann. Geophys. 40.
+Maerten, L., Willemse, E.J., Pollard, D.D., Rawnsley, K., 1999. Slip distributions on in-               Plint, A.G., Hart, B.S., Donaldson, W.S., 1993. Lithospheric ﬂexure as a control on stratal
+    tersecting normal faults. J. Struct. Geol. 21, 259–272.                                                 geometry and facies distribution in Upper Cretaceous rocks of the Alberta foreland
+Mallet, J.L., Jacquemin, P., Cheimanoﬀ, N., 1989. GOCAD project: geometric modeling of                      basin. Basin Res. 5, 69–77.
+    complex geological surfaces. In: SEG Technical Program Expanded Abstracts 1989.                     Ranero, C.R., Morgan, J.P., McIntosh, K., Reichert, C., 2003. Bending-related faulting and
+    Society of Exploration Geophysicists, pp. 126–128.                                                      mantle serpentinization at the Middle America trench. Nature 425, 36–373.
+Mallet, J.L., 2002. Geomodeling. Oxford University Press.                                               Roda, C., 1965. Livelli a struttura grumosa e livelli ad ooliti rotte e rigenerate nel calcare
+Mandelbrot, B.B., Pignoni, R., 1983. The Fractal Geometry of Nature, vol. 173 WH                            miocenico del Alpi Mt. (Potenza). Geol. Rom. 4.
+    freeman, New York.                                                                                  Royden, L., Patacca, E., Scandone, P., 1987. Segmentation and conﬁguration of subducted
+Manighetti, I., King, G.C.P., Gaudemer, Y., Scholz, C.H., Doubre, C., 2001. Slip accu-                      lithosphere in Italy: an important control on thrust-belt and foredeep-basin evolution.
+    mulation and lateral propagation of active normal faults in Afar. J. Geophys. Res.                      Geology 15, 714–717.
+    Solid Earth 106, 13667–13696.                                                                       Royden, L.H., 1993. The tectonic expression slab pull at continental convergent bound-
+Mansﬁeld, C.S., Cartwright, J.A., 1996. High resolution fault displacement mapping from                     aries. Tectonics 12, 303–325.
+    three-dimensional seismic data: evidence for dip linkage during fault growth. J.                    Sartoni, S., Crescenti, U., 1962. Ricerche biostratigraﬁche nel mesozoico dell'Appennino
+    Struct. Geol. 18, 249–263.                                                                              meridionale. Giorn. Geol. 29, 161–309.
+Marabini, S., Vai, G.B., 1985. Analisi di facies e macrotettonica della vena del gesso di               Schettino, A., Turco, E., 2011. Tectonic history of the western Tethys since the late
+    Romagna. Boll. Soc. Geol. Ital. 104, 21–42.                                                             Triassic. Geol. Soc. Am. Bull. 123, 89–105.
+
+
+                                                                                                  112
+V. La Bruna et al.                                                                                                                                 Journal of Structural Geology 116 (2018) 94–113
+
+
+Shiner, P., Beccacini, A., Mazzoli, S., 2004. Thin-skinned versus thick-skinned structural                   settings: examples from the Southern Apennnines, Italy, and the Coast Ranges,
+     models for apulian carbonate reservoirs: constraints from the val D'Agri ﬁeld. Mar.                     California. J. Geodyn. 29, 501–516.
+     Petrol. Geol. 21, 805–827.                                                                          Tavarnelli, E., Prosser, G., 2003. The complete Apennines orogenic cycle preserved in a
+Schlagenhauf, A., Manighetti, I., Malavieille, J., Dominguez, S., 2008. Incremental growth                   transient single outcrop near San Fele, Lucania, Southern Italy. J. Geol. Soc. Lond.
+     of normal faults: insights from a laser-equipped analog experiment. Earth Planet. Sci.                  160, 429–434.
+     Lett. 273, 299–311.                                                                                 Torabi, A., Berg, S.S., 2011. Scaling of fault attributes: a review. Mar. Petrol. Geol. 28,
+Schlische, R.W., Young, S.S., Ackermann, R.V., Gupta, A., 1996. Geometry and scaling                         1444–1460.
+     relations of a population of very small rift-related normal faults. Geology 24,                     Trudgill, B., Cartwright, J., 1994. Relay-ramp forms and normal-fault linkages, canyon-
+     683–686.                                                                                                lands national park, Utah. Geol. Soc. Am. Bull. 106, 1143–1157.
+Scholz, C.H., Dawers, N.H., Yu, J.Z., Anders, M.H., Cowie, P.A., 1993. Fault growth and                  Vai, G.B., Martini, I.P., 2001. Basement and early (pre-Alpine) history. In: Vai, G.B.,
+     fault scaling laws: preliminary results. J. Geophys. Res. Solid Earth 98, 21951–21961.                  Martini, I.P. (Eds.), Anatomy of an Orogen: the Apennines and Adjacent
+Schultz, R.A., Soliva, R., Fossen, H., Okubo, C.H., Reeves, D.M., 2008. Dependence of                        Mediterranean Basins. Kluwer Academic Publication, pp. 121–150.
+     displacement–length scaling relations for fractures and deformation bands on the                    Van Dijk, J.P., Okkes, F.W.M., 1990. The analysis of shear zones in Calabria: implications
+     volumetric changes across them. J. Struct. Geol. 30, 1405–1411.                                         for the geodynamics of the Central Mediterranean. Riv. Ital. Paleontolologia Stratigr.
+Schultz, R.A., Soliva, R., Okubo, C.H., Mege, D., 2010. Fault populations. Planet.                           96, 241–270.
+     Tectonics 457–510.                                                                                  Van Dijk, J.P., Bello, M., Toscano, C., Bersani, A., Nardon, S., 2000. Tectonic model and
+Segall, P., Pollard, D.D., 1980. Mechanics of discontinuous faults. J. Geophys. Res. Solid                   three-dimensional fracture network analysis of Alpi Mt. (southern Apennines).
+     Earth 85, 4337–4350.                                                                                    Tectonophysics 324, 203–237.
+Segall, P., Pollard, D.D., 1983. Nucleation and growth of strike slip faults in granite. J.              Vitale, S., Dati, F., Mazzoli, S., Ciarcia, S., Guerriero, V., Iannace, A., 2012. Modes and
+     Geophys. Res. Solid Earth 88, 555–568.                                                                  timing of fracture network development in poly-deformed carbonate reservoir ana-
+Selli, R., 1957. Sulla trasgressione del Miocene nell'Italia meridionale. Giorn. Geol. 2,                    logues, Mt. Chianello, southern Italy. J. Struct. Geol. 37, 223–235.
+     26–54.                                                                                              Vitale, S., Ciarcia, S., 2013. Tectono-stratigraphic and kinematic evolution of the southern
+Sgrosso, I., 1988. Nuovi dati biostratigraﬁci sul Miocene del M. Alpi (Lucania) e con-                       Apennines/Calabria–Peloritani Terrane system (Italy). Tectonophysics 583, 164–182.
+     seguenti ipotesi paleogeograﬁche. Memor. Soc. Geol. Ital. 41, 343–351.                              Vitale, S., Amore, O.F., Ciarcia, S., Fedele, L., Grifa, C., Prinzi, E.P., Tavani, S.,
+Spalluto, L., 2012. Facies evolution and sequence chronostratigraphy of a “mid”-                             Tramparulo, F.D.A., 2017. Structural, stratigraphic, and petrological clues for a
+     Cretaceous shallow-water carbonate succession of the Apulia Carbonate Platform                          Cretaceous–Paleogene abortive rift in the southern Adria domain (southern
+     from the northern Murge area (Apulia, southern Italy). Facies 58, 17–36.                                Apennines, Italy). Geol. J. https://doi.org/10.1002/gj.2919.
+Taddei, A., Siano, M.G., 1992. Analisi biostratigraﬁca e considerazioni paleoecologiche                  Walsh, J.J., Watterson, J., 1987. Distributions of cumulative displacement and seismic
+     sulla successione neogenica del Alpi Mt. (Lucania). Boll. Soc. Geol. Ital. 111,                         slip on a single normal fault surface. J. Struct. Geol. 9 (8), 1039–1046.
+     255–272.                                                                                            Walsh, J.J., Watterson, J., 1988. Analysis of the relationship between displacements and
+Tavani, S., Carola, E., Granado, P., Quintà, A., Muñoz, J.A., 2013. Transpressive inversion                  dimensions of faults. J. Struct. Geol. 10, 239–247.
+     of a Mesozoic extensional forced fold system with an intermediate décollement level                 Walsh, J.J., Watterson, J., 1990. New methods of fault projection for coalmine planning.
+     in the Basque‐Cantabrian Basin (Spain). Tectonics 32, 146–158.                                          Proc. Yorks. Geol. Soc. 48, 209–219.
+Tavani, S., Storti, F., Lacombe, O., Corradetti, A., Muñoz, J.A., Mazzoli, S., 2015a. A                  Walsh, J.J., Nicol, A., Childs, C., 2002. An alternative model for the growth of faults. J.
+     review of deformation pattern templates in foreland basin systems and fold-and-                         Struct. Geol. 24, 1669–1675.
+     thrust belts: implications for the state of stress in the frontal regions of thrust wedges.         Walsh, J.J., Bailey, W.R., Childs, C., Nicol, A., Bonson, C.G., 2003. Formation of seg-
+     Earth Sci. Rev. 141, 82–104.                                                                            mented normal faults: a 3-D perspective. J. Struct. Geol. 25, 1251–1262.
+Tavani, S., Vignaroli, G., Parente, M., 2015b. Transverse versus longitudinal extension in               Watterson, J., 1986. Fault dimensions, displacements and growth. Pure Appl. Geophys.
+     the foredeep‐peripheral bulge system: role of Cretaceous structural inheritances                        124 (1–2), 365–373.
+     during early Miocene extensional faulting in inner central Apennines belt. Tectonics                Whitaker, A.E., Engelder, T., 2006. Plate-scale stress ﬁelds driving the tectonic evolution
+     34, 1412–1430.                                                                                          of the central Ouachita salient, Oklahoma and Arkansas. Geol. Soc. Am. Bull. 118,
+Tavarnelli, E., Decandia, F.A., Alberti, A., 1999. Evidenze di tettonica distensiva sinse-                   710–723.
+     dimentaria nel Bacino messiniano della Laga:implicazioni per l'evoluzione                           Zhao, M., Jacobi, R.D., 1997. Formation of regional cross-fold joints in the northern
+     dell'Appennino Settentrionale. Boll. Soc. Geol. Ital. 118 (2), 217–227.                                 Appalachian Plateau. J. Struct. Geol. 19, 817–834.
+Tavarnelli, E., Pasqui, V., 2000. Fault growth by segment linkage in seismically active
+
+
+
+
+                                                                                                   113
+

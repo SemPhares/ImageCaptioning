@@ -1,0 +1,619 @@
+           Deux cent ans de geologie à travers les paysages
+              languedociens autour du Pic Saint Loup
+                                             Michel Séranne
+
+
+
+      To cite this version:
+    Michel Séranne. Deux cent ans de geologie à travers les paysages languedociens autour du Pic Saint
+    Loup. Annales SHHNH, 2013, 153, pp.4-19. �hal-00933871�
+
+
+
+
+                                   HAL Id: hal-00933871
+                 https://hal.archives-ouvertes.fr/hal-00933871
+                                      Submitted on 21 Jan 2014
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+Deux cent ans de géologie à travers les paysages
+languedociens autour du Pic Saint Loup
+
+
+Michel Séranne
+Géosciences Montpellier, CNRS / Université Montpellier 2, 34095 Montpellier cedex 05
+seranne@gm.univ-montp2.fr
+
+
+
+soumis à : Annales de la Société d’Horticulture et d’Histoire Naturelle de l’Hérault
+
+
+
+
+Résumé : La géologie a beaucoup évolué au cours des deux derniers siècles. On analyse l’histoire des
+géosciences autour du pôle universitaire montpelliérain, à travers l’évolution de la perception des
+paysages (illustré par l’exemple de la région du Pic Saint Loup) et de la connaissance géologique qui en
+découle. Les précurseurs ont d’abord établi la succession stratigraphique des roches, puis ils ont
+commencé de reporter les observations de surface sur des cartes. Les géologues ont ensuite tenté de
+comprendre les structures du sous-sol, d’abord à l’aide de coupes et plus récemment grâce à des
+représentations tridimensionnelles.
+
+
+mots-clés : géologie, paysage, stratigraphie, structure du sous-sol, coupe géologique, modèle 3D,
+histoire des sciences, Université de Montpellier
+
+
+
+
+Abstract : Geology has greatly evolved in the last two centuries. We analyse local geosciences history,
+driven by Montpellier University, through the evolving perception of landscapes and the derived
+geological knowledge. We focus on the example of the Pic Saint Loup lanscape. Forerunner geologists
+have first established the stratigraphic succession and then initiated mapping. Later, geologists have
+addressed the underground structure, with cross-sections, and more recently with 3D representations.
+
+
+key words : geology, landscapes, stratigraphy, underground structure, geological section, 3D model,
+science history, Montpellier University
+
+
+
+
+!                                                                                                          1!
+Introduction : une lecture subjective des paysages
+
+Les garrigues, lardées d’escarpement rocheux et de petites plaines cultivées, caractérisent les paysages
+languedociens, entre Cévennes et Méditerranée. La perception des paysages dépend fortement de
+l’observateur : le paysan notera les parcelles étriquées de vigne et l’aridité du terrain, le regard du
+promeneur anticipera son chemin au pied des falaises, l’artiste s’inspirera des jeux d’ombre et de
+lumières sur les reliefs acérés… Parmi toutes ces visions subjectives, le géologue dessinera mentalement
+la continuité des strates, tant sous la surface que vers le ciel ; il relèvera aussi la distribution des
+différentes lithologies, plus ou moins facilement érodées, plus ou moins favorables à la croissance des
+chênes kermès.
+Une telle perception « géologique » du paysage a accompagné le développement de cette science depuis
+le début du XIXe siècle et constitue encore la base de l’observation pour les géologues d’aujourd’hui.
+Nous évoquerons les progrès de la géologie autour du pôle scientifique montpelliérain, à travers
+l’exemple de la région du Pic Saint Loup qui a reçu l’attention soutenue de nombreuses générations de
+géologues.
+
+
+
+
+Fig. 1 : Paysage classique du Pic Saint Loup (Photo M. Séranne)
+Les premiers naturalistes s’intéressent -entre autres choses- à la géologie en décrivant les terrains de
+différentes contrées qu’ils visitent. Les naturalistes sont également artistes et sortent leur chevalet pour
+peindre les paysages d’après nature. Les gravures de Jean-Marie Amelin réalisées au début du XIXe
+siècle montrent une grande évolution par rapport aux classiques peintures de paysages qui idéalisent les
+sujets, typiques du XVIIIe siècle. Elle sont devenues réalistes : les paysages représentés par cet
+infatigable arpenteur du département sont parfaitement identifiables (Fig. 2). Cependant, ces gravures
+et aquarelles sont empreintes de romantisme, avec des formes dramatiques, des topographies
+accentuées et des premiers plans bucoliques. On ne distingue pas les strates dans l’escarpement et les
+
+
+!                                                                                                          2!
+terrains rocheux ou marneux ne sont pas différenciés : ce n’est pas encore une observation de
+géologue !
+
+
+
+
+Fig. 2 : Vue du Pic Saint Loup par Jean-Marie Amelin datée de 1823 (Original à la Médiathèque de Montpellier,
+Bibliothèque numérique).
+
+
+
+
+Etablir la succession stratigraphique
+
+Les naturalistes du XIXe siècle s’attèlent d’abord à déterminer l’ordre chronologique des dépôts des
+couches sédimentaires qu’ils rencontrent sur le terrain.
+ Dès 1669, le danois Nicolas Sténon (ou Niels Stensen) énonce dans son ouvrage « De solido intra solidum
+naturaliter contento dissertationis prodromus » le principe de superposition des couches géologiques : les plus
+anciennes strates sont surmontées par les plus récentes. Ce principe est bien en avance sur son temps
+puisqu’au XVIIe siècle, la vision biblique de l’histoire de la Terre domine les esprits.
+Il faut attendre les travaux des britanniques James Hutton (1788) et William Smith (1790) sur les
+transformations successives des roches, les empilements de strates et l’immensité du temps géologique
+qui en découle, pour percevoir l’utilité du principe de superposition. On peut alors commencer
+d’ordonner chronologiquement les étapes de l’histoire de la Terre en lisant les couches de sédiment
+déposées successivement, comme les pages d’un livre. Presque en même temps (au tout début du
+XIXe), Georges Cuvier et Alexandre Brongniart mettent au point la stratigraphie basée sur les fossiles
+contenus dans les successions géologiques du Bassin de Paris, qui est ensuite reprise par les travaux
+géologiques partout en France.
+Certains naturalistes languedociens moins célèbres avaient mis à profit le principe de superposition
+pour interpréter les paysages géologiques. Ainsi, [Gensanne, 1776], un ancien ingénieur chargé de
+
+!                                                                                                               3!
+l’exploitation minière en Alsace, nommé Commissaire des Etats du Languedoc, inventorie les
+ressources agricoles et naturelles, dans ce qui reste comme le premier guide géologique régional. Au sud
+du Pic St Loup, il note dans la combe de Mortiès: « Nous avons trouvé dans ce vallon de grandes couches de
+terres noires alumineuses … (qui) s'inclinent sensiblement vers l'intérieur de la montagne de St. Loup, dont elles
+paraissent former la base, au dessous de la roche calcaire.” On note cependant qu’il s’agit d’une observation
+sommaire, sans souci de datation, ni de questionnement sur les causes de la déformation des couches
+qui “s’inclinent sensiblement“.
+Les travaux de Marcel de Serres au cours du premier quart du XIXe siècle s’inscrivent dans la
+révolution scientifique et naturaliste européenne. Marcel de Serres de Mesplès, né en 1780 dans une
+riche famille montpelliéraine est envoyé, adolescent, à Paris où il assiste à l’émergence de la géologie,
+notamment au Museum. Protégé du montpelliérain général d’Empire Daru, il a l’occasion de se faire
+remarquer par Napoléon lui-même qui le nomme le 25 juillet 1809 à la première chaire de géologie de la
+nouvelle Faculté des Sciences de Montpellier, mais l’envoie aussitôt en mission d’étude en Autriche, en
+Bavière et sur les rivages des la Mer Baltique, pendant deux ans ! Au cours de cette riche période
+d’apprentissage, il établira de nombreux contacts scientifiques (dont Cuvier et Brongniart) qu’il
+conservera une fois rentré à Montpellier.
+A l’instar des naturalistes européens, Marcel de Serres et ses collaborateurs et élèves parcourent la
+région, en décrivant l’aspect, la lithologie, la disposition des couches sédimentaires et recherchent les
+fossiles qu’elles contiennent. Marcel de Serres s’intéresse plus spécialement aux terrains récents de la
+plaine littorale [Serres, 1829], alors que son élève Paul de Rouville se spécialise dans les terrains plus
+anciens, au nord de Montpellier et autour du Pic Saint Loup. Ce dernier résume l’objet des recherches
+géologiques dans son discours inaugural à la chaire de géologie de Montpellier en 1862: "A ces deux
+grands faits — d’une part, l’existence de masses superposées, et de l’autre, la permanence de leur ordre de succession —
+vient s’en joindre un troisième : l’observation a constaté que chaque terrain recèle un ensemble de débris organiques
+animaux et végétaux pouvant servir de signe distinctif, et comme de numéro, au feuillet qui les contient." [de Rouville,
+1862].
+Un autre grand précurseur, Emilien Dumas « de Sommières » (comme ses contemporains aimaient à
+l’appeler) définit en 1846 devant la Société Géologique de France le cadre stratigraphique de l’ère
+Secondaire en Languedoc (publié beaucoup plus tard [Dumas, 1872]). Il produit une coupe
+stratigraphique à travers la bordure sud cévenole, aux environs de Saint Hippolyte du Fort qui
+représente la succession stratigraphique de la zone au nord du Pic Saint Loup.
+
+
+
+
+Fig. 3 : Coupe stratigraphique du Jurassique de la zone nord du Pic Saint Loup, Montagne des Cagnasses, selon
+[Dumas, 1872]. Source : BnF Gallica.
+Les couches sédimentaires sont nommées avec une terminologie hétéroclite. Les noms relèvent parfois
+de caractéristiques lithologiques identifiées par les carriers: Keuper provient du jargon allemand
+signifiant « marnes » ; Lias est une probable déformation du mot anglais « layers ». Dans d’autres cas, la
+lithologie est associée à une position stratigraphique : les « Marnes supra liasiques » et les « Dolomies infra-
+liasiques » signifie les intervalles encadrant le Lias. Des fossiles ou textures caractéristiques de cette
+
+!                                                                                                                          4!
+formation comme l’ « Oolithe inférieure » font référence au calcaire constitué de minuscules concrétions
+sphériques et concentriques. Les calcaires à entroques tirent leur nom de l’abondance des segments qui
+constituent la tige d’échinoderme fixés (les « lys de mer »). Enfin, des intervalles se référent à des noms
+de lieu (sites éponymes) comme le calcaire Oxfordien (initialement observé et défini près de la ville de
+Oxford) ou la « Formation Néocomienne » décrite initialement près de Neuchâtel (Neocomum). Cette
+dernière manière de définir les étages géologiques à partir d’un site éponyme s’imposera
+progressivement au cours du développement de la stratigraphie.
+Vingt ans plus tard, Alfred-Léopold Torcapel de la Vigne donne, dans l’Atlas édité par [de Rouville,
+1894b], une coupe stratigraphique plus détaillée de la même zone. Torcapel, ingénieur des chemins de
+fer PLM, a levé de nombreuses coupes dans le cadre de l’implantation des nouvelles voix de
+communication ; il devient un spécialiste du Crétacé.
+
+
+
+
+Fig. 4 : Coupe stratigraphique du Jurassique de la zone nord du Pic Saint Loup, selon Alfred Torcapel in [de
+Rouville, 1894b].
+Les calcaires à Entroques et Oxfordien de Dumas se distinguent ici en une succession de 5 intervalles,
+alors que le Néocomien se subdivise en 3 étages. Malgré ce gain de précision, la terminologie reste très
+descriptive.
+Le souci principal des géologues de cette époque restait la description de la succession stratigraphique,
+en conséquence, leurs analyses ignoraient les structures. Les géologues étaient confrontés au dilemme
+suivant : soit ils étudiaient l’empilement des couches dans une zone non déformée pour s’assurer du
+bon ordre chronologique de la succession stratigraphique ; mais alors ils ne pouvaient accéder qu’aux
+intervalles superficiels, exposés dans flancs des canyons incisés au maximum de quelques centaines de
+mètres dans les des séries tabulaires (comme les gorges de la Vis). Soit ils cherchaient des zones où la
+déformation avait basculé les sédiments et l’érosion exposé des séries plus épaisses ; dans ce cas, ils
+devaient comprendre la structure pour s’assurer que les déformations n’avaient pas perturbé la
+succession stratigraphique. On comprend ainsi tout l’intérêt du lever de ces coupes stratigraphiques sur
+la bordure sud-cévenole, où le pendage régulier des couches vers le sud permet d’observer l’ensemble
+de la série sédimentaire reposant sur le socle ancien, en cheminant le long de la rivière Rieutord. Le
+problème est bien plus complexe dans la région du Pic Saint Loup.
+
+
+
+
+!                                                                                                              5!
+Fig. 5 : Incertitudes et hésitations sur la structure sous-jacente. A ; La première ( ?) coupe géologique du Pic Saint
+Loup par Paul de Rouville, publiée dans [Dufrénoy and Beaumont, 1848] (Source : BnF Gallica / Bibliothèque de
+Jussieu) – B ; coupe géologique du Pic par [de Rouville, 1853a] dans sa thèse.
+Ces deux coupes du Pic Saint Loup et de la combe de Mortiès, établies successivement vers le milieu du
+XIXe siècle révèlent de manière criante les incertitudes et hésitations de Paul de Rouville sur la
+structure de ce célèbre paysage. Dans la première, publiée en 1848 dans un ouvrage de synthèse édité
+par [Dufrénoy and Beaumont, 1848], mais acquise bien avant cette date, les terrains plus anciens sont certes
+bien identifiés, mais la structure fantaisiste en synclinal (concave vers le haut) du Pic Saint Loup
+implique une relation structurale avec les « Marnes Néocomiennes » incohérente avec la disposition des
+terrains. Dans la seconde coupe issue de sa thèse, [de Rouville, 1853a] persiste à dessiner un synclinal au
+sommet et propose une structure incohérente pour le flanc nord du Pic : le « Lacustre » (calcaires du
+Lutétien) est à la fois discordant sur les séries anciennes et recouvert par le « Néocomien ». De plus, le plis
+anticlinal (concave vers le bas) de la combe de Mortiès ne présente pas les mêmes séries sur ses flancs
+
+
+!                                                                                                                        6!
+nord et sud : l’«oolithe inférieure» n’existe pas sur le flanc nord. En effet, les observations plus récentes
+démontrent qu’une faille inverse supprime une grande partie du Dogger du flanc nord.
+La lecture des ouvrages révèle le souci des auteurs à comparer les terrains observés localement avec les
+descriptions issues d’autres territoires, parfois distants de quelques kilomètres (de Saint Hippolyte à la
+combe de Mortiès et Murviel) parfois aussi lointains que l’Allemagne ou l’Angleterre (voir l’« Etude
+comparative des formations géologiques des environs de Montpellier, et de leurs analogues hors de notre horizon » dans la
+thèse de [de Rouville, 1853a]). Les corrélations étaient basées sur 3 composantes: la lithologie, le contenu
+fossile et la succession stratigraphique ; elles permettaient de conforter l’attribution d’âge aux
+formations, alors que les différences d’épaisseurs ou les variations lithologiques alimentaient
+d’interminables discussions. Ainsi, grâce aux observations locales et aux corrélations, l’échelle
+stratigraphique s’est progressivement établie et consolidée au cours du XIXe siècle.
+
+
+
+
+Fig. 6 : Inventaire des terrains dans la succession stratigraphique de la région du Pic Saint Loup, telle qu’elle était
+connue au milieu du XIXe siècle [de Rouville, 1853a].
+Le raffinement de la stratigraphie du Jurassique inférieur et moyen de la région du Pic Saint Loup se
+poursuit tout au long du XXe siècle, avec –entre autres- les travaux paléontologiques de [Roman and
+Gennevaux, 1912], jusqu’aux études de [Mattei, 1986], dans lesquelles, la précision apportée par la
+biostratigraphie, permet de contraindre la géométrie et la disposition les structures tectoniques (voir
+plus loin). La boucle est bouclée : les premiers géologues se sont d’abord intéressés aux zones non
+déformées pour établir précisément et sans équivoque la succession stratigraphique ; leurs héritiers
+utilisent l’outil ainsi élaboré et progressivement affiné pour aller dénouer l’écheveau des structures
+tectoniques complexes.
+
+
+Dresser les cartes
+
+Très rapidement, les naturalistes du début du XIXe siècle reportèrent leurs observations sur des cartes.
+Les attributions stratigraphiques à des ensembles d’affleurement permettaient d’élaborer
+
+!                                                                                                                         7!
+progressivement une vision cartographique en deux dimensions de la géologie des territoires. Dans la
+région de Montpellier et du Pic Saint Loup, c’est évidemment la remarquable carte accompagnant la
+thèse de [de Rouville, 1853a]) qui étonne encore aujourd’hui, tant par l’étendue du travail de lever que par
+la qualité esthétique du document peint à la main !
+
+
+
+
+Fig. 7 : Première carte géologique détaillée (original à l’échelle du 1/43000e) de la zone du Pic Saint Loup. Extrait de
+la carte accompagnant la thèse [De Rouville, 1853b] – Source : Bibliothèque Géosciences Montpellier.
+Notons que pour dresser une carte géologique, il faut d’abord disposer d’un fond topographique. La
+carte d’Etat Major au 1/80000e ne sera levée qu’après 1850 dans le sud du pays. Il n’existe alors que la
+fameuse carte de Cassini –dressée en 1770- qui présente une échelle suffisamment détaillée au
+1/86400e. De Rouville la fait redessiner en apportant des mises à jour et en l’agrandissement d’un
+facteur 2 afin d’obtenir un support cartographique au 1/43200e (environ !). Il n’est pas possible
+d’apprécier toutes les précisions topographiques apportées (les altitudes des sommets est une
+amélioration notable par rapport à Cassini), mais cette carte constitue un document topographique
+original et certainement unique à une telle échelle. Il faudra attendre près de 100 ans les cartes IGN
+pour avoir mieux à cette échelle.
+Si la distribution des terrains est correcte dans l’ensemble de la carte de de Rouville, une analyse plus
+attentive de ce document montre des contours assez peu détaillés ; certains sont erronés, comme la
+présence d’un synclinal à cœur de jurassique supérieur à l’ouest du Pic Saint Loup. La carte ne
+comporte en outre pas d’indication structurale : aucune faille n’est figurée : la tectonique attendra ! On
+remarque également que les regroupements stratigraphiques représentés en légende ne sont pas
+toujours homogènes avec ceux du texte de la thèse. Plus intéressant, la légende de la carte privilégie une
+terminologie stratigraphique plus moderne que dans le texte, puisqu’elle utilise des noms d’étages
+introduits par d’Orbigny, tels que Sinémurien, Toarcien, Bajocien, Callovien, Oxfordien…
+
+
+
+
+!                                                                                                                     8!
+!   9!
+Fig. 8 : Evolution de la carte géologique du département de l’Hérault à une échelle permettant une représentation
+synthétique ; A : [Amelin, 1827] ; B : [Paul de Rouville, 1876] ; C : [de Rouville, 1894a] ; D : [Chantraine et al.,
+1996].
+Dans ses carnets de voyages publiés en 1827, le dessinateur Jean Marie Amelin propose une carte
+géologique de l’Hérault [Amelin, 1827]. Ce document représente certainement la première carte
+géologique publiée du département. On remarque les contours assez fantaisistes comme l’énorme
+coulée volcanique unique qui s’étend depuis l’Escandorgue jusqu’au Cap d’Agde ! Même s’il a arpenté la
+région dans toutes ses dimensions pendant le premier quart du XIXe siècle, il est peu probable que ce
+voyageur romantique ait réalisé cette synthèse sur la seule base de ses observations personnelles. Il est
+en effet plus célèbre pour ses nombreux croquis et aquarelles, ou bien pour ses inventaires assez
+fastidieux des villages traversés, que pour la précision de ses observations géologiques. Il est plutôt
+vraisemblable que son compte-rendu de voyage s’est enrichi des informations géologiques de Marcel de
+Serres. En effet, un article de 20 pages sur la géologie du département, signé de Serres est inséré dans le
+volume. Le dernier paragraphe rédigé par le professeur nous apprend que “La carte que M. Amelin a tracé,
+sur laquelle nos diverses formations sont indiquées par des nuances différentes…” représente ainsi le fruit d’une
+collaboration entre un géologue, quelque peu dédaigneux du dessinateur et d’un artiste naturaliste,
+incroyablement audacieux et novateur. La cartographie régionale doit beaucoup aux travaux de Paul de
+Rouville. Il a poursuivi la cartographie entreprise dans le cadre de sa thèse dans la région de
+Montpellier, et étendu son travail à tout le département. On imagine aisément que la publication
+progressive des cartes topographique au 1/80000e (« carte d’état-major) à partir des années 1850-1860 a
+permis ce développement. A la demande du Conseil Général, il s’attaque à la cartographie géologique
+de chacun des 4 arrondissements du département de l’Hérault [Paul De Rouville, 1876]. Le tracé et le
+découpage stratigraphique sont grandement améliorés depuis la première carte de sa thèse, mais aucune
+faille n’est encore figurée. Il réalise à la suite une synthèse au 1/560 000e lui permettant de simplifier et
+de représenter l’ensemble du département dans un format adapté à la publication : « Esquisse d’une carte
+géologique de l’Hérault, ». Vers la fin de sa carrière, le Conseil Général de l’Hérault lui commande une
+synthèse sur la géologie du département. Paul de Rouville synthétise alors l’essentiel de ses recherches
+pour publier en 1894 “L’ Hérault géologique” accompagné d’une carte hors texte au 1/500 000e [de
+Rouville, 1894a]. Les contours sont devenus extrêmement précis, mais on est encore très étonné par
+l’absence de failles ! Pourtant, les coupes données en annexe montrent bien quelques rares failles,
+notamment celle limitant au nord le Pic St Loup, mais elles sont représentées exactement verticales.
+Enfin, la cartographie géologique de la région de Montpellier atteint un haut niveau de perfection dans
+la 2eme moitié du XXe siècle, avec les cartes au 1/50000e du BRGM: la feuille de Montpellier est une
+des rares en France à avoir connu 2 éditions successives en 1961[Denizot et al., 1961], puis 1971
+[Andrieux et al., 1971] rapidement épuisée et réimprimée en 2010. Le paysage du Pic St Loup s’inscrit
+dans la feuille de St Martin de Londres publiée en 1978 [Philip et al., 1978]. Pour compléter l’image de
+l’évolution cartographique et de sa représentation, on donne dans la Figure 8B la carte géologique du
+department, issu de la carte géologique de France au 1/1000000e, du BRGM [Chantraine et al., 1996].
+
+
+
+
+Approcher les structures du sous-sol
+
+La cartographie s’attache à inventorier et représenter la distribution des différentes roches présentes à la
+surface. Cette image en deux dimensions peut être complétée par l’extrapolation en profondeur, mais
+aussi en l’air, des structures observées. Ainsi, les géologues ont reconnu depuis longtemps que le Pic
+Saint Loup constitue le flanc nord, quasi vertical, d’un anticlinal dont le cœur, érodé, laisse apparaître
+les couches plus anciennes dans la combe de Mortiès. Néanmoins, ces coupes anciennes n’effleurent
+que la surface. L’extrapolation des strates en profondeur s’arrête de manière arbitraire sur un trait
+horizontal, ou bien s’estompe de manière prudente, lorsque l’incertitude est trop grande. Ceci est bien
+illustré dans la coupe de [Pouchet, 1880], publiée dans un compte rendu d’excursion guidée par de
+
+!                                                                                                                  10!
+Rouville. On imagine aisément que ce dernier est le véritable auteur de la coupe. Outre l’absence de
+faille, notons qu’une des zones les plus problématiques - la bordure nord du pic - est laissée en blanc à
+moins de 50 m de profondeur.
+
+
+
+
+Fig. 9 : Coupe géologique de la zone du Pic Saint Loup [Pouchet, 1880] montrant une timide tentative d’interprétation
+de la structure profonde du Pic Saint Loup : l’extrapolation se limite aux parties les plus superficielles et on remarque
+quelques incohérences structurales (notamment au nord du Pic).
+La construction de coupes géologique s’étendant en profondeur, permet de prévoir la géométrie des
+structures souterraines, d’expliquer les discontinuités observées en surface, et de comprendre l’origine
+des déformations dans le cadre de l’histoire tectonique de la région.
+Une telle conception n’était pas réellement perçue par Marcel de Serres. Ce dernier annonçait justement
+que l’Hortus et le Pic St Loup ne constituent pas une même montagne qui aurait été séparée en deux
+par un cataclysme. Mais il n’a pas démontré cela en dessinant une coupe schématique figurant les strates
+plus jeunes de l’Hortus, s’enveloppant dans un même mouvement autour de l’anticlinal du Pic St Loup,
+comme on le ferait aujourd’hui. Il prétend, de plus, que le soulèvement du Pic St Loup a précédé celui
+de l’Hortus : « Ainsi, ces deux montagnes diffèrent essentiellement par l’époque de leur surgissement ».
+De même, Paul de Rouville, qui n’a pas intégré la tectonique dans ses interprétations dépourvues de
+failles, ne peut concevoir l’existence de couches inversées dans le Pic Saint Loup et persiste à dessiner
+un synclinal pour expliquer les couches à très fort pendage sud au sommet. Quant à l’origine de la
+déformation, il confie dans l’Histoire de Montpellier ([de Rouville, 1897] éditée par Fabre en 1897) : « Notre
+Saint Loup… n’est qu’un feston découpé par les eaux dans un bourrelet calcaire » relié à la contraction de l’écorce
+terrestre suite à son refroidissement. Dans le domaine de la tectonique, l’intuition de son maître et
+prédécesseur de Serres [Serres and Vézian, 1853], en affirmant que « le soulèvement des Alpes principales a fait
+senti son influence sur le mont St Loup » était bien plus moderne!
+La véritable percée dans la compréhension de la structure sous-jacente au paysage du Pic Saint Loup fut
+réalisée en mai 1939, lors du forage pétrolier dans la combe de Mortiès, effectué sous la direction du
+Centre de Recherche de Pétrole du Midi. Le forage met en évidence des répétitions stratigraphiques
+séparées par des zones de roches broyées, l’ensemble étant interprété comme des failles inverses, au
+cœur de l’anticlinal [Marres, 1941]. L’absence ou la très faible épaisseur de Jurassique moyen sur le côté
+septentrional de la combe de Mortiès, repérée mais inexpliquée depuis de Rouville, trouve enfin une
+explication rationnelle. Si le forage amène de bons résultats scientifiques, les objectifs pétroliers ne sont
+pas à la hauteur, puisque le puits est sec.
+
+
+
+
+!                                                                                                                    11!
+Fig. 10 : Compte-rendu des résultats du forage Pic Saint Loup effectué par le Centre de recherche de Pétrole du Midi en
+1938 et 1939. Le forage (sondage n°1) implanté dans le cœur de l’anticlinal montre une répétition de terrain dû à une
+faille inverse à 620m de profondeur.
+L’évolution des modèles tectoniques et la prise en compte de l’existence de failles dans la structure
+amène alors les géologues à proposer des coupes géologiques du Pic Saint Loup de plus en plus
+complexes, parfaitement illustrées par celle de [Mattei, 1986] (Fig. 11). Les positions du forage et des
+chevauchements rencontrés y sont indiquées, apportant une précieuse contrainte sur la construction
+des deux coupes parallèles.
+
+
+
+
+!                                                                                                                  12!
+Fig. 11 : Coupe du Pic Saint Loup et de la combe de Mortiès intégrant les données du forage et la présence de failles
+inverses [Mattei, 1986]. Ici, le grand degré de précision de la stratigraphie, aboutit à une coupe très détaillée, mais nombre
+de failles représentées ne sont pas contrôlées par l’observation.
+L’autre révolution méthodologique au profit de la connaissance du sous-sol des garrigues héraultaises
+est sans aucun doute apportée par les profils de sismique réflexion réalisés au début des années 1980, à
+l’occasion d’explorations pétrolières. Cette méthode d’imagerie géophysique s’apparente à une
+échographie du sous-sol (Fig 12 a), le long de profils maillant le territoire, sur plusieurs dizaines de
+kilomètres de long et apportant des informations sur quelques kilomètres de profondeur. Certes,
+l’image n’est exploitable qu’après de longs et difficiles traitements, elle est de qualité très inégale
+(particulièrement mauvaise au droit du Pic Saint Loup…), elle est sujette à des interprétations
+différentes (Fig 12 b). Cependant, certaines questions sont définitivement tranchées. Premièrement, les
+paysages des garrigues au nord de Montpellier résultent de failles et de plis affectant le calcaire
+Jurassique supérieur résistant à l’érosion, telles que le Pic Saint Loup, la ligne de relief courant des
+Matelles à Quissac ; et ces structures correspondent à une déformation de la seule couverture
+sédimentaire (de 1 à 3 km d’épaisseur) désolidarisée du socle ancien, resté indéformé. Deuxièmement,
+les failles mises en évidence par cette imagerie, ont des pendages modérés de l’ordre d’une trentaine de
+degrés (Fig 12 c). Troisièmement, il existe des structures dans le sous-sol qui passent totalement
+inaperçues en surface car elles n’ont aucune expression dans le paysage. C’est le cas par exemple, pour
+des bassins sédimentaires anciens (certainement d’âge Permien) visibles à l’aplomb du plateau de
+Pompignan, ou plus à l’est sous Castries.
+
+
+
+
+!                                                                                                                         13!
+Fig. 12 : A- Exemple de données de sismique réflexion acquise dans le NE de l’Hérault en 1983, 84 et 85 lors
+d’exploration pétrolière. Le profil passe à l’ouest du Pic Saint Loup. Cette sorte d’échographie est obtenue en émettant
+artificiellement une onde sismique depuis la surface dont on enregistre (avec des capteurs disposés sur une ligne en surface)
+les signaux réfléchis sur les couches géologiques du sous-sol. Le signal subit des traitements numériques complexes pour
+obtenir ce type d’image. Ces données on été retraitées en 2005 par le BRGM. L’interprétation de cette image géophysique
+est difficile ! B- En croisant avec tous les types de données disponibles (forages, cartes de surfaces, types de roches,
+stratigraphie régionale…), les géologues peuvent proposer une interprétation des structures. Les traits de couleur
+représentent des interfaces entre couches ou des failles. C- Transformation du profil de sismique réflexion interprété en
+coupe géologique [Husson, 2013].
+Cette information acquise lors d’explorations pétrolières dans les années 80 a permis aux universitaires
+montpelliérains de construire des coupes géologiques dans les années 90 (Fig. 13), même si la structure
+profonde sous le Pic St Loup reste encore en discussion, à cause de la piètre qualité de l’imagerie dans
+cette zone.
+
+
+
+
+Fig. 13 : Coupe géologique régionale construite en intégrant les données de sismique réflexion [Benedicto, 1996] : ces
+données montrent notamment que l’ensemble des structures tectoniques de la région (chevauchement et plis du Pic Saint
+Loup, failles normales des Matelles, de Prades… ) n’affectent que les séries sédimentaires, désolidarisées du socle ancien
+par les couches plastiques argileuses du Trias (en noir).
+
+
+
+!                                                                                                                         14!
+Du paysage au modèle 3D
+
+Cartes et coupes géologiques constituent des images en deux dimensions de la surface et en tranche
+verticale, respectivement. La combinaison de ces deux types d’information pour une même zone
+permet d’imaginer d’un volume de terrain. Le paysage en surface se complète par la visualisation des
+structures extrapolées en profondeur. Les bloc-diagrammes, dont Maurice Mattauer se fait le chantre
+auprès de ses élèves, à partir des années 70, permettent une représentation conceptuelle des relations
+géométriques entre les différents éléments de la structure géologique d’une région. Cet exercice mental,
+allié à l’agilité du tracé, s’avère extrêmement puissant pour appréhender – et exposer - un ensemble
+géologique. Dans la figure, le diagramme montre le paysage du Pic St Loup, en vue aérienne et en
+perspective ; la région a été découpée en un grand parallélépipède ; ce dernier est partagé en trois
+segments, écartés les uns des autres afin de laisser entrevoir des coupes (elles-mêmes en perspective !)
+judicieusement choisies pour leur représentativité.
+
+
+
+
+Fig. 14 : Bloc-diagramme de la région du Pic Saint Loup dessiné par Maurice Mattauer (1974). Très utilisé par
+l’école montpelliéraine à partir des années 70, ce mode de représentation conceptuelle permet de visualiser les relations
+structurales en 3 dimensions d’un paysage (la surface) avec la géologie (le sous-sol).
+La morphologie du paysage se conçoit du premier coup d’œil : les calcaires du Jurassique supérieur
+arment le flanc nord vertical de l’escarpement du pic, alors que le flanc sud, peu ou pas incliné, forme
+les causses tabulaires de Viols-le-Fort et de Cazevieille. La crête de l’Hortus correspond à la bordure
+d’affleurement des calcaires du Crétacé inférieur, alors que les marnes ont été érodées dans la combe du
+Mas Rigaud.
+La chronologie relative s’exprime par les failles normales des Matelles et de Prades (« source du Lez »)
+recoupant les plis plus anciens du Pic Saint Loup, et celui, plus à l’est au niveau de St Mathieu de
+Tréviers. L’origine du bassin de Saint Martin de Londres apparaît clairement liée au fonctionnement du
+chevauchement du Pic.
+
+
+
+
+!                                                                                                                           15!
+Le trait gras ou fin, continu ou saccadé, les ombrages suggérés et la trace des bancs évoquée en surface
+par quelques très fines lignes concourent à la « magie » de l’animation de ce diagramme. Quelle
+amélioration par rapport aux coupes figées et superficielles (à tous les sens du terme) de de Rouville !
+L’effet pédagogique du diagramme est certain ! Mais est-il une représentation correcte de la réalité ?
+Permettrait-il de localiser précisément le sommet de l’anticlinal au niveau du Lias calcaire sous le causse
+de Viols-Le-Fort ? Les diagrammes de Maurice Mattauer étaient critiqués pour leur simplification ; il
+répondait par une pirouette : « en gros, c’est comme ça ; dans le détail c’est plus compliqué ».
+La précision des modèles tridimensionnels s’améliore par l’acquisition et la multiplication de données
+du sous-sol. Pour le diagramme présenté, les quelques forages pétroliers (antérieurs au dessin) sont déjà
+pris en compte pour fixer les épaisseurs et leurs variations dans l’espace. Par contre, les profils de
+sismique réflexion furent acquis 10 ans après et disponibles pour les scientifiques 20 ans plus tard.
+Aujourd’hui, le défi est de renseigner le volume de terrains dans les trois dimensions depuis la surface
+(le paysage), vers la profondeur. L’objectif est de disposer d’un modèle géologique permettant de
+prédire la géométrie des structures géologiques (couches, failles, plis) avec la plus grande précision
+possible. Les zones non-renseignées doivent être interpolées entre les données, par des méthodes
+numériques. La figure 15 représente un modèle géologique de la zone située entre Sète et Ganges, et
+englobe le Pic Saint Loup, réalisé à Géosciences Montpellier en collaboration avec le BRGM (doctorat
+de Eglantine Husson, 2013). Il s’agit seulement d’une image générée à partir d’un modèle numérique, à
+l’intérieur duquel il est possible de se déplacer dans les 3 directions de l’espace, de générer des coupes
+de n’importe quelle orientation, de le faire pivoter afin de l’observer sous n’importe quel angle, ou bien
+encore de ne représenter que le réseau de failles. Une image statique ne fait pas justice à la puissance
+d’investigation d’un géomodèle visionné de manière dynamique sur l’écran d’une station de travail !
+
+
+
+
+Fig. 15 : Image d’un « géomodèle » de la région entre Sète (à gauche) et Ganges (à droite). Le modèle numérique est
+élaboré en intégrant toutes les données disponibles et en interpolant dans les zones moins documentées. L’utilisateur dispose
+d’un volume complètement informé, qu’il peut étudier sous toutes ses coutures : il peut réaliser toutes sortes de coupes et
+visualiser les structures sous n’importe quel angle [Husson, 2013]. Outil développé par le BRGM.
+Evidemment, la confiance que l’on apporte à ce modèle géologique 3D est inversement proportionnelle
+à la profondeur : la surface est connue à 100%, mais le pourcentage de connaissance du sous-sol
+diminue exponentiellement avec la profondeur. Au delà d’un millier de mètres, il n’y a que très peu de
+points qui sont contrôlés par des données géologiques solides. Comment alors s’assurer de la validité de
+
+!                                                                                                                        16!
+tels modèles ? L’amélioration apportée par le géomodèle par rapport au bloc-diagramme résulte de la
+puissance de calcul qui vérifie quasi–instantanément la cohérence entre les informations utilisées pour
+construire le modèle. En effet, la conception mentale du volume représentée dans un bloc-diagramme
+juxtapose des éléments structuraux visualisés sur des coupes sériées ; mais que se passe-t-il entre les
+coupes ? la forme de telle faille représentée sur une coupe NS est-elle parfaitement en accord avec la
+représentation de cette même faille interceptée par une coupe EW ? comment concevoir en profondeur
+la jonction entre la faille inverse du Pic Saint Loup et la faille des Matelles ? Pour répondre à ces
+questions, le géomodèle établit rapidement une réponse géométriquement logique et géologiquement
+acceptable, dans la totalité du volume. En conclusion, on n’est pas certain que le géomodèle
+corresponde exactement à la réalité, mais il constitue une solution en cohérence avec l’ensemble des
+informations géologiques fournies.
+
+
+Conclusion
+Depuis les précurseurs, attirés tant par la beauté que par la possibilité d’observer la disposition des
+strates, la lecture géologique du paysage constitue le mantra des géologues montpelliérains. L’évolution
+de la perception du paysage du Pic Saint Loup sur plus de deux cent ans, illustre parfaitement l’avancée
+de la science géologique. L’observation permet d’appréhender les superpositions de strates pour
+déterminer la chronologie relative des événements. Embrasser un paysage depuis un point élevé met en
+évidence la distribution spatiale et les relations des différents terrains, retranscrits dans les cartes
+géologiques, en constante évolution. Les structures décelables en surface sont extrapolées en
+profondeur, d’abord de manière incertaine, puis, en réduisant progressivement l’incertitude grâce aux
+forages et aux méthodes d’investigation géophysique. La connaissance et la représentation du sous-sol
+apparaissent à la fois comme le moyen de comprendre le paysage et comme enjeu des géologues
+d’aujourd’hui. En effet, connaître le sous-sol est essentiel pour apporter des réponses aux questions
+sociétales telles que l’accès aux ressources naturelles, l’approvisionnement en eau, la stabilité du sol et
+des constructions, l’appréhension des aléas naturels, la gestion des risques de pollution, le stockage
+temporaire d’énergie ou la mise à l’écart de produits indésirables. Après deux cent ans de géologie, il
+reste encore de nombreux défis pour les jeunes géoscientifiques !
+
+
+Remerciements :
+Je remercie chaleureusement Pierre-Jean Combes pour ses encouragements, ses enrichissantes
+discussions et la relecture du manuscrit. Les figures 12 et 15 ont été gracieusement réalisées et mises à
+disposition par Eglantine Husson, que je remercie pour son investissement et sa bonne humeur.
+
+
+
+
+Bibliographie
+Amelin, J.-M. (1827), Guide du voyageur dans le département de l'Hérault, 586 p., Gabon & Compagnie, Paris.
+Andrieux, J., Mattauer, M., Tomasi, P., Martinez, C., Reille, J.L., Matte, P.; Bousquet, J.C., Raouf, K.A.,
+     Bel, F., Verrier, J., Bonnet, M. & Sauvel, M. (1971), Carte Géologique de la France au 1/50 000.
+     Feuille de Montpellier BRGM, Orléans.
+Benedicto, A. (1996), Modèles tectono-sédimentaires de bassins en extension et style structural de la
+     marge passive du Golfe du Lion (SE France), Doctorat, 242 p., Univ. Montpellier 2.
+Chantraine, J., Autran, A., Cavelier, C., Alabouvette, B., Barfety, J. C., Cecca, F., Clozier, L., Debrand-
+     Passard, S., Dubreuilh, J., Feybesse, J.L., Guennoc, P., Ledru, P., Rossi, Ph. & Ternet, Y. (1996),
+     Carte Géologique de la France à l'échelle du millionième - 6eme édition, BRGM, Orléans.
+De Rouville, P. (1853a), Description géologique des environs de Montpellier, 222 p., Boehm Montpellier.
+
+!                                                                                                       17!
+De Rouville, P. (1853b), Carte Géologique des environs de Montpellier, Montpellier.
+De Rouville, P. (1862), La Géologie - sa place parmi les sciences - son objet: Discours prononcé à la Faculté des
+      Sciences de Montpellier, 37 p., Typographie de Boehm & Fils, Montpellier.
+De Rouville, P. (1876), Carte Géologique et Minéralogique du Département de l'hérault en 4 feuilles 4
+      Arrondissements de Montpellier, Lodève, Béziers, Saint Pons, imprimerie Lemercier, Paris.
+De Rouville, P. (1876), Introduction à la description géologique du Départment de l'Hérault, 2eme Edition ed.,
+      222 p + 213 planches hors-texte, de Boehm & Fils, Montpellier.
+De Rouville, P. (1894a), L'Hérault Géologique - Première Partie : Formation du Territoire, 148 pp., Imprimerie
+      Ricard, Montpellier.
+De Rouville, P. (1894b), L'Hérault Géologique - Deuxième Partie: Atlas d'Anatomie Stratigraphique du territoire
+      de l'Hérault, Montpellier.
+De Rouville, P. (1897), Géologie, in Histoire de Montpellier depuis son origine jusqu'à la fin de la révolution, édité
+      par A. Fabre, pp. 17-24, Montpellier.
+Dufrénoy, A., & E. d. Beaumont (1848), Explication de la Carte Géologique de la France, sous la Direction de
+      M. Brochant de Villiers. , Imprimerie Nationale, Paris.
+Dumas, E. (1872), Notice sur la constitution géologique de la région supérieure ou cévennique du département du Gard,
+      par Émilien Dumas, lue à la session extraordinaire de la Société géologique d'Alais, septembre 1846 ; suivie d'un
+      appendice présentant la série des terrains des deux autres régions (moyenne et inférieure), et d'un tableau synoptique
+      de toutes les formations du Gard, Boehm, Montpellier.
+Gensanne, A. d. (1776), Histoire naturelle de la Province de Languedoc, Rigaud, Pons & Cie, Montpellier.
+Husson, E. (2013), 100 millions d'années de karstification en Languedoc , Doctorat, Université
+      Montpellier 2.
+Marres, P. (1941), Les recherches de pétrole dans le Bas-Languedoc, Annales de Géographie, 50(282), 150-
+      151.
+Mattei, J. (1986), Le brachyanticlinal du Pic St Loup (Hérault, Bas Languedoc). Stratigraphie détaillée
+      des terrains jurassiques et évolution tectonique pour servir de notice explicative à la carte
+      géologique à 1/25 000 de cette structure, Géol. France, 4, 349-376.
+Philip, H., M. Mattauer, Y. Bodeur, M. Séguret, J. P. Puech, & J. Mattei (1978), Carte Géologique de la
+      France au 1/50 000. Feuille de St Martin de Londres, BRGM, Orléans.
+Pouchet, J. (1880), Excursion au Pic Saint-Loup et aux ruines du Château de Montferrand, 39 p., Boehm & Fils,
+      Montpellier.
+Roman, F., & M. Gennevaux (1912), Etude des terrains Jurassiques de la région du Pic Saint-Loup – Premier
+      Fascicule (Lias, Aalénien, Bajocien, Bathonien), 120 p, Librairie Louis Vallat, Montpellier .
+Serres, M. de (1829), Géognosie des Terrains Tertiaires ou Tableau des princiapux animaux invertébrés des terrains
+      marins ttertiaires du Midi de la France, 375 p., Pomathio-Durville, Montpellier.
+Serres, M. de, & A. Vézian (1853), Note sur les systèmes de fractures de la contrée qui environne le Pic
+      Saint-Loup, Académie des Sciences et Lettres de Montpellier, Extrait des Procès-verbaux de la Section Sciences,
+      1-8.
+
+
+
+
+!                                                                                                                       18!
+

@@ -1,0 +1,1231 @@
+        Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+
+
+
+             Gondwana Large Igneous Provinces: plate reconstructions,
+                        volcanic basins and sill volumes
+              H. H. SVENSEN1*, T. H. TORSVIK1,2,3,4, S. CALLEGARO1, L. AUGLAND1,
+                  T. H. HEIMDAL1, D. A. JERRAM1,5, S. PLANKE1,6 & E. PEREIRA7
+        1
+            Centre for Earth Evolution and Dynamics (CEED), University of Oslo, PO Box 1028,
+                                       Blindern, 0316 Oslo, Norway
+                    2
+                     Geodynamics, Geologiske Undersøkelse (NGU), Leiv Eirikssons Vei 39,
+                                       N-7491 Trondheim, Norway
+3
+ School of Geosciences, University of Witwatersrand, Johannesburg, WITS 2050, South Africa
+    4
+    GFZ German Research Centre for Geosciences, Telegrafenberg, 14473 Potsdam, Germany
+                        5
+                        DougalEARTH Ltd, 31 Whiteﬁelds Crescent, Solihull B91 3NU, UK
+             6
+              Volcanic Basin Petroleum Research (VBPR), Oslo Science Park, Gaustadalléen
+                                       21, N-0349 Oslo, Norway
+        7
+         Department of Stratigraphy and Paleontology, Rio de Janeiro State University, Brazil
+                                         *Correspondence: hensven@geo.uio.no
+
+                 Abstract: Gondwana was an enormous supertarrane. At its peak, it represented a landmass of about
+                 100 × 106 km2 in size, corresponding to approximately 64% of all land areas today. Gondwana
+                 assembled in the Middle Cambrian, merged with Laurussia to form Pangea in the Carboniferous,
+                 and ﬁnally disintegrated with the separation of East and West Gondwana at about 170 Ma, and
+                 the separation of Africa and South America around 130 Ma. Here we have updated plate reconstruc-
+                 tions from Gondwana history, with a special emphasis on the interactions between the continental
+                 crust of Gondwana and the mantle plumes resulting in Large Igneous Provinces (LIPs) at its surface.
+                 Moreover, we present an overview of the subvolcanic parts of the Gondwana LIPs (Kalkarindji,
+                 Central Atlantic Magmatic Province, Karoo and the Paraná–Etendeka) aimed at summarizing our
+                 current understanding of timings, scale and impact of these provinces. The Central Atlantic Mag-
+                 matic Province (CAMP) reveals a conservative volume estimate of 700 000 km3 of subvolcanic
+                 intrusions, emplaced in the Brazilian sedimentary basins (58–66% of the total CAMP sill volume).
+                 The detailed evolution and melt-ﬂux estimates for the CAMP and Gondwana-related LIPs are,
+                 however, poorly constrained, as they are not yet sufﬁciently explored with high-precision U–Pb
+                 geochronology.
+
+                 Gold Open Access: This article is published under the terms of the CC-BY 3.0 license.
+
+
+The Gondwana supertarrane had a surface area of                     with (1) surface lava ﬂows and pyroclastic deposits,
+about 100 × 106 km2, and was assembled in Late                      and (2) a network of subvolcanic sills and dykes.
+Neoproterozoic and Cambrian times. It later amal-                   The latter were commonly emplaced in sedimen-
+gamated with Laurussia to form Pangea in the Late                   tary basins, and thus led to a wide range of effects
+Carboniferous. Gondwana (or Gondwanaland) was                       including metamorphism, devolatilization, porosity
+ﬁrst named by Medlicott & Blanford (1879), and                      reduction, and phreatic and phreatomagmatic
+included most of South America, Africa, Madagas-                    eruptions.
+car, India, Arabia, East Antarctica and Western                         The aim of this paper is to present plate recon-
+Australia (Torsvik & Cocks 2013). Gondwana was                      structions of the evolution of Gondwana, and to
+affected by several Large Igneous Provinces (LIPs)                  assess the timing and consequences of LIP forma-
+from the Cambrian to its ﬁnal break-up in the Creta-                tion. This is of great interest since Gondwana conti-
+ceous. These LIPs were likely to have been sourced                  nental LIPs are associated with both major mass
+from mantle plumes, and had major impacts on deep                   extinctions and rapid climatic changes. We stress
+and shallow crustal rheology and on the Earth’s cli-                that our contribution is not meant as a comprehen-
+mate. In general, the structure of the LIPs is two-fold,            sive review but as an update on key periods of the
+
+From: SENSARMA, S. & STOREY, B. C. (eds) 2018. Large Igneous Provinces from Gondwana
+and Adjacent Regions. Geological Society, London, Special Publications, 463, 17–40.
+First published online August 20, 2017, https://doi.org/10.1144/SP463.7
+© 2018 The Author(s). Published by The Geological Society of London.
+Publishing disclaimer: www.geolsoc.org.uk/pub_ethics
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+18                                         H. H. SVENSEN ET AL.
+
+long Gondwana history (pertaining to the LIPs: Kal-     data from the Paraná part of the Paraná–Etendeka
+karindji, Central Atlantic Magmatic Province, Karoo     LIP (Janasi et al. 2011; Florisbal et al. 2014) and
+and the Paraná–Etendeka), and a useful summary of       the data from Svensen et al. (2012) from the Karoo
+our current understanding. We put a special empha-      used in-house U–Pb tracers, but the tracer used in
+sis on the emplacement environments of the subvol-      the latter study has been calibrated to the EARTH-
+canic parts of the LIPs, in particular of the Central   TIME tracer (Svensen et al. 2015a; Corfu et al.
+Atlantic Magmatic Province (CAMP) and the               2016). There are no U–Pb data from the Etendeka part
+affected sedimentary basins, as this theme is poorly    of the Paraná–Etendeka LIP, so only 40Ar/39Ar ages
+known outside the Brazilian geological community.       are reported (corrected to the latest standards). We
+                                                        have not included ion microprobe (SIMS/SHRIMP)
+                                                        and laser ablation inductively coupled plasma mass
+Methods                                                 spectrometry (LA-ICP-MS) data as these methods
+Plate reconstructions                                   do not yield ages with the required precision to eval-
+                                                        uate potential correlations of short-lived geological
+We used GPlates (www.gplates.org; and GMAP              events (e.g. LIP magmatism and mass extinction
+(Torsvik & Smethurst 1999) for plate reconstruc-        events). Furthermore, due to the relatively low
+tions and data analysis. Mesozoic reconstructions       level of precision of the data, potential Pb-loss is dif-
+use a palaeomagnetic reference frame based on the       ﬁcult to constrain, again leading to large uncertain-
+zero Africa longitude method (Torsvik et al. 2012),     ties regarding the accuracy of ages. Similarly,
+whilst our Cambrian reconstruction is detailed in       baddeleyite ages are generally left out of this review
+Torsvik et al. (2014). The lower mantle is dominated    – unless they are combined with zircon and, hence,
+by two equatorial and antipodal regions of low seis-    can be evaluated relative to zircon data – as these
+mic shear-wave velocities, referred to as the Large     are also prone to Pb loss if not abraded (for a discus-
+Low Shear-wave Velocity Provinces (LLSVPs), or          sion of potential problems with baddeleyite ages,
+using more friendly acronyms of Kevin Burke,            see, e.g., Corfu et al. 2016). All the zircon U–Pb
+TUZO (the LLSVP beneath Africa) and JASON (its          ID-TIMS ages considered are reported, including
+Paciﬁc counterpart). TUZO and JASON are promi-          tracer calibration uncertainties and excluding decay
+nent in all global shear-wave tomographic models,       constants uncertainties, and are shown in Figure 4.
+and most reconstructed Large Igneous Provinces          For comparison, 40Ar/39Ar age ranges (recalculated
+(LIPs) and kimberlites over the past 300 myr – and      to conform to the Fish Canyon sanidine age of Kui-
+perhaps much longer (Torsvik et al. 2014, 2016) –       per et al. 2008) are also included in Figure 4, as these
+have erupted directly above their margins, termed       ages represent the majority of analyses for several of
+the plume generation zones (PGZs: Burke et al.          the LIPs and has, in some cases, been used to argue
+2008). In order to relate deep-mantle processes to      for longevity of magmatic activity (e.g. Jourdan et al.
+surface processes in a palaeomagnetic reference         2005).
+frame, we have counter-rotated the PGZs to account
+for true polar wander (TPW). Here we use the 0.9%       Basin-scale sill volume estimates
+slow contour in the tomographic shear-wave model
+(s10mean: Doubrovine et al. 2016) as the best           Total sill volumes from the sedimentary basins are
+approximation of the plume source region in the         notoriously difﬁcult to estimate. Our approach is
+deep mantle. This is shown in Figures 1–3, where        similar to that of Svensen et al. (2015b) from the
+the location of the PGZ (thick red line) is corrected   Karoo Basin, using the aerial extent of the relevant
+for TPW. In this way, we apply estimated TPW            basins and borehole-based sill thicknesses. Data
+rotations (Torsvik et al. 2014) to the mantle to        from the literature (chieﬂy, outcrop, borehole and
+simultaneously visualize how the reconstructed con-     seismic data) were then scouted and used to estimate
+tinents and the underlying mantle structures would      the total cumulative thickness of sills in the basins.
+look like in the palaeogeographical reference frame     Thicknesses of the sills are likely to vary across
+(Torsvik & Cocks 2013)                                  the basins, commonly with maxima at the centres;
+                                                        thus, minimum, maximum and mean thicknesses
+Geochronology                                           were used to calculate the total volume. We argue
+                                                        that the mean thickness is the most reasonable
+Most of the LIPs described here (see Table 1) have      value to be used for estimating sill volumes in sedi-
+been dated by high-precision zircon U–Pb chemical       mentary basins, but minimum and maximum vol-
+abrasion isotope dilution thermal ionization mass       umes are also reported in order to show the total
+spectrometry (CA-ID-TIMS) geochronology, with           range of plausible values. We summarize the litera-
+the use of a common U–Pb tracer allowing direct         ture-based sill volume estimates in Table 2, and
+interlaboratory data comparison (i.e. the EARTH-        our new CAMP compilation in Table 3, followed
+TIME tracer: Condon et al. 2015). The CA-ID-TIMS        by a separate CAMP section in the Results.
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                  GONDWANA LARGE IGNEOUS PROVINCES                                                  19
+
+
+
+
+Fig. 1. (a) Reconstruction of core Gondwana at 510 Ma (Torsvik et al. 2014), around the time when the Kalkarindji
+LIP (black outline) erupted in Western Australia above the margin of TUZO (African Large Low Shear-wave
+Velocity Province; LLSVP). Also shown are all younger continental LIPs that affected Gondwana continental crust
+(see Table 1). (b) Similar to (a) but highlighting some important phases of Gondwana dispersal until the Early
+Cretaceous. The main break-up of Gondwana started at some time after 170 Ma when West and East Gondwana
+(green shading) separated. Peri-Gondwanan terranes that drifted off Gondwana (as part of Pangea) in the Early
+Permian (opening of Neotethys) are shaded in grey. F, Falkland; DML, Dronning Maud Land; M, Madagascar.
+
+
+Results                                                     320 Ma to form Pangea. The disintegration of Gond-
+                                                            wana had already started in the Early Ordovician but
+The birth and demise of Gondwana                            its demise after the Pangea assembly (Fig. 1) can be
+                                                            summarized as follows:
+Uniﬁcation of the many old cratons and terranes to
+form Gondwana began in the Late Neoproterozoic             • Opening of the Neotethys from about 275 to
+and continued into the Cambrian, but was largely             260 Ma, when a string of microcontinents and ter-
+over before the Middle Cambrian. The core of Gond-           ranes such as Alborz and Sanand (Iran) through
+wana included most of South America, Africa, Mad-            to Lut, Afghanistan, Tibet and Sibumasu moved
+agascar, India, Arabia, East Antarctica and Western          away from the eastern rim of the Gondwanan
+Australia (Torsvik & Cocks 2013), and it reached a           sector of Pangea.
+size of about 100 × 106 km2 at its maximum (c.             • Opening of the Central Atlantic at around 195 Ma.
+64% of all land areas today). There were also many           This led to the deﬁnite break between North and
+smaller units along its margins, such as Avalonia            South Pangea, with the result that the core Gond-
+(including England), which had already drifted               wanan continent regained its independence for
+away during the Early Ordovician (with opening of            20–30 myr. Florida was left behind with North
+the Rheic Ocean).                                            America.
+    Gondwana merged with Laurussia (Laurentia,             • Separation of East and West Gondwana at
+Baltica and Avalonia) in the Carboniferous at around         around 170 Ma; this is essentially the demise
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+20                                           H. H. SVENSEN ET AL.
+
+
+
+
+Fig. 2. Reconstruction of all ‘Gondwana’-related Phanerozoic LIPs (31–510 Ma) using a hybrid reference frame
+(Torsvik et al. 2016) and draped on the s10mean tomographic model of Doubrovine et al. (2016). The plume
+generation zone (PGZ) in this model corresponds to the 0.9% slow contour. LIPs with white-squared symbols are
+continental LIPs, whilst those with blue-squared symbols are oceanic plateaus (LIP numbers are ages in Ma:
+see Table 1).
+
+
+
+   of Gondwana, but other important break-up               Marzoli et al. 1999b). The total volume of magmatic
+   phases that involved Gondwana continental crust         products emplaced by the CAMP is within the same
+   included the East Gondwana break-up, starting           order of magnitude of those of other Large Igneous
+   with a separation between East Antarctica–Aus-          Provinces, but the general thickness (of outpoured
+   tralia from India between 136 and 126 Ma, and           material) is estimated as being smaller (Sebai et al.
+   the West Gondwana break-up, starting with open-         1991; McHone 2003). Before we discuss the role
+   ing of the South Atlantic at around 134 Ma.             of LIPs in the evolution and break-up of Gondwana,
+Other younger but important post-Gondwana break-           we would like to address the lack of constraint on the
+up phases include: (i) departure of India/Seychelles       volumes associated with the CAMP event.
+from Madagascar (opening of the Mascarene Basin)               In general, intrusive and subvolcanic magmatism
+at around 84 Ma; (ii) East Antarctica and Australia        seems to constitute a large portion of the CAMP
+separating at c. 85 Ma; (iii) India and Seychelles         event. The only published estimates for volumes of
+separating at 62–63 Ma; and (iv) departure of Arabia       CAMP products and relative degassing (McHone
+from Africa (opening of the Red Sea). This probably        2003) do not consider the existence of: (i) CAMP
+started with an early short-lived phase of seaﬂoor         intrusions; (ii) Bolivian, Moroccan and Iberian
+spreading at around 26 Ma, and saw the onset of a          CAMP occurrences (Knight et al. 2004; Bertrand
+second and still ongoing phase of seaﬂoor spreading        et al. 2014; Callegaro et al. 2014); and (iii) an under-
+in the Pliocene, about 5 myr ago.                          estimate the extent of vast sills from Taoudenni–
+                                                           Hank–Reggane basins in Mali and Algeria (Verati
+                                                           et al. 2005; Charaf Chabou et al. 2010), from the
+Constraining volumes: CAMP volcanism and                   Fouta Djalon Plateau (Deckart et al. 2005), and
+sills in Brazil                                            South America. Here we estimate the original vol-
+                                                           ume of the CAMP starting from what is the present-
+Despite the growing amount of literature pertaining        day volume and surface of CAMP relicts. Particular
+to the CAMP event, a thorough assessment of the            emphasis is put on the sills and the intrusions, partly
+preserved and original volumes of CAMP products            because the only available estimates to date are
+is still lacking, with the only exception being a con-     mainly focused on the lava piles, and partly because
+tribution by McHone (2003). In general, a total pre-       intrusive and subvolcanic bodies yield a high poten-
+erosional volume of 2.5 × 106 km3 is addressed (e.g.       tial for degassing volatiles able to impact the global
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                  GONDWANA LARGE IGNEOUS PROVINCES                                                 21
+
+
+
+
+Fig. 3. Reconstructions at 510 Ma (Kalkarindji), 201 Ma (Central Atlantic Magmatic Province), 183 Ma (Karoo and
+Ferrar) and 135 Ma (134?: Paraná–Etendeka). These are palaeomagnetic reconstructions (Torsvik et al. 2012, 2014)
+but the plume generation zones has been counter-rotated to account for true polar wander. We have also reconstructed
+kimberlites within ±5 Ma for each reconstruction interval. CA, Central Atlantic; MB, Mozambique Basin; NC, North
+China; SC, South China; WSB, West Somali Basin.
+
+environment (e.g. Svensen et al. 2004, 2009; Ganino         sills intruded Carboniferous–Permian evaporites
+& Arndt 2009; Aarnes et al. 2010), making them sig-         and carbonates in the Solimões Basin, whereas, in
+niﬁcant in the broader picture of understanding the         the Amazonas Basin, sills are recorded both in
+relationship between CAMP and the end-Triassic              Ordovician–Carboniferous siliciclastic sediments
+mass extinction (Marzoli et al. 2004; Blackburn             and in Carboniferous–Permian evaporites (Wander-
+et al. 2013).                                               ley Filho et al. 2006). The maximum cumulative sill
+    Products of extensive subvolcanic CAMP mag-             thickness (1038 m: Wanderley Filho et al. 2006) is
+matism are present in northern Brazil, as thick doler-      reached in the Solimões Basin, and this decreases
+itic sheets emplaced within the Palaeozoic sediments        both eastwards towards the Amazonas Basin
+of the extensive Amazonas (c. 5 × 105 km2), Soli-           (between 100 and 809 m) (Fig. 5) and westwards
+mões (c. 4 × 105 – 6 × 105 km2) and Acre basins             towards the Acre Basin (Almeida 1986; De Min
+(2.3 × 105 km2: Milani & Zalán 1999; De Min                 et al. 2003). The sill emplacement depth for the Bra-
+et al. 2003) (Fig. 5). The stratigraphy of these deep       zilian basins typically varies between 1000 and
+(down to 5 km) intracontinental sedimentary basins          3500 m (Wanderley Filho et al. 2006) (Fig. 5). Afﬁl-
+includes three or four Palaeozoic supersequences            iation to the CAMP of intrusive rocks found within
+of mainly siliciclastic rocks, along with thick (up to      the 600 000 km2-wide Parnaíba sedimentary basin
+1600 m: Milani & Zalán 1999) Carboniferous–                 is questionable given the substantial spread in
+Permian evaporitic and carbonate deposits. CAMP             K–Ar ages shown by these rocks (Mizusaki et al.
+         Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+22                                                      H. H. SVENSEN ET AL.
+
+Table 1. Phanerozoic Large Igneous Provinces                            Solimões Basin: De Min et al. 2003), resulting in
+(LIPs) linked to ‘Gondwana’ and its dispersal history                   high uncertainty for the thickness estimation. There-
+                                                                        fore, we calculated the minimum, average and
+Continental                   Age           Oceanic           Age       maximum volumes by considering the variability
+                              (Ma)          plateaus          (Ma)      related to the sill thickness (Table 3). The total esti-
+                                                                        mated volume of CAMP products approaches 1 ×
+Ethiopia                        31      Sierra Leone            73      106 km3 if the average thickness of sills and in-basin
+                                          Rise
+                                                                        ﬂows is considered. If a less conservative estimate
+Deccan Traps                    65      Broken Ridge            95
+Madagascar                      87      Central                100      is used, the total subvolcanic volume exceeds 1.6 ×
+                                          Kerguelen                     106 km3.
+Rajhmahal Traps                118      Agulhas                100          It should be noted that these calculated volumes
+                                          Plateau                       hinge on the extension of sedimentary basins and
+Bunbury Basalts–               132      Southern               114      observation of the magmatic products preserved
+  Cuvier–Gascoyne                         Kerguelen                     within them. Therefore, the better preservation
+Paraná–Etendeka                134      Wallaby                124      of sills with respect to lava ﬂows may lead to a dis-
+                                          Plateau                       parity between intrusive and extrusive volumes that
+Argo Margin                    155      Maud Rise              125
+                                                                        might not reﬂect the original proportion of CAMP
+Karoo                          182
+Central Atlantic               201                                      products. While sills volume are well constrained
+  Magmatic                                                              through this method, lava-ﬂow volumes should be
+  Province                                                              taken as minimum estimates, since CAMP lava ﬁelds
+Panjal Traps                   285                                      might have extended above all those regions pres-
+Kalkarindji                    510                                      ently cut by the dyke swarms (cf. McHone 2003).
+                                                                        We decided to limit the calculations to basin areas
+LIPs are separated into continental (see Fig. 1) and oceanic plateaus   because of the better-constrained information we
+(Fig. 2).                                                               have for these settings in the present: that is, being
+                                                                        target to sedimentation, they are proven to be depo-
+                                                                        centres, capable of accommodating signiﬁcant vol-
+2002). On the other hand, the presence of lava ﬂows                     umes of lava ﬂows. Also, further potential CAMP
+of clear CAMP age (Mosquito Formation: De Min                           occurrences are known to exist in remote areas of
+et al. 2003; Merle et al. 2011) overlying the Palaeo-                   Africa and South America, but we here limit out
+zoic sedimentary sequences in the Parnaíba Basin                        assessment to the CAMP occurrences for which
+(the only known extrusive components of CAMP                            some (geochronological and/or geochemical) data
+magmatism in Brazil: Marzoli et al. 1999b) may                          have been published: that is, for which a CAMP afﬁl-
+indicate that at least some of the dolerite sheets                      iation was demonstrated. Therefore, we stress that
+(Porto & Pereira 2014) recorded in the boreholes                        these estimates are rather conservative and that
+are CAMP related. The Parnaíba Basin does, how-                         future studies on the CAMP might result in larger
+ever, host sills of undoubted Paraná–Etendeka afﬁn-                     volume estimates for this LIP.
+ity (Mizusaki et al. 2002; Porto & Pereira 2014)
+within its up to 3500 m-thick Palaeozoic sediments
+(siliciclastic and calcareous-evaporitic: Milani &                      Discussion
+Zalán 1999).                                                            The major LIPs of Gondwana
+    CAMP sills are often cropping out in restricted
+areas in sedimentary basins (outcrops cover c. 20%                      Gondwana is not only unique for having been the
+of the total), but borehole data from the basins gen-                   largest unit of continental crust on Earth for more
+erally intercept dolerites resting underneath most of                   than 200 myr before its amalgamation with Laurus-
+the basin surface (cf., e.g., the Taoudenni Basin or                    sia in the Carboniferous to form Pangea, but also
+the Brazilian basins: Milani & Zalán 1999; Verati                       for hosting abundant LIPs. Around 30 Phanerozoic
+et al. 2005). Boreholes and seismic data often reveal                   LIPs are commonly listed in global compilations,
+several sills stacked at different levels of the sedi-                  and 19 of these (11 continental and seven oceanic
+mentary pile (Fig. 5). We thus calculated the volume                    LIPs, Table 1) – 60% of all LIPs – affected Gond-
+of CAMP sills by considering the extension of the                       wanan continental lithosphere and its margins and
+basins that host them multiplied by the cumulative                      oceanic lithosphere during Gondwana dispersal.
+thickness of the doleritic sheets (Fig. 6; Table 3).                    Four case studies are discussed in this contribution,
+Depending on the structure of the basin, the thick-                     including the Cambrian Kalkarindji LIP in Western
+ness of the sills can vary from the centre to the                       Australia, the end-Triassic CAMP that affected
+edges, tapering towards both ends of the basin (e.g.                    vast areas in North America, NW Africa and South
+within the Amazon Basin: Fig. 5) or as a regional                       America, the Early Jurassic Karoo–Ferrar LIP in
+trend (e.g. thickness waning east and west of the                       South Africa and Antarctica (heralding the Jurassic
+     Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                     GONDWANA LARGE IGNEOUS PROVINCES                                                        23
+
+
+
+
+Fig. 4. Zircon U–Pb ID-TIMS and 40Ar/39Ar mineral data from the Central Atlantic Magmatic Province, the Karoo
+and Ferrar, and the Paraná–Etendeka Large Igneous Provinces. Uncertainties of all U–Pb ages reported include both the
+analytical uncertainty and the uncertainty derived from the tracer calibration, except for the data from Janasi et al.
+(2011) and Florisbal et al. (2014) where information on whether the tracer calibration uncertainties were included in the
+age calculations could not be obtained. The decay constant uncertainties are not included. Uncertainties on the
+reference events or boundaries in each panel are 2σ. The chronostratigraphic base chart is taken from Cohen et al.
+(2013; updated). The referred ages are taken from: (a) Jourdan et al. (2014); (b) Glass & Phillips (2006); (c) Evins et al.
+(2009); (d) Harvey et al. (2011); (e) Landing et al. (1998); (g) Blackburn et al. (2013); (h) Schoene et al. (2010); (i)
+Jourdan et al. (2009); ( j) Nomade et al. (2007); (k) Hames et al. (2000); (l) Beutel et al. (2005); (m) Marzoli et al.
+(2011); (n) Knight et al. (2004); (o) Nomade et al. (2000); (q) Burgess et al. (2015); (r) Sell et al. (2014); (s) Svensen
+et al. (2012); (t) Jourdan et al. (2008); (u) Le Gall et al. (2002); (v) Jourdan et al. (2004); (w) Jourdan et al. (2005); (x)
+Jourdan et al. (2007a); (y) Jourdan et al. (2007b); (z) Martinez et al. (2015); (aa) Aguirre-Urreta et al. (2015); (ab)
+Florisbal et al. (2014); (ac) Janasi et al. (2011); (ad) Thiede & Vasconcelos (2010); (ae) Marzoli et al. (1999a); and (af)
+Renne et al. (1996). CAMP, Central Atlantic Magmatic Province; OAE, Oceanic Anoxic Event.
+                                                                                                                                                                                                   24
+
+
+                                                                                                                                                                                                                          Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+Table 2. Major volcanic basins, Large Igneous Provinces (LIP), and environmental changes
+
+LIP                    Comment                Correlated event           CIE*        Environmental              Biosphere               Sedimentary      Sill age       Sill volume   References
+                                                                                       changes                   changes               metamorphism       (Ma)             (km3)
+
+Paraná–          Paraná and                  Valanginian OAE           Positive          Cooling           limited                   Sanstone/Shale       134
+  Etendeka         Etendeka basins
+                 Paraná basin sills                                                                                                                                 112 000           4
+
+
+
+
+                                                                                                                                                                                                   H. H. SVENSEN ET AL.
+                 Etendeka sills and                                                                                                                                 >10 000           This work
+                   complexes
+Karoo–           Karoo Basin sills           Toarcian                  Negative          Warming           Minor Extinction          Shale                182.6     370 000           1
+  Ferrar
+                 Antarctica sills                                                                                                    Sandstone + coal     182.6     170 000–230 000   2,3
+                 Tasmania sills                                                                                                                                     15 000            3
+                 All sills in the                                                                                                                                   555 000–615 000
+                   major basins
+CAMP             All affected basins         End-Triassic              Negative          Warming           Mass extinction           Evaporite + shale    201       700 000           This work
+Siberian         Tunguska Basin              End-Permian               Negative          Warming           Mass extinction           Evaporite + shale    252       780 000           5
+  Traps            sills
+Kalkarinji       Australia                   Early–Middle              Positive          OAE†              Mass extinction           Shale                510.7     ?
+                                                 Cambrian
+*
+ CIE, Carbon Isotope Excursion.
+†
+ OAE, Oceanic Anoxic Event.
+References: 1, Svensen et al. (2012); 2, Elliot & Fleming (2000); 3, Storey et al. (2013); 4, Frank et al. (2009); 5, Vasiliev et al. (2000).
+                                                                                                                                                                                                                                                      Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+Table 3. Sedimentary basins with CAMP sills and their estimated volumes
+
+CAMP sills                                                                 Thickness          Basin area          Average volume           Minimum volume              Maximum volume             References
+                                                                             (km)               (km2)                 (km3)                     (km3)                       (km3)
+
+North             Newark Basin – Palisades (PA, NJ, NY)*                 Up to 0.35                 2400                    480                        240                          840              1, 2, 3
+  America
+
+
+
+
+                                                                                                                                                                                                                   GONDWANA LARGE IGNEOUS PROVINCES
+                  Culpeper Basin – Belmont, Rapidan sills                0.37–0.6                   2750                  1380                         550                        1650               2, 4
+                    (VA, MD)
+                  Gettysburg Basin York Haven sill                       0.676                        170                    77                         34                          115              2, 4
+                    (PA, MD)*
+                  Deep River Basin – Sandford, Durham                    0.2                        4000                    800                        200                        1200               2, 3
+                    (NC, SC)
+                  Dan River – Danville Basin (NC)                        0.2                        1500                   300                         75                          450               2, 3
+Africa            Anti Atlas (Morocco)                                   0.05–0.1                 60 000                 9000                       6000                        12 000               5
+                  Taoudenni (Mali)                                       0.2–0.4                 100 000                30 000                     20 000                       40 000               5, 6
+                  Reggane, Tindouff, Hank (Mauritania,                   0.2–0.5                 240 000                72 000                     48 000                      120 000               5
+                    Algeria)
+                  Fouta Djalon (Guinea)                                  0.01–0.9                150 000                60 000                      1500                       135 000               7
+South             Acre (Brazil)                                          0.1–0.8                 230 000                69 000                     23 000                      184 000               8
+  America
+                  Solimoes (Brazil)                                      Up to 1.038            400 000                200 000                    40 000                      400 000                8, 9
+                  Amazon (Brazil)                                        Up to 0.915            500 000                250 000                    50 000                      458 000                8, 9
+                  Tarabuco, Camiri (Bolivia)                             0.03–0.14               30 000                  2100                        300                         4200                10
+                  Devil’s Island (French Guyana)                         0.035                       13                      0                      –                           –                    9
+Europe            Pyrenees ‘ophites’ (Spain, France)                     0.05–0.2                35 000                  3500                      1750                        17 500                11, 12
+                                                                                              1 760 000                699 000                   192 000                    1 370 000
+*
+ For the Gettysburg and Newark basins, the reported area is not that of the entire basins but only the area of extension of the sills.
+Data from: 1, Puffer et al. (2009); 2, McHone (2003); 3, Luttrell (1989); 4, Woodruff et al. (1995); 5, Charaf Chabou et al. (2010); 6, Verati et al. (2005); 7, Deckart et al. (2005); 8, De Min et al. (2003);
+9, Milani & Zalán (1999); 10, Bertrand et al. (2014); 11, Béziat et al. (1991); 12, Callegaro et al. (2014).
+
+
+
+
+                                                                                                                                                                                                                   25
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+26                                             H. H. SVENSEN ET AL.
+
+
+
+
+Fig. 5. (a) Qualitative SW–NE cross-section of the Solimões Basin (Brazil: A–B line marked in b highlights the
+presence of multiple thick sills encompassing the entire basin. (b) Outline of three Brazilian basins, Acre, Solimões
+and Amazon from west to east. Isopachs of cumulative sill thickness are marked for the Amazon Basin only (one line
+each 200 m in thickness, from 100 to 900 m). Adapted from Wanderley Filho et al. (2006).
+
+break-up of Gondwana), and, ﬁnally, the Paraná–              therein). The areal extent of the entire Kalkarindji
+Etendeka LIP, which affected large areas in South            province is estimated to be at least 2.1 × 106 km2,
+America and SW Africa (e.g. Brazil, Namibia and              but could be greater than 3 × 106 km2 if igneous
+Angola), and assisted the opening of the South               complexes in the Adelaide Fold Belt in South Aus-
+Atlantic from around 134 Ma.                                 tralia are included as part of the province (Evins
+                                                             et al. 2009; Ernst 2014). The offshore extent of the
+The Kalkarindji Large Igneous Province                       province is currently unknown, but the Milliwindi
+                                                             dyke extends at least 70 km to the north of the
+In the early Palaeozoic, Gondwana stretched from             Kimberly (Hanley & Wingate 2000). The volume
+the South Pole to the equator (West Australia) and           of the erupted and associated shallow intrusive
+the Kalkarindji continental ﬂood basalt province             rocks is difﬁcult to determine due to the scattered
+erupted at equatorial latitudes (Figs 1 & 3). Kalkar-        outcrops (see Fig. 7a), but is likely to be greater
+indji is a relatively poorly known LIP located in            than 1.5 × 106 km3 (Ernst 2014).
+the interior of Western Australia. The name of the               The igneous complexes of the Kalkarindji LIP
+province was originally proposed by Glass & Phil-            consist dominantly of inﬂated, subaerial basalt
+lips (2006) to encompass the Early Cambrian basalts          ﬂows and dolerite sheet intrusions. The basalts are
+of the Antrim Plateau in northern Australia, and a           dominantly low-Ti tholeiites and highly enriched in
+number of smaller basalt and dolerite outcrops in            incompatible elements, suggesting continental con-
+the interior of the continent. Recent overviews of           tamination of the magmas (Glass & Phillips 2006;
+the province can be found in Ernst (2014) and                Ernst 2014). The most extensive and best-preserved
+www.largeigneousprovinces.org/LOM                            basalt outcrops are located in the remote western part
+    The current extent of the Kalkarindji outcrops           of the Antrim Plateau, reaching a thickness of at least
+is about 55 000 km2, with an estimated initial areal         1.1 km. The lava ﬂows are typically 20–60 m thick
+extent of 400 000 km2 and a volume of 0.15 ×                 with massive interior and fractured or brecciated
+106 km3 (Marshall et al. 2016 and references                 ﬂow tops. Intraﬂow sedimentary units, including
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                  GONDWANA LARGE IGNEOUS PROVINCES                                                  27
+
+
+
+
+Fig. 6. The average volume of CAMP sills (in km3) is plotted against the surface (in km2) of the basins hosting them.
+Besides a clear positive correlation between the basin surface and total volume of the sills emplaced, the bigger
+volume of CAMP sills from the Brazilian basins compared to those from African, North American and European
+basins is visible. The inset is an enlarged detail of the smaller sills, and the volume of the Karoo sills is plotted
+for comparison.
+
+
+aeolian sandstones, are locally present. A basaltic          halokinesis. Dolerite sills are exposed in the NW
+agglomerate, the Blackfell Rockhole Member, has              Akubra-Boondawari area, and are penetrated by sev-
+been described as an explosive phreatomagmatic               eral petroleum exploration boreholes (Grey et al.
+tephra deposit but was recently reinterpreted as 25–         2005). Exploratory ﬁeldwork in the Antrim Plateau
+40 m-thick rubbly pahoehoe lava ﬂow (Marshall                region to the north revealed no presence of intrusive
+et al. 2016). In the Antrim Plateau, the extrusive           sills or hydrothermal vent complexes in the Protero-
+pile was emplaced above Proterozoic clastic sedi-            zoic basins stratigraphically below the basalts.
+mentary basins, and is overlain by stromatolitic lime-            A U–Pb zircon age of 510.7 ± 0.6 Ma obtained
+stones of Late Cambrian age.                                 from the coarse-grained Milliwindi dolerite dyke is
+    Subvolcanic complexes and the igneous plumb-             considered a minimum age for the onset of magmatic
+ing systems are poorly exposed. An eruptive centre           activity in the Kalkarindji LIP (Jourdan et al. 2014).
+in the central part of the Antrim Plateau has been pro-      This age overlaps the Early–Middle Cambrian boun-
+posed by Glass & Phillips (2006). The Milliwindi             dary (510.0 ± 1.0 Ma: Landing et al. 1998; Harvey
+dolerite dyke, a NW-trending, more than 200 -                et al. 2011) and the associated extinction event
+km-long intrusion in the NW Kimberly, has also               (Fig. 4). The four 40Ar/39Ar ages that exist from
+been proposed as a potential feeder dyke for the             the Kalkarindji LIP come from three ﬂows and a
+extrusive basalts (Hanley & Wingate 2000).                   sill, and range from 509.0 ± 2.6 to 511.9 ± 1.9 Ma,
+    An extensive Early Cambrian intrusive complex            consistent with the U–Pb age (Glass & Phillips
+is present in the Ofﬁcer Basin in central Australia          2006; Evins et al. 2009; Jourdan et al. 2014).
+(Jourdan et al. 2014). This Neoproterozoic intra-
+cratonic basin is more than 8 km deep with an                The Central Atlantic Magmatic Province
+areal extent of more than 300 000 km2. It is ﬁlled
+with marine carbonates, clastic sediments and evap-          Pangea was straddling the equator in the Late Trias-
+orites. The structuring of the basin is mainly due to        sic (Fig. 3), and the Central Atlantic Magmatic
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+28                                             H. H. SVENSEN ET AL.
+
+
+
+
+Fig. 7. (a) Two lava ﬂows in a small quarry in Kalkarindji LIP, Australia. Photograph: S. Planke. (b) Planar sills in
+the Nico Malan Pass road section in the Karoo Basin, South Africa. Photograph: H. H. Svensen. (c) CAMP lava
+ﬂows emplaced in a Mesozoic sedimentary basin crop out near Aouli village (close to Midelt) in the Moroccan
+Middle Atlas. Photograph: S. Callegaro. (d) Thick sill intrusion into aeolian sandstones, NW Namibia, Etendeka.
+Photograph: D.A. Jerram. (e) Panoramic view of a thick lava sequence south of the Huab River, NW Namibia.
+Section length is approximately 7 km, Etendeka. Photograph: D.A. Jerram. (f ) Panorama of thick dolerite sills
+around ‘Finger Mountain’, Trans-Antartic Mountains, Antarctica. Outcrop length is approximately 6 km. Photograph:
+D.A. Jerram.
+
+
+Province (CAMP) magmatic activity was located at             main area of the supercontinent into northern and
+equatorial–subtropical latitudes. As for many other          southern Pangea, with the latter again often termed
+LIPs, CAMP assisted a major plate tectonic reorgani-         Gondwana. With a north–south extension exceeding
+zation that led to the opening of the central part of the    6000 km and laterally spread along more than
+Atlantic Ocean at around 195 Ma, and thus split the          2500 km, CAMP is thus preserved (Marzoli et al.
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                 GONDWANA LARGE IGNEOUS PROVINCES                                            29
+
+1999b) on the eastern margin of North America             majority of them are hosted by organic-rich sedimen-
+(from Nova Scotia to Florida), western Europe             tary basins. Detailed studies of the magma–sediment
+(France and Iberian Peninsula), in West Africa            interaction, coupled with high-precision U–Pb geo-
+(from Morocco to the Ivory Coast) and northern            chronology, will be the key for understanding the
+South America (French Guyana, Surinam, Brazil,            impact of CAMP on the global climate.
+and Bolivia). CAMP magmatism is expressed by                  Only two high-precision zircon U–Pb CA-ID-
+lava ﬂows from ﬁssure eruptions fed by dykes and          TIMS studies have been published for the CAMP
+sills, with magma ponding in deep and shallow             (Fig. 4) (Schoene et al. 2010; Blackburn et al.
+magma chambers, a few of which are preserved to           2013). In addition, three air abrasion multigrain zir-
+date as layered maﬁc intrusions.                          con and/or baddeleyite U–Pb ID-TIMS studies
+    Most of the CAMP rocks are tholeiitic low-Ti          from two sills and one basalt in North America had
+(TiO2 < 2 wt%: De Min et al. 2003) continental            previously been published (Dunning & Hodych
+ﬂood basalts or basaltic andesites, whereas CAMP          1990; Hodych & Dunning 1992; Schoene et al.
+high-Ti tholeiites are restricted to a narrow zone in     2006). Due to much larger uncertainties or uncon-
+NE South America (Suriname, French Guyana and             strained Pb-loss, these data are not included in
+northern Brazil: Deckart et al. 2005; Merle et al.        Figure 4. The oldest U–Pb-dated CAMP basalt
+2011) and the southern margin of the West African         (the North Mountain Basalt; lowermost ﬂow in
+craton (Liberia, Sierra Leone). A peculiar feature        the Fundy Basin) from North America has an age
+of this LIP compared to what is observed for others       of 201.566 ± 0.061–201.52 ± 0.14 Ma (two differ-
+is the lack of alkaline and acidic magmatism              ent samples: Blackburn et al. 2013) or 201.38 ±
+(cf. e.g. Karoo or Deccan Traps; Marsh & Eales            0.22 Ma (Schoene et al. 2010), and ages range up
+1984; Parisio et al. 2016) and the very minor volume      to 201.274 ± 0.062 for the youngest dated basalt
+of high-Ti products (cf., e.g., magmatism of the          (Blackburn et al. 2013). Three sills are also dated
+Paraná–Etendeka LIP: Peate & Hawkesworth 1996).           from the North American part of CAMP, giving
+CAMP lava piles are mainly preserved within               ages between 201.515 ± 0.062 and 200.916 ±
+continental Mesozoic rift basins, often ﬁlled with        0.075 Ma, the latter being the youngest CAMP sam-
+red beds and evaporites. Lava-ﬂow remnants crop           ple dated (Blackburn et al. 2013). One sill from
+out interdigitated among (or are buried between)          Morocco, representing the only high-precision
+ﬂuvio-lacustrine sediments in basins of the Newark        U–Pb date from the African part of the CAMP,
+Supergroup in the eastern USA and Nova Scotia             is dated at 201.564 ± 0.075 Ma (Blackburn et al.
+(Merle et al. 2014), of the High and Middle Atlas,        2013). Blackburn et al. (2013) estimated the end-
+Arganà and Meseta in Morocco (Knight et al.               Triassic extinction to have occurred at 201.564 ±
+2004), and the Algarve and Santiago do Caçem in           0.055 Ma, demonstrating synchronicity between
+Portugal (Callegaro et al. 2014). The volcanic piles      early CAMP magmatism and extinction. Available
+                                                          40
+may range in overall thicknesses between 50 and              Ar/39Ar ages show a relatively large range from
+600 m (e.g. Merle et al. 2014). Notably, other            c. 204 to c. 192 Ma, but with a signiﬁcant majority
+smaller basins spread all over the surface of the prov-   clustering tightly around 201–202 Ma, also indistin-
+ince do contain minor volumes of lava ﬂows, such          guishable from the mean age of all CAMP magma-
+as in Bolivia (Bertrand et al. 2014) or in Algeria        tism (Marzoli et al. 2011).
+(Béchar: Charaf Chabou et al. 2010). Erosion
+wiped away a large portion of the outpoured tholei-
+ites, but since geochemical observations show that        The Karoo–Ferrar Large Igneous Province
+CAMP lava piles were fed by the preserved coeval          and related basins
+dykes (e.g. McHone 1996; Puffer et al. 2009;
+Merle et al. 2014), the original surface of CAMP          The bulk of Pangea was still rather intact by the
+lava ﬁelds may have corresponded to that presently        Early Jurassic, with limited opening of the Central
+enclosed by the dyke swarms (McHone 2003).                Atlantic. Karoo–Ferrar magmatic activity in south-
+    From the assessment presented here, we estimate       ern Gondwana was centred on southerly latitudes
+that the total volume of CAMP products ranges             (30–60°S: Fig. 3). The Karoo–Ferrar LIP covers a
+within 1 × 106–1.6 × 106 km3. It is clear from this       vast range of Gondwanaland areas. It is extensively
+analysis that the Brazilian basins host the majority      preserved throughout southern Africa (e.g. South
+of CAMP products, both in terms of sills (520 000         Africa, Namibia and Lesotho: du Toit 1920; Marsh
+km3, c. 70% of the total volume of CAMP sills)            et al. 1997; Neumann et al. 2011), in Tasmania
+and of lava ﬂows (64 000 km3, c. 40% of the total         and in Antarctica (e.g. Heimann et al. 1994; White
+volume estimated for basinal extrusive products).         et al. 2009). Invariably, the intrusive component of
+This assessment further highlights the fact that an       this LIP is emplaced within thick sedimentary
+important portion of the CAMP is constituted by           sequences (e.g. the Karoo Supergroup in Africa
+intrusive and subvolcanic products, and that the          and the Beacon Supergroup in Antarctica). In both
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+30                                           H. H. SVENSEN ET AL.
+
+the Antarctica sections and the Karoo sequences, the       Fleming 2000; Elliot & Hanson 2001; McClintock
+sill complexes can be mapped from the basement up          & White 2006; White et al. 2009; Muirhead et al.
+through the main sedimentary succession (e.g. du           2014). Along the Transantarctic Mountains, a large
+Toit 1920; Marsh & Eales 1984; Galerne et al.              sedimentary basin and its basement are exposed
+2008; Polteau et al. 2008; Jerram et al. 2010;             (e.g. Barrett et al. 1986; Storey et al. 2013). The sedi-
+Svensen et al. 2015b). By far, the most extensively        mentary rocks are classiﬁed as the Beacon Super-
+studied parts of the Karoo–Ferrar LIP are in the           group and include Devonian–Triassic clastic
+Southern African portion and this provides us with         sediments, mainly sandstones, also including Perm-
+an extensive geochronological framework expanded           ian coal seams. Early Jurassic sedimentary rocks
+on below.                                                  include sandstones intermixed and interbedded
+     The Upper Carboniferous–Jurassic Karoo Super-         with tuffs and peperites (e.g. McClintock & White
+group in South Africa has a maximum cumulative             2006; Muirhead et al. 2014). One of the most prom-
+thickness of 12 km and a preserved maximum thick-          inent sills in the Ferrar is the Peneplain sill, estimated
+ness of 5.5 km (Tankard et al. 2009). The current          to cover 19 000 km2 with a thickness of 250 m
+area with Karoo sediments cropping out in South            (4750 km3) (Gunn & Warren 1962; White et al.
+Africa is about 630 000 km2 (Svensen et al. 2015b).        2009). Other thick sills include the Basement sill
+The depositional environments range from marine            and the Asgard and Mount Fleming sills, all of
+to ﬂuvial and, ﬁnally, aeolian (Catuneanu et al.           which attain thickness in the hundreds of metres
+1998). The Karoo Basin is overlain by 1.3 km of vol-       and have a large aerial extent (e.g. Marsh 2004; Jer-
+canic rocks of the Drakensberg Group, consisting           ram et al. 2010).
+mainly of stacked basalt ﬂows erupted into a conti-            There are three high-precision U–Pb ID-TIMS
+nental and dry environment. The plumbing system            papers published from Karoo (Svensen et al. 2012;
+of the ﬂood basalts is a basin-scale sill complex          Sell et al. 2014; Burgess et al. 2015) and one exten-
+consisting of sills and dykes (Marsh & Eales 1984;         sive study from Ferrar (including 19 samples from
+Chevallier & Woodford 1999). The thickest sill in          three different areas of Antarctica and one sample
+the basin is about 220 m thick, most are in the            from Tasmania: Burgess et al. 2015) (Fig. 4). The
+10–60 m range, and the sills were emplaced at              ages from Karoo obtained by Svensen et al. (2012)
+about 182.6 Ma (Svensen et al. 2012, 2015c). The           were mainly obtained on air-abraded zircons, with
+composition of the sills is mainly tholeitic, with a       only a few chemically abraded zircons, but the
+few more evolved intrusions (andesitic) (Marsh &           study includes an extensive dataset on 14 samples
+Eales 1984; Neumann et al. 2011).                          with concordant zircons showing a large degree of
+     Hundreds of breccia pipes and hydrothermal vent       consistency and, thus, most probably representing
+complexes are rooted in the contact aureoles in the        the true ages of the dated sills within uncertainty.
+Karoo Basin (Svensen et al. 2006, 2007). Alexander         The zircon ages from Sell et al. (2014) and Burgess
+du Toit suggested that these degassing pipes formed        et al. (2015) were obtained by CA-ID-TIMS. Only
+due to igneous gas release, but recent research has        sills have been dated from Karoo and the ages
+stressed the importance of sediment-derived vola-          range from 183.4 ± 0.4 to 182.7 ± 0.6 Ma (Svensen
+tiles in their generation (e.g. Jamtveit et al. 2004;      et al. 2012; Corfu et al. 2016), with the two most pre-
+Svensen et al. 2007; Aarnes et al. 2010, 2012).            cise ages being 183.246 ± 0.066 and 183.014 ±
+The devolatilization involved both organic and inor-       0.075 Ma (Sell et al. 2014; Burgess et al. 2015). In
+ganic reactions, leading to the formation of high-         Ferrar, 20 samples from 10 lavas, eight sills and
+temperature minerals and lowering of the organic           two intrusions have been dated by CA-ID-TIMS
+carbon content in shales (Aarnes et al. 2012; Svensen      (Burgess et al. 2015). The lava ages range from
+et al. 2015b). The hydrothermal vent complexes             182.779 ± 0.066 to 182.430 ± 0.066 Ma, and the
+commonly crop out in the uppermost 400–500 m               intrusive rocks range in age from 182.85 ± 0.35 to
+of the basin, and are associated with sills in the sub-    182.540 ± 0.075 Ma (Burgess et al. 2015). Different
+surface (Svensen et al. 2006, 2015b). In the upper         astrochronological models exist for the onset of the
+parts of the basin stratigraphy (e.g. in the Elliot and    Toarcian Ocean Anoxic Event (TOAE), one model
+Clarens formations), magma–water interactions led          placing the onset of the TOAE at 183.1 Ma (Boulila
+to the formation of phreatomagmatic complexes.             et al. 2014) and another at 182.75 Ma (Suan et al.
+One of the best-studied complexes, the Sterkspruit         2008; Burgess et al. 2015), both anchored at the
+Complex, represents a >45 km2 explosion crater             radiometrically determined Pliensbachian–Toarcian
+ﬁlled with a variety of lavas, tuffs, sediment breccias,   boundary age of 183.6 + 1.7/−1.1 (Pálfy et al.
+hyaloclastites and various other pyroclastic rocks         2000; Sell et al. 2014). Whichever model is used,
+(McClintock et al. 2008).                                  magmatism in Karoo overlaps the TOAE, while
+     In Antarctica, the volcanic and subvolcanic rocks     magmatism in Ferrar only overlaps with the TOAE
+are scattered across vast areas along the Transantarc-     using the model of Suan et al. (2008). Sills and
+tic Mountains and Queen Maud Land (e.g. Elliot &           lavas dated by 40Ar/39Ar show a relatively large
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                GONDWANA LARGE IGNEOUS PROVINCES                                              31
+
+spread (Fig. 4), but the majority of ages cluster        may have been a dampening down of the effects of
+between c. 182 and 186 Ma (Jourdan et al. 2008).         gasses given off during this event compared to
+                                                         other LIPs as the interaction can often result in a
+Paraná–Etendeka                                          net sequestration of gasses, such as CO2 in diage-
+                                                         netic cements (Jones et al. 2016).
+By the Early Cretaceous, seaﬂoor spreading in the            The geochronological picture from the Paraná–
+Central Atlantic and the West Somali and Mozam-          Etendeka is incomplete. Some U–Pb ID-TIMS age
+bique basins were well under way. The continents         data include a combined zircon (multigrain fraction;
+were spread from pole-to-pole and Paraná–Etendeka        air abraded) and baddeleyite (multigrain) weighted
+erupted at southerly subtropical latitudes (Fig. 3).     mean age from a dacitic volcanic rock (Janasi et al.
+The Cretaceous break-up of South America from            2011), and a ﬁve-zircon (multigrain; CA) upper
+Africa is a late-stage part of the Gondwana break-up     intercept age from a composite dyke (Florisbal
+and the Paraná–Etendeka LIP is the manifestation         et al. 2014). No tracer calibration uncertainties
+of this break-up; plume activity with volcanism          were reported for these data but, as the uncertainties
+started at 135–134 Ma, with large volumes of             on the calculated ages are rather large, this is not a
+magma occurring in the ﬁrst few million years up         critical factor for comparison with other ages. The
+to, and including, the onset of break-up (e.g. Jerram    interpreted ages for the dacite and the dyke, respec-
+& Widdowson 2005). This volcanism and the pre-           tively, are 134.3 ± 0.8 and 133.9 ± 0.7 Ma (Janasi
+volcanic stratigraphy help to correlate the Paraná       et al. 2011; Florisbal et al. 2014), but due to the num-
+(Brazil) with the Etendeka (Namibia). A large vol-       ber few analyses and the clear presence of Pb loss
+ume of the preserved volcanic rocks are found on         in the analysed zircons, the accuracy of the ages
+the Paraná side.                                         cannot be considered as highly robust. Thiede &
+    The volcanic stratigraphy of the Paraná–Eten-        Vasconcelos (2010) reviewed 40Ar/39Ar ages from
+deka, as for many of the LIPs, has been mapped on        the Paraná and compiled the most robust ages.
+a gross scale using chemostratigraphic relationships     They also re-analysed some of the samples that devi-
+(e.g. Paraná: Peate 1997; Etendeka: Marsh et al.         ated signiﬁcantly from the mean age, and showed
+2001). Increasingly detailed ﬁeld-based volcanolog-      that all robust ages cluster tightly and deﬁne an inter-
+ical correlations of the lava sequences have also        val of magmatism of less than c. 1.2 Ma, with a mean
+identiﬁed disconformities within lava sequences of       age of 134.6 Ma. Recent palaeomagnetic data sug-
+the same chemostratigraphic type, as well as detailed    gest a longer lived magmatic range of c. 4 Ma, within
+understanding of the volcanic evolution of the prov-     a similar time frame (Dodd et al. 2015).
+ince (e.g. Jerram et al. 1999; Jerram & Stollhofen           On the Etendeka (Namibian) side, there are only
+                                                         40
+2002; Waichel et al. 2008). Also, key correlations          Ar/39Ar ages reported (e.g. Renne et al. 1996; Jer-
+with the base basalt sequences and the immediate         ram et al. 1999; Marzoli et al. 1999a). They are
+underlying and interbedded stratigraphy (Jerram &        stated as slightly younger (133–132 Ma) but when
+Widdowson 2005; Petry et al. 2007; Waichel et al.        recalculated using the latest techniques for Ar/Ar
+2012) have been made. Correlations across the            calibration (Kuiper et al. 2008; Renne et al. 2010,
+South Atlantic are possible using these stratigraphic    see also Dodd et al. 2015), these come in at c.
+and chemical relationships between key units. Vol-       134 Ma, overlapping with ages from the Paraná
+umes calculated with help from these correlations        Basin (Fig. 4). Magmatic activity in the Paraná–
+highlight large-volume individual events, with           Etendeka Magmatic Province appears to be slightly
+some of the largest individual silicic eruptions add-    younger – but overlapping within error – than the
+ing up to several thousands of km3 (Bryan et al.         onset of the mid-Valanginian Weissert Event (car-
+2010). Such events are manifested as both eruptions      bon isotope shift), dated at 135.22 ± 1.0 Ma (e.g.
+and as intrusions with big sill and volcanic centre      Aguirre-Urreta et al. 2015; Martinez et al. 2015).
+complexes (Jerram & Bryan 2015).                         The question of synchronicity and matching between
+    The Paraná–Etendeka has also been linked with        the geochronological data available for the two
+climatic changes as recorded by carbon isotope           events remains open until better age constraints
+excursions, speciﬁcally the mid-Valanginian Weis-        are attained.
+sert Event (e.g. Erba et al. 2004; Aguirre-Urreta
+et al. 2015; Martinez et al. 2015). However, the         LIPs, plates and the big picture
+scale and impact of this event is somewhat small
+compared to events such as the end-Permian. The          The dawn of the Phanerozoic is exceptional in many
+volcanic basin of the Paraná–Etendeka contains           ways: most continents were located in the southern
+signiﬁcant aeoilan deposits (Mountney et al. 1998;       hemisphere, the atmospheric CO2 concentration
+Jerram et al. 2000), and great interaction of the vol-   was, perhaps, 5–10 times the current level, and a
+canics with these sandstones is observed (Jerram &       global sea-level rise with largely warm surface sea-
+Stollhofen 2002; Petry et al. 2007). As such, there      water temperatures appear to have characterized
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+32                                            H. H. SVENSEN ET AL.
+
+the Cambrian and much of the Ordovician (Fig. 8).           erupted at southerly subtropical latitudes (Fig. 3)
+Abrupt changes in the atmospheric concentration             with contemporaneous kimberlite activity in South
+of greenhouse gases have occurred episodically              Africa, Namibia and NW Africa. As for the end-
+through Earth’s history, and many of these climatic         Triassic and Early Jurassic, this magmatic activity
+and environmental perturbations show a causal               was sourced by deep plumes along the western mar-
+relationship with LIP eruptions, which have been            gin of TUZO. This is also exempliﬁed in Figure 9: in
+sourced by plumes from the margins of two main              this schematic cartoon we envisage that long-lived
+thermochemical provinces in the deep mantle,                subduction along the South American (Andean)
+TUZO and JASON. The Gondwana LIPs were all                  margin was the triggering mechanism for a deep
+sourced from TUZO (Figs 2 & 3). During the Palae-           plume that eventually rose through the mantle and
+ozoic, most of the continents moved northwards,             led to catastrophic upper mantle melting, forming
+Pangea formed in the Late Carboniferous, and by             the Paraná–Etendeka LIP.
+the Late Triassic Pangea was centred around the                 LIPs may have caused or contributed to four of
+equator and overlying the TUZO LLSVP (Fig. 3).              the ‘big ﬁve’ biotic extinction events in the Phaner-
+CAMP magmatic activity was located to equato-               ozoic: the end-Devonian (Yakutsk in Siberia), the
+rial–subtropical latitudes, and contemporaneous             end-Permian (Siberian Traps), the end-Triassic
+kimberlites are found in southern Africa and North          (Central Atlantic Magmatic Province, CAMP) and
+America. CAMP and kimberlites were sourced by               the end-Cretaceous (K-Pg: Deccan Traps). In addi-
+deep plumes from the western margin of TUZO.                tion, the Middle Permian extinction (Capitanian) was
+The CAMP marks the initial break-up of the                  causally linked to the Emeishan LIP (e.g. Bond et al.
+Pangaea supercontinent, relicts of its extensive tho-       2010; Jerram et al. 2016b), but formed outside
+leiitic magmatism are presently preserved in four           Gondwana and is thus not included in this work.
+continents along both sides of the Atlantic Ocean           The K-Pg mass extinction event, however, is unique
+(Marzoli et al. 1999b), and CAMP contributed to             because it is coincident with the Chicxulub bolide
+one of the ‘big ﬁve’ biotic extinction events in the        impact. The oldest Phanerozoic extinction, and the
+Phanerozoic.                                                third in importance, at the end of the Ordovician
+    By the Early Cretaceous, seaﬂoor spreading in the       (Hirnantian) is not linked with any known LIP,
+Central Atlantic and the West Somali and Mozam-             even though widespread explosive volcanism is sug-
+bique basins were well underway. The continents             gested to have played a role in the global cooling
+were spread from pole-to-pole and Paraná–Etendeka           (Buggisch et al. 2010).
+
+
+
+
+Fig. 8. Phanerozoic timescale, icehouse (cold) v. greenhouse (hot) conditions, extinction events (ﬁve major with
+larger arrows), global LIP events (continental and oceanic), atmospheric pCO2 (Royer 2006) and global sea-level
+variations (Haq & Al-Qahtani 2005; Haq & Shutter 2008). Abbreviations for LIPs affecting Gondwana continental
+lithosphere are as follows: KA, Kalkarindji; P, Panjal; C, Central Atlantic Magmatic Province; KF, Karoo-Ferrar; PE,
+Parená-Etendeka; R, Rajhmahal; M, Madagascar; D, Deccan; E, Ethiopia. We have also indicated with arrows the life
+time of Gondwana and Pangea.
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                 GONDWANA LARGE IGNEOUS PROVINCES                                                   33
+
+
+
+
+Fig. 9. Subducted lithospheric slabs may interact with the margins of TUZO and JASON, triggering the formation of
+plumes. The cartoon is a proﬁle approximately through the reconstructed Paraná–Etendeka LIP, North Madagascar–
+Seychelles and India (cf. Fig. 3) at around 135 Ma. The triggering slabs for plumes sourcing the Paraná–Etendeka
+LIP and contemporaneous kimberlites in South Africa and Namibia must clearly have been linked to subduction
+along the western margin of South America. The South Atlantic opened shortly after the Paraná–Etendeka LIP.
+
+
+The importance of subvolcanic intrusions and               counterparts (basalt/lava) and pyroclastic deposits.
+sill volumes                                               Sill emplacement is characterized by the develop-
+                                                           ment of hydrothermal vent complexes that cut up
+The timing of environmental changes and LIPs is            through the basin and erupt at the surface through
+summarized in Figure 8. Several processes are sug-         pipe structures (e.g. Fig. 10) (Svensen et al. 2006;
+gested as links between LIPs and environmental             Jerram et al. 2016a) that can be found both before
+changes, including: (1) lava degassing of mantle vol-      and within the volcanic pile and which can indicate
+atiles, with or without a contribution from recycled       the relative timing of the sill emplacement (e.g. Ang-
+continental crust; (2) degassing of volatiles derived      kasa et al. 2017).
+from the sill-related contact aureoles of heated sedi-         Sill thicknesses can exceed 350 m, sandwiched
+mentary rocks; and (3) degassing from sills and lavas      between sedimentary sequences and associated con-
+contaminated by volatiles derived from the intruded        tact metamorphic aureoles. Sills can also occur
+sedimentary rocks or other crustal rocks (e.g. Sven-       within the lava piles themselves (e.g. Hansen et al.
+sen et al. 2004; Ganino & Arndt 2009; Sobolev              2011), but their identiﬁcation is complicated within
+et al. 2011). The actual extinction mechanisms are         a similar host rock and also emphasizes a potential
+debated, and the suggestions include extreme tem-          for the underestimate of the volume of the intrusive
+peratures, oceanic anoxia and pH reduction, sulphu-        component. A selection of ﬁeld photographs from
+ric acid poisoning, and ozone layer destruction            several of the LIPs described in this work is shown
+followed by extreme UV-B radiation (e.g. Visscher          in Figure 7. Contact metamorphism of the host sedi-
+et al. 2004; Robock 2005; Bacon et al. 2013; Elliott-      mentary rocks cause devolatilization and the genera-
+Kingston et al. 2014).                                     tion of H2O, CO2, CH4 and SO2 depending on the
+    The importance of volcanic basins for the evolu-       composition of the country rocks, including their
+tion of LIPs and the relationship to environmental         content of organic carbon (e.g. Svensen et al.
+changes has been stressed in recent years. During          2009). As a rule of thumb, the volume of heated sedi-
+the formation of LIPs, magma is commonly                   mentary rocks is twice the sill volume, as suggested
+emplaced as sills, dykes and igneous centres in the        both by modelling studies and by mineral and mac-
+upper crust (Jerram & Bryan 2015). In cases where          eral temperature proxies (e.g. Aarnes et al. 2011).
+the volume of magma emplaced in sedimentary                These volatiles may reach the atmosphere via direct
+basins is high, these basins are commonly referred         degassing in breccia pipes and hydrothermal vent
+to as ‘volcanic basins’ (Fig. 10) (e.g. Jerram 2015;       complexes or by seepage through fractures and sedi-
+Abdelmalak et al. 2016; Jerram et al. 2016a). Volca-       ment permeability. In addition to the sediment
+nic basins are present along rifted continental mar-       degassing, basalt lava degassing releases a range of
+gins and on lithospheric cratons (e.g. Cofﬁn &             volatiles to the atmosphere, including CO2 and
+Eldholm 1994), and represent vast basin areas that         SO2 (e.g. Self et al. 2006).
+contain signiﬁcant volumes of LIP-related igneous              A classic epitome of the LIP mass-extinction
+rocks and, in some cases, particularly where under-        paradigm is the relationship between CAMP and
+plating has occurred and sill complexes exist, the         end-Triassic mass extinction. Combined geochrono-
+intrusive component can be larger than the extrusive       logical and stratigraphic data have evidenced that the
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+34                                             H. H. SVENSEN ET AL.
+
+
+
+
+Fig. 10. Schematic cross-section of a volcanic basin, showing sills, dykes, pipes, and surface deposits of lava and
+pyroclastics. Modiﬁed from Jerram et al. (2016a).
+
+
+two events coincide, but few constraints exist on             seismic data and boreholes are not always available.
+how the CAMP played its forcing on the end-                   Still, we stress that current knowledge and data sug-
+Triassic global environment. On the stratigraphic             gest that the subvolcanic intrusions in sedimentary
+record, from worldwide localities, the end-Triassic           basins hold a key to understand past environmental
+biotic crisis is also associated to a negative carbon         changes.
+isotope excursion that reﬂects a disruption of the car-
+bon cycle, for which the CAMP is considered the
+cause. Modelling shows that the sharp negative                Summary
+δ13C excursion associated with the extinction can
+be obtained by rapid release of very isotopically             • In Palaeozoic and Early Mesozoic times, Gond-
+light carbon (e.g. Bachan & Payne 2016). Since car-             wana LIPs and the majority of kimberlites were
+bon released by ﬂood basalt magmatism is isotopi-               sourced by deep plumes from the margins of the
+cally too heavy to drive such negative excursions,              African LLSVP (TUZO), one of two major stable
+the source of isotopically light carbon must be                 thermochemical piles at the core–mantle boun-
+sought in the degassing from heated sediments. In               dary. Gondwana essentially existed from
+this view, the study of subvolcanic intrusions and              Cambrian to Jurassic times and in its lifetime
+the estimation of sill volumes are fundamental                  three continental LIPs (Kalkarindji, CAMP and
+because the degassing from organic-rich sediments               Karoo–Ferrar) directly affected Gondwanan con-
+in contact with such magmatic structures is, to the             tinental crust at around 510, 201 and 183 Ma.
+best of our knowledge, the most efﬁcient way to               • Two of these LIPs (CAMP and Karoo–Ferrar)
+transfer volatiles from the lithosphere to the Earth’s          assisted the break-up of Gondwana and Pangea,
+atmosphere during LIP events. The volume estima-                as witnessed by the opening of the Central Atlan-
+tion of CAMP magmas presented here further high-                tic Ocean (splitting Pangea) and the West Somali
+lights that an important portion of the CAMP is                 and Mozambique basins (separating West and
+constituted by intrusive and subvolcanic products,              East Gondwana) during the Jurassic.
+and that the majority of them are hosted by the               • Soon after, the opening of the South Atlantic in
+organic-rich sedimentary basins in Brazil.                      the early Cretaceous from around 130 Ma took
+    There are still unresolved aspects related to the           place only about 4–5 myr from the onset of the
+age of sills and dykes, their volumes, and emplace-             Paraná–Etendeka LIP, which affected vast areas
+ment rate, even though recent work has made                     in Brazil and parts of Namibia.
+advances in several LIPs (e.g. Jourdan et al. 2005,           • The architecture of the major Gondwana LIPs
+2014; Svensen et al. 2012; Blackburn et al. 2013;               consists of a subvolcanic and a volcanic part. Sub-
+Burgess et al. 2015). These issues are challenging              volcanic sills and dykes represent a signiﬁcant
+to resolve as sills and dykes are non-uniformly dis-            part of the LIP igneous volume, commonly
+tributed in volcanic basins, and basin-scale 3D                 emplaced in sedimentary basins (i.e. volcanic
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                  GONDWANA LARGE IGNEOUS PROVINCES                                                    35
+
+  basins). Sills are commonly present throughout                Triassic–Jurassic boundary interval of East Greenland.
+  the basin stratigraphies and the sill volumes are             PloS ONE, 8, e60614.
+  thus scaled to the basin size.                             BARRETT, P.J., ELLIOT, D.H. & LINDSAY, J.F. 1986. The Bea-
+• A new assessment of the CAMP LIP shows that                   con supergroup (Devonian–Triassic) and Ferrar Group
+                                                                (Jurassic) in the Beardmore glacier area, Antarctica.
+  the sills have a volume of about 700 000 km3                  Antarctic Research Series, 36, 339–428.
+  (based on an average volume estimate – Table               BERTRAND, H., FORNARI, M., MARZOLI, A., GARCÍA-DUARTE,
+  3), more than half of it present in the Brazilian             R. & SEMPERE, T. 2014. The Central Atlantic Magmatic
+  basins. This suggests that sill emplacement and               Province extends into Bolivia. Lithos, 188, 33–43.
+  the related contact metamorphism and devolatili-           BEUTEL, E.K., NOMADE, S., FRONABARGER, A.K. & RENNE,
+  zation probably contributed to the climatic change            P.R. 2005. Pangea’s complex breakup: a new rapidly
+  and mass extinction at the end of the Triassic.               changing stress ﬁeld model. Earth and Planetary Sci-
+                                                                ence Letters, 236, 471, https://doi.org/10.1016/j.
+                                                                epsl.2005.03.021
+This work was supported by the Research Council of Nor-
+                                                             BÉZIAT, D., JORON, J.L., MONCHOUX, P., TREUIL, M. &
+way through its Centres of Excellence funding scheme to
+                                                                WALGENWITZ, F. 1991. Geodynamic implications of
+the Centre of Earth Evolution and Dynamics (CEED), pro-
+                                                                geochemical data for the Pyrenean ophites (Spain–
+ject number 223272. L. Parisio is thanked for fruitful
+                                                                France). Chemical Geology, 89, 243–262.
+insights and discussions over the extent of CAMP outcrops.
+                                                             BLACKBURN, T.J., OLSEN, P.E. ET AL. 2013. Zircon U–Pb geo-
+                                                                chronology links the end-Triassic extinction with the
+                                                                Central Atlantic Magmatic Province. Science, 340,
+References                                                      941–945.
+                                                             BOND, D.P.G., HILTON, J., WIGNALL, P.B., ALI, J.R., STE-
+AARNES, I., SVENSEN, H., CONNOLLY, J.A.D. & PODLADCHI-          VENS, L.G., SUN, Y.-D. & LAI, X.-L. 2010. The Middle
+   KOV, Y.Y. 2010. How contact metamorphism can trig-           Permian (Capitanian) mass extinction on land and in the
+   ger global climate changes: modeling gas generation          oceans. Earth-Science Reviews, 102, 100–116, https://
+   around igneous sills in sedimentary basins. Geochimica       doi.org/10.1016/j.earscirev.2010.07.004
+   et Cosmochimica Acta, 74, 7179–7195.                      BOULILA, S., GALBRUN, B., HURET, E., HINNOV, L., ROUGET, I.,
+AARNES, I., SVENSEN, H., POLTEAU, S. & PLANKE, S. 2011.         GARDIN, S. & BARTOLINI, A. 2014. Astronomical calibra-
+   Contact metamorphic devolatilization of shales in the        tion of the Toarcian Stage: implications for sequence
+   Karoo Basin, South Africa, and the effects of multiple       stratigraphy and duration of the early Toarcian OAE.
+   sill intrusions. Chemical Geology, 281, 181–194.             Earth and Planetary Science Letters, 386, 98–111.
+AARNES, I., PODLADCHIKOV, Y. & SVENSEN, H. 2012.             BRYAN, S.E., UKSTINS PEATE, I. ET AL. 2010. The largest vol-
+   Devolatilization-induced pressure build-up: implica-         canic eruptions on Earth. Earth-Science Reviews, 102,
+   tions for reaction front movement and breccia pipe for-      207–229.
+   mation. Geoﬂuids, 12, 265–279, https://doi.org/10.        BUGGISCH, W., JOACHIMSKI, M.M., LEHNERT, O., BERGSTRÖM,
+   1111/j.1468-8123.2012.00368.x                                S.M., REPETSKI, J.E. & WEBERS, G.F. 2010. Did intense
+ABDELMALAK, M.M., PLANKE, S., FALEIDE, J.I., JERRAM, D.         volcanism trigger the ﬁrst late Ordovician icehouse?
+   A., ZASTROZHNOV, D., EIDE, S. & MYKLEBUST, R. 2016.          Geology, 38, 327–330.
+   The development of volcanic sequences at rifted mar-      BURGESS, S.D., BOWRING, S.A., FLEMING, T.H. & ELLIOT,
+   gins: new insights from the structure and morphology         D.H. 2015. High-precision geochronology links the
+   of the Vøring Escarpment, mid-Norwegian Margin.              Ferrar large igneous province with early-Jurassic ocean
+   Journal of Geophysical Research: Solid Earth, 121,           anoxia and biotic crisis. Earth and Planetary Science
+   5212–5236, https://doi.org/10.1002/2015JB012788              Letters, 415, 90–99.
+AGUIRRE-URRETA, B., LESCANO, M., SCHMITZ, M.D., TUNIK,       BURKE, K., STEINBERGER, B., TORSVIK, T.H. & SMETHURST,
+   M., CONCHEYRO, A., RAWSON, P.F. & RAMOS, V.A.                M.A. 2008. Plume generation zones at the margins of
+   2015. Filling the gap: new precise Early Cretaceous          large low shear velocity provinces on the core–mantle
+   radioisotopic ages from the Andes. Geological Maga-          boundary. Earth and Planetary Sciences, 265, 49–60.
+   zine, 152, 557–564.                                       CALLEGARO, S., RAPAILLE, C. ET AL. 2014. Enriched mantle
+ALMEIDA, F.F.M. 1986. Distribuição regional e relações          source for the Central Atlantic magmatic province:
+   tectônicas do magmatismo pós-Palcozóico no Brasil.           new supporting evidence from southwestern Europe.
+   Revista Brasileira de Geociências., 16, 325–349.             Lithos, 188, 15–32.
+ANGKASA, S.S., JERRAM, D.A. ET AL. 2017. Maﬁc intrusions,    CATUNEANU, O., HANCOX, P.J. & RUBIDGE, B.S. 1998. Recip-
+   hydrothermal venting, and the basalt-sediment transi-        rocal ﬂexural behaviour and contrasting stratigraphies:
+   tion: Linking onshore and offshore examples from the         a new basin development model for the Karoo retroarc
+   North Atlantic igneous Province. Interpretation, 5,          foreland system, South Africa. Basin Research, 10,
+   ISSN: 2324-8858, published 15 May 2017.                      417–439.
+BACHAN, A. & PAYNE, J.L. 2016. Modelling the impact of       CHARAF CHABOU, M., BERTRAND, H. & SEBAÏ, A. 2010.
+   pulsed CAMP volcanism on pCO2 and δ13C across the            Journal of African Earth Sciences Geochemistry of
+   Triassic–Jurassic transition. Geological Magazine,           the Central Atlantic Magmatic Province (CAMP) in
+   153, 252–270.                                                south-western Algeria. Journal of African Earth Sci-
+BACON, K.L., BELCHER, C.M., HAWORTH, M. & MCELWAIN,             ences, 58, 211–219.
+   J.C. 2013. Increased atmospheric SO2 detected             CHEVALLIER, L. & WOODFORD, A. 1999. Morpho-tectonics
+   from changes in leaf physiognomy across the                  and mechanism of emplacement of the dolerite rings
+        Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+36                                               H. H. SVENSEN ET AL.
+
+   and sills of the western Karoo, South Africa. South          ELLIOTT-KINGSTON, C., HAWORTH, M. & MCELWAIN, J.C.
+   African Journal of Geology, 102, 43–54.                         2014. Damage structures in leaf epidermis and cuticle
+COFFIN, M.F. & ELDHOLM, O. 1994. Large Ignoeus Prov-               as an indicator of elevated atmospheric sulphur dioxide
+   inces: crustal structure, dimensions and external conse-        in early Mesozoic ﬂoras. Review of Palaeobotany and
+   quences. Reviews of Geophysics, 32, 1–36.                       Palynology, 208, 25–42.
+COHEN, K.M., FINNEY, S.C., GIBBARD, P.L. & FAN, J.-X.           ERBA, E., BARTOLINI, A. & LARSON, R.L. 2004. Valanginian
+   2013. The ICS International Chronostratigraphic                 Weissert oceanic anoxic event. Geology, 32, 149–152.
+   Chart. Episodes, 36, 199–204.                                ERNST, R.E. 2014. Large Igneous Provinces. Cambridge
+CONDON, D.J., SCHOENE, B., MCLEAN, N.M., BOWRING, S.A.             University Press, London.
+   & PARRISH, R.R. 2015. Metrology and traceability of U–       EVINS, L., JOURDAN, F. & PHILIPS, D. 2009. The Cambrian
+   Pb isotope dilution geochronology (EARTHTIME                    Kalkarindji Large Igneous Province: extent and charac-
+   Tracer Calibration Part I). Geochimica et Cosmochi-             teristics based on new 40Ar/39Ar and geochemical data.
+   mica Acta, 164, 464–480.                                        Lithos, 110, 294–304, https://doi.org/10.1016/
+CORFU, F., SVENSEN, H. & MAZZINI, A. 2016. Comment to              j.lithos.2009.01.014
+   paper: evaluating the temporal link between the Karoo        FLORISBAL, L.M., HEAMAN, L.M., DE ASSIS JANASI, V.A. & DE
+   LIP and climatic–biologic events of the Toarcian                FATIMA BITENCOURT, M. 2014. Tectonic signiﬁcance of
+   Stage with high-precision U–Pb geochronology by                 the Florianópolis dyke Swarm, Paraná–Etendeka Mag-
+   Bryan Sell, Maria Ovtcharova, Jean Guex, Annachiara             matic Province: a reappraisal based on precise U–Pb
+   Bartolini, Fred Jourdan, Jorge E. Spangenberg, Jean-            dating. Journal of Volcanology and Geothermal
+   Claude Vicente, Urs Schaltegger in Earth and Plane-             Research, 289, 140–150.
+   tary Science Letters, 408 (2014) 48–56. Earth and            FRANK, H.T., ELISA, M., GOMES, B., LUIZ, M. & FORMOSO, L.
+   Planetary Science Letters, 434, 349–352.                        2009. Review of the areal extent and the volume of the
+DECKART, K., BERTRAND, H. & LIÉGEOIS, J.-P. 2005. Geo-             Serra Geral Formation, Paraná Basin, South America.
+   chemistry and Sr, Nd, Pb isotopic composition of the            Pesquisas em Geosciences, 36, 49–57.
+   Central Atlantic Magmatic Province (CAMP) in Guy-            GALERNE, C.Y., NEUMANN, E.R. & PLANKE, S. 2008.
+   ana and Guinea. Lithos, 82, 289–314.                            Emplacement mechanisms of sill complexes: informa-
+DE MIN, A., PICCIRILLO, E.M., MARZOLI, A., BELLIENI, G.,           tion from the geochemical architecture of the Golden
+   RENNE, P.R., ERNESTO, M. & MARQUES, L.S. 2003. The              Valley Sill Complex, South Africa. Journal of Volca-
+   Central Atlantic Magmatic Province (CAMP) in Brazil:            nology and Geothermal Research, 177, 425–440.
+   petrology, geochemistry, 40Ar/39Ar ages, paleomagne-         GANINO, C. & ARNDT, N.T. 2009. Climate changes
+   tism and geodynamic implications. The central Atlan-            caused by degassing of sediments during the emplace-
+   tic magmatic province: insights from fragments of               ment of large igneous provinces. Geology, 37,
+   Pangea. In: HAMES, W., MCHONE, J.G., RENNE, P.C. &              323–326.
+   RUPPEL, C. (eds) The Central Atlantic Magmatic Prov-         GLASS, L.M. & PHILLIPS, D. 2006. The Kalkarindji continen-
+   ince: Insights from Fragments of Pangea. American               tal ﬂood basalt province: a new Cambrian large igneous
+   Geophysical Union, Geophysical Monograph Series,                province in Australia with possible links to faunal
+   136, 91–128, https://doi.org/10.1029/136GM06                    extinctions. Geology, 34, 461–464, https://doi.org/
+DODD, S.C., MAC NIOCAILL, C. & MUXWORTHYA, A.R. 2015.              10.1130/G22122.1
+   Long duration (>4 Ma) and steady-state volcanic activ-       GREY, K., HOCKING, R.M. ET AL. 2005. Lithostratigraphic
+   ity in the early Cretaceous Paraná–Etendeka Large Igne-         Nomenclature of the Ofﬁcer Basin and Correlative
+   ous Province: new palaeomagnetic data from Namibia.             Parts of the Paterson Orogen Western Australia. Geo-
+   Earth and Planetary Science Letters, 414, 16–29.                logical Survey of Western Australia, Report 93.
+DOUBROVINE, P.V., STEINBERGER, B. & TORSVIK, T.H. 2016.         GUNN, B.M. & WARREN, G. 1962. Geology of Victoria
+   A failure to reject: testing the correlation between large      Land between the Mawson and Murlock Glaciers, Ant-
+   igneous provinces and deep mantle structures with EDF           arctica. New Zealand Geological Survey Bulletin, 71,
+   statistics. Geochemistry, Geophysics, Geosystems, 17,           1–157.
+   1130–1163, https://doi.org/10.1002/2015GC006044              HAMES, W.E., RENNE, P.R. & RUPPEL, C. 2000. New evi-
+DUNNING, G.R. & HODYCH, J.P. 1990. U/Pb zircon and                 dence for geologically instantaneous emplacement of
+   baddeleyite ages for the Palisades and Gettysburg sills         earliest Jurassic Central Atlantic magmatic province
+   of the northeastern United States: implications for the         basalts on the North 7 American margin. Geology, 28,
+   age of the Triassic/Jurassic boundary. Geology, 18, 795,        859, https://doi.org/10.1130/0091-7613(2000)282.0.
+   https://doi.org/10.1130/0091-7613(1990)0182.3.CO;2              CO;2
+DU TOIT, A.I. 1920. The Karoo dolerites of South Africa: a      HANLEY, L.M. & WINGATE, M.T.D. 2000. SHRIMP zircon
+   study in hypabyssal injection. Transactions of the Geo-         age for an Early Cambrian dolerite dyke: an intrusive
+   logical Society of South Africa, 23, 1–42.                      phase of the Antrim Plateau Volcanics of northern
+ELLIOT, D.H. & FLEMING, T.H. 2000. Weddell triple junc-            Australia. Australian Journal of Earth Sciences, 47,
+   tion: the principal focus of Ferrar and Karoo magma-            1029–1040,        https://doi.org/10.1046/j.1440-0952.
+   tism during initial breakup of Gondwana. Geology,               2000.00829.x
+   28, 539–542.                                                 HANSEN, J., JERRAM, D.A., MCCAFFREY, K. & PASSEY, S.R.
+ELLIOT, D.H. & HANSON, R.E. 2001. Origin of widespread,            2011. Early Cenozoic saucer-shaped sills of the
+   exceptionally thick basaltic phreatomagmatic tuff               Faroe Islands: an example of intrusive styles in basaltic
+   breccia in the Middle Jurassic Prebble and Mawson               lava piles. Journal of the Geological Society, London,
+   Formations, Antarctica. Journal of Volcanology and              168, 159–178, https://doi.org/10.1144/0016-7649
+   Geothermal Research, 111, 183–201.                              2010-012
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                    GONDWANA LARGE IGNEOUS PROVINCES                                                    37
+
+HAQ, B.U. & AL-QAHTANI, A.M. 2005. Phanerozoic cycles              study from the Basement Sill, Dry Valleys, Antarctica.
+   of sea-level change on the Arabian Platform. GeoAra-            Geosphere, 6, 537–548, https://doi.org/10.1130/
+   bia, 10, 127–160.                                               GES00538.1
+HAQ, B.U. & SHUTTER, S.R. 2008. A chronology of Paleo-          JERRAM, D.A., SVENSEN, H.H., PLANKE, S., POLOZOV, A.G. &
+   zoic sea-level changes. Science, 322, 64–68.                    TORSVIK, T.H. 2016a. The onset of ﬂood volcanism
+HARVEY, T.H.P., WILLIAMS, M. ET AL. 2011. A reﬁned                 in the north-western part of the Siberian traps:
+   chronology for the Cambrian succession of southern              explosive volcanism v. effusive lava ﬂows. Palaeo-
+   Britain. Journal of the Geological Society, London,             geography, Palaeoclimatology, Palaeoecology, 441,
+   168, 705–716, https://doi.org/10.1144/0016-764920               38–50.
+   10-031                                                       JERRAM, D.A., WIDDOWSON, M., WIGNALL, P.B., SUN, Y.,
+HEIMANN, A., FLEMING, T.H., ELLIOT, D.H. & FOLAND, K.A.            LAI, X., BOND, D.P.G. & TORSVIK, T.H. 2016b. Sub-
+   1994. A short interval of Jurassic continental ﬂood             marine palaeoenvironments during Emeishan ﬂood
+   basalt volcanism in Antarctica as demonstrated by               basalt volcanism, SW China: Implications for plume-
+   40
+     Ar/39Ar geochronology. Earth and Planetary Sci-               lithosphere interaction during the Capitanian, Middle
+   ence Letters, 121, 19–41.                                       Permian (‘end Guadalupian’) extinction event. Palaeo-
+HODYCH, J.P. & DUNNING, G.R. 1992. Did the Manicouagan             geography, Palaeoclimatology, Palaeoecology. ISSN
+   impact trigger end-of-Triassic mass extinction? Geol-           0031-0182, 441, 65–73. https://doi.org/10.1016/j.
+   ogy, 20, 51–54, https://doi.org/10.1130/0091-7613               palaeo.2015.06.009
+   (1992)0202.3.CO;2                                            JONES, M.T., JERRAM, D.A., SVENSEN, H.H. & GROVE, C.
+JAMTVEIT, B., SVENSEN, H., PODLADCHIKOV, Y. & PLANKE, S.           2016. The effects of large igneous provinces on the
+   2004. Hydrothermal vent complexes associated with               global carbon and sulphur cycles. Palaeogeography,
+   sill intrusions in sedimentary basins. In: BREITKREUZ,          Palaeoclimatology, Palaeoecology, 441, 4–21.
+   C. & PETFORD, N. (eds) Physical Geology of High-Level        JOURDAN, F., FÉRAUD, G. ET AL. 2004. The Karoo triple junc-
+   Magmatic Systems. Geological Society, London, Spe-              tion questioned: evidence from 40Ar/39Ar Jurassic and
+   cial Publications, 234, 233–241, https://doi.org/10.            Proterozoic ages and geochemistry of the Okavango
+   1144/GSL.SP.2004.234.01.15                                      dike swarm (Botswana). Earth and Planetary Science
+JANASI, V.A., DE FREITAS, V.A. & HEAMAN, L.H. 2011. The            Letters, 222, 989–1006.
+   onset of ﬂood basalt volcanism, Northern Paraná Basin,       JOURDAN, F., FERAUD, G., BERTRAND, H., KAMPUNZU, A.B.,
+   Brazil: a precise U–Pb baddeleyite/zircon age for a             TSHOSO, G., WATKEYS, M.K. & LE GALL, B. 2005. The
+   Chapecótype dacite. Earth and Planetary Science                 Karoo large igneous province: brevity, origin, and rela-
+   Letters, 302, 147–153.                                          tion with mass extinction questioned by new 40Ar/39Ar
+JERRAM, D.A. 2015. Hot Rocks and Oil: Are Volcanic                 age data. Geology, 33, 745–748.
+   Margins the New Frontier? Geofacets. Elsevier, Amster-       JOURDAN, F., FÉRAUD, G., BERTRAND, H. & WATKEYS, M.K.
+   dam, https://www.elsevier.com/__data/assets/pdf_                2007a. From ﬂood basalts to the inception of oceaniza-
+   ﬁle/0008/84887/ELS_Geofacets-Volcanic-Article_Di                tion: example from the 40Ar/39Ar high-resolution
+   gital_r5.pdf                                                    picture of the Karoo large igneous province. Geochem-
+JERRAM, D.A. & BRYAN, S.E. 2015. Plumbing systems of               istry, Geophysics, Geosystems, 8, 1–20, https://doi.
+   shallow level intrusive complexes. In: BREITKREUZ, C.           org/10.1029/2006GC001392
+   & ROCCHI, S. (eds) Physical Geology of Shallow Mag-          JOURDAN, F., FÉRAUD, G., BERTRAND, H., WATKEYS, M.K. &
+   matic Systems. ISBN: 978-3-319-14083-4. Springer                RENNE, P.R. 2007b. Distinct brief major events in
+   International Publishing.                                       the Karoo large igneous province clariﬁed by new
+                                                                   40
+JERRAM, D.A. & STOLLHOFEN, H. 2002. Lava/sediment                     Ar/39Ar ages on the Lesotho basalts. Lithos, 98,
+   interaction in desert settings; are all peperite-like tex-      195–209.
+   tures the result of magma–water interaction? Journal         JOURDAN, F., FÉRAUD, G., BERTRAND, H., WATKEYS, M.K. &
+   of Volcanology and Geothermal Research, 114,                    RENNE, P.R. 2008. The 40Ar/39Ar ages of the sill com-
+   231–249.                                                        plex of the Karoo large igneous province: implications
+JERRAM, D.A. & WIDDOWSON, M. 2005. The anatomy of                  for the Pliensbachian–Toarcian climate change. Geo-
+   Continental Flood Basalt Provinces: geological con-             chemistry, Geophysics, Geosystems, 9, 1–20, https://
+   straints on the processes and products of ﬂood volca-           doi.org/10.1029/2008GC001994
+   nism. Lithos, 79, 385–405.                                   JOURDAN, F., MARZOLI, A. ET AL. 2009. 40Ar/39Ar ages of
+JERRAM, D.A., MOUNTNEY, N., HOLZFÖRSTER, F. & STOLLHO-             CAMP in North America: implications for the Trias-
+   FEN, H. 1999. Internal stratigraphic relationships in the       sic–Jurassic boundary and the 40K decay constant
+   Etendeka Group in the Huab Basin, NW Namibia:                   bias. Lithos, 110, 167–180.
+   understanding the onset of ﬂood volcanism. Journal           JOURDAN, F., HODGES, K. ET AL. 2014. High-precision
+   of Geodynamics, 28, 393–418.                                    dating of the Kalkarindji large igneous province,
+JERRAM, D.A., MOUNTNEY, N., HOWELL, J., LONG, D. &                 Australia, and synchrony with the Early–Middle
+   STOLLHOFEN, H. 2000. Death of a Sand Sea: an active             Cambrian (Stage 4–5) extinction. Geology, 42,
+   erg systematically buried by the Etendeka ﬂood basalts          543–546.
+   of NW Namibia. Journal of the Geological Society,            KNIGHT, K.B., NOMADE, S., RENNE, P.R., MARZOLI, A., BER-
+   London, 157, 513–516, https://doi.org/10.1144/jgs.              TRAND, H. & YOUBI, N. 2004. The Central Atlantic Mag-
+   157.3.513                                                       matic Province at the Triassic–Jurassic boundary:
+JERRAM, D.A., DAVIS, G.R., MOCK, A., CHARRIER, A. &                paleomagnetic and 40Ar/39Ar evidence from Morocco
+   MARSH, B. 2010. Quantifying 3D crystal populations,             for brief, episodic volcanism. Earth and Planetary Sci-
+   packing and layering in shallow intrusions: a case              ence Letters, 228, 143–160.
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+38                                             H. H. SVENSEN ET AL.
+
+KUIPER, K.F., DEINO, A., HILGEN, F.J., KRIJGSMAN, W.,           Jurassic boundary climatic and biotic crisis. Geology,
+   RENNE, P.R. & WIJBRANS, J.R. 2008. Synchronizing             32, 973–976.
+   rock clocks of Earth history. Science, 320, 500–504.      MARZOLI, A., JOURDAN, F. ET AL. 2011. Timing and duration
+LANDING, E., BOWRING, S.A., DAVIDEK, K.L., WESTROP, S.R.,       of the Central Atlantic magmatic province in the New-
+   GEYER, G. & HELDMAIER, W. 1998. Duration of the              ark and Culpeper basins, eastern USA. Lithos, 122,
+   Early Cambrian: U–Pb ages of volcanic ashes from             175–188.
+   Avalon and Gondwana. Canadian Journal of Earth Sci-       MARSHALL, P.E., WIDDOWSON, M. & MURPHY, D.T. 2016.
+   ences, 35, 329–338, https://doi.org/10.1139/e97-107          The Giant Lavas of Kalkarindji: rubbly pāhoehoe
+LE GALL, B., TSHOSO, G. ET AL. 2002. 40Ar/39Ar geochronol-      lava in an ancient continental ﬂood basalt province.
+   ogy and structural data from the giant Okavango and          Palaeogeography, Palaeoclimatology, Palaeoecology,
+   related maﬁc dike swarms, Karoo igneous province,            441, 22–37, https://doi.org/10.1016/j.palaeo.2015.
+   Botswana. Earth and Planetary Science Letters, 202,          05.006
+   595–606.                                                  MCCLINTOCK, M. & WHITE, J.D.L. 2006. Large phreatomag-
+LUTTRELL, G.W. 1989. Stratigraphic nomenclature of the          matic vent complex at Coombs Hills, Antarctica: wet.
+   Newark supergroup of eastern North America. United           explosive initiation of ﬂood basalt volcanism in the Fer-
+   States Geological Survey Bulletin 1572, 136 p.               rar–Karoo LIP. Bulletin of Volcanology, 68, 215–239.
+MARSH, B.D. 2004. A magmatic mush column rosetta stone:      MCCLINTOCK, M., WHITE, J.D.L., HOUGHTON, B.F. & SKILL-
+   the McMurdo Dry Valleys of Antarctica. Eos, Transac-         ING, I.P. 2008. Physical volcanology of a large crater-
+   tions of the American Geophysical Union, 85, 497–508,        complex formed during the initial stages of Karoo
+   https://doi.org/10.1029/2004EO470001                         ﬂood basalt volcanism, Sterkspruit, Eastern Cape,
+MARSH, J.S. & EALES, H.V. 1984. The chemistry and Petro-        South Africa. Journal of Volcanology and Geothermal
+   genesis of igneous rocks of the Karoo central area,          Research, 172, 93–111.
+   southern Africa. In: ERLANK, A.J. (ed.) Petrogenesis of   MCHONE, G. 1996. Broad terrane Jurassic ﬂood basalts
+   the Volcanic Rocks of the Karoo Province. Geological         across northeastern North America. Geology, 24,
+   Society of South Africa, Special Publications, 13,           319–322.
+   27–67.                                                    MCHONE, J.G. 2003. Volatile emissions from Central Atlan-
+MARSH, J.S., HOOPER, P.R., REHACEK, J. & DUNCAN, R.A.           tic Magmatic Province Basalts: mass assumptions and
+   1997. Stratigraphy and age of the Karoo basalts of           environmental consequences. In: HAMES, W., MCHONE,
+   Lesotho and implications for correlations within the         J.G., RENNE, P.C. & RUPPEL, C. (eds) The Central Atlan-
+   Karoo igneous province. In: MAHONEY, J.J. & COFFIN,          tic Magmatic Province: Insights from Fragments of
+   M.F. (eds) Large Igneous Provinces: Continental, Oce-        Pangea. American Geophysical Union, Geophysical
+   anic, and Planetary Flood Volcanism. American Geo-           Monograph Series, 136, 241–254.
+   physical Union, Geophysical Monograph Series, 100,        MEDLICOTT, H.B. & BLANFORD, W.T. 1879. Manual of
+   247–272.                                                     the Geology of India Pt. 1. Geological Survey Ofﬁce,
+MARSH, J.S., EWART, A., MILNER, S.C., DUNCAN, A.R. &            Calcutta.
+   MILLER, R.McG. 2001. The Etendeka Igneous Province:       MERLE, R., MARZOLI, A. ET AL. 2011. 40Ar/39Ar ages and Sr–
+   magma types and their stratigraphic distribution with        Nd–Pb–Os geochemistry of CAMP tholeiites from
+   implications for the evolution of the Paraná–Etendeka        Western Maranhão basin (NE Brazil). Lithos, 122,
+   ﬂood basalt province. Bulletin of Volcanology, 62,           137–151.
+   464–486.                                                  MERLE, R., MARZOLI, A. ET AL. 2014. Sr, Nd, Pb and Os
+MARSHALL, P.E., WIDDOWSON, M. & MURPHY, D.T. 2016.              isotope systematics of CAMP tholeiites from Eastern
+   The Giant Lavas of Kalkarindji: rubbly pāhoehoe lava        North America (ENA): evidence of a subduction-
+   in an ancient continental ﬂood basalt province. Palaeo-      enriched mantle source. Journal of Petrology, 55,
+   geography, Palaeoclimatology, Palaeoecology, 441,            133–180.
+   22–37.                                                    MILANI, E.J. & ZALÁN, P.V. 1999. An outline of the geology
+MARTINEZ, M., DECONINCK, J.F., PELLENARD, P., RIQUIER, L.,      and petroleum systems of the Paleozoic interior basins
+   COMPANY, M., REBOULET, S. & MOIROUD, M. 2015.                of South America. Episodes, 22, 199–205.
+   Astrochronology of the Valanginian–Hauterivian            MIZUSAKI, A.M.P., THOMAZ-FILHO, A., MILANI, E.J. & DE
+   stages (Early Cretaceous): chronological relationships       CÉSERO, P. 2002. Mesozoic and Cenozoic igneous
+   between the Paraná–Etendeka large igneous province           activity and its tectonic control in northeastern Brazil.
+   and the Weissert and the Faraoni events. Global and          Journal of South American Earth Sciences, 15,
+   Planetary Change, 131, 158–173.                              183–198.
+MARZOLI, A., MELLUSO, L. ET AL. 1999a. Geochronology and     MOUNTNEY, N., HOWELL, J., FLINT, S. & JERRAM, D. 1998.
+   petrology of Cretaceous basaltic magmatism in the            Aeolian and alluvial deposition within the Mesozoic
+   Kwanza basin (western Angola), and relationships             Etjo Sandstone Formation, northwest Namibia. Journal
+   with the Parana–Etendeka continental ﬂood basalt             of African Earth Sciences, 27, 175–192.
+   province. Journal of Geodynamics, 28, 341–356.            MUIRHEAD, J.D., AIROLDI, G., WHITE, J.D.L. & ROWLAND,
+MARZOLI, A., RENNE, P.R., PICCIRILLO, E.M., ERNESTO, M.,        J.V. 2014. Cracking the lid: sill-fed dikes are the likely
+   BELLIENI, G. & DE MIN, A. 1999b. Extensive 200-              feeders of ﬂood basalt eruptions. Earth and Planetary
+   million-year-old continental ﬂood basalts of the             Science Letters, 406, 187–197.
+   Central Atlantic Magmatic Province. Science, 284,         NEUMANN, E.-R., SVENSEN, H., GALERNE, C.Y. & PLANKE, S.
+   616–618.                                                     2011. Multistage evolution of dolerites in the Karoo
+MARZOLI, A., BERTRAND, H. ET AL. 2004. Synchrony of the         Large Igneous Province, Central South Africa. Journal
+   Central Atlantic magmatic province and the Triassic–         of Petrology, 52, 959–984.
+    Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+                                    GONDWANA LARGE IGNEOUS PROVINCES                                                     39
+
+NOMADE, S., THÉVENIAUT, H., CHEN, Y., POUCLET, A. & RIG-        SCHOENE, B., CROWLEY, J.L., CONDON, D.J., SCHMITZ, M.D.
+   OLLET, C. 2000. Paleomagnetic study of French Guyana            & BOWRING, S.A. 2006. Reassessing the uranium
+   Early Jurassic dolerites: hypothesis of a multistage            decay constants for geochronology using ID-TIMS
+   magmatic event. Earth and Planetary Science Letters,            U–Pb data. Geochimica et Cosmochimica Acta, 70,
+   184, 155–168.                                                   426–445.
+NOMADE, S., KNIGHT, K.B. ET AL. 2007. Chronology of the         SCHOENE, B., GUEX, J., BARTOLINI, A., SCHALTEGGER, U. &
+   Central Atlantic Magmatic Province: implications for            BLACKBURN, T.J. 2010. Correlating the end- Triassic
+   the Central Atlantic rifting processes and the Triassic–        mass extinction and ﬂood basalt volcanism at the
+   Jurassic biotic crisis. Palaeogeography, Palaeoclima-           100 ka level. Geology, 38, 387, https://doi.org/10.
+   tology, Palaeoecology, 244, 326–344.                            1130/G30683.1
+PÁLFY, J., SMITH, P.L. & MORTENSEN, J.K. 2000. A U–Pb           SEBAI, A., FERAUD, G., BERTRAND, H. & HANES, J. 1991.
+   and 40Ar/39Ar time scale for the Jurassic. Canadian             40
+                                                                      Ar–39Ar dating and geochemistry of tholeiitic maga-
+   Journal of Earth Sciences, 37, 923–944.                         matism related to the early opening of the Central
+PARISIO, L., JOURDAN, F. ET AL. 2016. 40Ar/39Ar ages of alka-      Atlantic rift. Earth and Planetary Science Letters,
+   line and tholeiitic rocks from the northern Deccan              194, 455–472.
+   Traps: implications for magmatic processes and the           SELF, S., WIDDOWSON, M., THORDARSON, T. & JAY, A.E.
+   K–Pg boundary. Journal of the Geological Society,               2006. Volatile ﬂuxes during ﬂood basalt eruptions
+   London, 173, 679–688, https://doi.org/10.1144/jgs               and potential effects on the global environment: a Dec-
+   2015-133                                                        can perspective. Earth and Planetary Science Letters,
+PEATE, D.W. 1997. The Parana-Etendeka Province. In:                248, 518–532.
+   MAHONEY, J.J. & COFFIN, M.F. (eds) Large Igneous             SELL, B., OVTCHAROVA, M. ET AL. 2014. Evaluating the tem-
+   Provinces. American Geophysical Union, Washington,              poral link between the Karoo LIP and climatic–biologic
+   DC, 217–245.                                                    events of the Toarcian Stage with high-precision U–Pb
+PEATE, D.W. & HAWKESWORTH, C.J. 1996. Lithospheric to              geochronology. Earth and Planetary Science Letters,
+   asthenospheric transition in Low-Ti ﬂood basalts from           408, 48–56.
+   southern Paranà & Brazil. Chemical Geology, 127,             SOBOLEV, S.V., SOBOLEV, A.V. ET AL. 2011. Linking mantle
+   1–24.                                                           plumes, large igneous provinces and environmental
+PETRY, K., JERRAM, D.A., DEL PILAR, M.D. & ZERFASS, H.             catastrophes. Nature, 477, 312–316.
+   2007. Volcanic–sedimentary features in the Serra             STOREY, B.C., VAUGHAN, A.P.M. & RILEY, T.R. 2013. The
+   Geral Fm., Paraná Basin, southern Brazil: examples              links between large igneous provinces, continental
+   of dynamic lava–sediment interactions in an arid                break-up and environmental change: evidence reviewed
+   setting. Journal of Volcanology and Geothermal                  from Antarctica. Earth and Environmental Science,
+   Research, 159, 313–325.                                         Transactions of the Royal Society of Edinburgh, 104,
+POLTEAU, S., FERRÉ, E., PLANKE, S., NEUMANN, E.-R. &               17–30.
+   CHEVALLIER, L. 2008. How are saucer-shaped sills             SUAN, G., PITTET, B., BOUR, I., MATTOILI, E., DUARTE, L.V. &
+   emplaced? Constraints from the Golden Valley Sill,              MAILLIOT, S. 2008. Duration of the Early Toarcian car-
+   South Africa. Journal of Geophysical Research, 113,             bon isotope excursion deduced from spectral analysis:
+   B12104, https://doi.org/10.1029/2008JB005620                    consequence for its possible causes. Earth and Plane-
+PORTO, A. & PEREIRA, E. 2014. Seismic interpretation of            tary Science Letters, 267, 666–679, https://doi.org/
+   igneous intrusions and their implications for an uncon-         10.1016/j.epsl.2007.12.017
+   ventional petroleum system in southeastern Parnaiba          SVENSEN, H., PLANKE, S. & MALTHE-SØRENSSEN, A. 2004.
+   Basin, northeastern Brazil. Abstract V51B presented             Release of methane from a volcanic basin as a mecha-
+   at American Geophysical Union Fall Meeting 2014,                nism for initial Eocene global warming. Nature,
+   15–19 December 2014, San Francisco, CA, USA.                    429, 3–6.
+PUFFER, J.H., BLOCK, K.A. & STEINER, J.C. 2009. Transmis-       SVENSEN, H., JAMTVEIT, B., PLANKE, S. & CHEVALLIER, L.
+   sion of ﬂood basalts through a shallow crustal sill and         2006. Structure and evolution of hydrothermal vent
+   the correlation of sill layers with extrusive ﬂows: the         complexes in the Karoo Basin, South Africa. Journal
+   Palisades intrusive system and the basalts of the New-          of the Geological Society, London, 163, 671–682,
+   ark Basin, New Jersey, U. S. A. Journal of Geology,             https://doi.org/10.1144/1144-764905-037
+   117, 139–155.                                                SVENSEN, H., PLANKE, S., CHEVALLIER, L., MALTHE-
+RENNE, P.R., GLEN, J.M., MILNER, S.C. & DUNCAN, A.R. 1996.         SØRENSSEN, A., CORFU, B. & JAMTVEIT, B. 2007. Hydro-
+   Age of Etendeka ﬂood volcanism and associated intru-            thermal venting of greenhouse gases triggering Early
+   sions in southwestern Africa. Geology, 24, 659–662.             Jurassic global warming. Earth and Planetary Science
+RENNE, P.R., MUNDIL, R., BALCO, G., MIN, K. & LUDWIG, K.           Letters, 256, 554–566.
+   R. 2010. Joint determination of 40K decay constants and      SVENSEN, H., PLANKE, S., POLOZOV, A.G., SCHMIDBAUER, N.,
+   40
+      Ar*/40K for the Fish Canyon sanidine standard, and           CORFU, F., PODLADCHIKOV, Y.Y. & JAMTVEIT, B. 2009.
+   improved accuracy for 40Ar/39Ar geochronology. Geo-             Siberian gas venting and the end-Permian environmen-
+   chimica et Cosmochimica Acta, 74, 5349–5367.                    tal crisis. Earth and Planetary Science Letters, 277,
+ROBOCK, A. 2005. Cooling following large volcanic erup-            490–500.
+   tions corrected for the effect of diffuse radiation on       SVENSEN, H., CORFU, F., POLTEAU, S., HAMMER, Ø. &
+   tree rings. Geophysical Research Letters, 32, L06702.           PLANKE, S. 2012. Rapid magma emplacement in the
+ROYER, D.L. 2006. CO2-forced climate thresholds during             Karoo Large Igneous Province. Earth and Planetary
+   the Phanerozoic. Geochimica et Cosmochimica Acta,               Science Letters, 325–326, 1–9. https://doi.org/10.
+   70, 5665–5675.                                                  1016/j.epsl.2012.01.015
+       Downloaded from http://sp.lyellcollection.org/ by guest on April 24, 2020
+
+40                                           H. H. SVENSEN ET AL.
+
+SVENSEN, H.H., HAMMER, Ø. & CORFU, F. 2015a. Astronom-        genesis of Permo-Triassic Trap magmatism on the Sibe-
+   ically forced cyclicity in the Upper Ordovician and        rian Platform. Russian Geology and Geophysics, 41,
+   U–Pb ages of interlayered tephra, Oslo Region, Nor-        1696–1705.
+   way. Palaeogeography, Palaeoclimatology, Palaeoe-       VERATI, C., BERTRAND, H. & FÉRAUD, G. 2005. The farthest
+   cology, 418, 150–159.                                      record of the Central Atlantic Magmatic Province into
+SVENSEN, H.H., PLANKE, S. ET AL. 2015b. Sub-volcanic          West Africa craton: precise 40Ar/39Ar dating and geo-
+   intrusions and the link to global climatic and envi-       chemistry of Taoudenni basin intrusives (northern
+   ronmental changes. In: BREITKREUZ, C. & ROCCHI, S.         Mali). Earth and Planetary Science Letters, 235,
+   (eds) Physical Geology of Shallow Magmatic Systems.        391–407.
+   ISBN: 978-3-319-14083-4. Springer International         VISSCHER, H., LOOY, C.V., COLLINSON, M.E., BRINKHUIS, H.,
+   Publishing.                                                CITTERT, J.H.A.V.K.V., KURSCHNER, W.M. & SEPHTON,
+SVENSEN, H., POLTEAU, S., CAWTHORN, G. & PLANKE, S.           M.A. 2004. Environmental mutagenesis during the end-
+   2015c. Sub-volcanic intrusions in the Karoo Basin,         Permian ecological crisis. Proceedings of the National
+   South Africa. In: BREITKREUZ, C. & ROCCHI, S. (eds)        Academy of Sciences of the United States of America,
+   Physical Geology of Shallow Magmatic Systems.              101, 12 952–12 956.
+   ISBN: 978-3-319-14083-4. Springer International         WAICHEL, B.L., SCHERER, C.M.S. & FRANK, H.T. 2008.
+   Publishing.                                                Basaltic lavas covering active Aeolian dunes in the
+TANKARD, A., WELSINK, H., AUKES, P., NEWTON, R. & STET-       Paraná Basin in Southern Brazil: features and emplace-
+   TLER, E. 2009. Tectonic evolution of the Cape and          ment aspects. Journal of Volcanology and Geothermal
+   Karoo basins of South Africa. Marine and Petroleum         Research, 169, 59–72.
+   Geology, 26, 1379–1412.                                 WAICHEL, B.L., DE LIMA, E.F., VIANA, A.R., SCHERER, C.M.,
+THIEDE, D.S. & VASCONCELOS, P.M. 2010. Parana ﬂood            BUENO, G.V. & DUTRA, G. 2012. Stratigraphy and
+   basalts: rapid extrusion hypothesis conﬁrmed by new        volcanic facies architecture of the Torres Syncline,
+   40
+      Ar/39Ar results. Geology, 38, 747–750.                  Southern Brazil, and its role in understanding the
+TORSVIK, T.H. & COCKS, L.R.M. 2013. GR focus review:          Paraná–Etendeka Continental Flood Basalt Province.
+   Gondwana from top to base in space and time. Gond-         Journal of Volcanology and Geothermal Research,
+   wana Research, 24, 999–1030.                               215–216, 74–82.
+TORSVIK, T.H. & SMETHURST, M.A. 1999. Plate tectonic       WANDERLEY FILHO, J.R., TRAVASSOS, W.A.S. & ALVES, D.B.
+   modeling: virtual reality with GMAP. Computer &            2006. O diabásio nas bacias paleozóicas amazônicas-
+   Geosciences, 25, 395–402.                                  herói ou vilão. [The diabase in the Amazonian Paleo-
+TORSVIK, T.H., VAN DER VOO, R. ET AL. 2012. Phanerozoic       zoic basins: hero or villain?]. Boletim de Geociências
+   polar wander, paleogeography and dynamics. Earth-          da Petrobrás, 14, 177–184.
+   Science Reviews, 114, 325–368.                          WHITE, J.D.L., BRYAN, S.E., ROSS, P.-S., SELF, S. & THOR-
+TORSVIK, T.H., VAN DER VOO, R. ET AL. 2014. Deep mantle       DARSON, T. 2009. Physical volcanology of continental
+   structure as a reference frame for movements in and        large igneous provinces: update and review. In: THOR-
+   on the Earth. Proceedings of the National Academy of       DARSON, T., SELF, S., LARSEN, G., ROWLAND, S.K. & HÖS-
+   Sciences of the United States of America, 111,             KULDSSON, A. (eds) Studies in Volcanology: The Legacy
+   8735–8740.                                                 of George Walker. IAVCEI, Special Publications, 2,
+TORSVIK, T.H., STEINBERGER, B., ASHWAL, L.D., DOUBRO-         291–321.
+   VINE, P.V. & TRØNNES, R.C. 2016. Earth evolution and    WOODRUFF, L.G., FROELICH, A.J., BELKIN, H.E. & GOTT-
+   dynamics – a tribute to Kevin Burke. Canadian Journal      FRIED, D. 1995. Evolution of tholeiitic diabase sheet
+   of Earth Sciences Special Issue, 53, 1073–1087,            systems in the eastern United States: examples from
+   https://doi.org/10.1139/cjes-2015-0228                     the Culpeper Basin, Virginia–Maryland, and the Get-
+VASILIEV, Y.R., ZOLOTUKHIN, V.V., FEOKTISTOV, G.D. &          tysburg Basin, Pennsylvania. Journal of Volcanology
+   PRUSSKAYA, S.N. 2000. Evaluation of the volume and         and Geothermal Research, 64, 143–169.
+

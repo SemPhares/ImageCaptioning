@@ -1,0 +1,649 @@
+                                   TECTONICS, VOL. 23, TC2014, doi:10.1029/2002TC001437, 2004
+
+
+
+
+Strain localization in the Sea of Marmara: Propagation
+of the North Anatolian Fault in a now inactive pull-apart
+C. Rangin and X. Le Pichon
+CNRS, Géodynamique du Collège de France, Aix en Provence, France
+
+
+E. Demirbag and C. Imren
+Department of Geophysics, Faculty of Mines, Istanbul Technical University, Maslak-Istanbul, Turkey
+Received 9 July 2002; revised 30 October 2003; accepted 20 November 2003; published 13 April 2004.
+[1] The Sea of Marmara is presently the site of                            Anatolian Fault in a now inactive pull-apart, Tectonics, 23,
+pure dextral strike-slip faulting that connects the Izmit                  TC2014, doi:10.1029/2002TC001437.
+Fault in the east to the Ganos Fault in the west along a
+linear strike-slip fault that is part of the northwestern
+branch of the North Anatolian Fault. This active Main                      1. Introduction
+Marmara Fault (MMF) cuts across a succession of
+depocenters and highs. Analysis of a large data set                           [2] The Sea of Marmara is located at the western termi-
+                                                                           nation of the North Anatolian Fault (Figure 1). The pull-apart
+that includes multichannel seismic lines, sparker and                      basin setting of the Sea of Marmara has been proposed on the
+deep towed high definition seismics, shows that most                       basis of the presence of a large array of normal faults that are
+of the N120E trending normal faults framing these                         still considered to be active (Figure 2a). These faults delin-
+depocenters are now inactive as they are sealed by                         eate distinct depocenters separated by bathymetric highs
+an average thickness of 300 m of sediments. The                            [Barka, 1997; Gorur et al., 1997; Armijo et al., 1999,
+highs correspond to a series of NE-SW trending                             2002; Parke et al., 1999, 2002; Okay et al., 1999, 2000].
+anticlines and reverse faults blanketed by a thin cover                       [3] Le Pichon et al. [1999, 2001, 2003], and Imren et al.
+of undeformed sediments. We interpret these                                [2001] presented a different interpretation (Figure 2b). They
+structures as inverted former transfer faults of the                       demonstrated the presence in the Sea of Marmara of a linear
+now inactive Sea of Marmara pull-apart system.                             and continuous EW dextral strike-slip fault that they call the
+Depocenters and highs are the relicts of a former                          Main Marmara Fault (MMF). It connects the Izmit fault in
+                                                                           the east with the Ganos fault in the west along the northern
+pull-apart basins and transfer faults system that                          branch of the North Anatolian fault.
+accommodated the North Anatolian Fault motion                                 [4] The main still active normal faults identified in the
+within the Sea of Marmara prior to the formation of                        Sea of Marmara are located along the southern flank of the
+the MMF. We propose that a relatively short (a few                         Cinarcik basin (Figure 3). They are positioned as horsetail
+hundreds of thousands of years) period of basin                            structures at the western termination of the Izmit fault
+inversion accompanied the localization of strain                           [Demirbag et al., 2003] and have been interpreted as due
+along the present Main Marmara Fault, until it was                         to partitioning of the motion within the Cinarcik Basin [Le
+fully formed, 200 ± 100 Kyr ago. The preexisting                           Pichon et al., 2001]: the normal faults would absorb most of
+pull-apart basin system accounts for about 30 km of                        the normal component of the motion while the main fault
+motion along this fault system and thus probably                           along the northern margin of the basin would absorb most
+appeared sometime in late Pliocene or early                                of the strike-slip component (Figure 2b). Other minor
+                                                                           N140 trending active faults with a normal component were
+Pleistocene as a reactivated portion of the old                            mapped within the core of the Central Basin (Figure 3) and
+Thrace basin. During the Plio-Quaternary the Sea of                        were related to a large clockwise rotating flower on top of
+Marmara has been the site of progressive localization                      the MMF. In this interpretation, they are anti-Riedel shear
+of strain.    INDEX TERMS: 8107 Tectonophysics: Continental                faults [Le Pichon et al., 2001]. Demirbag et al. [2003]
+neotectonics; 8010 Structural Geology: Fractures and faults; 8122          showed with the help of high definition seismic records
+Tectonophysics: Dynamics, gravity and tectonics; 8109                      acquired with a deep towed streamer (Pasisar) that the faults
+Tectonophysics: Continental tectonics—extensional (0905);                  interpreted by Le Pichon et al. [2001] as anti-Riedel faults
+KEYWORDS: Sea of Marmara, tectonics, geodynamics, strain                   are associated not only with normal offsets but also with
+localization, strike-slip fault, basin inversion. Citation: Rangin,        reverse ones. They showed further the presence of folds
+C., X. Le Pichon, E. Demirbag, and C. Imren (2004), Strain                 parallel to these faults. This evidence led them to reject the
+localization in the Sea of Marmara: Propagation of the North               normal fault interpretation and to support instead the flower
+                                                                           interpretation.
+Copyright 2004 by the American Geophysical Union.                             [5] Considering the 4 ± 1 km right-lateral offset observed
+0278-7407/04/2002TC001437$12.00                                            along the MMF [Le Pichon et al., 2001] and its present
+
+                                                                   TC2014                                                          1 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                    TC2014
+
+
+
+
+                Figure 1. The North Anatolian Fault (NAF) and its termination in the Sea of Marmara.
+
+
+instantaneous velocity of 23– 25 mm/yr [Meade et al., 2002;     period of inversion and the following initiation of motion on
+Le Pichon et al., 2003], the pure strike-slip system of the     the MMF on the basis of estimated sedimentation rates.
+MMF became fully active 200 ± 100 Kyr ago. Prior to that          [6] Parke et al. [1999, 2002] interpreted multi-channel
+time, we propose in this paper that there was a period during   seismic lines collected by MTA in 1997 and proposed that
+which transtension (pull-apart), then transpression inverting   most of the normal faults are still active in the Sea of
+these depocenters delineated a 20 to 30 km wide distributed     Marmara where they generate a wide zone of extension
+shear zone in the Sea of Marmara. During the evolution of       (Figure 2a). We have combined the 1997 MTA seismic lines
+this shear zone, former transfer faults bounding the distinct   with a more recent 1999 data set in order to examine the
+depocenters were inverted just before and (or) while the        normal faulting evidence. We also used the dense array of
+newly forming MMF propagated within the basin within a          sparker and pasisar single channel seismic data collected
+rotating shortening zone that preceded its tip to the north-    during the R/V Suroit Marmara cruise [Le Pichon et al.,
+west. Using seismic profiles, we demonstrate the waning of      2001; Rangin et al., 2001]. The fault traces observed on
+the extensional activity along the NE and SW margins of the     these profiles were plotted on the high-resolution bathymet-
+pull-apart Sea of Marmara system as the inversion became        ric map obtained during the same cruise (Figure 3). The
+active. We also make an attempt at independently dating this    combination of the bathymetry with the seismic data allows
+
+                                                           2 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                    TC2014
+
+
+
+
+         Figure 2. Some previous models of the Marmara Sea: (a) Pull-apart basins [Armijo et al., 1999, 2002;
+         Parke et al., 2002] and (b) the truncating single Main Marmara Fault [Le Pichon et al., 2001]. Structures
+         in the Gulf of Saros are from Yaltirak and Alpar [2002], and buried structures of the Thrace basin are
+         from Perincek [1991]. Red arrows indicate sense of motion in both models.
+
+                                                          3 of 18
+                                                                                                                                        TC2014
+
+
+
+
+4 of 18
+          Figure 3. Structural map of the Marmara Sea based on le Suroit cruise observations (bathymetry, reflectivity, side scan
+                                                                                                                                        RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA
+
+
+
+
+          sonar and sparker pasisar seismics [Le Pichon et al., 2001; Rangin et al., 2001; Demirbag et al., 2003] combined with
+          MTA multichannel data (1997 and 1999 MCS cruises). Tracks of seismic lines discussed in text are shown only. Active
+          structures are in gray [Le Pichon et al., 2001] and the inactive normal faults are shown in dotted black lines. C in circle
+          indicates the location of collapse structures (growth faults discussed in text).
+                                                                                                                                        TC2014
+TC2014                     RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                       TC2014
+
+us to define the azimuths of the main structures with a fair
+confidence level. The resulting structural map is presented in
+Figure 3. This map shows the N120E trending normal faults
+framing the depocenters and the Central and Western highs
+that can be interpreted as the transfer faults of the pull-apart
+basin system. The map shows also the active Main Marmara
+Fault (MMF: in gray in Figure 3), which transects the pull-
+apart basin geometry. The selected seismic profiles shown in
+this paper are also located. Combining the multi-channel
+seismic lines, that have a penetration of 3 to 4 s and a poor
+definition in the uppermost 0.5 s, with the sparker-pasisar
+lines, that have a shallow penetration but high definition,
+allows us to discuss the relative age of the various faults
+plotted on the map. We first describe the normal faults that
+frame the main depocenters. We then discuss the internal
+structure of the highs that separate these sub-basins.
+
+
+2. Inactivated Pull-Apart System in the Sea
+of Marmara
+   [7] The MMF and the structures related to it dominate the
+structural pattern of the 120 elongated Cinarcik basin. The
+MMF follows the northern boundary of the basin (Figures 3
+and 4). It enters the Cinarcik basin from the west along an
+E-W course that cuts across the foot of the margin. Then
+after an abrupt 30 bend, the MMF follows the base of the
+steep N120E North Cinarcik Basin Scarp (NCBS). The
+MMF bend is accommodated by thrusting and folding that
+affects the core of the western Cinarcik depocenter [Le
+Pichon et al., 2001]. The strike-slip motion is then trans-        Figure 4. A 3-D view of the Sea of Marmara. The trace of
+ferred to the active E-W Izmit Fault in the east. The western      the MMF is shown.
+termination of the Izmit fault does not appear to be directly
+connected with the eastern termination of the MMF but is           offset of the basement along the northern margin is 3 to
+situated about 4 km south of it.                                   4 km and fanning associated with normal faulting is quite
+   [8] The Izmit Fault ends to the west against a large            clear in the lower seismic sequence. The 1s thick upper-
+horsetail shaped array of northeast facing normal faults that      most seismic sequence shows a strong decrease of fanning
+form the south flank of the Cinarcik basin (Figure 3). Some        and pinches out upslope at the foot of the North Cinarcik
+wrenching may exist further west along the southern basin          Basin slope (NCBS). The starved or locally moderate
+slope. A large dissymmetry exists between the northeast and        northward fanning of the sediments at the base of the
+southwest flanks of this basin as shown in the bathymetry          northern Cinarcik slope is found on the other profiles
+and seismic profiles (Figures 3 and 5a), the northern margin       between 29140 and 29540 long E (M30, M97-30, M97
+being much steeper than the southern one.                          16B, M 97-29). But it is not present west of 29540
+   [9] The Cinarcik northern topographic slope has a com-          beyond the abrupt 30 bend of the MMF (see Figure 3).
+plex geometry described by Le Pichon et al. [2001] and             The uppermost sediments (0.3 s) at the foot of the slope
+Demirbag et al. [2003]. Its slope averages 13 as its width        onlap the footwall. A vertical fault bounds southward this
+does not exceed 5 km from the shelf slope break (100 m             onlapping sequence at some distance of the footwall and
+depth) to the deepest part of basin floor. The main N120 E        marks the trace of the MMF strike-slip fault.
+slope consists in a succession of en echelon 150 scarps             [11] Sparkers profiles give a more detailed image of this
+sometime connected by 80 lineaments. At the foot of the           recent deformation along the NCBS. Sparker profile S30
+slope, within the sedimentary fill, the 120 active dextral        (see Figure 5b) crosses the eastern termination of the NCBS.
+zone actually consists in en echelon fresh 120 to 135            The whole sedimentary column is sharply sagging at 400 m
+scarps that are particularly well documented on the side           of the base of the slope. The sediments at the base of
+scan sonar (SAR) imagery and the backscattering imagery            the hanging wall are pinching out upslope as on profile
+extracted from the bathymetry [see Le Pichon et al., 2001].        M97-17, and are cut there by steep reverse faults. A half
+They may be guided by the structure of the slope and limit         flower structure appears to be active here. The axis of the
+what appears to be minor narrow pull-apart basins lining the       active sagging is sitting just above a vertical fault observable
+base of the slope.                                                 on sparker profile 29. Analysis of the seismic sequences at
+   [10] On multi-channel seismic lines (see profile MTA            the base of the NCBS (sparker profile 31, Figure 5b) reveals
+97-17, Figure 5a) with a 3s penetration the total vertical         cumulative flexure with depth, but minor fanning is only
+
+                                                              5 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                      TC2014
+
+
+
+
+         Figure 5. Selected seismic profiles along the northern slope of the Cinarcik Basin (see location in
+         Figure 3). (a) Selected MTA seismic lines: M 99-17; the northern scarp is sealed by onlapping sediment
+         on the footwall, while the southern scarp is formed by growth faults and related toe thrusts in the central
+         part of the basin. (b) Selected sparker profiles 29, 30 and 31. See discussion in text.
+
+
+present in the 100 ms thick lower sequence. Moderate            faulting component that created the NCBS has now essen-
+fanning is observable in the thin middle sequence, but is       tially disappeared: the main motion is the strike-slip one.
+absent in the uppermost sequence 3 which on laps southward      This is supported by strike-slip focal mechanisms observed
+sequence 2. Analysis of profiles shown in Figures 5a and 5b,    along the NCBS by Ozalaybey et al. [2002a, 2002b],
+suggests that sedimentation in the uppermost 300 ms of the      Karabulut et al. [2002] and Taymaz et al. [2002].
+sedimentary column is controlled by local sagging at the base      [12] The Cinarcik southern slope consists in two main
+of NCBS rather than by normal faulting and that the normal      fault-controlled steps (Figures 3 and 6a) that can be used as
+
+                                                           6 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                   TC2014
+
+
+
+
+         Figure 6. Selected seismic profiles long the southern slope of the Cinarcik Basin: (a) M97-33. Inactive
+         normal faults along the upper slope break are sealed by thin sediment cover, while the lower slope break
+         is affected by growth faults. Note the asymmetry of the depocenter. (b) Same growth faults along the
+         lower slope break. Extract from line M 99 6B, (non interpreted slope break in insert). (c) Growth faults
+         along the upper slope break west of Imrali Island.
+
+boundaries for two successive terraces located between the    southernmost fault in Figure 6a). This uppermost fault scarp
+deepest part of the basin (1200 m deep) and the basin         separates the Imrali shelf from the mid-slope terraces
+southern shelf (less than 100 m depth). These faults appear   (Figure 3). Here a single northeast facing normal fault can
+to be inactive as a thin cover of sediments seals them (see   be traced over a length of 40 km north of Imrali Island with
+
+                                                         7 of 18
+TC2014                      RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                       TC2014
+
+a rectilinear northwest trend. West of 28200E this scarp is         faults (Figure 7b) at the axis of the basin as proposed by Le
+offset to the southwest by the transverse structures of the          Pichon et al. [2001], and Demirbag et al. [2003].
+Central High over about 40 km. It then joins a 40 km E-W               [17] In the Tekirdag Basin, we were unable to identify
+scarp that forms the break of the shelf north of the island of       clear NW trending normal faults. MTA lines 97-02
+Marmara (Figure 3).                                                  (Figure 8a) and M 97 05 (Figure 8b) crosscut this basin
+   [13] The normal faults delineating the upper slope break          with two distinct azimuths (Figure 3). Along line M97-02
+(see profile 97 33, Figure 6a) are associated with fanning of        the basin is filled by 2 s of sediment onlapping both the NE
+the footwall sediments between sub-sea-floor depths of 0.6           and SW flanks. The basin is tilted in response to the active
+and 3.5 s. This fanning indicates that the normal faults were        thrusting present along a restraining bend of the Ganos Fault
+active during the deposition of the lower part of this               at the western termination of the Tekirdag basin (Figure 3).
+sequence of sediments, below a sub-seafloor depth of                 The NS trending M 97-05 seismic line shows the same
+0.6 s. But the faults are now inactive as they are blanketed         thickness of sediment onlapping the flank of this basin. A
+by a 0.3 to 0.6 s thickness of upslope onlapping sediments           minor branch of the MMF is slightly disturbing the depo-
+(see profile 97-33, shot point 6477 in Figure 6a). The flat          center [see Le Pichon et al., 2001]. The possible normal
+Marmara shelf lies southeast of this main fault scarp and            faults identified on these profiles are sealed by a much
+was demonstrated to be an erosive surface [Parke et al.,             greater thickness of sediment than within the Cinarcik basin.
+1999, 2002]. This erosive surface that cuts the northeast            In addition, the 2 s post-rift filling shows a southward tilt
+facing normal faults is covered by a thin veneer of sedi-            contemporaneous with the activity of the easternmost
+ments, indicating that the normal faults below the surface           branch of the Main Marmara Fault that appears to have
+are inactive. The same observation can be made for the shelf         been initiated there much earlier than to the east. We will
+break faults.                                                        discuss these observations later.
+   [14] Large growth faults are present along some segments
+of the upper and lower slope breaks and can be easily
+confused with active normal faulting related to active               3. Inverted Transfer Zones in the Sea
+extension in the crust. Such collapse structures are mainly
+observed along the lower slope break on lines M 99-16B
+                                                                     of Marmara
+(Figure 6b), M97-33 (sp 3213 – 4437, Figure 6a) and M 99-              [18] The depocenters forming the Sea of Marmara are
+17 (Figure 5a). These growth faults affect also the upper            bounded by N60 – 70E highs: the Central High, to the east
+slope break close to Imrali Island (see line 97-20, Figure 6c).      and the Western High, to the west. These highs are located
+These listric faults root and flatten in the uppermost kilo-         along former transfer faults connecting the now inactive
+meter of sediment indicating massive gravity collapse. This          pull-apart basins. The eastern margin of the Armutlu Pen-
+kind of massive gravity collapse mobilizes a huge volume             insula fringing the Cinarcik basin in the east has the same
+of unstable sediments sitting on the shelf slope break               trend and can also be interpreted as a transfer zone. On the
+[Shelton, 1984; Roberts and Yelding, 1994] and may have              other hand, the Ganos high bounding the Tekirdag basin in
+been the source in the past of major tsunamis in the Sea of          the west has a somewhat steeper 45 to 50 trend that is
+Marmara. Growth faults are common in non-tectonic delta              associated with active uplift and shortening [Armijo et al.,
+environment and should not be used as a constraint for               1999; Le Pichon et al., 2001].
+tectonic activity. We thus interpret the westernmost part of           [19] The Central High (Figures 3 and 9) separates the
+the southern slope of the Cinarcik basin as a series of              Cinarcik Basin in the east from the Central Basin in the
+tectonically inactive NE facing normal faults affected by            west. A N65E trending depression, the Kumburgaz basin is
+superficial growth faults. When these gravity structures are         located in the central part of this large positive area. Two
+not present, an average thickness of 300 m of sediment               main ridges or anticlines line this small basin. In the
+blankets the scarp.                                                  southeast, the eastern ridge is a large monocline tilted
+   [15] In summary, there is a strong asymmetry between the          towards the southeast with its steep flank facing west. Its
+steep northern margin and the gentle southern margin                 southern flank is characterized by numerous large-scale
+affected by growth faults. The 35 km wide southern margin            depositional sedimentary ripples parallel to the slope giving
+of large now inactive tilted blocks contrasts with the narrow        to the fine-scale bathymetry a characteristic roughness. A
+(less than 5 km wide) northern margin of the Cinarcik basin          large submarine canyon meanders along the eastern flank of
+that is fringed by an active strike-slip fault system at its base.   the high close to Imrali Island (Figures 3 and 9). The
+   [16] The Central Basin structure is controlled by north-          Kumburgaz basin might be interpreted as a syncline at the
+west trending normal faults (see profile DMS 004, Figure 7a)         interface of the two major anticlines forming the western
+sealed by a thickness of 200 to 300 ms of sediment. The              and eastern ridges. Actually the structure of this small basin
+faults located in the central part of the basin are the only ones    is more complex as it is partly controlled by the develop-
+to be now active (see for instance sparker profile S52,              ment of a restraining bend of the MMF (see below and
+Figure 7b). This active system, as discussed in the introduc-        Imren et al. [2001], Le Pichon et al. [2001], and Demirbag
+tion, corresponds to a clockwise rotating flower along the           et al. [2003]).
+path of the MMF. The Central Basin filled by over 1.5 s of             [20] Several multichannel seismic profiles (Figure 10) cut
+sediments was recently reactivated as a rotating basin along         across this Central High (lines M10 to M13) and enable us
+the MMF inducing the formation of normal and reverse                 to map a large NE trending anticline along the apex of the
+
+
+                                                               8 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                      TC2014
+
+
+
+
+         Figure 7. MTA and sparker seismic lines across the Central Basin (see location in Figure 3): (a) MTA
+         line M 97-04, shows deformation is localized in the central part of the depocenter. Only faults shown by
+         arrows are active, others are sealed few hundreds of ms of sediments. Sedimentary reflectors are pinching
+         out towards the margin of the basin and do not show buried normal faulting as in the Cinarcik basin.
+         (b) Sparker lines show more detail of active normal faulting at the axis of the basin in the uppermost
+         second of sediments. Active normal faults are present at the axis of the basin only on line 53 (Figure 7b).
+
+southeastern ridge. This anticline is slightly asymmetric       can be traced far to the southwest along profiles M11 and
+toward the northwest and plunges axially towards the            M10 (Figures 10c and 10d) but the intensity of shortening
+southwest. Profile M13 (Figure 10a) shows that the syncline     decreases southward. On profile M10 the fold system is
+(Kumburgaz basin) is filled by 300 to 400 ms of a thick         truncated by the southern shelf eroded surface. Less than
+post-folding sequence onlapping the flanks of both anti-        40 m of Quaternary sediments deposited on this eroded
+clines. On profile M12 (Figure 10b) the same geometry can       surface have been drilled in well M1 (40.683N, 28.286E
+be observed, but the eastern flank of the eastern ridge is      [Ergun and Ozel, 1995]). The same observation can be
+complicated by the present activity of the MMF. The same        made to the south along the EW profile M97-10A (not
+post-folding sediments (here 150 to 200 ms thick) are           shown), indicating that inversion extended quite far to the
+observed in the inactive syncline, but these sediments are      south in the Sea of Marmara.
+affected by the MMF.                                              [22] We conclude that the Central High is formed by a
+  [21] The anticlines that affect this Central High are         series of large anticlines and synclines extending from the
+consistent in trend (N55E to N65E). The major anticline       Cinarcik Basin in the east to the Central Basin in the west.
+
+
+Figure 8. MTA lines across the Tekirdag basin. (a) Line M97-02 shows tilting of the whole basin filled by 2.5 s of
+sediments. (b) The Tekirdag basin is only affected by an EW strike slip fault, a northern branch of the MMF. Buried normal
+faults are suspected below 1 to 2 std of onlapping sediments. (On laps and down laps are shown by short arrows.). (b) NS
+97-05 MTA line across the Tekirdag basin. Same thickness of sediments onlapping the basin flanks (no buried normal faults
+visible). The strike-slip fault (named here Marmara Fault) bounding the spindle shape clockwise rotating part of the basin is
+present in the core of the depocenter (see discussion in text).
+
+                                                           9 of 18
+TC2014   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA   TC2014
+
+
+
+
+                                Figure 8.
+
+                                 10 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                    TC2014
+
+
+
+
+         Figure 9. Detailed 3-D shaded bathymetry (view from south) of the central part of the sea of Marmara
+         focusing on inverted transfer fault forming the anticline in the Central High and Kumburgraz syncline.
+         Position of MTA seismic lines crossing this high are shown: M13 (Figure 10a), M12 (Figure 10b), M11
+         (Figure 10c), M10 (Figure 10d).
+
+
+The conform morphology of these structures preserved in        structures are well expressed in the bathymetry north of the
+the bathymetry, indicates that the deformation is young but    MMF, we do not recognize similar ones south of this recent
+onlapping sediment on the flanks of the structures with an     dextral strike-slip fault zone as expected for a distributed
+average thickness of 250 ms, as well as truncation by an       shortening zone propagating in front of the tip of the MMF.
+eroded surface in the south, suggest that they are presently   The cumulated NS width of this shear zone does not
+inactive. The sedimentation rate is slower on these highs      exceed 20 km and the inversion magnitude decreases
+than on the neighboring depocenters (Cagatay, personal         southward.
+communication, 2002). Thus we can only conclude that             [24] The Tekirdag Basin is also bounded westward by a
+the Central High was formed by inversion, within a rotating    prominent N45 to N50E trending scarp. Active SE verging
+compressional zone that preceded the tip of the MMF, the       thrusting characterizes the southern half of the scarp [Le
+shortening being more important to the northwest and           Pichon et al., 2001] and produces the rapid uplift of the
+decreasing to the south as expected.                           margin but this thrusting vanishes north of 40520N as the
+  [23] The Western High separates the Central Basin in         northern boundary of the Central High shear zone. Conse-
+the east from the Tekirdag Basin in the west (Figures 3        quently the western margin of the Tekirdag basin does not
+and 11). It is formed by NW-SE trending folds and thrusts      appear to be an inverted transfer fault zone of the pull-apart
+truncated obliquely by the E-W MMF. North of this active       basin system.
+fault, a large pop-up structure has been imaged on the MTA       [25] The Armutlu Peninsula, located at the south-eastern
+seismic profiles and was interpreted as a wide E-W             boundary of the Cinarcik basin (Figure 3) is interpreted by
+distributed shear zone marked by en echelon folds and          us as a former transfer fault zone, inverted before the
+thrusts [Imren et al., 2001]. This high (Figure 11) was        onset of the MMF. The western tip of the Armutlu
+thrust over the adjacent basins along N60 – 65E trending      Peninsula is framed by a large NE trending anticline that
+reverse faults. Profile DMS-001 (Figure 10e) crossing this     culminates at 900m above sea level. At the northern tip of
+pop-up structure reveals that it is inactive because it is     this anticline we have observed N 50 trending relicts of
+topped by 0.2 s thick piggy-back basins. Whereas these         dextral strike-slip faults with clear dextral slickensides
+
+
+
+Figure 10. Seismic lines illustrating the structure of the Central and western Highs. MTA profiles M10, M11 M12 and
+M13 for central High and DMS-01 (Figure 10e) for the Western High. Note that the Kumburgaz syncline was filled by an
+unfolded onlapping sequence that was later cut by the active MMF. On profile M10 an erosion surface extending across the
+southern part of the Sea of Marmara truncates the folds. Line DMS 1 (Figure 10e) is across the Western High. Note that the
+thick dark level almost immediately below sea level is probably due to ghost reflections and/or tail of the reflected signal
+(see between cdp 867 –1989).
+
+                                                          11 of 18
+TC2014   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA   TC2014
+
+
+
+
+                               Figure 10.
+
+                                 12 of 18
+TC2014                   RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                    TC2014
+
+
+
+
+         Figure 11. Detailed structural map of the western half of the Sea of Marmara. Dotted barbed black lines
+         indicate the inactive normal faults of the former pull-apart basins (Central and Tekirdag basins). The
+         normal fault plotted along the northern edge of the Tekirdag basin is speculative. The linear EW trending
+         MMF crossing the Western High is shown as the active structures linked to the clockwise rotation of
+         these basins. The Western High is also marked by a NE trending pop-up structure shown in black. Teeth
+         indicate thrusts.
+
+
+(Figure 3). These faults are crosscut by the EW Yalova         been inverted in the Sea of Marmara along the Western
+fault that follows the northern coast of the Armutlu           and Central Highs.
+Peninsula. This fault was affected by intense aftershocks        [26] We have thus found evidence for a now deactivated
+of the Koaceli earthquake [Bouchon et al., 2001; Taymaz        pull-apart that extended from the Tekirdag basin to the west
+et al., 2002]. Most of the rocks in the west Armutlu           to the Armutlu Peninsula to the east. Figure 3 shows that
+anticline are Mesozoic or older [Yilmaz et al., 1997] but      this pull-apart basin system was limited by a well-developed
+Miocene marine sediments are involved in the folding           N120E normal fault system to the south and N70E
+[Yigitbas et al., 2002]. A significant part of the Armutlu     transfer faults. These transfer faults are now difficult to
+Peninsula is blanketed by Miocene marine and lacustrine        locate exactly because of later inversion responsible for the
+sediments including Pontian (O. Tuysuz, personal commu-        formation of the Western High, the Central High and
+nication, MTU) that are also folded. The Mio-Pliocene          possibly also of the Armutlu Peninsula. However, their
+sedimentation was probably controlled by N120E trend-         approximate locations can be determined from the geometry
+ing normal faults and a N70E trending strike-slip fault       of the normal fault system, as will be discussed later.
+system that connects with these inactive normal faults         Figure 11 shows that the Western High marks the western
+(Figure 3). We interpret this strike-slip system, that is      limit of the former pull-apart basin limited to the south by
+crosscut by the Yalova and Izmit Bay faults, as former         N120E now inactive normal faults. We suggest that this
+deactivated transfer faults comparable to the one that have    high corresponds to a now inverted major NE trending
+
+                                                         13 of 18
+TC2014                    RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                       TC2014
+
+
+
+
+         Figure 12. Kinematics of the Sea of Marmara. The now inactivated pull-apart Marmara system in the
+         Sea of Marmara is dissected by the active Main Marmara Fault (MMF) aligned along a circle (heavy dots)
+         as described by Le Pichon et al. [2003]. The transfer zones bounding the N120E trending normal faults
+         now bordering the troughs are indicated by a light dotted circle that fits the Anatolia/Eurasia rotation pole
+         (30.7N, 32.6E, 1.2/Myr) given by McClusky et al. [2000] (they probably guided the pull-apart
+         geometry). The MMF that cuts through this system fits the Marmara/Eurasia motion (36.6N, 28.8E,
+         2.8/Myr) as given by Meade et al. [2002] and Le Pichon et al. [2003]. Azimuths of the Anatolia/Eurasia
+         are given by arrows in low position (An) and those of Marmara/Eurasia (Marm) that follow the MMF
+         trace are on top position in the figure. Note that the angle between these two vectors increases toward the
+         east; see discussion in text.
+
+transfer zone that connected the Sea of Marmara pull-apart        the formation of the MMF, thus delimiting a new block,
+to the Ganos fault, through an extension of it that lead to the   called by Le Pichon et al. [2003] the Marmara block, that is
+early formation of the small Tekirdag basin.                      moving independently of the Anatolia block. It follows that
+                                                                  the offset on the southern branch should be about three times
+                                                                  less than on the MMF. Le Pichon et al. [2003] argue that this
+4. Discussion                                                     is compatible with its complex non-continuous geometry
+                                                                  compared to the rectilinear geometry of the northern branch.
+4.1. Implication of the Recent Formation of the                   In this paper we propose that a folding event predates the
+Marmara Block                                                     onset of faulting and strain localization along the MMF/
+   [27] Meade et al. [2002] and Le Pichon et al. [2003] have      Ganos/Izmit faults, but postdates the Marmara pull-apart
+shown that the present motion along the western portion of        basin system which was governed by the Anatolia/Eurasia
+the MMF, as defined by geodesy, is pure dextral strike-slip.      Eulerian rotation (Figure 12). So prior to the formation of the
+They show further that this is possible because of the            Marmara block, all of the motion of the northern branch of
+existence of the southern branch of the North Anatolian           the North Anatolian fault was absorbed in the Sea of
+fault. The 8 – 9 mm/yr velocity along the southern branch is      Marmara pull-apart basin system. Using the parameters
+such that the motion on the MMF has become pure strike-           given by McClusky et al. [2000], this rotation implies a
+slip at 23– 25 mm/yr. It is logical then to assume that the       direction of motion changing from 244 in the west, along
+formation of the southern branch is contemporaneous with          the Ganos Fault, to 253 in the east, near the Gulf of Izmit
+
+                                                            14 of 18
+TC2014                     RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                        TC2014
+
+
+
+
+         Figure 13. Superposed pull-apart geometry and MMF single faulting in the Marmara Sea. Evolution
+         from reactivation of the Thrace basin sometime in Pliocene, to present motion along the Marmara main
+         Fault 200 ± 100 Kyr. (a) 200 ± 100 Kyr ago: The main Marmara Fault crosscuts the whole Sea of
+         Marmara with a 4 ± 1 km offset. All other faults are inactive. (b) 300 to 600 Kyr: End of pull-apart basin
+         opening in the Central Basin and most of Cinarcik Basin due to the formation of the Marmara block.
+         Inversion is generalized in front of the newly forming MMF. (c) Possible reconstruction at the beginning
+         of the pull-apart extension sometime within Pliocene. The amount of extension in the pull-apart basins
+         deduced after reconstruction is 30 km. Note the prevalence of these N120E normal faults both to the
+         north in the Thrace basin and to the south in the Armutlu Peninsula. The Thrace basins faults were active
+         during upper Miocene into Pliocene. (d) Tectonic reactivation of the Neogene Thrace basin.
+
+
+
+instead of 250 to 275 respectively along the present MMF            [29] The basins they delineate have about the same width
+(Figure 12). This indicates that the Ganos Fault zone was           (Figure 13). The eastern basin that includes the present
+already acting as a dextral strike-slip fault zone. East of it an   eastern part of the Central High and the Cinarcik basin is 40
+extensional component increased from west to east confirm-          to 50 km wide. The middle basin that includes the present
+ing that the Sea of Marmara could indeed have then been the         western Central High, the Central basin and part of the
+site of a pull-apart system (Figure 12).                            Eastern High is more difficult to outline but it may also be
+                                                                    50 km wide. The Tekirdag Basin, that is only 10 to 12 km
+                                                                    wide, does not appear to have been part of this pull-apart
+4.2. Reconstruction of the Pull-Apart System                        system, as discussed above (Figure 13). When the 4 km
+  [28] Figure 13 shows a sketch map of this pull-apart              offset along the MMF is restored (Figure 13a), the pre-
+system now truncated by the MMF. It is compatible with              MMF Tekirdag basin has an approximately constant width
+the distribution of now deactivated normal and transfer faults      of only about 12 km but its northern margin does not show a
+and the mapped MMF [Le Pichon et al., 2001]. It is difficult        clear 120 normal fault set. In addition, its southern margin
+to trace precisely the transfer faults locations and directions     is now obliterated by the MMF and the shortening that
+because they have since been inverted. On the other hand, as        characterizes the restraining bend between the MMF and the
+discussed above, we can use the N120E normal faults to             Ganos Fault.
+restore the geometry of the pull-apart provided the effects of        [30] Joining the ends of the normal faults to recover the
+the post dextral offset along the MMF are taken into account.       traces of the transfer faults, we find that the transfer faults
+These normal faults delineate three basins that have a simple       are approximately parallel. Their direction is close to 65–
+geometry. The northern and southern margins are symmet-             70 and tends to increase slightly from west to east as
+rically disposed. The faults all trend N120E and they have         predicted by the Anatolia/Eurasia rotation if they were
+the same length to the north and to the south in each basin.        indeed strictly strike-slip during the pull-apart phase.
+
+                                                              15 of 18
+TC2014                    RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                      TC2014
+
+  [31] To the south of the normal faults that formed the          crust should have essentially disappeared. It seems difficult
+southern margin of the deep northern Marmara troughs,             to avoid the conclusion that the crust has been thinned by a
+other normal faults, also oriented N120E, were active            large amount in the northern Sea of Marmara and that the
+during the formation of the Marmara pull-apart system over        thermal gradient in the underlying thinned lithosphere
+what is now the southern Marmara shelf. They were                 should be anomalously high.
+responsible for the subsidence of the southern shelf and
+evidently absorbed some of the motion, probably signifi-          4.4. Difficulties at Both Extremities
+cantly less than within the main pull-apart itself although          [35] In this pull-apart reconstruction geometry, a first
+this is difficult to quantify.                                    difficulty comes from the fact that the extensional compo-
+                                                                  nent should have been larger in the Gulf of Izmit than in the
+4.3. Pre-Pull-Apart Reconstruction                                Cinarcik Basin. If it were the case, we would expect in the
+  [32] The reconstruction of the structure of the pull-apart      Armutlu Peninsula a larger basin (or equal size) than
+shows that the N120E normal fault system is in the direct        Cinarcik (as shown in Figure 13d). High mountain ranges
+continuity of the 40 to 50 km wide 120 set of faults that cut    (over 900 m high) in this area suggesting intense inversion,
+across the Thrace basin to join the northern margin of the        and the presence of late Miocene sediments in the preserved
+Sea of Marmara (Figure 13). These faults are mostly dextral       depocenters, would imply a strong inversion to obliterate
+and were active during the late Miocene and into the              this former basin. Alternatively, if this hypothesis is not
+Pliocene [Perincek, 1991]. Okay et al. [2000] show an             valid and pull-apart extension in Armutlu is much smaller
+apparently active flower structure on the southern extremity      than within the Cinarcik basin, the extension then must have
+of one of these faults on the northern shelf, in the direct       been absorbed to the south of the Armutlu Peninsula in the
+continuity of the northern scarp of the Cinarcik Basin            Gulf of Gemlik - Lake Iznik system and possibly further
+(NCBS). It is reasonable to assume that this preexisting          south along what is now the segment of the southern branch
+set of faults guided the formation of the pull-apart system as    of the North Anatolian Fault affected by distension. This is
+shown in the reconstruction of Figure 13d. If this so, we can     essentially the solution adopted in the reconstruction of
+use this preexisting set of faults to reconstruct the pre-pull-   Armijo et al. [1999].
+apart geometry.                                                      [36] The second difficulty was mentioned above and
+  [33] Figure 13d shows that this criterion leads to a            concerns the Tekirdag Basin. This narrow basin does not
+reconstruction in which the amount of motion during the           show any evidence of active distension after the initial
+pull-apart phase in the northern Marmara troughs is about         rifting phase. In addition its western boundary would imply
+30 km. Then, the total amount of motion accounted for in          some shortening that is not observed in its undisturbed
+the Sea of Marmara is 34 km plus whatever amount was              northern half. The possibility exists that the Ganos Fault
+absorbed during the formation of the Central Shear zone           propagated eastward to the western edge of the western
+before onset of the MMF. We also have to take into account        basin immediately after the initial rifting phase because of
+a moderate amount of rifting within the Marmara shelf to          the favorable geometry (see Figure 13), thus bypassing
+the south where some seismic activity still remains. At the       rapidly the Tekirdag Basin, just after its initial phase of
+present rates of motion of the Anatolian plate with respect to    rifting.
+Eurasia, these correspond to only 1.5 Myr of motion. These
+34 km should be compared to the 55 km of motion proposed          4.5. Inversion of the Transfer Faults and the
+to be absorbed in the northern troughs by Armijo et al.           Propagation of the MMF
+[2002] and to the 85 km of total motion deduced by Armijo            [37] The pull-apart system was inactivated probably quite
+et al. [1999] from an estimate of the offset along the Ganos      recently and certainly within the last few hundreds of
+fault. Even the 85 km proposed by Armijo et al. [1999] only       thousands of years as an average cover of 300 m of
+correspond to about 3.5 My at the present rates. Thus,            sediment seals the normal faults. The NE-SW transfer faults
+unless the rates of motion were significantly smaller during      connecting the three pull-apart basins were affected by
+the pull-apart phase, this pull-apart is geologically recent      western verging thrusts during approximately the same
+(upper Pliocene to Pleistocene) and in any case post-Upper        period of time. This inversion is responsible for the forma-
+Miocene as confirmed by the geological evidence [see, e.g.,       tion of the present highs, deeply affecting the configuration
+Armijo et al., 1999; Le Pichon et al., 2001].                     of the basins. This inversion is probably related to the
+  [34] An extension of 30 km in the northern troughs              establishment of the Marmara block that was accompanied
+implies an average extension ratio (b ratio) of 2.5. Such         by a 10 to 20 clockwise rotation of the motion vectors
+an extension would have decreased the thickness of the            that necessarily produced shortening on the transfer faults to
+crust to 12– 15 km and more importantly increased the             the northwest of the propagating tip. The corresponding
+average thermal gradient by a factor of 2.5 as the thinning       shortening component varied from 5 mm/yr to the west
+occurred during a time very short compared to the thermal         to 10 mm/yr to the east. This inversion ceased when the
+time constant of the lithosphere. The average thickness of        MMF cut across the inverted pull-apart, some 200,000 ±
+the crust would be about 12– 15 km now within the troughs.        100,000 years ago, an age compatible with the estimates
+Note that this situation is even more extreme in the recent       based on sedimentation rates.
+reconstruction of Armijo et al. [2002], where the extension          [38] Le Pichon et al. [2003] have shown that the observed
+ratio in the northern troughs is about 10 and the original        offset is the same (4 ± 1 km) from the Central Basin to the
+
+                                                            16 of 18
+TC2014                              RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                                                     TC2014
+
+eastern Cinarcik Basin. This would indicate a rapid propa-                                [40] If we consider that the pull-part basin system was
+gation rate of more than 2 km/1000 yr for the MMF in the                                starved when this distributed shear zone was initiated,
+eastern part of the Sea of Marmara. We have no way to                                   timing of cessation of rifting in these basins could be a
+constrain the exact sequence of events and their timing from                            reliable indicator. We have shown that in the Cinarcik
+the end of the pull-apart to the establishment of the MMF.                              Basin, an average thickness of 300 meters of sediment
+However, it is probable that the transition phase during                                is blanketing the pull-apart basin normal faults outside
+which the inversion occurred was not large as the folding                               the shear zone. Using a sedimentation rate of 500 to
+and thrusting is relatively modest and does not account for                             1000 m/My proposed by Cagatay for the deep basins of
+more than 100,000 years of motion at most (1 km).                                       the Sea of Marmara (Cagatay, personal communication,
+                                                                                        2002), the cessation of normal faulting in the Cinarcik basin
+4.6. Timing for Kinematic Change in the Sea of                                          occurred about 300,000 to 600,000 years ago. This could be
+Marmara Area                                                                            the age for the formation of the Marmara block. Conse-
+  [39] Motion along the MMF was estimated by Le Pichon                                  quently the distributed shear zone could have been active
+et al. [2003] to be 4 ± 1 km taking into account the offsets                            during only a few 100,000 years. Recent strain changes
+of significant markers observed in the bathymetry along the                             have also be noticed by Bellier et al. [1997] along the North
+fault. We have used this value in our reconstruction of the                             Anatolian Fault.
+Sea of Marmara (Figure 13a). Using the instantaneous rate
+of motion along this fault (see above), motion along the                                   [41] Acknowledgments. This work, supported by Collège de France,
+MMF was fully initiated 200 000 ± 100,000 yr ago. This                                  CNRS and Tubitak, was developed in the course of the Marmara project in
+does not take into account the previous distributed motion                              close cooperation between Turkish and French scientists. We thank the
+along the now inactive distributed shear zone located at the                            many French and Turkish colleagues with whom we discussed these data
+                                                                                        although they may not agree with parts of our interpretation. We thank more
+axis of the Sea of Marmara, but this offset is more difficult                           specially Celal Sengor for his extremely useful insights in the geology of
+to estimate.                                                                            this complex area.
+
+
+
+
+References
+Armijo, R., B. Meyer, A. Hubert, and A. Barka (1999),        Anatolian Fault within the Sea of Marmara: A            Ozalaybey, S., M. Ergin, M. Aktar, C. Tapirdamaz,
+   Westward propagation of the North Anatolian Fault         new interpretation based on multi-channel seismic          F. Bicmen, and A. Yoruk (2002a), The 1999 Izmit
+   into the northern Aegean: Timing and kinematics,          and multi-beam bathymetry data, Earth Planet. Sci.         Earthquake in Turkey: Seismological and tectonic
+   Geology, 27(3), 267 – 270.                                Lett., 186, 143 – 158.                                     aspects, Bull. Seismol. Soc. Am., 92, 376 – 386.
+Armijo, R., B. Meyer, S. Navarro, G. King, and            Karabulut, H., M. P. Bouin, M. Bouchon, M. Dietrich,       Ozalaybey, S., H. Karabulut, M. Ergin, C. Tapidarmaz,
+   A. Barka (2002), Asymmetric slip partitioning in          C. Cornou, and M. Aktar (2002), The seismicity in          A. Yoruk, F. Bicmen, M. Aktar, and M. Bouchon
+   the Sea of Marmara pull-apart: A clue to propaga-         the Eastern Marmara sea after the 17 August 1999           (2002b), Seismogenic zones of the sea of Marmara:
+   tion processes of the North Anatolian Fault?, Terra       Izmit earthquake, Bull. Seismol. Soc. Am., 92, 387 –       Aftermath of the 1999 Golcuk-Izmit Earthquakes,
+   Nova, 14, 80 – 86.                                        393.                                                       NW Turkey, paper presented at 1st International
+Barka, A. (1997), Neotectonics of the Marmara region,     Le Pichon, X., T. Taymaz, and A. M. C. Sengör (1999),        Symposium of the Faculty of Mines (ITU) on Earth
+   in Active Tectonics of Northwestern Anatolia—The          The Marmara Fault and the future Istanbul earth-           Sciences and Engineering. 16 – 18 May 2002, Istan-
+   Marmara Poly-Project: A Multidisciplinary Ap-             quake, in International Conference on the Kocaeli          bul Tech. Univ., Istanbul, Turkey.
+   proach by Space-Geodesy, Geology, Hydrogeology,           Earthquake, 17 August 1999, edited by M. Karaca         Parke, J. R., T. A. Minshull, G. Anderson, R. S. White,
+   Geothermics and Seismology, edited by C. Schindler        and D. N. Ural, pp. 41 – 54, Istanbul Tech. Univ.          D. McKenzie, I. Kuscu, J. M. Bull, N. Gorur,
+   and M. Pfister, pp. 55 – 87, Eng. and Geol., Zurich,      Press House, Istanbul.                                     and C. Sengor (1999), Active faults in the Sea of
+   Switzerland.                                           LePichon, X., et al. (2001), The active main Marmara          Marmara, western Turkey, imaged by seismic
+Bellier, O., S. Över, A. Poisson, and J. Andrieux           fault, Earth Planet. Sci. Lett., 192, 595 – 616.           reflection profiles, Terra Nova, 11, 223 – 227.
+   (1997), Recent temporal change in the stress state     Le Pichon, X., N. Chamot Rooke, C. Rangin, and             Parke, J. R., T. A. Minshull, G. Anderson, R. S. White,
+   and modern spatial stress field along the North Ana-      C. Sengör (2003), The North Anatolian Fault in            D. McKenzie, I. Kyusku, J. Bull, N. Gorur, and
+   tolian Fault zone (Turkey), Geophys. J. Int., 131,        the Sea of Marmara, J. Geophys. Res., 108(B4),             A. M. C. Sengor (2002), Interaction between fault-
+   61 – 86.                                                  2179, doi:10.1029/2002JB001862.                            ing and sedimentation in the sea of Marmara, wes-
+Bouchon, M., M. P. Bouin, H. Karabulut, M. N.             McClusky, S., et al. (2000), Global Positioning System        tern Turkey, J. Geophys. Res., 107(B11), 2286,
+   Toksoz, M. Dietrich, and A. J. Rosakis (2001),            constraints on plate kinematics and dynamics in the        doi:10.1029/2001JB000450.
+   How fast is rupture during an earthquake?: New            eastern Mediterranean and Caucasus, J. Geophys.         Perincek, D. (1991), Possible strand of the North
+   insights from the 1999 Turkey earthquakes, Geo-           Res., 105, 5695 – 5719.                                    Anatolian Fault in the Thrace Basin, Turkey: An
+   phys. Res. Lett., 28(14), 2723 – 2726.                 Meade, B. J., B. H. Hager, S. C. McClusky, R. Reilinger,      interpretation, AAPG Bull., 75(2), 241 – 257.
+Demirbag, E., C. Rangin, X. Le Pichon, and A. M.             S. Ergintav, O. Lenk, A. Barka, and H. Ozener           Rangin, C., E. Demirbag, C. Imren, A. Crusson,
+   Şengör (2003), Investigation of the tectonics of        (2002), Estimates of seismic potential in the              A. Normand, E. Le Drezen, and A. Le Bot
+   the Main Marmara Fault by means of deep towed             Marmara Sea region from block models of secular            (2001), Marine Atlas of the Sea of Marmara (Tur-
+   seismic data, Tectonophysics, 361, 1 – 19.                deformation constrained by GPS measurements,               key), Ifremer, Plouzané, France.
+Ergun, M., and E. Ozel (1995), Structural relation-          Bull. Seismol. Soc. Am., 92, 208 – 215.                 Roberts, A., and G. Yelding (1994), Continental Defor-
+   ships between the Sea of Marmara Basin and the         Okay, A. I., E. Demirbag, H. Kurt, N. Okay, and               mation, edited by P. L. Hancock, pp. 223 – 250,
+   North Anatolian Fault Zone, Terra Nova, 7, 278 –          I. Kuscu (1999), An active, deep marine strike-slip        Univ. of Bristol, UK.
+   288.                                                      basin along the North Anatolian fault in Turkey,        Shelton, J. W. (1984), Listric normal faults: An illu-
+Gorur, N., M. N. Cagatay, M. Sakinc, M. Sumengen,            Tectonics, 18, 129 – 147.                                  strated summary, AAPG Bull., 68(7), 801 – 815.
+   K. Senturk, C. Yaltirak, and A. Tchapalyga (1997),     Okay, A. I., A. Kaslilar-Ozcan, C. Imren, A. Boztepe-      Taymaz, T., T. Sato, J. Kasahara, A. Hirn, M. Ito,
+   Origin of the Sea of Marmara as deduced from              Guney, E. Demirbag, and I. Kuscu (2000), Active            A. Kamimura, A. Hayakawa, and O. Tan (2002),
+   Neogene to Quaternary paleogeographic evolution           faults and evolving strike-slip basins in the Mar-         Investigations of micro-earthquakes activity within
+   of its frame, Int. Geol. Rev., 39(4), 342 – 352.          mara Sea, northwest Turkey: A multichannel seis-           the sea of Marmara and surrounding regions by
+Imren, C., X. Le Pichon, C. Rangin, E. Demirbag,             mic reflection study, Tectonophysics, 321, 189 –           using ocean bottom seismometers (OBS) and land
+   B. Ecevitoglu, and N. Gorur (2001), The North             218.                                                       seismographs, paper presented at 1st International
+
+
+
+                                                                                17 of 18
+TC2014                            RANGIN ET AL.: STRAIN LOCALIZATION IN THE SEA OF MARMARA                                                                 TC2014
+
+   Symposium of the Faculty of Mines (ITU) on Earth        the basement of northwestern Anatolia-Turkey,          edited by A. C. Robinson, AAPG Mem., 68, 183 –
+   Sciences and Engineering, 16 – 18 May 2002, Istan-      and its exhumation history, paper presented 1st        186.
+   bul Tech. Univ., Istanbul, Turkey.
+Yaltirak, C., and B. Alpar (2002), Kinematics and
+                                                           International Symposium of the Faculty of Mines
+                                                           (ITU) on Earth Sciences and Engineering. 16 – 18
+                                                                                                               X.
+                                                                                                                 Le
+                                                                                                                      Pichon and C. Rangin, CNRS, Géodynami-
+   evolution of the northern branch of the North           May 2002, Istanbul Tech. Univ., Istanbul,           que du Collège de France, Europole de l’Arbois, BP 80,
+   Anatolian Fault (Ganos Fault) between the Sea of        Turkey.                                             F-13545 Aix en Provence Cedex 04, France. (rangin@
+   Marmara and the Gulf of Saros, Mar. Geol., 190,      Yilmaz, Y., O. Tuysuz, E. Yigitbas, S. C. Genc, and    cdf.u-3mrs.fr)
+   352 – 366.                                              A. M. C. Sengor (1997), Geology and tectonic evo-        E. Demirbag and C. Imren, Department of Geo-
+Yigitbas, E., R. Kerrich, Y. Yilaz, A. Elmas, and          lution of the Pontides, in Regional and Petroleum   physics, Faculty of Mines, Istanbul Technical Univer-
+   Q. Xie (2002), A Precambrian metaophiolite in           Geology of the Black Sea and Surrounding Region,    sity, 80626 Maslak-Istanbul, Turkey.
+
+
+
+
+                                                                            18 of 18
+

@@ -1,0 +1,627 @@
+                                                        Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+                                                               Contents lists available at ScienceDirect
+
+
+                                       Journal of Petroleum Science and Engineering
+                                                    journal homepage: www.elsevier.com/locate/petrol
+
+
+
+
+Feldspar dissolution with implications for reservoir quality in tight gas                                                                                MARK
+sandstones: evidence from the Eocene Es4 interval, Dongying Depression,
+Bohai Bay Basin, China
+                          ⁎
+Benben Maa,b,c, , Yingchang Caob, Yancong Jiad
+a
+  Faculty of Earth Resources, China University of Geosciences, Wuhan 430074, China
+b
+  School of Geosciences, China University of Petroleum, Qingdao 266580, China
+c
+  Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, United States
+d
+  School of Energy Resources, China University of Geosciences, Beijing 100083, China
+
+
+
+
+A R T I C L E I N F O                                   A BS T RAC T
+
+Keywords:                                               Feldspar dissolution is a pervasive water-rock interaction in siliciclastic sediments and has critical impact on
+Tight gas sandstones                                    reservoir quality. The purpose of this paper is to evaluate the inﬂuence of feldspar dissolution on reservoir
+Feldspar dissolution                                    quality in tight gas sandstones from the Eocene Es4 interval, Dongying Depression. Based on petrographic,
+Dissolution by-products                                 mineralogical, and geochemical analysis, distribution patterns of authigenic minerals associated with feldspar
+Reservoir quality
+                                                        dissolution are recognized. Dissolution of feldspar in Eocene Es4 interval is related to organic acids and CO2
+Eocene
+                                                        expelled from adjacent source rocks in deep burial environment. Diﬀusion is inferred to be the predominant
+Bohai Bay Basin
+                                                        transport mechanism for dissolved solids during feldspar dissolution and result in dissolution by-products (e.g.
+                                                        quartz, kaolinite, illite and albite cements) precipitated in-situ or in adjacent pores. Mass balance calculations
+                                                        also demonstrate most of silica derived from K-feldspar dissolution was precipitated as quartz cements within
+                                                        tight sandstone reservoirs. The net porosities created by feldspar dissolution were insigniﬁcant but reservoir
+                                                        permeability was reduced signiﬁcantly by the precipitation of authigenic quartz, kaolinite, albite, and especially
+                                                        by conversion of kaolinite to hair-like illite at higher temperatures.
+
+
+
+
+1. Introduction                                                                          to increase the total porosity? Many workers have raised some key
+                                                                                         controversial issues about the timing of secondary porosity formation
+    As one of the major unconventional hydrocarbon resources, tight                      related to feldspar dissolution and whether it can enhance total
+gas sandstone reservoirs are widely distributed in numerous rift basins                  porosity or not during the last 30 years (e.g. Stoessell, 1987; Giles
+in China including Bohai Bay, Tarim, Ordos and Sichuan Basins (Zhu                       and de Boer, 1990; Bjørlykke and Jahren, 2012). Some geologists have
+et al., 2012; Ren et al., 2014; Lai et al., 2015). In general, tight gas                 inferred that the majority of secondary porosity probably is created
+reservoirs are deeply buried and normally characterized by low                           during shallow burial due to leaching by meteoric water (Giles, 1987;
+porosity and permeability (Higgs et al., 2007; Zhu et al., 2012).                        Bjørlykke, 2010). This process can make high ﬂux of water available for
+Moreover, these tight gas reservoirs show strong heterogeneities which                   large scale of mass transport and subsequently, generated an increase
+are mainly attributed to the signiﬁcant compaction and cementation                       in overall porosity for sandstone reservoirs. In contrast, some other
+(Zou et al., 2012; Lai et al., 2015). In previous studies, secondary                     workers have ascribed creation of secondary porosity to deep burial
+porosity, which is deﬁned as the pore space created by dissolution of                    environment based on petrographic evidence and geochemical data
+detrital framework grains and/or authigenic cements, is typically                        (e.g. Schmidt and Mcdonald, 1979; Surdam et al., 1989; Rahman and
+considered as a signiﬁcant proportion of the total porosity and as the                   McCann, 2012). As the notable diﬃculty of transport large amounts of
+sweet spot for tight gas reservoirs (e.g. Zou et al., 2012; Lai et al.,                  solutes out of sandstone system during deep burial environment,
+2015). The enhancement of total porosity during the formation of                         formation of secondary porosity was associated with other mineral
+secondary porosity requires large-scale mass transfer of solids in                       reactions that caused precipitation of cements (Chuhan et al., 2001;
+solution (Bjørlykke, 2014). However, for these tight reservoirs, how                     Bjørlykke and Jahren, 2012). This process probably could not result in
+does the large scale of mass transfer occur during mineral dissolution                   net increase in total porosity, but a redistribution of porosity (Giles and
+
+
+    ⁎
+        Corresponding author.
+        E-mail address: mabenbenupc@163.coms (B. Ma).
+
+http://dx.doi.org/10.1016/j.petrol.2016.11.026
+Received 17 January 2016; Received in revised form 12 November 2016; Accepted 18 November 2016
+Available online 19 November 2016
+0920-4105/ © 2016 Elsevier B.V. All rights reserved.
+B. Ma et al.                                                                                                        Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+Fig. 1. A. Locality map of subbasins of the Bohai Bay Basin, eastern China (modiﬁed from Guo et al., 2010); B. Distribution of main sags and uplifts and major faults and location of
+section AA’; C. Cross section AA’ showing major statigraphic units and major tectonic features within the Dongying Depression (modiﬁed from Guo et al., 2010).
+
+
+de Boer, 1990). Therefore, understanding when the secondary porosity                          depths (2500–5000 m), formation temperatures (100–180 °C) and
+related to feldspar dissolution was formed and whether dissolution by-                        formation pressures (25–70 MPa), the Es4 interval in Dongying
+products were transported out of sandstone reservoirs or not has                              Depression is ideally suited to investigate the eﬀects of feldspar
+critical impact on prediction of reservoir quality for tight sandstones.                      dissolution on reservoir quality for tight gas sandstones. Thus, the
+    The Eocene Es4 interval in the Dongying Depression, Bohai Bay                             objectives of this study are to: (1) document the characteristics of
+Basin in eastern China (Fig. 1) developed in a rift basin and is an                           feldspar dissolution and other diagenetic minerals using thin section
+important tight gas sandstone interval (Guo et al., 2010; Wang et al.,                        petrography in conjunction with a range of analytical techniques; (2)
+2014). The Es4 interval consists of sublacustrine-fan, coarse-grained                         understand the timing of feldspar dissolution and associated authigenic
+conglomerates, pebbly sandstones, sandstones, and lacustrine mud-                             minerals by utilizing ﬂuid inclusion and burial history analysis; and (3)
+stones. In addition, the lower unit (Es4x) contains local evaporites in                       evaluate the eﬀects of feldspar dissolution on reservoir quality for tight
+the form of gypsum, anhydrite and halite. With a wide range of burial                         gas sandstones.
+
+
+                                                                                         75
+B. Ma et al.                                                                                                  Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+                                                                                           developed adjacent to the footwall of the Chennan Boundary Fault and
+                                                                                           interﬁngered with more distal mudstones (Fig. 3). A return to arid
+                                                                                           conditions late in the history of Es4x deposition resulted in a second
+                                                                                           stage of evaporite precipitation. With a rise in lake level, sublacustrine-
+                                                                                           fan deposits and interbedded lacustrine mudstones of Es4s developed
+                                                                                           in the synrift basin. Multi-stage sublacustrine-fan deposits are overall
+                                                                                           retrogradational and onlap the boundary fault (Fig. 3). This pattern is
+                                                                                           attributed to long-term rise in lake level (Song et al., 2012).
+
+                                                                                           3. Samples and methods
+
+                                                                                               This study is based on cores from 21 boreholes from the Es4
+                                                                                           interval covering depths of 2500–5000 m. A total of 123 thin sections,
+                                                                                           impregnated with pink epoxy under vacuum and stained with alizarin
+                                                                                           red-S and potassium ferricyanide (Dickson, 1965), were examined
+                                                                                           using a standard petrographic microscope. Percentages of framework
+                                                                                           grains, authigenic cements and porosity were determined by 400 point
+                                                                                           counts per thin section. The compositions of authigenic minerals and
+                                                                                           their spatial relationships were investigated in 36 sample chips that
+                                                                                           were gold-coated using a JSM-5500LV scanning electron microscope
+                                                                                           (SEM) equipped with a QUANTAX400 energy dispersive X-ray spectra
+                                                                                           (EDX) under an acceleration voltage of 20 kV using a beam current of
+                                                                                           1.0–1.5 nA. In addition, the compositions of albite cements were
+                                                                                           determined using highly magniﬁed backscatter (BSE) and secondary
+                                                                                           electron (SE) methods. X-ray diﬀraction (XRD) analysis using a Ultima
+                                                                                           IV X-ray diﬀractometer at the Exploration and Development Research
+                                                                                           Institute of the Sinopec Zhongyuan Oilﬁeld Company was carried out
+                                                                                           on < 2 µm centrifuged, ethylene glycolated and heated (550 °C)
+                                                                                           powders to identify clay minerals and their relative abundances.
+                                                                                               Seven doubly polished thick sections were prepared for ﬂuid
+                                                                                           inclusion analysis on quartz overgrowths using a LINKAM
+                                                                                           THMSG600 heating-freezing stage in the Fluids Research Laboratory
+                                                                                           in the Department of Geosciences at Virginia Polytechnic Institute and
+   Fig. 2. Tertiary stratigraphy and tectonic evolution of the Dongying Depression.
+                                                                                           State University. Special attention was paid to identifying ﬂuid inclu-
+                                                                                           sion assemblages (FIAs) that represent the most ﬁnely discriminated
+2. Geological setting                                                                      groups of petrographically associated inclusions of ﬂuids that were
+                                                                                           trapped at the same time (Goldstein and Reynolds, 1994).
+     The Dongying Depression covers an area of 5700 km2 and is located                     Homogenization temperature (Th) was measured for ﬂuid inclusions
+in the southern part of the Jiyang Subbasin of the Bohai Bay Basin                         using a heating rate of 10 °C/min at temperatures less than 80 °C and a
+(Fig. 1A, B). Tectonic evolution of the depression is subdivided into a                    rate of 5 °C/min at temperatures exceeding 80 °C. This yielded a
+syn-rift stage between 65.0 and 24.6 Ma and a post-rift stage from                         precision of Th measurements is ± 1 °C.
+24.6 Ma to the present (Guo et al., 2010; Dong et al., 2011). Dongying                         A total of 175 cylindrical core samples (diameter =25 mm, length
+Depression consists of ﬁve secondary tectonic provinces from north to                      =30–40 mm) from 18 boreholes were selected to determine core
+south: the northern steep slope, the northern sag (Minfeng Sag), the                       porosity and permeability at the Exploration and Development
+central anticline, the southern sag (Niuzhang Sag), and the southern                       Research Institute of the Sinopec Zhongyuan Oilﬁeld Company. The
+gentle slope (Fig. 1C). The Minfeng Sag is located in the northeastern                     gas expansion method was used for determining porosity and helium
+part of the Dongying Depression and the northern margin of the sag is                      was used as the measuring medium. Permeability was measured in a
+deﬁned by the Chennan Boundary Fault (Fig. 1C; Jiang et al., 2013).                        gas-autoclave using the pressure-transient technique (Rahman and
+     Sedimentary sequences in Dongying Depression, in ascending                            McCann, 2012) and nitrogen was used as the permeating medium.
+order, consist of the Paleocene Kongdian (Ek), Shahejie (Es), and                              Burial and thermal maturation history curves were plotted using
+Dongying (Ed) formations, the Neogene Guantao (Ng) and                                     the program BasinMod which adopts the decompaction curve from
+Minghuazhen (Nm) formations, and the Quaternary Pingyuan (Qp)                              Falvey and Middleton (1981). Thickness of diﬀerent lithologies within
+Formation (Fig. 2). The Eocene Es4 interval in the Dongying                                each formation was obtained from well log data. Ages of each single
+Depression is subdivided by two units (the lower unit Es4x and the                         formation and corresponding paleo-geothermal gradients were col-
+upper unit Es4s) and is the subject of this study (Fig. 3; Wan et al.,                     lected from several references in the study area (Qiu et al., 2004; Guo
+2010; Wang et al., 2014). The Es4 interval consists of dark lacustrine                     et al., 2010). Present temperature and vitrinite reﬂectance data were
+source rocks, calcareous mudstones interbedded with multi-stage,                           also incorporated to correct the present geothermal gradients. In
+sublacustrine-fan, sandy conglomerates, pebbly sandstones and sand-                        addition, 40 down-well measurements were made of the CO2 contents
+stones adjacent to the boundary fault (Fig. 3). Evaporites are developed                   of natural gas.
+at the bottom and top of Es4x and evaporitic lithologies include
+gypsum, anhydrite and halite (Fig. 3).                                                     4. Results
+     During the initial stage of deposition of Es4x, lake water was saline
+associated with arid climatic conditions that favored the precipitation                    4.1. Framework petrology
+of gypsum and subordinate halite (Song et al., 2009; Wang et al.,
+2014). For most of Es4x deposition, seasonal ﬂoods carried abundant                           Most sandstone lithofacies in the Es4 interval are coarse-grained
+siliciclastic sediments into the lake and large-scale of sublacustrine fans                and moderately to poorly sorted lithic arkoses and feldspathic lithar-
+
+                                                                                      76
+B. Ma et al.                                                                                                       Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+                       Fig. 3. Interpreted seismic cross section through the study area showing lithologies in the Es4 interval and major extensional faults.
+
+
+                                                                                             4.2.2. Quartz cements
+                                                                                                 Quartz cements commonly occur as syntaxial overgrowths (5–
+                                                                                             50 µm thick) around detrital quartz grains (Fig. 5D) and, less com-
+                                                                                             monly, as discrete, euhedral, prismatic crystals (5–60 µm in length)
+                                                                                             within intergranular pores (Fig. 5E). Quartz cements are spatially
+                                                                                             associated with authigenic kaolinite and illite (Fig. 5D, E). Rarely, two
+                                                                                             stages of quartz overgrowths can be distinguished based on thin section
+                                                                                             observation. Abundances of quartz cement range from 0.1–1.5% with
+                                                                                             an average of 0.5%, with highest abundances at depths of 2750–
+                                                                                             3750 m in the Es4 interval (Fig. 6B). Moreover, high contents of quartz
+                                                                                             cement commonly occur in sandstones greater than 0.5 m of sand-
+                                                                                             stone-mudstone contacts and decrease abruptly at 3.5 m from the
+                                                                                             contacts (Fig. 7B).
+
+
+
+                                                                                             4.2.3. Authigenic kaolinite
+                                                                                                 Authigenic kaolinite occurs as booklets (2–10 µm across) of pseu-
+                                                                                             do-hexagonal crystals (Fig. 5F) that inﬁll primary and secondary pores
+                                                                                             and replace feldspar framework grains. Well-deﬁned kaolinite patches
+Fig. 4. Compositional ternary plot of point count data following the nomenclature of         with similar shapes to feldspar grains ﬁlls dissolved pores within
+Folk (1974).
+                                                                                             feldspar or replace feldspar grains (Fig. 5A, C). Rarely, remnants of
+                                                                                             feldspar can be observed within kaolinite patches. The proportion of
+enites (Fig. 4). Framework grain compositions are variable, but                              kaolinite cements as a percentage of all clay minerals present decreases
+feldspar (20–55%, ave. 39%) is the most common framework grain.                              with depth and shows a rapid decline at a depth of approximately
+Rock fragments make up 15–56% (ave. 31%) of the framework grains                             3250 m (Fig. 8A).
+and include granitic, volcanic, metamorphic and sedimentary grains.
+Quartz is the least common framework grain (12–50%, ave. 30%).
+                                                                                             4.2.4. Authigenic illite
+                                                                                                  Authigenic illite commonly displays hair-like crystals and ﬁbrous
+                                                                                             aggregates (Fig. 5D, E). It mainly occurs as pore-ﬁlling cements and as
+4.2. Characteristics of feldspar dissolution and associated diagenetic                       replacement of potassium feldspar (Fig. 5B). Authigenic illite normally
+minerals                                                                                     replaces or engulfs authigenic kaolinite (Fig. 5F). The proportion of
+                                                                                             illite cement increases with depth and shows a rapid increase at a depth
+4.2.1. Feldspar dissolution                                                                  of about 3250 m (Fig. 8B).
+    Partial to extensive dissolution of detrital feldspar grains was
+observed in the Es4 interval. Most of the dissolved feldspars are K-
+feldspar grains (Fig. 5A, B). Locally, dissolved plagioclase can be                          4.2.5. Albite cements
+observed but is not very common. Dissolution of K-feldspar is spatially                          Authigenic feldspar cements are predominantly in the form of albite
+associated with the formation of authigenic clays (e.g. kaolinite) and                       (trace to 2.5%). Euhedral albite crystals are present as pore-ﬁlling
+quartz cements (Fig. 5A, B, C). Abundances of feldspar dissolution                           cements and as replacement of dissolved plagioclase and K-feldspar
+porosity range from 0.1–3.0% with an average of 1.0% and with highest                        (Fig. 5G, H). Authigenic albite typically grows along twining and
+abundances at depths of 2750–3750 m in the Es4 interval (Fig. 6A).                           cleavage planes of detrital feldspar grains (Fig. 5H). In rare cases,
+Moreover, high contents of feldspar dissolution porosity occur in                            euhedral albite crystals are coated by authigenic illite (Fig. 5I).
+sandstones at distances of greater than 0.5 m of sandstone-mudstone                          Albitization of K-feldspar and plagioclase are most common, especially
+contacts and decrease abruptly at 3.5 m from the contacts (Fig. 7A).                         in Es4x, at greater burial depths.
+
+                                                                                        77
+B. Ma et al.                                                                                                           Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+Fig. 5. Photomicrographs of feldspar dissolution, authigenic kaolinite, illite, quartz and albite cements in the Es4 interval. A. Secondary porosity related to feldspar dissolution along
+cleavage planes and authigenic kaolinite precipitation in adjacent pores, Well YX21, 3137.7 m; B. SEM image of secondary porosity related to K-feldspar dissolution along cleavage
+planes and associated with precipitation of prismatic quartz and illite cements, Well FS10, 4323.7 m; C. BSE image of authigenic quartz and kaolinite ﬁlling in feldspar dissolution pores,
+Well Yong92, 2968.77 m; D. SEM image of quartz overgrowth enclosed by authigenic illite, Well Yong 928, 3844.75 m; E. SEM image of prismatic quartz surrounded by authigenic
+kaolinite and illite, Well Y22, 3239.1 m; F. SEM image of blocky aggregates of pseudo-hexagonal plates of kaolinite replaced by illite, Well Y22-X1, 3367 m; G. BSE image of euhedral
+albite crystals replacing dissolved plagioclase, Well Yong92, 2968.77 m; H. SEM image of euhedral albite crystals as pore-ﬁlling cements enclosing K-feldspar grain and partially
+replacing a detrital feldspar grain (Primarily K-feldspar), Well Y222, 4014.66 m; I. SEM image of euhedral albite crystals as pore-ﬁlling cements and coated by authigenic illite, Well
+FS10, 4326 m. Kao=kaolinite, Kfdp=K-feldspar dissolution pores, Pq=Prismatic quartz, Fdp=Feldspar dissolution pores, Qo=Quartz overgrowths, Pl=Plagioclase, Pdp=Plagioclase
+dissolution pores,Al =Albite, Kf=K-feldspar.
+
+
+4.3. Mineral chemistry                                                                           after their entrapment (e.g. Goldstein, 2001). The two diﬀerent
+                                                                                                 generations of quartz overgrowths produced resolvable populations of
+4.3.1. Compositions of albite cements                                                            Th (Fig. 10C; Table 2). Th values of the ﬁrst-generation inclusions
+    BSE image and SEM-EDX point analyses conﬁrm the presence of                                  range from 98 to 129 °C with a peak at 110–120 °C whereas the
+albite cements. In total, 29 points of partially or totally albitized                            second-generation inclusions ranges from 136 to 186 °C with a peak at
+feldspar were analyzed. Elemental weight percentages (%) of Na+,                                 160–170 °C (Fig. 10C).
+Ca2+ and K+ were used to calculate moles and were normalized to
+molecular percentages. These percentages were plotted on a ternary
+diagram with anorthite, albite and K-feldspar end members (Fig. 9).                              4.4. Porosity and permeability
+The data show that 19 of the 29 analyses are pure albite (Table 1).
+                                                                                                    Porosity and permeability data determined for 175 core samples
+4.3.2. Fluid inclusions                                                                          reveal that, in general, the reservoir properties for Eocene Es4 interval
+    Fluid inclusion assemblages (FIAs) in quartz overgrowths typically                           are relatively poor. The core porosity varies from 0.4–17.6% with an
+occur along the boundaries with the detrital grains (Fig. 10A, B). Most                          average of 6.7%, whereas the core permeability ranges from 0.001 to
+of FIAs contain measurable, two-phase ﬂuid inclusions ≥5 µm in size.                             29.51 mD with an average of 0.94 mD (Fig. 11). Therefore, the Eocene
+Homogenization temperatures (Th) were obtained from 48 aqueous                                   Es4 sandstones pertain to typical tight gas reservoirs with extremely
+inclusions. In addition, most FIAs are characterized by consistent Th                            low porosity and permeability. The reservoirs also show wide variations
+values (temperature diﬀerence commonly less than 15 °C) and indicate                             in porosity and permeability as well as weak correlation between
+these FIAs probably have not been altered by thermal reequilibration                             porosity and permeability (Fig. 11).
+
+                                                                                            78
+B. Ma et al.                                                                                                           Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+Fig. 6. A. Plot showing the variation in the percentages of feldspar dissolution porosity with depth; B. Plot showing the variation in the percentages of quartz cement with depth. Based
+on point counting of 123 thin sections from 21 boreholes in the Es4 interval; C. Plot showing the variation in CO2 contents of natural gas with depth (40 data points from 11 Boreholes in
+Es4 interval).
+
+
+
+
+                                                                                                Fig. 8. Plots showing variations in percentages of authigenic kaolinite and illite in
+                                                                                                sandstones as a function of depth.
+
+
+Fig. 7. A. Cross-plot of contents of feldspar dissolution porosity versus distance to           major uplift event resulted in erosion and development of a regional
+sandstone-mudstone contact; B. Cross-plot of contents of quartz cements versus distance         unconformity, the Es4 interval was not exposed but was overlain by up
+to sandstone-mudstone contact.                                                                  to 1,800 m of lacustrine and ﬂuvial sediments. Based on Ro values,
+                                                                                                most of Es4s is within the liquid hydrocarbon window corresponding to
+5. Discussion                                                                                   reﬂectance values of 0.5–1.3%. In contrast, the lower parts of Es4x are
+                                                                                                within the gas generation window corresponding with reﬂectance
+5.1. Burial and thermal history                                                                 values of 1.3–2.0% (East et al., 2012).
+
+   Following deposition, the Eocene Es4 succession experienced rapid
+and continuous subsidence (Fig. 12) except for a major uplift event that                        5.2. The origin of feldspar dissolution
+occurred prior to deposition of the Guantao Formation. Although this
+                                                                                                    The presence of evaporite beds and black mudstones in the Eocene
+
+                                                                                           79
+B. Ma et al.                                                                                                       Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+                                                                                                of organic matter in adjacent source rocks as proposed by Surdam et al.
+                                                                                                (1989) and Morad et al. (2000). Highest concentrations of organic acid
+                                                                                                in pore ﬂuids occur in the temperature range of 80–120 °C (Surdam
+                                                                                                et al., 1989) resulting in extensive dissolution of the aluminosilicates.
+                                                                                                Moreover, maximum concentrations of CO2 in natural gas occur at
+                                                                                                depths of 2750–3750 m (Fig. 6C) that correspond with the highest
+                                                                                                abundances of feldspar dissolution porosity (Fig. 6A). Therefore, it is
+                                                                                                inferred that organic acids and CO2 derived from adjacent source rocks
+                                                                                                contribute to feldspar dissolution within sandstones.
+
+
+                                                                                                5.3. Characteristics of dissolution by-products
+
+                                                                                                    Feldspar is extensively dissolved in the Es4 interval and is spatially
+                                                                                                associated with inferred by-products such as authigenic quartz and
+                                                                                                clays (Fig. 5A, B, C). Dissolution of feldspar (e.g. K-feldspar) can be
+Fig. 9. Chemical compositions of albite cements in the Es4 interval (29 data points from        expressed by Eq. (1):
+3 boreholes in the Es4 interval of which 19 data points are pure albite).
+                                                                                                2KAiSi3O8 + 2 H + + H2O = Al2Si2O5(OH )4 + 2         K + + 4SiO2            (1)
+Table 1
+EDX analyses of albite cements in the Es4 interval.                                             where KAiSi3O8 is K-feldspar, Al2Si2O5(OH)4 is kaolinite, and SiO2 is
+                                                                                                quartz.
+  Well         Depth (m)       Strata      Molecular (%)                                             Quartz cements are sparsely developed in the Es4 interval (Fig. 6B)
+                                                                                                and occur as two populations of quartz overgrowths: the ﬁrst at
+                                           CaAl2Si2O8       NaAlSi3O8       KAlSi3O8
+                                                                                                temperatures of 110–120 °C and the second at160–170 °C
+  Y22–22       3508.1          Es4s        20.97            79.03           bdl                 (Fig. 10C). Potential important sources of quartz cements in these
+  Yong92       2968.77         Es4s        23.91            76.09           bdl                 systems include clay transformations in adjacent mudstones (Peltonen
+  Yong92       2968.77         Es4s        24.90            75.10           bdl                 et al., 2009), pressure solution of detrital grains (Harwood et al., 2013)
+  Yong92       2968.77         Es4s        19.18            80.82           bdl
+                                                                                                and feldspar dissolution (Worden and Morad, 2000). Within the Es4
+  Yong92       2968.77         Es4s        22.95            77.05           bdl
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 interval, feldspar dissolution is common and the scarcity of concavo-
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 convex or sutured contacts probably indicates that pressure solution
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 was not an important source of quartz cements. As the low concentra-
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+                                                                                                tions of silica in pore ﬂuids (typically < 65 ppm at 100 °C; Bjørlykke
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+                                                                                                and Jahren, 2012), it is not possible to transport silica over long
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 distances from external sources (Thyne, 2001; Bjørlykke and Jahren,
+  Yong92       2968.77         Es4s        7.59             92.41           bdl                 2012). Quartz cements do not show an increasing trend with depth and
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 have highest abundances at depths of 2750–3750 m (Fig. 6B) corre-
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+                                                                                                sponding with zones of extensive feldspar dissolution. Moreover, well
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 correlation between the contents of feldspar dissolution porosity and
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 quartz cements (Fig. 13), indicate one volume of dissolved feldspar
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 could approximately generate 0.48 vol of quartz cement. Mass balance
+  Yong92       2968.77         Es4s        bdl              100.00          bdl
+                                                                                                calculations demonstrate, one volume of dissolved K-feldspar grains
+  Yong92       2968.77         Es4s        26.44            73.56           bdl
+  Yong92       2968.77         Es4s        28.00            72.00           bdl
+                                                                                                produces 0.42 volumes of silica to forming quartz cement. Therefore,
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 most (if not all) of silica derived from K-feldspar dissolution was
+  Yong92       2968.77         Es4s        20.94            79.06           bdl                 precipitated in-situ or in adjacent pores (thin section scale) as quartz
+  Yong92       2968.77         Es4s        bdl              100.00          bdl                 cements within sandstones. The temperature range (80–120 °C) also is
+  Yong92       2968.77         Es4s        bdl              79.67           20.33
+                                                                                                consistent with the homogenization temperatures of ﬁrst-generation
+  Y22          3239.1          Es4s        bdl              100.00          bdl
+  Y22          3239.1          Es4s        bdl              100.00          bdl                 quartz overgrowths (110–120 °C) suggesting that authigenic quartz in
+  Y22          3239.1          Es4s        bdl              100.00          bdl                 the Es4 interval was derived from dissolution of feldspar. Probable
+                                                                                                sources for the late-stage quartz cements are feldspar dissolution by
+bdl=below detect limit.                                                                         organic CO2 derived from decarboxylation of organic acids at high
+                                                                                                temperatures (120–160 °C) (e.g. Surdam et al., 1989).
+Es4 interval has been used to suggest that early burial ﬂuids were                                   Authigenic kaolinite ﬁlling dissolved pores within feldspar (Fig. 5A,
+reducing and saline with little inﬂuence of meteoric water (Xu et al.,                          C) and spatially associated with quartz cements (Fig. 5F) probably
+2008). With rapid subsidence and quick depositional rates (Fig. 12),                            indicate it is formed synchronously with feldspar dissolution.
+the majority of lacustrine sediments has extremely short residence time                         Formation of kaolinite cement is dependent on availability of Al3+ in
+to exposure to meteoric water environment but is characterized by                               pore ﬂuids (Stoessell, 1987; Hayes and Boles, 1992). Solubility of
+relatively long residence time in reduced depositional environment.                             aluminum is extremely low, in general, and the content of aluminum in
+Evidence for anoxic and reduced environment during Es4 deposition is                            formation waters is typically less than 1 ppm (Bjørlykke and Jahren,
+provided by the black color of mudstones and the dark grey to grey                              2012). However, Al3+ derived from dissolved feldspar can complex with
+color of conglomerates, pebbly sandstones and sandstones (Ma et al.,                            carboxylic acids and result in an increase in aluminum solubility
+2016). Red beds are notably lacking. As discussed above, although a                             (Surdam et al., 1989). Resulting kaolinite is precipitated in-situ or in
+major uplift event occurred, the Eocene Es4 interval was still overlain                         adjacent pores in the Es4 interval. Illitization of kaolinite probably
+by thick lacustrine and ﬂuvial sediments. Therefore, meteoric waters                            occurred as evidenced by authigenic kaolinite replaced by authigenic
+had little impact on deep sublacustrine reservoirs in the Es4 interval.                         illite (Fig. 5F). Moreover, variation in proportions of authigenic
+    In the deep burial environment, the dissolution of feldspar is                              kaolinite and illite is a function of present burial depth (Fig. 8A, B)
+attributed to organic acids and CO2 derived from thermal maturation                             and indicate that kaolinite was converted to illite with increasing
+
+                                                                                           80
+B. Ma et al.                                                                                                     Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+Fig. 10. A-B. Photomicrographs of aqueous inclusions in quartz overgrowths; C. Histograms of homogenization temperatures of aqueous inclusions in quartz overgrowths in the Es4
+interval (48 data points from 7 boreholes). Q = Quartz grain, Qo = Quartz overgrowths, FIA = Fluid inclusion assemblage.
+
+
+Table 2
+Microthermometric data of aqueous fluid inclusions for quartz overgrowths in the Es4 interval.
+
+  Well                Depth (m)            Strata            Th (°C)           FIA               Well            Depth (m)            Strata           Th (°C)           FIA
+
+  Yong92              2971.92              Es4s              116               1                 Yong928         3844.75              Es4s             147               1
+  Yong92              2971.92              Es4s              126               1                 F8              4199.51              Es4x             122               1
+  Yong92              2971.92              Es4s              123               1                 F8              4199.51              Es4x             129               1
+  Yong92              2971.92              Es4s              153               2                 F8              4199.51              Es4x             161               2
+  Yong92              2971.92              Es4s              161               2                 F8              4199.51              Es4x             166               2
+  Yong92              2971.92              Es4s              136               2                 F8              4199.51              Es4x             168               2
+  YX21                3137.7               Es4s              115               1                 FS3             4867                 Es4x             170               1
+  YX21                3137.7               Es4s              113               1                 FS3             4867                 Es4x             174               1
+  YX21                3137.7               Es4s              116               1                 FS3             4867                 Es4x             165               1
+  YX21                3137.7               Es4s              112               2                 FS3             4867                 Es4x             172               2
+  YX21                3137.7               Es4s              114               2                 FS3             4867                 Es4x             186               2
+  YX21                3137.7               Es4s              100               2                 FS3             4867                 Es4x             178               2
+  YX21                3137.7               Es4s              153               3                 FS3             4867                 Es4x             176               2
+  YX21                3137.7               Es4s              157               3                 FS3             4867                 Es4x             146               3
+  Y22                 3239.1               Es4s              98                1                 FS3             4867                 Es4x             153               3
+  Y22                 3239.1               Es4s              101               1                 FS3             4867                 Es4x             158               3
+  Y22                 3239.1               Es4s              110               1                 FS3             4867                 Es4x             152               3
+  Y22                 3239.1               Es4s              105               1                 FS3             4867                 Es4x             161               4
+  Y22–22              3444.4               Es4s              153               1                 FS3             4867                 Es4x             168               4
+  Y22–22              3444.4               Es4s              160               1                 FS3             4867                 Es4x             162               4
+  Y22–22              3444.4               Es4s              149               1                 FS3             4867                 Es4x             166               4
+  Yong928             3844.75              Es4s              178               1                 FS3             4867                 Es4x             173               5
+  Yong928             3844.75              Es4s              184               1                 FS3             4867                 Es4x             180               5
+  Yong928             3844.75              Es4s              175               1                 FS3             4867                 Es4x             181               5
+
+
+
+burial. At greater depth ( > 130 °C, e.g. Morad et al., 2000; Bjørlykke                       by-product of feldspar dissolution. At low temperature, kaolinite would
+and Jahren, 2012), the presence of K-feldspar will increase the ratio of                      be more stable. With increasing temperature, the acidity of pore ﬂuids
+K+: H+ and move the pore water from the stability of kaolinite to that of                     decreases and the ratio of Na+: H+ increases. As a result, the stability
+illite (Fig. 14). Illitization of kaolinite can be expressed by Eq. (2):                      ﬁeld of kaolinite is much reduced (Fig. 14) and could react with silica to
+                                                                                              form albite as expressed by Eq. (3):
+KAiSi3O8 + Al 2Si2O5(OH )4 = KAl3Si3O10(OH )2 + 2SiO2 + H2O                        (2)
+                                                                                              Al2Si2O5(OH )4 + 2Na+ + 4SiO2 = NaAiSi3O8 + 2         H + + H2O                (3)
+where KAl3Si3O10(OH)2 is illite.
+   Replacement of dissolved plagioclase and K-feldspar grains by                              where NaAiSi3O8 is albite. Combining Eq. (1) with Eq. (3), the resulting
+authigenic albite (Fig. 5G, H) demonstrates authigenic albite is another                      Eq. (4) can be expressed as below:
+
+                                                                                         81
+B. Ma et al.                                                                                                        Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+                                                                                                 temperature, the acidity of pore ﬂuids decreases and the ratio of K+:H+
+                                                                                                 and Na+:H+ increases respectively. Therefore, the early-formed dis-
+                                                                                                 solution by-products will be transformed to authigenic illite and albite.
+                                                                                                 They are more stable and can coexist at higher temperature (Fig. 5I).
+
+                                                                                                 5.4. Transport mechanism for feldspar dissolution
+
+                                                                                                     The reaction rate between the crystal and the pore ﬂuids is of
+                                                                                                 critical impact on the mass transport process (e.g. Aagaard and
+                                                                                                 Helgeson, 1982; Giles, 1987). In the deep burial environment, the
+                                                                                                 reaction rate of feldspar dissolution is greater than the rate of transport
+                                                                                                 away from the crystal surface. With increasing temperature, the
+                                                                                                 increase in reaction rates will make the dissolved solids more con-
+                                                                                                 centrated around the crystals and set up steep concentration gradients
+                                                                                                 between the crystals and pore ﬂuids (Fig. 15). Consequently, the
+  Fig. 11. Cross-plot of core porosity and permeability for Eocene Es4 sandstones.
+                                                                                                 dissolved solids are typically driven by diﬀusion and result in dissolu-
+                                                                                                 tion by-products (e.g. authigenic quartz and kaolinite) precipitated in-
+                                                                                                 situ or in adjacent pores. Diﬀusion is considered to have been the
+                                                                                                 predominant transport mechanism for dissolved solids over short
+                                                                                                 distances (e.g. thin-section scale) at low ﬂow velocity as noted by other
+                                                                                                 authors (e.g. Giles, 1987; Bjørlykke, 1998; Ahmed, 2002). Moreover,
+                                                                                                 the close spatial association between feldspar dissolution and authi-
+                                                                                                 genic quartz cementation well removed from sandstone-mudstone
+                                                                                                 contacts (Fig. 7A, B) demonstrates that dissolved silica was transported
+                                                                                                 very short distances (several centimeters) and this process is consistent
+                                                                                                 with slow diﬀusive transport (e.g. Mullis, 1992).
+
+                                                                                                 5.5. Impact of feldspar dissolution on reservoir quality
+
+                                                                                                      Formation of secondary porosity related to feldspar dissolution is
+                                                                                                 widely considered to enhance reservoir quality (e.g. Mansurbeg et al.,
+                                                                                                 2008; Rahman and McCann, 2012) but, in the Eocene Es4 interval, the
+                                                                                                 by-products of feldspar dissolution (e.g. authigenic quartz, kaolinite,
+                                                                                                 illite and albite cements) precipitated in-situ or in adjacent pores. As
+Fig. 12. Burial history plot for Well FS1 showing isotherms and vitrinite reﬂectance (Ro)        discussed above, feldspar dissolution in the Eocene Es4 interval
+data.                                                                                            occurred in the deep burial environment. Large-scale of mass transfer
+                                                                                                 probably could not occur due to strong heterogeneities in the deeply
+                                                                                                 buried tight sandstones. Moreover, based on mass balance calculations,
+                                                                                                 silica derived from K-feldspar dissolution could mostly re-precipitated
+                                                                                                 as quartz cements within sandstone reservoirs. Therefore, the net
+                                                                                                 porosities created by feldspar dissolution were insigniﬁcant.
+                                                                                                      The correlation between core porosity and core permeability of
+                                                                                                 sandstones with diﬀerent percentages of feldspar dissolution porosity
+                                                                                                 can be adopted to estimate the inﬂuence of feldspar dissolution on
+                                                                                                 reservoir permeability (Giles and de Boer, 1990). The long-axis slope
+                                                                                                 for these three ellipses increases (K1 > K2 > K3) as feldspar dissolution
+                                                                                                 porosity decreases (Fig. 16). Sandstone samples with the same core
+                                                                                                 porosity but more percentage of feldspar dissolution porosity favor to
+                                                                                                 have lower permeability (Fig. 16). The reason for this phenomenon is
+                                                                                                 that, with increasing burial, pore types were changed from primary
+                                                                                                 macropores to secondary pores and micropores by the precipitation of
+                                                                                                 authigenic quartz, kaolinite, albite, and especially by conversion of
+      Fig. 13. Cross-plot of feldspar dissolution porosity versus quartz cement.                 kaolinite to hair-like illite at higher temperatures. The sum result of
+                                                                                                 these processes was the reduction of reservoir permeability.
+KAiSi3O8 + Na+ = NaAiSi3O8 + K +                                                     (4)
+                                                                                                 6. Conclusions
+    It is demonstrated that, as K-feldspar (or plagioclase) was dissolved
+progressively, K+(or Ca2+) ions could be substituted by Na+ ions and                                 Feldspar dissolution has a critical impact on reservoir quality as
+this process resulted in precipitation of pure albite (Fig. 9). In addition,                     exempliﬁed by tight gas sandstone reservoirs in the Eocene Es4 interval
+the source of sodium probably is derived from dissolution of plagio-                             in the Dongying Depression, Bohai Bay Basin, China. This study has
+clase grains which consist of certain percentage of albite (e.g.                                 demonstrated that:
+Mansurbeg et al., 2008). Pore-waters also are a signiﬁcant source of
+sodium for albitization particularly where associated with evaporites                            (1) The Eocene Es4 sandstones in the Dongying Depression pertain to
+(e.g. halite) such as in Es4x.                                                                       typical tight gas reservoirs with a range of porosity from 0.4–
+    In general, at the initial stage of feldspar dissolution, dissolution by-                        17.6% (ave. 6.7%) and permeability from 0.001 to 29.51 mD (ave.
+products are authigenic quartz and kaolinite (Fig. 5C). With increasing                              0.94 mD).
+
+                                                                                            82
+B. Ma et al.                                                                                                            Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+
+
+   Fig. 14. Activity diagram showing the stability ﬁelds of kaolinite are reduced with increasing temperature (modiﬁed from Bjørlykke, 2014). Q Sat refers to quartz saturation.
+
+
+
+
+Fig. 15. Transport mechanism for feldspar dissolution reaction (adapted from Giles, 1987). R refers to radial distance from crystal surface; Cbulk refers to concentration in the bulk pore
+ﬂuid.
+
+
+                                                                                                     dominated by diﬀusion and result in dissolution by-products
+                                                                                                     precipitated in-situ or in adjacent pores. Mass balance calculations
+                                                                                                     demonstrate most of silica derived from K-feldspar dissolution was
+                                                                                                     precipitated as quartz cements within sandstone reservoirs.
+                                                                                                 (4) Formation of secondary porosity related to feldspar dissolution is
+                                                                                                     spatially with the by-products (e.g. authigenic quartz, kaolinite,
+                                                                                                     illite and albite cements) precipitated in-situ or in adjacent pores.
+                                                                                                     The net porosities created by feldspar dissolution were insignif-
+                                                                                                     icant. Reservoir permeability was reduced signiﬁcantly by precipi-
+                                                                                                     tation of dissolution by-products, especially by conversion of
+                                                                                                     kaolinite to hair-like illite at higher temperatures.
+
+                                                                                                 Acknowledgments
+
+                                                                                                     This research was ﬁnancially supported by the National Natural
+                                                                                                 Science Foundation of China (41102058), Key Program for National
+                                                                                                 Natural Science Foundation of China (U1262203), National Oil & Gas
+                                                                                                 Major Project of China (2011ZX05006-003), and an Excellent Doctoral
+                                                                                                 Dissertation award supported by China University of Petroleum
+                                                                                                 (LW140101A). Benben Ma thanks the China Scholarship Council
+Fig. 16. Cross-plot of core porosity and permeability with diﬀerent percentages of
+                                                                                                 (CSC) for supporting his one year research stay in the U.S.A.
+feldspar dissolution porosity.
+
+                                                                                                 References
+(2) Feldspar dissolution in the Eocene Es4 interval in Dongying
+    Depression is mainly attributed to organic acids and CO2 derived
+                                                                                                 Aagaard, P., Helgeson, P.C., 1982. Thermodynamic and kinetic constraints on reaction
+    from adjacent source rocks in deep burial environment. Feldspar                                  rates among minerals and aqueous solutions. I. Theoretical considerations. Am. J.
+    dissolution is spatially associated with dissolution by-products. At                             Sci. 282, 237–285.
+    the initial stage of feldspar dissolution, dissolution by-products are                       Ahmed, W., 2002. Diagenesis and mass transfer between Permo-Triassic sandstones and
+                                                                                                     interbedded mudstones, Ulster Basin. Bull. Chem. Soc. Ethiop. 16, 9–35.
+    authigenic quartz and kaolinite. With increasing temperature, the                            Bjørlykke, K., 1998. Clay mineral diagenesis in sedimentary basins a key to the prediction
+    early-formed dissolution by-products will be transformed to                                      of rock properties: examples from the North Sea Basin. Clay Miner. 33, 15–34.
+    authigenic illite and albite.                                                                Bjørlykke, K., 2010. Petroleum geoscience: from sedimentary environments to rock
+                                                                                                     physics. Springer Verlag, New York, 507.
+(3) The main transport mechanism for feldspar dissolution is pre-                                Bjørlykke, K., 2014. Relationships between depositional environments, burial history and
+
+
+                                                                                            83
+B. Ma et al.                                                                                                                Journal of Petroleum Science and Engineering 150 (2017) 74–84
+
+
+     rock properties. Some principal aspects of diagenetic process in sedimentary basins.                M.A., Amorosi, A., Garcia, D., Iglesia, A.L., 2008. Diagenesis and reservoir quality
+     Sediment. Geol. 301, 1–14.                                                                          evolution of palaeocene deep-water, marine sandstones, the Shetland-Faroes Basin,
+Bjørlykke, K., Jahren, J., 2012. Open or closed geochemical systems during diagenesis in                 British continental shelf. Marine Pet. Geol. 25, 514–543.
+     sedimentary basins: constraints on mass transfer during diagenesis and the                      Morad, S., Ketzer, J.M., Deros, L.F., 2000. Spatial and temporal distribution of diagenetic
+     prediction of porosity in sandstone and carbonate reservoirs. AAPG Bull. 96,                        alterations in siliciclastic rocks: implications for mass transfer in sedimentary basin.
+     2193–2214.                                                                                          Sedimentology 47, 95–120.
+Chuhan, F., Bjørlykke, K., Lowrey, C.J., 2001. Closed-system burial diagenesis in                    Mullis, A.M., 1992. A numerical model for porosity modiﬁcation at a sandstone-
+     reservoir sandstones: example from the Garn Formation at Haltenbanken area,                         mudstone boundary by quartz pressure dissolution and diﬀusive mass transfer.
+     oﬀshore Mid-Norway. J. Sediment. Res. 71, 15–26.                                                    Sedimentology 39, 99–107.
+Dickson, J.A., 1965. Carbonate identiﬁcation and genesis as revealed by staining. J.                 Peltonen, C., Marcussen, Ø., Bjørlykke, K., Jahren, J., 2009. Clay mineral diagenesis and
+     Sediment. Pet. 27, 107–118.                                                                         quartz cementation in mudstones: the eﬀects of smectite to illite reaction on rock
+Dong, W., Lin, C.S., Eriksson, K.A., Zhou, X.H., Liu, J.Y., Teng, Y.B., 2011. Depositional               properties. Marine Pet. Geol. 26, 887–898.
+     systems and sequence architecture of the Oligocene Dongying Formation, Liaozhong                Qiu, N.S., Li, S.P., Zeng, J.H., 2004. Thermal history and tectonic-thermal evolution of
+     Depression, Bohai Bay Basin, northeast China. AAPG Bull. 95, 1475–1493.                             the Jiyang Depression in the Bohai Bay Basin, East China. Acta. Geol. Sin. 78,
+East, J.A., Swezey, C.S., Repetski, J.E., Hayba, D.O., 2012. Thermal maturity map of                     263–269, (In Chinese with English Abstract).
+     Devonian shale in the Illinois, Michigan, and Appalachian basins of North America.              Rahman, M.J., McCann, T., 2012. Diagenetic history of the Surma Group sandstones
+     USA. Geological Survey Scientiﬁc Investigations Map. 1 sheet 3214.                                  (Miocene) in the Surma Basin, Bangladesh. J. Asian Earth Sci. 45, 65–78.
+Falvey, D.A., Middleton, M.F., 1981. Passive continental margins: evidence for a pre-                Ren, J., Zhang, L., Ezekiel, J., Ren, S., Meng, S., 2014. Reservoir characteristics and
+     breakup deep crustal metamorphic subsidence mechanism. 26th International                           productivity analysis of tight sand gas in Upper Paleoz oic Ordos Basin China. J. Nat.
+     Geophysical Congress, Colloquia C3.3. Geol. Cont. Margins. Oceanol. Acta 4,                         Gas Sci. Eng. 19, 244–250.
+     103–114.                                                                                        Schmidt, V., Mcdonald, D.A., 1979. The role of secondary porosity in the course of
+Folk, R.L., 1974. Petrology of Sedimentary Rocks. Hemphill Press, Texas, 182.                            sandstone diagenesis. SEPM Spec. Publ. 26, 175–207.
+Giles, M.R., 1987. Mass transfer and problems of secondary porosity creation in deeply               Song, G.Q., Jiang, Y.L., Liu, H., Cai, D.M., 2009. Pooling history of cracked gas in middle-
+     buried hydrocarbon reservoirs. Marine Pet. Geol. 4, 188–204.                                        deep reservoirs in Lijin-Minfeng areas of the Dongying sag. Nat. Gas Ind. 29,
+Giles, M.R., de Boer, R.B., 1990. Origin and signiﬁcance of redistributional secondary                   14–17, (In Chinese with English Abstract).
+     porosity. Marine Pet. Geol. 7, 378–396.                                                         Song, M.S., Li, C.L., Zhang, J.L., 2012. Fine division and correlation of conglomerate
+Goldstein, R.H., 2001. Fluid inclusions in sedimentary and diagenetic systems. Lithos 55,                sedimentary cycles in Yanjia area of Dongying depression. Acta Pet. Sin. 33,
+     159–193.                                                                                            781–788, (in Chinese with English abstract).
+Goldstein, R.H., Reynolds, T.J., 1994. Systematics of ﬂuid inclusions in diagenetic                  Stoessell, R.K., 1987. Mass transport in sandstones around dissolving plagioclase grains.
+     minerals. SEPM Short Course 31, 199.                                                                Geology 15, 295–298.
+Guo, X.W., He, S., Liu, K.Y., Song, G.Q., Wang, X.J., Shi, Z.S., 2010. Oil generation as the         Surdam, R.C., Crossly, L.J., Hagen, E.S., Heasler, H.P., 1989. Organic-inorganic
+     dominant overpressure mechanism in the Cenozoic Dongying Depression, Bohai Bay                      interactions and sandstone diagenesis. AAPG Bull. 73, 1–23.
+     Basin, China. AAPG Bull. 94, 1859–1881.                                                         Thyne, G., 2001. A model for diagenetic mass transfer between adjacent sandstone and
+Harwood, J., Aplin, A.C., Fialips, C.I., Iliﬀe, J.E., Kozdon, R., Ushikubo, T., Valley, J.W.,            shale. Marine and Petroleum Geology 18, 743–755.
+     2013. Quartz cementation history of sandstones revealed by high-resolution SIMS                 Wan, N., Wang, Y., Cao, Y., Song, G., 2010. Overpressured ﬂuid compartment and
+     oxygen isotope analysis. J. Sediment. Res. 83, 522–530.                                             hydrocarbon accumulation of deep layer of Es4 in the north zone of Minfeng Sag,
+Hayes, M.J., Boles, J.R., 1992. Volumetric relationships between dissolved plagioclase                   Dongying Depression. Acta Sedmentol. Sin. 28,
+     and kaolinite in sandstones: implications for aluminum mass transfer in the San                     395–400, (In Chinese with English Abstract).
+     Joaquin Basin, California. In: Origin, Diagenesis, and Petrophysics of Clay Minerals            Wang, Y., Cao, Y., Ma, B., Liu, H., Gao, Y., Chen, L., 2014. Mechanism of diagenetic trap
+     in Sandstones 47. SEPM Special Publication, Tslua, Okla., United States, 111–123.                   formation in nearshore subaqueous fans on steep rift lacustrine basin slopes-A case
+Higgs, K.E., Zwingmann, H., Reyes, A.G., Funnell, R.H., 2007. Diagenesis, porosity                       study from the Shahejie Formation on the north slope of the Minfeng Subsag, Bohai
+     evolution, and petroleum emplacement in tight gas reservoirs, Taranaki basin, New                   Basin, China. Petroleum. Sciences 11, 481–494.
+     Zealand. J. Sediment. Res. 77, 1003–1025.                                                       Worden, R.H., Morad, S., 2000. Quartz cementation in oil ﬁeld sandstones: a review of
+Jiang, S., Henriksen, S., Wang, H., Lu, Y.C., Ren, J.Y., Cai, D.S., Feng, Y.L., Weimer, P.,              the key controversies. Spec. Publi. Int. Assoc. Sedimentol. 29, 1–20.
+     2013. Sequence-stratigraphic architectures and sand-body distribution in Cenozoic               Xu, L., Cao, Y., Wang, Y., Huang, L., 2008. Genetic model of salt-gypsum rock of
+     rifted lacustrine basins, east China. AAPG Bull. 97, 1447–1475.                                     Paleogene in Dongying depression and its relationship with hydrocarbon reservoir. J.
+Lai, J., Wang, G., Ran, Y., Zhou, Z., 2015. Predictive distribution of high-quality                      China Univ. Pet. 32, 30–35, (in Chinese with English abstract).
+     reservoirs of tight gas sandstones by linking diagenesis to depositional facies:                Zhu, G.Y., Gu, L.J., Su, J., Dai, J.X., Ding, W.L., Zhang, J.C., Song, L.C., 2012.
+     Evidence from Xu-2 sandstones in the Penglai area of the central Sichuan basin                      Sedimentary association of alternated mudstones and tight sandstones in China's oil
+     China. J. Nat. Gas Sci. Eng. 23, 97–111.                                                            and gas bearing basins and its natural gas accumulation. J. Asian Earth Sci. 50,
+Ma, B., Cao, Y., Eriksson, K., Jia, Y., Wang, Y., 2016. Burial evolution of evaporites with              88–104.
+     implications for sublacustrine fan reservoir quality: a case study from the Eocene              Zou, C.N., Zhu, R.K., Liu, K.Y., Su, L., Bai, B., Zhang, X.X., Yuan, X.J., Wang, J.H., 2012.
+     Es4x interval, Dongying Depression, Bohai Bay Basin, China. Marine Pet. Geol. 76,                   Tight gas sandstone reservoirs in China: characteristics and recognition criteria. J.
+     98–114.                                                                                             Pet. Sci. Eng. 88, 82–91.
+Mansurbeg, H., Morad, S., Salem, A., Marﬁl, R., El-ghali, M.A.K., Nystuen, J.P., Caja,
+
+
+
+
+                                                                                                84
+
